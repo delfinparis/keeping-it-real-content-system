@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Top 1% Agent and YouTube Content Creator",
+    "company": "Keller Williams",
+    "production_level": "Top 1%, $20M+ in sales from YouTube in the last year",
+    "specialty": "YouTube-based lead generation",
+    "location": "North Metro Atlanta"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Transition from teaching to real estate",
+    "Building a real estate business without a local sphere",
+    "Creating evergreen content",
+    "Challenges and successes in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without a strong local sphere",
+      "solution_summary": "Utilizing YouTube to create value-driven content that answers questions potential clients have about moving to the area.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting YouTube viewers into clients",
+      "solution_summary": "Directing viewers to a contact form linked in the video description to capture leads and manage follow-ups.",
+      "timestamp": "40:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode is relevant because it provides a unique strategy for lead generation through YouTube, which can help agents stuck with traditional methods.",
+      "key_takeaway": "YouTube can be a powerful tool for generating high-intent leads by providing valuable, evergreen content."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you are only making social media video content for Instagram, Facebook, and TikTok, you are missing out. YouTube is where you absolutely need to be even above all those other platforms.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional focus on short-form social media content by highlighting the long-term benefits of YouTube.",
+      "suggested_hook": "Are you focusing on the wrong social media platforms for your real estate business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create one 10-15 minute YouTube video per week answering common questions about your area.",
+      "context": "Focus on providing value-driven content that addresses the needs of people moving to your area.",
+      "timestamp": "18:00"
+    },
+    {
+      "tactic": "Direct viewers to a contact form in the video description.",
+      "context": "Capture leads effectively by managing when and how you follow up with potential clients.",
+      "timestamp": "40:00"
+    }
+  ],
+  "quotable_insights": [
+    "You don't need a ton of views on your videos; you just need the right people to watch your videos."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for real estate recruiters to identify agents looking to move brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her journey from teaching to becoming a top real estate agent using YouTube as a primary lead generation tool. She discusses the importance of creating evergreen content that answers potential clients' questions and provides insights into how agents can convert YouTube viewers into high-intent leads. Sarah also highlights the benefits of focusing on YouTube over other social media platforms for long-term success.",
+  "_metadata": {
+    "source_file": "2025-08-25_item41_Sarah-Maslowski",
+    "analyzed_at": "2026-01-23T16:24:16.857133",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

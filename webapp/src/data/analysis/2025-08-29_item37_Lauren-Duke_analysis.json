@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Lauren Duke",
+    "title": "Top Real Estate Coach",
+    "company": "CoreOps Collective",
+    "production_level": "Former COO of a top 10 mega real estate team",
+    "specialty": "Scaling real estate businesses through systems and operations",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Scaling real estate businesses",
+    "Importance of systems and operations",
+    "Building and managing a real estate team",
+    "Time audits and productivity",
+    "Coaching and personal development for agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents struggling to scale their business due to lack of systems",
+      "solution_summary": "Implementing structured systems across five pillars: lead gen, operations, financials, client experience, and team support.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Agents not knowing how to effectively use their time",
+      "solution_summary": "Conducting a time audit to identify where time is spent and reallocating it towards high-impact activities.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents relying solely on hiring more agents to grow their business",
+      "solution_summary": "Focusing on culture fit and operational support rather than just increasing headcount.",
+      "timestamp": "05:15"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode provides insights into building and scaling a team effectively.",
+      "key_takeaway": "Focus on systems and culture fit to sustainably grow your team and business."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies for agents who feel overwhelmed by operational tasks.",
+      "key_takeaway": "Conduct a time audit to identify inefficiencies and implement systems to streamline operations."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:26",
+      "end_timestamp": "04:48",
+      "quote": "If you have a business that depends on you, you don't have a business, you have a job.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It challenges agents to rethink their business structure and the importance of delegating.",
+      "suggested_hook": "Are you running a business or just working a job?"
+    },
+    {
+      "timestamp": "12:30",
+      "end_timestamp": "13:03",
+      "quote": "Almost every top agent I have on the show has a coach.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a common success factor among top agents.",
+      "suggested_hook": "What's the secret weapon of top real estate agents?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Conduct a time audit",
+      "context": "To identify where your time is being spent and optimize for productivity.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Focus on culture fit when hiring",
+      "context": "Ensure new team members align with your values and business goals.",
+      "timestamp": "27:11"
+    }
+  ],
+  "quotable_insights": [
+    "If you have a business that depends on you, you don't have a business, you have a job.",
+    "Almost every top agent I have on the show has a coach."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Clockwork by Mike McAllemanns",
+      "context": "Recommended for understanding how to create a business that runs without you."
+    },
+    {
+      "type": "tool",
+      "name": "Pipeline Tracker",
+      "context": "A free resource on CoreOps Collective's website to help agents track their leads and business."
+    }
+  ],
+  "episode_summary": "In this episode, Lauren Duke discusses the importance of systems and operations in scaling a real estate business. She emphasizes conducting time audits to improve productivity and highlights the need for culture fit when building a team. Lauren also shares insights on the value of coaching and how agents can benefit from structured support systems.",
+  "_metadata": {
+    "source_file": "2025-08-29_item37_Lauren-Duke",
+    "analyzed_at": "2026-01-23T16:26:48.339490",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

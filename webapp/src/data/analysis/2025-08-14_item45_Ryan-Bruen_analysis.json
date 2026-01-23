@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Ryan Bruen",
+    "title": "Team Lead",
+    "company": "The Bruin Team",
+    "production_level": "Number one Coldwell Banker team in Morris and Somerset counties",
+    "specialty": "Luxury Home Marketing Specialist",
+    "location": "Morris and Somerset counties, New Jersey"
+  },
+  "main_topics": [
+    "Building relationships with clients",
+    "Challenges in the current real estate market",
+    "Smart home technology",
+    "Proactive client communication",
+    "Systematizing real estate processes"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory and high interest rates affecting motivation to move",
+      "solution_summary": "Focus on understanding client motivations and provide solutions that address lifestyle needs rather than just financial incentives.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Implement personalized and proactive communication strategies, such as sending alerts about neighborhood activity and personal check-ins.",
+      "timestamp": "40:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on building a sustainable real estate business through relationship management and proactive communication.",
+      "key_takeaway": "Focus on creating long-term relationships with clients and use technology to stay ahead of their needs."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:30",
+      "end_timestamp": "21:15",
+      "quote": "If it's important to them, it's important. I've had certain clients where the one spouse says, 'excuse my husband or wife, they're going to have all these dumb questions about things that are not important,' and I have to explain that if it's something they're worried about, then it's important.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of empathy and understanding client concerns, which resonates with many agents.",
+      "suggested_hook": "Why every client question matters more than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set up automated alerts for client neighborhoods to stay informed about local market activity.",
+      "context": "Use these alerts to proactively inform clients about new listings or sales in their area.",
+      "timestamp": "48:00"
+    },
+    {
+      "tactic": "Use smart home technology to enhance client showings and personal home experiences.",
+      "context": "Implement voice-activated systems to create a welcoming environment for showings.",
+      "timestamp": "36:00"
+    }
+  ],
+  "quotable_insights": [
+    "There's no such thing as a bad real estate investment. It's just a varying amount of time you have to hold onto that piece of real estate before it becomes a good investment."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive sales and marketing solution for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Described as a recruiting and retention tool powered by AI to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Ryan Bruen discusses the importance of building long-term client relationships in real estate. He shares insights on navigating current market challenges, such as low inventory and high interest rates, by focusing on client motivations. Ryan also emphasizes the use of smart home technology and proactive communication to enhance client experiences and maintain connections.",
+  "_metadata": {
+    "source_file": "2025-08-14_item45_Ryan-Bruen",
+    "analyzed_at": "2026-01-23T16:21:55.266399",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

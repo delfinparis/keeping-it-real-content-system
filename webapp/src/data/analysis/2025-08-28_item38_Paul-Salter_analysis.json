@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Hypnosis and mindset coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Mindset and performance improvement",
+    "Overcoming complacency",
+    "Achieving elite performance",
+    "Balancing life priorities",
+    "Using discomfort as a catalyst for growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Settling for 'good enough' in personal and professional life",
+      "solution_summary": "Encourage honesty with oneself about potential and use discomfort as fuel for growth.",
+      "timestamp": "03:05"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of standing out and achieving more",
+      "solution_summary": "Recognize and embrace the fear of judgment and use it as motivation to stand out.",
+      "timestamp": "12:06"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode challenges the listener to move beyond complacency and strive for elite performance.",
+      "key_takeaway": "Being in the top 5% requires standing out and embracing discomfort as a catalyst for growth."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode addresses the feeling of having achieved enough and challenges listeners to reassess their potential.",
+      "key_takeaway": "Even when you feel you've done enough, there's always room for growth and improvement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:06",
+      "end_timestamp": "14:45",
+      "quote": "If you want what the 5% have, you must be willing to do what the 95% won't.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges listeners to push beyond the norm and strive for excellence.",
+      "suggested_hook": "Are you ready to do what the 95% won't?"
+    },
+    {
+      "timestamp": "21:06",
+      "end_timestamp": "21:42",
+      "quote": "Is good enough really good enough? Are you okay? Are you content at peace?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This moment encourages deep self-reflection and challenges complacency.",
+      "suggested_hook": "Is 'good enough' truly enough for you?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use discomfort as a catalyst for growth",
+      "context": "When feeling complacent, recognize discomfort as a sign to push for more.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Be honest with yourself about your potential",
+      "context": "Regularly assess if you're settling for less than you're capable of.",
+      "timestamp": "17:25"
+    }
+  ],
+  "quotable_insights": [
+    "Settling for good enough is costing you so much.",
+    "You can't be outstanding in every area of your life."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Suggested for real estate recruiters to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter challenges listeners to move beyond complacency and strive for elite performance. He discusses the importance of using discomfort as a catalyst for growth and being honest with oneself about potential. Salter provides insights into balancing life priorities and encourages listeners to embrace the fear of standing out as a path to achieving more.",
+  "_metadata": {
+    "source_file": "2025-08-28_item38_Paul-Salter",
+    "analyzed_at": "2026-01-23T16:26:10.251615",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

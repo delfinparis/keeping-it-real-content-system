@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Real estate agent coaching, video marketing",
+    "location": null
+  },
+  "main_topics": [
+    "Becoming a thought leader",
+    "Video marketing for real estate",
+    "Building personal brand",
+    "Public speaking opportunities",
+    "Content creation strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to be seen as a thought leader",
+      "solution_summary": "Position yourself as an expert by identifying a niche, creating relevant content, and actively seeking speaking opportunities.",
+      "timestamp": "00:03:01"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media",
+      "solution_summary": "Use structured and strategic video content to showcase your personality and attract clients.",
+      "timestamp": "00:03:24"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for becoming a recognized expert in the real estate field.",
+      "key_takeaway": "Identify your niche and consistently create content to establish yourself as a thought leader."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:09",
+      "end_timestamp": "00:08:50",
+      "quote": "Start building your own opportunities. You don't have to wait for someone to ask you.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages proactive behavior in establishing oneself as a thought leader.",
+      "suggested_hook": "Don't wait for opportunities to come to you—create them!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create content that aligns with your desired speaking topics.",
+      "context": "To be recognized as an expert, consistently share content on your chosen niche.",
+      "timestamp": "00:06:09"
+    },
+    {
+      "tactic": "Prepare thoroughly for every speaking opportunity.",
+      "context": "Practice your answers and know the questions you want to be asked.",
+      "timestamp": "00:08:53"
+    }
+  ],
+  "quotable_insights": [
+    "Dress for the job you want by talking about the things you want to be known for."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "RealGeeks.com",
+      "context": "Recommended as a tool for lead generation and conversion."
+    },
+    {
+      "type": "website",
+      "name": "Corded.io",
+      "context": "Suggested for recruiting and retaining real estate agents using AI."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares strategies for real estate agents to become thought leaders by leveraging video marketing and public speaking opportunities. She emphasizes the importance of identifying a niche, creating relevant content, and preparing thoroughly for every opportunity to establish oneself as an expert in the field.",
+  "_metadata": {
+    "source_file": "2025-08-21_item43_Kim-Rittberg",
+    "analyzed_at": "2026-01-23T16:22:31.743441",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
