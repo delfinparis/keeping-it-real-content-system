@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Eithan Davidov",
+    "title": "Team Leader",
+    "company": "Compass",
+    "production_level": "Over 100 transactions a year",
+    "specialty": "Residential and Investment Sales",
+    "location": "New York City, specifically Queens"
+  },
+  "main_topics": [
+    "Building a successful real estate team",
+    "Cold prospecting and lead generation",
+    "The impact of AI on real estate",
+    "Navigating market changes and regulations",
+    "Providing high-touch client service"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating new business in a competitive market",
+      "solution_summary": "Focus on cold prospecting, follow-up, and providing value to potential clients.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Changes in rental commission structures",
+      "solution_summary": "Adapt by understanding market demands and adjusting service offerings accordingly.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing a high volume of transactions",
+      "solution_summary": "Utilize a CRM to keep track of leads and client interactions efficiently.",
+      "timestamp": "28:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Eithan shares strategies for achieving high transaction volumes.",
+      "key_takeaway": "Cold prospecting and consistent follow-up are crucial for scaling your real estate business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on managing a team and maintaining high service standards.",
+      "key_takeaway": "Empower your team with training and systems to ensure consistent client service."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:25",
+      "end_timestamp": "06:05",
+      "quote": "Don't grow too fast. You don't want to bite off more than you can chew.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a succinct piece of advice that resonates with many entrepreneurs.",
+      "suggested_hook": "Are you trying to scale your business too quickly?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "22:45",
+      "quote": "The worst that happens is they say no, and you move the F on.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to overcome fear of rejection in prospecting.",
+      "suggested_hook": "Afraid of rejection? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use holiday messages to stay in touch with clients.",
+      "context": "Send personalized texts during major holidays to maintain relationships.",
+      "timestamp": "27:00"
+    },
+    {
+      "tactic": "Leverage AI to streamline communication.",
+      "context": "Use AI tools to draft emails and manage client interactions efficiently.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "Can I add value? That's literally the way that I've been able to get business.",
+    "You should never be afraid because the worst that happens is they say no."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Compass CRM",
+      "context": "Used to manage leads and client interactions effectively."
+    }
+  ],
+  "episode_summary": "In this episode, Eithan Davidov shares his journey from a finance graduate to leading a successful real estate team in New York City. He discusses the importance of cold prospecting, providing value to clients, and adapting to market changes. Eithan also highlights the role of AI in streamlining business operations and maintaining high-touch client service.",
+  "_metadata": {
+    "source_file": "2025-11-18_item18_Eithan-Davidov",
+    "analyzed_at": "2026-01-23T11:33:26.961420",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Chase Craig",
+    "title": "Licensed Real Estate Agent and Coach",
+    "company": "City of Trees Real Estate and Real Estate Growth Network",
+    "production_level": "Over 6000 transactions, $2 billion in sales volume",
+    "specialty": "Building systems for scaling income while protecting time",
+    "location": "Boise, Idaho"
+  },
+  "main_topics": [
+    "Building and leveraging a real estate database",
+    "Importance of speed in client communication",
+    "Mentorship and continuous learning",
+    "Overcoming call reluctance",
+    "Giving value to clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not effectively using their database",
+      "solution_summary": "Focus on a smaller, more engaged list and treat them exceptionally well.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Call reluctance among agents",
+      "solution_summary": "Provide value by giving 'gold bars' instead of asking for business.",
+      "timestamp": "33:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents waiting to know everything before starting",
+      "solution_summary": "Take action and learn through doing, as perfection is the enemy of progress.",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with where to start and how to build a client base.",
+      "key_takeaway": "Start by building a small, high-quality database and focus on providing value."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may face call reluctance and need strategies to overcome it.",
+      "key_takeaway": "Shift focus from asking for business to providing valuable insights to clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "33:00",
+      "end_timestamp": "34:30",
+      "quote": "When you're calling your database, are you asking for money or are you handing out gold bars?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges agents to rethink their approach to client communication.",
+      "suggested_hook": "Are you giving your clients gold bars or just asking for money?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a database call script to identify who to keep in touch with.",
+      "context": "When building and maintaining your real estate database.",
+      "timestamp": "25:30"
+    },
+    {
+      "tactic": "Respond quickly to client inquiries, even if just to acknowledge them.",
+      "context": "To improve client satisfaction and increase conversion rates.",
+      "timestamp": "38:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on what you can control and influence, not just what concerns you.",
+    "Perfection is the enemy of progress."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "realestategrowth.network",
+      "context": "A free resource for daily growth and community building in real estate."
+    }
+  ],
+  "episode_summary": "Chase Craig shares insights on building a successful real estate business by focusing on a high-quality database, providing value to clients, and responding quickly to inquiries. He emphasizes the importance of mentorship and continuous learning, encouraging agents to take action and learn through doing rather than waiting for perfection.",
+  "_metadata": {
+    "source_file": "2025-10-24_item24_Chase-Craig",
+    "analyzed_at": "2026-01-23T11:29:29.276041",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

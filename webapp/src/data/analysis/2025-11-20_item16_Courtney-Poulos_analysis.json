@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Courtney Poulos",
+    "title": "Founder and Broker Owner",
+    "company": "Acme Real Estate",
+    "production_level": "Recognized as a leader by LA Business Journal",
+    "specialty": "Renovation Resale",
+    "location": "Los Angeles"
+  },
+  "main_topics": [
+    "AI tools in real estate",
+    "Challenges with MLS and private listings",
+    "The future of real estate brokerage models",
+    "Homeownership and creative financing",
+    "Industry reform and transparency"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Inequity in MLS and private listing networks",
+      "solution_summary": "Proposes a nationwide off-market open source listing service to level the playing field.",
+      "timestamp": "54:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Access to homeownership for first-time buyers",
+      "solution_summary": "Discusses creative financing options like 50-year mortgages as a potential entry point.",
+      "timestamp": "36:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a competitive market",
+      "solution_summary": "Focus on crafting unique client experiences and maintaining high marketing standards.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Courtney discusses innovative marketing and branding strategies that can help agents stand out.",
+      "key_takeaway": "Develop a niche and focus on creating exceptional client experiences to differentiate yourself."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on managing a boutique brokerage and maintaining quality over quantity.",
+      "key_takeaway": "Prioritize hands-on management and agent training to ensure consistent client satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:54",
+      "end_timestamp": "07:10",
+      "quote": "I do the most. This is my first YouTube live. I'm excited.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Showcases Courtney's enthusiasm and adaptability, resonating with agents embracing new platforms.",
+      "suggested_hook": "Why embracing new platforms can energize your real estate career."
+    },
+    {
+      "timestamp": "46:08",
+      "end_timestamp": "46:30",
+      "quote": "The art of sales is not in my ability to sell. It's in the clients' ability or desire to trust me.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the traditional view of sales, emphasizing trust-building over selling.",
+      "suggested_hook": "Why trust is the real currency in real estate sales."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI tools like Auto Real App to enhance property marketing.",
+      "context": "Transform static images into engaging videos to capture buyer interest.",
+      "timestamp": "05:05"
+    },
+    {
+      "tactic": "Conduct secret shopper experiments to evaluate open house effectiveness.",
+      "context": "Send agents to open houses to gather data on agent interactions and client experiences.",
+      "timestamp": "21:20"
+    }
+  ],
+  "quotable_insights": [
+    "Crafting an experience is what we're known for. It's about the client feeling something visceral.",
+    "The reality is there's nothing in the MLS that my client cannot see on Redfin or Zillow."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Auto Real App",
+      "context": "Recommended for creating dynamic videos from static images to enhance real estate marketing."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered recruiting and retention tool for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Courtney Poulos discusses the importance of creating unique client experiences and maintaining high marketing standards to stand out in a competitive real estate market. She explores the potential of AI tools in enhancing property marketing and shares insights on industry reform, including the challenges with MLS and private listings. Courtney also advocates for creative financing options to increase access to homeownership.",
+  "_metadata": {
+    "source_file": "2025-11-20_item16_Courtney-Poulos",
+    "analyzed_at": "2026-01-23T11:34:22.021697",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

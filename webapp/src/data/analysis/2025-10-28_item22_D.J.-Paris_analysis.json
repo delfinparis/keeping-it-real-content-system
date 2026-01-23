@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Unknown Guest",
+    "title": "N/A",
+    "company": "N/A",
+    "production_level": "N/A",
+    "specialty": "N/A",
+    "location": "N/A"
+  },
+  "main_topics": [
+    "AI tools for real estate agents",
+    "Prompt engineering for better AI results",
+    "Recruitment strategies using AI",
+    "Building custom tools for client engagement",
+    "Remarketing strategies for real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Agents struggling to write effective AI prompts",
+      "solution_summary": "Developed a tool that provides pre-written, well-structured prompts for various real estate tasks.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Identifying agents looking to switch brokerages",
+      "solution_summary": "Using AI-powered recruitment tools to identify and contact agents likely to move.",
+      "timestamp": "01:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides tools and strategies to enhance productivity and lead generation.",
+      "key_takeaway": "Utilizing AI tools can significantly improve efficiency and effectiveness in real estate tasks."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "02:00",
+      "end_timestamp": "02:30",
+      "quote": "Corded's AI tells me exactly what to say based on that agent's needs and what my brokerage can offer.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific AI tool that provides actionable insights for recruitment.",
+      "suggested_hook": "Discover how AI can revolutionize your recruitment strategy!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI-generated prompts for crafting effective listing descriptions.",
+      "context": "When needing to create persuasive and unique property listings.",
+      "timestamp": "04:30"
+    },
+    {
+      "tactic": "Implement remarketing strategies using website tools.",
+      "context": "To target potential clients who have visited your website.",
+      "timestamp": "13:00"
+    }
+  ],
+  "quotable_insights": [
+    "A good prompt might be seven or eight sentences; it might be 15 sentences."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive solution for lead generation and management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Used for identifying and recruiting agents likely to switch brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, DJ Paris introduces a new AI tool designed to help real estate agents craft effective prompts for various tasks, enhancing productivity and lead generation. The episode also covers strategies for using AI in recruitment and remarketing, providing actionable insights for agents looking to leverage technology in their business.",
+  "_metadata": {
+    "source_file": "2025-10-28_item22_D.J.-Paris",
+    "analyzed_at": "2026-01-23T11:30:31.478377",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset coaching and hypnotherapy",
+    "location": null
+  },
+  "main_topics": [
+    "Work-life balance versus alignment",
+    "Consequences of imbalance",
+    "Importance of honest communication",
+    "Aligning actions with goals",
+    "Mindset shifts for sustainable success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "The myth of work-life balance and its consequences",
+      "solution_summary": "Shift focus from balance to alignment by being honest about your goals and aligning actions with them.",
+      "timestamp": "00:18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veterans often struggle with burnout from years of imbalance.",
+      "key_takeaway": "Seek alignment instead of balance to sustain long-term success and fulfillment."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:22:30",
+      "end_timestamp": "00:23:15",
+      "quote": "The goal here is not to seek balance in entrepreneurship. The bullshit concept that doesn't exist, you need to seek alignment.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional wisdom of work-life balance, offering a fresh perspective.",
+      "suggested_hook": "Is work-life balance a myth? Discover why alignment is the real key to success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set alarms to reflect on what you truly want.",
+      "context": "Use this tactic three times a day to gain clarity on your desires and align your actions.",
+      "timestamp": "00:25:20"
+    }
+  ],
+  "quotable_insights": [
+    "Alignment allows you to achieve significant and sustainable results.",
+    "Every single breakthrough begins with honest communication."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for real estate recruiters to identify agents likely to move."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Suggested for agents to improve lead conversion and business generation."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter challenges the conventional notion of work-life balance, advocating for alignment instead. He discusses the detrimental effects of imbalance and the importance of honest communication with oneself and others. Listeners are encouraged to align their actions with their true goals for sustainable success.",
+  "_metadata": {
+    "source_file": "2025-10-30_item20_Paul-Salter",
+    "analyzed_at": "2026-01-23T11:31:33.753180",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

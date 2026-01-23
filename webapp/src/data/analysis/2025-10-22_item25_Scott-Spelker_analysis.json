@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Scott Spelker",
+    "title": "Real Estate Agent",
+    "company": "Coldwell Banker",
+    "production_level": "Number one agent in his area",
+    "specialty": "Trust-building and client relations",
+    "location": "Madison, New Jersey"
+  },
+  "main_topics": [
+    "Establishing trust as a real estate agent",
+    "Effective marketing and branding strategies",
+    "Understanding the impact of interest rates",
+    "Providing value to clients",
+    "Transitioning careers into real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to establish trust with clients",
+      "solution_summary": "Be competent, communicate effectively, and avoid playing games with clients.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through personal branding",
+      "solution_summary": "Engage in community activities and advertise strategically to increase visibility.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Understanding the impact of Fed interest rate changes",
+      "solution_summary": "Educate clients that Fed rate changes don't directly correlate with mortgage rates.",
+      "timestamp": "41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a strong personal brand and establishing trust.",
+      "key_takeaway": "Focus on providing genuine value and building trust to differentiate yourself in the market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:02",
+      "end_timestamp": "06:30",
+      "quote": "Trust is about being competent and going the extra mile for your clients.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the importance of trust in client relationships.",
+      "suggested_hook": "How can you build trust with your clients as a real estate agent?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Brand your open house signs and place them strategically.",
+      "context": "Use personalized signs to increase visibility and create a perception of high activity.",
+      "timestamp": "08:12"
+    },
+    {
+      "tactic": "Engage in community activities that you enjoy.",
+      "context": "Build relationships naturally through shared interests, which can lead to future business.",
+      "timestamp": "06:42"
+    }
+  ],
+  "quotable_insights": [
+    "Providing value is about saving your clients money and ensuring they feel their investment in you is worthwhile."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Scott Spelker shares insights on building trust as a real estate agent by being competent and providing value. He discusses effective marketing strategies, the impact of interest rates, and how to differentiate yourself in a competitive market. Scott also shares personal stories from his transition from Wall Street to real estate, emphasizing the importance of branding and client relations.",
+  "_metadata": {
+    "source_file": "2025-10-22_item25_Scott-Spelker",
+    "analyzed_at": "2026-01-23T11:28:42.852774",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

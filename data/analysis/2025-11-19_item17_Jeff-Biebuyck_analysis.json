@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jeff Biebuyck",
+    "title": "Founding Member",
+    "company": "Frontgate Real Estate",
+    "production_level": "Top 1%",
+    "specialty": "Luxury properties",
+    "location": "Calabasas, Hidden Hills, Greater LA"
+  },
+  "main_topics": [
+    "Real estate technology and AI",
+    "Mindfulness and personal development",
+    "Market dynamics and challenges",
+    "Building and leading a successful team",
+    "Networking and relationship building"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating high-quality leads in a challenging market",
+      "solution_summary": "Utilize tools like Zillow Flex to diversify and expand market reach.",
+      "timestamp": "29:54"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with failure and setbacks",
+      "solution_summary": "Adopt a mindset of learning from mistakes and viewing failures as lessons.",
+      "timestamp": "04:28"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of high insurance costs on property sales",
+      "solution_summary": "Pivot to other markets and leverage technology to maintain sales volume.",
+      "timestamp": "28:54"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging technology and building relationships to succeed in luxury markets.",
+      "key_takeaway": "Embrace technology and build strong local networks to enhance your real estate business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Jeff discusses strategies for leading a large team and maintaining high service standards.",
+      "key_takeaway": "Focus on individual strengths and provide tailored support to each team member."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:28",
+      "end_timestamp": "05:57",
+      "quote": "Honestly, I think the best advice I've gotten is from the mistakes I've learned because otherwise it wouldn't have been good advice to myself.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This moment highlights the importance of learning from failures, a key mindset for growth.",
+      "suggested_hook": "Why your biggest failures might be your best teachers."
+    },
+    {
+      "timestamp": "28:54",
+      "end_timestamp": "30:16",
+      "quote": "Zillow honestly kind of helps save our team... we were able to diversify spread out across all of greater Los Angeles.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a real-world application of using a tool to overcome market challenges.",
+      "suggested_hook": "How Zillow Flex helped us pivot in a tough market."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Utilize AI tools for recruiting and retention",
+      "context": "Use AI to identify agents likely to move and tailor recruitment pitches.",
+      "timestamp": "01:32"
+    },
+    {
+      "tactic": "Build a local business directory for referrals",
+      "context": "Create a network of local businesses to exchange referrals and promote each other.",
+      "timestamp": "45:32"
+    }
+  ],
+  "quotable_insights": [
+    "Fail up and learn from every setback.",
+    "Build your tribe by focusing on relationships and providing value."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Jeff Biebuyck shares insights on leveraging technology and AI in real estate, the importance of mindfulness and learning from failures, and strategies for building a successful team. He discusses how to navigate market challenges, particularly in luxury markets, and the value of building strong local networks for lead generation and referrals.",
+  "_metadata": {
+    "source_file": "2025-11-19_item17_Jeff-Biebuyck",
+    "analyzed_at": "2026-01-23T11:33:55.073063",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

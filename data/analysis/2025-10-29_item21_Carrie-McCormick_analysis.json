@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "$300M+ producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, developers",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "End-of-year strategies for real estate success",
+    "Impact of interest rates on buyer activity",
+    "Importance of re-engaging with your database",
+    "Holiday marketing strategies",
+    "Preparing for 2026 in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Agents taking their foot off the gas in Q4",
+      "solution_summary": "Push hard in Q4 to set up success for the following year by re-engaging with your database and amplifying holiday marketing.",
+      "timestamp": "05:06"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Maintaining a strong online presence",
+      "solution_summary": "Double down on personal branding and SEO, audit online platforms, and ensure cohesive branding.",
+      "timestamp": "14:49"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling unique property features like wallpaper",
+      "solution_summary": "Evaluate whether to keep or remove based on the space; consider virtual staging to show potential buyers different options.",
+      "timestamp": "11:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for maximizing productivity and setting up for future success.",
+      "key_takeaway": "Use Q4 to re-engage with clients and plan for the next year to ensure growth and success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on how to motivate a team during slower periods and prepare for the upcoming year.",
+      "key_takeaway": "Encourage your team to maintain momentum in Q4 by focusing on client engagement and strategic planning."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:02",
+      "end_timestamp": "08:45",
+      "quote": "Re-engage with your database, especially during the holidays. This is the time to push on the gas and do a lot of marketing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific, actionable tactic that can be immediately implemented.",
+      "suggested_hook": "Don't let the holiday season slow you down—here's how to keep your real estate business thriving."
+    },
+    {
+      "timestamp": "14:49",
+      "end_timestamp": "15:30",
+      "quote": "Double down on your personal brand and SEO. Make sure you audit your online presence to see how you rank.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear action step for improving online visibility.",
+      "suggested_hook": "Is your online presence helping or hurting your business? Here's how to find out."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Re-engage with your database",
+      "context": "Use personal check-ins and market updates during the holiday season to maintain client relationships.",
+      "timestamp": "08:02"
+    },
+    {
+      "tactic": "Audit your current listings",
+      "context": "Evaluate listings that haven't moved and identify changes needed, such as pricing or staging.",
+      "timestamp": "08:45"
+    },
+    {
+      "tactic": "Amplify holiday marketing",
+      "context": "Use the emotional high of the holidays to connect with clients through visual and thematic content.",
+      "timestamp": "09:47"
+    }
+  ],
+  "quotable_insights": [
+    "What you do in Q4 sets you up for success in 2026.",
+    "Buyers are consuming information visually first, so make sure your online presence is top-notch."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to generate more business through effective lead conversion and CRM tools."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares strategies for real estate agents to maximize their productivity in Q4 and prepare for a successful 2026. Key topics include re-engaging with your database, amplifying holiday marketing, and maintaining a strong online presence. Carrie emphasizes the importance of using the end of the year to set the stage for future growth and success.",
+  "_metadata": {
+    "source_file": "2025-10-29_item21_Carrie-McCormick",
+    "analyzed_at": "2026-01-23T11:31:07.215951",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
