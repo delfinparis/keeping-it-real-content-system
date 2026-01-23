@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import Navigation from "@/components/Navigation";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -27,23 +28,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-50`}
       >
-        <nav className="bg-white border-b border-gray-200">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex justify-between h-16">
-              <div className="flex items-center">
-                <a href="/" className="text-xl font-bold text-gray-900">
-                  Keeping It Real
-                </a>
-                <span className="ml-2 text-sm text-gray-500">Episode Finder</span>
-              </div>
-              <div className="flex items-center space-x-4">
-                <a href="/problems" className="text-gray-600 hover:text-gray-900">Problems</a>
-                <a href="/avatars" className="text-gray-600 hover:text-gray-900">Who You Are</a>
-                <a href="/episodes" className="text-gray-600 hover:text-gray-900">All Episodes</a>
-              </div>
-            </div>
-          </div>
-        </nav>
+        <Navigation />
         {children}
       </body>
     </html>
