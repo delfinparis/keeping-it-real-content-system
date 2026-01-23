@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jay Cannone",
+    "title": "Top 1% Producer",
+    "company": "William Raveis",
+    "production_level": "Top 1% Producer",
+    "specialty": "Luxury Real Estate",
+    "location": "Fairfield County, Connecticut"
+  },
+  "main_topics": [
+    "Real Estate Marketing Strategies",
+    "Building Client Relationships",
+    "Personal Branding",
+    "Overcoming Personal Challenges",
+    "Community Involvement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a competitive market",
+      "solution_summary": "Develop a strong personal brand through consistent marketing and storytelling.",
+      "timestamp": "28:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Burnout from traditional sales methods",
+      "solution_summary": "Shift focus from cold calling to attraction-based marketing to prevent burnout.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Stay engaged with clients by treating them as friends and maintaining regular contact.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Jay shares how he transitioned from traditional sales methods to a more sustainable marketing approach.",
+      "key_takeaway": "Focus on building a personal brand and attraction marketing to rejuvenate your business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jay's journey from a new agent to a top producer offers insights into scaling a real estate business.",
+      "key_takeaway": "Consistent marketing and personal branding are key to reaching top producer status."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:05",
+      "end_timestamp": "06:30",
+      "quote": "Show up. Do the work. Be straight with your clients. And success will be inevitable.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a concise summary of Jay's core philosophy.",
+      "suggested_hook": "The secret to real estate success in one sentence."
+    },
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "28:30",
+      "quote": "Anybody who sends me these postcards as consistently as you've done for the past 10 months, that's who I want to work with.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the power of consistency in marketing.",
+      "suggested_hook": "Why consistency in marketing pays off big time."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use personal stories and testimonials in marketing materials.",
+      "context": "To build trust and connect with potential clients.",
+      "timestamp": "35:00"
+    },
+    {
+      "tactic": "Engage in community activities to build local presence.",
+      "context": "Participate in local events and organizations to strengthen community ties.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "Marketing is attracting; selling is convincing.",
+    "People do business with people they know, like, and trust."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Guerrilla Marketing by Jay Levinson",
+      "context": "Jay was featured in this book, highlighting his marketing strategies."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A recommended tool for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Jay Cannone shares his journey from a new agent to a top 1% producer, emphasizing the importance of personal branding and consistent marketing. He discusses overcoming personal challenges and the value of community involvement. Jay offers actionable insights on building client relationships and transitioning from traditional sales methods to a more sustainable marketing approach.",
+  "_metadata": {
+    "source_file": "2025-12-15_item8_Jay-Cannone",
+    "analyzed_at": "2026-01-23T10:59:20.946939",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

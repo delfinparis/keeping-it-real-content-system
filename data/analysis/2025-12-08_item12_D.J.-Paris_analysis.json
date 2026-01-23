@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "D.J. Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": "Real Estate Technology and Tools",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "AI-powered listing description tool",
+    "Real estate agent recruitment",
+    "Improving listing descriptions",
+    "Using AI for real estate marketing",
+    "Future AI tools for real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Ineffective listing descriptions",
+      "solution_summary": "Use an AI tool to enhance listing descriptions by running them through a seven-step editing process with various writing personas.",
+      "timestamp": "03:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Identifying agents looking to switch brokerages",
+      "solution_summary": "Utilize corded.io's AI-powered tool to identify agents likely to move and tailor recruitment pitches.",
+      "timestamp": "01:16"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode introduces tools that can enhance listing descriptions and improve sales performance.",
+      "key_takeaway": "Leveraging AI tools can significantly improve the quality of your listing descriptions and potentially increase sales."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses recruitment tools that can help identify agents looking to switch brokerages.",
+      "key_takeaway": "Using AI tools like corded.io can streamline the recruitment process and help retain top talent."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "03:02",
+      "end_timestamp": "04:45",
+      "quote": "I just sold my condo and I really wanted to utilize AI to write the very best possible listing description... I sold my home and my condo in two days.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the effectiveness of using AI tools in real estate, providing a real-world success story.",
+      "suggested_hook": "Discover how AI can help you sell your listings faster!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to enhance listing descriptions",
+      "context": "Apply this tactic by using the free tool at listing.joincale.com to improve your property descriptions.",
+      "timestamp": "03:02"
+    },
+    {
+      "tactic": "Identify potential recruits using AI",
+      "context": "Utilize corded.io to find agents looking to switch brokerages and tailor your recruitment strategy.",
+      "timestamp": "01:16"
+    }
+  ],
+  "quotable_insights": [
+    "I've never seen anything like it and I use it every single day.",
+    "I sold my home and my condo in two days... it sold for the highest amount that had ever been sold for a two-bedroom condo in my building."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective lead conversion and CRM tools."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Used for identifying agents likely to switch brokerages, aiding in recruitment and retention."
+    },
+    {
+      "type": "tool",
+      "name": "AI Listing Description Tool",
+      "context": "A free tool developed by D.J. Paris to improve listing descriptions using AI."
+    }
+  ],
+  "episode_summary": "In this episode, D.J. Paris introduces a new AI-powered tool designed to enhance real estate listing descriptions, potentially increasing sales performance. He also highlights corded.io, an AI tool for identifying agents likely to switch brokerages, aiding in recruitment efforts. The episode emphasizes the growing role of AI in real estate marketing and agent recruitment.",
+  "_metadata": {
+    "source_file": "2025-12-08_item12_D.J.-Paris",
+    "analyzed_at": "2026-01-23T10:55:58.375093",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

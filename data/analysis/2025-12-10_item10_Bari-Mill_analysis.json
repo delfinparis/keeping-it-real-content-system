@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Bari Mill",
+    "title": "Real Estate Agent",
+    "company": "Dawn McKenna Group, Coldwell Banker Realty",
+    "production_level": "$40M+ producer",
+    "specialty": "Chicago real estate, finance niche",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Mindset and Motivation",
+    "Lead Generation and Networking",
+    "Time Management and Productivity",
+    "Client Management and Service",
+    "Career Transition and Growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with rejection when clients choose other agents",
+      "solution_summary": "Focus on the next opportunity and don't dwell on lost business.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Building a client base from scratch",
+      "solution_summary": "Leverage personal and spouse's network, focus on niche markets like finance.",
+      "timestamp": "28:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining an updated CRM",
+      "solution_summary": "Set small daily goals to input client data regularly.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Bari's journey from starting in real estate to becoming a top producer in six years.",
+      "key_takeaway": "Focus on building a strong network and leveraging existing relationships."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Advice on managing early career challenges and focusing on growth.",
+      "key_takeaway": "Don't take rejections personally and always look for new opportunities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:00",
+      "end_timestamp": "07:00",
+      "quote": "Focus on what you do have, not on what you don't.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to maintain a positive outlook despite setbacks.",
+      "suggested_hook": "Feeling down about lost deals? Here's a mindset shift that can help."
+    },
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "29:00",
+      "quote": "Find a niche and leverage your network.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for new agents to build their business.",
+      "suggested_hook": "Struggling to find clients? Here's a strategy that worked wonders for Bari Mill."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Leverage your spouse's network for business opportunities.",
+      "context": "Especially useful if your spouse works in a high-income industry.",
+      "timestamp": "29:00"
+    },
+    {
+      "tactic": "Host client events and encourage them to bring friends.",
+      "context": "Use events as a way to expand your network and meet potential clients.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "You're lucky to be stressed because that means you have business.",
+    "The harder you work, the more money you can make."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "For lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For recruiting and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Bari Mill shares her journey from teaching to becoming a top real estate producer in Chicago. She discusses the importance of mindset, leveraging personal networks, and finding a niche market. Bari also highlights the significance of maintaining a positive attitude and the benefits of hosting client events to expand one's business.",
+  "_metadata": {
+    "source_file": "2025-12-10_item10_Bari-Mill",
+    "analyzed_at": "2026-01-23T10:58:11.996558",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

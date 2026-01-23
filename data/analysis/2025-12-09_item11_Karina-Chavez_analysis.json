@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Karina Chavez",
+    "title": "Real Estate Professional",
+    "company": "Keller Williams",
+    "production_level": "Top 1% Producer",
+    "specialty": "Helping investors and first-time home buyers",
+    "location": "Albuquerque"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Client care and retention strategies",
+    "Converting motels into affordable housing",
+    "Working with Hispanic clients",
+    "Importance of social media in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships and ensuring repeat business",
+      "solution_summary": "Karina emphasizes treating clients like family, maintaining regular contact, and providing value through gifts and personalized attention.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Addressing the lack of affordable housing",
+      "solution_summary": "Karina converts old motels into affordable housing units, providing a solution to community housing shortages.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without traditional marketing",
+      "solution_summary": "Karina relies entirely on referrals by providing exceptional service and maintaining strong relationships with past clients.",
+      "timestamp": "32:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a successful referral-based business.",
+      "key_takeaway": "Focus on building strong, personal relationships with clients to generate consistent referrals."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn the importance of client care and community involvement.",
+      "key_takeaway": "Start by building a database of contacts and focus on providing value to them."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:05",
+      "end_timestamp": "06:35",
+      "quote": "Best advice has been always answer your phone... you never know what you're going to get.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a simple yet effective tactic for maintaining client relationships.",
+      "suggested_hook": "Why answering your phone can transform your real estate business."
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:30",
+      "quote": "We provide electricity, water, internet... and a safe environment.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Showcases Karina's innovative approach to solving community problems.",
+      "suggested_hook": "Turning old motels into affordable housing: a real estate success story."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Regularly spoil clients with gifts and personal attention.",
+      "context": "Maintain strong client relationships and ensure repeat business.",
+      "timestamp": "14:00"
+    },
+    {
+      "tactic": "Convert old motels into affordable housing.",
+      "context": "Address community housing shortages and revitalize neighborhoods.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Treat your clients like family and they will become your family.",
+    "Change is inevitable in real estate; adapt or get left behind."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for recruiting and retention, identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Karina Chavez shares her journey of building a successful referral-based real estate business by treating clients like family and providing exceptional service. She discusses her innovative approach to converting motels into affordable housing, addressing community needs while maintaining a thriving business. Karina also emphasizes the importance of adapting to changes in the industry, particularly through the use of social media.",
+  "_metadata": {
+    "source_file": "2025-12-09_item11_Karina-Chavez",
+    "analyzed_at": "2026-01-23T10:56:29.748228",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

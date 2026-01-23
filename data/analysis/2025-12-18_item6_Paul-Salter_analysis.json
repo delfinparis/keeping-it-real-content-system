@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset coaching and performance improvement",
+    "location": null
+  },
+  "main_topics": [
+    "Taking things personally",
+    "Emotional regulation",
+    "Mindset shifts",
+    "Defensiveness in professional settings",
+    "Personal development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Taking things personally and being defensive",
+      "solution_summary": "Identify and acknowledge the pattern, regulate the nervous system, and shift from unconscious reaction to conscious response.",
+      "timestamp": "23:42"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the emotional exhaustion and defensiveness that can accumulate over a long career.",
+      "key_takeaway": "Understanding and addressing the root causes of defensiveness can improve professional relationships and personal well-being."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:08",
+      "end_timestamp": "12:45",
+      "quote": "When a behavior or something that is said by another person triggers you, it's a mirror of a part of yourself you don't like.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "This moment reveals a common psychological pattern that many people can relate to, making it a powerful insight.",
+      "suggested_hook": "Ever wonder why certain comments hit a nerve? It's not just about them—it's about you."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use the 'Four Ps' method: Pause, Process, Pivot, Proceed.",
+      "context": "Apply this method when you feel triggered to shift from reaction to response.",
+      "timestamp": "26:47"
+    }
+  ],
+  "quotable_insights": [
+    "Your triggers are your teachers if you choose to look inward with courage and curiosity."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Dark Side of the Light Chasers by Debbie Ford",
+      "context": "Recommended for understanding how triggers can be teachers and exploring shadow work."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the common pattern of taking things personally and how it affects professional and personal relationships. He provides insights into why this happens and offers actionable strategies to shift from unconscious reactions to conscious responses, ultimately improving emotional regulation and personal effectiveness.",
+  "_metadata": {
+    "source_file": "2025-12-18_item6_Paul-Salter",
+    "analyzed_at": "2026-01-23T11:00:04.222595",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

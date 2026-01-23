@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Michael Thornton",
+    "title": "Team Lead",
+    "company": "The Thornton Team at Keller Williams Premier Properties",
+    "production_level": "$30M+ annual volume",
+    "specialty": "Real estate investment and brokerage",
+    "location": "Wheaton, Illinois"
+  },
+  "main_topics": [
+    "Transition from corporate to real estate",
+    "Building a referral-based business",
+    "Leveraging AI in real estate",
+    "Team structure and management",
+    "Importance of professionalism and systems"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads as a new agent",
+      "solution_summary": "Utilize open houses, Facebook leads, and home valuation leads to kickstart your business.",
+      "timestamp": "21:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining consistency and professionalism",
+      "solution_summary": "Implement structured processes and clear communication to build trust and encourage referrals.",
+      "timestamp": "32:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable brand in a competitive market",
+      "solution_summary": "Position yourself as the 'mayor' of your local area by providing valuable community insights.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Michael shares his journey from corporate to top producer, offering insights into scaling a real estate business.",
+      "key_takeaway": "Focus on building systems and leveraging local expertise to become a trusted name in your market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Michael discusses his team structure and how to maintain high retention and satisfaction among team members.",
+      "key_takeaway": "Create a shared infrastructure that supports work-life balance and professional growth for team members."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:00",
+      "end_timestamp": "07:45",
+      "quote": "You can't get too high or too low in this business.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of maintaining emotional balance in real estate.",
+      "suggested_hook": "Why staying level-headed is crucial for real estate success."
+    },
+    {
+      "timestamp": "48:00",
+      "end_timestamp": "48:45",
+      "quote": "Ask AI how you can use it better.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a practical tip on leveraging AI for business growth.",
+      "suggested_hook": "Unlock the full potential of AI with this simple question."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to identify SEO opportunities and optimize your online presence.",
+      "context": "Ask AI to evaluate your online presence and suggest improvements.",
+      "timestamp": "47:00"
+    },
+    {
+      "tactic": "Host open houses strategically in high-traffic areas.",
+      "context": "Focus on locations near public transport and newly listed properties.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "In real estate, you can't get too high or too low.",
+    "Position yourself as the mayor of your local area to build a strong brand."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Used for generating SEO content and optimizing online presence."
+    }
+  ],
+  "episode_summary": "Michael Thornton shares his journey from corporate America to becoming a top real estate producer, emphasizing the importance of systems, professionalism, and leveraging AI. He offers insights into building a referral-based business and structuring a team that supports work-life balance while maintaining high standards of service.",
+  "_metadata": {
+    "source_file": "2025-12-16_item7_Michael-Thornton",
+    "analyzed_at": "2026-01-23T10:59:42.712915",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

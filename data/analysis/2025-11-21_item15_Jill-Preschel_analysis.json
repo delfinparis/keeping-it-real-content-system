@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jill Preschel",
+    "title": "Top Producer",
+    "company": "Surhan Group",
+    "production_level": "$2B+ in transactions",
+    "specialty": "Luxury and New Developments",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Real estate development representation",
+    "Luxury buyer psychology",
+    "Effective communication strategies",
+    "Agent coaching and development",
+    "Data-driven decision making"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "How to be chosen by developers to represent their developments",
+      "solution_summary": "Show up at developments, know your market, and demonstrate value by offering to help without expecting immediate compensation.",
+      "timestamp": "00:24:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling luxury buyers' unique needs",
+      "solution_summary": "Focus on aligning with their core needs like location and space, rather than pushing for a quick sale.",
+      "timestamp": "00:32:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Effective communication post-meetings",
+      "solution_summary": "Send summary emails after meetings to ensure clarity and alignment on next steps.",
+      "timestamp": "00:17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into breaking into luxury markets and working with developers.",
+      "key_takeaway": "Building relationships and showing up with value can open doors in the luxury and development sectors."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Jill discusses effective coaching and mentoring strategies for agents.",
+      "key_takeaway": "Creating a supportive and responsive environment can significantly enhance team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:00",
+      "end_timestamp": "00:05:45",
+      "quote": "Do it now and ask for forgiveness later is terrible advice. So much of what we do is nuanced and requires conversations before actions.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges a common piece of advice with a thoughtful perspective on the importance of communication.",
+      "suggested_hook": "Why 'ask for forgiveness later' is the worst advice in real estate."
+    },
+    {
+      "timestamp": "00:17:00",
+      "end_timestamp": "00:17:45",
+      "quote": "After a conversation, send a summary email to ensure everyone is on the same page.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a simple yet powerful tactic for improving communication and accountability.",
+      "suggested_hook": "The one email that can transform your client relationships."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send summary emails after meetings",
+      "context": "Use this tactic to ensure clarity and alignment with clients and partners.",
+      "timestamp": "00:17:00"
+    },
+    {
+      "tactic": "Show up at developments and offer help",
+      "context": "To break into the development market, demonstrate your value by being present and helpful.",
+      "timestamp": "00:24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Being nice gets you things.",
+    "It's not personal, move on."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Architecture of Happiness",
+      "context": "Inspired Jill's interest in how environments shape people."
+    },
+    {
+      "type": "tool",
+      "name": "AI note takers",
+      "context": "Used for capturing meeting details and ensuring nothing is missed."
+    }
+  ],
+  "episode_summary": "In this episode, Jill Preschel shares her journey in luxury real estate and offers insights into working with developers and luxury buyers. She emphasizes the importance of effective communication, showing up with value, and leveraging data to make informed decisions. Jill also highlights the benefits of being coachable and creating a supportive environment for agents.",
+  "_metadata": {
+    "source_file": "2025-11-21_item15_Jill-Preschel",
+    "analyzed_at": "2026-01-23T10:54:24.434936",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
