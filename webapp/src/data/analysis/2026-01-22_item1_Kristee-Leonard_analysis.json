@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kristee Leonard",
+    "title": "Top-Producing Real Estate Broker",
+    "company": "The Leaders Realty",
+    "production_level": "$50M+ producer",
+    "specialty": "Luxury Real Estate",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Work Ethic and Success",
+    "Real Estate Branding",
+    "Lead Generation Strategies",
+    "Balancing Personal and Professional Life",
+    "Using Social Media for Referrals"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Balancing work and personal life in real estate",
+      "solution_summary": "Kristee emphasizes the importance of being available for clients at all times and viewing work as an honor rather than a burden.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market",
+      "solution_summary": "Kristee suggests holding open houses and working rentals to build relationships and generate leads.",
+      "timestamp": "36:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a luxury brand while being approachable",
+      "solution_summary": "Kristee maintains a luxury brand by using professional marketing materials and being open to working with clients at all price points.",
+      "timestamp": "28:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into achieving high production levels through relentless work ethic and strategic branding.",
+      "key_takeaway": "Outwork the competition and maintain high standards to achieve success in real estate."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Kristee shares foundational strategies for new agents to generate leads and build a successful career.",
+      "key_takeaway": "Work every opportunity that comes your way and focus on building relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "I don't take that for granted... for someone to choose you, it is an honor.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the gratitude and dedication required in real estate.",
+      "suggested_hook": "Why every client is an honor to serve in real estate."
+    },
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "28:45",
+      "quote": "If you choose to take on that client, then you need to represent them just like if they were a multimillion dollar deal.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of consistent service quality.",
+      "suggested_hook": "The secret to maintaining a luxury brand in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hold open houses for other agents' listings to generate leads.",
+      "context": "When starting in a new market or looking to increase lead flow.",
+      "timestamp": "36:00"
+    },
+    {
+      "tactic": "Use professional marketing materials for all listings, regardless of price.",
+      "context": "To maintain a consistent luxury brand image.",
+      "timestamp": "28:00"
+    }
+  ],
+  "quotable_insights": [
+    "You don't have to be the smartest person in the room. You just have to outwork the smartest person in the room.",
+    "Failure was not an option, which I feel like was the greatest blessing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Kristee Leonard shares her journey from supporting her mother in real estate to becoming a top-producing broker in Austin. She discusses the importance of work ethic, maintaining a luxury brand, and being available for clients. Kristee offers practical advice on lead generation and emphasizes the value of treating every client with the same level of dedication, regardless of the transaction size.",
+  "_metadata": {
+    "source_file": "2026-01-22_item1_Kristee-Leonard",
+    "analyzed_at": "2026-01-22T21:47:33.269088",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

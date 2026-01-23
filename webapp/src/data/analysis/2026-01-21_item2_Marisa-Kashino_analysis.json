@@ -1,0 +1,86 @@
+{
+  "guest_info": {
+    "name": "Marisa Kashino",
+    "title": "Author",
+    "company": null,
+    "production_level": "Best-selling author",
+    "specialty": "Fiction writing",
+    "location": "DC area"
+  },
+  "main_topics": [
+    "Writing and publishing a novel",
+    "Real estate market dynamics",
+    "Emotional aspects of home buying",
+    "Role of editing in writing",
+    "Social media's impact on perceptions of perfection"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Competitive housing market stress",
+      "solution_summary": "Understanding the emotional drivers and pressures of buyers to better navigate client relationships.",
+      "timestamp": "16:04"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Pressure of perfectionism in real estate and life",
+      "solution_summary": "Recognizing the unrealistic standards set by social media and focusing on personal satisfaction.",
+      "timestamp": "29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses the emotional and psychological aspects of clients in a competitive market.",
+      "key_takeaway": "Understanding client emotions can be key to securing deals in a competitive market."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode offers a fresh perspective on the emotional toll of real estate transactions.",
+      "key_takeaway": "Re-evaluating the importance of emotional intelligence in client interactions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "18:08",
+      "end_timestamp": "18:45",
+      "quote": "It's really how far would someone go to get the house, right?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the essence of the emotional extremes in real estate.",
+      "suggested_hook": "How far would you go to secure your dream home?"
+    },
+    {
+      "timestamp": "29:00",
+      "end_timestamp": "29:30",
+      "quote": "What does it actually mean to look your age anymore?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges societal norms about age and appearance.",
+      "suggested_hook": "Are we losing sight of what it means to age naturally?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use emotional intelligence to understand client motivations.",
+      "context": "When dealing with clients in a competitive housing market.",
+      "timestamp": "16:04"
+    }
+  ],
+  "quotable_insights": [
+    "Buying a house feels like the most important thing in the universe.",
+    "We all bring our own emotional personal histories to homes."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Best Offer Wins",
+      "context": "Marisa Kashino's novel about the emotional and psychological aspects of buying a home."
+    }
+  ],
+  "episode_summary": "In this episode, Marisa Kashino discusses her novel 'Best Offer Wins,' which explores the emotional extremes of home buying in a competitive market. The conversation delves into the role of emotional intelligence in real estate, the impact of social media on perceptions of perfection, and the importance of editing in writing. REALTORS can gain insights into client motivations and the psychological aspects of real estate transactions.",
+  "_metadata": {
+    "source_file": "2026-01-21_item2_Marisa-Kashino",
+    "analyzed_at": "2026-01-22T21:47:03.607363",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
