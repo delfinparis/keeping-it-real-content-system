@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:45",
+      "end_timestamp": "10:30",
+      "quote": "Find out something which you've got in common. Establish some sort of rapport, get some kind of relationship going and then work on solving the problem.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable strategy for starting negotiations on the right foot.",
+      "suggested_hook": "Want to win more negotiations? Start by finding common ground."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Want to win more negotiations? Start by finding common ground.\",\n    \"SETUP\": \"(0:08-0:18) In the world of real estate, negotiations can make or break a deal. Tim Burrell shares a key strategy to kickstart successful talks.\",\n    \"INSIGHT\": \"(0:18-0:40) 'Find out something which you've got in common. Establish some sort of rapport, get some kind of relationship going and then work on solving the problem.' This approach can transform your negotiation outcomes.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) Building rapport isn't just a nice-to-have; it's a must-do. Use AI tools to identify common interests and start your negotiations on a strong footing.\",\n    \"CTA\": \"(0:52-0:60) Ready to elevate your negotiation game? Start by finding that common ground. Share your experiences in the comments!\"\n  },\n  \"CAPTION\": \"Want to win more negotiations? Start by finding common ground. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#NegotiationTips\", \"#AIinRealEstate\", \"#BuildingRapport\", \"#TimBurrell\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "36:30",
+      "end_timestamp": "37:15",
+      "quote": "AI will give you some feedback in terms of should you do this or should you not do this.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the role of AI as a decision-making aid in negotiations.",
+      "suggested_hook": "How AI can guide your negotiation decisions in real-time."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"(0:00-0:08) Imagine having a digital advisor guiding your every negotiation move in real-time!\",\n    \"SETUP\": \"(0:08-0:18) Meet Tim Burrell, a real estate expert, discussing how AI is transforming negotiation strategies.\",\n    \"INSIGHT\": \"(0:18-0:40) AI provides instant feedback, helping you decide whether to pursue or abandon a negotiation tactic. It's like having a seasoned consultant by your side.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This AI insight can enhance your decision-making, making your negotiations more strategic and effective.\",\n    \"CTA\": \"(0:52-0:60) Ready to elevate your negotiation game? Start integrating AI tools today and watch your success soar!\"\n  },\n  \"CAPTION\": \"Unlock the power of AI in real estate negotiations. Are you ready to level up?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#NegotiationTips\", \"#AIinRealEstate\", \"#RealEstateSuccess\", \"#TechInRealEstate\"],\n  \"CONTENT_PILLAR\": \"ai_agent\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Tim Burrell",
+    "title": "Licensed REALTOR, Attorney, General Contractor",
+    "company": "RE/MAX United",
+    "production_level": "Top Producer",
+    "specialty": "Negotiation and AI in Real Estate",
+    "location": "Raleigh, North Carolina"
+  },
+  "main_topics": [
+    "Leveraging AI in Real Estate Negotiations",
+    "Building Rapport through AI",
+    "AI Tools for Real Estate Professionals",
+    "Conflict Resolution in Negotiations",
+    "Prompt Engineering for Effective AI Use"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Establishing rapport and trust in negotiations",
+      "solution_summary": "Use AI to gather information about the other party to find commonalities and build rapport.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Handling conflict during negotiations",
+      "solution_summary": "Utilize AI to analyze interactions and flag potential conflicts, allowing for timely interventions.",
+      "timestamp": "37:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Identifying potential recruits for real estate teams",
+      "solution_summary": "Use AI tools like corded.io to identify agents likely to switch brokerages.",
+      "timestamp": "01:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for using AI to enhance negotiation skills.",
+      "key_takeaway": "AI can be a powerful tool in understanding and building rapport with clients and negotiating effectively."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "AI tools can help identify potential recruits and manage team dynamics.",
+      "key_takeaway": "Leverage AI to streamline recruitment and enhance team performance through better negotiation strategies."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:45",
+      "end_timestamp": "10:30",
+      "quote": "Find out something which you've got in common. Establish some sort of rapport, get some kind of relationship going and then work on solving the problem.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable strategy for starting negotiations on the right foot.",
+      "suggested_hook": "Want to win more negotiations? Start by finding common ground."
+    },
+    {
+      "timestamp": "36:30",
+      "end_timestamp": "37:15",
+      "quote": "AI will give you some feedback in terms of should you do this or should you not do this.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the role of AI as a decision-making aid in negotiations.",
+      "suggested_hook": "How AI can guide your negotiation decisions in real-time."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to gather background information on negotiation counterparts.",
+      "context": "Before entering negotiations, use AI to find commonalities and establish rapport.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Employ AI for real-time feedback during negotiations.",
+      "context": "Use AI tools to monitor the tone and direction of negotiations and adjust strategies accordingly.",
+      "timestamp": "37:00"
+    }
+  ],
+  "quotable_insights": [
+    "Negotiating is not just about one item. It has a huge breadth that you can utilize all kinds of different factors to succeed.",
+    "AI can be a powerful tool in understanding and building rapport with clients and negotiating effectively."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The AI Negotiator",
+      "context": "Tim Burrell's book on using AI to dominate real estate deals."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Tim Burrell shares how real estate agents can leverage AI to enhance their negotiation skills. From building rapport with clients to handling conflicts, Tim provides actionable insights and strategies to use AI effectively in real estate transactions. Listeners will learn about prompt engineering, real-time negotiation coaching, and the importance of empathy in successful negotiations.",
+  "_metadata": {
+    "source_file": "2026-01-05_item3_Tim-Burrell",
+    "analyzed_at": "2026-01-22T21:44:26.460693",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

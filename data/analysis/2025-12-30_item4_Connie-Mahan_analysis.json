@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Connie Mahan",
+    "title": "Broker Owner",
+    "company": "Connie Mahan Real Estate Group",
+    "production_level": "REALTOR of the Year in Lake and Sumpter counties",
+    "specialty": "Independent full-service brokerage",
+    "location": "Central Florida"
+  },
+  "main_topics": [
+    "Agent recruitment and training",
+    "Community involvement for lead generation",
+    "Balancing work and personal life",
+    "Importance of mindset and gratitude",
+    "Building relationships over transactional sales"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding clients as a new agent",
+      "solution_summary": "Attend community events regularly to build relationships and visibility.",
+      "timestamp": "04:38"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated during slow periods",
+      "solution_summary": "Focus on feeling lucky and grateful for the opportunity to help clients.",
+      "timestamp": "21:15"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Over-reliance on buying leads",
+      "solution_summary": "Shift focus to relationship-building and referrals for sustainable growth.",
+      "timestamp": "06:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start building their client base through community involvement.",
+      "key_takeaway": "Attend local events and get involved in the community to naturally generate leads."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can understand the importance of mindset and gratitude in achieving success.",
+      "key_takeaway": "Cultivate a mindset of gratitude and service to sustain motivation and client relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:38",
+      "end_timestamp": "05:08",
+      "quote": "The best advice was literally to get in and do and the rest will figure itself out.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a simple yet effective strategy for new agents to start generating leads.",
+      "suggested_hook": "Struggling to find clients as a new agent? Here's a simple strategy that works."
+    },
+    {
+      "timestamp": "21:15",
+      "end_timestamp": "21:54",
+      "quote": "We are so lucky to get to do what we do, which is help people honestly and ethically.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the importance of gratitude in maintaining motivation and ethical standards.",
+      "suggested_hook": "Feeling burned out? This mindset shift could change everything."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Attend every community event possible to build relationships.",
+      "context": "Especially useful for new agents looking to establish themselves in the market.",
+      "timestamp": "04:38"
+    },
+    {
+      "tactic": "Conduct a 'Walmart walk around' to initiate real estate conversations.",
+      "context": "Use this tactic to naturally engage with potential clients in your community.",
+      "timestamp": "18:59"
+    }
+  ],
+  "quotable_insights": [
+    "Help everybody get what they want, and you'll get what you want.",
+    "Be obsessed with your work and your clients will notice."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to generate more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "A tool for recruiting and retaining agents using AI insights."
+    }
+  ],
+  "episode_summary": "In this episode, Connie Mahan shares her journey from restaurant management to becoming a top REALTOR in Central Florida. She emphasizes the importance of community involvement for lead generation, maintaining a mindset of gratitude, and focusing on building relationships over transactional sales. Connie also discusses strategies for agent recruitment and training, providing valuable insights for both new and experienced agents.",
+  "_metadata": {
+    "source_file": "2025-12-30_item4_Connie-Mahan",
+    "analyzed_at": "2026-01-22T21:46:33.307108",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
