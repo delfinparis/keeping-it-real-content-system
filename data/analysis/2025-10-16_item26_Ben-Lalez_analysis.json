@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Compass",
+    "production_level": "Top team in Chicago area",
+    "specialty": "Social media content creation",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Social media content strategy",
+    "Video content creation",
+    "Branding and target audience",
+    "Recruiting and retention",
+    "Ancillary benefits of content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to effectively use social media for real estate growth",
+      "solution_summary": "Focus on consistent content creation and marry real estate with personal passions to engage your audience.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media",
+      "solution_summary": "Create content that resonates with your audience and leverage personal connections for referrals.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "When to upgrade your content production",
+      "solution_summary": "Upgrade when your time is constrained and sales justify the investment in better tools and staff.",
+      "timestamp": "12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging social media for substantial sales growth.",
+      "key_takeaway": "Consistency in content creation can significantly impact your sales trajectory."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies for using content to motivate and grow a team.",
+      "key_takeaway": "Social media can be a powerful tool for team recruitment and retention."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:30",
+      "end_timestamp": "07:15",
+      "quote": "You have to do it. The same way that you don't want to cold call, you don't always have to be in the mood to do social.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to push through discomfort and commit to social media.",
+      "suggested_hook": "Struggling to stay consistent with social media? Here's why you need to push through."
+    },
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "The fallacy of the stranger... everyone thinks they're going after some random person they have no connection to.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a common misconception about social media lead generation.",
+      "suggested_hook": "Think social media is about reaching strangers? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a lav mic for better audio quality in videos.",
+      "context": "When starting video content creation, invest in a simple lav mic for improved sound.",
+      "timestamp": "11:30"
+    },
+    {
+      "tactic": "Marry real estate with a personal passion in your content.",
+      "context": "Create engaging content by combining real estate topics with personal interests.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "Social media has become mandatory, not optional.",
+    "Any strategy is better than no strategy."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Upwork",
+      "context": "Recommended for finding affordable video editors."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Advertised as a solution for lead conversion and CRM."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the importance of social media in real estate, sharing strategies for content creation and branding. He emphasizes the need for consistency and the benefits of integrating personal passions with real estate content. The episode also covers when to upgrade production quality and how social media can aid in recruiting and retention.",
+  "_metadata": {
+    "source_file": "2025-10-16_item26_Ben-Lalez",
+    "analyzed_at": "2026-01-23T14:54:09.702415",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset and performance coaching using hypnosis",
+    "location": null
+  },
+  "main_topics": [
+    "Attachment to results",
+    "Mindset and performance in real estate",
+    "Detachment from outcomes",
+    "Process over results",
+    "Self-care and energy management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Attachment to results and its negative impact",
+      "solution_summary": "Focus on the process and self-care to detach from results and improve overall performance.",
+      "timestamp": "04:40"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Monotony in executing the same process",
+      "solution_summary": "Reframe the process as an edge and focus on executing it with integrity and energy.",
+      "timestamp": "17:17"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Emotional cost of unmet expectations",
+      "solution_summary": "Manage expectations by understanding the lag effect between input and output.",
+      "timestamp": "19:22"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the emotional and physical burnout from being overly attached to results.",
+      "key_takeaway": "Detach from outcomes and focus on self-care and process to regain control and effectiveness."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers often tie their worth to results, which this episode addresses.",
+      "key_takeaway": "Your worth is not tied to your results; focus on consistent process execution."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:12",
+      "end_timestamp": "10:45",
+      "quote": "The harder he clung to an outcome, the further he pushed success away.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the paradox of attachment and its impact on success.",
+      "suggested_hook": "Are you pushing success away by clinging too hard to results?"
+    },
+    {
+      "timestamp": "17:17",
+      "end_timestamp": "17:45",
+      "quote": "When you can really refresh and learn to fall in love with your process, that's your edge.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a shift in perspective from results to process.",
+      "suggested_hook": "Your process is your greatest edge—here's why."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on process over results",
+      "context": "To maintain energy and avoid burnout, prioritize process execution.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Manage expectations with the lag effect principle",
+      "context": "Understand that results lag behind actions to reduce emotional cost.",
+      "timestamp": "19:22"
+    }
+  ],
+  "quotable_insights": [
+    "Your attachment to results is a collection of learned beliefs, feelings, and behaviors. It can be unlearned.",
+    "The harder you cling to an outcome, the further you push success away."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting tool for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the detrimental effects of being overly attached to results in real estate. He emphasizes the importance of focusing on the process and self-care to improve performance and well-being. Salter provides actionable insights on managing expectations and detaching from outcomes to achieve sustainable success.",
+  "_metadata": {
+    "source_file": "2025-09-25_item32_Paul-Salter",
+    "analyzed_at": "2026-01-23T14:49:53.548468",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

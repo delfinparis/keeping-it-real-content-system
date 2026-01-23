@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Coach for Real Estate Agents",
+    "company": null,
+    "production_level": null,
+    "specialty": "Leveraging video for real estate business growth",
+    "location": null
+  },
+  "main_topics": [
+    "Building credibility as a real estate agent",
+    "Using video content to attract clients",
+    "Positioning yourself as a local expert",
+    "Creating engaging real estate content",
+    "Leveraging AI tools for content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to build credibility as a new or experienced agent",
+      "solution_summary": "Use video content to showcase expertise and local knowledge, and highlight successful deals or market insights.",
+      "timestamp": "00:03:52"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Attracting more buyers and sellers",
+      "solution_summary": "Create video content that positions you as the go-to agent in your area by sharing behind-the-scenes insights and market trends.",
+      "timestamp": "00:06:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to establish credibility and attract clients through video content.",
+      "key_takeaway": "You don't need years of experience to build credibility; use video to showcase your knowledge and passion."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Agents aiming to increase their visibility and client base can benefit from advanced video strategies.",
+      "key_takeaway": "Position yourself as an expert by sharing high-level insights and successful case studies through video."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:52",
+      "end_timestamp": "00:05:06",
+      "quote": "You can build up your credibility whether you're just starting out or if you've been doing it for 25 years.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the notion that only experienced agents can be seen as credible.",
+      "suggested_hook": "Think you need decades of experience to be credible? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create behind-the-scenes videos of deals",
+      "context": "Showcase your expertise and the value you bring to clients by sharing high-level insights from successful transactions.",
+      "timestamp": "00:06:37"
+    },
+    {
+      "tactic": "Use ChatGPT to simplify storytelling",
+      "context": "Voice memo your story and use ChatGPT to create concise video scripts or posts.",
+      "timestamp": "00:07:27"
+    }
+  ],
+  "quotable_insights": [
+    "Video can be for anyone. It's really just about bringing your knowledge to the camera.",
+    "You're not just selling a home, but a lifestyle."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for creating concise video scripts and simplifying storytelling."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares insights on how real estate agents can build credibility and attract clients using video content. She emphasizes the importance of positioning oneself as a local expert and provides actionable tactics for both new and experienced agents. The episode highlights the use of AI tools like ChatGPT to enhance content creation and storytelling.",
+  "_metadata": {
+    "source_file": "2025-09-30_item30_Kim-Rittberg",
+    "analyzed_at": "2026-01-23T14:50:50.112124",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

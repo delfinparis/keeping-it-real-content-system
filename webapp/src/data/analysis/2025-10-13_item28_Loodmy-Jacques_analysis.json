@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Loodmy Jacques",
+    "title": "CEO and Founder",
+    "company": "Jacques Real Estate Team",
+    "production_level": "Top performing team",
+    "specialty": "Luxury real estate",
+    "location": "Palm Beach, Broward, and St. Lucie counties, Florida"
+  },
+  "main_topics": [
+    "Building a real estate business from scratch",
+    "Importance of consistent client communication",
+    "Leveraging reviews for business growth",
+    "Creating a memorable client experience",
+    "Effective networking strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without an existing network",
+      "solution_summary": "Approach local businesses and use personal connections to build a network; offer valuable information to potential clients.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client satisfaction during long sales processes",
+      "solution_summary": "Implement a structured communication plan with regular updates and clear expectations.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a competitive market",
+      "solution_summary": "Develop a unique service proposition like the 'Jacques 360 system' to differentiate your services.",
+      "timestamp": "27:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode provides a roadmap for starting a real estate business without an existing network.",
+      "key_takeaway": "Focus on building genuine relationships and offering value to potential clients."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Loodmy shares strategies for scaling a business and maintaining high client satisfaction.",
+      "key_takeaway": "Implement structured systems and consistent communication to enhance client experience and referrals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I attached myself to the most successful person in the office. I'm like, all right, whatever this guy is doing, I'm just going to do that.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of mentorship and learning from successful peers.",
+      "suggested_hook": "Want to accelerate your real estate career? Here's how mentorship can make all the difference."
+    },
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "27:45",
+      "quote": "We don't just list the house. We have a plan. We call the Jacques Team 360 system.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Showcases a unique branding strategy that sets the guest apart in the market.",
+      "suggested_hook": "Discover the secret behind the Jacques Team 360 system that keeps clients coming back."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Ask for reviews throughout the transaction process, not just at the end.",
+      "context": "Increases the likelihood of receiving positive feedback and helps maintain a high review count.",
+      "timestamp": "44:00"
+    },
+    {
+      "tactic": "Use a lead magnet when reaching out to potential referral partners.",
+      "context": "Offer something of value to initiate a relationship with high-net-worth individuals or business owners.",
+      "timestamp": "37:00"
+    }
+  ],
+  "quotable_insights": [
+    "Deliver a Ritz Carlton level experience where every buyer, seller, and investor feels valued.",
+    "If I am laughing at some scenario, I'm smiling. There's very hard way for somebody to be frowning back at me."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Used for recruiting and retention, showing which agents are likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Loodmy Jacques shares his journey from Haiti to becoming a top real estate producer in Florida. He discusses strategies for building a business from scratch, emphasizing the importance of consistent communication and creating a memorable client experience. Loodmy also highlights the value of leveraging reviews and networking with high-net-worth individuals to grow your business.",
+  "_metadata": {
+    "source_file": "2025-10-13_item28_Loodmy-Jacques",
+    "analyzed_at": "2026-01-23T14:53:28.990252",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

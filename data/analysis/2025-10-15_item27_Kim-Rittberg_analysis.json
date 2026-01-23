@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning video marketer",
+    "company": "Former media executive at Netflix",
+    "production_level": null,
+    "specialty": "Video coaching for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Using AI in video content",
+    "Social media strategy for real estate agents",
+    "Creating authentic content",
+    "AI tools for content creation",
+    "Building credibility and connection"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Using AI-generated avatars that don't represent you authentically",
+      "solution_summary": "Use AI avatars only if they advance your credibility and relationship-building goals; avoid if they appear robotic.",
+      "timestamp": "00:04:50"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Creating generic content that doesn't stand out",
+      "solution_summary": "Ensure content is specific to your personality and market to differentiate from others.",
+      "timestamp": "00:07:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging AI for content creation to enhance personal branding and lead generation.",
+      "key_takeaway": "Use AI to create content that is authentic and specific to your personal brand to build credibility and connections."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:07:00",
+      "end_timestamp": "00:07:30",
+      "quote": "Generic is bad. Specific is terrific.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This phrase succinctly captures the importance of creating unique content.",
+      "suggested_hook": "Why being specific in your content is crucial for real estate success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use the SAG acronym to evaluate AI-generated content",
+      "context": "Ensure AI content sounds like you, aligns with your views, and isn't generic.",
+      "timestamp": "00:07:05"
+    }
+  ],
+  "quotable_insights": [
+    "Hiding from the camera is hiding from clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "Kim Rittberg discusses the strategic use of AI in video content for real estate agents, emphasizing the importance of authenticity and specificity. She introduces the SAG acronym to ensure AI-generated content aligns with personal branding goals and highlights tools like Real Geeks and corded.io for enhancing business operations.",
+  "_metadata": {
+    "source_file": "2025-10-15_item27_Kim-Rittberg",
+    "analyzed_at": "2026-01-23T14:53:45.189541",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
