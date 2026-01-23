@@ -1,0 +1,67 @@
+name: Weekly Episode Sync
+
+on:
+  schedule:
+    # Run every Sunday at 3 AM UTC
+    - cron: '0 3 * * 0'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install openai
+
+      - name: Install FFmpeg (for Whisper)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Run auto-sync
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scripts/auto_sync.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add all data and webapp changes
+          git add data/ content/ webapp/src/data/
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-sync: Update episodes $(date +%Y-%m-%d)
+
+            - Downloaded and transcribed new episodes
+            - Updated problem and avatar mappings
+            - Synced data to webapp
+
+            [skip ci]"
+            git push
+          fi
+
+      - name: Upload sync log
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sync-log
+          path: auto_sync.log
+          retention-days: 7
