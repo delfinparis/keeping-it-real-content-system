@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset coaching and hypnotherapy",
+    "location": null
+  },
+  "main_topics": [
+    "Upper Limit Problem",
+    "Self-Sabotage in Success",
+    "Mindset and Identity Transformation",
+    "Fear of Success and Failure",
+    "Creating Safety in Success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Upper Limit Problem causing self-sabotage",
+      "solution_summary": "Identify and dismantle limiting beliefs and fears that cap success through deep reflection and mindset work.",
+      "timestamp": "05:09"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode is relevant for agents who feel they are plateauing despite their efforts.",
+      "key_takeaway": "Understand and overcome the subconscious limits you place on your success to break through to the next level."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:03",
+      "end_timestamp": "06:42",
+      "quote": "When you achieve more money, more success, more happiness than your internal thermostat allows for, you begin to unconsciously cool things down by engaging in self-sabotaging behaviors.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "This moment reveals a common but often unnoticed pattern that affects many professionals.",
+      "suggested_hook": "Are you unknowingly sabotaging your own success?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify and challenge limiting beliefs",
+      "context": "Reflect on where you feel stuck and explore the fears and beliefs that might be holding you back.",
+      "timestamp": "30:36"
+    }
+  ],
+  "quotable_insights": [
+    "Action alleviates anxiety. Action accelerates results.",
+    "Success is not safe in your mind, and that's why you sabotage it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to generate more business through effective lead conversion and CRM tools."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting tool to identify agents likely to move, helping in recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the 'Upper Limit Problem,' a psychological barrier that causes individuals to self-sabotage their success. He provides insights into identifying and overcoming these subconscious limits through mindset work, enabling listeners to achieve greater success and happiness. The episode offers actionable steps for agents to reflect on their limiting beliefs and create a sense of safety around success.",
+  "_metadata": {
+    "source_file": "2025-06-26_item54_Paul-Salter",
+    "analyzed_at": "2026-01-23T16:52:30.547555",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

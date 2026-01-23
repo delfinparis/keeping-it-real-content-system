@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Hypnosis and mindset coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Destructive mindset programs",
+    "Fear of success and self-sabotage",
+    "Emotional triggers and beliefs",
+    "Mindset transformation",
+    "Performance coaching and hypnotherapy"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Destructive mindset programs that hinder success",
+      "solution_summary": "Identify and dismantle destructive mindset programs through awareness and mindset coaching.",
+      "timestamp": "00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of success leading to self-sabotage",
+      "solution_summary": "Recognize and address the underlying beliefs and emotions that trigger self-sabotage.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Plateau in income despite increased effort",
+      "solution_summary": "Break the cycle of outdated beliefs and behaviors through mindset coaching.",
+      "timestamp": "10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode addresses the mindset barriers that prevent intermediate agents from advancing.",
+      "key_takeaway": "Understanding and dismantling destructive mindset programs can unlock new levels of success."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers often face self-imposed limits that this episode helps to identify and overcome.",
+      "key_takeaway": "Awareness of self-sabotage patterns is crucial to achieving higher income and success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "Your subconscious has one primary goal: to keep you safe. The way it keeps you safe is by keeping you stuck in patterns of familiarity.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote challenges listeners to rethink their comfort zones and the role of subconscious safety.",
+      "suggested_hook": "Is your subconscious keeping you stuck in your comfort zone?"
+    },
+    {
+      "timestamp": "38:00",
+      "end_timestamp": "38:45",
+      "quote": "These destructive mindset programs are learned, which means they can be unlearned.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Offers hope and empowerment to those feeling trapped by their mindset.",
+      "suggested_hook": "Feeling trapped by your mindset? Here's the good news."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify and dismantle destructive mindset programs",
+      "context": "Start by becoming aware of your emotional triggers and the beliefs they activate.",
+      "timestamp": "25:00"
+    },
+    {
+      "tactic": "Use mindset and performance coaching",
+      "context": "Engage in coaching and hypnotherapy to accelerate the process of overcoming mindset barriers.",
+      "timestamp": "41:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your greatest edge is the one between your ears.",
+    "Destructive mindset programs are learned, which means they can be unlearned."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "corded.io",
+      "context": "Recommended as a tool for real estate recruiters to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter delves into the concept of destructive mindset programs and how they can hinder real estate professionals from reaching their full potential. He shares personal stories and insights on identifying and dismantling these programs, offering practical advice on overcoming self-sabotage and achieving greater success through mindset coaching and hypnotherapy.",
+  "_metadata": {
+    "source_file": "2025-07-31_item47_Paul-Salter",
+    "analyzed_at": "2026-01-23T16:57:39.071536",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

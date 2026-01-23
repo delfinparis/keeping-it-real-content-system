@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Lisa Kay Lippman",
+    "title": "Top Producer",
+    "company": "Brown Harris Stevens",
+    "production_level": "$300M+ producer",
+    "specialty": "Luxury Real Estate",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Breaking into luxury real estate",
+    "Daily habits for success",
+    "Effective client communication",
+    "Navigating market changes",
+    "Importance of personal branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into the luxury market",
+      "solution_summary": "Focus on building experience and gradually increase your price point over time.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Effective communication with sellers",
+      "solution_summary": "Provide regular updates every 2-3 weeks and immediate feedback after showings.",
+      "timestamp": "33:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated during slow periods",
+      "solution_summary": "Walk through as many doors as possible, preview properties, and engage with the market actively.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Lisa's journey from law to top real estate producer provides a blueprint for aspiring agents.",
+      "key_takeaway": "Success in luxury real estate comes from building experience and maintaining professionalism."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "For agents looking to break into higher price points, Lisa's strategies are directly applicable.",
+      "key_takeaway": "Increase your price point gradually and focus on delivering high-quality service."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:30",
+      "end_timestamp": "18:15",
+      "quote": "If you want to do this part-time, get out of the business.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a strong statement that emphasizes the dedication required in real estate.",
+      "suggested_hook": "Thinking of doing real estate part-time? Think again."
+    },
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:00",
+      "quote": "Walk through doors, go to open houses, preview properties. Opportunities come from being active.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for agents during slow periods.",
+      "suggested_hook": "Feeling stuck in real estate? Here's how to create your own opportunities."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send regular updates to sellers every 2-3 weeks.",
+      "context": "Maintain communication and transparency with clients.",
+      "timestamp": "33:00"
+    },
+    {
+      "tactic": "Dress professionally for high-end showings.",
+      "context": "When dealing with luxury clients, presentation matters.",
+      "timestamp": "28:00"
+    }
+  ],
+  "quotable_insights": [
+    "Success in real estate is about being scrappy and adapting to changes.",
+    "Opportunities in real estate come from actively engaging with the market."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Lisa Kay Lippman shares her journey from law to becoming a top luxury real estate producer in New York City. She discusses the importance of building experience, maintaining professionalism, and actively engaging with the market to create opportunities. Lisa also provides actionable advice on client communication and personal branding, making this episode a valuable resource for agents aspiring to enter the luxury market.",
+  "_metadata": {
+    "source_file": "2025-06-30_item52_Lisa-K.-Lippman",
+    "analyzed_at": "2026-01-23T16:54:06.583456",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

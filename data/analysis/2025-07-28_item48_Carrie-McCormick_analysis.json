@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Broker",
+    "company": "Carrie McCormick Real Estate Group at Properties, a Christie's International",
+    "production_level": "Top 1% producer",
+    "specialty": "Luxury properties, first-time home buyers, veteran investors",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Local market focus vs. geographic expansion",
+    "Real estate market trends and predictions",
+    "Strategies for dealing with current mortgage rates",
+    "Building a strong personal brand",
+    "Networking and referrals in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Whether to expand geographically or focus locally",
+      "solution_summary": "Focus on dominating your local market by going deep rather than wide, leveraging local expertise and networks.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Sellers hesitant to move due to low locked-in mortgage rates",
+      "solution_summary": "Advise clients on the benefits of moving now despite higher rates, such as less competition and potential for future refinancing.",
+      "timestamp": "11:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to become a top producer by focusing on local markets and leveraging personal branding.",
+      "key_takeaway": "Success can be achieved by deepening your expertise and presence in your local market rather than expanding geographically."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "05:45",
+      "quote": "Instead of thinking of going wide, think about going deep within your market.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the conventional wisdom of geographic expansion and emphasizes the power of local expertise.",
+      "suggested_hook": "Why going deep in your local market can be more profitable than expanding wide."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Stay hyper-local and build a strong local brand.",
+      "context": "Focus marketing efforts on dominating your local market to become the go-to expert.",
+      "timestamp": "06:00"
+    }
+  ],
+  "quotable_insights": [
+    "You have to be ingrained in your market. People feel it when you're in your zone."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the benefits of focusing on local markets rather than expanding geographically. She shares insights on how to leverage local expertise and networks to dominate the market. The episode also addresses current challenges with mortgage rates and provides strategies for advising clients on buying and selling in the current market.",
+  "_metadata": {
+    "source_file": "2025-07-28_item48_Carrie-McCormick",
+    "analyzed_at": "2026-01-23T16:57:26.257312",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

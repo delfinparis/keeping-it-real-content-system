@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach and Former Journalist",
+    "company": "Not explicitly mentioned",
+    "production_level": "Not explicitly mentioned",
+    "specialty": "Video content creation and PR strategies",
+    "location": "Brooklyn, New York"
+  },
+  "main_topics": [
+    "Importance of press for real estate agents",
+    "Building relationships with local media",
+    "Types of stories agents should pitch",
+    "Leveraging social media for press opportunities",
+    "Personal storytelling in PR"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to establish credibility as a real estate expert",
+      "solution_summary": "Agents should aim to get featured in the press by providing expert tips, piggybacking on hot topics, and sharing personal stories.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a crowded real estate market",
+      "solution_summary": "Differentiate yourself by being visible in the press and sharing insights on current market trends.",
+      "timestamp": "05:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance visibility and credibility, crucial for agents aiming to become top producers.",
+      "key_takeaway": "Use press features to build authority and attract more clients."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start building their brand and credibility through media exposure.",
+      "key_takeaway": "Begin with local press and gradually expand to larger outlets."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:45",
+      "end_timestamp": "07:30",
+      "quote": "Press helps me choose you... I'm seeing you on television or reading your story, and I'm like, 'Oh, I like this person.'",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the emotional impact of being featured in the press.",
+      "suggested_hook": "Want to stand out in a crowded market? Here's how press can make you the go-to agent."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Pitch expert tips and seasonal advice to local media.",
+      "context": "Start with local outlets to build credibility and then expand to national media.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Use social media performance as a gauge for press pitches.",
+      "context": "If a topic performs well on social media, it's likely to be of interest to the press.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "Being featured in the press will establish you as a real estate expert in your local area.",
+    "Press is like an outside badge of honor that complements your social media efforts."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "This episode explores the importance of press for real estate agents, offering strategies to enhance visibility and credibility through media exposure. Kim Rittberg and Sabina Hitchin discuss how agents can pitch expert tips, leverage social media, and share personal stories to get featured in the press, ultimately helping them stand out in a crowded market.",
+  "_metadata": {
+    "source_file": "2025-07-17_item51_Kim-Rittberg",
+    "analyzed_at": "2026-01-23T16:55:15.615847",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
