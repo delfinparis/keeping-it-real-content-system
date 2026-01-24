@@ -1,0 +1,2896 @@
+{
+  "source_file": "2025-02-13_item92_D.J.-Paris.mp3",
+  "language": "en",
+  "duration_seconds": 182.42,
+  "duration_formatted": "00:03:02",
+  "transcribed_at": "2026-01-24T17:50:25.967910",
+  "model_used": "whisper",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.7,
+      "start_formatted": "00:00:00",
+      "end_formatted": "00:00:03",
+      "text": "I have something very big to announce. Stay tuned.",
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.38
+        },
+        {
+          "word": " have",
+          "start": 0.38,
+          "end": 0.46
+        },
+        {
+          "word": " something",
+          "start": 0.46,
+          "end": 0.72
+        },
+        {
+          "word": " very",
+          "start": 0.72,
+          "end": 1.22
+        },
+        {
+          "word": " big",
+          "start": 1.22,
+          "end": 1.48
+        },
+        {
+          "word": " to",
+          "start": 1.48,
+          "end": 1.74
+        },
+        {
+          "word": " announce.",
+          "start": 1.74,
+          "end": 2.22
+        },
+        {
+          "word": " Stay",
+          "start": 2.42,
+          "end": 2.94
+        },
+        {
+          "word": " tuned.",
+          "start": 2.94,
+          "end": 3.7
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 17.76,
+      "end": 24.04,
+      "start_formatted": "00:00:17",
+      "end_formatted": "00:00:24",
+      "text": "Hello and welcome to another episode of Keeping It Real, the largest podcast made by real estate agents",
+      "words": [
+        {
+          "word": " Hello",
+          "start": 17.76,
+          "end": 18.4
+        },
+        {
+          "word": " and",
+          "start": 18.4,
+          "end": 18.78
+        },
+        {
+          "word": " welcome",
+          "start": 18.78,
+          "end": 19.24
+        },
+        {
+          "word": " to",
+          "start": 19.24,
+          "end": 19.52
+        },
+        {
+          "word": " another",
+          "start": 19.52,
+          "end": 19.82
+        },
+        {
+          "word": " episode",
+          "start": 19.82,
+          "end": 20.4
+        },
+        {
+          "word": " of",
+          "start": 20.4,
+          "end": 20.76
+        },
+        {
+          "word": " Keeping",
+          "start": 20.76,
+          "end": 21.08
+        },
+        {
+          "word": " It",
+          "start": 21.08,
+          "end": 21.32
+        },
+        {
+          "word": " Real,",
+          "start": 21.32,
+          "end": 21.54
+        },
+        {
+          "word": " the",
+          "start": 21.7,
+          "end": 21.74
+        },
+        {
+          "word": " largest",
+          "start": 21.74,
+          "end": 22.06
+        },
+        {
+          "word": " podcast",
+          "start": 22.06,
+          "end": 22.54
+        },
+        {
+          "word": " made",
+          "start": 22.54,
+          "end": 22.96
+        },
+        {
+          "word": " by",
+          "start": 22.96,
+          "end": 23.18
+        },
+        {
+          "word": " real",
+          "start": 23.18,
+          "end": 23.36
+        },
+        {
+          "word": " estate",
+          "start": 23.36,
+          "end": 23.6
+        },
+        {
+          "word": " agents",
+          "start": 23.6,
+          "end": 24.04
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 24.04,
+      "end": 31.02,
+      "start_formatted": "00:00:24",
+      "end_formatted": "00:00:31",
+      "text": "in four real estate agents. My name is DJ Paris. I'm your guide and host through the show. This is a very special episode.",
+      "words": [
+        {
+          "word": " in",
+          "start": 24.04,
+          "end": 24.5
+        },
+        {
+          "word": " four",
+          "start": 24.5,
+          "end": 24.82
+        },
+        {
+          "word": " real",
+          "start": 24.82,
+          "end": 25.1
+        },
+        {
+          "word": " estate",
+          "start": 25.1,
+          "end": 25.34
+        },
+        {
+          "word": " agents.",
+          "start": 25.34,
+          "end": 25.8
+        },
+        {
+          "word": " My",
+          "start": 26.02,
+          "end": 26.14
+        },
+        {
+          "word": " name",
+          "start": 26.14,
+          "end": 26.32
+        },
+        {
+          "word": " is",
+          "start": 26.32,
+          "end": 26.5
+        },
+        {
+          "word": " DJ",
+          "start": 26.5,
+          "end": 26.68
+        },
+        {
+          "word": " Paris.",
+          "start": 26.68,
+          "end": 27.04
+        },
+        {
+          "word": " I'm",
+          "start": 27.48,
+          "end": 27.68
+        },
+        {
+          "word": " your",
+          "start": 27.68,
+          "end": 27.8
+        },
+        {
+          "word": " guide",
+          "start": 27.8,
+          "end": 28.06
+        },
+        {
+          "word": " and",
+          "start": 28.06,
+          "end": 28.26
+        },
+        {
+          "word": " host",
+          "start": 28.26,
+          "end": 28.46
+        },
+        {
+          "word": " through",
+          "start": 28.46,
+          "end": 28.72
+        },
+        {
+          "word": " the",
+          "start": 28.72,
+          "end": 28.82
+        },
+        {
+          "word": " show.",
+          "start": 28.82,
+          "end": 29.06
+        },
+        {
+          "word": " This",
+          "start": 29.38,
+          "end": 29.54
+        },
+        {
+          "word": " is",
+          "start": 29.54,
+          "end": 29.66
+        },
+        {
+          "word": " a",
+          "start": 29.66,
+          "end": 29.78
+        },
+        {
+          "word": " very",
+          "start": 29.78,
+          "end": 30.14
+        },
+        {
+          "word": " special",
+          "start": 30.14,
+          "end": 30.52
+        },
+        {
+          "word": " episode.",
+          "start": 30.52,
+          "end": 31.02
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 31.02,
+      "end": 36.28,
+      "start_formatted": "00:00:31",
+      "end_formatted": "00:00:36",
+      "text": "It's just a few minutes long and I have something very important to announce. So let's get right to it.",
+      "words": [
+        {
+          "word": " It's",
+          "start": 31.02,
+          "end": 31.28
+        },
+        {
+          "word": " just",
+          "start": 31.28,
+          "end": 31.44
+        },
+        {
+          "word": " a",
+          "start": 31.44,
+          "end": 31.62
+        },
+        {
+          "word": " few",
+          "start": 31.62,
+          "end": 31.78
+        },
+        {
+          "word": " minutes",
+          "start": 31.78,
+          "end": 31.98
+        },
+        {
+          "word": " long",
+          "start": 31.98,
+          "end": 32.32
+        },
+        {
+          "word": " and",
+          "start": 32.32,
+          "end": 32.8
+        },
+        {
+          "word": " I",
+          "start": 32.8,
+          "end": 32.88
+        },
+        {
+          "word": " have",
+          "start": 32.88,
+          "end": 32.98
+        },
+        {
+          "word": " something",
+          "start": 32.98,
+          "end": 33.24
+        },
+        {
+          "word": " very",
+          "start": 33.24,
+          "end": 33.56
+        },
+        {
+          "word": " important",
+          "start": 33.56,
+          "end": 34.02
+        },
+        {
+          "word": " to",
+          "start": 34.02,
+          "end": 34.2
+        },
+        {
+          "word": " announce.",
+          "start": 34.2,
+          "end": 34.5
+        },
+        {
+          "word": " So",
+          "start": 34.72,
+          "end": 34.88
+        },
+        {
+          "word": " let's",
+          "start": 34.88,
+          "end": 35.16
+        },
+        {
+          "word": " get",
+          "start": 35.16,
+          "end": 35.34
+        },
+        {
+          "word": " right",
+          "start": 35.34,
+          "end": 35.7
+        },
+        {
+          "word": " to",
+          "start": 35.7,
+          "end": 36.04
+        },
+        {
+          "word": " it.",
+          "start": 36.04,
+          "end": 36.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 36.62,
+      "end": 46.98,
+      "start_formatted": "00:00:36",
+      "end_formatted": "00:00:46",
+      "text": "So we are doing our second ever live summit with you, our listeners on February 25th from 12 p.m. to 3 p.m. Central.",
+      "words": [
+        {
+          "word": " So",
+          "start": 36.62,
+          "end": 36.9
+        },
+        {
+          "word": " we",
+          "start": 36.9,
+          "end": 37.24
+        },
+        {
+          "word": " are",
+          "start": 37.24,
+          "end": 37.42
+        },
+        {
+          "word": " doing",
+          "start": 37.42,
+          "end": 37.74
+        },
+        {
+          "word": " our",
+          "start": 37.74,
+          "end": 38.04
+        },
+        {
+          "word": " second",
+          "start": 38.04,
+          "end": 38.52
+        },
+        {
+          "word": " ever",
+          "start": 38.52,
+          "end": 39.0
+        },
+        {
+          "word": " live",
+          "start": 39.0,
+          "end": 39.54
+        },
+        {
+          "word": " summit",
+          "start": 39.54,
+          "end": 40.1
+        },
+        {
+          "word": " with",
+          "start": 40.1,
+          "end": 40.5
+        },
+        {
+          "word": " you,",
+          "start": 40.5,
+          "end": 40.9
+        },
+        {
+          "word": " our",
+          "start": 41.0,
+          "end": 41.22
+        },
+        {
+          "word": " listeners",
+          "start": 41.22,
+          "end": 41.66
+        },
+        {
+          "word": " on",
+          "start": 41.66,
+          "end": 42.38
+        },
+        {
+          "word": " February",
+          "start": 42.38,
+          "end": 42.8
+        },
+        {
+          "word": " 25th",
+          "start": 42.8,
+          "end": 44.16
+        },
+        {
+          "word": " from",
+          "start": 44.16,
+          "end": 44.3
+        },
+        {
+          "word": " 12",
+          "start": 44.3,
+          "end": 44.64
+        },
+        {
+          "word": " p",
+          "start": 44.64,
+          "end": 45.0
+        },
+        {
+          "word": ".m.",
+          "start": 45.0,
+          "end": 45.2
+        },
+        {
+          "word": " to",
+          "start": 45.38,
+          "end": 45.68
+        },
+        {
+          "word": " 3",
+          "start": 45.68,
+          "end": 46.08
+        },
+        {
+          "word": " p",
+          "start": 46.08,
+          "end": 46.36
+        },
+        {
+          "word": ".m.",
+          "start": 46.36,
+          "end": 46.54
+        },
+        {
+          "word": " Central.",
+          "start": 46.72,
+          "end": 46.98
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 47.1,
+      "end": 53.56,
+      "start_formatted": "00:00:47",
+      "end_formatted": "00:00:53",
+      "text": "We did this last month and it really was popular. We sold it out and what's even better at this time.",
+      "words": [
+        {
+          "word": " We",
+          "start": 47.1,
+          "end": 47.18
+        },
+        {
+          "word": " did",
+          "start": 47.18,
+          "end": 47.32
+        },
+        {
+          "word": " this",
+          "start": 47.32,
+          "end": 47.56
+        },
+        {
+          "word": " last",
+          "start": 47.56,
+          "end": 47.78
+        },
+        {
+          "word": " month",
+          "start": 47.78,
+          "end": 48.14
+        },
+        {
+          "word": " and",
+          "start": 48.14,
+          "end": 48.44
+        },
+        {
+          "word": " it",
+          "start": 48.44,
+          "end": 48.62
+        },
+        {
+          "word": " really",
+          "start": 48.62,
+          "end": 49.18
+        },
+        {
+          "word": " was",
+          "start": 49.18,
+          "end": 49.4
+        },
+        {
+          "word": " popular.",
+          "start": 49.4,
+          "end": 49.82
+        },
+        {
+          "word": " We",
+          "start": 50.2,
+          "end": 50.3
+        },
+        {
+          "word": " sold",
+          "start": 50.3,
+          "end": 50.54
+        },
+        {
+          "word": " it",
+          "start": 50.54,
+          "end": 50.74
+        },
+        {
+          "word": " out",
+          "start": 50.74,
+          "end": 50.98
+        },
+        {
+          "word": " and",
+          "start": 50.98,
+          "end": 51.74
+        },
+        {
+          "word": " what's",
+          "start": 51.74,
+          "end": 52.08
+        },
+        {
+          "word": " even",
+          "start": 52.08,
+          "end": 52.28
+        },
+        {
+          "word": " better",
+          "start": 52.28,
+          "end": 52.64
+        },
+        {
+          "word": " at",
+          "start": 52.64,
+          "end": 52.84
+        },
+        {
+          "word": " this",
+          "start": 52.84,
+          "end": 53.08
+        },
+        {
+          "word": " time.",
+          "start": 53.08,
+          "end": 53.56
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 53.56,
+      "end": 58.3,
+      "start_formatted": "00:00:53",
+      "end_formatted": "00:00:58",
+      "text": "We have different speakers. We have different sessions. But this time it's totally free last month.",
+      "words": [
+        {
+          "word": " We",
+          "start": 53.56,
+          "end": 53.74
+        },
+        {
+          "word": " have",
+          "start": 53.74,
+          "end": 53.86
+        },
+        {
+          "word": " different",
+          "start": 53.86,
+          "end": 54.18
+        },
+        {
+          "word": " speakers.",
+          "start": 54.18,
+          "end": 54.62
+        },
+        {
+          "word": " We",
+          "start": 54.62,
+          "end": 55.08
+        },
+        {
+          "word": " have",
+          "start": 55.08,
+          "end": 55.16
+        },
+        {
+          "word": " different",
+          "start": 55.16,
+          "end": 55.38
+        },
+        {
+          "word": " sessions.",
+          "start": 55.38,
+          "end": 55.84
+        },
+        {
+          "word": " But",
+          "start": 55.84,
+          "end": 56.36
+        },
+        {
+          "word": " this",
+          "start": 56.36,
+          "end": 56.56
+        },
+        {
+          "word": " time",
+          "start": 56.56,
+          "end": 56.76
+        },
+        {
+          "word": " it's",
+          "start": 56.76,
+          "end": 56.96
+        },
+        {
+          "word": " totally",
+          "start": 56.96,
+          "end": 57.28
+        },
+        {
+          "word": " free",
+          "start": 57.28,
+          "end": 57.72
+        },
+        {
+          "word": " last",
+          "start": 57.72,
+          "end": 58.06
+        },
+        {
+          "word": " month.",
+          "start": 58.06,
+          "end": 58.3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 58.3,
+      "end": 68.02,
+      "start_formatted": "00:00:58",
+      "end_formatted": "00:01:08",
+      "text": "You had to pay because we didn't have sponsors. We have that now. So if you go to keeping it real webinar dot com promo code podcast again keeping it real",
+      "words": [
+        {
+          "word": " You",
+          "start": 58.3,
+          "end": 58.46
+        },
+        {
+          "word": " had",
+          "start": 58.46,
+          "end": 58.6
+        },
+        {
+          "word": " to",
+          "start": 58.6,
+          "end": 58.72
+        },
+        {
+          "word": " pay",
+          "start": 58.72,
+          "end": 58.92
+        },
+        {
+          "word": " because",
+          "start": 58.92,
+          "end": 59.12
+        },
+        {
+          "word": " we",
+          "start": 59.12,
+          "end": 59.26
+        },
+        {
+          "word": " didn't",
+          "start": 59.26,
+          "end": 59.56
+        },
+        {
+          "word": " have",
+          "start": 59.56,
+          "end": 59.72
+        },
+        {
+          "word": " sponsors.",
+          "start": 59.72,
+          "end": 60.12
+        },
+        {
+          "word": " We",
+          "start": 60.12,
+          "end": 60.64
+        },
+        {
+          "word": " have",
+          "start": 60.64,
+          "end": 60.88
+        },
+        {
+          "word": " that",
+          "start": 60.88,
+          "end": 61.1
+        },
+        {
+          "word": " now.",
+          "start": 61.1,
+          "end": 61.38
+        },
+        {
+          "word": " So",
+          "start": 61.6,
+          "end": 61.7
+        },
+        {
+          "word": " if",
+          "start": 61.7,
+          "end": 62.24
+        },
+        {
+          "word": " you",
+          "start": 62.24,
+          "end": 62.36
+        },
+        {
+          "word": " go",
+          "start": 62.36,
+          "end": 62.5
+        },
+        {
+          "word": " to",
+          "start": 62.5,
+          "end": 62.58
+        },
+        {
+          "word": " keeping",
+          "start": 62.58,
+          "end": 62.92
+        },
+        {
+          "word": " it",
+          "start": 62.92,
+          "end": 63.14
+        },
+        {
+          "word": " real",
+          "start": 63.14,
+          "end": 63.32
+        },
+        {
+          "word": " webinar",
+          "start": 63.32,
+          "end": 63.76
+        },
+        {
+          "word": " dot",
+          "start": 63.76,
+          "end": 64.22
+        },
+        {
+          "word": " com",
+          "start": 64.22,
+          "end": 64.66
+        },
+        {
+          "word": " promo",
+          "start": 64.66,
+          "end": 65.5
+        },
+        {
+          "word": " code",
+          "start": 65.5,
+          "end": 65.86
+        },
+        {
+          "word": " podcast",
+          "start": 65.86,
+          "end": 66.58
+        },
+        {
+          "word": " again",
+          "start": 66.58,
+          "end": 67.12
+        },
+        {
+          "word": " keeping",
+          "start": 67.12,
+          "end": 67.56
+        },
+        {
+          "word": " it",
+          "start": 67.56,
+          "end": 67.78
+        },
+        {
+          "word": " real",
+          "start": 67.78,
+          "end": 68.02
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 68.02,
+      "end": 76.94,
+      "start_formatted": "00:01:08",
+      "end_formatted": "00:01:16",
+      "text": "webinar dot com sign up with promo code podcast. It will reduce the price to zero. And let me tell you about the sessions we have.",
+      "words": [
+        {
+          "word": " webinar",
+          "start": 68.02,
+          "end": 68.48
+        },
+        {
+          "word": " dot",
+          "start": 68.48,
+          "end": 68.88
+        },
+        {
+          "word": " com",
+          "start": 68.88,
+          "end": 69.28
+        },
+        {
+          "word": " sign",
+          "start": 69.28,
+          "end": 69.96
+        },
+        {
+          "word": " up",
+          "start": 69.96,
+          "end": 70.18
+        },
+        {
+          "word": " with",
+          "start": 70.18,
+          "end": 70.36
+        },
+        {
+          "word": " promo",
+          "start": 70.36,
+          "end": 70.86
+        },
+        {
+          "word": " code",
+          "start": 70.86,
+          "end": 71.2
+        },
+        {
+          "word": " podcast.",
+          "start": 71.2,
+          "end": 71.86
+        },
+        {
+          "word": " It",
+          "start": 72.14,
+          "end": 72.46
+        },
+        {
+          "word": " will",
+          "start": 72.46,
+          "end": 72.62
+        },
+        {
+          "word": " reduce",
+          "start": 72.62,
+          "end": 73.02
+        },
+        {
+          "word": " the",
+          "start": 73.02,
+          "end": 73.44
+        },
+        {
+          "word": " price",
+          "start": 73.44,
+          "end": 73.76
+        },
+        {
+          "word": " to",
+          "start": 73.76,
+          "end": 74.1
+        },
+        {
+          "word": " zero.",
+          "start": 74.1,
+          "end": 74.64
+        },
+        {
+          "word": " And",
+          "start": 74.86,
+          "end": 75.3
+        },
+        {
+          "word": " let",
+          "start": 75.3,
+          "end": 75.58
+        },
+        {
+          "word": " me",
+          "start": 75.58,
+          "end": 75.64
+        },
+        {
+          "word": " tell",
+          "start": 75.64,
+          "end": 75.8
+        },
+        {
+          "word": " you",
+          "start": 75.8,
+          "end": 75.9
+        },
+        {
+          "word": " about",
+          "start": 75.9,
+          "end": 76.06
+        },
+        {
+          "word": " the",
+          "start": 76.06,
+          "end": 76.18
+        },
+        {
+          "word": " sessions",
+          "start": 76.18,
+          "end": 76.46
+        },
+        {
+          "word": " we",
+          "start": 76.46,
+          "end": 76.68
+        },
+        {
+          "word": " have.",
+          "start": 76.68,
+          "end": 76.94
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 76.94,
+      "end": 86.24,
+      "start_formatted": "00:01:16",
+      "end_formatted": "00:01:26",
+      "text": "I have a top 1% producer her name is Danielle Dowell. You can look her up. She's the real deal. She's going to talk about how she and her team are gearing up for the spring market.",
+      "words": [
+        {
+          "word": " I",
+          "start": 76.94,
+          "end": 77.16
+        },
+        {
+          "word": " have",
+          "start": 77.16,
+          "end": 77.3
+        },
+        {
+          "word": " a",
+          "start": 77.3,
+          "end": 77.42
+        },
+        {
+          "word": " top",
+          "start": 77.42,
+          "end": 77.68
+        },
+        {
+          "word": " 1",
+          "start": 77.68,
+          "end": 78.16
+        },
+        {
+          "word": "%",
+          "start": 78.16,
+          "end": 78.54
+        },
+        {
+          "word": " producer",
+          "start": 78.54,
+          "end": 79.04
+        },
+        {
+          "word": " her",
+          "start": 79.04,
+          "end": 79.44
+        },
+        {
+          "word": " name",
+          "start": 79.44,
+          "end": 79.54
+        },
+        {
+          "word": " is",
+          "start": 79.54,
+          "end": 79.72
+        },
+        {
+          "word": " Danielle",
+          "start": 79.72,
+          "end": 79.94
+        },
+        {
+          "word": " Dowell.",
+          "start": 79.94,
+          "end": 80.54
+        },
+        {
+          "word": " You",
+          "start": 80.62,
+          "end": 80.76
+        },
+        {
+          "word": " can",
+          "start": 80.76,
+          "end": 80.82
+        },
+        {
+          "word": " look",
+          "start": 80.82,
+          "end": 80.96
+        },
+        {
+          "word": " her",
+          "start": 80.96,
+          "end": 81.12
+        },
+        {
+          "word": " up.",
+          "start": 81.12,
+          "end": 81.28
+        },
+        {
+          "word": " She's",
+          "start": 81.32,
+          "end": 81.56
+        },
+        {
+          "word": " the",
+          "start": 81.56,
+          "end": 81.78
+        },
+        {
+          "word": " real",
+          "start": 81.78,
+          "end": 82.1
+        },
+        {
+          "word": " deal.",
+          "start": 82.1,
+          "end": 82.48
+        },
+        {
+          "word": " She's",
+          "start": 82.52,
+          "end": 82.94
+        },
+        {
+          "word": " going",
+          "start": 82.94,
+          "end": 83.0
+        },
+        {
+          "word": " to",
+          "start": 83.0,
+          "end": 83.06
+        },
+        {
+          "word": " talk",
+          "start": 83.06,
+          "end": 83.28
+        },
+        {
+          "word": " about",
+          "start": 83.28,
+          "end": 83.56
+        },
+        {
+          "word": " how",
+          "start": 83.56,
+          "end": 83.8
+        },
+        {
+          "word": " she",
+          "start": 83.8,
+          "end": 84.1
+        },
+        {
+          "word": " and",
+          "start": 84.1,
+          "end": 84.32
+        },
+        {
+          "word": " her",
+          "start": 84.32,
+          "end": 84.4
+        },
+        {
+          "word": " team",
+          "start": 84.4,
+          "end": 84.64
+        },
+        {
+          "word": " are",
+          "start": 84.64,
+          "end": 84.78
+        },
+        {
+          "word": " gearing",
+          "start": 84.78,
+          "end": 85.12
+        },
+        {
+          "word": " up",
+          "start": 85.12,
+          "end": 85.34
+        },
+        {
+          "word": " for",
+          "start": 85.34,
+          "end": 85.52
+        },
+        {
+          "word": " the",
+          "start": 85.52,
+          "end": 85.62
+        },
+        {
+          "word": " spring",
+          "start": 85.62,
+          "end": 85.88
+        },
+        {
+          "word": " market.",
+          "start": 85.88,
+          "end": 86.24
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 86.24,
+      "end": 94.92,
+      "start_formatted": "00:01:26",
+      "end_formatted": "00:01:34",
+      "text": "So you can do the same. We have our second session is with an amazing real estate coach Brent Scott from the locker room. Check out the locker room. They're amazing.",
+      "words": [
+        {
+          "word": " So",
+          "start": 86.24,
+          "end": 86.48
+        },
+        {
+          "word": " you",
+          "start": 86.48,
+          "end": 86.68
+        },
+        {
+          "word": " can",
+          "start": 86.68,
+          "end": 86.84
+        },
+        {
+          "word": " do",
+          "start": 86.84,
+          "end": 86.96
+        },
+        {
+          "word": " the",
+          "start": 86.96,
+          "end": 87.1
+        },
+        {
+          "word": " same.",
+          "start": 87.1,
+          "end": 87.36
+        },
+        {
+          "word": " We",
+          "start": 87.7,
+          "end": 87.82
+        },
+        {
+          "word": " have",
+          "start": 87.82,
+          "end": 87.94
+        },
+        {
+          "word": " our",
+          "start": 87.94,
+          "end": 88.14
+        },
+        {
+          "word": " second",
+          "start": 88.14,
+          "end": 88.48
+        },
+        {
+          "word": " session",
+          "start": 88.48,
+          "end": 88.9
+        },
+        {
+          "word": " is",
+          "start": 88.9,
+          "end": 89.26
+        },
+        {
+          "word": " with",
+          "start": 89.26,
+          "end": 89.52
+        },
+        {
+          "word": " an",
+          "start": 89.52,
+          "end": 89.64
+        },
+        {
+          "word": " amazing",
+          "start": 89.64,
+          "end": 90.06
+        },
+        {
+          "word": " real",
+          "start": 90.06,
+          "end": 90.48
+        },
+        {
+          "word": " estate",
+          "start": 90.48,
+          "end": 90.76
+        },
+        {
+          "word": " coach",
+          "start": 90.76,
+          "end": 91.14
+        },
+        {
+          "word": " Brent",
+          "start": 91.14,
+          "end": 91.46
+        },
+        {
+          "word": " Scott",
+          "start": 91.46,
+          "end": 91.78
+        },
+        {
+          "word": " from",
+          "start": 91.78,
+          "end": 92.48
+        },
+        {
+          "word": " the",
+          "start": 92.48,
+          "end": 92.78
+        },
+        {
+          "word": " locker",
+          "start": 92.78,
+          "end": 93.14
+        },
+        {
+          "word": " room.",
+          "start": 93.14,
+          "end": 93.4
+        },
+        {
+          "word": " Check",
+          "start": 93.5,
+          "end": 93.6
+        },
+        {
+          "word": " out",
+          "start": 93.6,
+          "end": 93.74
+        },
+        {
+          "word": " the",
+          "start": 93.74,
+          "end": 93.86
+        },
+        {
+          "word": " locker",
+          "start": 93.86,
+          "end": 94.12
+        },
+        {
+          "word": " room.",
+          "start": 94.12,
+          "end": 94.34
+        },
+        {
+          "word": " They're",
+          "start": 94.34,
+          "end": 94.44
+        },
+        {
+          "word": " amazing.",
+          "start": 94.44,
+          "end": 94.92
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 95.14,
+      "end": 103.74,
+      "start_formatted": "00:01:35",
+      "end_formatted": "00:01:43",
+      "text": "And he's going to be coaching Melanie Miller. She is an national association of REALTORS 30 under 30 winner. She's young. She's crushing it.",
+      "words": [
+        {
+          "word": " And",
+          "start": 95.14,
+          "end": 95.48
+        },
+        {
+          "word": " he's",
+          "start": 95.48,
+          "end": 95.82
+        },
+        {
+          "word": " going",
+          "start": 95.82,
+          "end": 95.98
+        },
+        {
+          "word": " to",
+          "start": 95.98,
+          "end": 96.14
+        },
+        {
+          "word": " be",
+          "start": 96.14,
+          "end": 96.24
+        },
+        {
+          "word": " coaching",
+          "start": 96.24,
+          "end": 96.68
+        },
+        {
+          "word": " Melanie",
+          "start": 96.68,
+          "end": 97.42
+        },
+        {
+          "word": " Miller.",
+          "start": 97.42,
+          "end": 97.84
+        },
+        {
+          "word": " She",
+          "start": 97.92,
+          "end": 98.16
+        },
+        {
+          "word": " is",
+          "start": 98.16,
+          "end": 98.4
+        },
+        {
+          "word": " an",
+          "start": 98.4,
+          "end": 98.58
+        },
+        {
+          "word": " national",
+          "start": 98.58,
+          "end": 99.16
+        },
+        {
+          "word": " association",
+          "start": 99.16,
+          "end": 99.72
+        },
+        {
+          "word": " of",
+          "start": 99.72,
+          "end": 100.04
+        },
+        {
+          "word": " REALTORS",
+          "start": 100.04,
+          "end": 100.5
+        },
+        {
+          "word": " 30",
+          "start": 100.5,
+          "end": 101.08
+        },
+        {
+          "word": " under",
+          "start": 101.08,
+          "end": 101.5
+        },
+        {
+          "word": " 30",
+          "start": 101.5,
+          "end": 101.88
+        },
+        {
+          "word": " winner.",
+          "start": 101.88,
+          "end": 102.2
+        },
+        {
+          "word": " She's",
+          "start": 102.22,
+          "end": 102.54
+        },
+        {
+          "word": " young.",
+          "start": 102.54,
+          "end": 102.76
+        },
+        {
+          "word": " She's",
+          "start": 102.92,
+          "end": 103.12
+        },
+        {
+          "word": " crushing",
+          "start": 103.12,
+          "end": 103.5
+        },
+        {
+          "word": " it.",
+          "start": 103.5,
+          "end": 103.74
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 103.74,
+      "end": 111.5,
+      "start_formatted": "00:01:43",
+      "end_formatted": "00:01:51",
+      "text": "And he's going to go through her business. And she's going to basically give scores for how she's doing. He's going to give her suggestions on how to proceed.",
+      "words": [
+        {
+          "word": " And",
+          "start": 103.74,
+          "end": 104.32
+        },
+        {
+          "word": " he's",
+          "start": 104.32,
+          "end": 104.6
+        },
+        {
+          "word": " going",
+          "start": 104.6,
+          "end": 104.7
+        },
+        {
+          "word": " to",
+          "start": 104.7,
+          "end": 104.8
+        },
+        {
+          "word": " go",
+          "start": 104.8,
+          "end": 104.94
+        },
+        {
+          "word": " through",
+          "start": 104.94,
+          "end": 105.14
+        },
+        {
+          "word": " her",
+          "start": 105.14,
+          "end": 105.3
+        },
+        {
+          "word": " business.",
+          "start": 105.3,
+          "end": 105.64
+        },
+        {
+          "word": " And",
+          "start": 105.98,
+          "end": 106.3
+        },
+        {
+          "word": " she's",
+          "start": 106.3,
+          "end": 106.64
+        },
+        {
+          "word": " going",
+          "start": 106.64,
+          "end": 106.76
+        },
+        {
+          "word": " to",
+          "start": 106.76,
+          "end": 106.94
+        },
+        {
+          "word": " basically",
+          "start": 106.94,
+          "end": 107.5
+        },
+        {
+          "word": " give",
+          "start": 107.5,
+          "end": 107.86
+        },
+        {
+          "word": " scores",
+          "start": 107.86,
+          "end": 108.36
+        },
+        {
+          "word": " for",
+          "start": 108.36,
+          "end": 108.64
+        },
+        {
+          "word": " how",
+          "start": 108.64,
+          "end": 108.82
+        },
+        {
+          "word": " she's",
+          "start": 108.82,
+          "end": 109.1
+        },
+        {
+          "word": " doing.",
+          "start": 109.1,
+          "end": 109.34
+        },
+        {
+          "word": " He's",
+          "start": 109.46,
+          "end": 109.82
+        },
+        {
+          "word": " going",
+          "start": 109.82,
+          "end": 109.92
+        },
+        {
+          "word": " to",
+          "start": 109.92,
+          "end": 110.0
+        },
+        {
+          "word": " give",
+          "start": 110.0,
+          "end": 110.1
+        },
+        {
+          "word": " her",
+          "start": 110.1,
+          "end": 110.22
+        },
+        {
+          "word": " suggestions",
+          "start": 110.22,
+          "end": 110.66
+        },
+        {
+          "word": " on",
+          "start": 110.66,
+          "end": 110.92
+        },
+        {
+          "word": " how",
+          "start": 110.92,
+          "end": 111.08
+        },
+        {
+          "word": " to",
+          "start": 111.08,
+          "end": 111.16
+        },
+        {
+          "word": " proceed.",
+          "start": 111.16,
+          "end": 111.5
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 111.7,
+      "end": 122.62,
+      "start_formatted": "00:01:51",
+      "end_formatted": "00:02:02",
+      "text": "But the best part is you get to do the same thing along with Melanie. So you're going to be able to follow along and do your own coaching session. And trust me we did this last month. It was awesome.",
+      "words": [
+        {
+          "word": " But",
+          "start": 111.7,
+          "end": 111.92
+        },
+        {
+          "word": " the",
+          "start": 111.92,
+          "end": 112.04
+        },
+        {
+          "word": " best",
+          "start": 112.04,
+          "end": 112.36
+        },
+        {
+          "word": " part",
+          "start": 112.36,
+          "end": 112.56
+        },
+        {
+          "word": " is",
+          "start": 112.56,
+          "end": 112.78
+        },
+        {
+          "word": " you",
+          "start": 112.78,
+          "end": 113.04
+        },
+        {
+          "word": " get",
+          "start": 113.04,
+          "end": 113.22
+        },
+        {
+          "word": " to",
+          "start": 113.22,
+          "end": 113.38
+        },
+        {
+          "word": " do",
+          "start": 113.38,
+          "end": 113.5
+        },
+        {
+          "word": " the",
+          "start": 113.5,
+          "end": 113.64
+        },
+        {
+          "word": " same",
+          "start": 113.64,
+          "end": 113.98
+        },
+        {
+          "word": " thing",
+          "start": 113.98,
+          "end": 114.26
+        },
+        {
+          "word": " along",
+          "start": 114.26,
+          "end": 114.74
+        },
+        {
+          "word": " with",
+          "start": 114.74,
+          "end": 115.56
+        },
+        {
+          "word": " Melanie.",
+          "start": 115.56,
+          "end": 115.94
+        },
+        {
+          "word": " So",
+          "start": 116.16,
+          "end": 116.22
+        },
+        {
+          "word": " you're",
+          "start": 116.22,
+          "end": 116.36
+        },
+        {
+          "word": " going",
+          "start": 116.36,
+          "end": 116.44
+        },
+        {
+          "word": " to",
+          "start": 116.44,
+          "end": 116.48
+        },
+        {
+          "word": " be",
+          "start": 116.48,
+          "end": 116.58
+        },
+        {
+          "word": " able",
+          "start": 116.58,
+          "end": 116.72
+        },
+        {
+          "word": " to",
+          "start": 116.72,
+          "end": 116.8
+        },
+        {
+          "word": " follow",
+          "start": 116.8,
+          "end": 117.2
+        },
+        {
+          "word": " along",
+          "start": 117.2,
+          "end": 117.56
+        },
+        {
+          "word": " and",
+          "start": 117.56,
+          "end": 118.0
+        },
+        {
+          "word": " do",
+          "start": 118.0,
+          "end": 118.24
+        },
+        {
+          "word": " your",
+          "start": 118.24,
+          "end": 118.44
+        },
+        {
+          "word": " own",
+          "start": 118.44,
+          "end": 118.8
+        },
+        {
+          "word": " coaching",
+          "start": 118.8,
+          "end": 119.18
+        },
+        {
+          "word": " session.",
+          "start": 119.18,
+          "end": 119.7
+        },
+        {
+          "word": " And",
+          "start": 119.92,
+          "end": 120.22
+        },
+        {
+          "word": " trust",
+          "start": 120.22,
+          "end": 120.5
+        },
+        {
+          "word": " me",
+          "start": 120.5,
+          "end": 120.68
+        },
+        {
+          "word": " we",
+          "start": 120.68,
+          "end": 120.8
+        },
+        {
+          "word": " did",
+          "start": 120.8,
+          "end": 120.94
+        },
+        {
+          "word": " this",
+          "start": 120.94,
+          "end": 121.12
+        },
+        {
+          "word": " last",
+          "start": 121.12,
+          "end": 121.3
+        },
+        {
+          "word": " month.",
+          "start": 121.3,
+          "end": 121.6
+        },
+        {
+          "word": " It",
+          "start": 121.82,
+          "end": 121.94
+        },
+        {
+          "word": " was",
+          "start": 121.94,
+          "end": 122.1
+        },
+        {
+          "word": " awesome.",
+          "start": 122.1,
+          "end": 122.62
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 122.62,
+      "end": 135.88,
+      "start_formatted": "00:02:02",
+      "end_formatted": "00:02:15",
+      "text": "Our third session is Kim Rittberg. She is our resident video specialist. And she is an ex netflix executive. And she's worked at a bunch of other networks to cheat all she does these days is teach REALTORS how to crush it on video.",
+      "words": [
+        {
+          "word": " Our",
+          "start": 122.62,
+          "end": 123.04
+        },
+        {
+          "word": " third",
+          "start": 123.04,
+          "end": 123.3
+        },
+        {
+          "word": " session",
+          "start": 123.3,
+          "end": 123.74
+        },
+        {
+          "word": " is",
+          "start": 123.74,
+          "end": 124.06
+        },
+        {
+          "word": " Kim",
+          "start": 124.06,
+          "end": 124.38
+        },
+        {
+          "word": " Rittberg.",
+          "start": 124.38,
+          "end": 124.98
+        },
+        {
+          "word": " She",
+          "start": 125.14,
+          "end": 125.26
+        },
+        {
+          "word": " is",
+          "start": 125.26,
+          "end": 125.44
+        },
+        {
+          "word": " our",
+          "start": 125.44,
+          "end": 125.6
+        },
+        {
+          "word": " resident",
+          "start": 125.6,
+          "end": 125.96
+        },
+        {
+          "word": " video",
+          "start": 125.96,
+          "end": 126.34
+        },
+        {
+          "word": " specialist.",
+          "start": 126.34,
+          "end": 126.92
+        },
+        {
+          "word": " And",
+          "start": 127.5,
+          "end": 127.62
+        },
+        {
+          "word": " she",
+          "start": 127.62,
+          "end": 127.86
+        },
+        {
+          "word": " is",
+          "start": 127.86,
+          "end": 127.98
+        },
+        {
+          "word": " an",
+          "start": 127.98,
+          "end": 128.14
+        },
+        {
+          "word": " ex",
+          "start": 128.14,
+          "end": 128.44
+        },
+        {
+          "word": " netflix",
+          "start": 128.44,
+          "end": 129.18
+        },
+        {
+          "word": " executive.",
+          "start": 129.18,
+          "end": 129.84
+        },
+        {
+          "word": " And",
+          "start": 129.94,
+          "end": 130.0
+        },
+        {
+          "word": " she's",
+          "start": 130.0,
+          "end": 130.2
+        },
+        {
+          "word": " worked",
+          "start": 130.2,
+          "end": 130.32
+        },
+        {
+          "word": " at",
+          "start": 130.32,
+          "end": 130.44
+        },
+        {
+          "word": " a",
+          "start": 130.44,
+          "end": 130.54
+        },
+        {
+          "word": " bunch",
+          "start": 130.54,
+          "end": 130.72
+        },
+        {
+          "word": " of",
+          "start": 130.72,
+          "end": 130.9
+        },
+        {
+          "word": " other",
+          "start": 130.9,
+          "end": 131.08
+        },
+        {
+          "word": " networks",
+          "start": 131.08,
+          "end": 131.42
+        },
+        {
+          "word": " to",
+          "start": 131.42,
+          "end": 131.74
+        },
+        {
+          "word": " cheat",
+          "start": 131.74,
+          "end": 132.38
+        },
+        {
+          "word": " all",
+          "start": 132.38,
+          "end": 132.74
+        },
+        {
+          "word": " she",
+          "start": 132.74,
+          "end": 133.02
+        },
+        {
+          "word": " does",
+          "start": 133.02,
+          "end": 133.2
+        },
+        {
+          "word": " these",
+          "start": 133.2,
+          "end": 133.48
+        },
+        {
+          "word": " days",
+          "start": 133.48,
+          "end": 133.7
+        },
+        {
+          "word": " is",
+          "start": 133.7,
+          "end": 133.96
+        },
+        {
+          "word": " teach",
+          "start": 133.96,
+          "end": 134.3
+        },
+        {
+          "word": " REALTORS",
+          "start": 134.3,
+          "end": 134.88
+        },
+        {
+          "word": " how",
+          "start": 134.88,
+          "end": 135.0
+        },
+        {
+          "word": " to",
+          "start": 135.0,
+          "end": 135.08
+        },
+        {
+          "word": " crush",
+          "start": 135.08,
+          "end": 135.36
+        },
+        {
+          "word": " it",
+          "start": 135.36,
+          "end": 135.5
+        },
+        {
+          "word": " on",
+          "start": 135.5,
+          "end": 135.6
+        },
+        {
+          "word": " video.",
+          "start": 135.6,
+          "end": 135.88
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 136.06,
+      "end": 145.98,
+      "start_formatted": "00:02:16",
+      "end_formatted": "00:02:25",
+      "text": "She's amazing. And she's going to do a different session than she did last month. So it's all new content. Guys, I'm so excited to bring this to you and make it totally free for our listeners.",
+      "words": [
+        {
+          "word": " She's",
+          "start": 136.06,
+          "end": 136.46
+        },
+        {
+          "word": " amazing.",
+          "start": 136.46,
+          "end": 136.9
+        },
+        {
+          "word": " And",
+          "start": 137.22,
+          "end": 137.4
+        },
+        {
+          "word": " she's",
+          "start": 137.4,
+          "end": 137.54
+        },
+        {
+          "word": " going",
+          "start": 137.54,
+          "end": 137.64
+        },
+        {
+          "word": " to",
+          "start": 137.64,
+          "end": 137.72
+        },
+        {
+          "word": " do",
+          "start": 137.72,
+          "end": 137.8
+        },
+        {
+          "word": " a",
+          "start": 137.8,
+          "end": 137.92
+        },
+        {
+          "word": " different",
+          "start": 137.92,
+          "end": 138.34
+        },
+        {
+          "word": " session",
+          "start": 138.34,
+          "end": 138.78
+        },
+        {
+          "word": " than",
+          "start": 138.78,
+          "end": 138.92
+        },
+        {
+          "word": " she",
+          "start": 138.92,
+          "end": 139.12
+        },
+        {
+          "word": " did",
+          "start": 139.12,
+          "end": 139.26
+        },
+        {
+          "word": " last",
+          "start": 139.26,
+          "end": 139.62
+        },
+        {
+          "word": " month.",
+          "start": 139.62,
+          "end": 139.96
+        },
+        {
+          "word": " So",
+          "start": 140.18,
+          "end": 140.38
+        },
+        {
+          "word": " it's",
+          "start": 140.38,
+          "end": 140.54
+        },
+        {
+          "word": " all",
+          "start": 140.54,
+          "end": 140.8
+        },
+        {
+          "word": " new",
+          "start": 140.8,
+          "end": 140.96
+        },
+        {
+          "word": " content.",
+          "start": 140.96,
+          "end": 141.44
+        },
+        {
+          "word": " Guys,",
+          "start": 141.66,
+          "end": 142.04
+        },
+        {
+          "word": " I'm",
+          "start": 142.16,
+          "end": 142.36
+        },
+        {
+          "word": " so",
+          "start": 142.36,
+          "end": 142.54
+        },
+        {
+          "word": " excited",
+          "start": 142.54,
+          "end": 142.96
+        },
+        {
+          "word": " to",
+          "start": 142.96,
+          "end": 143.1
+        },
+        {
+          "word": " bring",
+          "start": 143.1,
+          "end": 143.26
+        },
+        {
+          "word": " this",
+          "start": 143.26,
+          "end": 143.48
+        },
+        {
+          "word": " to",
+          "start": 143.48,
+          "end": 143.62
+        },
+        {
+          "word": " you",
+          "start": 143.62,
+          "end": 143.8
+        },
+        {
+          "word": " and",
+          "start": 143.8,
+          "end": 144.0
+        },
+        {
+          "word": " make",
+          "start": 144.0,
+          "end": 144.52
+        },
+        {
+          "word": " it",
+          "start": 144.52,
+          "end": 144.7
+        },
+        {
+          "word": " totally",
+          "start": 144.7,
+          "end": 144.9
+        },
+        {
+          "word": " free",
+          "start": 144.9,
+          "end": 145.34
+        },
+        {
+          "word": " for",
+          "start": 145.34,
+          "end": 145.54
+        },
+        {
+          "word": " our",
+          "start": 145.54,
+          "end": 145.64
+        },
+        {
+          "word": " listeners.",
+          "start": 145.64,
+          "end": 145.98
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 145.98,
+      "end": 158.8,
+      "start_formatted": "00:02:25",
+      "end_formatted": "00:02:38",
+      "text": "So please if you have other agents in your office that would love to attend give them the code. I'm okay with that. We do have a very limited number of seats. And once they're gone, they're gone. I literally can't do anything else about it.",
+      "words": [
+        {
+          "word": " So",
+          "start": 145.98,
+          "end": 146.56
+        },
+        {
+          "word": " please",
+          "start": 146.56,
+          "end": 146.88
+        },
+        {
+          "word": " if",
+          "start": 146.88,
+          "end": 147.06
+        },
+        {
+          "word": " you",
+          "start": 147.06,
+          "end": 147.18
+        },
+        {
+          "word": " have",
+          "start": 147.18,
+          "end": 147.5
+        },
+        {
+          "word": " other",
+          "start": 147.5,
+          "end": 147.82
+        },
+        {
+          "word": " agents",
+          "start": 147.82,
+          "end": 148.18
+        },
+        {
+          "word": " in",
+          "start": 148.18,
+          "end": 148.38
+        },
+        {
+          "word": " your",
+          "start": 148.38,
+          "end": 148.48
+        },
+        {
+          "word": " office",
+          "start": 148.48,
+          "end": 148.88
+        },
+        {
+          "word": " that",
+          "start": 148.88,
+          "end": 149.32
+        },
+        {
+          "word": " would",
+          "start": 149.32,
+          "end": 149.44
+        },
+        {
+          "word": " love",
+          "start": 149.44,
+          "end": 149.64
+        },
+        {
+          "word": " to",
+          "start": 149.64,
+          "end": 149.78
+        },
+        {
+          "word": " attend",
+          "start": 149.78,
+          "end": 150.2
+        },
+        {
+          "word": " give",
+          "start": 150.2,
+          "end": 150.5
+        },
+        {
+          "word": " them",
+          "start": 150.5,
+          "end": 150.64
+        },
+        {
+          "word": " the",
+          "start": 150.64,
+          "end": 150.78
+        },
+        {
+          "word": " code.",
+          "start": 150.78,
+          "end": 151.02
+        },
+        {
+          "word": " I'm",
+          "start": 151.22,
+          "end": 151.36
+        },
+        {
+          "word": " okay",
+          "start": 151.36,
+          "end": 151.6
+        },
+        {
+          "word": " with",
+          "start": 151.6,
+          "end": 151.78
+        },
+        {
+          "word": " that.",
+          "start": 151.78,
+          "end": 151.96
+        },
+        {
+          "word": " We",
+          "start": 152.06,
+          "end": 152.34
+        },
+        {
+          "word": " do",
+          "start": 152.34,
+          "end": 152.6
+        },
+        {
+          "word": " have",
+          "start": 152.6,
+          "end": 152.88
+        },
+        {
+          "word": " a",
+          "start": 152.88,
+          "end": 153.04
+        },
+        {
+          "word": " very",
+          "start": 153.04,
+          "end": 153.54
+        },
+        {
+          "word": " limited",
+          "start": 153.54,
+          "end": 154.14
+        },
+        {
+          "word": " number",
+          "start": 154.14,
+          "end": 154.76
+        },
+        {
+          "word": " of",
+          "start": 154.76,
+          "end": 155.0
+        },
+        {
+          "word": " seats.",
+          "start": 155.0,
+          "end": 155.26
+        },
+        {
+          "word": " And",
+          "start": 155.42,
+          "end": 155.46
+        },
+        {
+          "word": " once",
+          "start": 155.46,
+          "end": 155.7
+        },
+        {
+          "word": " they're",
+          "start": 155.7,
+          "end": 155.88
+        },
+        {
+          "word": " gone,",
+          "start": 155.88,
+          "end": 156.08
+        },
+        {
+          "word": " they're",
+          "start": 156.2,
+          "end": 156.32
+        },
+        {
+          "word": " gone.",
+          "start": 156.32,
+          "end": 156.5
+        },
+        {
+          "word": " I",
+          "start": 156.6,
+          "end": 156.64
+        },
+        {
+          "word": " literally",
+          "start": 156.64,
+          "end": 156.98
+        },
+        {
+          "word": " can't",
+          "start": 156.98,
+          "end": 157.74
+        },
+        {
+          "word": " do",
+          "start": 157.74,
+          "end": 157.82
+        },
+        {
+          "word": " anything",
+          "start": 157.82,
+          "end": 158.08
+        },
+        {
+          "word": " else",
+          "start": 158.08,
+          "end": 158.28
+        },
+        {
+          "word": " about",
+          "start": 158.28,
+          "end": 158.62
+        },
+        {
+          "word": " it.",
+          "start": 158.62,
+          "end": 158.8
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 158.8,
+      "end": 182.42,
+      "start_formatted": "00:02:38",
+      "end_formatted": "00:03:02",
+      "text": "So sign up right now. Go to keeping it real webinar.com forward. Sorry, not forward slash promo code podcast. One more time. Keeping it real webinar.com promo code podcast February 25th 12pm to 3pm central standard time. We will see you there. Sign up now before it's all gone. All right. I'll see you on the next episode. Thanks.",
+      "words": [
+        {
+          "word": " So",
+          "start": 158.8,
+          "end": 159.18
+        },
+        {
+          "word": " sign",
+          "start": 159.18,
+          "end": 159.56
+        },
+        {
+          "word": " up",
+          "start": 159.56,
+          "end": 159.72
+        },
+        {
+          "word": " right",
+          "start": 159.72,
+          "end": 160.02
+        },
+        {
+          "word": " now.",
+          "start": 160.02,
+          "end": 160.4
+        },
+        {
+          "word": " Go",
+          "start": 160.66,
+          "end": 160.8
+        },
+        {
+          "word": " to",
+          "start": 160.8,
+          "end": 160.86
+        },
+        {
+          "word": " keeping",
+          "start": 160.86,
+          "end": 161.22
+        },
+        {
+          "word": " it",
+          "start": 161.22,
+          "end": 161.42
+        },
+        {
+          "word": " real",
+          "start": 161.42,
+          "end": 161.62
+        },
+        {
+          "word": " webinar",
+          "start": 161.62,
+          "end": 162.08
+        },
+        {
+          "word": ".com",
+          "start": 162.08,
+          "end": 163.1
+        },
+        {
+          "word": " forward.",
+          "start": 163.1,
+          "end": 163.8
+        },
+        {
+          "word": " Sorry,",
+          "start": 164.02,
+          "end": 164.28
+        },
+        {
+          "word": " not",
+          "start": 164.38,
+          "end": 164.46
+        },
+        {
+          "word": " forward",
+          "start": 164.46,
+          "end": 164.66
+        },
+        {
+          "word": " slash",
+          "start": 164.66,
+          "end": 164.88
+        },
+        {
+          "word": " promo",
+          "start": 164.88,
+          "end": 165.5
+        },
+        {
+          "word": " code",
+          "start": 165.5,
+          "end": 165.94
+        },
+        {
+          "word": " podcast.",
+          "start": 165.94,
+          "end": 166.68
+        },
+        {
+          "word": " One",
+          "start": 167.0,
+          "end": 167.12
+        },
+        {
+          "word": " more",
+          "start": 167.12,
+          "end": 167.26
+        },
+        {
+          "word": " time.",
+          "start": 167.26,
+          "end": 167.5
+        },
+        {
+          "word": " Keeping",
+          "start": 167.62,
+          "end": 167.86
+        },
+        {
+          "word": " it",
+          "start": 167.86,
+          "end": 168.04
+        },
+        {
+          "word": " real",
+          "start": 168.04,
+          "end": 168.2
+        },
+        {
+          "word": " webinar",
+          "start": 168.2,
+          "end": 168.56
+        },
+        {
+          "word": ".com",
+          "start": 168.56,
+          "end": 169.46
+        },
+        {
+          "word": " promo",
+          "start": 169.46,
+          "end": 170.44
+        },
+        {
+          "word": " code",
+          "start": 170.44,
+          "end": 170.88
+        },
+        {
+          "word": " podcast",
+          "start": 170.88,
+          "end": 171.6
+        },
+        {
+          "word": " February",
+          "start": 171.6,
+          "end": 172.2
+        },
+        {
+          "word": " 25th",
+          "start": 172.2,
+          "end": 173.08
+        },
+        {
+          "word": " 12pm",
+          "start": 173.08,
+          "end": 173.72
+        },
+        {
+          "word": " to",
+          "start": 173.72,
+          "end": 174.22
+        },
+        {
+          "word": " 3pm",
+          "start": 174.22,
+          "end": 174.88
+        },
+        {
+          "word": " central",
+          "start": 174.88,
+          "end": 175.5
+        },
+        {
+          "word": " standard",
+          "start": 175.5,
+          "end": 176.04
+        },
+        {
+          "word": " time.",
+          "start": 176.04,
+          "end": 176.5
+        },
+        {
+          "word": " We",
+          "start": 176.66,
+          "end": 176.98
+        },
+        {
+          "word": " will",
+          "start": 176.98,
+          "end": 177.12
+        },
+        {
+          "word": " see",
+          "start": 177.12,
+          "end": 177.42
+        },
+        {
+          "word": " you",
+          "start": 177.42,
+          "end": 177.7
+        },
+        {
+          "word": " there.",
+          "start": 177.7,
+          "end": 178.0
+        },
+        {
+          "word": " Sign",
+          "start": 178.38,
+          "end": 178.7
+        },
+        {
+          "word": " up",
+          "start": 178.7,
+          "end": 178.9
+        },
+        {
+          "word": " now",
+          "start": 178.9,
+          "end": 179.08
+        },
+        {
+          "word": " before",
+          "start": 179.08,
+          "end": 179.4
+        },
+        {
+          "word": " it's",
+          "start": 179.4,
+          "end": 179.64
+        },
+        {
+          "word": " all",
+          "start": 179.64,
+          "end": 179.76
+        },
+        {
+          "word": " gone.",
+          "start": 179.76,
+          "end": 180.02
+        },
+        {
+          "word": " All",
+          "start": 180.22,
+          "end": 180.58
+        },
+        {
+          "word": " right.",
+          "start": 180.58,
+          "end": 180.72
+        },
+        {
+          "word": " I'll",
+          "start": 180.84,
+          "end": 180.94
+        },
+        {
+          "word": " see",
+          "start": 180.94,
+          "end": 181.1
+        },
+        {
+          "word": " you",
+          "start": 181.1,
+          "end": 181.18
+        },
+        {
+          "word": " on",
+          "start": 181.18,
+          "end": 181.26
+        },
+        {
+          "word": " the",
+          "start": 181.26,
+          "end": 181.3
+        },
+        {
+          "word": " next",
+          "start": 181.3,
+          "end": 181.48
+        },
+        {
+          "word": " episode.",
+          "start": 181.48,
+          "end": 181.84
+        },
+        {
+          "word": " Thanks.",
+          "start": 182.02,
+          "end": 182.42
+        }
+      ]
+    }
+  ],
+  "full_text": " I have something very big to announce. Stay tuned. Hello and welcome to another episode of Keeping It Real, the largest podcast made by real estate agents in four real estate agents. My name is DJ Paris. I'm your guide and host through the show. This is a very special episode. It's just a few minutes long and I have something very important to announce. So let's get right to it. So we are doing our second ever live summit with you, our listeners on February 25th from 12 p.m. to 3 p.m. Central. We did this last month and it really was popular. We sold it out and what's even better at this time. We have different speakers. We have different sessions. But this time it's totally free last month. You had to pay because we didn't have sponsors. We have that now. So if you go to keeping it real webinar dot com promo code podcast again keeping it real webinar dot com sign up with promo code podcast. It will reduce the price to zero. And let me tell you about the sessions we have. I have a top 1% producer her name is Danielle Dowell. You can look her up. She's the real deal. She's going to talk about how she and her team are gearing up for the spring market. So you can do the same. We have our second session is with an amazing real estate coach Brent Scott from the locker room. Check out the locker room. They're amazing. And he's going to be coaching Melanie Miller. She is an national association of REALTORS 30 under 30 winner. She's young. She's crushing it. And he's going to go through her business. And she's going to basically give scores for how she's doing. He's going to give her suggestions on how to proceed. But the best part is you get to do the same thing along with Melanie. So you're going to be able to follow along and do your own coaching session. And trust me we did this last month. It was awesome. Our third session is Kim Rittberg. She is our resident video specialist. And she is an ex netflix executive. And she's worked at a bunch of other networks to cheat all she does these days is teach REALTORS how to crush it on video. She's amazing. And she's going to do a different session than she did last month. So it's all new content. Guys, I'm so excited to bring this to you and make it totally free for our listeners. So please if you have other agents in your office that would love to attend give them the code. I'm okay with that. We do have a very limited number of seats. And once they're gone, they're gone. I literally can't do anything else about it. So sign up right now. Go to keeping it real webinar.com forward. Sorry, not forward slash promo code podcast. One more time. Keeping it real webinar.com promo code podcast February 25th 12pm to 3pm central standard time. We will see you there. Sign up now before it's all gone. All right. I'll see you on the next episode. Thanks."
+}
