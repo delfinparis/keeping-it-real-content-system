@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Expert",
+    "company": "Henry Street Media",
+    "production_level": "Top 1% Podcast Host",
+    "specialty": "Video and Social Media Strategy",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Social Media Video Strategy",
+    "Building Credibility and Connection",
+    "Using Video for Lead Generation",
+    "Balancing Personal and Professional Content",
+    "Effective Use of Technology in Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from social media",
+      "solution_summary": "Use a mix of personal and professional content to build credibility and connection, leading to consistent lead generation.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of confidence on camera",
+      "solution_summary": "Transfer in-person social skills to on-camera presence through practice and mindset shift.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting social media leads into clients",
+      "solution_summary": "Develop a solid video strategy that consistently showcases expertise and builds trust.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start using video effectively without prior experience.",
+      "key_takeaway": "Start with simple, authentic videos to build confidence and gradually increase complexity."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Producers looking to scale can learn advanced strategies for video content that drives high-value leads.",
+      "key_takeaway": "Focus on credibility and connection to convert video views into high-value transactions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "Hiding from the camera is hiding from clients. You're not selling a home; you're selling yourself.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges agents to rethink their approach to video marketing.",
+      "suggested_hook": "Are you hiding from your clients by avoiding the camera?"
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "Jessica sold $8 million in additional homes by consistently showing up on camera.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the tangible impact of video marketing on sales.",
+      "suggested_hook": "Want to know how video can add millions to your sales?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use iPhone for authentic, connection-building content.",
+      "context": "When creating day-to-day social media content to engage your audience.",
+      "timestamp": "26:00"
+    },
+    {
+      "tactic": "Invest in professional video shoots for high-value listings.",
+      "context": "When dealing with luxury properties or when you need to elevate your brand.",
+      "timestamp": "27:00"
+    },
+    {
+      "tactic": "Post consistently to maintain top-of-mind awareness.",
+      "context": "Determine a realistic posting schedule you can maintain long-term.",
+      "timestamp": "49:00"
+    }
+  ],
+  "quotable_insights": [
+    "Being good on camera is about transferring your great in-person social skills.",
+    "Hiding from the camera is hiding from clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable strategies for using video to generate real estate leads. She emphasizes the importance of building credibility and connection through a mix of personal and professional content. Kim also provides insights into balancing iPhone and professional video content, and how consistent posting can keep agents top-of-mind with their audience.",
+  "_metadata": {
+    "source_file": "2025-03-21_item80_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T19:59:19.910008",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Melanie Miller",
+    "title": "Top Producing REALTOR",
+    "company": "Keller Williams",
+    "production_level": "National Association of REALTORS 30 under 30",
+    "specialty": "Multi-family investment properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Agent Wheel Assessment",
+    "Time Management",
+    "Referral Systems",
+    "Vendor Partnerships",
+    "Personal Growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Lack of structured time management and boundaries",
+      "solution_summary": "Implement appointment slots and improve prioritization using the Eisenhower Matrix.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Filtering and following up on leads effectively",
+      "solution_summary": "Develop a more refined system to ensure leads are genuine and worth pursuing.",
+      "timestamp": "15:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Hands-on approach to transaction management",
+      "solution_summary": "Consider leveraging transaction management to free up time for other business activities.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into refining business systems and improving productivity.",
+      "key_takeaway": "Focus on setting boundaries and leveraging systems to enhance business efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "45:00",
+      "end_timestamp": "46:00",
+      "quote": "The gap between expectations and reality is where resentment and pain live.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures a common business and personal challenge.",
+      "suggested_hook": "Are your expectations causing you pain?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use the Eisenhower Matrix for prioritization",
+      "context": "Apply it to manage tasks based on urgency and importance.",
+      "timestamp": "49:00"
+    },
+    {
+      "tactic": "Develop a strong referral system",
+      "context": "Ask for referrals strategically and ensure excellent service to encourage more.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "If your business is a club, what does it feel like to be a member of your club?"
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Agent Wheel",
+      "context": "Used to assess and identify gaps in business systems."
+    }
+  ],
+  "episode_summary": "In this episode, Melanie Miller undergoes a coaching session with Brent Scott using the Agent Wheel to identify gaps in her real estate business. Key topics include improving time management through better prioritization and setting boundaries, as well as enhancing referral systems and vendor partnerships. Listeners will gain actionable insights into refining their business processes for increased efficiency and growth.",
+  "_metadata": {
+    "source_file": "2025-03-19_item81_The-Agent-Wheel",
+    "analyzed_at": "2026-01-24T19:58:34.951969",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning marketer and real estate video coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Real estate video marketing",
+    "location": null
+  },
+  "main_topics": [
+    "Video marketing for real estate",
+    "Overcoming fear and imposter syndrome",
+    "Goal setting for video content",
+    "Building personal brand through video",
+    "Effective use of social media for agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of judgment when creating video content",
+      "solution_summary": "Shift from 'supermodel mode' to 'teacher mode' to focus on delivering value rather than worrying about appearance.",
+      "timestamp": "00:05:20"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Struggling to create a personal brand through video",
+      "solution_summary": "Create an 'about me' video to showcase personal story and expertise, and engage consistently on social media.",
+      "timestamp": "00:06:31"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Imposter syndrome among real estate agents",
+      "solution_summary": "Maintain a 'brag book' or positive feedback file to boost confidence by reflecting on past achievements.",
+      "timestamp": "00:09:41"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to effectively use video to build their brand and overcome initial fears.",
+      "key_takeaway": "Start creating video content by focusing on value and authenticity rather than perfection."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can leverage video marketing to expand their reach and influence.",
+      "key_takeaway": "Consistent video content can significantly boost your business and personal brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:51",
+      "end_timestamp": "00:06:12",
+      "quote": "Get out of supermodel mode and into teacher mode. Focus on bringing forth value and education.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common fear of judgment by offering a practical mindset shift.",
+      "suggested_hook": "Are you afraid of being judged on camera? Here's a mindset shift that will change everything."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a three-take rule for filming videos",
+      "context": "To avoid overthinking and perfectionism, limit yourself to three takes when recording.",
+      "timestamp": "00:08:38"
+    },
+    {
+      "tactic": "Have someone interview you on camera",
+      "context": "This can make it easier to start creating video content by simulating a natural conversation.",
+      "timestamp": "00:08:13"
+    }
+  ],
+  "quotable_insights": [
+    "You cannot build a business off of one video. You have to keep going when you think nobody's watching."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads and increase business."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "An AI-powered recruiting tool to identify agents looking to move brokerages."
+    }
+  ],
+  "episode_summary": "Kim Rittberg discusses the importance of video marketing for real estate agents, focusing on overcoming fears and setting actionable goals. She provides practical advice on creating authentic video content and leveraging social media to build a personal brand. The episode emphasizes the significance of consistency and mindset shifts to effectively engage with potential clients.",
+  "_metadata": {
+    "source_file": "2025-03-13_item83_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T19:57:20.196737",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
