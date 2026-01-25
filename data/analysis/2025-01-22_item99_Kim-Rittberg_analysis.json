@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Real Estate Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content creation for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of video in real estate",
+    "Mindset shift for content creation",
+    "Strategies for getting comfortable on camera",
+    "Video Boot Camp program",
+    "Converting content to cash"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feel silly or lack confidence on camera",
+      "solution_summary": "Shift mindset to focus on message rather than appearance; practice to build confidence",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not generating leads through video content",
+      "solution_summary": "Join Video Boot Camp to learn how to create effective video content that converts",
+      "timestamp": "03:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often lack confidence and strategy for video content",
+      "key_takeaway": "Start with simple videos and gradually build confidence and strategy"
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may not see results from their current video efforts",
+      "key_takeaway": "Adopt a strategic approach to video content to convert leads into sales"
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:01",
+      "end_timestamp": "04:30",
+      "quote": "Content converts to cash. That's the number one mindset shift that agents need to have.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of viewing content as a business tool",
+      "suggested_hook": "Are you still doubting the power of video content?"
+    },
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:30",
+      "quote": "Stop asking yourself who cares about this. People care. People want to learn.",
+      "clip_type": "permission_slip",
+      "why_clipworthy": "Encourages agents to share their knowledge without self-doubt",
+      "suggested_hook": "Think your content doesn't matter? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Record simple videos about daily activities",
+      "context": "To get comfortable on camera, start by talking about what you're doing in your business",
+      "timestamp": "08:21"
+    },
+    {
+      "tactic": "Shift from self-focus to message-focus",
+      "context": "Focus on the value of your message rather than worrying about appearance",
+      "timestamp": "06:06"
+    }
+  ],
+  "quotable_insights": [
+    "Content converts to cash.",
+    "The more you do it, the more you build that muscle."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Boot Camp",
+      "context": "A program to help agents become confident on camera and create effective video content"
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the critical role of video in real estate, offering strategies for agents to overcome camera shyness and effectively use video content to generate leads. She introduces her Video Boot Camp program, designed to help agents build confidence and create impactful videos that convert content into cash.",
+  "_metadata": {
+    "source_file": "2025-01-22_item99_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T19:47:39.082726",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

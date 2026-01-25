@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Mary Ann Gillespie",
+    "title": "CEO",
+    "company": "Red Apple Coaching",
+    "production_level": "Top female business coach in North America",
+    "specialty": "Real estate and leadership development",
+    "location": "Toronto"
+  },
+  "main_topics": [
+    "Building relationship-based businesses",
+    "Physical health and its impact on business",
+    "Trends in real estate for 2025",
+    "Importance of personal connections",
+    "Strategies for lead generation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Transactional vs. relationship-based business models",
+      "solution_summary": "Focus on building relationships to increase trust and reduce the need for buying leads.",
+      "timestamp": "15:22"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Low energy affecting business performance",
+      "solution_summary": "Prioritize physical health to boost energy levels and improve business outcomes.",
+      "timestamp": "08:04"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Lack of personal connection with clients",
+      "solution_summary": "Engage in regular, meaningful interactions with clients to build trust and loyalty.",
+      "timestamp": "30:09"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for transitioning from transactional to relationship-based models, which can increase profitability.",
+      "key_takeaway": "Building strong client relationships can lead to higher net profits and more sustainable business growth."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers insights on how to rejuvenate a stagnant business by focusing on relationships and personal well-being.",
+      "key_takeaway": "Investing in personal health and client relationships can revitalize your business and personal life."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:00",
+      "end_timestamp": "06:45",
+      "quote": "Never say never. I was 300 pounds five years ago, and now I'm a world champion Iron Man athlete.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This story of transformation is highly inspiring and demonstrates the power of personal change.",
+      "suggested_hook": "From 300 pounds to Iron Man champion: Mary Ann's incredible journey."
+    },
+    {
+      "timestamp": "15:22",
+      "end_timestamp": "16:00",
+      "quote": "If you have a transactional-based business versus a relationship-based business, you are definitely not going to succeed.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional focus on transactions in real estate.",
+      "suggested_hook": "Why focusing on transactions might be hurting your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call your database four times a year.",
+      "context": "To maintain and strengthen client relationships.",
+      "timestamp": "30:09"
+    },
+    {
+      "tactic": "Send a worksheet in January to help clients assess their home equity.",
+      "context": "Engage clients with valuable information and potential opportunities.",
+      "timestamp": "36:12"
+    }
+  ],
+  "quotable_insights": [
+    "Trust is built by relationships, not transactions.",
+    "Strong mind, strong body: Physical health fuels business success."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Swim with the Sharks Without Being Eaten Alive",
+      "context": "Recommended for learning about building strong business relationships."
+    }
+  ],
+  "episode_summary": "In this episode, Mary Ann Gillespie discusses the importance of building relationship-based businesses in real estate, emphasizing the need for personal connections to increase trust and profitability. She shares her personal transformation story to highlight the impact of physical health on business success and offers practical strategies for lead generation and client engagement in 2025.",
+  "_metadata": {
+    "source_file": "2024-12-27_item103_unknown-guest",
+    "analyzed_at": "2026-01-24T19:45:54.165858",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
