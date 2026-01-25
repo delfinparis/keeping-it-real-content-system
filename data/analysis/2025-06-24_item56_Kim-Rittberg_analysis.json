@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Content Creator and Speaker",
+    "company": "Not specifically mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Real estate video content creation",
+    "location": "New York"
+  },
+  "main_topics": [
+    "Proving value to clients",
+    "Content creation for real estate agents",
+    "Building credibility and trust",
+    "Using AI for storytelling",
+    "Effective social media strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to stand out as the right REALTOR among many",
+      "solution_summary": "Create content that showcases your unique process and past client successes.",
+      "timestamp": "00:00:10"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Clients unsure of whether to buy or sell",
+      "solution_summary": "Communicate your value through storytelling and highlight financial benefits you provide.",
+      "timestamp": "00:03:33"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to differentiate oneself in a crowded market.",
+      "key_takeaway": "Use storytelling and client success stories to prove your worth to potential clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:07:01",
+      "end_timestamp": "00:07:15",
+      "quote": "I helped them buy the home for $100,000 less and this is how it happened.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a clear example of value provided to clients.",
+      "suggested_hook": "Want to save big on your next home purchase? Here's how one agent did it."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a video series explaining your process.",
+      "context": "Use videos to show potential clients how you work and what they can expect.",
+      "timestamp": "00:05:34"
+    },
+    {
+      "tactic": "Use AI tools to refine your storytelling.",
+      "context": "Input your client success stories into AI to create concise social media content.",
+      "timestamp": "00:09:13"
+    }
+  ],
+  "quotable_insights": [
+    "Clarify why you're special and why someone should work with you, then amplify it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI tool for recruiting and retention, identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses how real estate agents can differentiate themselves by creating compelling content that highlights their unique processes and client success stories. She emphasizes the importance of using storytelling to build trust and credibility with potential clients, and suggests leveraging AI tools to enhance content creation.",
+  "_metadata": {
+    "source_file": "2025-06-24_item56_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T20:14:21.813041",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

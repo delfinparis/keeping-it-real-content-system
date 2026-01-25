@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Mary Lou Dingman",
+    "title": "Coach",
+    "company": "The Locker Room",
+    "production_level": "Top real estate agent coach",
+    "specialty": "Open houses and DISC personality assessment",
+    "location": "North Carolina"
+  },
+  "main_topics": [
+    "Open house strategies",
+    "Lead generation for real estate agents",
+    "Virtual open houses",
+    "Overcoming objections in real estate",
+    "Agent coaching and development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Not actively lead generating for open houses",
+      "solution_summary": "Set up searches in MLS for your brokerage and develop relationships with agents to offer help with open houses.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Not asking for the appointment at the open house",
+      "solution_summary": "Use a script to inform visitors you'll ask for an appointment after the tour, making the ask easier.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Not incorporating virtual open houses",
+      "solution_summary": "Conduct virtual open houses to increase exposure and reach potential buyers who cannot attend in person.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start generating leads and building their business through open houses.",
+      "key_takeaway": "You don't need your own listings to start doing open houses; leverage your brokerage's listings."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can refine their open house strategy to increase client acquisition.",
+      "key_takeaway": "Asking for appointments during open houses can significantly boost your client conversion rate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "20:00",
+      "quote": "Why not ask for the appointment right when they're there?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a direct, actionable tactic that can be immediately implemented.",
+      "suggested_hook": "Stop chasing leads after they leave. Here's how to secure appointments on the spot."
+    },
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "Virtual open houses can be your secret weapon.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the traditional view of open houses as solely in-person events.",
+      "suggested_hook": "Think open houses are just for weekends? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set up MLS searches for open house opportunities",
+      "context": "To find listings where you can offer to host open houses, especially if you don't have your own listings.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Ask for appointments during open houses",
+      "context": "Use a specific script to set up meetings with potential clients while they're still at the open house.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Conduct virtual open houses",
+      "context": "To increase visibility and reach a wider audience, even if the property is under contract.",
+      "timestamp": "14:00"
+    }
+  ],
+  "quotable_insights": [
+    "There are people that I am meant to help, and all I have to do is my part to find them.",
+    "Ask and you shall receive; don't be afraid to ask for appointments."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "Mary Lou Dingman shares her expertise on maximizing open house opportunities for real estate agents. She emphasizes the importance of asking for appointments during open houses, utilizing virtual open houses for greater exposure, and actively generating leads through strategic MLS searches. Her insights provide actionable tactics for both new and aspiring top producers to enhance their client acquisition strategies.",
+  "_metadata": {
+    "source_file": "2025-06-12_item57_Mary-Lou-Dingman",
+    "analyzed_at": "2026-01-24T20:14:08.048110",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
