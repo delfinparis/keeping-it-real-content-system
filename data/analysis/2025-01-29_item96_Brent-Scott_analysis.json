@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Brent Scott",
+    "title": "National Coach and Trainer",
+    "company": "The Locker Room",
+    "production_level": "N/A",
+    "specialty": "Real Estate Coaching",
+    "location": "Nationwide"
+  },
+  "main_topics": [
+    "Real Estate Coaching",
+    "Lead Generation",
+    "Time Management",
+    "Referral Systems",
+    "Personal Growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of leverage in lead generation processes",
+      "solution_summary": "Focus on systematizing and leveraging lead generation activities to improve efficiency.",
+      "timestamp": "16:20"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Difficulty sticking to a time-managed schedule",
+      "solution_summary": "Create a well-organized calendar and prioritize sticking to it, especially for personal time.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Low referral generation",
+      "solution_summary": "Develop a structured system for asking and following up on referrals.",
+      "timestamp": "21:15"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient follow-up system",
+      "solution_summary": "Implement automation and leverage tools to ensure consistent follow-up.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into the systems and processes that support high transaction volumes.",
+      "key_takeaway": "Focus on systematizing lead generation, time management, and referral processes to scale your business."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to break through plateaus by refining business processes.",
+      "key_takeaway": "Identify and improve key business areas through regular audits and focused 90-day goals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:20",
+      "end_timestamp": "17:00",
+      "quote": "Room for improvement would be getting some leverage within it. Right now, pretty much all of my lead generation is done by myself.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a common challenge and suggests a tactical improvement.",
+      "suggested_hook": "Struggling to manage lead generation on your own? Here's a solution."
+    },
+    {
+      "timestamp": "34:00",
+      "end_timestamp": "34:45",
+      "quote": "It's me personally doing it, which is not at all a bad thing, but probably having some automation or some leverage behind it would help me tremendously with follow up.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of leveraging technology for follow-up processes.",
+      "suggested_hook": "Want to improve your follow-up game? Consider this approach."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a structured referral system",
+      "context": "Develop a system for asking and following up on referrals to increase referral-based business.",
+      "timestamp": "21:15"
+    },
+    {
+      "tactic": "Use time blocking for effective time management",
+      "context": "Create a detailed, color-coded calendar to prioritize tasks and personal time.",
+      "timestamp": "19:00"
+    }
+  ],
+  "quotable_insights": [
+    "Success leaves clues. If you want to be successful, look for the clues left by others who have achieved what you aspire to."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The 12 Week Year",
+      "context": "Recommended for its approach to setting and achieving goals in 90-day increments."
+    },
+    {
+      "type": "book",
+      "name": "The Miracle Morning",
+      "context": "Suggested for its strategies on personal development and productivity."
+    }
+  ],
+  "episode_summary": "In this episode, Brent Scott coaches Nick Harris, a top-performing real estate agent, through a detailed business audit using the 'agent wheel' process. They identify key areas for improvement, such as lead generation, time management, and referral systems, offering actionable strategies to enhance business performance over the next 90 days.",
+  "_metadata": {
+    "source_file": "2025-01-29_item96_Brent-Scott",
+    "analyzed_at": "2026-01-24T19:49:54.801562",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

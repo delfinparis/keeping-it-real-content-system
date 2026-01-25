@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "Danielle Dowell",
+    "title": "Top 1% Producer",
+    "company": null,
+    "production_level": "Top 1%",
+    "specialty": "Spring Market Preparation",
+    "location": null
+  },
+  "main_topics": [
+    "Live Summit Announcement",
+    "Spring Market Preparation",
+    "Real Estate Coaching",
+    "Video Marketing for REALTORS"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Preparing for the spring market",
+      "solution_summary": "Danielle Dowell shares strategies on how she and her team are preparing for the spring market.",
+      "timestamp": "01:16"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Improving personal branding through video",
+      "solution_summary": "Kim Rittberg teaches REALTORS how to enhance their video marketing skills.",
+      "timestamp": "02:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into preparing for the spring market and improving personal branding.",
+      "key_takeaway": "Utilize expert strategies to gear up for the spring market and leverage video marketing to enhance your brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:36",
+      "end_timestamp": "00:58",
+      "quote": "We have different speakers, different sessions, and this time it's totally free.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the value of the free summit and its new offerings.",
+      "suggested_hook": "Don't miss out on our free real estate summit with new sessions and expert speakers!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Attend the free live summit for expert insights.",
+      "context": "Sign up using the promo code 'podcast' to access the summit for free.",
+      "timestamp": "00:53"
+    }
+  ],
+  "quotable_insights": [
+    "Sign up for our free summit and learn from top producers and coaches."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "keepingitrealwebinar.com",
+      "context": "Platform to sign up for the free real estate summit."
+    }
+  ],
+  "episode_summary": "In this special episode, D.J. Paris announces a free live summit featuring top real estate experts. Listeners can learn strategies for the spring market, engage in a live coaching session, and enhance their video marketing skills. The summit offers valuable insights and is accessible at no cost using a promo code.",
+  "_metadata": {
+    "source_file": "2025-02-13_item92_D.J.-Paris",
+    "analyzed_at": "2026-01-24T19:51:35.286262",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
