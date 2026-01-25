@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Athena Brownson",
+    "title": "Luxury REALTOR",
+    "company": "Compass",
+    "production_level": "Top 1%",
+    "specialty": "Luxury properties and creating healthy, balanced spaces",
+    "location": "Denver Metro, Colorado"
+  },
+  "main_topics": [
+    "Mindset and Visualization",
+    "Resilience and Overcoming Challenges",
+    "Importance of Coaching and Mentorship",
+    "Building a Supportive Community",
+    "Work-Life Balance and Self-Care"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining a positive mindset despite challenges",
+      "solution_summary": "Athena emphasizes the power of visualization and gratitude practices to overcome daily challenges and maintain a positive outlook.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Structuring a real estate business effectively",
+      "solution_summary": "Athena discusses the importance of having routines and systems in place to manage time and tasks efficiently.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building authenticity in client relationships",
+      "solution_summary": "Athena shares how being transparent about her health challenges has helped her build trust and authenticity with clients.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Athena's journey from a professional athlete to a top REALTOR offers insights into discipline and mindset.",
+      "key_takeaway": "Visualization and structured routines are key to achieving high performance in real estate."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Athena discusses the importance of self-care and building a support network to prevent burnout.",
+      "key_takeaway": "Prioritizing self-care and having a strong support system can sustain long-term success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:00",
+      "end_timestamp": "07:45",
+      "quote": "The greatest moments of growth occur when you're being challenged the most.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote encapsulates the essence of resilience and turning challenges into opportunities.",
+      "suggested_hook": "Discover how challenges can be your greatest growth opportunities."
+    },
+    {
+      "timestamp": "38:00",
+      "end_timestamp": "38:45",
+      "quote": "Life isn't an adventure unless there's a U-turn or two or ten.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "A memorable line that highlights the unpredictability of life and the need to adapt.",
+      "suggested_hook": "Embrace the unexpected turns in your real estate journey."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Visualization of ideal client interactions",
+      "context": "Write out detailed scenarios of ideal client interactions to mentally prepare for success.",
+      "timestamp": "18:00"
+    },
+    {
+      "tactic": "Daily gratitude practice",
+      "context": "Write down five unique things you're grateful for each day to maintain a positive mindset.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "I'm the luckiest sick person alive.",
+    "Real estate is not rocket science; it's reps."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Obstacle is the Way by Ryan Holiday",
+      "context": "Referenced as a guide for turning challenges into opportunities."
+    },
+    {
+      "type": "book",
+      "name": "Atomic Habits by James Clear",
+      "context": "Mentioned as a resource for building effective habits."
+    }
+  ],
+  "episode_summary": "Athena Brownson shares her journey from professional skiing to becoming a top luxury REALTOR, emphasizing the importance of mindset, resilience, and visualization. She discusses how her health challenges have shaped her approach to real estate and the value of building a supportive community. Athena offers actionable insights on maintaining a positive mindset and structuring a successful real estate business.",
+  "_metadata": {
+    "source_file": "2025-02-27_item85_Athena-Brownson",
+    "analyzed_at": "2026-01-24T19:56:13.433497",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

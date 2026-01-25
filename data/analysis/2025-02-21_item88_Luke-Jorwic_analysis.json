@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Luke Jorwick",
+    "title": "Top Producer",
+    "company": "Jameson Sotheby's International",
+    "production_level": "Top 1% producer",
+    "specialty": "Residential real estate",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Challenges in real estate marketing",
+    "Importance of authenticity in client relationships",
+    "Millennials in the housing market",
+    "Balancing personal investment with client service",
+    "Staying in touch with past clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Difficulty in self-promotion and marketing",
+      "solution_summary": "Focus on authentic client relationships and word-of-mouth referrals rather than traditional marketing tactics.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Millennials delaying home purchases",
+      "solution_summary": "Educate millennials on the long-term benefits of homeownership and provide data-driven advice.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Clients wanting to buy unsuitable properties",
+      "solution_summary": "Guide clients towards properties that align with their long-term goals and financial stability.",
+      "timestamp": "18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Luke's insights into building a successful real estate career through authenticity and client focus are valuable for agents aiming to reach top producer status.",
+      "key_takeaway": "Success in real estate can be achieved by prioritizing client relationships and providing honest, data-driven advice."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Luke's journey of starting young and building a career through trial and error.",
+      "key_takeaway": "Embrace learning opportunities and focus on understanding client needs to build a sustainable career."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "18:30",
+      "end_timestamp": "19:15",
+      "quote": "I love when I find it's not to buy this. It saves us all time.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that agents should always push for a sale.",
+      "suggested_hook": "Why telling clients not to buy might be your best sales strategy."
+    },
+    {
+      "timestamp": "26:30",
+      "end_timestamp": "27:15",
+      "quote": "If you buy something that's good value, the check's all the boxes, and you don't put yourself in a position to have to sell, you're not going to lose money.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for advising clients on property investments.",
+      "suggested_hook": "The key to making smart real estate investments."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on authentic client relationships over aggressive marketing.",
+      "context": "Build trust and long-term relationships by being honest and providing value.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Educate clients on the long-term benefits of homeownership.",
+      "context": "Use data to help millennials understand the value of buying sooner rather than later.",
+      "timestamp": "26:00"
+    }
+  ],
+  "quotable_insights": [
+    "Success in real estate is about having your clients' backs and guiding them with honesty.",
+    "The more you focus on your clients, the more successful you'll be."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Luke Jorwick shares his journey as a top 1% real estate producer, emphasizing the importance of authentic client relationships and personalized service. He discusses the challenges millennials face in the housing market and offers strategies for agents to effectively guide clients through buying decisions. Luke's approach focuses on honesty, data-driven advice, and the long-term benefits of homeownership.",
+  "_metadata": {
+    "source_file": "2025-02-21_item88_Luke-Jorwic",
+    "analyzed_at": "2026-01-24T19:54:52.295957",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
