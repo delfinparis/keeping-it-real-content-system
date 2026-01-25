@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top REALTOR",
+    "company": "At Properties, Christie's International",
+    "production_level": "$200M+ producer",
+    "specialty": "Luxury real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Breaking into real estate development",
+    "Winning listings against top agents",
+    "Maintaining client relationships",
+    "Work-life balance for high producers",
+    "Effective communication with developers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to break into the real estate development market",
+      "solution_summary": "Develop a wide network and become an advocate for the development. Bring business to developers and stay in touch.",
+      "timestamp": "19:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Winning listings against other top agents",
+      "solution_summary": "Focus on client needs, avoid badmouthing competitors, and provide a high level of service.",
+      "timestamp": "25:39"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing work-life balance as a high producer",
+      "solution_summary": "Segment time efficiently, prioritize tasks, and remain present with family.",
+      "timestamp": "32:09"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into breaking into high-end markets and maintaining a high level of production.",
+      "key_takeaway": "Develop strong networks and focus on client service to stand out in competitive markets."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses managing a high volume of business without a large team.",
+      "key_takeaway": "Build a strong support system and focus on efficiency to manage workload effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:30",
+      "end_timestamp": "20:15",
+      "quote": "Bring the developer some business, because that's what they want. You have to always think about what does the developer want? They want the unit sold.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This provides a clear, actionable strategy for agents looking to break into development.",
+      "suggested_hook": "Want to break into real estate development? Here's the strategy top agents use."
+    },
+    {
+      "timestamp": "25:39",
+      "end_timestamp": "26:30",
+      "quote": "I try to stay focused on the client through the presentation and what their needs are, because listening to what they want and catering to their needs is obviously the most important.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of client-focused service in winning business.",
+      "suggested_hook": "The secret to winning listings? It's simpler than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop a wide network and bring business to developers.",
+      "context": "When trying to break into the real estate development market.",
+      "timestamp": "19:30"
+    },
+    {
+      "tactic": "Focus on client needs and avoid negative talk about competitors.",
+      "context": "During listing presentations against other top agents.",
+      "timestamp": "25:39"
+    }
+  ],
+  "quotable_insights": [
+    "Lead solve all problems.",
+    "Being kind and putting the client first takes you a long way."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business and converting leads."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended as a recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her journey from marketing to becoming a top luxury REALTOR in Chicago. She discusses strategies for breaking into real estate development, winning listings against top agents, and maintaining client relationships. Carrie emphasizes the importance of a strong network, client-focused service, and efficient time management to succeed in the competitive real estate market.",
+  "_metadata": {
+    "source_file": "2025-04-25_item71_Carrie-McCormick",
+    "analyzed_at": "2026-01-24T20:04:51.843813",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Rachel Adams Lee",
+    "title": "Top Agent and Coach",
+    "company": "Keller Williams Real Estate",
+    "production_level": "Top 1000 REALTOR in the US",
+    "specialty": "Social Media Strategies",
+    "location": "Northern California"
+  },
+  "main_topics": [
+    "Social Media Strategies",
+    "Lead Generation",
+    "Open House Techniques",
+    "Mindset and Motivation",
+    "Client Follow-up Systems"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media",
+      "solution_summary": "Create highly shareable content with strong hooks and use lead magnets to capture information.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting open house visitors to clients",
+      "solution_summary": "Send personalized video messages immediately after the open house to build rapport.",
+      "timestamp": "37:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Building a sustainable business model",
+      "solution_summary": "Develop a system with multiple lead generation sources like social media, open houses, and database management.",
+      "timestamp": "07:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for leveraging social media to generate leads.",
+      "key_takeaway": "Focus on creating value-driven content and use automation tools to capture and convert leads."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on training team members to effectively use social media and open houses.",
+      "key_takeaway": "Implement systems that allow team members to consistently generate and convert leads."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:30",
+      "end_timestamp": "09:15",
+      "quote": "Create highly shareable content with strong hooks and use lead magnets to capture information.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for social media lead generation.",
+      "suggested_hook": "Unlock the secret to turning social media followers into real estate leads."
+    },
+    {
+      "timestamp": "37:00",
+      "end_timestamp": "37:45",
+      "quote": "Send personalized video messages immediately after the open house to build rapport.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a unique approach to converting open house visitors into clients.",
+      "suggested_hook": "This one follow-up tip could skyrocket your open house conversions."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video messages for follow-up",
+      "context": "After meeting potential clients at open houses",
+      "timestamp": "37:00"
+    },
+    {
+      "tactic": "Create lead magnets with strong hooks",
+      "context": "To capture leads from social media content",
+      "timestamp": "08:30"
+    }
+  ],
+  "quotable_insights": [
+    "You don't get the business you don't ask for.",
+    "Lead generation solves problems."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Stand Store",
+      "context": "Used for creating opt-in pages and automating lead capture."
+    },
+    {
+      "type": "website",
+      "name": "Rachel's Freebies",
+      "context": "Provides hooks and content ideas for real estate agents."
+    }
+  ],
+  "episode_summary": "Rachel Adams Lee shares advanced social media strategies for real estate agents, focusing on creating shareable content and using lead magnets to capture leads. She emphasizes the importance of follow-up with personalized video messages and outlines systems for sustainable business growth. Her insights are tailored for agents looking to elevate their lead generation and conversion tactics.",
+  "_metadata": {
+    "source_file": "2025-04-18_item74_Rachel-Adams-Lee",
+    "analyzed_at": "2026-01-24T20:02:50.752600",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
