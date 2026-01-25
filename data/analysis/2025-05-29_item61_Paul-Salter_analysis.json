@@ -1,0 +1,92 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": "",
+    "production_level": "",
+    "specialty": "Mindset coaching using hypnosis",
+    "location": ""
+  },
+  "main_topics": [
+    "Identity transformation for goal achievement",
+    "Overcoming self-sabotaging behaviors",
+    "The power of self-talk and beliefs",
+    "Asking the right questions for growth",
+    "Developing a success-oriented mindset"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Stagnation in achieving goals due to identity issues",
+      "solution_summary": "Focus on identity transformation rather than just actions to achieve goals.",
+      "timestamp": "09:39"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Self-sabotaging behaviors preventing success",
+      "solution_summary": "Identify and change sabotaging behaviors to align with desired identity.",
+      "timestamp": "17:02"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Negative self-talk affecting performance",
+      "solution_summary": "Audit and change self-talk to be more supportive and empowering.",
+      "timestamp": "15:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode addresses the mindset shifts needed to reach higher levels of success.",
+      "key_takeaway": "Transforming your identity is crucial to achieving ambitious goals."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers insights into why they might be plateauing and how to break through.",
+      "key_takeaway": "Focus on who you need to become, not just what you need to do."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:39",
+      "end_timestamp": "10:04",
+      "quote": "The real question isn't, will I be able to afford this? The real question is, who do you need to become to afford this house?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges listeners to rethink their approach to goal setting.",
+      "suggested_hook": "Are you asking the right questions about your success?"
+    },
+    {
+      "timestamp": "24:03",
+      "end_timestamp": "24:32",
+      "quote": "The questions you ask shape your focus, your emotions, your decisions, and ultimately your results.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the importance of asking the right questions for personal growth.",
+      "suggested_hook": "Could changing your questions change your life?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set a timer for 20 minutes and journal on key questions about your identity and goals.",
+      "context": "Use this exercise to gain clarity on who you need to become to achieve your goals.",
+      "timestamp": "25:33"
+    }
+  ],
+  "quotable_insights": [
+    "You can't change unless you change.",
+    "If you want to do better, you need to be better."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Be Your Best Self Only Better by Mike Baer",
+      "context": "Recommended for exercises to improve self-awareness and identity transformation."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the importance of identity transformation in achieving ambitious goals. He emphasizes the need to address self-sabotaging behaviors and improve self-talk to align with one's desired identity. Listeners are encouraged to ask better questions and engage in reflective exercises to foster personal growth and success.",
+  "_metadata": {
+    "source_file": "2025-05-29_item61_Paul-Salter",
+    "analyzed_at": "2026-01-24T20:11:30.249852",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

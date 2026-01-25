@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Digital Marketer and Real Estate Video Coach",
+    "company": "Not specifically mentioned",
+    "production_level": "Top 1% podcast host",
+    "specialty": "Video and social media for real estate",
+    "location": "New York"
+  },
+  "main_topics": [
+    "Video marketing strategies for real estate agents",
+    "Converting social media content into leads",
+    "Overcoming camera shyness and building confidence",
+    "Creating engaging and expert content",
+    "Using video to expand sphere of influence"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not getting leads from social media",
+      "solution_summary": "Use video to engage and showcase expertise, and convert content into leads.",
+      "timestamp": "08:01"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling silly or camera shy",
+      "solution_summary": "Reframe mindset to view video as a tool to educate and help clients.",
+      "timestamp": "15:49"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of strategy in video content creation",
+      "solution_summary": "Develop a structured system for content creation that aligns with business goals.",
+      "timestamp": "17:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to effectively use video to generate leads.",
+      "key_takeaway": "Start showing up on camera with a clear strategy to build confidence and attract clients."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can refine their video strategy to convert more leads.",
+      "key_takeaway": "Implement a structured content system to consistently generate leads from social media."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:25",
+      "end_timestamp": "15:05",
+      "quote": "Hiding from the camera is hiding from clients.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges agents to rethink their approach to video marketing.",
+      "suggested_hook": "Are you hiding from potential clients without even knowing it?"
+    },
+    {
+      "timestamp": "19:10",
+      "end_timestamp": "19:45",
+      "quote": "Content can convert to cash once you have a mindset shift.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to view video as a revenue tool.",
+      "suggested_hook": "Your phone is more than a device; it's a money-making machine."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage with your audience by responding to comments and messages.",
+      "context": "Use social media to build relationships and convert leads.",
+      "timestamp": "20:10"
+    },
+    {
+      "tactic": "Create content that showcases your expertise and personality.",
+      "context": "Balance knowledge with personal stories to build trust.",
+      "timestamp": "22:37"
+    }
+  ],
+  "quotable_insights": [
+    "If no one can see you, they can't hire you.",
+    "Your phone is a tool to make money."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable strategies for real estate agents to leverage video marketing and social media to generate leads and grow their business. She discusses overcoming camera shyness, creating engaging content, and using video to expand one's sphere of influence. The episode provides practical tips and mindset shifts to help agents convert content into cash.",
+  "_metadata": {
+    "source_file": "2025-04-30_item68_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T20:07:47.732470",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

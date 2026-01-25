@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group at @properties",
+    "production_level": "Top 0.001% producer",
+    "specialty": "Luxury properties, developers",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Luxury real estate market",
+    "Pricing strategies",
+    "Networking and agent relationships",
+    "Marketing and storytelling in real estate",
+    "Challenges in low inventory markets"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory making it tough to get offers accepted",
+      "solution_summary": "Focus on pricing strategies and understanding buyer psychology to create urgency and excitement.",
+      "timestamp": "06:26"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Telling a compelling story for unique listings",
+      "solution_summary": "Use high-quality photography, video, and specific descriptions to convey the unique aspects of a property.",
+      "timestamp": "14:50"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding buyers for one-of-a-kind listings",
+      "solution_summary": "Build and leverage a network of agents, wealth managers, and other professionals to reach potential buyers.",
+      "timestamp": "17:38"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into breaking into the luxury market and working with developers.",
+      "key_takeaway": "Understanding the psychology of pricing and building a strong network are crucial for success in the luxury real estate market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies for agent recruitment and retention using advanced tools.",
+      "key_takeaway": "Utilizing AI tools like corded.io can help identify agents looking to move and tailor recruitment pitches."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:03",
+      "end_timestamp": "07:40",
+      "quote": "Pricing is not just about a number. It's really how that number makes you feel.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the emotional aspect of real estate pricing, which is often overlooked.",
+      "suggested_hook": "Why the right price is more than just a number in real estate."
+    },
+    {
+      "timestamp": "17:38",
+      "end_timestamp": "18:06",
+      "quote": "Match the property with the right clientele, whether it's a broker, whether it's here in Chicago or out of the country.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows the importance of networking in finding the right buyers for unique properties.",
+      "suggested_hook": "How to find the perfect buyer for your unique listing."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Conduct competitive research on similar listings in the area.",
+      "context": "Before listing a property, analyze how other homes are styled and priced.",
+      "timestamp": "11:17"
+    },
+    {
+      "tactic": "Use high-quality photography and video to tell a property's story.",
+      "context": "Essential for marketing unique or luxury properties effectively.",
+      "timestamp": "14:50"
+    }
+  ],
+  "quotable_insights": [
+    "Perception is everything. A price that is too high on a home is going to make a buyer pause.",
+    "Pricing is one of the most powerful tools that we have for marketing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares insights into the luxury real estate market, emphasizing the importance of pricing strategies and understanding buyer psychology. She discusses the challenges of low inventory markets and the need for effective storytelling in marketing unique properties. The episode also highlights the value of networking and using advanced tools for agent recruitment and lead generation.",
+  "_metadata": {
+    "source_file": "2025-05-19_item65_Carrie-McCormick",
+    "analyzed_at": "2026-01-24T20:09:14.649959",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

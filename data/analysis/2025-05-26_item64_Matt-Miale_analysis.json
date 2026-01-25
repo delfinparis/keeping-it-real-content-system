@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Matt Miale",
+    "title": "Team Leader",
+    "company": "The Miale Team at Keller Williams Legacy Partners",
+    "production_level": "600 homes annually",
+    "specialty": "Real estate team leadership and scalable business building",
+    "location": "Connecticut"
+  },
+  "main_topics": [
+    "Importance of choosing the right ideas and execution",
+    "Effective client relationship management through events",
+    "Navigating current real estate market challenges",
+    "Benefits and considerations of joining a real estate team",
+    "Role of practice and skill development in real estate success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggling to generate leads without cold calling",
+      "solution_summary": "Focus on building relationships and hosting client events to generate leads organically.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory and high competition in the current market",
+      "solution_summary": "Develop skills in client conversations to help them understand the benefits of moving despite higher interest rates.",
+      "timestamp": "29:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents overwhelmed by complex systems and tools",
+      "solution_summary": "Simplify operations by focusing on core activities like signing, selling, and setting appointments.",
+      "timestamp": "18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who feel stuck in their current production level.",
+      "key_takeaway": "Focus on building genuine relationships and practicing key conversations to improve lead generation and conversion."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses the benefits and structure of successful real estate teams.",
+      "key_takeaway": "Creating a supportive team environment with clear roles can enhance agent productivity and satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "05:45",
+      "quote": "The issue isn't a lack of good ideas. Good ideas are a plenty. It's the ability to pick the right one for right now.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common notion that more ideas are better, emphasizing focus and timing.",
+      "suggested_hook": "Are you overwhelmed with too many ideas? Here's why that's not your real problem."
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "If you become a professional problem solver in your community, your real estate business will take care of itself.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for lead generation without cold calling.",
+      "suggested_hook": "Want to generate leads without cold calling? Become a community problem solver."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host client events to deepen relationships and generate referrals.",
+      "context": "Use events as a way to engage your sphere of influence and create memorable experiences.",
+      "timestamp": "46:00"
+    },
+    {
+      "tactic": "Practice key client conversations to improve conversion rates.",
+      "context": "Regularly drill conversations about market conditions and client needs to stay sharp.",
+      "timestamp": "37:00"
+    }
+  ],
+  "quotable_insights": [
+    "The best piece of advice is to pick the right idea for right now.",
+    "Business is the long game, so just because you can do it doesn't mean you should."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Millionaire Real Estate Agent",
+      "context": "Referenced as a foundational guide for building a successful real estate business."
+    }
+  ],
+  "episode_summary": "In this episode, Matt Miale shares insights on building a successful real estate team and the importance of focusing on the right ideas and execution. He emphasizes the value of client events for relationship building and discusses strategies for navigating the current market challenges. The conversation highlights the importance of practice and skill development in achieving real estate success.",
+  "_metadata": {
+    "source_file": "2025-05-26_item64_Matt-Miale",
+    "analyzed_at": "2026-01-24T20:10:00.423079",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
