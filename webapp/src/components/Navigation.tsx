@@ -9,6 +9,7 @@ const navLinks = [
   { href: "/problems", label: "By Problem" },
   { href: "/avatars", label: "By Agent Type" },
   { href: "/clips", label: "Clips" },
+  { href: "/insights", label: "Insights" },
 ];
 
 export default function Navigation() {
