@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top Producer",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "Top 1% producer, $160M+ in production",
+    "specialty": "Luxury properties, first-time home buyers, veteran investors",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Listing presentations",
+    "Video marketing in real estate",
+    "Building client relationships",
+    "Time management for real estate agents",
+    "Truthful communication with clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Differentiating oneself in listing presentations",
+      "solution_summary": "Focus on personal connections and unique value propositions beyond standard marketing tactics.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "The shift from local to national real estate markets",
+      "solution_summary": "Utilize video marketing to tell the story of a home and reach a broader audience.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Communicating difficult truths to clients",
+      "solution_summary": "Provide clients with accurate data and honest assessments to help them make informed decisions.",
+      "timestamp": "23:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into high-level production and personal branding strategies.",
+      "key_takeaway": "Focus on unique value propositions and leverage video marketing to stand out."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to reinvigorate business through innovative marketing and client relationship management.",
+      "key_takeaway": "Embrace new marketing techniques like video to refresh your approach and reach new markets."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "10:00",
+      "quote": "Video tells the story of the home, unlike a photograph, and engages the buyer emotionally.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of video in modern real estate marketing.",
+      "suggested_hook": "Are you still relying on photos to sell homes? Here's why video is the future."
+    },
+    {
+      "timestamp": "23:00",
+      "end_timestamp": "24:00",
+      "quote": "Tell me the truth and tell me the number that it is, even if you think I don't want to hear it.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the importance of honesty in client relationships.",
+      "suggested_hook": "Why honesty is the best policy in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video marketing to tell the story of a home.",
+      "context": "In listing presentations to differentiate from competitors.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Maintain a strong relationship with buyer's agents.",
+      "context": "During showings to ensure smooth transactions.",
+      "timestamp": "15:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your Rolodex doesn't compete with somebody else's Rolodex.",
+    "Video tells the story of the home, unlike a photograph, and engages the buyer emotionally."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to improve lead conversion."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her strategies for standing out in the competitive real estate market. She emphasizes the importance of video marketing to tell the story of a home and reach a national audience. Carrie also discusses the value of honest communication with clients and maintaining strong relationships with buyer's agents to ensure smooth transactions.",
+  "_metadata": {
+    "source_file": "2024-10-28_item117_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T12:06:18.617447",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

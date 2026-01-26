@@ -1,0 +1,78 @@
+{
+  "guest_info": {
+    "name": "Michelle Berman-Michael",
+    "title": "Instagram Specialist",
+    "company": null,
+    "production_level": null,
+    "specialty": "Building community and loyalty on Instagram",
+    "location": null
+  },
+  "main_topics": [
+    "Building community on Instagram",
+    "Creating loyalty through content",
+    "Storytelling and neural coupling",
+    "Avoiding talking head videos",
+    "Engagement strategies on social media"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of loyalty among clients",
+      "solution_summary": "Build a community on Instagram by finding and engaging with your niche audience.",
+      "timestamp": "00:02:19"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Content not standing out on Instagram",
+      "solution_summary": "Ditch talking head videos and use storytelling to engage your audience.",
+      "timestamp": "00:07:06"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to stand out and build a loyal following on Instagram.",
+      "key_takeaway": "Use storytelling to create emotional connections and increase engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:02",
+      "end_timestamp": "00:09:32",
+      "quote": "63% of people remember stories over the 5% who remember statistics.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of storytelling over data in content creation.",
+      "suggested_hook": "Why storytelling is your secret weapon on Instagram."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use storytelling to engage your audience.",
+      "context": "Incorporate personal stories into your content to create emotional connections.",
+      "timestamp": "00:12:01"
+    },
+    {
+      "tactic": "Ditch talking head videos.",
+      "context": "Instead of static videos, use dynamic storytelling to stand out.",
+      "timestamp": "00:07:06"
+    }
+  ],
+  "quotable_insights": [
+    "Find your people on the platform and build your community.",
+    "Stories are inherently more engaging than raw data."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "person",
+      "name": "Renee Rodriguez",
+      "context": "Michelle learned about neural coupling from Renee Rodriguez."
+    }
+  ],
+  "episode_summary": "Michelle Berman-Michael discusses how real estate agents can build community and loyalty on Instagram by focusing on storytelling and engaging content. She emphasizes the importance of ditching talking head videos and using personal stories to create emotional connections with the audience.",
+  "_metadata": {
+    "source_file": "2024-07-26_item138_Instagram-and-Prospecting",
+    "analyzed_at": "2026-01-26T11:51:55.999887",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

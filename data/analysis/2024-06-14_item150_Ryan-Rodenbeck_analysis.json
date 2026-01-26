@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ryan Rodenbeck",
+    "title": "Founder and Team Leader",
+    "company": "Spyglass Realty",
+    "production_level": "Grew brokerage to 150 agents",
+    "specialty": "Real Estate Brokerage and Technology Integration",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Agent Recruitment and Retention",
+    "Technology in Real Estate",
+    "Real Estate Market Trends",
+    "Agent Productivity and Systems",
+    "Buyer Agency and Commission Structures"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating quality leads for agents",
+      "solution_summary": "Utilizing Zillow's Flex program and other tech solutions to provide agents with high-quality leads.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Automating agent processes to increase productivity",
+      "solution_summary": "Implementing CRM systems and automation tools to handle repetitive tasks and streamline operations.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in commission structures post-NAR settlement",
+      "solution_summary": "Training agents to effectively communicate commission structures and handle buyer agency agreements.",
+      "timestamp": "28:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on doubling or tripling production through systems and lead generation.",
+      "key_takeaway": "Focus on leveraging technology and systems to scale your real estate business efficiently."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Ryan shares strategies for recruiting and retaining high-performing agents.",
+      "key_takeaway": "Create a supportive environment with robust systems to attract and maintain top talent."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:30",
+      "end_timestamp": "20:15",
+      "quote": "We make good agents into great agents by focusing on their strengths and automating their weaknesses.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear strategy for agent development that is both actionable and inspiring.",
+      "suggested_hook": "Want to turn your good agents into great ones? Here's how Ryan Rodenbeck does it."
+    },
+    {
+      "timestamp": "28:30",
+      "end_timestamp": "29:15",
+      "quote": "The reality is that commissions might go down, but with the right approach, you can still thrive.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Addresses a common fear with a positive outlook and actionable advice.",
+      "suggested_hook": "Worried about commission changes? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Automate client follow-up processes using CRM tools.",
+      "context": "To ensure consistent communication and nurture leads effectively.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Utilize local market events to increase brand awareness and recruitment.",
+      "context": "Hosting events like the Realty Hack Summit to engage with local agents.",
+      "timestamp": "13:00"
+    }
+  ],
+  "quotable_insights": [
+    "Arrogance can be a roadblock to success, especially when you're trying to learn new things.",
+    "You cannot fight change; you need to embrace it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Zillow Flex",
+      "context": "Used for high-quality lead generation for agents."
+    },
+    {
+      "type": "tool",
+      "name": "Maverick by Ylopo",
+      "context": "For tracking agent performance and improving productivity."
+    }
+  ],
+  "episode_summary": "In this episode, Ryan Rodenbeck shares his journey of growing Spyglass Realty and his strategies for recruiting high-performing agents. He emphasizes the importance of leveraging technology to streamline operations and improve agent productivity. Ryan also discusses adapting to changes in the real estate market, particularly in commission structures, and how agents can effectively communicate these changes to clients.",
+  "_metadata": {
+    "source_file": "2024-06-14_item150_Ryan-Rodenbeck",
+    "analyzed_at": "2026-01-26T11:47:41.583032",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

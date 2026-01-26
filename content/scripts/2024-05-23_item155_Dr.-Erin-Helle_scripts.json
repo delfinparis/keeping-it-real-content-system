@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:03",
+      "end_timestamp": "00:10:30",
+      "quote": "This is like 10 months of social media content right here that I got from typing five words into ChatGPT.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the power of AI tools in simplifying content creation.",
+      "suggested_hook": "Discover how five words can unlock months of content!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Discover how five words can unlock months of content!\",\n    \"SETUP\": \"Meet Erin Helle, a real estate pro who cracked the code on effortless content creation using AI. Why should you care? Because it's a game-changer for your marketing strategy.\",\n    \"INSIGHT\": \"Erin typed just five words into ChatGPT and unlocked 10 months of social media content. Imagine simplifying your content planning with just a few clicks. AI tools like ChatGPT can generate ideas, captions, and even full posts tailored to your audience.\",\n    \"REFRAME/APPLICATION\": \"This matters because it frees up your time to focus on client relationships and closing deals. Start integrating AI into your content strategy and watch your engagement soar.\",\n    \"CTA\": \"Ready to revolutionize your content game? Try typing your own five words into ChatGPT and see what happens. Share your results with us!\"\n  },\n  \"social_media\": {\n    \"CAPTION\": \"Unlock months of content with just five words! Discover the power of AI in real estate marketing.\",\n    \"HASHTAGS\": [\"#RealEstateMarketing\", \"#AItools\", \"#ContentCreation\", \"#SocialMediaStrategy\", \"#Efficiency\"],\n    \"CONTENT_PILLAR\": \"systems_that_scale\"\n  }\n}\n```"
+  }
+]

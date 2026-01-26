@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Greg Pekarski",
+    "title": "Top Producer",
+    "company": "Unknown",
+    "production_level": "$220M annual producer",
+    "specialty": "Lead Generation",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Lead Generation Strategies",
+    "Video Marketing",
+    "Agent Coaching and Development",
+    "Webinar Announcement",
+    "Real Estate Market Trends"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating consistent leads",
+      "solution_summary": "Greg Pekarski shares his lead generation secrets that helped him achieve $220M in sales.",
+      "timestamp": "03:06"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Using video to enhance brand visibility",
+      "solution_summary": "Kim Rettberg provides strategies for mastering social media video to generate leads.",
+      "timestamp": "04:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Identifying business opportunities and areas for improvement",
+      "solution_summary": "Brett Scott discusses the 'agent wheel' to help agents optimize their business operations.",
+      "timestamp": "05:50"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights from a top producer on how to scale lead generation.",
+      "key_takeaway": "Learn the strategies used by top producers to significantly increase sales volume."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses coaching strategies and tools that can be used to train teams.",
+      "key_takeaway": "Implement the 'agent wheel' to identify and improve team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "03:06",
+      "end_timestamp": "03:35",
+      "quote": "Greg Pekarski is going to be teaching you lead generation secrets from a $220 million annual producer.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the expertise of a top producer, offering valuable insights.",
+      "suggested_hook": "Want to know how a top producer generates $220M in sales? Here's a sneak peek!"
+    },
+    {
+      "timestamp": "04:52",
+      "end_timestamp": "05:02",
+      "quote": "Social media video mastery: how to generate leads while you sleep.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Captures the essence of leveraging video for passive lead generation.",
+      "suggested_hook": "Discover how to generate leads even while you're sleeping!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement lead generation strategies used by top producers.",
+      "context": "Use proven methods to increase your sales volume significantly.",
+      "timestamp": "03:06"
+    },
+    {
+      "tactic": "Utilize social media video to enhance lead generation.",
+      "context": "Create engaging video content to attract and convert leads.",
+      "timestamp": "04:09"
+    },
+    {
+      "tactic": "Use the 'agent wheel' to identify business opportunities.",
+      "context": "Analyze your business to find areas for growth and improvement.",
+      "timestamp": "05:50"
+    }
+  ],
+  "quotable_insights": [
+    "Lead generation secrets from a $220 million annual producer.",
+    "Social media video mastery: how to generate leads while you sleep."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KeepingItRealWebinar.com",
+      "context": "To sign up for the live webinar and access session details."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    }
+  ],
+  "episode_summary": "This episode of Keeping It Real announces a live webinar featuring top industry experts like Greg Pekarski and Kim Rettberg. It covers lead generation strategies, video marketing techniques, and agent coaching methods to help real estate professionals excel in 2025. Listeners are encouraged to sign up for the webinar to gain actionable insights and interact with the experts.",
+  "_metadata": {
+    "source_file": "2024-12-11_item106_D.J.-Paris",
+    "analyzed_at": "2026-01-26T12:14:31.708705",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

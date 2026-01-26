@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "95% of homes are not held in a trust, leading to probate issues.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a common oversight with significant financial implications.",
+      "suggested_hook": "Did you know 95% of homes aren't protected by a trust?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Did you know 95% of homes aren't protected by a trust?\",\n    \"SETUP\": \"This oversight can lead to costly probate issues for homeowners. Alessandro Chesser explains why this matters.\",\n    \"INSIGHT\": \"Most homeowners don't realize that without a trust, their estate could face lengthy and expensive probate processes. Living trusts offer a seamless way to transfer property, avoiding these pitfalls. Alessandro shares how Get Dynasty simplifies trust creation, making it accessible for everyone.\",\n    \"REFRAME/APPLICATION\": \"For REALTORS, this is a golden opportunity to educate clients and add value by guiding them towards trust solutions.\",\n    \"CTA\": \"Consider how a trust could protect your assets. Visit our site to learn more about simplifying trust creation with Get Dynasty.\"\n  },\n  \"CAPTION\": \"95% of homes aren't in a trust. Avoid probate issues with smart planning. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#Trusts\",\n    \"#Probate\",\n    \"#HomeOwnership\",\n    \"#FinancialPlanning\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\"\n}\n```"
+  }
+]

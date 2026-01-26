@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jenny Sommerlot",
+    "title": "REALTOR",
+    "company": "Peterson and Company, part of Keller Williams-Elk River",
+    "production_level": "Closed 24 units in her first year, 40 in her fourth year",
+    "specialty": "Rural real estate transactions",
+    "location": "Central rural Minnesota"
+  },
+  "main_topics": [
+    "Lead generation and discipline",
+    "Setting client expectations",
+    "Balancing personal and professional life",
+    "Navigating a seller's market",
+    "Importance of community involvement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to generate business in a small rural market",
+      "solution_summary": "Consistent social media posting and community involvement",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Setting expectations with buyers in a competitive market",
+      "solution_summary": "Conduct thorough buyer consultations to prepare clients for the process",
+      "timestamp": "29:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Handling setbacks and failures",
+      "solution_summary": "Focus on what can be controlled and maintain a positive outlook",
+      "timestamp": "51:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Jenny's story of starting from scratch and building a successful business",
+      "key_takeaway": "Consistent daily actions and community engagement can lead to success."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jenny's disciplined approach and high production levels",
+      "key_takeaway": "Structured routines and setting clear expectations with clients are key."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "I just made it a goal to try to post almost every day some kind of real estate content just to keep myself in front of all my people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical, actionable strategy for staying top-of-mind.",
+      "suggested_hook": "Want to stay top-of-mind in your market? Here's a simple daily strategy."
+    },
+    {
+      "timestamp": "31:00",
+      "end_timestamp": "31:45",
+      "quote": "It's not about being the highest offer, it's about being the most flexible offer.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that highest offer always wins.",
+      "suggested_hook": "In a competitive market, flexibility can beat the highest bid."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Conduct thorough buyer consultations",
+      "context": "Set expectations and prepare clients for the buying process",
+      "timestamp": "29:00"
+    },
+    {
+      "tactic": "Use social media for consistent visibility",
+      "context": "Post daily real estate content to stay top-of-mind",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Call listing agents to build rapport",
+      "context": "Ask what the sellers are looking for to tailor offers",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "You don't learn when you win, you learn when you lose.",
+    "It's not about being the highest offer, it's about being the most flexible offer."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and CRM"
+    }
+  ],
+  "episode_summary": "Jenny Sommerlot shares her journey from a stay-at-home mom to a successful REALTOR in rural Minnesota, emphasizing the importance of discipline, community involvement, and setting client expectations. She discusses effective lead generation strategies and how to navigate a competitive seller's market by being flexible with offers. Her story provides actionable insights for agents looking to grow their business through consistent daily actions and a focus on client relationships.",
+  "_metadata": {
+    "source_file": "2024-12-05_item107_Jenny-Sommerlot",
+    "analyzed_at": "2026-01-26T12:13:56.645029",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

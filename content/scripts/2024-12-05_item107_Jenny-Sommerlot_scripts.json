@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "I just made it a goal to try to post almost every day some kind of real estate content just to keep myself in front of all my people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical, actionable strategy for staying top-of-mind.",
+      "suggested_hook": "Want to stay top-of-mind in your market? Here's a simple daily strategy."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to stay top-of-mind in your market? Here's a simple daily strategy.\",\n    \"SETUP\": \"Meet Jenny Sommerlot, a real estate pro who cracked the code on staying relevant. Why should you care? Because visibility is key.\",\n    \"INSIGHT\": \"Jenny shares, 'I just made it a goal to try to post almost every day some kind of real estate content just to keep myself in front of all my people.' This daily discipline keeps her connected and engaged.\",\n    \"REFRAME/APPLICATION\": \"Staying visible isn't just about posting; it's about consistency and relevance. Apply this to keep your audience engaged and informed.\",\n    \"CTA\": \"Ready to boost your presence? Start posting daily and watch your influence grow. What's your next post about?\"\n  },\n  \"caption\": \"Stay top-of-mind with daily real estate content. Consistency is key! #RealEstateTips\",\n  \"hashtags\": [\n    \"#RealEstateTips\",\n    \"#LeadGeneration\",\n    \"#StayVisible\",\n    \"#DailyContent\",\n    \"#RealEstateMarketing\"\n  ],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "31:00",
+      "end_timestamp": "31:45",
+      "quote": "It's not about being the highest offer, it's about being the most flexible offer.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that highest offer always wins.",
+      "suggested_hook": "In a competitive market, flexibility can beat the highest bid."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"In a competitive market, flexibility can beat the highest bid.\",\n    \"SETUP\": \"Jenny Sommerlot reveals why the highest offer isn't always the winning one in today's real estate market.\",\n    \"INSIGHT\": \"It's not about being the highest offer, it's about being the most flexible offer. Sellers value terms that suit their timeline and needs.\",\n    \"REFRAME/APPLICATION\": \"Focus on understanding seller priorities. Tailor your offers to be adaptable, not just high.\",\n    \"CTA\": \"Think beyond numbers. How can you make your next offer more appealing? Share your thoughts below!\"\n  },\n  \"CAPTION\": \"Flexibility over price! Discover why the highest bid isn't always the winner in real estate.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MarketStrategy\", \"#HomeBuying\", \"#RealEstateMindset\", \"#WinningOffers\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

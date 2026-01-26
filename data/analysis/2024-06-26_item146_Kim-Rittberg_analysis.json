@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Expert",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video Marketing for Real Estate Agents",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of video content in real estate",
+    "Connection and credibility in social media videos",
+    "Creating personal and expert content",
+    "Using AI tools for content ideas",
+    "Practicing video skills"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of engaging social media content",
+      "solution_summary": "Focus on creating content that builds connection and credibility by sharing personal stories and expert advice.",
+      "timestamp": "00:02:49"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in generating leads through social media",
+      "solution_summary": "Use video content that showcases personal connection and professional credibility to stay top of mind.",
+      "timestamp": "00:03:52"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into using video content to enhance personal branding and credibility.",
+      "key_takeaway": "Balance personal and expert content to effectively engage and convert your audience."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode offers practical steps to start creating impactful video content.",
+      "key_takeaway": "Begin with simple personal stories and expert advice to build your brand on social media."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:49",
+      "end_timestamp": "00:03:52",
+      "quote": "I've broken it down to the two Cs: Connection and Credibility.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This segment provides a clear framework for creating effective video content.",
+      "suggested_hook": "Discover the two Cs that can transform your social media strategy!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create content that answers frequently asked questions.",
+      "context": "Use common questions from clients to generate expert content.",
+      "timestamp": "00:09:03"
+    },
+    {
+      "tactic": "Use AI tools like ChatGPT to generate content ideas.",
+      "context": "Input demographic information to receive relevant questions and topics.",
+      "timestamp": "00:09:27"
+    }
+  ],
+  "quotable_insights": [
+    "Connection and credibility are the key to growing your videos and social media content."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for generating content ideas and questions."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of balancing connection and credibility in video content for real estate agents. She offers practical advice on creating engaging social media videos by sharing personal stories and expert insights. The episode also highlights the use of AI tools like ChatGPT to generate content ideas.",
+  "_metadata": {
+    "source_file": "2024-06-26_item146_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T11:49:36.190892",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

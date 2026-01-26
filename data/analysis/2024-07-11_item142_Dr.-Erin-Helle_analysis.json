@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Dr. Erin Helle",
+    "title": "Unknown",
+    "company": "BC Global Investments",
+    "production_level": "Unknown",
+    "specialty": "Client relationship management",
+    "location": "Unknown"
+  },
+  "main_topics": [
+    "Effective communication strategies",
+    "Client management techniques",
+    "Customer service skills",
+    "Referral generation",
+    "Setting realistic expectations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Building and maintaining strong client relationships",
+      "solution_summary": "Utilize active listening, clear communication, and regular check-ins to build trust and manage expectations.",
+      "timestamp": "00:02:27"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Generating referrals from satisfied clients",
+      "solution_summary": "Ask for referrals at the client's happiest moment and use online platforms to encourage referrals.",
+      "timestamp": "00:12:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for building client relationships and generating referrals.",
+      "key_takeaway": "Effective communication and proactive client management are keys to generating referrals and sustaining business growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:50",
+      "end_timestamp": "00:05:30",
+      "quote": "Record a video of yourself...so they can see your smiling face.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This advice provides a specific, actionable tactic for improving client communication.",
+      "suggested_hook": "Want to stand out as a REALTOR? Try this simple video communication tip!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video messages for important client updates.",
+      "context": "When communicating significant information to clients to avoid misinterpretation.",
+      "timestamp": "00:04:50"
+    },
+    {
+      "tactic": "Regularly check in with clients, even when there's no update.",
+      "context": "To prevent clients from feeling left in the dark and maintain trust.",
+      "timestamp": "00:10:52"
+    }
+  ],
+  "quotable_insights": [
+    "Happy clients are the foundation of your success as a REALTOR."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and client management."
+    },
+    {
+      "type": "website",
+      "name": "BC Global Investments.com",
+      "context": "Provided for accessing handouts and connecting with Dr. Erin Helle."
+    }
+  ],
+  "episode_summary": "Dr. Erin Helle discusses the importance of effective communication and client management in real estate. She offers actionable strategies for building strong client relationships, generating referrals, and setting realistic expectations. The episode emphasizes the role of proactive communication and the use of technology to enhance client interactions.",
+  "_metadata": {
+    "source_file": "2024-07-11_item142_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-26T11:51:21.978538",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

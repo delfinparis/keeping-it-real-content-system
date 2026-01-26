@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:06",
+      "end_timestamp": "09:40",
+      "quote": "Seller financing can lead to quicker transactions because there's a lot less underwriting.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a clear advantage of seller financing that can be used to attract clients.",
+      "suggested_hook": "Looking for faster real estate transactions? Here's how seller financing can help."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Looking for faster real estate transactions? Discover the power of seller financing!\",\n    \"SETUP\": \"(0:08-0:18) In today's competitive market, speed is crucial. Dr. Erin Helle explains how seller financing can accelerate your deals.\",\n    \"INSIGHT\": \"(0:18-0:40) Seller financing can lead to quicker transactions because there's a lot less underwriting. This means fewer hurdles and faster closings.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By leveraging seller financing, you can close deals faster, keeping clients happy and your business thriving.\",\n    \"CTA\": \"(0:52-0:60) Ready to speed up your transactions? Explore seller financing options today and transform your real estate strategy!\"\n  },\n  \"CAPTION\": \"Speed up your real estate deals with seller financing! 🚀 #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#SellerFinancing\",\n    \"#FastTransactions\",\n    \"#RealEstateInvesting\",\n    \"#MortgageTips\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "12:36",
+      "end_timestamp": "13:02",
+      "quote": "An assumable mortgage allows a home buyer to step into the seller's loan, saving thousands on interest.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the conventional wisdom that high interest rates are a barrier to home buying.",
+      "suggested_hook": "Think high interest rates are stopping your home purchase? Think again!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think high interest rates are stopping your home purchase? Think again!\",\n    \"SETUP\": \"Meet Dr. Erin Helle, who reveals a game-changing strategy in real estate. High interest rates don't have to be a barrier.\",\n    \"INSIGHT\": \"An assumable mortgage lets you step into the seller's loan, potentially saving thousands on interest. It's a smart move in today's market.\",\n    \"REFRAME/APPLICATION\": \"This matters because it opens up opportunities for buyers. Consider assumable mortgages to make your next purchase more affordable.\",\n    \"CTA\": \"Explore the world of assumable mortgages. Could this be your key to home ownership? Share your thoughts below!\"\n  },\n  \"CAPTION\": \"Unlock home ownership with assumable mortgages and save big on interest! 💡🏡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageHacks\", \"#HomeBuying\", \"#InterestRates\", \"#AssumableMortgage\"],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  }
+]

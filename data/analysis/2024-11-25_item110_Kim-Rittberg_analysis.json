@@ -1,0 +1,81 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Real Estate Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video Strategy and Social Media Engagement",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Video content creation during holidays",
+    "Building connection and credibility through video",
+    "Social media engagement strategies",
+    "Using personal stories to enhance professional reach"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents fall off social media engagement during holidays.",
+      "solution_summary": "Create low-effort, high-payback videos that share personal experiences and connect with the audience.",
+      "timestamp": "00:03:06"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in generating leads through social media.",
+      "solution_summary": "Focus on connection and credibility by sharing authentic personal stories and experiences.",
+      "timestamp": "00:04:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for maintaining social media presence without overwhelming effort.",
+      "key_takeaway": "Quality of strategy and authentic connection are more important than constant posting."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:10",
+      "end_timestamp": "00:06:30",
+      "quote": "It's not necessarily about showing up all the time, but it's about really understanding when you show up.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the conventional wisdom of constant social media presence.",
+      "suggested_hook": "Why showing up less can actually boost your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Film B-roll of your personal experiences during holidays.",
+      "context": "Use simple footage to connect with your audience by sharing your life.",
+      "timestamp": "00:07:01"
+    },
+    {
+      "tactic": "Use Instagram Stories to share holiday experiences.",
+      "context": "Stories disappear after 24 hours, making them a low-pressure way to engage.",
+      "timestamp": "00:10:48"
+    }
+  ],
+  "quotable_insights": [
+    "Every single day, every time you're scrolling on your phone, you could be making money."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "Kim Rittberg discusses how real estate agents can leverage video content during the holiday season to maintain social media engagement and generate leads. She emphasizes the importance of connection and credibility over constant posting, offering practical tips for creating authentic and engaging content that resonates with audiences.",
+  "_metadata": {
+    "source_file": "2024-11-25_item110_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T12:11:30.375812",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

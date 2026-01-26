@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "The difference in one percent between a 6% mortgage and a 7% mortgage on a half a million dollar loan is going to be a couple hundred dollars a month.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It provides a clear financial perspective that can alleviate client concerns.",
+      "suggested_hook": "Worried about rising mortgage rates? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Worried about rising mortgage rates? Here's why you shouldn't be.\",\n    \"SETUP\": \"Anna DeSimone explains how a 1% difference in mortgage rates impacts your monthly payments.\",\n    \"INSIGHT\": \"The difference between a 6% and a 7% mortgage on a $500,000 loan is just a couple hundred dollars a month.\",\n    \"REFRAME/APPLICATION\": \"Understanding this can ease your concerns and help you make informed decisions.\",\n    \"CTA\": \"Think about how this impacts your home buying strategy. Ready to learn more? Tune in!\"\n  },\n  \"CAPTION\": \"A 1% mortgage rate difference isn't as scary as it seems. Learn why!\",\n  \"HASHTAGS\": [\n    \"#MortgageRates\",\n    \"#HomeBuying\",\n    \"#FinancialLiteracy\",\n    \"#RealEstateTips\",\n    \"#AnnaDeSimone\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  }
+]

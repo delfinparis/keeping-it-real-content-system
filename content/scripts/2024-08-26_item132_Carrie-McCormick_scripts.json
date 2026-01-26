@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:37",
+      "end_timestamp": "06:05",
+      "quote": "Strengthen your personal brand through content marketing, social media, and local events.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides clear steps for agents to enhance their market presence.",
+      "suggested_hook": "Want to stand out in the real estate market? Here's how to strengthen your personal brand."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Want to stand out in the real estate market? Here's how to strengthen your personal brand.\",\n    \"SETUP\": \"(0:08-0:18) Meet Carrie McCormick, a top real estate expert. She's here to share why building a strong personal brand is crucial for agents today.\",\n    \"INSIGHT\": \"(0:18-0:40) Strengthen your personal brand through content marketing, social media, and local events. Create valuable content that showcases your expertise, engage with your audience online, and participate in community events to build trust.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By focusing on these areas, you not only enhance your visibility but also establish credibility in your market. Start implementing these strategies today.\",\n    \"CTA\": \"(0:52-0:60) Ready to elevate your brand? Start by creating a content plan. Share your progress with us in the comments!\"\n  },\n  \"caption\": \"Boost your real estate brand with these expert tips from Carrie McCormick!\",\n  \"hashtags\": [\"#RealEstateTips\", \"#PersonalBranding\", \"#ContentMarketing\", \"#SocialMediaStrategy\", \"#LocalEvents\"],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "10:02",
+      "end_timestamp": "10:28",
+      "quote": "Practice your pitches and be ready to explain your commission model to clients.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Gives actionable advice on how to handle commission discussions.",
+      "suggested_hook": "Are you ready to explain your commission model to clients? Here's how to prepare."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Are you ready to explain your commission model to clients? Here's how to prepare.\",\n    \"SETUP\": \"(0:08-0:18) In today's competitive real estate market, understanding and communicating your commission model is crucial. Carrie McCormick shares her insights.\",\n    \"INSIGHT\": \"(0:18-0:40) Practice your pitches and be ready to explain your commission model clearly. Break it down into simple terms, highlighting the value you bring. Use real examples to illustrate your points.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This approach builds trust and transparency with clients, setting you apart in the industry. Start incorporating this into your buyer presentations today.\",\n    \"CTA\": \"(0:52-0:60) Ready to elevate your client conversations? Begin by refining your pitch and see the difference it makes. Share your experiences below!\"\n  },\n  \"caption\": \"Master your commission pitch and win client trust. #RealEstateTips\",\n  \"hashtags\": [\n    \"#RealEstateAdvice\",\n    \"#CommissionModel\",\n    \"#ClientRelations\",\n    \"#RealEstateSuccess\",\n    \"#CarrieMcCormick\"\n  ],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  }
+]

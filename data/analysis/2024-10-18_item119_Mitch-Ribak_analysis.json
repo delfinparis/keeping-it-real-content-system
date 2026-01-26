@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Mitch Ribak",
+    "title": "Team Leader, Coach, Author, Broker, Business Owner",
+    "company": "Tropical Beachside Broker by EXP Realty",
+    "production_level": "800+ transactions per year",
+    "specialty": "Lead conversion and business systems",
+    "location": "Brevard County, Florida"
+  },
+  "main_topics": [
+    "Lead conversion strategies",
+    "Building a sustainable real estate business",
+    "Time management and productivity",
+    "Importance of setting expectations",
+    "Work-life balance in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Converting leads into clients",
+      "solution_summary": "Focus on consistent follow-up with a bi-weekly email strategy including market updates and local events.",
+      "timestamp": "00:11:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Overworking and missing family time",
+      "solution_summary": "Create systems that allow delegation of tasks and focus on high-value activities.",
+      "timestamp": "00:29:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Believing success is only about high sales volume",
+      "solution_summary": "Redefine success to include personal happiness and time freedom.",
+      "timestamp": "00:22:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode addresses how to reduce workload while maintaining income.",
+      "key_takeaway": "Leverage systems and delegation to achieve a better work-life balance."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Provides strategies to increase production efficiently.",
+      "key_takeaway": "Focus on lead conversion and consistent follow-up to boost sales."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:16:00",
+      "end_timestamp": "00:17:00",
+      "quote": "They only use you because you happen to be in front of them when they need to buy or sell.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It challenges the notion that trust is the primary reason clients choose agents.",
+      "suggested_hook": "Why being top of mind is more crucial than trust in real estate."
+    },
+    {
+      "timestamp": "00:45:00",
+      "end_timestamp": "00:46:00",
+      "quote": "Your expectations are the cause of almost all your disappointments.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages listeners to reassess their expectations to reduce stress.",
+      "suggested_hook": "How your expectations might be sabotaging your success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send market updates and local event emails bi-weekly.",
+      "context": "To stay top of mind with your contacts.",
+      "timestamp": "00:11:00"
+    },
+    {
+      "tactic": "Delegate tasks to focus on high-value activities.",
+      "context": "To reduce workload and improve work-life balance.",
+      "timestamp": "00:29:00"
+    }
+  ],
+  "quotable_insights": [
+    "Prospecting solves all problems.",
+    "If you build a really good system, you don't have mountains."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Big Lie",
+      "context": "Mitch's book on redefining success in real estate."
+    },
+    {
+      "type": "website",
+      "name": "RealGeeks",
+      "context": "A tool for lead generation and conversion."
+    }
+  ],
+  "episode_summary": "Mitch Ribak shares his insights on converting leads into clients through consistent follow-up and setting realistic expectations. He emphasizes the importance of work-life balance and how to achieve it by delegating tasks and focusing on high-value activities. The episode challenges traditional views on success in real estate, advocating for a more holistic approach that includes personal happiness and time freedom.",
+  "_metadata": {
+    "source_file": "2024-10-18_item119_Mitch-Ribak",
+    "analyzed_at": "2026-01-26T12:04:56.255854",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

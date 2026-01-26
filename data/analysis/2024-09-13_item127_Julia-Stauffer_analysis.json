@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Julia Stauffer",
+    "title": "Award-winning Agent",
+    "company": "McDonald Realty",
+    "production_level": "Top Producer",
+    "specialty": "Building relationships and crafting connections",
+    "location": "Vancouver, British Columbia, Canada"
+  },
+  "main_topics": [
+    "Transitioning to real estate at 50",
+    "Building a business through referrals",
+    "The importance of personal branding",
+    "Using video content for engagement",
+    "Navigating industry changes and regulations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a personal brand in a new industry",
+      "solution_summary": "Julia leveraged her brother's expertise in branding to create a cohesive and professional look, which helped her establish credibility.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without a strong initial sphere of influence",
+      "solution_summary": "Julia focused on building connections through referrals and leveraging social media to expand her network.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of an unstable income",
+      "solution_summary": "Julia navigated the transition by working part-time initially and focusing on the aspects of real estate she loved.",
+      "timestamp": "05:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Julia's story of transitioning careers and becoming a top producer provides inspiration and a roadmap for those looking to excel.",
+      "key_takeaway": "Building strong relationships and a personal brand are key to long-term success in real estate."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Julia's approach to branding and lead generation.",
+      "key_takeaway": "Focus on creating a strong personal brand and leveraging social media to build your network."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:30",
+      "end_timestamp": "09:15",
+      "quote": "Transitioning at 50 is a difficult time to use your sphere because most people that you know are already in their forever home.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the unique challenges of starting a real estate career later in life.",
+      "suggested_hook": "Facing a career change at 50? Here's how one agent overcame the odds."
+    },
+    {
+      "timestamp": "15:00",
+      "end_timestamp": "15:45",
+      "quote": "If you want to double your income, double your leads.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This simple yet powerful insight can motivate agents to focus on lead generation.",
+      "suggested_hook": "The secret to doubling your real estate income might be simpler than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video content to stay top of mind with your network.",
+      "context": "Create short, engaging videos that showcase your personality and expertise.",
+      "timestamp": "20:00"
+    },
+    {
+      "tactic": "Leverage LinkedIn for professional credibility.",
+      "context": "Post content that establishes your expertise and connects with business professionals.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Work doesn't feel like work when you're doing what you love.",
+    "It's not about the number of followers; it's about the quality of connections."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Beyond the Method",
+      "context": "A program that teaches real estate agents how to effectively use Instagram for business."
+    }
+  ],
+  "episode_summary": "In this episode, Julia Stauffer shares her journey of transitioning to a successful real estate career at the age of 50. She discusses the importance of building a personal brand, leveraging social media, and using video content to engage with clients. Julia also offers insights into navigating industry changes and the value of continuous learning.",
+  "_metadata": {
+    "source_file": "2024-09-13_item127_Julia-Stauffer",
+    "analyzed_at": "2026-01-26T11:59:36.704047",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

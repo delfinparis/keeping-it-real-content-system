@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:05",
+      "end_timestamp": "00:10:45",
+      "quote": "Our only goal is to create connection. We need someone to consume our content and say 'me too' or 'dang, that is awesome'.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It emphasizes the importance of connection in content creation, resonating with agents looking to build relationships.",
+      "suggested_hook": "Are you struggling to connect with your audience? Here's why connection is key."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you struggling to connect with your audience? Here's why connection is key.\",\n    \"SETUP\": \"In the world of real estate, building relationships is everything. Michelle Berman Mikel shares why creating genuine connections should be your top priority.\",\n    \"INSIGHT\": \"Our only goal is to create connection. We need someone to consume our content and say 'me too' or 'dang, that is awesome'. This emotional resonance is what turns casual viewers into loyal clients.\",\n    \"REFRAME/APPLICATION\": \"By focusing on connection, you transform your content from mere information to a shared experience. This is how you build lasting relationships.\",\n    \"CTA\": \"Think about your last piece of content. Did it connect? Share your thoughts or try a new approach today!\"\n  },\n  \"CAPTION\": \"Connection is the key to loyalty. Are you resonating with your audience? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#ContentCreation\", \"#CustomerLoyalty\", \"#Storytelling\", \"#Connection\"],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  }
+]

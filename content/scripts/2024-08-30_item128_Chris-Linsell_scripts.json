@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00",
+      "end_timestamp": "00:07",
+      "quote": "Breaking news everyone, social media has officially been dethroned as the number one marketing resource for real estate agents.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It challenges the conventional wisdom of social media's dominance.",
+      "suggested_hook": "Is social media losing its edge in real estate marketing?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is social media losing its edge in real estate marketing?\",\n    \"SETUP\": \"Breaking news everyone, social media has officially been dethroned as the number one marketing resource for real estate agents.\",\n    \"INSIGHT\": \"In this episode, Chris Linsell reveals a shift in marketing priorities. Business websites and video marketing are taking the lead, while email marketing is making a strong comeback. Social media's role is evolving, but it's no longer the top dog.\",\n    \"REFRAME/APPLICATION\": \"This shift matters because it opens new avenues for reaching clients. Focus on enhancing your website and leveraging video content to stay ahead.\",\n    \"CTA\": \"What marketing strategy will you prioritize next? Share your thoughts or try integrating a new tactic today!\"\n  },\n  \"CAPTION\": \"Social media is no longer king in real estate marketing. Discover what's taking the lead! 🎥📧\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#VideoMarketing\", \"#EmailMarketing\", \"#BusinessGrowth\", \"#MarketingTrends\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "14:00",
+      "end_timestamp": "14:30",
+      "quote": "The reality is, we are living in an era of video where authenticity is more important than production.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to start video marketing without fear of low production quality.",
+      "suggested_hook": "Why authenticity beats production in video marketing."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Are you still obsessing over video quality? Here's why authenticity trumps production every time!\",\n    \"SETUP\": \"(0:08-0:18) Chris Linsell shares how real estate agents can thrive in today's video-centric world without high production costs.\",\n    \"INSIGHT\": \"(0:18-0:40) The reality is, we are living in an era of video where authenticity is more important than production. Start recording with your smartphone and let your genuine personality shine through.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) Authentic videos build trust and connection with clients. Focus on being real, not perfect, and watch your engagement soar.\",\n    \"CTA\": \"(0:52-0:60) Ready to start? Grab your phone and hit record. Share your first authentic video today and tag us!\"\n  },\n  \"CAPTION\": \"Authenticity in video marketing is your secret weapon. Start recording today! #RealEstateMarketing\",\n  \"HASHTAGS\": [\n    \"#RealEstateMarketing\",\n    \"#VideoMarketing\",\n    \"#Authenticity\",\n    \"#RealEstateTips\",\n    \"#ChrisLinsell\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  }
+]

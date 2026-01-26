@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sam Caudle",
+    "title": "Real Estate Agent",
+    "company": "Living in Tampa, brokered by eXp",
+    "production_level": "N/A",
+    "specialty": "YouTube-based lead generation",
+    "location": "Tampa, Florida"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Content creation strategies for real estate",
+    "Building a real estate business from scratch",
+    "The importance of evergreen content",
+    "Leveraging partnerships for video production"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market",
+      "solution_summary": "Create searchable, evergreen YouTube content to attract clients moving to the area.",
+      "timestamp": "00:04:12"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Efficient video production",
+      "solution_summary": "Use simple equipment like a phone or a DJI Osmo Pocket and hire an editor to streamline the process.",
+      "timestamp": "00:17:17"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Funding video production",
+      "solution_summary": "Partner with lenders or title companies to cover video production costs.",
+      "timestamp": "00:23:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to break through lead generation plateaus using YouTube.",
+      "key_takeaway": "Focus on creating evergreen content that answers specific client questions to generate consistent leads."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sam's approach shows how to scale a real estate business through strategic content marketing.",
+      "key_takeaway": "Leverage YouTube's search engine capabilities to reach a wider audience and convert views into clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:20:04",
+      "end_timestamp": "00:20:30",
+      "quote": "My first video got 23 views the next day, and I realized 23 strangers found my video.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It captures the excitement and potential of reaching new clients through YouTube.",
+      "suggested_hook": "Imagine 23 potential clients discovering you overnight."
+    },
+    {
+      "timestamp": "00:46:36",
+      "end_timestamp": "00:46:51",
+      "quote": "Last year was an interesting year because I kept hearing every REALTOR struggling...my business doubled.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the narrative that the market is tough for everyone.",
+      "suggested_hook": "While others struggled, my business doubled. Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create videos that answer specific questions potential clients have about moving to your area.",
+      "context": "Focus on searchable content that provides value to people considering a move.",
+      "timestamp": "00:10:08"
+    },
+    {
+      "tactic": "Use a simple call to action in your videos.",
+      "context": "Tell viewers exactly what to do next and what will happen when they reach out.",
+      "timestamp": "00:29:03"
+    }
+  ],
+  "quotable_insights": [
+    "Sales solve all problems. Leads solve all problems.",
+    "YouTube is the second biggest search engine behind Google."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "RE YouTuber",
+      "context": "Sam's course on how to use YouTube for real estate lead generation."
+    },
+    {
+      "type": "tool",
+      "name": "Epidemic Sound",
+      "context": "Recommended for sourcing music for video content."
+    }
+  ],
+  "episode_summary": "In this episode, Sam Caudle shares how he built a thriving real estate business in Tampa, Florida, using YouTube as a primary lead generation tool. He discusses the importance of creating evergreen content that answers specific client questions and offers insights into efficient video production and leveraging partnerships to fund content creation. Sam's approach provides actionable strategies for REALTORS looking to expand their reach and increase their client base through strategic content marketing.",
+  "_metadata": {
+    "source_file": "2024-08-20_item134_Sam-Caudle",
+    "analyzed_at": "2026-01-26T11:54:49.914178",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

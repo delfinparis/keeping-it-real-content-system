@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Brandon Doyle",
+    "title": "Real Estate Agent",
+    "company": "Doyle Real Estate Team with RE/MAX Results",
+    "production_level": "Top 1% Producer",
+    "specialty": "Smart Home Technology and New Construction",
+    "location": "Minneapolis, Minnesota"
+  },
+  "main_topics": [
+    "Integrating personal passions into real estate",
+    "Smart home technology in real estate",
+    "Content creation and video marketing",
+    "Client engagement and retention strategies",
+    "Impact of technology on real estate practices"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to leverage personal interests to grow a real estate business",
+      "solution_summary": "Brandon uses his passion for smart home technology to create content that attracts tech-savvy clients, positioning himself as an expert in both real estate and technology.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through content marketing",
+      "solution_summary": "Brandon creates hyper-local video content focused on specific buyer questions, which helps in attracting high-intent buyers.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships over long periods",
+      "solution_summary": "Brandon uses a multi-pronged approach including newsletters, social media, and client events to stay top of mind with past clients.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging personal interests to differentiate oneself in the market.",
+      "key_takeaway": "Integrating personal passions into your business can attract a niche audience and establish you as an expert."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The discussion on using technology and content to engage clients is valuable for team leaders looking to innovate.",
+      "key_takeaway": "Consistent content creation and client engagement are key to maintaining a strong market presence."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "18:00",
+      "end_timestamp": "19:00",
+      "quote": "I've been telling people about this for eight years and no one's doing it.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to adopt a proven strategy that is underutilized.",
+      "suggested_hook": "Why aren't more agents using this simple strategy?"
+    },
+    {
+      "timestamp": "39:00",
+      "end_timestamp": "40:00",
+      "quote": "There's no worse feeling than driving down the road and seeing a listing sign for one of your past clients.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of client retention in a relatable way.",
+      "suggested_hook": "Avoid this common REALTOR nightmare."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create hyper-local video content",
+      "context": "Focus on specific questions potential buyers have about neighborhoods and schools.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Host client events to maintain relationships",
+      "context": "Use events as an excuse to reach out and engage with clients regularly.",
+      "timestamp": "40:00"
+    }
+  ],
+  "quotable_insights": [
+    "Integrating personal passions into your business can attract a niche audience and establish you as an expert.",
+    "Consistent content creation and client engagement are key to maintaining a strong market presence."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive CRM and marketing tool for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Chat GPT",
+      "context": "Used for generating content ideas and repurposing existing content."
+    }
+  ],
+  "episode_summary": "In this episode, Brandon Doyle discusses how he integrates his passion for smart home technology into his real estate practice, attracting tech-savvy clients and establishing himself as an expert. He shares his strategies for content creation and client engagement, emphasizing the importance of consistency and personalization in maintaining client relationships. The episode offers actionable insights for REALTORS looking to differentiate themselves and leverage technology in their business.",
+  "_metadata": {
+    "source_file": "2024-10-29_item116_Brandon-Doyle",
+    "analyzed_at": "2026-01-26T12:07:02.365213",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

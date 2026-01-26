@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Real Estate Technology Analyst",
+    "company": "Luxury Presence",
+    "production_level": null,
+    "specialty": "Real estate technology and content strategy",
+    "location": "Michigan"
+  },
+  "main_topics": [
+    "NAR's Clear Cooperation Policy",
+    "Impact of MLS listing requirements",
+    "Private listing networks",
+    "Agent fiduciary responsibilities",
+    "Zillow's role in real estate listings"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "NAR's Clear Cooperation Policy requiring MLS listing within 24 hours",
+      "solution_summary": "Discussed the potential removal of the policy and allowing private sales while ensuring post-transaction reporting to MLS for data accuracy.",
+      "timestamp": "04:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders need to understand the implications of the Clear Cooperation Policy on their agents' ability to market properties effectively.",
+      "key_takeaway": "Consider the benefits of private listing networks and how they might serve clients better than mandatory MLS listings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:00",
+      "end_timestamp": "16:30",
+      "quote": "Our first responsibility as real estate professionals is to maximize the fiduciary opportunities of our buyers and sellers.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional wisdom that MLS listings are always in the client's best interest.",
+      "suggested_hook": "Are MLS listings really serving your clients' best interests?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Consider private listing networks for exclusive properties.",
+      "context": "When dealing with high-profile clients or unique properties that may benefit from limited exposure.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "The best interests of my client might be to keep this listing a private listing that I only advertise in my local circles."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business and improve lead conversion."
+    },
+    {
+      "type": "course",
+      "name": "Beyond the Method",
+      "context": "Michelle Berman-Michael's Instagram strategies course for real estate agents."
+    }
+  ],
+  "episode_summary": "This episode dives into the controversial NAR Clear Cooperation Policy, exploring its impact on real estate agents and the industry. Chris Linsell discusses the pros and cons of mandatory MLS listings and the potential benefits of private listing networks. The conversation also touches on the role of Zillow and the importance of agent fiduciary responsibilities.",
+  "_metadata": {
+    "source_file": "2024-09-30_item123_Chris-Linsell",
+    "analyzed_at": "2026-01-26T12:02:51.789852",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

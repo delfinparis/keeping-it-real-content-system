@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Ryan Overcash",
+    "title": "REALTOR",
+    "company": "Castello Real Estate and Investments",
+    "production_level": "$5M+ in first year",
+    "specialty": "Sphere of influence and social media marketing",
+    "location": "Raleigh Durham, North Carolina"
+  },
+  "main_topics": [
+    "Transitioning from a dual career to full-time real estate",
+    "Leveraging past professional networks for real estate leads",
+    "The importance of social media in personal branding",
+    "Navigating changes in real estate commission structures",
+    "Balancing work and personal life in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding clients when transitioning to full-time real estate",
+      "solution_summary": "Leverage existing professional networks and focus on sphere of influence.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out on social media without being overly salesy",
+      "solution_summary": "Share personal stories and hobbies to connect authentically with the audience.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in real estate commission structures",
+      "solution_summary": "Educate clients on the value of representation and be transparent about commission negotiations.",
+      "timestamp": "47:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Ryan's journey from dual career to full-time real estate offers a roadmap for new agents.",
+      "key_takeaway": "Leverage your existing network and focus on building authentic relationships."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Ryan's success in his first year provides insights into effective lead generation and personal branding.",
+      "key_takeaway": "Consistent effort and leveraging personal interests can lead to significant business growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "I try to do a balance of 25% real estate, 75% hobbies and interesting stuff.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear strategy for engaging social media content.",
+      "suggested_hook": "Want to know the secret to engaging your audience on social media?"
+    },
+    {
+      "timestamp": "48:00",
+      "end_timestamp": "49:00",
+      "quote": "People are going to want some type of representation. There is value there.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Reframes the conversation around commission changes as an opportunity.",
+      "suggested_hook": "Worried about commission changes? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Reach out to your existing network for potential leads.",
+      "context": "Start with people who already know and trust you.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Balance real estate content with personal interests on social media.",
+      "context": "Use a 25/75 split to keep your audience engaged.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Be transparent about commission structures with clients.",
+      "context": "Educate clients on the value of your services and negotiate openly.",
+      "timestamp": "47:00"
+    }
+  ],
+  "quotable_insights": [
+    "Betting on yourself can lead to unexpected success.",
+    "It's not crowded along the extra mile."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Never Split the Difference",
+      "context": "Recommended for improving negotiation skills."
+    },
+    {
+      "type": "certification",
+      "name": "Certified Negotiation Expert (CNE)",
+      "context": "Enhances credibility and skills in negotiation."
+    }
+  ],
+  "episode_summary": "In this episode, Ryan Overcash shares his journey from a dual career to a successful full-time REALTOR, emphasizing the importance of leveraging existing networks and personal branding on social media. He discusses adapting to changes in commission structures and the value of going the extra mile for clients. Ryan's insights offer actionable strategies for new and aspiring agents looking to grow their business.",
+  "_metadata": {
+    "source_file": "2024-08-29_item129_Ryan-Overcash",
+    "analyzed_at": "2026-01-26T11:57:44.221768",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

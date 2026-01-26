@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kelly Dugan",
+    "title": "Real Estate Agent",
+    "company": "The Gold Group with At Properties, Christie's International",
+    "production_level": "Top producing team member",
+    "specialty": "Residential real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Building a real estate business",
+    "Importance of mentorship",
+    "Navigating the current real estate market",
+    "Effective client communication",
+    "Marketing and branding strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a competitive market",
+      "solution_summary": "Snowballing off current listings by targeting neighbors with brochures and personalized letters.",
+      "timestamp": "11:56"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client expectations in a high-interest rate environment",
+      "solution_summary": "Educating clients on market realities and focusing on their motivations and needs.",
+      "timestamp": "13:01"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining productivity while managing multiple clients",
+      "solution_summary": "Implementing systems like quarterly newsletters and home anniversary gifts to stay top-of-mind.",
+      "timestamp": "34:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Kelly shares her journey from starting with no experience to becoming a top producer.",
+      "key_takeaway": "Focus on building systems and leveraging mentorship to grow your business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses advanced strategies for client management and lead generation.",
+      "key_takeaway": "Use your current listings to generate new leads and maintain client relationships through consistent communication."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:22",
+      "end_timestamp": "18:02",
+      "quote": "You're not going to wake up one day and feel like today is a great day to drop 500 grand.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a relatable and humorous way to address buyer hesitation.",
+      "suggested_hook": "Ever feel anxious about making big financial decisions? You're not alone!"
+    },
+    {
+      "timestamp": "33:45",
+      "end_timestamp": "34:30",
+      "quote": "I think educating and coaching are the two main hubs of my business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of client education in real estate.",
+      "suggested_hook": "Why educating your clients is the key to a successful real estate career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Snowball off current listings to generate leads.",
+      "context": "Send brochures and letters to neighbors of a sold property.",
+      "timestamp": "11:56"
+    },
+    {
+      "tactic": "Implement a quarterly newsletter.",
+      "context": "Keep your sphere engaged and informed with market updates and personal touches.",
+      "timestamp": "34:01"
+    }
+  ],
+  "quotable_insights": [
+    "You get what you put in. Sometimes that might take a year or two, but if you truly are dedicated, it will work out.",
+    "Nobody works for free, and transparency is key in client relationships."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM management."
+    }
+  ],
+  "episode_summary": "In this episode, Kelly Dugan shares her journey from a novice to a top-producing real estate agent, emphasizing the importance of mentorship and client education. She provides actionable strategies for lead generation and client management, including snowballing off current listings and maintaining consistent communication through newsletters. Kelly also addresses the challenges of the current market and offers insights into navigating client expectations.",
+  "_metadata": {
+    "source_file": "2024-06-21_item148_Kelly-Dugan",
+    "analyzed_at": "2026-01-26T11:48:47.150131",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

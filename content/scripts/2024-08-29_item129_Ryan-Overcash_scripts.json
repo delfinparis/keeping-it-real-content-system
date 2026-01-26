@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "I try to do a balance of 25% real estate, 75% hobbies and interesting stuff.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear strategy for engaging social media content.",
+      "suggested_hook": "Want to know the secret to engaging your audience on social media?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to know the secret to engaging your audience on social media?\",\n    \"SETUP\": \"Ryan Overcash shares his strategy for captivating content. It's not just about real estate; it's about balance.\",\n    \"INSIGHT\": \"Ryan suggests a 25% focus on real estate and 75% on hobbies and interesting stuff. This mix keeps your audience intrigued and coming back for more.\",\n    \"REFRAME/APPLICATION\": \"By diversifying your content, you not only showcase your expertise but also build a relatable personal brand.\",\n    \"CTA\": \"Try this strategy today! What hobbies will you share to connect with your audience?\"\n  },\n  \"CAPTION\": \"Balance is key! Mix real estate with personal interests for engaging content. #SocialMediaStrategy\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#SocialMedia\",\n    \"#PersonalBranding\",\n    \"#ContentCreation\",\n    \"#Engagement\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "48:00",
+      "end_timestamp": "49:00",
+      "quote": "People are going to want some type of representation. There is value there.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Reframes the conversation around commission changes as an opportunity.",
+      "suggested_hook": "Worried about commission changes? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Worried about commission changes? Here's why you shouldn't be.\",\n    \"SETUP\": \"Meet Ryan Overcash, a real estate expert who sees opportunity where others see obstacles. Commission changes got you stressed? Listen up.\",\n    \"INSIGHT\": \"Ryan believes that even with commission shifts, people will always seek representation. The value you bring as an agent is irreplaceable.\",\n    \"REFRAME/APPLICATION\": \"Instead of fearing change, focus on showcasing your unique value. Use this shift to strengthen your client relationships.\",\n    \"CTA\": \"Think about how you can highlight your value. Share your thoughts below or tag a fellow agent who needs to hear this!\"\n  },\n  \"CAPTION\": \"Commission changes? Embrace the opportunity to showcase your value! #RealEstateMindset\",\n  \"HASHTAGS\": [\"#RealEstateMindset\", \"#CommissionChanges\", \"#AgentValue\", \"#RealEstateAdvice\", \"#Opportunity\"],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  }
+]

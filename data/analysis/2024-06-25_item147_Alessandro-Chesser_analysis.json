@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Alessandro Chesser",
+    "title": "Co-founder and CEO",
+    "company": "Get Dynasty",
+    "production_level": null,
+    "specialty": "Living trust creation",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of putting real estate in trusts",
+    "Benefits of living trusts over wills",
+    "Challenges with traditional trust creation",
+    "Get Dynasty's solution for creating trusts",
+    "Opportunities for REALTORS to add value"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Most Americans do not have their homes in a trust, leading to probate issues.",
+      "solution_summary": "Get Dynasty offers a free, easy way to create a living trust for homeowners, avoiding probate.",
+      "timestamp": "04:01"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "REALTORS lack knowledge about living trusts and how to advise clients.",
+      "solution_summary": "Educate REALTORS on the benefits of trusts and how to integrate this into their client services.",
+      "timestamp": "18:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides a unique value proposition that can differentiate agents in a competitive market.",
+      "key_takeaway": "Offering living trust services can set you apart and provide significant value to clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "95% of homes are not held in a trust, leading to probate issues.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a common oversight with significant financial implications.",
+      "suggested_hook": "Did you know 95% of homes aren't protected by a trust?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Offer living trust creation as part of your real estate services.",
+      "context": "Introduce this during the home buying process to provide added value.",
+      "timestamp": "20:30"
+    }
+  ],
+  "quotable_insights": [
+    "A free trust is 100% better than no trust."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Get Dynasty",
+      "context": "Platform for creating free living trusts."
+    }
+  ],
+  "episode_summary": "This episode with Alessandro Chesser from Get Dynasty explores the importance of putting real estate in living trusts to avoid probate. It highlights how REALTORS can differentiate themselves by offering trust creation services to clients, leveraging Get Dynasty's free platform to add value and protect clients' assets.",
+  "_metadata": {
+    "source_file": "2024-06-25_item147_Alessandro-Chesser",
+    "analyzed_at": "2026-01-26T11:49:14.052375",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

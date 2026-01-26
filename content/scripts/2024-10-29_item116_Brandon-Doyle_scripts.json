@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "18:00",
+      "end_timestamp": "19:00",
+      "quote": "I've been telling people about this for eight years and no one's doing it.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to adopt a proven strategy that is underutilized.",
+      "suggested_hook": "Why aren't more agents using this simple strategy?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Why aren't more agents using this simple strategy?\",\n    \"SETUP\": \"(0:08-0:18) Brandon Doyle challenges agents to adopt a proven, yet underutilized strategy. It's time to pay attention.\",\n    \"INSIGHT\": \"(0:18-0:40) For eight years, I've been telling people about integrating personal passions into real estate. It's a game-changer for client engagement.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This matters because it builds authentic connections. Start by sharing your hobbies in your marketing efforts.\",\n    \"CTA\": \"(0:52-0:60) Ready to stand out? Share your passion with your clients and watch your business grow.\"\n  },\n  \"CAPTION\": \"Discover the untapped strategy that could transform your real estate business. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#AgentSuccess\",\n    \"#ClientEngagement\",\n    \"#RealEstateStrategy\",\n    \"#BrandonDoyle\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "39:00",
+      "end_timestamp": "40:00",
+      "quote": "There's no worse feeling than driving down the road and seeing a listing sign for one of your past clients.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of client retention in a relatable way.",
+      "suggested_hook": "Avoid this common REALTOR nightmare."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Ever seen your client's home listed with another agent? Avoid this REALTOR nightmare!\",\n    \"SETUP\": \"(0:08-0:18) Brandon Doyle shares a relatable story about losing clients and why it stings.\",\n    \"INSIGHT\": \"(0:18-0:40) Brandon emphasizes the importance of staying connected with past clients. He suggests using personalized video messages and smart home technology insights to keep clients engaged and loyal.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) Retaining clients isn't just about business; it's about building lasting relationships. Implement these strategies to ensure your clients never stray.\",\n    \"CTA\": \"(0:52-0:60) How are you keeping your clients engaged? Share your strategies in the comments or try Brandon's tips today!\"\n  },\n  \"CAPTION\": \"Don't let your clients slip away. Keep them engaged with these proven strategies! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRetention\",\n    \"#RealtorLife\",\n    \"#SmartHomeTech\",\n    \"#VideoMarketing\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Cindy Rainey",
+    "title": "Team Lead",
+    "company": "Coldwell Banker",
+    "production_level": "Top 1% Producer",
+    "specialty": "Luxury Properties",
+    "location": "Westport, Connecticut"
+  },
+  "main_topics": [
+    "Breaking into the luxury real estate market",
+    "The importance of coaching and personal development",
+    "Consistency in real estate marketing",
+    "Balancing work and personal life",
+    "Effective communication with clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Breaking into the luxury real estate market",
+      "solution_summary": "Become an expert in your area, know your market data, and build strong client relationships.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining consistency in marketing efforts",
+      "solution_summary": "Develop a structured schedule for social media and newsletters to ensure regular communication.",
+      "timestamp": "21:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of public speaking",
+      "solution_summary": "Hire a speaking coach to improve communication skills and build confidence.",
+      "timestamp": "15:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Cindy shares insights on breaking into the luxury market and the importance of becoming an expert.",
+      "key_takeaway": "To succeed in luxury real estate, focus on expertise, client relationships, and consistent marketing."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Cindy discusses the importance of having a strong team and structured processes.",
+      "key_takeaway": "Building a reliable team and having clear processes can help manage workload and improve efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:00",
+      "end_timestamp": "16:00",
+      "quote": "I have a speaking coach. All we do is talk to people.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the importance of communication skills in real estate.",
+      "suggested_hook": "Why every REALTOR should consider a speaking coach."
+    },
+    {
+      "timestamp": "21:00",
+      "end_timestamp": "22:00",
+      "quote": "To be great, you've got to be consistent.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Emphasizes the critical role of consistency in success.",
+      "suggested_hook": "The secret to success in real estate? Consistency."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media consistently with a structured schedule.",
+      "context": "Post daily with themed content to engage your audience.",
+      "timestamp": "23:00"
+    },
+    {
+      "tactic": "Leverage your existing database for new opportunities.",
+      "context": "Reach out to past clients, especially those who bought during COVID.",
+      "timestamp": "40:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you want to get something done, give it to a busy mother.",
+    "To be great, you've got to be consistent."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "CindyRainey.com",
+      "context": "Example of a well-designed real estate website."
+    },
+    {
+      "type": "coaching service",
+      "name": "Tom Ferry Coaching",
+      "context": "Cindy's choice for real estate coaching."
+    }
+  ],
+  "episode_summary": "In this episode, Cindy Rainey shares her journey to becoming a top 1% luxury real estate producer. She emphasizes the importance of expertise, consistency in marketing, and effective communication with clients. Cindy also discusses the role of coaching in her success and offers insights into balancing a demanding career with personal life.",
+  "_metadata": {
+    "source_file": "2024-10-31_item115_Cindy-Raney",
+    "analyzed_at": "2026-01-26T12:07:56.570282",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

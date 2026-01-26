@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "20:00",
+      "end_timestamp": "21:00",
+      "quote": "I started doing Instagram videos, shorter form, TikTok, all the stuff that everyone else is kind of doing and I wasn't getting a lot of traction with it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of finding unique angles in content creation.",
+      "suggested_hook": "Struggling with social media traction? Here's how to stand out."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Struggling to get noticed on social media? Here's how to break through the noise!\",\n    \"SETUP\": \"Phil Wells, a real estate expert, shares his journey with social media. He tried Instagram and TikTok, but traction was elusive.\",\n    \"INSIGHT\": \"Phil realized that blending in wasn't enough. He started creating content with unique angles, focusing on storytelling and authenticity to connect with his audience.\",\n    \"REFRAME/APPLICATION\": \"Standing out on social media is crucial. By showcasing your unique perspective, you can build a brand that resonates and attracts clients.\",\n    \"CTA\": \"Ready to revamp your social media strategy? Start by identifying what makes your story unique and share it!\"\n  },\n  \"CAPTION\": \"Break through the social media noise with unique content! #RealEstateMarketing\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#SocialMediaStrategy\", \"#ContentCreation\", \"#BrandBuilding\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "40:00",
+      "end_timestamp": "41:00",
+      "quote": "You have to be willing to do poor work that's not up to your taste standards until your skill develops.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages perseverance and growth in content creation.",
+      "suggested_hook": "Why your first videos might suck—and why that's okay."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why your first videos might suck—and why that's okay.\",\n    \"SETUP\": \"Phil Wells shares why embracing imperfection is key in real estate video marketing.\",\n    \"INSIGHT\": \"\\\"You have to be willing to do poor work that's not up to your taste standards until your skill develops,\\\" says Phil. It's about growth.\",\n    \"REFRAME/APPLICATION\": \"Accepting early mistakes helps you refine your brand and content. It's a journey, not a sprint.\",\n    \"CTA\": \"Start creating today. What will you learn from your first video? Share your thoughts below!\"\n  },\n  \"CAPTION\": \"Embrace imperfection. Your first videos are just the beginning. #RealEstateGrowth\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#ContentCreation\", \"#MindsetShift\", \"#VideoMarketing\", \"#GrowthMindset\"],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  }
+]

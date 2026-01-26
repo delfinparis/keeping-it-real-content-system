@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "13:00",
+      "end_timestamp": "13:45",
+      "quote": "The average age for first-time home buyers has gone up significantly... 38 years old is now the age.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights a significant market shift that REALTORS need to address.",
+      "suggested_hook": "Did you know the average first-time home buyer is now nearly 40?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Did you know the average first-time home buyer is now nearly 40?\",\n    \"SETUP\": \"This shift in demographics is a game-changer for REALTORS. Chris Lincel explains why this matters.\",\n    \"INSIGHT\": \"With the average age now at 38, first-time buyers are facing different challenges and priorities. This means REALTORS need to adapt their strategies to cater to more mature clients who may have different financial situations and expectations.\",\n    \"REFRAME/APPLICATION\": \"Understanding these shifts can help REALTORS tailor their approach, focusing on financial planning and long-term investment strategies to meet the needs of older first-time buyers.\",\n    \"CTA\": \"How are you adjusting your strategy to meet the needs of today's first-time home buyers? Share your thoughts below!\"\n  },\n  \"CAPTION\": \"The average age for first-time home buyers is now 38. Are you ready to meet their needs? #RealEstateTrends\",\n  \"HASHTAGS\": [\n    \"#RealEstateTrends\",\n    \"#FirstTimeHomeBuyer\",\n    \"#REALTORTips\",\n    \"#MarketShift\",\n    \"#HomeBuying\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "Engage with local government officials to influence new construction and development.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear action step for REALTORS looking to impact their local market.",
+      "suggested_hook": "Want to influence your local real estate market? Here's how."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Want to influence your local real estate market? Here's how.\",\n    \"SETUP\": \"(0:08-0:18) Meet Chris Lincel, a seasoned real estate expert. Today, he shares how REALTORS can shape their local market.\",\n    \"INSIGHT\": \"(0:18-0:40) Engage with local government officials to influence new construction and development. Attend city council meetings, join planning committees, and build relationships with decision-makers.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By actively participating, you can advocate for projects that benefit your community and your business.\",\n    \"CTA\": \"(0:52-0:60) Ready to make a difference? Start by attending your next local government meeting. Your voice matters!\"\n  },\n  \"caption\": \"Want to shape your local real estate market? Start by engaging with local officials. #RealEstateTips\",\n  \"hashtags\": [\n    \"#RealEstate\",\n    \"#LocalGovernment\",\n    \"#REALTOR\",\n    \"#MarketInfluence\",\n    \"#CommunityDevelopment\"\n  ],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  }
+]

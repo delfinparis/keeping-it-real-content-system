@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Jack Miller",
+    "title": "CEO",
+    "company": "T360",
+    "production_level": null,
+    "specialty": "Real Estate Consulting",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Value Proposition in Real Estate",
+    "Impact of NAR Settlement",
+    "Dual Career vs. Single Career Agents",
+    "Commission Trends",
+    "Brokerage Models and Profitability"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of NAR Settlement on Consumer Perception",
+      "solution_summary": "Agents need to improve their value proposition and communication with clients to mitigate negative perceptions.",
+      "timestamp": "20:01"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Commission Compression",
+      "solution_summary": "Agents can maintain or increase their commissions by clearly articulating their value and negotiating effectively.",
+      "timestamp": "32:10"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Brokerage Profitability Challenges",
+      "solution_summary": "Brokers should focus on providing value-added services to agents to maintain profitability.",
+      "timestamp": "39:47"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses strategies to increase commissions and market share.",
+      "key_takeaway": "Focus on clearly communicating your value to clients to justify your commission rates."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into brokerage models and profitability can help team leaders optimize their operations.",
+      "key_takeaway": "Consider offering value-added services to attract and retain top talent."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "33:01",
+      "end_timestamp": "33:45",
+      "quote": "Agents have more value than they think they do. Consumers value service and trust above getting the cheapest deal.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the common belief that consumers only care about price.",
+      "suggested_hook": "Are you undervaluing your real estate services?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Prospect for specific opportunities like expired listings and FSBOs.",
+      "context": "When your current sphere isn't generating enough business.",
+      "timestamp": "46:39"
+    }
+  ],
+  "quotable_insights": [
+    "The North American consumer is willing to pay for value, not just the cheapest deal.",
+    "Get creative and do something different to connect with your community."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "The Opportunity Report",
+      "context": "A free report offering insights into current real estate industry trends."
+    },
+    {
+      "type": "tool",
+      "name": "RAYSE",
+      "context": "A tool to track and report the time and value you provide to clients."
+    }
+  ],
+  "episode_summary": "In this episode, Jack Miller, CEO of T360, discusses the importance of articulating value in the real estate industry, particularly in light of recent NAR settlements. He provides insights into commission trends, brokerage models, and strategies for agents to increase their market share. The episode emphasizes the need for agents to focus on service and trust to justify their commissions.",
+  "_metadata": {
+    "source_file": "2024-12-02_item108_Jack-Miller",
+    "analyzed_at": "2026-01-26T12:13:08.471235",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

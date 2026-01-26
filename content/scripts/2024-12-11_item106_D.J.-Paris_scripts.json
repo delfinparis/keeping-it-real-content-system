@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "03:06",
+      "end_timestamp": "03:35",
+      "quote": "Greg Pekarski is going to be teaching you lead generation secrets from a $220 million annual producer.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the expertise of a top producer, offering valuable insights.",
+      "suggested_hook": "Want to know how a top producer generates $220M in sales? Here's a sneak peek!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to know how a top producer generates $220M in sales? Here's a sneak peek!\",\n    \"SETUP\": \"Meet Greg Pekarski, a real estate powerhouse. He's sharing his lead generation secrets that helped him close $220 million annually.\",\n    \"INSIGHT\": \"Greg dives deep into his proven strategies, including leveraging video marketing and webinars to attract high-quality leads. He emphasizes the importance of consistent agent coaching and staying ahead of market trends.\",\n    \"REFRAME/APPLICATION\": \"These tactics aren't just for top producers. Implementing Greg's strategies can transform your business and boost your sales.\",\n    \"CTA\": \"Ready to elevate your game? Listen to the full episode for more insights and start applying these strategies today!\"\n  },\n  \"CAPTION\": \"Unlock $220M sales secrets with Greg Pekarski! 🚀 #LeadGeneration #RealEstate\",\n  \"HASHTAGS\": [\"#LeadGeneration\", \"#RealEstateSuccess\", \"#TopProducer\", \"#VideoMarketing\", \"#AgentCoaching\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "04:52",
+      "end_timestamp": "05:02",
+      "quote": "Social media video mastery: how to generate leads while you sleep.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Captures the essence of leveraging video for passive lead generation.",
+      "suggested_hook": "Discover how to generate leads even while you're sleeping!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Discover how to generate leads even while you're sleeping!\",\n    \"SETUP\": \"Meet Greg Pekarski, a real estate expert who cracked the code on passive lead generation through social media videos.\",\n    \"INSIGHT\": \"Greg shares his secret: 'Create engaging video content that speaks directly to your audience's needs. Use platforms like Instagram and TikTok to reach them 24/7.'\",\n    \"REFRAME/APPLICATION\": \"Imagine waking up to new leads every morning. By mastering video marketing, you can make this a reality for your business.\",\n    \"CTA\": \"Ready to transform your lead strategy? Start creating videos today and watch your business grow!\"\n  },\n  \"caption\": \"Generate leads while you sleep with video marketing! #RealEstateTips\",\n  \"hashtags\": [\"#LeadGeneration\", \"#VideoMarketing\", \"#RealEstate\", \"#SocialMediaStrategy\", \"#GregPekarski\"],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  }
+]

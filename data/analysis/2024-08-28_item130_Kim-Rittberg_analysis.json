@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Expert and Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content and social media for real estate agents",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Accountability in achieving goals",
+    "Leveraging video content for real estate",
+    "Importance of social media presence",
+    "Seven-day on-camera challenge",
+    "Building confidence on camera"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of accountability in content creation",
+      "solution_summary": "Pairing up with an accountability partner to ensure consistent content creation and posting.",
+      "timestamp": "00:02:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides actionable steps to enhance video presence and accountability, which can help intermediate agents who are struggling to maintain consistent content creation.",
+      "key_takeaway": "Having an accountability partner can increase the likelihood of achieving content goals by 95%."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:26",
+      "end_timestamp": "00:02:30",
+      "quote": "Having an accountability partner increases your likelihood of being successful at your goal by 95%.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic is surprising and highlights the importance of accountability, making it a compelling point for viewers.",
+      "suggested_hook": "Want to boost your success rate by 95%? Here's how accountability can transform your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Schedule a specific time each week for content creation.",
+      "context": "To ensure consistent content production, agents should dedicate a regular time slot for creating and posting content.",
+      "timestamp": "00:03:49"
+    }
+  ],
+  "quotable_insights": [
+    "Education, application, and accountability are the keys to success."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Seven-day on-camera challenge",
+      "context": "A self-paced course designed to help real estate agents build confidence on camera and maintain accountability."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of accountability in achieving content creation goals, particularly for real estate agents looking to enhance their video presence. She introduces her seven-day on-camera challenge as a tool to build confidence and consistency in video marketing efforts.",
+  "_metadata": {
+    "source_file": "2024-08-28_item130_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T11:57:17.616029",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

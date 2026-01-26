@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Adapting to industry changes",
+    "Strengthening personal brand",
+    "Commission models and buyer presentations",
+    "Current market conditions and inventory",
+    "Role of client relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Need to strengthen personal brand in light of industry changes",
+      "solution_summary": "Focus on content marketing, social media, and local events to position as a market leader.",
+      "timestamp": "05:37"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in commission structures",
+      "solution_summary": "Prepare buyer presentations and role-play scenarios to better explain value to clients.",
+      "timestamp": "07:01"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client trust amid industry shifts",
+      "solution_summary": "Strengthen current client relationships through regular communication and education.",
+      "timestamp": "15:46"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for adapting to industry changes and enhancing personal branding.",
+      "key_takeaway": "Strengthen your personal brand and prepare for new commission models to stay competitive."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on how to guide a team through industry shifts and maintain client relationships.",
+      "key_takeaway": "Role-play scenarios with your team to prepare for client interactions under new commission structures."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:37",
+      "end_timestamp": "06:05",
+      "quote": "Strengthen your personal brand through content marketing, social media, and local events.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides clear steps for agents to enhance their market presence.",
+      "suggested_hook": "Want to stand out in the real estate market? Here's how to strengthen your personal brand."
+    },
+    {
+      "timestamp": "10:02",
+      "end_timestamp": "10:28",
+      "quote": "Practice your pitches and be ready to explain your commission model to clients.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Gives actionable advice on how to handle commission discussions.",
+      "suggested_hook": "Are you ready to explain your commission model to clients? Here's how to prepare."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Role-play different client scenarios with peers.",
+      "context": "To prepare for various client interactions and improve communication skills.",
+      "timestamp": "07:01"
+    },
+    {
+      "tactic": "Create detailed buyer packets to justify commission rates.",
+      "context": "Use these packets during buyer presentations to explain the value of your services.",
+      "timestamp": "08:46"
+    }
+  ],
+  "quotable_insights": [
+    "Strengthen your personal brand through content marketing, social media, and local events.",
+    "Practice your pitches and be ready to explain your commission model to clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "course",
+      "name": "Beyond the Method",
+      "context": "Instagram strategies course by Michelle Burman Michael, offered at a discount for listeners."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses how real estate agents can adapt to industry changes, particularly in light of new commission structures. She emphasizes the importance of strengthening personal brands and preparing buyer presentations. The episode also covers current market conditions and the need to maintain strong client relationships.",
+  "_metadata": {
+    "source_file": "2024-08-26_item132_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T11:56:19.315674",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
