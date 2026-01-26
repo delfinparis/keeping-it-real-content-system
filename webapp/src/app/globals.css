@@ -2,25 +2,275 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #0f172a;
+  --muted: #64748b;
+  --kale-blue: #012f66;
+  --kale-blue-light: #0a4a8a;
+  --kale-blue-dark: #001a3d;
+  --kale-50: #f0f5fa;
+  --kale-100: #e1ebf5;
+  --accent: #f59e0b;
+  --success: #10b981;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-inter), system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  letter-spacing: -0.01em;
+}
+
+/* Modern typography */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+/* Kale brand colors */
+.bg-kale {
+  background-color: #012f66;
+}
+
+.bg-kale-light {
+  background-color: #0a4a8a;
+}
+
+.bg-kale-dark {
+  background-color: #001a3d;
+}
+
+.bg-kale-50 {
+  background-color: #f0f5fa;
+}
+
+.text-kale {
+  color: #012f66;
+}
+
+.text-kale-light {
+  color: #0a4a8a;
+}
+
+.border-kale {
+  border-color: #012f66;
+}
+
+.hover\:bg-kale:hover {
+  background-color: #012f66;
+}
+
+.hover\:bg-kale-light:hover {
+  background-color: #0a4a8a;
+}
+
+.hover\:bg-kale-dark:hover {
+  background-color: #001a3d;
+}
+
+.hover\:text-kale:hover {
+  color: #012f66;
+}
+
+.hover\:border-kale:hover {
+  border-color: #012f66;
+}
+
+.focus\:border-kale:focus {
+  border-color: #012f66;
+}
+
+.focus\:ring-kale:focus {
+  --tw-ring-color: rgba(1, 47, 102, 0.2);
+}
+
+.group-hover\:text-kale:hover {
+  color: #012f66;
+}
+
+/* Gradient */
+.bg-gradient-kale {
+  background: linear-gradient(135deg, #012f66 0%, #001a3d 100%);
+}
+
+/* Modern card styles */
+.card {
+  background: white;
+  border-radius: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  transition: all 0.2s ease;
+}
+
+.card:hover {
+  border-color: rgba(1, 47, 102, 0.2);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+}
+
+/* Button styles */
+.btn-primary {
+  background-color: #012f66;
+  color: white;
+  font-weight: 500;
+  padding: 14px 28px;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #0a4a8a;
+  transform: translateY(-1px);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+.btn-secondary {
+  background-color: #f0f5fa;
+  color: #012f66;
+  font-weight: 500;
+  padding: 14px 28px;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+  border: 1px solid rgba(1, 47, 102, 0.1);
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background-color: #e1ebf5;
+  border-color: rgba(1, 47, 102, 0.2);
+}
+
+/* Smooth animations */
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.2s ease-out;
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Modern input styles */
+input, textarea {
+  font-family: inherit;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+}
+
+/* Selection styling */
+::selection {
+  background-color: rgba(1, 47, 102, 0.15);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+/* Progress indicator */
+.progress-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #e2e8f0;
+  transition: all 0.3s ease;
+}
+
+.progress-dot.active {
+  background-color: #012f66;
+  box-shadow: 0 0 0 4px rgba(1, 47, 102, 0.15);
+}
+
+.progress-dot.completed {
+  background-color: #10b981;
+}
+
+/* Tag/chip styles */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: 100px;
+  font-size: 13px;
+  font-weight: 500;
+  background-color: #f0f5fa;
+  color: #012f66;
+  transition: all 0.2s ease;
+}
+
+.chip:hover {
+  background-color: #e1ebf5;
+}
+
+/* Glassmorphism effect */
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+/* Subtle border effect */
+.border-subtle {
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* Shadow utilities */
+.shadow-soft {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+}
+
+.shadow-medium {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
 }
