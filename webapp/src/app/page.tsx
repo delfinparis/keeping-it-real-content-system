@@ -475,22 +475,26 @@ Let me know what you think after listening!`}
 
       {/* Stats Section */}
       <div className="bg-gray-900 text-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold text-blue-400">700+</div>
+              <div className="text-4xl font-bold text-white">8M+</div>
+              <div className="text-gray-400 mt-1">Downloads</div>
+            </div>
+            <div>
+              <div className="text-4xl font-bold text-white">700+</div>
               <div className="text-gray-400 mt-1">Episodes</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-blue-400">7</div>
+              <div className="text-4xl font-bold text-white">7</div>
               <div className="text-gray-400 mt-1">Years</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-blue-400">500+</div>
+              <div className="text-4xl font-bold text-white">500+</div>
               <div className="text-gray-400 mt-1">Top Producers</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-blue-400">389</div>
+              <div className="text-4xl font-bold text-white">389</div>
               <div className="text-gray-400 mt-1">Problems Solved</div>
             </div>
           </div>

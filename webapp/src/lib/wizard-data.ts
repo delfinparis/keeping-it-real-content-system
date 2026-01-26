@@ -23,15 +23,15 @@ export const STEP_1_CORE_STRUGGLES: WizardStep = {
   options: [
     {
       id: "more_business",
-      label: "I need MORE BUSINESS",
-      description: "Finding leads, attracting clients, growing my pipeline",
-      icon: "📈"
+      label: "I need to FIND more opportunities",
+      description: "Meeting new people, generating leads, filling my pipeline",
+      icon: "🔍"
     },
     {
       id: "close_more",
-      label: "I need to CLOSE MORE DEALS",
-      description: "Converting leads, winning listings, negotiating better",
-      icon: "🎯"
+      label: "I need to WIN more of my opportunities",
+      description: "Converting the leads I have, closing deals, getting to yes",
+      icon: "🏆"
     },
     {
       id: "work_smarter",
@@ -41,9 +41,9 @@ export const STEP_1_CORE_STRUGGLES: WizardStep = {
     },
     {
       id: "grow_personally",
-      label: "I need to GROW AS A PROFESSIONAL",
+      label: "I need to LEVEL UP as a professional",
       description: "Mindset, confidence, brand, career direction",
-      icon: "🌟"
+      icon: "🚀"
     }
   ]
 };
@@ -52,8 +52,8 @@ export const STEP_1_CORE_STRUGGLES: WizardStep = {
 export const STEP_2_FOCUS_AREAS: { [key: string]: WizardStep } = {
   more_business: {
     id: "focus_area",
-    title: "Where do you need more business?",
-    subtitle: "Let's narrow down the focus",
+    title: "Where are opportunities slipping away?",
+    subtitle: "Let's narrow down where to focus",
     options: [
       {
         id: "finding_prospects",
@@ -89,7 +89,7 @@ export const STEP_2_FOCUS_AREAS: { [key: string]: WizardStep } = {
   },
   close_more: {
     id: "focus_area",
-    title: "Where are deals falling through?",
+    title: "Where are you losing the win?",
     subtitle: "Let's find the bottleneck",
     options: [
       {
