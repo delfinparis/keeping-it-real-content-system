@@ -153,6 +153,28 @@ export default function Home() {
                 </>
               )}
             </button>
+            <button
+              onClick={async () => {
+                const episodeIds = recommendations.recommendations.map((r) => r.episode_id).join(",");
+                const shareUrl = `${window.location.origin}/share?episodes=${episodeIds}&challenge=${encodeURIComponent(challenge)}`;
+                await navigator.clipboard.writeText(shareUrl);
+                setCopied("share-link");
+                setTimeout(() => setCopied(null), 2000);
+              }}
+              className="bg-gray-100 text-gray-700 px-6 py-3 rounded-lg font-medium hover:bg-gray-200 transition flex items-center space-x-2"
+            >
+              {copied === "share-link" ? (
+                <>
+                  <span>✓</span>
+                  <span>Link Copied!</span>
+                </>
+              ) : (
+                <>
+                  <span>🔗</span>
+                  <span>Share Results</span>
+                </>
+              )}
+            </button>
           </div>
 
           <div className="space-y-6">
