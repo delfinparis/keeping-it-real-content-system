@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Link from "next/link";
 import { PROBLEM_CATEGORIES, AVATARS } from "@/lib/types";
 import ProblemWizard from "@/components/ProblemWizard";
@@ -38,8 +38,7 @@ interface WizardSelection {
   step1: string | null;
   step2: string | null;
   step3: string | null;
-  step4: string | null;
-  step5: string;
+  customContext: string;
 }
 
 export default function Home() {
@@ -48,16 +47,7 @@ export default function Home() {
   const [recommendations, setRecommendations] = useState<RecommendationResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [copied, setCopied] = useState<string | null>(null);
-  const [problemMap, setProblemMap] = useState<{ [key: string]: { [key: string]: any[] } }>({});
   const [wizardSelections, setWizardSelections] = useState<WizardSelection | null>(null);
-
-  // Load problem map for wizard
-  useEffect(() => {
-    fetch("/api/problems")
-      .then((res) => res.json())
-      .then((data) => setProblemMap(data))
-      .catch(console.error);
-  }, []);
 
   const getRecommendations = async (searchChallenge?: string) => {
     const query = searchChallenge || challenge;
@@ -374,7 +364,10 @@ Let me know what you think after listening!`}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Wizard Mode */}
         {mode === "wizard" && (
-          <ProblemWizard onComplete={handleWizardComplete} problemMap={problemMap} />
+          <ProblemWizard
+            onComplete={handleWizardComplete}
+            onQuickSearch={() => setMode("search")}
+          />
         )}
 
         {/* Direct Search Mode */}
