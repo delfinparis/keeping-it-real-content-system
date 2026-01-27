@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Ali Garced",
+    "title": "Real Estate Agent",
+    "company": "eXp Realty",
+    "production_level": "Closed 55 transactions in first two years",
+    "specialty": "Systems and processes for real estate transactions",
+    "location": "Not specifically mentioned"
+  },
+  "main_topics": [
+    "Developing systems and checklists for real estate",
+    "Transitioning from military to real estate",
+    "Effective buyer and seller strategies",
+    "Importance of tracking and analyzing performance",
+    "Building a real estate team"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing real estate transactions efficiently",
+      "solution_summary": "Developed detailed checklists and processes for buyers and sellers, including a 180-step onboarding checklist and a 200-step transaction checklist.",
+      "timestamp": "03:25"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Getting offers accepted in competitive markets",
+      "solution_summary": "Use of non-refundable earnest money, escalation clauses, and personalized video messages to listing agents.",
+      "timestamp": "28:01"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding seller opportunities in a tough market",
+      "solution_summary": "Leveraging military relocation and cold calling strategies.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Ali's systems and processes can help aspiring top producers scale their business efficiently.",
+      "key_takeaway": "Implementing detailed checklists and tracking performance can significantly increase productivity and success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Ali's experience in building a team and sharing resources is valuable for team leaders looking to expand.",
+      "key_takeaway": "Providing structured resources and training can help grow a successful real estate team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "28:15",
+      "quote": "I make $162 per hour with sellers, $360 with referrals, and $453 with buyers.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Challenges the conventional wisdom that sellers are more profitable than buyers.",
+      "suggested_hook": "Think sellers are always more profitable? Think again!"
+    },
+    {
+      "timestamp": "28:01",
+      "end_timestamp": "29:00",
+      "quote": "Send a video text to the listing agent to stand out.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a unique and actionable tactic for getting offers noticed.",
+      "suggested_hook": "Want your offer to stand out? Try this simple trick!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use non-refundable earnest money to show serious intent.",
+      "context": "When making offers in competitive markets.",
+      "timestamp": "28:01"
+    },
+    {
+      "tactic": "Send personalized video texts to listing agents.",
+      "context": "To increase the chances of your offer being noticed and accepted.",
+      "timestamp": "29:00"
+    }
+  ],
+  "quotable_insights": [
+    "You answered my questions before I even knew I had them.",
+    "Treat real estate as a business, not just showing homes."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Trello",
+      "context": "Used for managing checklists and processes in real estate transactions."
+    }
+  ],
+  "episode_summary": "In this episode, Ali Garced shares her journey from military service to becoming a successful real estate agent by developing detailed systems and processes. She discusses how her checklists and tracking methods have allowed her to efficiently manage transactions and build a growing team. Ali also provides actionable strategies for getting offers accepted and finding seller opportunities in a challenging market.",
+  "_metadata": {
+    "source_file": "2023-07-19_item236_Ali-Garced",
+    "analyzed_at": "2026-01-26T21:08:55.909234",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
