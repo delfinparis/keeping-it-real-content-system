@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Debbi DiMaggio",
+    "title": "Real Estate Coach and Author",
+    "company": "Corcoran",
+    "production_level": "Top 1.5% producer nationwide",
+    "specialty": "Real estate coaching and marketing",
+    "location": "San Francisco and Los Angeles"
+  },
+  "main_topics": [
+    "Agent recruitment and development",
+    "Effective communication in real estate",
+    "Marketing strategies for real estate agents",
+    "Importance of open houses",
+    "Building a personal brand in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggling to generate leads in a slow market",
+      "solution_summary": "Encourage agents to hold open houses frequently to meet potential buyers and sellers.",
+      "timestamp": "18:50"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents not being present in the office",
+      "solution_summary": "Advise agents to be present in the office to learn from experienced colleagues and seize opportunities.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not leveraging social media effectively",
+      "solution_summary": "Use social media to consistently engage with your audience and share valuable content.",
+      "timestamp": "40:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn foundational strategies to kickstart their careers.",
+      "key_takeaway": "Be present, engage with your community, and leverage open houses to build your network."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can refine their communication and marketing strategies.",
+      "key_takeaway": "Effective communication and consistent marketing are key to staying top of mind."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "14:45",
+      "quote": "You have to communicate. It's, I can't even tell you how important that is.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the critical importance of communication in real estate transactions.",
+      "suggested_hook": "Struggling with closing deals? Here's why communication is your secret weapon."
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "Open houses are a great opportunity to meet potential buyers and sellers.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the misconception that open houses are outdated.",
+      "suggested_hook": "Think open houses are a waste of time? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hold open houses frequently",
+      "context": "To meet potential buyers and sellers and build your network.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Be present in the office",
+      "context": "Learn from experienced colleagues and seize opportunities.",
+      "timestamp": "11:00"
+    },
+    {
+      "tactic": "Leverage social media for engagement",
+      "context": "Consistently share valuable content to stay top of mind.",
+      "timestamp": "40:00"
+    }
+  ],
+  "quotable_insights": [
+    "Follow your passion, live your purpose.",
+    "You have to communicate. It's, I can't even tell you how important that is."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Art of Real Estate",
+      "context": "Recommended for new agents to learn foundational strategies."
+    }
+  ],
+  "episode_summary": "In this episode, Debbi DiMaggio shares her insights on building a successful real estate career through effective communication, consistent marketing, and leveraging open houses. She emphasizes the importance of being present in the office to learn from experienced colleagues and using social media to engage with potential clients. Her actionable advice is particularly valuable for new and intermediate agents looking to grow their business.",
+  "_metadata": {
+    "source_file": "2023-09-28_item214_Debbi-DiMaggio",
+    "analyzed_at": "2026-01-26T21:25:10.034061",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

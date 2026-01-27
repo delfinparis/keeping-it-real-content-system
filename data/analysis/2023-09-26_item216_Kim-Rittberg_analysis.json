@@ -1,0 +1,95 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Social Media Expert",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents become the go-to agent in their area",
+    "location": null
+  },
+  "main_topics": [
+    "Creating authentic videos for real estate marketing",
+    "Leveraging local expertise through video content",
+    "Building authority with video content",
+    "Educational videos to showcase expertise",
+    "Incorporating personal opinions in market discussions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents feeling uncomfortable posting personal or less polished content",
+      "solution_summary": "Encourage agents to post authentic, less polished videos to build trust and engagement.",
+      "timestamp": "00:02:58"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not being recognized as local experts",
+      "solution_summary": "Create local videos showcasing favorite spots and tagging local businesses to increase engagement.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Agents not showcasing their authority",
+      "solution_summary": "Create authority videos highlighting awards and accolades to build trust.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Clients not understanding the market",
+      "solution_summary": "Produce educational videos answering common client questions to demonstrate expertise.",
+      "timestamp": "00:10:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to effectively use video to build their brand and client base.",
+      "key_takeaway": "Start with simple, authentic videos to build confidence and engagement."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can enhance their local presence and authority through targeted video content.",
+      "key_takeaway": "Use local and authority videos to increase recognition and trust in your market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:03",
+      "end_timestamp": "00:05:48",
+      "quote": "People have very strong opinions about their favorite spots in their neighborhood.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the emotional connection people have with their local area, which can be leveraged in marketing.",
+      "suggested_hook": "Want to connect with your community on a deeper level? Here's how!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Instagram polls to engage your audience",
+      "context": "Add polls to Instagram stories to increase interaction and engagement.",
+      "timestamp": "00:05:15"
+    },
+    {
+      "tactic": "Tag local businesses in your videos",
+      "context": "Increase engagement by tagging local businesses and using local hashtags.",
+      "timestamp": "00:07:30"
+    }
+  ],
+  "quotable_insights": [
+    "Authentic videos build trust and engagement by showing the real you.",
+    "Local videos position you as the expert in your area, increasing trust and business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Bootcamp",
+      "context": "Kim Rittberg offers a bootcamp to help agents become confident on camera and generate leads."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares actionable insights on using video content to boost real estate business. She emphasizes the importance of authentic, local, authority, educational, and opinion videos to build trust and engagement. Agents are encouraged to leverage their local expertise and personal brand to stand out in the market.",
+  "_metadata": {
+    "source_file": "2023-09-26_item216_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T21:24:25.855150",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
