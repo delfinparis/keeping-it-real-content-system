@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Skye Michiels",
+    "title": "National Head of Agent Development",
+    "company": "Compass",
+    "production_level": "Award-winning real estate professional",
+    "specialty": "Agent development and training",
+    "location": "Philadelphia market"
+  },
+  "main_topics": [
+    "Deepening relationships with clients",
+    "Agent development and training",
+    "Market conditions and strategies for 2023",
+    "Importance of authenticity and personal branding",
+    "Morning routines and accountability"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships between transactions",
+      "solution_summary": "Use personal stories and vulnerability to connect authentically; implement a system for regular touchpoints based on personal milestones.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a shifting real estate market",
+      "solution_summary": "Focus on life events that drive real estate decisions rather than market conditions; be solutions-driven and educate clients on potential scenarios.",
+      "timestamp": "39:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with anxiety in uncertain times",
+      "solution_summary": "Take action to alleviate anxiety; focus on building relationships and improving personal skills.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for deepening client relationships and improving personal branding.",
+      "key_takeaway": "Authenticity and consistent personal touchpoints can lead to stronger client connections and more referrals."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into leveraging market conditions to gain market share.",
+      "key_takeaway": "Focus on life-driven real estate needs and educate clients on market realities to position yourself as a trusted advisor."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "The best REALTORS are authentic. Authenticity is the most powerful thing we have in real estate.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the importance of authenticity in building client relationships.",
+      "suggested_hook": "Why authenticity is your greatest asset in real estate."
+    },
+    {
+      "timestamp": "39:00",
+      "end_timestamp": "40:00",
+      "quote": "Real estate transactions are based around life goals, not financial goals.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common focus on market conditions by highlighting the true drivers of real estate decisions.",
+      "suggested_hook": "Are you focusing on the wrong thing in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a digital recipe book by asking clients for their favorite recipes.",
+      "context": "Use this as a touchpoint to engage clients and provide them with something valuable.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Use reverse social media to research clients' lives and personalize your outreach.",
+      "context": "Instead of waiting for social media feeds, actively look up clients to find conversation starters.",
+      "timestamp": "32:00"
+    }
+  ],
+  "quotable_insights": [
+    "The solution to anxiety is action.",
+    "Real estate is about people, not just transactions."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads and manage CRM."
+    },
+    {
+      "type": "book",
+      "name": "The Miracle Morning",
+      "context": "Referenced as a popular book among REALTORS for developing morning routines."
+    }
+  ],
+  "episode_summary": "Skye Michiels discusses the importance of deepening client relationships through authenticity and personal touchpoints. He emphasizes focusing on life events rather than market conditions to drive real estate decisions. The episode provides actionable strategies for REALTORS to navigate the current market and improve their personal branding.",
+  "_metadata": {
+    "source_file": "2022-12-15_item291_Skye-Michiels",
+    "analyzed_at": "2026-01-26T20:33:46.931994",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

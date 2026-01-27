@@ -4,93 +4,93 @@
     "title": "Social Media Strategist",
     "company": "Jarvis Media",
     "production_level": null,
-    "specialty": "Social media strategies for real estate agents",
+    "specialty": "Social Media Strategies for Real Estate Agents",
     "location": "Upstate New York"
   },
   "main_topics": [
-    "Social media strategies for real estate agents",
-    "Content creation and optimization",
-    "The importance of testing and analytics",
-    "Balancing organic and paid social media strategies",
-    "Building a personal brand through social media"
+    "Social Media Strategy for REALTORS",
+    "Content Creation and Optimization",
+    "Leveraging Paid Advertising",
+    "Building a Personal Brand",
+    "Choosing the Right Social Media Platform"
   ],
   "problems_addressed": [
     {
       "category": "personal_brand",
-      "specific_problem": "Agents think their social media content needs to be perfect.",
-      "solution_summary": "Focus on providing value and solving problems for your audience rather than perfect production.",
-      "timestamp": "10:00"
+      "specific_problem": "REALTORS thinking their social media content needs to be perfect",
+      "solution_summary": "Focus on providing value and solving problems for your audience rather than perfect production quality.",
+      "timestamp": "09:00"
     },
     {
       "category": "lead_generation",
-      "specific_problem": "Difficulty in standing out and reaching the right audience.",
-      "solution_summary": "Create niche content that addresses specific questions and problems of your target market.",
-      "timestamp": "35:00"
+      "specific_problem": "Difficulty in standing out on social media",
+      "solution_summary": "Create niche content that addresses specific questions and problems of your target audience.",
+      "timestamp": "33:00"
     },
     {
-      "category": "time_productivity",
-      "specific_problem": "Limited time to create content.",
-      "solution_summary": "Produce short-form content daily to build a habit and improve over time.",
-      "timestamp": "49:00"
+      "category": "systems_operations",
+      "specific_problem": "Choosing the right social media platform",
+      "solution_summary": "Focus on the platform where you and your audience are most active to reduce barriers to content creation.",
+      "timestamp": "26:30"
     }
   ],
   "target_avatars": [
     {
       "avatar_id": "stuck_intermediate",
-      "relevance": "This episode provides strategies for improving social media presence and effectiveness.",
-      "key_takeaway": "Focus on creating value-driven content and use analytics to refine your approach."
+      "relevance": "This episode provides strategies for improving social media engagement and effectiveness.",
+      "key_takeaway": "Focus on creating valuable content that addresses your audience's needs and leverage paid strategies to enhance reach."
     },
     {
       "avatar_id": "aspiring_top_producer",
-      "relevance": "Offers insights into leveraging social media for brand growth and lead generation.",
-      "key_takeaway": "Combine organic content with strategic paid promotions to maximize reach and engagement."
+      "relevance": "Offers insights into building a strong personal brand and standing out in a competitive market.",
+      "key_takeaway": "Niche down your content to target specific audience segments and use data to refine your strategy."
     }
   ],
   "clip_worthy_moments": [
     {
-      "timestamp": "15:45",
-      "end_timestamp": "16:30",
+      "timestamp": "14:30",
+      "end_timestamp": "15:30",
       "quote": "Your social media strategy is not so much catching lightning in a bottle as it is a constant process of trial and error.",
       "clip_type": "mindset_shift",
-      "why_clipworthy": "It challenges the perfection mindset and encourages experimentation.",
-      "suggested_hook": "Think your social media needs to be perfect? Think again."
+      "why_clipworthy": "Encourages agents to focus on consistency and learning rather than perfection.",
+      "suggested_hook": "Why your social media doesn't need to be perfect to succeed."
     },
     {
-      "timestamp": "35:00",
-      "end_timestamp": "36:00",
-      "quote": "The more you can be a unicorn, the better.",
-      "clip_type": "memorable_oneliner",
-      "why_clipworthy": "Encourages agents to differentiate themselves in a crowded market.",
-      "suggested_hook": "Want to stand out in real estate? Be a unicorn."
+      "timestamp": "29:00",
+      "end_timestamp": "30:00",
+      "quote": "The best platform for you is the one you're already using the most.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the idea that agents need to be on every platform.",
+      "suggested_hook": "Stop worrying about being everywhere on social media."
     }
   ],
   "key_tactics": [
     {
-      "tactic": "Create short-form video content daily.",
-      "context": "Build a habit and improve content quality over time.",
+      "tactic": "Create short-form video content daily to build a habit and improve over time.",
+      "context": "To increase content output and refine skills through practice.",
       "timestamp": "49:00"
     },
     {
-      "tactic": "Use a hybrid strategy of organic and paid content.",
-      "context": "Maximize reach and target specific audiences more effectively.",
-      "timestamp": "57:00"
+      "tactic": "Use a hybrid strategy of organic and paid content to maximize reach and engagement.",
+      "context": "Combine the authenticity of organic content with the targeting precision of paid ads.",
+      "timestamp": "56:00"
     }
   ],
   "quotable_insights": [
-    "The best way to grow is just to the fastest ways to make a lot of content.",
-    "The more granular you can go, the better."
+    "The power of just doing something over and over again is truly the biggest compounding vehicle.",
+    "Imagine having a small amphitheater of a hundred people you could address whenever you wanted."
   ],
   "resources_mentioned": [
     {
       "type": "website",
-      "name": "Jarvis Media Co",
-      "context": "Cole's company that helps agents with social media strategies."
+      "name": "Jarvis Media",
+      "context": "Cole's company that helps REALTORS with social media strategies."
     }
   ],
-  "episode_summary": "In this episode, Cole Jarvis shares insights on optimizing social media strategies for real estate agents. He emphasizes the importance of creating value-driven content, testing and refining strategies, and using a mix of organic and paid approaches to maximize reach and engagement. Cole also discusses the significance of building a personal brand and offers practical tips for content creation.",
+  "episode_summary": "In this episode, Cole Jarvis shares insights on optimizing social media strategies for real estate agents. He emphasizes the importance of creating valuable content that addresses specific audience needs and leveraging both organic and paid strategies to enhance reach. Cole also advises agents to focus on platforms they are already familiar with to reduce barriers to content creation.",
   "_metadata": {
     "source_file": "2024-11-15_item113_Cole-Jarvis",
-    "analyzed_at": "2026-01-26T12:09:39.650652",
+    "analyzed_at": "2026-01-26T19:45:38.491469",
     "provider": "openai",
     "model": "gpt-4o"
   }

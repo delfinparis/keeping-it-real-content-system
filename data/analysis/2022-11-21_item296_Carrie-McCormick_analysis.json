@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Market slowdown and interest rates",
+    "Business planning for 2023",
+    "Effective marketing strategies",
+    "Time management and productivity",
+    "Building client relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Market slowdown due to high interest rates",
+      "solution_summary": "Communicate market data to sellers and adjust business strategies accordingly.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Ineffective marketing spend",
+      "solution_summary": "Monitor online spend monthly and adjust strategies based on performance.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Lack of follow-up with past clients",
+      "solution_summary": "Create a communication strategy using personal milestones to maintain relationships.",
+      "timestamp": "15:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into strategic planning and marketing for high performance.",
+      "key_takeaway": "Focus on data-driven marketing and personal client engagement to drive success."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on refining marketing strategies and improving client relationships.",
+      "key_takeaway": "Evaluate past performance to identify successful tactics and areas for improvement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "People care very much when you demonstrate that you care for them and that you've taken time to look, build it into your life, that their lives are important.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of personal connection in client relationships.",
+      "suggested_hook": "Want to build lasting client relationships? Here's a simple yet powerful tip."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video marketing",
+      "context": "Video is expected to dominate in 2023; start incorporating it into your marketing strategy.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Conduct a time audit",
+      "context": "Identify time-wasting activities and focus on income-generating tasks.",
+      "timestamp": "11:00"
+    }
+  ],
+  "quotable_insights": [
+    "It's not what you're willing to do that makes the difference. It's what you're no longer willing to stand."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "CRM recommended for effective lead management and follow-up."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the challenges of the current real estate market, emphasizing the importance of strategic planning and effective marketing. She shares insights on refining business strategies, improving client relationships, and leveraging video marketing to stay competitive. The episode offers practical advice for agents looking to enhance their productivity and client engagement in 2023.",
+  "_metadata": {
+    "source_file": "2022-11-21_item296_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T20:29:55.699590",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
