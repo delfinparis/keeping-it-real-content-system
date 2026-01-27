@@ -1,10 +1,11 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { PROBLEM_CATEGORIES, AVATARS } from "@/lib/types";
 import ProblemWizard from "@/components/ProblemWizard";
 import Footer from "@/components/Footer";
+import RecentEpisodes from "@/components/RecentEpisodes";
 
 interface KeyMoment {
   timestamp: string;
@@ -296,6 +297,15 @@ export default function Home() {
                   </>
                 )}
               </button>
+              <a
+                href={`mailto:?subject=${encodeURIComponent("Podcast Episodes for You")}&body=${encodeURIComponent(
+                  `Hey!\n\nBased on your challenges, I found some episodes from my podcast that directly address this:\n\n${recommendations.recommendations.map((r, i) => `${i + 1}. ${r.guest_name} - ${r.why_relevant}\n   Listen here: ${r.episode_url}`).join('\n\n')}\n\nLet me know what you think after listening!`
+                )}`}
+                className="bg-gray-100 text-gray-700 px-4 py-2 sm:px-6 sm:py-3 rounded-lg font-medium hover:bg-gray-200 transition flex items-center space-x-2 text-sm sm:text-base"
+              >
+                <span>📧</span>
+                <span className="hidden sm:inline">Email</span>
+              </a>
             </div>
           </div>
 
@@ -545,9 +555,29 @@ Let me know what you think after listening!`}
           </div>
         )}
 
+        {/* Recently Added - Show on wizard and search modes */}
+        {(mode === "wizard" || mode === "search") && !recommendations && (
+          <div className="mt-12 border-t border-gray-200 pt-12">
+            <RecentEpisodes />
+          </div>
+        )}
+
         {/* Browse Mode */}
         {mode === "browse" && (
           <>
+            {/* Quick Access to All Episodes */}
+            <div className="mb-8">
+              <Link
+                href="/episodes"
+                className="inline-flex items-center gap-2 bg-kale text-white px-6 py-3 rounded-xl font-medium hover:bg-kale-light transition"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                </svg>
+                <span>Browse All 700+ Episodes</span>
+              </Link>
+            </div>
+
             {/* Problem Categories */}
             <div className="mb-16">
               <h2 className="text-2xl font-bold text-gray-900 mb-2">
