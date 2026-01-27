@@ -1,0 +1,86 @@
+{
+  "guest_info": {
+    "name": "Marisol Jusino",
+    "title": "REALTOR",
+    "company": "Coldwell Banker",
+    "production_level": "Top REALTOR in Florida",
+    "specialty": "Hispanic and Latino community",
+    "location": "Central Florida"
+  },
+  "main_topics": [
+    "Attracting Hispanic and Latino clients",
+    "Overcoming personal challenges in real estate",
+    "Importance of cultural understanding in real estate",
+    "Building trust with clients",
+    "Leveraging referrals and relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Attracting Hispanic, Latino, or Latin X clients",
+      "solution_summary": "Understand cultural nuances, speak some Spanish, and build trust by being honest and transparent.",
+      "timestamp": "19:01"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming personal adversity while maintaining a real estate career",
+      "solution_summary": "Persevere through challenges by focusing on building relationships and tapping into community support.",
+      "timestamp": "15:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on expanding client base by tapping into the Hispanic market.",
+      "key_takeaway": "Building trust and understanding cultural nuances are crucial for success in diverse markets."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "My very first listing was from my son, who was just seven years old.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It's a heartwarming story that highlights the importance of family support in business.",
+      "suggested_hook": "Discover how a seven-year-old helped secure a first real estate listing!"
+    },
+    {
+      "timestamp": "19:01",
+      "end_timestamp": "19:45",
+      "quote": "About 70% of the Hispanic population speaks English, so language isn't always a barrier.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Challenges the assumption that language is a major barrier in serving Hispanic clients.",
+      "suggested_hook": "Think language is a barrier to serving Hispanic clients? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Attend Hispanic cultural events to build relationships and understand the community.",
+      "context": "When trying to penetrate the Hispanic market.",
+      "timestamp": "23:10"
+    },
+    {
+      "tactic": "Be transparent and honest in all client communications.",
+      "context": "To build trust with Hispanic clients.",
+      "timestamp": "21:00"
+    }
+  ],
+  "quotable_insights": [
+    "Show me how much you care, and then we can talk.",
+    "The issue is never the issue; it's how you handle it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Marisol Jusino shares her journey of overcoming personal adversity while building a successful real estate career focused on the Hispanic market. She emphasizes the importance of cultural understanding, building trust, and leveraging community relationships to attract and serve Hispanic clients effectively.",
+  "_metadata": {
+    "source_file": "2023-06-16_item242_Marisol-Jusino",
+    "analyzed_at": "2026-01-26T21:05:14.052212",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

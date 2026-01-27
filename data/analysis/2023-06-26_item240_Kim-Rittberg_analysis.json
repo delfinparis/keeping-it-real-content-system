@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Strategist and Expert",
+    "company": "Not specifically mentioned",
+    "production_level": "Award-winning",
+    "specialty": "Video content creation and strategy",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Video content creation for real estate",
+    "Engagement strategies on social media",
+    "Leveraging pop culture for discoverability",
+    "Personal branding through video",
+    "Effective use of hooks and headlines"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Getting people to watch your videos",
+      "solution_summary": "Use strong hooks and headlines, relate content to pop culture, and engage with your audience.",
+      "timestamp": "02:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media",
+      "solution_summary": "Showcase your expertise and personality through video content, not just listings.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting social media engagement into business",
+      "solution_summary": "Engage with your audience authentically and consistently to build relationships that lead to sales.",
+      "timestamp": "18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to enhance personal branding and client engagement through video.",
+      "key_takeaway": "Use video content to establish yourself as an expert and connect with potential clients."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers foundational advice on how to start creating engaging video content.",
+      "key_takeaway": "Focus on creating videos with strong hooks and engaging content to attract viewers."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:00",
+      "end_timestamp": "04:45",
+      "quote": "You really have to grab them in those first few seconds with an amazing hook.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable tip on how to improve video engagement.",
+      "suggested_hook": "Struggling to get viewers for your videos? Here's the secret to grabbing attention instantly!"
+    },
+    {
+      "timestamp": "11:00",
+      "end_timestamp": "11:45",
+      "quote": "The reason why I don't like social feeds full of just listed and just closed is that all it does is try to sell one house, but it doesn't try to sell you as an agent.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges a common practice in real estate marketing, encouraging agents to focus on personal branding.",
+      "suggested_hook": "Are your social media posts missing the mark? Here's what you should focus on instead."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use hooks and headlines",
+      "context": "Start your videos with a strong hook to capture attention immediately.",
+      "timestamp": "04:00"
+    },
+    {
+      "tactic": "Engage with pop culture",
+      "context": "Tie your content to current pop culture events to increase discoverability.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Engage authentically on social media",
+      "context": "Interact with your audience as you would in a real-world setting to build relationships.",
+      "timestamp": "18:00"
+    }
+  ],
+  "quotable_insights": [
+    "Get out of that supermodel mode and get into teacher mode.",
+    "Social media starts with the word social. You have to give to get."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KimRitberg.com",
+      "context": "For more information on video boot camps and resources."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares strategies for creating engaging video content that captures attention and builds personal brand authority. She emphasizes the importance of using strong hooks, engaging with pop culture, and authentic social media interaction to increase discoverability and convert engagement into business opportunities.",
+  "_metadata": {
+    "source_file": "2023-06-26_item240_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T21:06:18.642715",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

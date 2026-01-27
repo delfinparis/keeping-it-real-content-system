@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Ryan Young",
+    "title": "CEO",
+    "company": "The Young Team, Fellow",
+    "production_level": "Number one large team in Ohio, 600 transactions, $200M in production",
+    "specialty": "Seller lead generation",
+    "location": "Cleveland, Akron, Canton, Ohio"
+  },
+  "main_topics": [
+    "Transition from culinary arts to real estate",
+    "Building a successful real estate team",
+    "Seller lead generation with Fellow",
+    "Importance of work ethic and discipline",
+    "Leveraging existing databases for leads"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating seller leads from existing databases",
+      "solution_summary": "Use Fellow to incubate and convert existing database contacts into seller leads by providing regular home value updates and call-to-action opportunities.",
+      "timestamp": "30:19"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting difficult leads like expireds and FSBOs",
+      "solution_summary": "Develop strong scripts and practice regularly to become comfortable and effective in conversations, focusing on listening and understanding client needs.",
+      "timestamp": "25:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Ryan's journey from a chef to leading a top real estate team provides a roadmap for high achievers.",
+      "key_takeaway": "Discipline and work ethic from previous careers can be leveraged to excel in real estate."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into building and scaling a successful real estate team.",
+      "key_takeaway": "Focus on leveraging technology like Fellow to maximize existing resources and drive growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "I owe a lot of the success I've had in real estate to my professional training in the culinary world.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Shows how skills from one industry can be transferred to another.",
+      "suggested_hook": "How a top REALTOR used his chef skills to dominate real estate."
+    },
+    {
+      "timestamp": "30:19",
+      "end_timestamp": "31:00",
+      "quote": "We realized that there was so many opportunities that were already acquired by the agents that were just sitting in their database.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the untapped potential in existing databases.",
+      "suggested_hook": "Are you sitting on a goldmine of leads without realizing it?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Fellow to incubate existing database contacts for seller leads.",
+      "context": "Regularly update contacts with home value information to keep them engaged.",
+      "timestamp": "30:19"
+    },
+    {
+      "tactic": "Develop strong scripts for calling expireds and FSBOs.",
+      "context": "Practice regularly to become comfortable and effective in conversations.",
+      "timestamp": "25:02"
+    }
+  ],
+  "quotable_insights": [
+    "The bar is set pretty low for our industry, which is a shame because it's such an important experience in people's lives.",
+    "The money is in your database."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Fellow",
+      "context": "A seller lead generation platform that leverages existing databases."
+    }
+  ],
+  "episode_summary": "In this episode, Ryan Young shares his journey from being a professional chef to leading the most successful real estate team in Ohio. He discusses the importance of discipline and work ethic, and how these traits helped him excel in real estate. Ryan also introduces Fellow, a seller lead generation tool that helps agents leverage their existing databases to generate and convert leads.",
+  "_metadata": {
+    "source_file": "2023-06-13_item243_Ryan-Young",
+    "analyzed_at": "2026-01-26T21:04:45.010724",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

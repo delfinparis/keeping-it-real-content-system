@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Jordan Cohen",
+    "title": "Top RE/MAX Agent",
+    "company": "RE/MAX",
+    "production_level": "Over $300 million in sales annually",
+    "specialty": "Luxury real estate",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Listing presentation strategies",
+    "Transitioning to luxury real estate",
+    "Building client trust and credibility",
+    "Effective marketing beyond the internet",
+    "Importance of professionalism in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Winning competitive listings",
+      "solution_summary": "Develop a powerful and confident listing presentation that establishes credibility and trust before discussing price.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Elevate traditional marketing tools like 'just listed' postcards with better quality and strategic distribution.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into transitioning to high-value listings and refining sales strategies.",
+      "key_takeaway": "A strong listing presentation is crucial for establishing trust and winning high-value listings."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to improve listing presentations and marketing tactics to break into higher price points.",
+      "key_takeaway": "Focus on building credibility and using enhanced marketing tools to differentiate yourself."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I want you to have the same amount of confidence in me as I have in myself, that I am the best real estate agent.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the importance of confidence and clarity in communication during listing presentations.",
+      "suggested_hook": "How confidence can win you more listings in real estate."
+    },
+    {
+      "timestamp": "30:00",
+      "end_timestamp": "31:00",
+      "quote": "The job of a REALTOR is to bring your home to them, not just hope that they find your home.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages proactive marketing strategies that go beyond passive online listings.",
+      "suggested_hook": "Why waiting for buyers to find your listing is a mistake."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Deliver a comprehensive listing presentation before discussing price.",
+      "context": "Use this approach to build trust and establish credibility with potential clients.",
+      "timestamp": "24:00"
+    },
+    {
+      "tactic": "Elevate traditional marketing tools like 'just listed' postcards.",
+      "context": "Invest in high-quality materials and strategic distribution to reach potential buyers not actively searching online.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "A great real estate agent is like a good sports agent; we're promoting our stars, which is your house.",
+    "The job of a REALTOR is to bring your home to them, not just hope that they find your home."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Agents Edge",
+      "context": "Jordan Cohen's book offering strategies to win listings and succeed in real estate."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A real estate sales and marketing solution to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Modwell",
+      "context": "Technology to virtually renovate listings and enhance buyer interest."
+    }
+  ],
+  "episode_summary": "In this episode, Jordan Cohen shares his strategies for becoming a top-producing luxury real estate agent. He emphasizes the importance of a strong listing presentation, proactive marketing, and building client trust. Cohen also discusses how to elevate traditional marketing tools and the significance of professionalism in real estate.",
+  "_metadata": {
+    "source_file": "2023-06-23_item241_Jordan-Cohen",
+    "analyzed_at": "2026-01-26T21:05:50.128706",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
