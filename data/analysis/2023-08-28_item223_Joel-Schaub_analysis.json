@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Joel Schaub",
+    "title": "Vice President of Lending",
+    "company": "Guaranteed Rate",
+    "production_level": "Top 1% of all lenders nationwide",
+    "specialty": "Giving back part of his commission to buyers",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Consistency in real estate success",
+    "Building and maintaining client relationships",
+    "Using technology for market insights",
+    "Effective communication and negotiation",
+    "Differentiating oneself in the market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Navigating challenging market cycles",
+      "solution_summary": "Seek advice from experienced agents who have weathered past cycles and focus on consistency and discipline.",
+      "timestamp": "03:06"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Staying engaged with clients during slow periods",
+      "solution_summary": "Spend time authentically engaging with clients on social media to build goodwill and maintain visibility.",
+      "timestamp": "07:05"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Keeping an updated client database",
+      "solution_summary": "Regularly update client information and set reminders for personal events to strengthen relationships.",
+      "timestamp": "10:56"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn the importance of consistency and relationship building.",
+      "key_takeaway": "Focus on building authentic relationships and maintaining consistency to grow your business."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can benefit from strategies to engage clients during slow periods.",
+      "key_takeaway": "Use slow periods to engage with your database and refine your skills."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:05",
+      "end_timestamp": "08:16",
+      "quote": "He comments on it, and he says it has to be authentic. He's not just like, you know, looks awesome.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific, actionable tactic for engaging with clients.",
+      "suggested_hook": "Want to build stronger client relationships? Here's a simple daily habit that costs nothing."
+    },
+    {
+      "timestamp": "24:03",
+      "end_timestamp": "24:52",
+      "quote": "Work with the right inspector always ends up either helping your deal or killing your deal.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of choosing the right partners in real estate transactions.",
+      "suggested_hook": "The right inspector can make or break your real estate deal—here's why."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage authentically on social media",
+      "context": "Spend time daily commenting on clients' posts to build goodwill.",
+      "timestamp": "07:05"
+    },
+    {
+      "tactic": "Run CMAs for clients regularly",
+      "context": "Provide updated market analyses to clients to keep them informed and engaged.",
+      "timestamp": "14:16"
+    }
+  ],
+  "quotable_insights": [
+    "Intimacy has to be earned, and the way you do that is by showing up.",
+    "The market is like the weather; you can't control it, but you can control your effort."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Chat GPT",
+      "context": "Used for gathering market insights and understanding both sides of buying/selling arguments."
+    },
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Joel Schaub discusses the importance of consistency and relationship building in real estate. He shares actionable strategies for engaging with clients during slow periods and emphasizes the value of understanding market cycles. The episode also highlights the use of technology, like Chat GPT, for gaining market insights and improving communication with clients.",
+  "_metadata": {
+    "source_file": "2023-08-28_item223_Joel-Schaub",
+    "analyzed_at": "2026-01-26T21:20:41.418361",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

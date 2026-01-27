@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Bob Brown",
+    "title": "Foundation Repair Expert",
+    "company": "Arizona Foundation Solutions",
+    "production_level": null,
+    "specialty": "Property Foundation Repair",
+    "location": "Arizona"
+  },
+  "main_topics": [
+    "Foundation Repair Strategies",
+    "Importance of Hiring Engineers",
+    "Soil Types and Their Impact on Foundations",
+    "Signs of Foundation Movement",
+    "Risk Management in Real Estate Transactions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Identifying foundation issues during property transactions",
+      "solution_summary": "Hire a licensed professional engineer to inspect the property before listing or buying to avoid costly repairs and potential litigation.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Preventing client dissatisfaction due to undiscovered foundation issues",
+      "solution_summary": "Educate clients on the importance of foundation inspections and consider covering the cost as part of your service.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Avoiding unnecessary foundation repair costs",
+      "solution_summary": "Avoid hiring foundation repair companies for inspections as they may have a vested interest in selling repairs.",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on adding value to clients through specialized knowledge in foundation issues.",
+      "key_takeaway": "Differentiate yourself by offering preemptive foundation inspections to protect clients and enhance your service offering."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can use this information to train their agents on the importance of foundation inspections.",
+      "key_takeaway": "Incorporate foundation inspection strategies into your team's standard operating procedures to reduce liability and increase client satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:30",
+      "end_timestamp": "09:15",
+      "quote": "Hiring a foundation repair company for an inspection is like asking a surgeon if you need surgery.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly highlights the conflict of interest in hiring repair companies for inspections.",
+      "suggested_hook": "Why you should never ask a foundation repair company to inspect your property."
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "Windows are the secret tool for spotting foundation movement.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a simple, actionable tip for REALTORS to assess potential foundation issues.",
+      "suggested_hook": "Here's a quick tip to spot foundation problems during a showing."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Check windows and doors for signs of sticking or misalignment.",
+      "context": "Use this as an initial indicator of potential foundation issues during property showings.",
+      "timestamp": "25:00"
+    },
+    {
+      "tactic": "Hire a licensed engineer for foundation inspections.",
+      "context": "Do this before listing a property or finalizing a purchase to avoid future issues.",
+      "timestamp": "05:00"
+    }
+  ],
+  "quotable_insights": [
+    "\"Hiring an engineer for a foundation inspection is an investment in peace of mind.\"",
+    "\"Foundation issues can cost you $80,000 or more if not caught early.\""
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Foundation Repair Secrets",
+      "context": "Bob Brown's book provides detailed insights into identifying and addressing foundation issues."
+    },
+    {
+      "type": "website",
+      "name": "foundationrepairsecrets.com",
+      "context": "Bob Brown's website offers additional resources and information on foundation repair."
+    }
+  ],
+  "episode_summary": "In this episode, foundation repair expert Bob Brown discusses the importance of hiring licensed engineers for property inspections to prevent costly foundation repairs and potential litigation. He shares actionable tips for REALTORS to identify signs of foundation movement, emphasizing the role of soil types and the risks of relying on foundation repair companies for inspections. Bob's insights aim to help REALTORS enhance their service offerings and protect their clients.",
+  "_metadata": {
+    "source_file": "2023-08-25_item224_Bob-Brown",
+    "analyzed_at": "2026-01-26T21:20:11.349559",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

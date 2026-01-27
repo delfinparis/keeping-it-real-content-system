@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Susan Santoro",
+    "title": "Real Estate Agent",
+    "company": "William Pitt Sotheby's International Realty",
+    "production_level": "$73M+ in transactions last year",
+    "specialty": "Working with doctors and faculty at Yale",
+    "location": "New Haven County, Connecticut"
+  },
+  "main_topics": [
+    "Building a niche in real estate",
+    "Importance of market knowledge",
+    "Client relationship management",
+    "Effective listing presentations",
+    "Staying motivated in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to build a niche market",
+      "solution_summary": "Focus on building relationships with specific groups, such as doctors, and provide exceptional service to become their go-to REALTOR.",
+      "timestamp": "20:06"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Crafting competitive offers",
+      "solution_summary": "Analyze market data to understand the percentage over asking price that properties are selling for and use this to guide offer strategies.",
+      "timestamp": "08:04"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in listing presentations",
+      "solution_summary": "Use a two-step approach: first, gather detailed information about the property and client needs, then return with a comprehensive, customized presentation.",
+      "timestamp": "30:18"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Susan's strategies for building a niche and maintaining client relationships are key for agents looking to elevate their business.",
+      "key_takeaway": "Developing a niche and consistently demonstrating care and expertise can lead to long-term success and client loyalty."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Susan's approach to team building and leveraging team strengths offers valuable insights for leaders managing small teams.",
+      "key_takeaway": "Empower team members by aligning their personal interests with business goals to maximize productivity and client satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "11:05",
+      "end_timestamp": "11:45",
+      "quote": "You wake up unemployed every day in our business.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the urgency and motivation needed in real estate, resonating with agents who need a daily push.",
+      "suggested_hook": "Why every real estate agent should start their day with this mindset."
+    },
+    {
+      "timestamp": "30:18",
+      "end_timestamp": "31:00",
+      "quote": "Nothing is a slam dunk. Treat every listing presentation as if it's your first.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This emphasizes the importance of preparation and effort in every client interaction.",
+      "suggested_hook": "The secret to winning every listing presentation."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a two-step listing presentation approach.",
+      "context": "Visit the property first to gather information, then return with a detailed, customized presentation.",
+      "timestamp": "30:18"
+    },
+    {
+      "tactic": "Analyze market data to guide offer strategies.",
+      "context": "Before making an offer, understand the average percentage over asking price in the area.",
+      "timestamp": "08:04"
+    }
+  ],
+  "quotable_insights": [
+    "You wake up unemployed every day in our business.",
+    "Real trust, real care in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Pilot Your Life",
+      "context": "Written by Susan's father, it serves as her motivational guide."
+    },
+    {
+      "type": "website",
+      "name": "GreatSchools.org",
+      "context": "Recommended for clients to research school districts independently."
+    }
+  ],
+  "episode_summary": "Susan Santoro shares her insights from nearly 40 years in real estate, emphasizing the importance of building a niche, maintaining strong client relationships, and staying motivated. She discusses her unique approach to listing presentations and how she leverages market data to craft competitive offers. Her dedication to client care and strategic thinking offers valuable lessons for agents at all stages of their careers.",
+  "_metadata": {
+    "source_file": "2023-09-07_item220_Susan-Santoro",
+    "analyzed_at": "2026-01-26T21:22:22.213207",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

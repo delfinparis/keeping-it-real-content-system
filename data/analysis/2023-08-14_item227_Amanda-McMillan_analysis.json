@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Amanda McMillan",
+    "title": "CEO",
+    "company": "Chicago Home Partner",
+    "production_level": "Top 1%",
+    "specialty": "Referral-based business model",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Challenges of being an introverted REALTOR",
+    "Importance of client experience",
+    "Navigating real estate crises",
+    "Effective communication strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a challenging market",
+      "solution_summary": "Focus on creating raving fans through exceptional client service and leveraging a referral-based model.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Advising clients against transactions not in their best interest",
+      "solution_summary": "Build trust by prioritizing client interests over immediate sales, which leads to more referrals.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with lead generation and client management.",
+      "key_takeaway": "Focus on training and building a referral-based business by prioritizing client satisfaction."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can learn how to leverage client relationships for long-term success.",
+      "key_takeaway": "Exceptional client service and honest communication can differentiate you in a competitive market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "30:00",
+      "end_timestamp": "31:00",
+      "quote": "I've done more business off of telling people not to do things if that's what I thought, then the alternative.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the conventional sales approach and highlights the power of integrity.",
+      "suggested_hook": "Why saying 'no' can lead to more business than saying 'yes'."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Ask to speak with current agents when considering a brokerage.",
+      "context": "To evaluate the quality of training and support offered by the firm.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Use snail mail for client engagement.",
+      "context": "Send monthly mailings with local events and non-real estate content to maintain client relationships.",
+      "timestamp": "44:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you are going to talk the talk, you have to be willing to walk the walk."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Love is the Killer App",
+      "context": "Recommended for its insights on collaboration and building a client-centric business."
+    }
+  ],
+  "episode_summary": "Amanda McMillan shares her journey as a top 1% REALTOR, emphasizing the importance of a referral-based business model driven by exceptional client service. She discusses the challenges and advantages of being an introverted agent and provides actionable strategies for lead generation and client management in a competitive market.",
+  "_metadata": {
+    "source_file": "2023-08-14_item227_Amanda-McMillan",
+    "analyzed_at": "2026-01-26T21:15:45.303988",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

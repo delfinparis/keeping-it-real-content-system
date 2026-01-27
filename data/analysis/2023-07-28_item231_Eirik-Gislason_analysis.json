@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Eirik Davy Gislason",
+    "title": "Master Certified Negotiation Expert",
+    "company": "Brown Harris Stevens",
+    "production_level": "Top 1% producer",
+    "specialty": "Collaborative negotiation, value proposition, persuasion",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Importance of negotiation skills in real estate",
+    "Collaborative negotiation techniques",
+    "Value proposition development",
+    "Coaching and training for real estate agents",
+    "Adapting to market challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Agents not effectively negotiating deals",
+      "solution_summary": "Understanding the other party's needs and incorporating them into negotiation strategies to create a bigger pie of value.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling demotivated in a tough market",
+      "solution_summary": "Focus on skill development and doing more of what you love to increase engagement and effectiveness.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced negotiation techniques and strategies to differentiate in a competitive market.",
+      "key_takeaway": "Mastering negotiation skills can significantly increase your success rate and client satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:30",
+      "end_timestamp": "20:15",
+      "quote": "If you can start with the other side and uncover those black swans, understand those value elements, you can make the pie bigger.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a specific negotiation tactic that can be immediately applied.",
+      "suggested_hook": "Want to close more deals? Start by understanding the other side's needs."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify and incorporate the other party's needs into your negotiation strategy.",
+      "context": "Use this tactic to create more value in negotiations and satisfy both parties.",
+      "timestamp": "15:00"
+    }
+  ],
+  "quotable_insights": [
+    "Negotiation skills are more important to our clients than marketing or market analysis."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Certified Negotiation Expert (CNE)",
+      "context": "Recommended for agents to improve their negotiation skills and differentiate themselves in the market."
+    }
+  ],
+  "episode_summary": "In this episode, Eirik Davy Gislason discusses the critical importance of negotiation skills in real estate, offering insights into collaborative negotiation techniques and the development of a strong value proposition. He emphasizes the need for agents to focus on skill development, especially in challenging markets, and provides actionable strategies for improving negotiation outcomes and client satisfaction.",
+  "_metadata": {
+    "source_file": "2023-07-28_item231_Eirik-Gislason",
+    "analyzed_at": "2026-01-26T21:13:07.386016",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
