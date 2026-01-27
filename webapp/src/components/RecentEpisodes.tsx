@@ -44,8 +44,8 @@ export default function RecentEpisodes() {
     <div className="mb-12">
       <div className="flex items-center justify-between mb-6">
         <div>
-          <h2 className="text-2xl font-bold text-gray-900">Recently Added</h2>
-          <p className="text-gray-600 text-sm mt-1">Fresh insights from top producers</p>
+          <h2 className="text-2xl font-bold text-gray-900">Latest Solutions</h2>
+          <p className="text-gray-600 text-sm mt-1">Fresh advice from top producers</p>
         </div>
         <Link
           href="/episodes"

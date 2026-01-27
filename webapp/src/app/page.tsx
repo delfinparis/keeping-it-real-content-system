@@ -477,10 +477,10 @@ Let me know what you think after listening!`}
       <div className="bg-gradient-kale text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">
-            Find the Perfect Episode
+            Where are you stuck?
           </h1>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto text-center">
-            700+ episodes of top producer wisdom. Let's find exactly what your agent needs.
+            500+ top producers have solved your problem. Let's find who.
           </p>
 
           {/* Mode Toggle - Mobile Optimized */}

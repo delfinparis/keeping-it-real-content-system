@@ -103,9 +103,9 @@ function ShareContent() {
             {/* Page Header */}
       <div className="bg-gradient-kale text-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
-          <p className="text-blue-200 mb-2">Someone shared these episodes with you</p>
+          <p className="text-blue-200 mb-2">Someone wants to help you get unstuck</p>
           <h1 className="text-3xl font-bold mb-4">
-            Keeping It Real Podcast Recommendations
+            Your Unstuck Agent Recommendations
           </h1>
           {challenge && (
             <p className="text-lg text-blue-100">

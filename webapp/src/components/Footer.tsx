@@ -8,14 +8,14 @@ export default function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
-              <div className="w-10 h-10 bg-white/10 rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-lg">KIR</span>
+              <div className="w-10 h-10 bg-gradient-to-br from-kale to-emerald-600 rounded-xl flex items-center justify-center">
+                <span className="text-white font-bold text-lg">UA</span>
               </div>
-              <span className="font-semibold text-lg">Keeping It Real</span>
+              <span className="font-semibold text-lg">Unstuck Agent</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed max-w-md">
-              The podcast where top real estate producers share their secrets to success.
-              Hosted by D.J. Paris, VP of Business Development at Kale Realty in Chicago.
+              Get unstuck with advice from 500+ top producing real estate agents.
+              Powered by the Keeping It Real podcast with D.J. Paris.
             </p>
             <div className="flex space-x-4 mt-4">
               <a
@@ -57,17 +57,22 @@ export default function Footer() {
           {/* Quick Links */}
           <div>
             <h3 className="font-semibold text-sm uppercase tracking-wider text-gray-400 mb-4">
-              Quick Links
+              Get Unstuck
             </h3>
             <ul className="space-y-2">
               <li>
                 <Link href="/" className="text-gray-300 hover:text-white transition text-sm">
-                  Find Episodes
+                  Find Your Solution
+                </Link>
+              </li>
+              <li>
+                <Link href="/problems" className="text-gray-300 hover:text-white transition text-sm">
+                  Browse by Problem
                 </Link>
               </li>
               <li>
                 <Link href="/episodes" className="text-gray-300 hover:text-white transition text-sm">
-                  Browse All Episodes
+                  All Episodes
                 </Link>
               </li>
             </ul>
@@ -76,9 +81,19 @@ export default function Footer() {
           {/* About */}
           <div>
             <h3 className="font-semibold text-sm uppercase tracking-wider text-gray-400 mb-4">
-              About
+              The Podcast
             </h3>
             <ul className="space-y-2">
+              <li>
+                <a
+                  href="https://www.keepingitrealpod.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-300 hover:text-white transition text-sm"
+                >
+                  Keeping It Real
+                </a>
+              </li>
               <li>
                 <a
                   href="https://www.kalerealty.com"
@@ -89,23 +104,13 @@ export default function Footer() {
                   Kale Realty
                 </a>
               </li>
-              <li>
-                <a
-                  href="https://www.keepingitrealpod.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-300 hover:text-white transition text-sm"
-                >
-                  Podcast Website
-                </a>
-              </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-500 text-sm">
-          <p>Keeping It Real Podcast by D.J. Paris</p>
-          <p className="mt-1">VP of Business Development at Kale Realty, Chicago</p>
+          <p>Powered by the Keeping It Real Podcast</p>
+          <p className="mt-1">D.J. Paris · Kale Realty · Chicago</p>
         </div>
       </div>
     </footer>

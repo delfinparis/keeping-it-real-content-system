@@ -5,11 +5,10 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const navLinks = [
-  { href: "/", label: "Find Episodes" },
+  { href: "/", label: "Get Unstuck" },
   { href: "/problems", label: "By Problem" },
   { href: "/avatars", label: "By Agent Type" },
-  { href: "/clips", label: "Clips" },
-  { href: "/insights", label: "Insights" },
+  { href: "/episodes", label: "All Episodes" },
 ];
 
 export default function Navigation() {
@@ -28,11 +27,11 @@ export default function Navigation() {
           {/* Logo */}
           <div className="flex items-center">
             <Link href="/" className="flex items-center gap-3">
-              <div className="w-8 h-8 bg-kale rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">KIR</span>
+              <div className="w-8 h-8 bg-gradient-to-br from-kale to-emerald-600 rounded-lg flex items-center justify-center shadow-sm">
+                <span className="text-white font-bold text-sm">UA</span>
               </div>
               <div className="hidden sm:block">
-                <span className="text-lg font-semibold text-gray-900">Keeping It Real</span>
+                <span className="text-lg font-semibold text-gray-900">Unstuck Agent</span>
               </div>
             </Link>
           </div>

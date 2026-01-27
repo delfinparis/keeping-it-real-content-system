@@ -10,8 +10,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Keeping It Real - Episode Finder",
-  description: "Find the perfect podcast episode for your real estate challenges. 700+ episodes from top producers.",
+  title: "Unstuck Agent - Where are you stuck?",
+  description: "Get unstuck with advice from 500+ top producing real estate agents. Powered by the Keeping It Real podcast.",
 };
 
 export default function RootLayout({
