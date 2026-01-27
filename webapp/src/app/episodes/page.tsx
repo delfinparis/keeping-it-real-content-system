@@ -3,7 +3,6 @@
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import episodesData from "@/data/episodes.json";
-import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 const episodes = episodesData.episodes;
@@ -43,8 +42,7 @@ export default function EpisodesPage() {
 
   return (
     <main className="min-h-screen bg-gray-50 flex flex-col">
-      <Header />
-      {/* Page Header */}
+            {/* Page Header */}
       <div className="bg-gradient-kale text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <h1 className="text-3xl font-bold">All Episodes</h1>

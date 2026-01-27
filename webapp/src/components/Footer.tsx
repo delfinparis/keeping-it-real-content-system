@@ -70,11 +70,6 @@ export default function Footer() {
                   Browse All Episodes
                 </Link>
               </li>
-              <li>
-                <Link href="/insights" className="text-gray-300 hover:text-white transition text-sm">
-                  Podcast Insights
-                </Link>
-              </li>
             </ul>
           </div>
 
