@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Ali Garced",
+    "title": "Real Estate Agent",
+    "company": "Not explicitly mentioned",
+    "production_level": "Agents on her crew earned six figures in eight months",
+    "specialty": "Real estate checklists and systems",
+    "location": "Tucson, Arizona"
+  },
+  "main_topics": [
+    "Seller checklist process",
+    "Importance of Google Business for lead generation",
+    "Pre-listing preparation",
+    "Client expectations and communication",
+    "Handling listing presentations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without paying for ads",
+      "solution_summary": "Utilize a Google Business page to rank high in search results and generate leads organically.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Setting client expectations for communication",
+      "solution_summary": "Ask clients how often they expect to hear from you and set clear boundaries for communication.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing multiple client interactions efficiently",
+      "solution_summary": "Use Trello and CRMs like kvCORE to organize client information and follow-ups.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides detailed checklists and systems to streamline the selling process and increase efficiency.",
+      "key_takeaway": "Implementing structured checklists can significantly boost productivity and client satisfaction."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Ali shares insights on how her team members have increased their earnings by using her systems.",
+      "key_takeaway": "Sharing effective systems and processes with your team can lead to substantial financial growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "If you do not have your Google Business page, you are missing out on the number one website in the world, which is free.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a free, actionable tactic for lead generation.",
+      "suggested_hook": "Are you leveraging the most powerful free tool for real estate leads?"
+    },
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "29:00",
+      "quote": "I now have a $3,000 cancellation fee... We are professionals, there's no reason that attorneys should be paid beforehand and we shouldn't.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the norm of working without upfront compensation.",
+      "suggested_hook": "Why you should consider charging a cancellation fee in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a Google Business page for organic lead generation.",
+      "context": "Set up and verify your Google Business page to rank in local searches.",
+      "timestamp": "05:00"
+    },
+    {
+      "tactic": "Implement a structured checklist for seller interactions.",
+      "context": "Use Trello to organize the seller process from pre-listing to post-transaction.",
+      "timestamp": "00:45"
+    },
+    {
+      "tactic": "Charge a cancellation fee to protect upfront investments.",
+      "context": "Include a $3,000 cancellation fee in your listing agreement to cover costs.",
+      "timestamp": "28:00"
+    }
+  ],
+  "quotable_insights": [
+    "Sharing effective systems and processes can lead to substantial financial growth.",
+    "Implementing structured checklists can significantly boost productivity and client satisfaction."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Google Business",
+      "context": "Recommended for generating leads without paying for ads."
+    },
+    {
+      "type": "tool",
+      "name": "Trello",
+      "context": "Used for organizing the seller checklist and process."
+    },
+    {
+      "type": "tool",
+      "name": "kvCORE",
+      "context": "CRM used for managing client information and follow-ups."
+    }
+  ],
+  "episode_summary": "In this episode, Ali Garced shares her detailed seller checklist process, emphasizing the importance of using a Google Business page for lead generation and setting clear client expectations. She provides actionable insights on pre-listing preparation and handling listing presentations effectively, while also advocating for a cancellation fee to protect upfront investments.",
+  "_metadata": {
+    "source_file": "2023-11-17_item202_Ali-Garced",
+    "analyzed_at": "2026-01-26T21:34:18.979911",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
