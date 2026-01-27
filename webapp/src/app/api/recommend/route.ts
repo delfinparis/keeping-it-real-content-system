@@ -201,71 +201,77 @@ export async function POST(request: NextRequest) {
       return localSearch(challenge);
     }
 
-    // Get relevant episode summaries for this challenge
-    const relevantEpisodes = getRelevantEpisodeSummaries(challenge);
+    // Try OpenAI, fall back to local search on any error
+    try {
+      // Get relevant episode summaries for this challenge
+      const relevantEpisodes = getRelevantEpisodeSummaries(challenge);
 
-    const openai = new OpenAI({ apiKey });
+      const openai = new OpenAI({ apiKey });
 
-    const response = await openai.chat.completions.create({
-      model: "gpt-4o-mini",
-      messages: [
-        { role: "system", content: SYSTEM_PROMPT },
-        {
-          role: "user",
-          content: `An agent describes their challenge: "${challenge}"
+      const response = await openai.chat.completions.create({
+        model: "gpt-4o-mini",
+        messages: [
+          { role: "system", content: SYSTEM_PROMPT },
+          {
+            role: "user",
+            content: `An agent describes their challenge: "${challenge}"
 
 Here are the most relevant episodes from our catalog:
 ${relevantEpisodes}
 
 Find the top 3-5 most relevant episodes with specific timestamps. Use EXACT episode IDs from the data.`,
-        },
-      ],
-      temperature: 0.3,
-      max_tokens: 2000,
-    });
+          },
+        ],
+        temperature: 0.3,
+        max_tokens: 2000,
+      });
 
-    const content = response.choices[0]?.message?.content || "";
+      const content = response.choices[0]?.message?.content || "";
 
-    // Parse JSON response
-    let recommendations;
-    try {
-      const cleaned = content.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim();
-      recommendations = JSON.parse(cleaned);
-    } catch {
-      return NextResponse.json(
-        { error: "Failed to parse AI response", raw: content },
-        { status: 500 }
-      );
+      // Parse JSON response
+      let recommendations;
+      try {
+        const cleaned = content.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim();
+        recommendations = JSON.parse(cleaned);
+      } catch {
+        // If AI response parsing fails, fall back to local search
+        console.log("AI response parsing failed, using local search");
+        return localSearch(challenge);
+      }
+
+      // Enrich with episode details
+      const enriched = {
+        ...recommendations,
+        recommendations: recommendations.recommendations?.map(
+          (rec: { episode_id: string; guest_name?: string }) => {
+            const episodeData = analysisData[rec.episode_id];
+            const episodeInfo = episodes.find(
+              (ep) =>
+                ep.guest_name
+                  ?.toLowerCase()
+                  .includes((rec.guest_name || "").toLowerCase().split(" ")[0]) ||
+                ep.title?.includes(rec.episode_id)
+            );
+
+            return {
+              ...rec,
+              episode_url: episodeInfo?.guid || "#",
+              full_title: episodeInfo?.title || "",
+              duration: episodeInfo?.duration_formatted || "",
+              guest_info: episodeData?.guest_info || {},
+            };
+          }
+        ),
+        method: "ai_search",
+        episodes_searched: Object.keys(analysisData).length,
+      };
+
+      return NextResponse.json(enriched);
+    } catch (aiError) {
+      // OpenAI error (quota exceeded, rate limit, etc.) - fall back to local search
+      console.log("OpenAI error, falling back to local search:", aiError);
+      return localSearch(challenge);
     }
-
-    // Enrich with episode details
-    const enriched = {
-      ...recommendations,
-      recommendations: recommendations.recommendations?.map(
-        (rec: { episode_id: string; guest_name?: string }) => {
-          const episodeData = analysisData[rec.episode_id];
-          const episodeInfo = episodes.find(
-            (ep) =>
-              ep.guest_name
-                ?.toLowerCase()
-                .includes((rec.guest_name || "").toLowerCase().split(" ")[0]) ||
-              ep.title?.includes(rec.episode_id)
-          );
-
-          return {
-            ...rec,
-            episode_url: episodeInfo?.guid || "#",
-            full_title: episodeInfo?.title || "",
-            duration: episodeInfo?.duration_formatted || "",
-            guest_info: episodeData?.guest_info || {},
-          };
-        }
-      ),
-      method: "ai_search",
-      episodes_searched: Object.keys(analysisData).length,
-    };
-
-    return NextResponse.json(enriched);
   } catch (error) {
     console.error("Recommendation error:", error);
     return NextResponse.json({ error: "Failed to get recommendations" }, { status: 500 });
