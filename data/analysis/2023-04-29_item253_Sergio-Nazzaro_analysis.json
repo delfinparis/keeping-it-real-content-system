@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Sergio Nazzaro",
+    "title": "Real Estate Agent and Performance Coach",
+    "company": "Become The Standard",
+    "production_level": "$35M+ producer in third year",
+    "specialty": "Helping entrepreneurs have it all in their marriage, health, and business",
+    "location": "Denver, Colorado"
+  },
+  "main_topics": [
+    "Stress Management",
+    "Setting Boundaries",
+    "Social Media Strategy",
+    "Holistic Success",
+    "Military Influence on Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Managing stress as a real estate agent",
+      "solution_summary": "Agents need to manage their own stress to effectively lead clients through stressful transactions.",
+      "timestamp": "13:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of boundaries with clients",
+      "solution_summary": "Set clear working hours and communicate them upfront to clients to manage expectations.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Fear of sharing personal life on social media",
+      "solution_summary": "Share authentic stories and personal interests to build deeper connections with your audience.",
+      "timestamp": "38:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with stress and setting boundaries.",
+      "key_takeaway": "Establish clear boundaries and manage stress to maintain a balanced personal and professional life."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can learn from Sergio's journey to high production.",
+      "key_takeaway": "Holistic success requires balancing personal life with professional ambitions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "Your intent is your Compass. If your intent is simply to ask about the vacation, then that's your Compass.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the fear of over-communicating with clients.",
+      "suggested_hook": "Are you afraid of annoying your clients? Here's why you shouldn't be."
+    },
+    {
+      "timestamp": "46:00",
+      "end_timestamp": "47:00",
+      "quote": "I've never had so many people reach out, share their stories with me. We have conversations.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the power of vulnerability in building connections.",
+      "suggested_hook": "Vulnerability can be your greatest strength. Here's how it worked for Sergio."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set clear working hours and communicate them to clients.",
+      "context": "During initial consultations to manage client expectations.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Use social media to share personal stories and interests.",
+      "context": "To build a personal brand that resonates with your audience.",
+      "timestamp": "38:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your ability to manage stress in your state as you show up to those is what sets you apart from everybody else.",
+    "Our relationship actually begins after closing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "app",
+      "name": "Calm",
+      "context": "Used for meditation and stress management."
+    }
+  ],
+  "episode_summary": "In this episode, Sergio Nazzaro shares his journey from military service to real estate success, emphasizing the importance of stress management and setting boundaries. He discusses how social media can be leveraged to build authentic connections and the holistic approach needed to balance personal and professional life for sustained success.",
+  "_metadata": {
+    "source_file": "2023-04-29_item253_Sergio-Nazzaro",
+    "analyzed_at": "2026-01-26T21:01:06.191587",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

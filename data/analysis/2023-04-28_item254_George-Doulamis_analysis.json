@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "George Doulamis",
+    "title": "Top Producer",
+    "company": "Blankenship Group, Engel & Völkers",
+    "production_level": "Top 1%",
+    "specialty": "Luxury Real Estate",
+    "location": "Destin and the 30A corridor, Florida"
+  },
+  "main_topics": [
+    "Differences in selling high-value properties",
+    "Importance of service and client experience",
+    "Phone prospecting techniques",
+    "Building a network for luxury real estate",
+    "Handling high net worth clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Fear of phone prospecting",
+      "solution_summary": "Develop scripts and practice tonality to improve confidence and effectiveness in phone calls.",
+      "timestamp": "19:26"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining communication with clients when there's no activity",
+      "solution_summary": "Set standard operating procedures for regular communication and provide updates on efforts being made.",
+      "timestamp": "14:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into handling luxury real estate and high net worth clients.",
+      "key_takeaway": "Developing strong communication skills and understanding client needs are crucial for success in high-value markets."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "23:01",
+      "end_timestamp": "23:22",
+      "quote": "DJ, I'm looking at these photos on the MLS right now. The kitchen's gorgeous. How in the world did this thing not sell?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This question is a unique approach to engage potential clients by showing genuine interest.",
+      "suggested_hook": "Want to know how to engage clients effectively over the phone?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use implied compliments to engage clients",
+      "context": "When calling expired listings, start with a positive observation about the property to build rapport.",
+      "timestamp": "23:01"
+    },
+    {
+      "tactic": "Set standard operating procedures for client communication",
+      "context": "Ensure regular updates to clients even when there's no activity to report.",
+      "timestamp": "14:45"
+    }
+  ],
+  "quotable_insights": [
+    "I want to create a business where my clients literally cannot transact in real estate without me."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, George Doulamis shares his journey from working at Ritz Carlton to becoming a top producer in luxury real estate. He discusses the importance of service, effective communication, and phone prospecting techniques to engage high net worth clients. George also emphasizes the value of building a strong network and maintaining regular client updates to ensure success in the competitive luxury market.",
+  "_metadata": {
+    "source_file": "2023-04-28_item254_George-Doulamis",
+    "analyzed_at": "2026-01-26T21:00:30.331699",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
