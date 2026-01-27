@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top REALTOR",
+    "company": "Carrie McCormick Real Estate Group at @properties",
+    "production_level": "Top 0.001% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Negotiation strategies in real estate",
+    "Understanding client needs and motivations",
+    "Leveraging unique property features",
+    "Setting a positive negotiation tone",
+    "Direct communication between decision-makers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Understanding what drives buyers and sellers",
+      "solution_summary": "Ask strategic questions during showings to gather information about client motivations and needs.",
+      "timestamp": "05:12"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Setting a positive tone in negotiations",
+      "solution_summary": "Agree on easy items first to create a cooperative atmosphere.",
+      "timestamp": "10:56"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Handling difficult negotiations",
+      "solution_summary": "Consider bringing buyers and sellers together for direct communication to resolve misunderstandings.",
+      "timestamp": "15:35"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced negotiation tactics that can elevate an agent's skill set.",
+      "key_takeaway": "Understanding client motivations and leveraging unique property features can lead to successful negotiations."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can use these strategies to train their agents on effective negotiation techniques.",
+      "key_takeaway": "Setting a positive negotiation tone and understanding leverage points are crucial for team success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:45",
+      "end_timestamp": "13:30",
+      "quote": "We just want to give you the chair. If you buy the house, we want to give you the chair.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This moment highlights the power of small gestures in creating goodwill during negotiations.",
+      "suggested_hook": "Discover how a simple gesture can transform your real estate negotiations."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Research the listing agent's experience in the area",
+      "context": "Before negotiating, understand the listing agent's familiarity with the market to tailor your approach.",
+      "timestamp": "07:20"
+    },
+    {
+      "tactic": "Highlight unique property features as leverage",
+      "context": "During showings, emphasize features that set your listing apart to strengthen your negotiation position.",
+      "timestamp": "09:46"
+    }
+  ],
+  "quotable_insights": [
+    "Agree on the easy stuff at the beginning to set the tone for a nice negotiation.",
+    "Understanding what drives your clients is key to successful negotiations."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and conversion."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares advanced negotiation strategies for real estate agents, emphasizing the importance of understanding client motivations and leveraging unique property features. She provides actionable tips on setting a positive negotiation tone and suggests direct communication between decision-makers to resolve conflicts effectively.",
+  "_metadata": {
+    "source_file": "2023-10-23_item208_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T21:29:39.343466",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

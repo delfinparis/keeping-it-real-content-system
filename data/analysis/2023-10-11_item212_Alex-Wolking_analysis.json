@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Alex Wolking",
+    "title": "Real Estate Broker",
+    "company": "Keller Williams One Chicago",
+    "production_level": "Top 1.5% agent in America",
+    "specialty": "Unique and historic homes",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Building a real estate business from scratch",
+    "Importance of community engagement",
+    "Leveraging agent referrals",
+    "Understanding and penetrating niche markets",
+    "Creative marketing strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Starting a real estate business in a new city",
+      "solution_summary": "Alex leveraged agent referrals and community engagement to build his business from scratch in Chicago.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a niche in a competitive market",
+      "solution_summary": "Alex identified underserved markets and became an expert in unique and historic homes.",
+      "timestamp": "32:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Alex's journey from starting over in a new city to becoming a top producer is inspiring for agents aiming to elevate their careers.",
+      "key_takeaway": "Focus on community engagement and identifying niche markets to differentiate yourself."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Alex's approach to building a business through open houses and community involvement.",
+      "key_takeaway": "Start by making connections and learning the market through open houses and local engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "35:00",
+      "end_timestamp": "36:00",
+      "quote": "I started telling people, I'm moving back to Chicago. And people were like, what? And I was like, I don't know, I'm gonna figure it out.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote captures the boldness and determination needed to succeed in real estate.",
+      "suggested_hook": "Ever thought about starting over in a new city? Here's how Alex Wolking did it."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify underserved markets",
+      "context": "Research areas with less competition and focus on becoming the go-to expert.",
+      "timestamp": "32:00"
+    },
+    {
+      "tactic": "Engage with the community",
+      "context": "Attend local events, join boards, and organize community activities to build relationships.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "If it's not hard, it's not worth having. You need to go network more."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "A tool for lead conversion and CRM management recommended for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Alex Wolking shares his journey of building a successful real estate business from scratch in Chicago after moving from the Quad Cities. He emphasizes the importance of community engagement, leveraging agent referrals, and identifying niche markets. Alex's story is a testament to the power of tenacity and creative marketing strategies in real estate.",
+  "_metadata": {
+    "source_file": "2023-10-11_item212_Alex-Wolking",
+    "analyzed_at": "2026-01-26T21:27:02.157109",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

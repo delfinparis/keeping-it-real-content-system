@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Sara DeWulf",
+    "title": "Licensed REALTOR",
+    "company": "Real",
+    "production_level": "Top 0.01% of agents in the United States",
+    "specialty": "High-volume individual agent",
+    "location": "Quad Cities, Illinois and Iowa"
+  },
+  "main_topics": [
+    "Navigating a down market",
+    "Building a real estate business",
+    "Importance of customer service",
+    "Leveraging Google reviews",
+    "Effective use of social media"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a down market",
+      "solution_summary": "Focus on expired listings by sending personalized mailers to generate 2-4 listings a year.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Use social media to stay connected and send personalized gifts like framed photos for life events.",
+      "timestamp": "29:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable brand",
+      "solution_summary": "Send out seasonal magnets and engage on social media to stay top of mind.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sara's success as a high-volume individual agent provides a roadmap for scaling production.",
+      "key_takeaway": "Focus on creating raving fans through exceptional customer service and consistent follow-up."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Sara's foundational strategies like leveraging social media and building a mailing list.",
+      "key_takeaway": "Start with building a strong network and focus on customer service to grow your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:00",
+      "end_timestamp": "14:00",
+      "quote": "Customer service is a lost art. If you do more than what the customer expects, you create raving fans.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of exceeding customer expectations in real estate.",
+      "suggested_hook": "Want to know the secret to creating raving fans in real estate?"
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "Expired listings are a goldmine. Sending a simple, personalized letter can turn them into new business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic for lead generation.",
+      "suggested_hook": "Looking for new leads? Here's a proven strategy that works!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send personalized letters to expired listings weekly.",
+      "context": "To generate new listings from homeowners who still want to sell.",
+      "timestamp": "24:00"
+    },
+    {
+      "tactic": "Use social media to maintain client relationships.",
+      "context": "Add clients on social media post-transaction to stay connected.",
+      "timestamp": "29:00"
+    },
+    {
+      "tactic": "Send personalized gifts for life events.",
+      "context": "Use social media to identify client milestones and send thoughtful gifts.",
+      "timestamp": "29:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you want something done, give it to a busy mother.",
+    "Without our health, we have nothing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Google My Business",
+      "context": "Essential for collecting reviews and improving local SEO."
+    }
+  ],
+  "episode_summary": "In this episode, Sara DeWulf shares her journey to becoming a top 0.01% REALTOR, emphasizing the importance of customer service and leveraging expired listings for lead generation. She provides actionable insights on maintaining client relationships through social media and personalized gifts, and highlights the significance of Google reviews for building a strong personal brand.",
+  "_metadata": {
+    "source_file": "2023-10-31_item205_Sara-DeWulf",
+    "analyzed_at": "2026-01-26T21:31:46.682370",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
