@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group at @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Lifestyle consulting in real estate",
+    "Negotiation strategies",
+    "Market reports for client engagement",
+    "Managing client expectations",
+    "The importance of understanding client personalities"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Clients hesitant to sell due to low locked-in interest rates",
+      "solution_summary": "Focus on lifestyle desires and future plans rather than just financial aspects.",
+      "timestamp": "03:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Ineffective negotiation tactics",
+      "solution_summary": "Research client personalities and motivations to tailor negotiation strategies.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Engaging clients during slow periods",
+      "solution_summary": "Send personalized market reports and follow up with offers for detailed CMAs.",
+      "timestamp": "27:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced negotiation strategies and client management techniques.",
+      "key_takeaway": "Understanding client motivations and personalities can significantly improve negotiation outcomes."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on maintaining client engagement during slow periods.",
+      "key_takeaway": "Regularly provide value through market insights to keep clients engaged."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Let's look at this negotiation as an opportunity to reach an agreement.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It reframes negotiations from a battle to a collaborative opportunity.",
+      "suggested_hook": "Are you approaching negotiations the wrong way?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Research client personalities through online profiles to tailor negotiation strategies.",
+      "context": "Before entering negotiations, understand both your client's and the opposing party's motivations.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Send personalized market reports via mail and follow up with email.",
+      "context": "Use this approach to engage clients and offer further personalized insights.",
+      "timestamp": "29:00"
+    }
+  ],
+  "quotable_insights": [
+    "We are a fiduciary to our clients, obligated to act in their best interest.",
+    "Understanding what moves your clients is key to successful negotiations."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the importance of viewing real estate agents as lifestyle consultants, focusing on client motivations beyond financial aspects. She shares advanced negotiation strategies, emphasizing the need to understand client personalities and motivations. Additionally, Carrie provides actionable tips for maintaining client engagement during slow periods through personalized market reports.",
+  "_metadata": {
+    "source_file": "2023-02-20_item274_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T20:46:48.732001",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

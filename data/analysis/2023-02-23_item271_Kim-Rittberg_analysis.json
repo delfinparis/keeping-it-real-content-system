@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Marketing and Media Specialist",
+    "company": "KimRittberg.com",
+    "production_level": "Award-winning digital content strategist",
+    "specialty": "Coaching real estate agents on video and social media content",
+    "location": "Brooklyn, New York"
+  },
+  "main_topics": [
+    "Video content strategies for real estate agents",
+    "Overcoming fear of being on camera",
+    "Creating engaging social media content",
+    "Building personal brand through video",
+    "Effective use of social media platforms"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents are hesitant to be on camera due to self-consciousness",
+      "solution_summary": "Kim suggests preparing your mindset, being authentic, and practicing to become comfortable on camera.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggle to generate leads through social media",
+      "solution_summary": "Develop a consistent video strategy focusing on educational and entertaining content to engage and attract potential clients.",
+      "timestamp": "09:03"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Creating video content seems time-consuming and costly",
+      "solution_summary": "Start with simple videos using your phone, focusing on authentic and valuable content rather than high production quality.",
+      "timestamp": "15:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents may feel intimidated by video content creation.",
+      "key_takeaway": "Start simple and focus on authenticity; your first videos don't need to be perfect."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents looking to expand their reach.",
+      "key_takeaway": "Use video to build and rekindle relationships, which can lead to more business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "You can grow your business with an iPhone. Not only can you today, that's better than the other stuff.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable insight that dispels a common myth about needing expensive equipment.",
+      "suggested_hook": "Think you need expensive gear for great video content? Think again!"
+    },
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "28:45",
+      "quote": "Get out of model mode... into teacher mode. Think about who you're helping and who you're serving.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on providing value rather than worrying about appearance.",
+      "suggested_hook": "Stop worrying about how you look on camera!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a hook in the first few seconds of your video",
+      "context": "To capture attention immediately and increase engagement.",
+      "timestamp": "35:46"
+    },
+    {
+      "tactic": "Batch film multiple videos at once",
+      "context": "To save time and maintain consistency in your content strategy.",
+      "timestamp": "56:51"
+    }
+  ],
+  "quotable_insights": [
+    "Video is the biggest growth tactic for marketing; invest in it to grow your business.",
+    "Your first 100 videos might be garbage, but that's how you learn and improve."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Ring light",
+      "context": "Recommended for improving lighting in video content."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares insights on how real estate agents can leverage video content to build their personal brand and generate leads. She provides actionable tips for overcoming the fear of being on camera and emphasizes the importance of authenticity and consistency in content creation. Kim also discusses the use of social media platforms to engage with potential clients effectively.",
+  "_metadata": {
+    "source_file": "2023-02-23_item271_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T20:48:38.334212",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

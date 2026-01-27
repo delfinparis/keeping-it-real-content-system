@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "Andres Bustamante",
+    "title": "Real Estate Agent",
+    "company": "Keller Williams, the Nino team",
+    "production_level": "$19M+ producer",
+    "specialty": "Leasing and residential sales",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Early career success in real estate",
+    "The value of leasing in real estate",
+    "Building a personal brand through social media",
+    "Mindset and discipline for success",
+    "Networking and client relationship management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding clients as a young agent",
+      "solution_summary": "Leverage leasing opportunities and social media to build a client base and gain referrals.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining motivation in a challenging market",
+      "solution_summary": "Focus on discipline and a structured morning routine rather than relying on motivation.",
+      "timestamp": "39:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing credibility as a young agent",
+      "solution_summary": "Share personal success stories and relatable content on social media to build trust and authority.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Andres shares his journey from starting as a leasing agent to achieving significant sales success.",
+      "key_takeaway": "Start with leasing to build experience and client relationships, and use social media to expand your reach."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Andres discusses strategies for scaling up sales and maintaining discipline.",
+      "key_takeaway": "Implement a disciplined routine and leverage networking to sustain growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "His first ever sale as a 21-year-old was for $1.1 million.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This moment highlights the potential for young agents to achieve big sales early in their careers.",
+      "suggested_hook": "Imagine closing a million-dollar deal at just 21!"
+    },
+    {
+      "timestamp": "48:00",
+      "end_timestamp": "48:45",
+      "quote": "Whenever you say 'I can't do this,' what you're essentially saying is, 'I'm not making this a priority.'",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges listeners to rethink their approach to obstacles.",
+      "suggested_hook": "Is it really that you can't, or just that you won't prioritize it?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use leasing as a gateway to sales.",
+      "context": "Start with leasing to build a client base and gain referrals for future sales.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Implement a structured morning routine.",
+      "context": "Follow a disciplined morning routine to set the tone for a productive day.",
+      "timestamp": "39:30"
+    },
+    {
+      "tactic": "Host educational meetups.",
+      "context": "Organize events to provide value and network with potential clients.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "Leasing is so underrated. It's a great way to start and build relationships.",
+    "We're storytellers. We have to know how to tell a story to connect with clients.",
+    "Motivation is fleeting; discipline is what keeps you going."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Miracle Morning",
+      "context": "Recommended for establishing a productive morning routine."
+    },
+    {
+      "type": "program",
+      "name": "75 Hard",
+      "context": "A discipline-building program involving daily tasks and workouts."
+    }
+  ],
+  "episode_summary": "In this episode, Andres Bustamante shares his journey from a college leasing agent to a successful REALTOR in Austin, Texas. He emphasizes the importance of leasing as a starting point, the power of social media for building a brand, and the role of discipline over motivation in achieving success. Andres also discusses his strategies for networking and client management, offering valuable insights for agents at all stages of their careers.",
+  "_metadata": {
+    "source_file": "2023-02-21_item273_Andres-Bustamante",
+    "analyzed_at": "2026-01-26T20:47:12.746028",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
