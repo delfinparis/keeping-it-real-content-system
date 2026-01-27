@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Casey Winshel Napolitano",
+    "title": "Real Estate Broker and Founder",
+    "company": "NDA Real Estate",
+    "production_level": "Hundreds of sales in Los Angeles",
+    "specialty": "Luxury real estate, short term rental expert",
+    "location": "Los Angeles, California"
+  },
+  "main_topics": [
+    "Building a real estate business from family legacy",
+    "Networking and lead generation strategies",
+    "Working with high-net-worth clients and celebrities",
+    "The importance of personal branding and social media",
+    "Starting and growing a real estate brokerage"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a competitive market",
+      "solution_summary": "Use handwritten notes, social media, and personal networking to stand out and generate leads.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a personal brand in real estate",
+      "solution_summary": "Leverage social media and personal interests to create a unique brand that resonates with potential clients.",
+      "timestamp": "40:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Building trust with high-profile clients",
+      "solution_summary": "Focus on privacy and personalized service to build trust with celebrity and high-net-worth clients.",
+      "timestamp": "38:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a successful real estate business from the ground up.",
+      "key_takeaway": "Networking, personal branding, and leveraging family legacy can significantly boost your real estate career."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Casey discusses strategies for growing a real estate brokerage and managing a team.",
+      "key_takeaway": "Creating a strong brand and supporting agents with leads can help grow a successful brokerage."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "We put about 20 handwritten letters in mailboxes... three people called me out of 20.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a unique, actionable tactic for lead generation.",
+      "suggested_hook": "Want to stand out in a competitive market? Try this old-school tactic."
+    },
+    {
+      "timestamp": "40:00",
+      "end_timestamp": "40:45",
+      "quote": "Come up with your own personal brand and run with it... it will get you clients.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to embrace their unique identity to attract clients.",
+      "suggested_hook": "Your personal brand is your biggest asset in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use handwritten notes for lead generation",
+      "context": "When looking to buy in a specific neighborhood with limited inventory.",
+      "timestamp": "18:00"
+    },
+    {
+      "tactic": "Leverage social media for personal branding",
+      "context": "Regularly post content that reflects your personal interests and professional expertise.",
+      "timestamp": "40:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you show them like they're your client, but you're also their friend, like you literally care about their well being, then they're going to stick with you forever."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "InShot",
+      "context": "Recommended for editing short form videos for social media."
+    }
+  ],
+  "episode_summary": "In this episode, Casey Napolitano shares her journey from a real estate family legacy to founding her own luxury real estate brokerage. She discusses unique lead generation tactics, the importance of personal branding, and how to build trust with high-net-worth clients. Casey also provides insights into growing a successful real estate business and the power of networking and social media.",
+  "_metadata": {
+    "source_file": "2023-04-17_item258_Casey-Napolitano",
+    "analyzed_at": "2026-01-26T20:57:29.406352",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

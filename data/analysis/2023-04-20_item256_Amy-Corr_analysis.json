@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Amy Corr",
+    "title": "Managing Broker and Coach",
+    "company": "At Properties, Christie's International Real Estate",
+    "production_level": "Top Producer",
+    "specialty": "Agent Development and Coaching",
+    "location": "Chicago, IL"
+  },
+  "main_topics": [
+    "Agent Recruitment and Retention",
+    "Team Building and Management",
+    "Creating Raving Fans",
+    "Emotional Intelligence in Real Estate",
+    "Branding and Marketing Strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to generate leads without directly asking for business",
+      "solution_summary": "Focus on providing value and being a connector in your community to naturally attract business.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling client emotions during transactions",
+      "solution_summary": "Prepare for emotional reactions by using techniques like the accusation audit to soften bad news.",
+      "timestamp": "46:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand that resonates",
+      "solution_summary": "Incorporate personal passions into your real estate practice to attract like-minded clients.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a successful real estate career through authentic branding and client management.",
+      "key_takeaway": "Focus on authenticity and providing value to create a sustainable and successful real estate business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies for effectively building and managing a real estate team.",
+      "key_takeaway": "Identify your strengths and delegate tasks to build a cohesive and efficient team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "Focus on the give. What can I give to them today that's going to change their life?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the traditional sales approach by emphasizing value over direct selling.",
+      "suggested_hook": "Want to generate more leads without asking for business? Here's how."
+    },
+    {
+      "timestamp": "46:00",
+      "end_timestamp": "47:00",
+      "quote": "Use the accusation audit to prepare clients for bad news.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific technique for managing client emotions during transactions.",
+      "suggested_hook": "Delivering bad news to clients? Try this technique."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to identify opportunities to connect and provide value.",
+      "context": "Monitor your network's needs and offer solutions, like connecting them with service providers.",
+      "timestamp": "24:00"
+    },
+    {
+      "tactic": "Conduct an accusation audit before delivering bad news.",
+      "context": "Prepare clients emotionally by setting expectations for disappointing news.",
+      "timestamp": "46:00"
+    }
+  ],
+  "quotable_insights": [
+    "The best agents are super connectors who focus on the give.",
+    "Authenticity in your brand will attract the right clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Never Split the Difference",
+      "context": "Recommended for learning negotiation techniques applicable to real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Amy Corr shares insights on building a successful real estate career through authentic branding, effective team management, and emotional intelligence. She emphasizes the importance of providing value and being a connector in your community to naturally attract business. Amy also offers practical techniques for managing client emotions during transactions.",
+  "_metadata": {
+    "source_file": "2023-04-20_item256_Amy-Corr",
+    "analyzed_at": "2026-01-26T20:58:43.106002",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
