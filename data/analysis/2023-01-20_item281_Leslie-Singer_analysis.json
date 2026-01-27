@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Leslie Singer",
+    "title": "Award-winning Broker",
+    "company": "Brown Harris Stevens",
+    "production_level": "Top 1% Producer",
+    "specialty": "Real Estate in New York City",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Client Attraction Strategies",
+    "Importance of Mentorship",
+    "Creative Marketing in Real Estate",
+    "Navigating Market Cycles",
+    "Social Media Engagement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Attracting clients as a new agent",
+      "solution_summary": "Leslie suggests leveraging a strong mentor, using direct mail marketing, and networking through friends to build a client base.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating market cycles and economic downturns",
+      "solution_summary": "Leslie advises understanding market advantages, such as negotiating opportunities during slower periods, and the concept of 'date the rate, marry the home'.",
+      "timestamp": "49:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand in a competitive market",
+      "solution_summary": "Leslie emphasizes the importance of authenticity and leveraging personal strengths, such as her marketing background, to differentiate herself.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode provides strategies for new agents to build their client base and find mentorship.",
+      "key_takeaway": "Start by leveraging your personal network and seek out a mentor to guide your early career."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Leslie shares insights on maintaining high production levels through creative marketing and client management.",
+      "key_takeaway": "Focus on creative marketing and understanding client needs to sustain high production levels."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:00",
+      "end_timestamp": "14:00",
+      "quote": "I went to 10 of my really good friends and asked each of them for 10 names of people I could contact.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical and actionable networking strategy for new agents.",
+      "suggested_hook": "Struggling to build your client base? Here's a simple networking hack!"
+    },
+    {
+      "timestamp": "49:00",
+      "end_timestamp": "50:00",
+      "quote": "Date the rate, marry the home.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Offers a memorable perspective on managing interest rate concerns.",
+      "suggested_hook": "Worried about interest rates? Here's a new way to think about it."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Direct mail marketing to local buildings",
+      "context": "Use direct mail to establish brand presence in new developments.",
+      "timestamp": "14:30"
+    },
+    {
+      "tactic": "Hosting educational seminars",
+      "context": "Provide value to the community by hosting seminars on relevant topics like school systems.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "Every deal has a moment, and you have to be prepared to navigate it.",
+    "You can't want the deal more than your client does."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Leslie Singer shares her journey from a marketing executive to a top real estate broker in New York City. She provides actionable strategies for client attraction, emphasizes the importance of mentorship, and discusses how to navigate market cycles. Leslie also highlights the role of creative marketing and social media in building a successful real estate career.",
+  "_metadata": {
+    "source_file": "2023-01-20_item281_Leslie-Singer",
+    "analyzed_at": "2026-01-26T20:41:25.097959",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Steve Shull",
+    "title": "Real Estate Coach and Author",
+    "company": "Performance Coaching",
+    "production_level": "Coaches top producers, some over $750M",
+    "specialty": "Real Estate Coaching",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Building a Repeat and Referral Business",
+    "Mindset and Time Management",
+    "Tactical Empathy in Real Estate",
+    "Determining if You're the Favorite or the Fool",
+    "Challenges in the 2023 Real Estate Market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents struggling with market uncertainty",
+      "solution_summary": "Focus on daily activities you can control and maintain a mindset of harmony.",
+      "timestamp": "14:49"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling unrealistic seller expectations",
+      "solution_summary": "Use tactical empathy to make clients feel understood and ask reality-based questions.",
+      "timestamp": "50:02"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Ineffective listing presentations",
+      "solution_summary": "Determine if you're the favorite or the fool before going on appointments.",
+      "timestamp": "1:15:07"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to build a sustainable business through repeat and referral clients.",
+      "key_takeaway": "Focus on building relationships and understanding client needs rather than just closing deals."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers a fresh perspective on managing stress and workload by focusing on what can be controlled.",
+      "key_takeaway": "Shift from a transactional to a relational approach to reduce stress and increase client loyalty."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "50:02",
+      "end_timestamp": "51:00",
+      "quote": "What if we do everything possible to attract the best qualified buyer for your home, and that buyer is not willing to pay you what you think your home is worth?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a direct, actionable question to gauge seller expectations.",
+      "suggested_hook": "How to handle unrealistic seller expectations with one powerful question."
+    },
+    {
+      "timestamp": "1:15:07",
+      "end_timestamp": "1:16:17",
+      "quote": "You win or lose business based on whether you're the favorite or the fool.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional wisdom of focusing solely on presentation skills.",
+      "suggested_hook": "Why your real estate presentation might not matter as much as you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call every contact in your CRM every 90 days.",
+      "context": "To build and maintain strong relationships with your clients.",
+      "timestamp": "34:16"
+    },
+    {
+      "tactic": "Use tactical empathy to make clients feel understood.",
+      "context": "When dealing with clients' emotional decisions in real estate transactions.",
+      "timestamp": "44:03"
+    },
+    {
+      "tactic": "Determine if you're the favorite or the fool before listing appointments.",
+      "context": "To avoid wasting time on presentations where you have little chance of success.",
+      "timestamp": "1:15:07"
+    }
+  ],
+  "quotable_insights": [
+    "Every deal you do is a miracle, and every single deal comes from left field.",
+    "World records don't get broken when you're ready; they get broken when the day is ready."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Full Fee Agent",
+      "context": "Steve's book co-authored with Chris Voss, offering strategies for maintaining full commission."
+    },
+    {
+      "type": "book",
+      "name": "Never Split the Difference",
+      "context": "Chris Voss's book on negotiation, which influenced Steve's coaching approach."
+    },
+    {
+      "type": "website",
+      "name": "performancecoaching.com",
+      "context": "Steve Shull's coaching website for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Steve Shull shares insights on building a sustainable real estate business through repeat and referral clients. He emphasizes the importance of tactical empathy, understanding client needs, and determining whether you're the favorite or the fool before listing appointments. Steve provides actionable strategies for managing client expectations and navigating the challenges of the 2023 real estate market.",
+  "_metadata": {
+    "source_file": "2023-01-12_item283_Steve-Shull",
+    "analyzed_at": "2026-01-26T20:39:29.640984",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

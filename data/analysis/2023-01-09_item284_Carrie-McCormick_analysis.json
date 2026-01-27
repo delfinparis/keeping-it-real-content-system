@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "Top 1% producer, ranked number 13 in production in Chicago",
+    "specialty": "First-time home buyers, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Authenticity and kindness in real estate",
+    "Market outlook for 2023",
+    "Using Zestimates for client engagement",
+    "Importance of personal branding",
+    "Effective client communication strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to be authentic in your personal brand",
+      "solution_summary": "Be your own brand ambassador and stay true to your authentic self to connect better with clients.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Clients relying on inaccurate Zestimates",
+      "solution_summary": "Reach out to clients to provide a professional valuation and educate them about Zestimates.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Perception that kindness is a weakness in business",
+      "solution_summary": "Authentic kindness opens doors and builds strong relationships, which are crucial in real estate.",
+      "timestamp": "07:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Carrie's insights on authenticity and kindness provide a roadmap for building a successful real estate career.",
+      "key_takeaway": "Being genuine and kind in your interactions can significantly enhance your business success."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode offers strategies for leveraging market tools like Zestimates to engage clients.",
+      "key_takeaway": "Use Zestimates as a conversation starter to provide value and demonstrate expertise."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:00",
+      "end_timestamp": "04:45",
+      "quote": "Being authentic and leading with kindness is going to be your plan for 2023.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that business success requires aggressive tactics.",
+      "suggested_hook": "Want to know the secret to a successful 2023 in real estate?"
+    },
+    {
+      "timestamp": "12:00",
+      "end_timestamp": "12:45",
+      "quote": "I would reach out to everybody you know that owns a home in early 2023 and say, 'Hey, I was just browsing around on Zillow and I noticed the Zestimate for your home is X.'",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic for client engagement.",
+      "suggested_hook": "Here's a simple strategy to engage your clients in 2023."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Zestimates as a conversation starter with clients.",
+      "context": "Reach out to clients with a Zestimate and offer a professional valuation.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Pick up the phone and call clients instead of relying on texts.",
+      "context": "Use phone calls to provide personalized service and build stronger relationships.",
+      "timestamp": "16:00"
+    }
+  ],
+  "quotable_insights": [
+    "Authenticity and kindness are not just buzzwords; they're the foundation of a successful real estate career.",
+    "Nice guys don't finish last; authentic kindness opens doors and builds lasting relationships."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Slide Dial",
+      "context": "Used for leaving voicemail messages directly without ringing the phone."
+    },
+    {
+      "type": "tool",
+      "name": "Zillow",
+      "context": "Discussed in the context of using Zestimates for client engagement."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick emphasizes the importance of authenticity and kindness in building a successful real estate career. She discusses strategies for engaging clients using Zestimates and highlights the value of personal branding. The episode offers actionable insights for REALTORS looking to enhance their client relationships and navigate the challenges of the 2023 market.",
+  "_metadata": {
+    "source_file": "2023-01-09_item284_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T20:38:36.429641",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

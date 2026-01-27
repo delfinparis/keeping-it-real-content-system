@@ -1,0 +1,73 @@
+{
+  "guest_info": {
+    "name": "Donald Hyun Kiolbassa",
+    "title": "Real Estate Attorney and CPA",
+    "company": "Not specified",
+    "production_level": "Managed over 8,000 transactions",
+    "specialty": "Real Estate Law and Estate Planning",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "The importance of side hustles in the current economy",
+    "Real estate as a key component of wealth",
+    "Navigating the 2023 real estate market",
+    "The role of REALTORS in providing value",
+    "Long-term care insurance and its impact on generational wealth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a high-interest rate environment in 2023",
+      "solution_summary": "Focus on understanding client needs and educate them about the benefits of buying in a less competitive market despite higher rates.",
+      "timestamp": "25:58"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Preserving generational wealth amidst rising long-term care costs",
+      "solution_summary": "Ensure elderly family members have long-term care insurance to protect family assets.",
+      "timestamp": "39:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to thrive in a challenging market by focusing on client needs and market education.",
+      "key_takeaway": "In a high-interest environment, educate clients on the benefits of buying now to avoid future competition."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "25:58",
+      "end_timestamp": "27:09",
+      "quote": "When the competition comes flooding in, it's going to be a big wave. People get priced out.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights a strategic insight about market timing that can be crucial for REALTORS.",
+      "suggested_hook": "Why waiting for lower interest rates might cost you more in the long run."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Educate clients on the benefits of buying in a high-interest market to avoid future competition.",
+      "context": "Use this approach to help clients understand the long-term benefits of purchasing now rather than waiting.",
+      "timestamp": "25:58"
+    }
+  ],
+  "quotable_insights": [
+    "The purpose of a side hustle is not always to scale, but to provide additional income and security.",
+    "Real estate is a key component of the American family's wealth ecosystem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Tao of the Side Hustle",
+      "context": "Recommended for those looking to start or stabilize a side hustle in the current economy."
+    }
+  ],
+  "episode_summary": "In this episode, Donald Hyun Kiolbassa discusses the importance of side hustles and real estate in building wealth, especially in a challenging market. He provides actionable insights for REALTORS to navigate the 2023 market by focusing on client education and understanding the benefits of buying in a high-interest environment. Additionally, the episode highlights the critical role of long-term care insurance in preserving generational wealth.",
+  "_metadata": {
+    "source_file": "2023-01-17_item282_Donald-Hyun-Kiolbassa",
+    "analyzed_at": "2026-01-26T20:40:16.740931",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
