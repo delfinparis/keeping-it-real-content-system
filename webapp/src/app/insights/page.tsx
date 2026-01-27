@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import allAnalysis from "@/data/all_analysis.json";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 interface AnalysisData {
   guest_info?: {
@@ -137,17 +139,11 @@ export default function InsightsPage() {
   const insights = calculateInsights();
 
   return (
-    <main className="min-h-screen bg-gray-50">
-      {/* Header */}
+    <main className="min-h-screen bg-gray-50 flex flex-col">
+      <Header />
+      {/* Page Header */}
       <div className="bg-gradient-kale text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <Link
-            href="/"
-            className="text-blue-200 hover:text-white mb-4 flex items-center space-x-1 transition text-sm"
-          >
-            <span>←</span>
-            <span>Back to Search</span>
-          </Link>
           <h1 className="text-4xl font-bold mb-2">Podcast Insights</h1>
           <p className="text-blue-100 text-lg">
             Analytics from {insights.totalEpisodes} analyzed episodes
@@ -155,7 +151,7 @@ export default function InsightsPage() {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1">
         {/* Key Stats */}
         <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-12">
           <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
@@ -310,6 +306,8 @@ export default function InsightsPage() {
           </Link>
         </div>
       </div>
+
+      <Footer />
     </main>
   );
 }

@@ -4,6 +4,8 @@ import { useState } from "react";
 import Link from "next/link";
 import { PROBLEM_CATEGORIES, AVATARS } from "@/lib/types";
 import ProblemWizard from "@/components/ProblemWizard";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 interface KeyMoment {
   timestamp: string;
@@ -46,6 +48,7 @@ export default function Home() {
   const [challenge, setChallenge] = useState("");
   const [recommendations, setRecommendations] = useState<RecommendationResponse | null>(null);
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const [copied, setCopied] = useState<string | null>(null);
   const [wizardSelections, setWizardSelections] = useState<WizardSelection | null>(null);
 
@@ -54,17 +57,22 @@ export default function Home() {
     if (!query.trim()) return;
 
     setLoading(true);
+    setError(null);
     try {
       const res = await fetch("/api/recommend", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ challenge: query }),
       });
+      if (!res.ok) {
+        throw new Error("Failed to get recommendations");
+      }
       const data = await res.json();
       setRecommendations(data);
       setMode("search"); // Switch to results view
-    } catch (error) {
-      console.error("Error:", error);
+    } catch (err) {
+      console.error("Error:", err);
+      setError("Something went wrong. Please try again.");
     } finally {
       setLoading(false);
     }
@@ -80,6 +88,7 @@ export default function Home() {
     setRecommendations(null);
     setChallenge("");
     setWizardSelections(null);
+    setError(null);
     setMode("wizard");
   };
 
@@ -99,15 +108,130 @@ export default function Home() {
     setTimeout(() => setCopied(null), 2000);
   };
 
-  // Show loading state
+  // Show loading state with skeleton
   if (loading) {
     return (
-      <main className="min-h-screen bg-gradient-kale flex items-center justify-center">
-        <div className="text-center text-white">
-          <div className="w-20 h-20 border-4 border-white border-t-transparent rounded-full animate-spin mx-auto mb-6"></div>
-          <h2 className="text-2xl font-bold mb-2">Finding the perfect episodes...</h2>
-          <p className="text-gray-300">Analyzing 700+ episodes to match this challenge</p>
+      <main className="min-h-screen bg-gray-50">
+        <Header />
+        {/* Header */}
+        <div className="bg-gradient-kale text-white py-8">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <button
+              onClick={startOver}
+              className="text-blue-200 hover:text-white mb-4 flex items-center space-x-1 transition"
+            >
+              <span>←</span>
+              <span>Cancel Search</span>
+            </button>
+            <h1 className="text-3xl font-bold">Finding the Perfect Episodes...</h1>
+            <p className="text-blue-200 mt-2">Analyzing 700+ episodes to match your challenge</p>
+          </div>
         </div>
+
+        {/* Skeleton Results */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          <div className="flex items-center justify-center mb-8">
+            <div className="w-12 h-12 border-4 border-kale border-t-transparent rounded-full animate-spin"></div>
+          </div>
+          <div className="space-y-6">
+            {[1, 2, 3].map((i) => (
+              <div key={i} className="bg-white rounded-xl shadow-lg border border-gray-200 overflow-hidden animate-pulse">
+                <div className="bg-gray-100 px-6 py-4 border-b border-gray-200">
+                  <div className="flex justify-between items-center">
+                    <div className="flex items-center space-x-4">
+                      <div className="bg-gray-300 w-10 h-10 rounded-full"></div>
+                      <div>
+                        <div className="h-5 bg-gray-300 rounded w-48 mb-2"></div>
+                        <div className="h-3 bg-gray-200 rounded w-32"></div>
+                      </div>
+                    </div>
+                    <div className="h-6 bg-gray-200 rounded-full w-24"></div>
+                  </div>
+                </div>
+                <div className="p-6 space-y-4">
+                  <div className="h-4 bg-gray-200 rounded w-full"></div>
+                  <div className="h-4 bg-gray-200 rounded w-5/6"></div>
+                  <div className="h-4 bg-gray-200 rounded w-4/6"></div>
+                  <div className="h-20 bg-gray-100 rounded-lg mt-4"></div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+        <Footer />
+      </main>
+    );
+  }
+
+  // Show error state
+  if (error) {
+    return (
+      <main className="min-h-screen bg-gray-50">
+        <Header />
+        <div className="max-w-2xl mx-auto px-4 py-20 text-center">
+          <div className="bg-white rounded-2xl shadow-lg p-8 border border-gray-200">
+            <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-8 h-8 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+              </svg>
+            </div>
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">Oops, something went wrong</h2>
+            <p className="text-gray-600 mb-6">{error}</p>
+            <div className="flex flex-col sm:flex-row gap-3 justify-center">
+              <button
+                onClick={() => getRecommendations()}
+                className="btn-primary"
+              >
+                Try Again
+              </button>
+              <button
+                onClick={startOver}
+                className="btn-secondary"
+              >
+                Start Over
+              </button>
+            </div>
+          </div>
+        </div>
+        <Footer />
+      </main>
+    );
+  }
+
+  // Show empty results
+  if (recommendations && recommendations.recommendations?.length === 0) {
+    return (
+      <main className="min-h-screen bg-gray-50">
+        <Header />
+        <div className="max-w-2xl mx-auto px-4 py-20 text-center">
+          <div className="bg-white rounded-2xl shadow-lg p-8 border border-gray-200">
+            <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-8 h-8 text-kale" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+              </svg>
+            </div>
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">No exact matches found</h2>
+            <p className="text-gray-600 mb-6">
+              We couldn't find episodes that closely match your specific challenge.
+              Try broadening your search or browse our categories.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-3 justify-center">
+              <button
+                onClick={startOver}
+                className="btn-primary"
+              >
+                Try Different Search
+              </button>
+              <button
+                onClick={() => { startOver(); setMode("browse"); }}
+                className="btn-secondary"
+              >
+                Browse Categories
+              </button>
+            </div>
+          </div>
+        </div>
+        <Footer />
       </main>
     );
   }
@@ -115,8 +239,9 @@ export default function Home() {
   // Show recommendations
   if (recommendations && recommendations.recommendations?.length > 0) {
     return (
-      <main className="min-h-screen bg-gray-50">
-        {/* Header */}
+      <main className="min-h-screen bg-gray-50 flex flex-col">
+        <Header />
+        {/* Page Header */}
         <div className="bg-gradient-kale text-white py-8">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <button
@@ -132,49 +257,51 @@ export default function Home() {
         </div>
 
         {/* Results */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="flex justify-between items-center mb-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1">
+          <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4 mb-6">
             <h2 className="text-xl font-bold text-gray-900">
               Top {recommendations.recommendations.length} Episodes
             </h2>
-            <button
-              onClick={copyAllLinks}
-              className="bg-kale text-white px-6 py-3 rounded-lg font-medium hover:bg-kale-light transition flex items-center space-x-2"
-            >
-              {copied === "all" ? (
-                <>
-                  <span>✓</span>
-                  <span>Copied!</span>
-                </>
-              ) : (
-                <>
-                  <span>📋</span>
-                  <span>Copy All Links</span>
-                </>
-              )}
-            </button>
-            <button
-              onClick={async () => {
-                const episodeIds = recommendations.recommendations.map((r) => r.episode_id).join(",");
-                const shareUrl = `${window.location.origin}/share?episodes=${episodeIds}&challenge=${encodeURIComponent(challenge)}`;
-                await navigator.clipboard.writeText(shareUrl);
-                setCopied("share-link");
-                setTimeout(() => setCopied(null), 2000);
-              }}
-              className="bg-gray-100 text-gray-700 px-6 py-3 rounded-lg font-medium hover:bg-gray-200 transition flex items-center space-x-2"
-            >
-              {copied === "share-link" ? (
-                <>
-                  <span>✓</span>
-                  <span>Link Copied!</span>
-                </>
-              ) : (
-                <>
-                  <span>🔗</span>
-                  <span>Share Results</span>
-                </>
-              )}
-            </button>
+            <div className="flex flex-wrap gap-2">
+              <button
+                onClick={copyAllLinks}
+                className="bg-kale text-white px-4 py-2 sm:px-6 sm:py-3 rounded-lg font-medium hover:bg-kale-light transition flex items-center space-x-2 text-sm sm:text-base"
+              >
+                {copied === "all" ? (
+                  <>
+                    <span>✓</span>
+                    <span>Copied!</span>
+                  </>
+                ) : (
+                  <>
+                    <span>📋</span>
+                    <span>Copy All</span>
+                  </>
+                )}
+              </button>
+              <button
+                onClick={async () => {
+                  const episodeIds = recommendations.recommendations.map((r) => r.episode_id).join(",");
+                  const shareUrl = `${window.location.origin}/share?episodes=${episodeIds}&challenge=${encodeURIComponent(challenge)}`;
+                  await navigator.clipboard.writeText(shareUrl);
+                  setCopied("share-link");
+                  setTimeout(() => setCopied(null), 2000);
+                }}
+                className="bg-gray-100 text-gray-700 px-4 py-2 sm:px-6 sm:py-3 rounded-lg font-medium hover:bg-gray-200 transition flex items-center space-x-2 text-sm sm:text-base"
+              >
+                {copied === "share-link" ? (
+                  <>
+                    <span>✓</span>
+                    <span>Link Copied!</span>
+                  </>
+                ) : (
+                  <>
+                    <span>🔗</span>
+                    <span>Share</span>
+                  </>
+                )}
+              </button>
+            </div>
           </div>
 
           <div className="space-y-6">
@@ -290,10 +417,37 @@ export default function Home() {
             ))}
           </div>
 
-          {/* Message Template */}
-          <div className="mt-8 bg-white rounded-xl shadow-lg border border-gray-200 p-6">
-            <h3 className="font-bold text-lg text-gray-900 mb-4">📧 Quick Message Template</h3>
-            <div className="bg-gray-50 rounded-lg p-4 font-mono text-sm text-gray-700 whitespace-pre-wrap">
+          {/* Message Template - More Prominent */}
+          <div className="mt-8 bg-gradient-to-r from-kale to-kale-light rounded-2xl shadow-lg p-6 text-white">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-4">
+              <div>
+                <h3 className="font-bold text-lg">Ready to share with your agent?</h3>
+                <p className="text-blue-200 text-sm">Copy a pre-formatted message with all recommendations</p>
+              </div>
+              <button
+                onClick={async () => {
+                  const template = `Hey! Based on what you told me about your challenges, I found some episodes from my podcast that directly address this:\n\n${recommendations.recommendations.map((r, i) => `${i + 1}. ${r.guest_name} - ${r.why_relevant}\n   Listen here: ${r.episode_url}\n   Jump to: ${r.key_moments?.[0]?.timestamp || 'Start'} for the key insight`).join('\n\n')}\n\nLet me know what you think after listening!`;
+                  await navigator.clipboard.writeText(template);
+                  setCopied("template");
+                  setTimeout(() => setCopied(null), 2000);
+                }}
+                className={`px-6 py-3 rounded-lg font-medium transition whitespace-nowrap ${
+                  copied === "template"
+                    ? "bg-green-500 text-white"
+                    : "bg-white text-kale hover:bg-gray-100"
+                }`}
+              >
+                {copied === "template" ? "✓ Copied!" : "📧 Copy Message Template"}
+              </button>
+            </div>
+            <details className="group">
+              <summary className="cursor-pointer text-blue-200 text-sm hover:text-white transition flex items-center gap-2">
+                <span>Preview message</span>
+                <svg className="w-4 h-4 transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </summary>
+              <div className="mt-4 bg-white/10 rounded-lg p-4 font-mono text-sm text-blue-100 whitespace-pre-wrap backdrop-blur-sm">
 {`Hey! Based on what you told me about your challenges, I found some episodes from my podcast that directly address this:
 
 ${recommendations.recommendations.map((r, i) => `${i + 1}. ${r.guest_name} - ${r.why_relevant}
@@ -301,41 +455,20 @@ ${recommendations.recommendations.map((r, i) => `${i + 1}. ${r.guest_name} - ${r
    Jump to: ${r.key_moments?.[0]?.timestamp || 'Start'} for the key insight`).join('\n\n')}
 
 Let me know what you think after listening!`}
-            </div>
-            <button
-              onClick={async () => {
-                const template = `Hey! Based on what you told me about your challenges, I found some episodes from my podcast that directly address this:\n\n${recommendations.recommendations.map((r, i) => `${i + 1}. ${r.guest_name} - ${r.why_relevant}\n   Listen here: ${r.episode_url}\n   Jump to: ${r.key_moments?.[0]?.timestamp || 'Start'} for the key insight`).join('\n\n')}\n\nLet me know what you think after listening!`;
-                await navigator.clipboard.writeText(template);
-                setCopied("template");
-                setTimeout(() => setCopied(null), 2000);
-              }}
-              className={`mt-4 px-6 py-3 rounded-lg font-medium transition ${
-                copied === "template"
-                  ? "bg-green-600 text-white"
-                  : "bg-kale text-white hover:bg-kale-light"
-              }`}
-            >
-              {copied === "template" ? "✓ Copied Template!" : "📋 Copy Full Message"}
-            </button>
+              </div>
+            </details>
           </div>
         </div>
 
-        {/* Footer */}
-        <footer className="bg-white border-t border-gray-200 mt-12">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            <div className="text-center text-gray-500 text-sm">
-              <p>Keeping It Real Podcast by D.J. Paris</p>
-              <p className="mt-1">VP of Business Development at Kale Realty, Chicago</p>
-            </div>
-          </div>
-        </footer>
+        <Footer />
       </main>
     );
   }
 
   // Show wizard or browse mode
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen flex flex-col">
+      <Header />
       {/* Hero Section */}
       <div className="bg-gradient-kale text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -346,44 +479,47 @@ Let me know what you think after listening!`}
             700+ episodes of top producer wisdom. Let's find exactly what your agent needs.
           </p>
 
-          {/* Mode Toggle */}
-          <div className="flex justify-center space-x-2 mb-8">
+          {/* Mode Toggle - Mobile Optimized */}
+          <div className="flex flex-col sm:flex-row justify-center gap-2 sm:space-x-2 mb-8">
             <button
               onClick={() => setMode("wizard")}
-              className={`px-6 py-3 rounded-lg font-medium transition ${
+              className={`px-5 py-3 rounded-lg font-medium transition flex items-center justify-center gap-2 ${
                 mode === "wizard"
-                  ? "bg-white text-kale"
-                  : "bg-blue-700 text-white hover:bg-kale"
+                  ? "bg-white text-kale shadow-lg"
+                  : "bg-white/10 text-white hover:bg-white/20"
               }`}
             >
-              🎯 Guided Search
+              <span>🎯</span>
+              <span>Guided Search</span>
             </button>
             <button
               onClick={() => setMode("search")}
-              className={`px-6 py-3 rounded-lg font-medium transition ${
+              className={`px-5 py-3 rounded-lg font-medium transition flex items-center justify-center gap-2 ${
                 mode === "search"
-                  ? "bg-white text-kale"
-                  : "bg-blue-700 text-white hover:bg-kale"
+                  ? "bg-white text-kale shadow-lg"
+                  : "bg-white/10 text-white hover:bg-white/20"
               }`}
             >
-              ✍️ Describe Directly
+              <span>✍️</span>
+              <span>Describe Directly</span>
             </button>
             <button
               onClick={() => setMode("browse")}
-              className={`px-6 py-3 rounded-lg font-medium transition ${
+              className={`px-5 py-3 rounded-lg font-medium transition flex items-center justify-center gap-2 ${
                 mode === "browse"
-                  ? "bg-white text-kale"
-                  : "bg-blue-700 text-white hover:bg-kale"
+                  ? "bg-white text-kale shadow-lg"
+                  : "bg-white/10 text-white hover:bg-white/20"
               }`}
             >
-              📂 Browse Categories
+              <span>📂</span>
+              <span>Browse Categories</span>
             </button>
           </div>
         </div>
       </div>
 
       {/* Content Area */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 flex-1">
         {/* Wizard Mode */}
         {mode === "wizard" && (
           <ProblemWizard
@@ -489,42 +625,35 @@ Let me know what you think after listening!`}
       </div>
 
       {/* Stats Section */}
-      <div className="bg-gray-900 text-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-8 text-center">
-            <div>
-              <div className="text-4xl font-bold text-white">8M+</div>
-              <div className="text-gray-400 mt-1">Downloads</div>
+      <div className="bg-gray-50 border-y border-gray-200">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <p className="text-center text-gray-500 text-sm uppercase tracking-wider mb-8">Trusted by real estate professionals worldwide</p>
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-6 text-center">
+            <div className="p-4">
+              <div className="text-3xl md:text-4xl font-bold text-kale">8M+</div>
+              <div className="text-gray-500 mt-1 text-sm">Downloads</div>
             </div>
-            <div>
-              <div className="text-4xl font-bold text-white">700+</div>
-              <div className="text-gray-400 mt-1">Episodes</div>
+            <div className="p-4">
+              <div className="text-3xl md:text-4xl font-bold text-kale">700+</div>
+              <div className="text-gray-500 mt-1 text-sm">Episodes</div>
             </div>
-            <div>
-              <div className="text-4xl font-bold text-white">7</div>
-              <div className="text-gray-400 mt-1">Years</div>
+            <div className="p-4">
+              <div className="text-3xl md:text-4xl font-bold text-kale">7</div>
+              <div className="text-gray-500 mt-1 text-sm">Years Running</div>
             </div>
-            <div>
-              <div className="text-4xl font-bold text-white">500+</div>
-              <div className="text-gray-400 mt-1">Top Producers</div>
+            <div className="p-4">
+              <div className="text-3xl md:text-4xl font-bold text-kale">500+</div>
+              <div className="text-gray-500 mt-1 text-sm">Top Producers</div>
             </div>
-            <div>
-              <div className="text-4xl font-bold text-white">389</div>
-              <div className="text-gray-400 mt-1">Problems Solved</div>
+            <div className="p-4 col-span-2 md:col-span-1">
+              <div className="text-3xl md:text-4xl font-bold text-kale">287</div>
+              <div className="text-gray-500 mt-1 text-sm">Episodes Analyzed</div>
             </div>
           </div>
         </div>
       </div>
 
-      {/* Footer */}
-      <footer className="bg-white border-t border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="text-center text-gray-500 text-sm">
-            <p>Keeping It Real Podcast by D.J. Paris</p>
-            <p className="mt-1">VP of Business Development at Kale Realty, Chicago</p>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </main>
   );
 }

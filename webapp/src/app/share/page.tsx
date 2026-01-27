@@ -5,6 +5,8 @@ import { Suspense, useState } from "react";
 import Link from "next/link";
 import allAnalysis from "@/data/all_analysis.json";
 import episodesData from "@/data/episodes.json";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 const episodes = episodesData.episodes;
 
@@ -68,21 +70,30 @@ function ShareContent() {
 
   if (recommendations.length === 0) {
     return (
-      <main className="min-h-screen bg-gray-50 flex items-center justify-center">
-        <div className="text-center p-8">
-          <h1 className="text-2xl font-bold text-gray-900 mb-4">
-            No recommendations found
-          </h1>
-          <p className="text-gray-600 mb-6">
-            This link may be invalid or the episodes may have been removed.
-          </p>
-          <Link
-            href="/"
-            className="bg-kale text-white px-6 py-3 rounded-lg font-medium hover:bg-kale-light transition"
-          >
-            Find Your Own Recommendations
-          </Link>
+      <main className="min-h-screen bg-gray-50 flex flex-col">
+        <Header />
+        <div className="flex-1 flex items-center justify-center">
+          <div className="text-center p-8">
+            <div className="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-8 h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <h1 className="text-2xl font-bold text-gray-900 mb-4">
+              No recommendations found
+            </h1>
+            <p className="text-gray-600 mb-6">
+              This link may be invalid or the episodes may have been removed.
+            </p>
+            <Link
+              href="/"
+              className="bg-kale text-white px-6 py-3 rounded-lg font-medium hover:bg-kale-light transition inline-block"
+            >
+              Find Your Own Recommendations
+            </Link>
+          </div>
         </div>
+        <Footer />
       </main>
     );
   }
@@ -90,8 +101,9 @@ function ShareContent() {
   const shareUrl = typeof window !== "undefined" ? window.location.href : "";
 
   return (
-    <main className="min-h-screen bg-gray-50">
-      {/* Header */}
+    <main className="min-h-screen bg-gray-50 flex flex-col">
+      <Header />
+      {/* Page Header */}
       <div className="bg-gradient-kale text-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
           <p className="text-blue-200 mb-2">Someone shared these episodes with you</p>
@@ -106,7 +118,7 @@ function ShareContent() {
         </div>
       </div>
 
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1">
         {/* Share this collection */}
         <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-6 mb-8">
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
@@ -247,6 +259,8 @@ function ShareContent() {
           </Link>
         </div>
       </div>
+
+      <Footer />
     </main>
   );
 }
@@ -255,11 +269,15 @@ export default function SharePage() {
   return (
     <Suspense
       fallback={
-        <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-          <div className="text-center">
-            <div className="w-12 h-12 border-4 border-kale border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-            <p className="text-gray-600">Loading recommendations...</p>
+        <div className="min-h-screen bg-gray-50 flex flex-col">
+          <Header />
+          <div className="flex-1 flex items-center justify-center">
+            <div className="text-center">
+              <div className="w-12 h-12 border-4 border-kale border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+              <p className="text-gray-600">Loading recommendations...</p>
+            </div>
           </div>
+          <Footer />
         </div>
       }
     >

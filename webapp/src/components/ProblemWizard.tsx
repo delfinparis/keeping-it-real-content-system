@@ -159,10 +159,12 @@ export default function ProblemWizard({ onComplete, onQuickSearch }: Props) {
         <button
           key={option.id}
           onClick={() => handleSelect(step, option.id)}
-          className="card p-5 text-left group cursor-pointer hover:scale-[1.02] active:scale-[0.98] transition-all"
+          className="card p-5 text-left group cursor-pointer hover:scale-[1.02] active:scale-[0.98] transition-all focus:outline-none focus:ring-2 focus:ring-kale focus:ring-offset-2 hover:border-kale/30"
+          tabIndex={0}
+          aria-label={`${option.label}: ${option.description}`}
         >
           <div className="flex items-start gap-4">
-            <span className="text-2xl">{option.icon}</span>
+            <span className="text-2xl group-hover:scale-110 transition-transform">{option.icon}</span>
             <div className="flex-1 min-w-0">
               <h3 className="font-semibold text-gray-900 group-hover:text-kale transition-colors leading-tight">
                 {option.label}
@@ -171,6 +173,14 @@ export default function ProblemWizard({ onComplete, onQuickSearch }: Props) {
                 {option.description}
               </p>
             </div>
+            <svg
+              className="w-5 h-5 text-gray-300 group-hover:text-kale group-hover:translate-x-1 transition-all flex-shrink-0 mt-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+            </svg>
           </div>
         </button>
       ))}
@@ -215,14 +225,15 @@ export default function ProblemWizard({ onComplete, onQuickSearch }: Props) {
     <div className="max-w-2xl mx-auto px-4">
       {renderProgressBar()}
 
-      {/* Quick search option for power users */}
+      {/* Quick search option for power users - More visible */}
       {currentStep === 1 && (
         <div className="text-center mb-8">
           <button
             onClick={onQuickSearch}
-            className="text-sm text-gray-400 hover:text-kale transition"
+            className="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-kale bg-gray-100 hover:bg-kale-50 px-4 py-2 rounded-full transition group"
           >
-            Or type your own description →
+            <span>Know what you're looking for?</span>
+            <span className="font-medium text-kale group-hover:underline">Type directly →</span>
           </button>
         </div>
       )}
