@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Levi Lascsak",
+    "title": "Top Producer and YouTuber",
+    "company": "Not explicitly mentioned",
+    "production_level": "164 closed sales transactions, $90 million in production",
+    "specialty": "Real estate lead generation through YouTube",
+    "location": "Dallas, Texas"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Transitioning careers into real estate",
+    "Building a personal brand through video content",
+    "Passive prospecting strategies",
+    "Challenges and solutions in real estate marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without prior YouTube experience",
+      "solution_summary": "Levi focused on creating content that answered common questions about living in Dallas, using YouTube as a search engine to reach potential clients.",
+      "timestamp": "00:02:46"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a brand in a competitive market",
+      "solution_summary": "Levi positioned himself as a local expert by providing valuable content about Dallas neighborhoods and lifestyle, attracting inbound leads.",
+      "timestamp": "00:03:50"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Scaling personal sales efforts",
+      "solution_summary": "Utilized video content to communicate at scale, allowing him to reach thousands instead of one-on-one interactions.",
+      "timestamp": "00:43:31"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode shows how to leverage YouTube to become a top producer quickly.",
+      "key_takeaway": "Focus on creating valuable content that answers potential clients' questions to generate inbound leads."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start generating leads without a large budget.",
+      "key_takeaway": "Utilize YouTube as a search engine to reach potential clients by providing informative content."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:24:01",
+      "end_timestamp": "00:24:55",
+      "quote": "YouTube is a search engine, not a social media platform. People are searching 10 times the amount on YouTube over Google.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional view of YouTube and highlights its potential for lead generation.",
+      "suggested_hook": "Are you using YouTube as a search engine to grow your real estate business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create content based on what people are searching for in your area.",
+      "context": "Use YouTube's search volume data to identify popular topics related to your market.",
+      "timestamp": "00:22:04"
+    },
+    {
+      "tactic": "Treat YouTube like a business, not a hobby.",
+      "context": "Develop a business plan for your YouTube channel to ensure consistent and strategic content creation.",
+      "timestamp": "00:25:36"
+    }
+  ],
+  "quotable_insights": [
+    "If you treat YouTube like a hobby, it'll pay you like a hobby. If you treat YouTube like a business, it'll pay you like a business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Passive Prospecting",
+      "context": "Levi's upcoming book that details his strategies for using YouTube to generate real estate leads."
+    }
+  ],
+  "episode_summary": "In this episode, Levi Lascsak shares how he generated 164 real estate transactions in one year using YouTube as a lead generation tool. He discusses the importance of treating YouTube like a business, creating content based on search data, and the power of passive prospecting. Levi's insights provide a blueprint for agents looking to leverage video content to scale their business.",
+  "_metadata": {
+    "source_file": "2022-12-28_item286_Levi-Lascsak",
+    "analyzed_at": "2026-01-26T20:37:21.469716",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
