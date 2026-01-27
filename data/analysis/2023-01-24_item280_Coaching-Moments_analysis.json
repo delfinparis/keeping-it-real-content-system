@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ryan Diapral",
+    "title": "Progressive Thought Leader",
+    "company": "Diapral Properties",
+    "production_level": "Top 1%",
+    "specialty": "Coaching and Training",
+    "location": "Chicago, Wisconsin, Indiana, Michigan, Florida"
+  },
+  "main_topics": [
+    "Agent Recruitment and Retention",
+    "Effective Use of Social Media",
+    "Building and Maintaining Client Relationships",
+    "Navigating Market Challenges",
+    "Personal and Professional Development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling scared and nervous about the current market conditions",
+      "solution_summary": "Focus on internal changes and relationship building rather than external factors like technology or company changes.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective use of social media for business growth",
+      "solution_summary": "Use social media for research and development to understand clients' lives and create meaningful connections.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining consistent client engagement",
+      "solution_summary": "Implement a life flow strategy by making 15 personal touches a day to your network.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with where to focus their efforts in a challenging market.",
+      "key_takeaway": "Prioritize building relationships and understanding clients over chasing new technology or tools."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may plateau due to lack of consistent client engagement.",
+      "key_takeaway": "Consistent, intentional outreach to your network can significantly boost your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "14:45",
+      "quote": "You have to be intentional just like success and anybody starts a business. You've got to be intentional on what it is that you want to do.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of intentionality in business success.",
+      "suggested_hook": "Are you intentional about your business growth?"
+    },
+    {
+      "timestamp": "36:00",
+      "end_timestamp": "36:45",
+      "quote": "Always be connecting. Always keep in contact with people and then the sales will just follow you.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This is a simple yet powerful reminder of the importance of relationships in sales.",
+      "suggested_hook": "The secret to sales success? It's simpler than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Make 15 personal touches a day to your network.",
+      "context": "To maintain consistent engagement and uncover potential leads.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Use social media for research, not just marketing.",
+      "context": "To understand what's happening in your clients' lives and create meaningful connections.",
+      "timestamp": "12:30"
+    }
+  ],
+  "quotable_insights": [
+    "If you want different results, you need to change. That doesn't mean you need to change companies.",
+    "Some of us are so busy being busy. Very few of us are busy being productive."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "CRM tool recommended for driving more leads in less time."
+    }
+  ],
+  "episode_summary": "In this episode, Ryan Diapral shares insights on navigating the current real estate market by focusing on internal changes and relationship building. He emphasizes the importance of consistent client engagement and using social media for research rather than just marketing. Ryan also discusses the value of intentionality in business success and provides actionable tactics for agents to implement immediately.",
+  "_metadata": {
+    "source_file": "2023-01-24_item280_Coaching-Moments",
+    "analyzed_at": "2026-01-26T20:42:07.289769",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
