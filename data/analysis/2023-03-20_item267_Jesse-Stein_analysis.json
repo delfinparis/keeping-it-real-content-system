@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jesse Stein",
+    "title": "Marketing Expert",
+    "company": "Audience.co",
+    "production_level": null,
+    "specialty": "Digital Marketing and Handwritten Notes",
+    "location": null
+  },
+  "main_topics": [
+    "Integration of handwritten notes with digital marketing",
+    "Using AI and automation in real estate marketing",
+    "Building long-term client relationships",
+    "Effective use of social media for REALTORS",
+    "ROI of marketing strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Low response rates from traditional direct mail",
+      "solution_summary": "Use aesthetically pleasing handwritten notes combined with digital follow-up to increase response rates by 10-12 times.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time-consuming marketing tasks for REALTORS",
+      "solution_summary": "Automate marketing sequences using Audience.co's platform to save time and increase efficiency.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable and trusted brand in a competitive market",
+      "solution_summary": "Consistently add value through educational content and personalized communication.",
+      "timestamp": "33:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced marketing strategies that can significantly boost lead generation and brand recognition.",
+      "key_takeaway": "Integrating physical and digital marketing can dramatically increase your market presence and client engagement."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers a new approach to marketing that can help break through plateaus in lead generation.",
+      "key_takeaway": "Using a combination of handwritten notes and digital follow-ups can lead to higher engagement and conversion rates."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Handwritten notes spent way more money, were more loyal, left better reviews, and were happier clients.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the unexpected power of handwritten notes in increasing customer loyalty and spending.",
+      "suggested_hook": "Discover why a simple handwritten note can transform your client relationships."
+    },
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "This is the one medium that defies the time space continuum... handwritten notes will end up on their kitchen counter or even on their mantle.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the lasting impact of handwritten notes in a digital world.",
+      "suggested_hook": "Why do handwritten notes have a timeless impact on clients?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use handwritten notes with QR codes linking to personalized videos.",
+      "context": "Send these notes to potential clients in your farm area to increase engagement.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Automate follow-up emails after sending handwritten notes.",
+      "context": "Use Audience.co's platform to send optimized follow-up emails to increase response rates.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "You can get your money back, but you can't get your time back.",
+    "The fortune is in the follow-up."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Audience.co",
+      "context": "Platform for integrating handwritten notes with digital marketing for REALTORS."
+    },
+    {
+      "type": "tool",
+      "name": "Hootsuite",
+      "context": "For managing and distributing vertical video content across social media platforms."
+    }
+  ],
+  "episode_summary": "In this episode, Jesse Stein discusses the innovative integration of handwritten notes with digital marketing to enhance lead generation and client engagement for REALTORS. By using Audience.co's platform, agents can automate marketing tasks, saving time while increasing response rates and building stronger client relationships. The episode also explores the use of AI and social media strategies to further boost brand recognition and market presence.",
+  "_metadata": {
+    "source_file": "2023-03-20_item267_Jesse-Stein",
+    "analyzed_at": "2026-01-26T20:51:33.426200",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
