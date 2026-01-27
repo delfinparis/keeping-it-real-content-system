@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "06:05",
+      "end_timestamp": "06:45",
+      "quote": "Best advice has been always answered your phone. I think a lot of people take that for granted and it's such an easy one.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a simple yet effective tactic for improving client relationships.",
+      "suggested_hook": "Are you missing out on business by not answering your phone?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Are you missing out on business by not answering your phone?\",\n    \"SETUP\": \"(0:08-0:18) Meet Karina Chavez, a real estate expert who knows the power of a simple tactic: always answering your phone.\",\n    \"INSIGHT\": \"(0:18-0:40) Karina shares, 'The best advice has been to always answer your phone. Many take it for granted, yet it's such an easy way to improve client relationships.'\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This small habit can transform your client interactions and boost your referral-based business. It's about being accessible and reliable.\",\n    \"CTA\": \"(0:52-0:60) Try it today: Answer every call and see how it strengthens your client connections. Are you ready to make the change?\"\n  },\n  \"CAPTION\": \"Unlock more business opportunities by simply answering your phone. 📞 #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateAdvice\", \"#ClientRelationships\", \"#BusinessGrowth\", \"#RealEstateSuccess\", \"#Networking\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "20:04",
+      "end_timestamp": "21:02",
+      "quote": "This is what your house is for. This is what all the sacrifices have been for.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Illustrates the emotional and financial security homeownership can provide.",
+      "suggested_hook": "How can owning a home save you in times of crisis?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08)\",\n    \"content\": \"How can owning a home save you in times of crisis?\"\n  },\n  \"SETUP\": {\n    \"time\": \"(0:08-0:18)\",\n    \"content\": \"Karina Chavez shares how homeownership provides emotional and financial security, especially during challenging times.\"\n  },\n  \"INSIGHT\": {\n    \"time\": \"(0:18-0:40)\",\n    \"content\": \"Karina explains, 'This is what your house is for. This is what all the sacrifices have been for.' Owning a home can be a safety net, offering stability and peace of mind when life throws unexpected challenges your way.\"\n  },\n  \"REFRAME/APPLICATION\": {\n    \"time\": \"(0:40-0:52)\",\n    \"content\": \"Understanding the true value of homeownership can transform how you approach real estate, emphasizing long-term security over short-term gains.\"\n  },\n  \"CTA\": {\n    \"time\": \"(0:52-0:60)\",\n    \"content\": \"Reflect on your homeownership journey. How has it provided security for you? Share your story in the comments!\"\n  },\n  \"CAPTION\": \"Discover the true value of homeownership with Karina Chavez. #HomeSecurity\",\n  \"HASHTAGS\": [\n    \"#Homeownership\",\n    \"#RealEstate\",\n    \"#FinancialSecurity\",\n    \"#Community\",\n    \"#RealTalk\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  }
+]

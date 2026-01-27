@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "07:00",
+      "end_timestamp": "07:45",
+      "quote": "I think today's market is rewarding judgment over urgency and buyers are slowing down a little bit.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional wisdom of speed being the key to success in real estate.",
+      "suggested_hook": "Why rushing in real estate might be a thing of the past."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why rushing in real estate might be a thing of the past.\",\n    \"SETUP\": \"In today's market, speed isn't everything. Carrie McCormick shares why judgment is now taking the lead.\",\n    \"INSIGHT\": \"Carrie McCormick explains that the market is shifting. Buyers are taking their time, evaluating properties carefully, and making informed decisions rather than rushing in.\",\n    \"REFRAME/APPLICATION\": \"This shift means real estate professionals need to focus on strategy and storytelling to connect with buyers who value thoughtful decisions.\",\n    \"CTA\": \"Consider how you can slow down and strategize. What stories can you tell to engage your clients?\"\n  },\n  \"caption\": \"Is speed still king in real estate? Discover why judgment might be the new ruler.\",\n  \"hashtags\": [\"#RealEstateTrends\", \"#MarketShift\", \"#StrategyOverSpeed\", \"#RealEstateAdvice\", \"#CarrieMcCormick\"],\n  \"content_pillar\": \"market_intelligence\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "14:00",
+      "end_timestamp": "14:45",
+      "quote": "Buyers aren't rejecting homes; they reject uncertainty.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "This reveals a key insight into buyer behavior that can change how agents approach sales.",
+      "suggested_hook": "The real reason buyers walk away from deals."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08)\\n\\\"The real reason buyers walk away from deals isn't what you think!\\\"\",\n    \"SETUP\": \"(0:08-0:18)\\n\\\"In today's market, understanding buyer behavior is crucial. Carrie McCormick reveals a game-changing insight for real estate agents.\\\"\",\n    \"INSIGHT\": \"(0:18-0:40)\\n\\\"Buyers aren't rejecting homes; they reject uncertainty. This means agents need to focus on clarity and transparency in every transaction.\\\"\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52)\\n\\\"By addressing uncertainties head-on, you can build trust and close more deals. Shift your strategy from speed to thoughtful engagement.\\\"\",\n    \"CTA\": \"(0:52-0:60)\\n\\\"How can you reduce uncertainty in your sales process? Share your thoughts below!\\\"\"\n  },\n  \"CAPTION\": \"Buyers reject uncertainty, not homes. Shift your strategy today! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#BuyerBehavior\",\n    \"#MarketTrends\",\n    \"#SalesStrategy\",\n    \"#CarrieMcCormick\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  }
+]

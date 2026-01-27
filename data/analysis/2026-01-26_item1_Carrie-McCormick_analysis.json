@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "Luxury market, first-time home buyers, veteran investors",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Market trends for 2026",
+    "Importance of storytelling in property pricing",
+    "Shift from speed to strategy in real estate",
+    "Building and maintaining a personal brand",
+    "Targeting the right demographic in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Shift from speed to strategy in real estate",
+      "solution_summary": "Focus on judgment, timing, and clarity over urgency; provide strategic guidance to clients.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Maintaining a personal brand in a high-volume market",
+      "solution_summary": "Control every aspect of your brand and ensure consistent, authentic representation.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Clients rejecting uncertainty rather than homes",
+      "solution_summary": "Use storytelling to create a narrative around pricing and provide clear, logical information.",
+      "timestamp": "12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how top producers like Carrie manage their brand and adapt to market changes.",
+      "key_takeaway": "Focus on strategy and storytelling to build trust and maintain a strong personal brand."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Carrie's approach to personal branding and market strategy is valuable for team leaders looking to guide their agents.",
+      "key_takeaway": "Emphasize clarity and strategic guidance over speed to foster trust with clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:00",
+      "end_timestamp": "07:45",
+      "quote": "I think today's market is rewarding judgment over urgency and buyers are slowing down a little bit.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional wisdom of speed being the key to success in real estate.",
+      "suggested_hook": "Why rushing in real estate might be a thing of the past."
+    },
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "14:45",
+      "quote": "Buyers aren't rejecting homes; they reject uncertainty.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "This reveals a key insight into buyer behavior that can change how agents approach sales.",
+      "suggested_hook": "The real reason buyers walk away from deals."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use storytelling to create a narrative around property pricing.",
+      "context": "When presenting a property, focus on the story behind the pricing rather than just the number.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Engage with the community to reach the 56-59 age demographic.",
+      "context": "Participate in local activities like pickleball or cultural events to connect with potential buyers.",
+      "timestamp": "09:00"
+    }
+  ],
+  "quotable_insights": [
+    "The market in 2026 isn't about being louder or faster; it's about being clear, calm, and precise.",
+    "Buyers aren't rejecting homes; they reject uncertainty."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective sales and marketing solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the shift in the real estate market from speed to strategy, emphasizing the importance of storytelling in property pricing and maintaining a strong personal brand. She highlights the need for agents to focus on clarity and strategic guidance to build trust with clients. Additionally, the episode explores targeting the 56-59 age demographic through community engagement.",
+  "_metadata": {
+    "source_file": "2026-01-26_item1_Carrie-McCormick",
+    "analyzed_at": "2026-01-27T10:29:48.176536",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

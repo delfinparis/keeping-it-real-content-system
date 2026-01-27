@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Bari Mill",
+    "title": "Real Estate Agent",
+    "company": "Dawn McKenna Group",
+    "production_level": "$40M+ producer",
+    "specialty": "Chicago real estate market",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Mindset and Motivation in Real Estate",
+    "Importance of Being Coachable",
+    "Building a Real Estate Business",
+    "Challenges and Solutions in Real Estate",
+    "Role of Networking and Referrals"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with rejection from clients in your sphere",
+      "solution_summary": "Focus on the next opportunity and don't dwell on lost business.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured CRM system",
+      "solution_summary": "Commit to updating the CRM regularly to avoid missing business opportunities.",
+      "timestamp": "39:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating new business while managing existing clients",
+      "solution_summary": "Host events and encourage clients to bring friends to expand your network.",
+      "timestamp": "35:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Bari Mill shares her journey to becoming a top producer in six years.",
+      "key_takeaway": "Focus on building strong relationships and being coachable to accelerate your growth."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Bari's structured approach to building a business.",
+      "key_takeaway": "Start with a mentor and focus on learning from different styles to find your own."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:00",
+      "end_timestamp": "07:00",
+      "quote": "Focus on what you do have, not on what you don't.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote emphasizes a positive mindset that can help agents overcome rejection.",
+      "suggested_hook": "Are you focusing on the wrong things in your real estate career?"
+    },
+    {
+      "timestamp": "39:00",
+      "end_timestamp": "40:00",
+      "quote": "CRM is something that is not that hard, and if I just set an alarm or a timer to input clients for 10 minutes a day, it's not that hard.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of consistent CRM use for business growth.",
+      "suggested_hook": "Is your CRM helping or hurting your business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host client events and encourage them to bring friends.",
+      "context": "Use events to expand your network and generate referrals.",
+      "timestamp": "35:00"
+    },
+    {
+      "tactic": "Use downtime to prepare for upcoming appointments.",
+      "context": "Ensure you're well-prepared for client meetings and listing presentations.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on what you do have, not on what you don't.",
+    "You're lucky to be stressed because that means you have business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Bari Mill shares her journey to becoming a top producer in the Chicago real estate market. She emphasizes the importance of mindset, being coachable, and leveraging networking and referrals to build a successful business. Bari also discusses the challenges she faces, such as maintaining a CRM, and provides actionable advice for agents at all stages of their careers.",
+  "_metadata": {
+    "source_file": "2025-12-10_item11_Bari-Mill",
+    "analyzed_at": "2026-01-27T10:17:56.710919",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

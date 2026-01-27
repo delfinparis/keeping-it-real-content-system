@@ -1,0 +1,67 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset and performance coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Taking things personally",
+    "Emotional reactivity",
+    "Mindset and performance improvement",
+    "Nervous system regulation",
+    "Identity and self-awareness"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Taking things personally and being reactive",
+      "solution_summary": "Identify the pattern, pause to process emotions, and pivot to a conscious response.",
+      "timestamp": "23:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode helps those who feel stuck due to emotional reactivity and taking things personally.",
+      "key_takeaway": "Learn to identify and regulate emotional triggers to improve personal and professional relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:28",
+      "end_timestamp": "25:06",
+      "quote": "Feeling attacked doesn't mean you're weak; it means something inside of you is asking for attention.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It offers a powerful reframe that encourages self-reflection and growth.",
+      "suggested_hook": "Ever feel attacked in conversations? Here's why it's actually a call for self-awareness."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use the four Ps: Pause, Process, Pivot, Proceed.",
+      "context": "Apply this when you feel triggered to shift from reaction to response.",
+      "timestamp": "27:20"
+    }
+  ],
+  "quotable_insights": [
+    "When you feel attacked, it's rarely about the present moment.",
+    "Your triggers are your teachers if you choose to look inward with courage and curiosity."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Dark Side of the Light Chasers by Debbie Ford",
+      "context": "Recommended for understanding how triggers can be teachers and for exploring shadow work."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses how taking things personally can hinder personal and professional growth. He provides actionable strategies to identify and regulate emotional triggers, emphasizing the importance of self-awareness and conscious response. Listeners are encouraged to use the four Ps—Pause, Process, Pivot, Proceed—to improve their mindset and performance.",
+  "_metadata": {
+    "source_file": "2025-12-18_item7_Paul-Salter",
+    "analyzed_at": "2026-01-27T10:22:05.742191",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset and performance coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Separation Season",
+    "Mindset and Motivation",
+    "Entrepreneurial Regression",
+    "Commitment vs. Interest",
+    "Energy Management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Taking foot off the gas during the holiday season",
+      "solution_summary": "View the holiday season as 'separation season' to gain a competitive edge by maintaining consistent effort.",
+      "timestamp": "00:04:03"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Loss of productivity due to holiday distractions",
+      "solution_summary": "Stay committed to routines and non-negotiables to maintain energy and focus.",
+      "timestamp": "00:18:10"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "All or nothing thinking",
+      "solution_summary": "Adopt a mindset of doing what you can, even if it's not a full workday, to maintain momentum.",
+      "timestamp": "00:20:49"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode encourages maintaining momentum during slow periods to gain a competitive advantage.",
+      "key_takeaway": "Consistency during the holiday season can lead to a strong start in the new year."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to avoid burnout by maintaining consistent, manageable effort.",
+      "key_takeaway": "Focus on energy management and maintaining routines to prevent burnout."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:03",
+      "end_timestamp": "00:04:37",
+      "quote": "These next few months, the winter months, the holiday season, if you will... view it as separation season.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional view of the holiday season as downtime.",
+      "suggested_hook": "Are you using the holiday season to get ahead or falling behind?"
+    },
+    {
+      "timestamp": "00:23:07",
+      "end_timestamp": "00:23:49",
+      "quote": "If you're committed to your goal, the holidays, the weather, other people's actions leave you absolutely unfazed.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the difference between being committed and merely interested.",
+      "suggested_hook": "Are you truly committed to your goals or just interested?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Reflect on the year's successes to identify what to double down on.",
+      "context": "Use this reflection to focus energy on high-impact activities.",
+      "timestamp": "00:15:52"
+    },
+    {
+      "tactic": "Establish non-negotiables for self-care to maintain energy.",
+      "context": "Ensure consistent routines in nutrition, exercise, and stress management.",
+      "timestamp": "00:18:10"
+    }
+  ],
+  "quotable_insights": [
+    "Complacency has a compound cost. Are you complacent or committed?",
+    "Success leaves clues. Reflect on what has worked well and double down on it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "Paul Salter discusses the concept of 'separation season,' encouraging real estate professionals to maintain consistent effort during the holiday months to gain a competitive edge. He emphasizes the importance of mindset, energy management, and commitment over interest to achieve long-term success. The episode provides actionable strategies for maintaining productivity and avoiding common pitfalls during slower periods.",
+  "_metadata": {
+    "source_file": "2025-12-04_item14_Paul-Salter",
+    "analyzed_at": "2026-01-27T10:14:33.855842",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

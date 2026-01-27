@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kristee Leonard",
+    "title": "Top-Producing Real Estate Broker",
+    "company": "The Leaders Realty",
+    "production_level": "$50M+ annual volume",
+    "specialty": "Luxury Real Estate",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Work Ethic and Success",
+    "Real Estate Marketing Strategies",
+    "Client Management and Standards",
+    "Social Media for Lead Generation",
+    "Balancing Personal and Professional Life"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating new business in a competitive market",
+      "solution_summary": "Kristee focuses on building relationships with other REALTORS for referrals and uses social media to showcase her marketing skills.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining motivation after market changes",
+      "solution_summary": "Kristee emphasizes the importance of setting new goals and focusing on increasing sales volume while maintaining high standards.",
+      "timestamp": "42:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Providing consistent high-quality service to all clients",
+      "solution_summary": "Kristee treats every client with the same level of dedication, regardless of the transaction size, and maintains quick response times.",
+      "timestamp": "20:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Kristee's journey from starting in real estate to achieving high production levels offers a roadmap for agents aiming to reach the top.",
+      "key_takeaway": "Outworking others and maintaining high standards can lead to significant success in real estate."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Kristee's insights into managing a brokerage and deciding against building a large team provide valuable lessons for team leaders.",
+      "key_takeaway": "Understanding your strengths and focusing on them can be more beneficial than following conventional paths."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:38",
+      "end_timestamp": "05:05",
+      "quote": "You don't have to be the smartest person in the room. You just have to outwork the smartest person in the room.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This quote encapsulates a powerful mindset that can inspire agents to push beyond their limits.",
+      "suggested_hook": "Want to know the secret to success in real estate? It's simpler than you think."
+    },
+    {
+      "timestamp": "18:30",
+      "end_timestamp": "19:00",
+      "quote": "It's an honor to be chosen by clients, and I treat them like they're an honor.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This statement highlights the importance of valuing clients, which can resonate deeply with viewers.",
+      "suggested_hook": "Here's why treating every client like an honor can transform your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to target other REALTORS for referrals.",
+      "context": "Instead of focusing solely on buyers and sellers, build relationships with other agents who can refer clients.",
+      "timestamp": "31:00"
+    },
+    {
+      "tactic": "Work rentals to build long-term client relationships.",
+      "context": "Taking on rental clients can lead to significant future sales and referrals.",
+      "timestamp": "27:00"
+    }
+  ],
+  "quotable_insights": [
+    "The gift of desperation is what I attribute to my success.",
+    "If you're going to take a client, you need to give them your all."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion tools."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting tool for identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Kristee Leonard shares her journey to becoming a top-producing real estate broker in Austin, Texas. She discusses the importance of outworking others, maintaining high standards, and leveraging social media for B2B referrals. Kristee also emphasizes the value of treating every client with the utmost respect and dedication, regardless of transaction size.",
+  "_metadata": {
+    "source_file": "2026-01-22_item2_Kristee-Leonard",
+    "analyzed_at": "2026-01-27T10:28:17.137428",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

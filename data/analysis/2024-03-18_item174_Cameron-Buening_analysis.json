@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Cameron Buening",
+    "title": "Assistant Team Leader",
+    "company": "Keller Williams Indie Metro North",
+    "production_level": "30 under 30 award winner",
+    "specialty": "Mentoring and team leadership",
+    "location": "Central Indiana"
+  },
+  "main_topics": [
+    "Transition from performing arts to real estate",
+    "Building a real estate career part-time",
+    "Strategies for lead generation and client acquisition",
+    "Navigating real estate market challenges",
+    "Mentoring and team building"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding clients as a new agent",
+      "solution_summary": "Utilize open houses, social media presence, and first-time homebuyer seminars to generate leads.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Balancing another job while starting a real estate career",
+      "solution_summary": "Work part-time in real estate while maintaining a full-time job until real estate income is sustainable.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Handling low inventory in the market",
+      "solution_summary": "Be creative in finding off-market properties and use direct mailers and emails to target potential sellers.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode provides strategies for new agents to generate leads and build a career while working part-time.",
+      "key_takeaway": "Focus on activities that you enjoy and can consistently execute, like open houses and social media."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Cameron's experience in mentoring and growing a team offers insights into effective leadership.",
+      "key_takeaway": "Mentor agents by helping them find their niche and focus on their strengths."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "20:00",
+      "quote": "If I tell you to go do an open house and you want to claw your eyes out, then open houses probably aren't going to be your thing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It emphasizes the importance of choosing lead generation strategies that align with personal strengths.",
+      "suggested_hook": "Are you choosing the wrong lead generation strategies?"
+    },
+    {
+      "timestamp": "29:00",
+      "end_timestamp": "30:00",
+      "quote": "You have to figure out what works for you. Study the people that are doing it at the highest level and master it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on mastering a few key strategies instead of spreading themselves too thin.",
+      "suggested_hook": "The secret to mastering real estate success? Focus."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host first-time homebuyer seminars",
+      "context": "Use these seminars to educate potential buyers and establish yourself as an expert.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Conduct multiple open houses weekly",
+      "context": "Proactively reach out to listing agents to host open houses and use them for social media content.",
+      "timestamp": "19:00"
+    }
+  ],
+  "quotable_insights": [
+    "You have to figure out what works for you. Study the people that are doing it at the highest level and master it.",
+    "If you can afford the payment now, the only thing that's going to happen is interest rates come down and you can refinance."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Millionaire Real Estate Agent",
+      "context": "Referenced for its concept of capturing mind share in the market."
+    }
+  ],
+  "episode_summary": "Cameron Buening shares his journey from musical theater to a successful real estate career, emphasizing the importance of finding lead generation strategies that align with personal strengths. He discusses mentoring new agents, handling low inventory, and the significance of tracking market data to better serve clients. His story offers inspiration and actionable insights for both new agents and team leaders.",
+  "_metadata": {
+    "source_file": "2024-03-18_item174_Cameron-Buening",
+    "analyzed_at": "2026-01-27T10:11:26.530047",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
