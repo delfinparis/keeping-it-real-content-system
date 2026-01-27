@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:34",
+      "end_timestamp": "10:15",
+      "quote": "You can get a lower interest rate just by banking with the lender.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tip for reducing interest rates.",
+      "suggested_hook": "Want to lower your mortgage interest rate? Here's a simple trick."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to lower your mortgage interest rate? Here's a simple trick!\",\n    \"SETUP\": \"In today's market, every percentage point counts. Nadira Taylor shares a tip that could save you thousands.\",\n    \"INSIGHT\": \"By simply banking with your lender, you can often negotiate a lower interest rate. It's a tactic many overlook, but it can make a big difference.\",\n    \"REFRAME/APPLICATION\": \"This matters because even a small reduction in interest can lead to significant savings over the life of your loan. Start by exploring options with your current bank.\",\n    \"CTA\": \"Think about your current lender. Could switching your banking help you save? Share your thoughts in the comments!\"\n  },\n  \"CAPTION\": \"Lower your mortgage rate with this simple banking trick! 💡🏠\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageHacks\", \"#InterestRates\", \"#HomeBuying\", \"#FinancialSavvy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "24:01",
+      "end_timestamp": "24:45",
+      "quote": "I want everyone to have a house. Like no one knows about this program.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the passion and mission behind Nadira's work.",
+      "suggested_hook": "Here's why affordable housing is a mission, not just a market."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Here's why affordable housing is a mission, not just a market.\",\n    \"SETUP\": \"(0:08-0:18) Meet Nadira Taylor, a passionate advocate for affordable housing solutions. Discover why her mission matters to everyone.\",\n    \"INSIGHT\": \"(0:18-0:40) 'I want everyone to have a house. Like no one knows about this program,' Nadira shares. Her work unveils hidden opportunities in real estate, making homeownership accessible to all.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This isn't just about selling homes; it's about transforming lives. Apply creative financing to make a real impact in your community.\",\n    \"CTA\": \"(0:52-0:60) How can you contribute to affordable housing? Share your thoughts below or explore local programs today.\"\n  },\n  \"caption\": \"Affordable housing is more than a market—it's a mission. Discover Nadira's passion for change.\",\n  \"hashtags\": [\n    \"#AffordableHousing\",\n    \"#RealEstate\",\n    \"#Homeownership\",\n    \"#CreativeFinancing\",\n    \"#CommunityImpact\"\n  ],\n  \"content_pillar\": \"real_talk\"\n}\n```"
+  }
+]

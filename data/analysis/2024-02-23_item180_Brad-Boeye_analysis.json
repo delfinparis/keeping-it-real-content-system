@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Brad Boeye",
+    "title": "Principal",
+    "company": "Bicell Build QC with Real Broker",
+    "production_level": "Top 1% of agents in the US, $400M+ in closed residential sales",
+    "specialty": "Residential real estate",
+    "location": "Quad Cities, Iowa and Illinois"
+  },
+  "main_topics": [
+    "Market trends and predictions for 2024",
+    "The importance of social media in real estate",
+    "Maintaining client relationships",
+    "Branding and personal history in real estate",
+    "Adjusting business strategies in changing markets"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "High interest rates and low inventory",
+      "solution_summary": "Educate clients on historical rates and the benefits of buying now before rates drop and prices rise.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable brand",
+      "solution_summary": "Leverage personal history and create a unique logo that combines past and present to build brand recognition.",
+      "timestamp": "29:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Staying in touch with clients",
+      "solution_summary": "Use social media and personal visits with gifts like plants to maintain relationships and ensure top-of-mind awareness.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on leveraging personal history and branding to stand out in the market.",
+      "key_takeaway": "Building a strong personal brand and maintaining client relationships are key to long-term success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies for adapting to market changes and motivating a team.",
+      "key_takeaway": "Embrace technology and social media to enhance team visibility and client engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "My grandmother was the very first female broker in the Quad Cities area back in 1954.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a pioneering family history that adds depth to Brad's real estate story.",
+      "suggested_hook": "Discover the legacy of a real estate pioneer."
+    },
+    {
+      "timestamp": "15:00",
+      "end_timestamp": "15:45",
+      "quote": "Always trust your wife... if we wouldn't have done that then, we would have been left in the dust.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "A humorous yet insightful reminder of the importance of adapting to change.",
+      "suggested_hook": "Why listening to your partner can transform your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media consistently to stay visible to your sphere.",
+      "context": "Post regularly to maintain top-of-mind awareness and build relationships.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Host client appreciation events and deliver gifts.",
+      "context": "Strengthen client relationships and encourage repeat business.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "You can't control what you can't control, but you can educate your clients about it.",
+    "Longevity in the business gives you wisdom and credibility."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "Apply Design",
+      "context": "Virtual staging solution to enhance real estate listings."
+    }
+  ],
+  "episode_summary": "In this episode, Brad Boeye shares insights on navigating the 2024 real estate market, emphasizing the importance of social media and maintaining client relationships. He discusses leveraging personal history for branding and adapting business strategies to changing market conditions. Brad's experience highlights the value of longevity and wisdom in the industry.",
+  "_metadata": {
+    "source_file": "2024-02-23_item180_Brad-Boeye",
+    "analyzed_at": "2026-01-26T22:27:39.681218",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

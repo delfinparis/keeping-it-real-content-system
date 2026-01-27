@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "20:00",
+      "end_timestamp": "21:00",
+      "quote": "You have to identify your audience and create content that speaks directly to their needs.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This advice is actionable and can immediately impact an agent's content strategy.",
+      "suggested_hook": "Struggling to connect with your audience? Here's the secret to creating engaging content."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Struggling to connect with your audience? Here's the secret to creating engaging content.\",\n    \"SETUP\": \"(0:08-0:18) Meet Tara Meier, a real estate expert who knows how to leverage AI and social media to build a powerful online presence.\",\n    \"INSIGHT\": \"(0:18-0:40) Tara shares, 'You have to identify your audience and create content that speaks directly to their needs.' This means knowing your clients' pain points and addressing them head-on.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By tailoring your content strategy to your audience's specific needs, you can increase engagement and build stronger relationships.\",\n    \"CTA\": \"(0:52-0:60) Ready to transform your content strategy? Start by analyzing your audience's needs and create content that truly resonates.\"\n  },\n  \"caption\": \"Unlock the secret to engaging content: Speak directly to your audience's needs. #RealEstateTips\",\n  \"hashtags\": [\n    \"#RealEstateTips\",\n    \"#ContentStrategy\",\n    \"#AIinRealEstate\",\n    \"#SocialMediaMarketing\",\n    \"#DigitalAdvertising\"\n  ],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "23:00",
+      "end_timestamp": "24:00",
+      "quote": "AI can help you craft compelling bios, build your brand, and draft copy for your website and social media.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates practical uses of AI that agents can implement immediately.",
+      "suggested_hook": "Want to save time and boost your brand? Here's how AI can transform your real estate business."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to save time and boost your brand? Here's how AI can transform your real estate business.\",\n    \"SETUP\": \"Meet Tara Meier, a real estate expert who's leveraging AI to revolutionize her online presence. Why should you care? Because AI is the game-changer you need.\",\n    \"INSIGHT\": \"AI can help you craft compelling bios, build your brand, and draft copy for your website and social media. Imagine having a virtual assistant that never sleeps, constantly optimizing your content strategy.\",\n    \"REFRAME/APPLICATION\": \"This matters because in real estate, your online presence is your first impression. Start by using AI tools to automate content creation and focus on what you do best—closing deals.\",\n    \"CTA\": \"Ready to elevate your brand? Start exploring AI tools today and watch your business grow. Share your AI success stories with us!\"\n  },\n  \"caption\": \"Unlock the power of AI for your real estate business. 🚀 #AIRevolution\",\n  \"hashtags\": [\"#RealEstateAI\", \"#BrandBuilding\", \"#DigitalStrategy\", \"#AIinRealEstate\", \"#ContentCreation\"],\n  \"content_pillar\": \"ai_agent\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Gemma Leggett",
+    "title": "Real Estate Broker",
+    "company": "RE/MAX Hallmark",
+    "production_level": "Award-winning individual real estate broker",
+    "specialty": "Exceptional service with a focus on relationships and community",
+    "location": "Inisfil, Ontario, Canada"
+  },
+  "main_topics": [
+    "Importance of YouTube for real estate marketing",
+    "Building a personal brand through video content",
+    "Effective client follow-up strategies",
+    "Defending commission rates",
+    "Utilizing social media for client engagement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to generate leads through YouTube",
+      "solution_summary": "Create engaging, evergreen content that answers common client questions and showcases your personality.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a saturated market",
+      "solution_summary": "Be authentic and use humor to connect with your audience, ensuring your content reflects your personality.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-sale",
+      "solution_summary": "Use social media to engage with clients regularly and send personalized messages or videos for special occasions.",
+      "timestamp": "45:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging YouTube for brand building and lead generation.",
+      "key_takeaway": "Consistent, quality video content can significantly enhance your visibility and client engagement."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies for improving client follow-up and defending commission rates.",
+      "key_takeaway": "Building strong client relationships and effectively communicating your value can lead to more referrals and repeat business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:30",
+      "end_timestamp": "13:15",
+      "quote": "Ask clients why they chose you to reinforce their decision and strengthen your relationship.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This tactic can immediately improve client interactions and close rates.",
+      "suggested_hook": "Want to close more deals? Here's a simple question to ask at every listing appointment."
+    },
+    {
+      "timestamp": "34:00",
+      "end_timestamp": "34:45",
+      "quote": "I may not be the right agent for you, and that's okay.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the fear of losing clients by emphasizing the importance of fit.",
+      "suggested_hook": "Why being selective with clients can actually boost your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use YouTube to post evergreen content that answers common client questions.",
+      "context": "Create videos that address frequent inquiries from clients to attract and educate potential leads.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Send personalized video messages for client birthdays.",
+      "context": "Record a short, personalized video to wish clients a happy birthday, making them feel valued.",
+      "timestamp": "52:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you think you're going to do one video and become a rock star, that's not happening.",
+    "YouTube lives forever; it's not disposable like other social media."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Virtual Staging AI",
+      "context": "Suggested for affordable and fast virtual staging solutions."
+    }
+  ],
+  "episode_summary": "In this episode, Gemma Leggett shares her journey from door knocking to leveraging YouTube for real estate success. She emphasizes the importance of creating engaging, evergreen content and maintaining strong client relationships through personalized interactions. Gemma also discusses strategies for defending commission rates and using social media to enhance client engagement.",
+  "_metadata": {
+    "source_file": "2024-04-18_item166_Gemma-Leggett",
+    "analyzed_at": "2026-01-26T22:35:23.789728",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

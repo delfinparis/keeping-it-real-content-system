@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "34:45",
+      "end_timestamp": "35:30",
+      "quote": "I'm not trying to handle objections over the phone. I just want to get in front of them in person.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical approach to converting FSBOs.",
+      "suggested_hook": "Struggling with FSBOs? Here's a strategy that works."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Struggling with FSBOs? Here's a strategy that works!\",\n    \"SETUP\": \"(0:08-0:18) Meet Mark Plesha, a real estate expert who cracked the code on converting FSBOs. Why should you care? Because this tactic can boost your success rate.\",\n    \"INSIGHT\": \"(0:18-0:40) Mark shares, 'I'm not trying to handle objections over the phone. I just want to get in front of them in person.' This approach shifts the dynamic, making it easier to build trust and rapport.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By focusing on face-to-face meetings, you can better address concerns and showcase your value. Apply this tactic to enhance your conversion strategy.\",\n    \"CTA\": \"(0:52-0:60) Ready to try this out? Schedule your next FSBO meeting in person and see the difference. Share your experiences in the comments!\"\n  },\n  \"caption\": \"Struggling with FSBOs? Try meeting in person to boost conversions. #RealEstateTips\",\n  \"hashtags\": [\"#RealEstateTips\", \"#FSBO\", \"#LeadGeneration\", \"#RealEstateStrategy\", \"#MarketSuccess\"],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "47:00",
+      "end_timestamp": "47:45",
+      "quote": "Let the market dictate your actions. Pivot to where the opportunity is.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to be adaptable and proactive.",
+      "suggested_hook": "Is your real estate strategy stuck? Learn to pivot effectively."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Is your real estate strategy stuck? Learn to pivot effectively!\",\n    \"SETUP\": \"(0:08-0:18) Meet Mark Plesha, a real estate expert who believes adaptability is key. Are you ready to let the market guide your next move?\",\n    \"INSIGHT\": \"(0:18-0:40) Mark shares, 'Let the market dictate your actions. Pivot to where the opportunity is.' This mindset shift can transform how you approach challenges and seize new opportunities.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By staying flexible and proactive, you can align your strategies with market trends, ensuring you're always ahead of the curve.\",\n    \"CTA\": \"(0:52-0:60) Ready to pivot? Start by analyzing your current market and identifying where the opportunities lie. Share your thoughts below!\"\n  },\n  \"CAPTION\": \"Stuck in your real estate strategy? Let the market guide your next move. #MindsetShift\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MindsetShift\", \"#MarketOpportunities\", \"#Adaptability\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

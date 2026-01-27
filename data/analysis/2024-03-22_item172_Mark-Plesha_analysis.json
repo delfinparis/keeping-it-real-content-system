@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Mark Plesha",
+    "title": "Real Estate Agent",
+    "company": "Broker Works",
+    "production_level": "$6M+ in first year, top agent in office",
+    "specialty": "Listings, working with investors, probate leads",
+    "location": "Highland, Indiana"
+  },
+  "main_topics": [
+    "Transition into real estate",
+    "Lead generation strategies",
+    "Time management and productivity",
+    "Building a community-focused brand",
+    "Navigating market challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding effective lead sources as a new agent",
+      "solution_summary": "Focus on outbound prospecting like FSBOs, expired listings, and probate leads.",
+      "timestamp": "10:32"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing work hours with family time",
+      "solution_summary": "Prioritize listings and investor clients to control schedule and reduce nights/weekends work.",
+      "timestamp": "09:32"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changing market conditions",
+      "solution_summary": "Pivot strategies based on market trends, such as focusing on probate leads during low inventory periods.",
+      "timestamp": "48:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Provides actionable lead generation strategies for new agents.",
+      "key_takeaway": "Focus on niche lead sources like FSBOs and probate leads to quickly build a client base."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers insights into scaling business through strategic pivots.",
+      "key_takeaway": "Adapt your business model to current market conditions to maintain growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "34:45",
+      "end_timestamp": "35:30",
+      "quote": "I'm not trying to handle objections over the phone. I just want to get in front of them in person.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical approach to converting FSBOs.",
+      "suggested_hook": "Struggling with FSBOs? Here's a strategy that works."
+    },
+    {
+      "timestamp": "47:00",
+      "end_timestamp": "47:45",
+      "quote": "Let the market dictate your actions. Pivot to where the opportunity is.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to be adaptable and proactive.",
+      "suggested_hook": "Is your real estate strategy stuck? Learn to pivot effectively."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call for rent by owners to find potential sellers and investors.",
+      "context": "Use this tactic to uncover hidden opportunities in the market.",
+      "timestamp": "17:30"
+    },
+    {
+      "tactic": "Use a gentle, value-driven approach when contacting FSBOs.",
+      "context": "Lead with helpful advice and avoid hard selling to build trust.",
+      "timestamp": "34:45"
+    }
+  ],
+  "quotable_insights": [
+    "Lead with value and you'll find it hard for people to say no.",
+    "Pivot your strategy based on market conditions to find success."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Bigger Pockets",
+      "context": "Inspired Mark's transition into real estate and investing."
+    },
+    {
+      "type": "book",
+      "name": "Rich Dad Poor Dad",
+      "context": "Influenced Mark's entrepreneurial mindset."
+    }
+  ],
+  "episode_summary": "Mark Plesha shares his journey from a union laborer to a top-producing real estate agent by leveraging unique lead generation strategies like FSBOs, expired listings, and probate leads. He emphasizes the importance of adapting to market conditions and maintaining a work-life balance by focusing on listings and investor clients. Mark's insights provide actionable advice for agents looking to grow their business efficiently.",
+  "_metadata": {
+    "source_file": "2024-03-22_item172_Mark-Plesha",
+    "analyzed_at": "2026-01-26T22:32:44.411679",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

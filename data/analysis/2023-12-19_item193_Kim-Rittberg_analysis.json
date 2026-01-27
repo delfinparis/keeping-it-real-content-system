@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning video marketer",
+    "company": "Not explicitly mentioned",
+    "production_level": "Not explicitly mentioned",
+    "specialty": "Video marketing for real estate agents",
+    "location": "Not explicitly mentioned"
+  },
+  "main_topics": [
+    "Creating engaging real estate videos",
+    "Building a personal brand through video",
+    "Strategies for video content creation",
+    "Engagement and interaction on social media",
+    "Using storytelling in real estate marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents making videos that don't engage viewers",
+      "solution_summary": "Create videos that tell engaging stories, such as crazy real estate stories, behind-the-scenes insights, and personal revelations.",
+      "timestamp": "00:02:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who have started using video but aren't seeing engagement.",
+      "key_takeaway": "Focus on storytelling and personal connection to boost video engagement and build a recognizable brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:05",
+      "end_timestamp": "00:03:30",
+      "quote": "If you have crazy stories, it means you sold enough homes, bought enough homes, so that you have stories, right?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This highlights the importance of experience and storytelling in building trust and engagement.",
+      "suggested_hook": "Why your craziest real estate stories could be your best marketing tool!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Share a crazy real estate story",
+      "context": "Use humor and surprise to engage viewers and subtly showcase your experience.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "tactic": "Highlight something unique in a property",
+      "context": "Focus on a standout feature to create a compelling video that draws attention.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "tactic": "Create a personal video sharing five things about yourself",
+      "context": "Use this to build personal connections and expand your sphere of influence.",
+      "timestamp": "00:10:50"
+    }
+  ],
+  "quotable_insights": [
+    "Your phone right there is the most cost-efficient way to market yourself.",
+    "Engagement is engagement. The more people comment, the more other people comment."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Bootcamp",
+      "context": "Kim Rittberg's course for agents to improve their video marketing skills."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable insights on creating engaging video content for real estate agents. She emphasizes the importance of storytelling, personal branding, and strategic content planning to boost engagement and build trust with potential clients. Listeners will learn how to craft videos that not only entertain but also subtly showcase their expertise and personality.",
+  "_metadata": {
+    "source_file": "2023-12-19_item193_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T22:18:37.752610",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

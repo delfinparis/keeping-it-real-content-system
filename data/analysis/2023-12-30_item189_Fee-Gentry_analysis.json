@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Fee Gentry",
+    "title": "CEO",
+    "company": "Live Better Ventures",
+    "production_level": "Top 1%",
+    "specialty": "Entrepreneurship and Investment",
+    "location": "Georgetown, Texas"
+  },
+  "main_topics": [
+    "Future-proofing real estate business",
+    "Leveraging strategic partnerships",
+    "Mindset and motivation for REALTORS",
+    "Additional income streams for agents",
+    "Impact of technology and AI on real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining a positive mindset amidst challenges",
+      "solution_summary": "Turn off negative influences, engage in daily practices like meditation, and focus on internal resources.",
+      "timestamp": "14:36"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Leaving money on the table in real estate transactions",
+      "solution_summary": "Identify and leverage multiple revenue streams from ancillary services involved in real estate transactions.",
+      "timestamp": "21:18"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in the real estate industry",
+      "solution_summary": "Focus on collaborative capitalism and strategic partnerships to navigate industry shifts.",
+      "timestamp": "10:57"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to maximize income and future-proof their business.",
+      "key_takeaway": "Develop strategic partnerships to create additional revenue streams beyond commissions."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers new perspectives on generating income and staying relevant in a changing market.",
+      "key_takeaway": "Shift focus from solely transactions to building a sustainable business model with diversified income."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "21:18",
+      "end_timestamp": "22:01",
+      "quote": "Most real estate professionals are renting their careers. They're going from transaction to transaction.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges agents to rethink their business model and focus on long-term sustainability.",
+      "suggested_hook": "Are you renting your real estate career? It's time to own it."
+    },
+    {
+      "timestamp": "39:54",
+      "end_timestamp": "40:27",
+      "quote": "Imagine you got paid on three more services in a transaction. It's way more than you did before.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy to increase income per transaction.",
+      "suggested_hook": "Triple your income per transaction with this simple strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop strategic partnerships with ancillary service providers.",
+      "context": "Identify services involved in real estate transactions and negotiate revenue-sharing agreements.",
+      "timestamp": "23:04"
+    },
+    {
+      "tactic": "Engage in daily practices to maintain a positive mindset.",
+      "context": "Use meditation or nature walks to disconnect from external stressors and refocus.",
+      "timestamp": "15:09"
+    }
+  ],
+  "quotable_insights": [
+    "Most real estate professionals are renting their careers. They're going from transaction to transaction.",
+    "The journey is really where it's at. The destination is nice, but it's all about consistently doing the work."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Rich Dad Poor Dad",
+      "context": "Inspired Fee Gentry to pursue a career in real estate."
+    },
+    {
+      "type": "book",
+      "name": "Atomic Habits",
+      "context": "Recommended for developing habits that lead to success."
+    }
+  ],
+  "episode_summary": "In this episode, Fee Gentry discusses strategies for REALTORS to future-proof their business by leveraging strategic partnerships and diversifying income streams. She emphasizes the importance of maintaining a positive mindset and adapting to industry changes, offering actionable insights on how agents can maximize their earnings beyond traditional commissions.",
+  "_metadata": {
+    "source_file": "2023-12-30_item189_Fee-Gentry",
+    "analyzed_at": "2026-01-26T22:22:03.998074",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

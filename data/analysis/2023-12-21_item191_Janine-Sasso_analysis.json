@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Janine Sasso",
+    "title": "Author and Top Producer",
+    "company": "Coldwell Banker",
+    "production_level": "Top Producer",
+    "specialty": "Geographic Farming and Mailer Marketing",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "The effectiveness of mailers in real estate",
+    "Geographic farming strategies",
+    "Balancing real estate career with family life",
+    "Lead generation through community events",
+    "Using QR codes for tracking mailer effectiveness"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to effectively generate leads without relying on digital marketing",
+      "solution_summary": "Utilize geographic farming with mailers and community events to generate leads with a high ROI.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing a real estate career with parental responsibilities",
+      "solution_summary": "Implement mailer marketing which allows for flexible working hours and consistent lead generation.",
+      "timestamp": "00:45:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start their business with low-cost, high-impact strategies.",
+      "key_takeaway": "Focus on geographic farming and mailers to build a sustainable real estate business."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Experienced agents looking for efficient lead generation methods can benefit from these strategies.",
+      "key_takeaway": "Mailers can provide a high ROI and reduce the need for constant social media engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:19:01",
+      "end_timestamp": "00:19:28",
+      "quote": "My home value is directly tied to the listings that I get. If I give away the listings, it's not going to do my own house any good.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This quote highlights a unique perspective on why agents should focus on their local market.",
+      "suggested_hook": "Why your home value depends on your real estate listings!"
+    },
+    {
+      "timestamp": "00:25:20",
+      "end_timestamp": "00:25:47",
+      "quote": "Garage sales are a great way to find potential sellers because people often have them when they're preparing to move.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This provides a tactical tip that agents can implement immediately.",
+      "suggested_hook": "Want to find your next seller? Look for garage sales!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Organize neighborhood garage sales to identify potential sellers.",
+      "context": "Use garage sales as a way to connect with homeowners who may be preparing to move.",
+      "timestamp": "00:25:20"
+    },
+    {
+      "tactic": "Use QR codes on mailers to track engagement and gather leads.",
+      "context": "Assign unique QR codes to each mailer to identify which addresses are engaging with your content.",
+      "timestamp": "00:51:00"
+    }
+  ],
+  "quotable_insights": [
+    "Mailers are not dead; they're a powerful tool with a 10X ROI in today's market.",
+    "Focus on what you can do consistently and effectively, like geographic farming."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Success with Real Estate Mailers",
+      "context": "Janine's book on how to effectively use mailers for lead generation."
+    },
+    {
+      "type": "website",
+      "name": "The Hyper Local Agent",
+      "context": "Janine's website offering courses and resources for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Janine Sasso shares her expertise on leveraging mailers and geographic farming to achieve a high ROI in real estate. She discusses how these strategies can be particularly effective for agents balancing a career with family life, offering practical tips and insights for immediate implementation.",
+  "_metadata": {
+    "source_file": "2023-12-21_item191_Janine-Sasso",
+    "analyzed_at": "2026-01-26T22:19:34.688597",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "17:30",
+      "end_timestamp": "18:15",
+      "quote": "Just moving into an S Corporation structure can save you 15% in self-employment taxes.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights a significant financial benefit that many agents are unaware of.",
+      "suggested_hook": "Are you leaving money on the table with your current tax setup?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you leaving money on the table with your current tax setup?\",\n    \"SETUP\": \"Real estate agents, listen up! Many of you might be missing out on a huge tax-saving opportunity.\",\n    \"INSIGHT\": \"Shahar Plinner shares that by simply moving into an S Corporation structure, you can save 15% in self-employment taxes. This is a game-changer for agents looking to maximize their earnings.\",\n    \"REFRAME/APPLICATION\": \"Think about what 15% savings could mean for your business. It's time to evaluate your entity structure and start saving.\",\n    \"CTA\": \"Ready to save more? Consult a tax professional today and explore the benefits of an S Corporation.\"\n  },\n  \"CAPTION\": \"Save 15% on taxes with an S Corp! Are you missing out? #RealEstate #TaxSavings\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#TaxSavings\",\n    \"#SCorporation\",\n    \"#FinancialPlanning\",\n    \"#BusinessGrowth\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:30",
+      "end_timestamp": "26:00",
+      "quote": "The number one mistake we see real estate agents making is co-mingling of funds.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Addresses a common issue with a clear solution, making it actionable.",
+      "suggested_hook": "Is mixing your personal and business finances costing you?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is mixing your personal and business finances costing you?\",\n    \"SETUP\": \"Real estate agents, are you unknowingly sabotaging your financial success? Mixing funds could be your downfall.\",\n    \"INSIGHT\": \"Shahar Plinner highlights the number one mistake: co-mingling funds. This common error can lead to tax headaches and financial disarray. Separate your accounts to streamline tax savings and enhance financial clarity.\",\n    \"REFRAME/APPLICATION\": \"By maintaining distinct accounts, you not only simplify tax filings but also gain a clearer picture of your business health. It's a small change with big benefits.\",\n    \"CTA\": \"Ready to optimize your finances? Start by separating your accounts today. Share your thoughts below!\"\n  },\n  \"CAPTION\": \"Stop co-mingling funds! Separate your finances for better tax savings. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#FinancialPlanning\",\n    \"#TaxSavings\",\n    \"#BusinessSuccess\",\n    \"#RealEstateAgent\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\"\n}\n```"
+  }
+]

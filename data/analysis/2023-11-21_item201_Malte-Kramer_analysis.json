@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Malte Kramer",
+    "title": "CEO and Founder",
+    "company": "Luxury Presence",
+    "production_level": "Top 1%",
+    "specialty": "Real Estate Marketing Platform",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Importance of REALTOR websites",
+    "SEO and lead generation strategies",
+    "Role of AI in real estate marketing",
+    "Website design trends",
+    "Agent recruitment through branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Websites not generating leads",
+      "solution_summary": "Combine aesthetic design with performance marketing tools for effective lead generation.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Low conversion rates from website visitors",
+      "solution_summary": "Implement Google one-click login and exit intent forms to capture leads.",
+      "timestamp": "38:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing leads effectively",
+      "solution_summary": "Use AI tools for automated lead nurturing and CRM integrations for comprehensive management.",
+      "timestamp": "22:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging technology for scaling business.",
+      "key_takeaway": "Invest in a high-quality website that combines design and functionality to attract and convert leads."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The discussion on recruitment and team growth strategies is highly relevant.",
+      "key_takeaway": "Use your website as a tool for attracting top talent by showcasing your brand effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "The reality is you have to drive traffic there somehow. SEO, social media, and paid advertising are the three main ways.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable overview of traffic generation strategies.",
+      "suggested_hook": "Are you struggling to get traffic to your real estate website?"
+    },
+    {
+      "timestamp": "38:00",
+      "end_timestamp": "39:00",
+      "quote": "The Google one-click login is the single most effective tool for capturing leads from your website.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a simple yet powerful tactic that can be easily implemented.",
+      "suggested_hook": "Want to capture more leads from your real estate website effortlessly?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement Google one-click login",
+      "context": "To increase lead capture rates on your website.",
+      "timestamp": "38:00"
+    },
+    {
+      "tactic": "Use exit intent forms",
+      "context": "To offer value and capture leads as visitors are about to leave your site.",
+      "timestamp": "40:00"
+    }
+  ],
+  "quotable_insights": [
+    "Not having a website means you're missing out on business almost certainly.",
+    "Combine aesthetics with performance to create a website that not only looks good but also generates leads."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Luxury Presence",
+      "context": "The company provides high-end real estate websites and marketing solutions."
+    }
+  ],
+  "episode_summary": "In this episode, Malte Kramer discusses the importance of combining aesthetic design with performance marketing tools to create effective REALTOR websites. He highlights the role of SEO, social media, and paid advertising in driving traffic, and shares insights on using AI for lead nurturing. The episode also covers website design trends and how agents can use their online presence for recruitment and brand building.",
+  "_metadata": {
+    "source_file": "2023-11-21_item201_Malte-Kramer",
+    "analyzed_at": "2026-01-26T21:35:27.054209",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

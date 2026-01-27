@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:30",
+      "end_timestamp": "06:15",
+      "quote": "We buy a house every 13 minutes. We want to buy more.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the scale and efficiency of New Western's operations.",
+      "suggested_hook": "Ever wondered how fast a real estate investment company can move?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK (0:00-0:08)\": \"Ever wondered how fast a real estate investment company can move? We buy a house every 13 minutes!\",\n    \"SETUP (0:08-0:18)\": \"Meet Kurt Byers from New Western, a powerhouse in real estate investments. Their efficiency is changing the game.\",\n    \"INSIGHT (0:18-0:40)\": \"With a focus on distressed properties and agent partnerships, New Western has streamlined their process to acquire homes rapidly. This approach not only benefits investors but also offers solutions to homeowners in challenging situations.\",\n    \"REFRAME/APPLICATION (0:40-0:52)\": \"Imagine applying this level of efficiency to your own real estate strategies. It could revolutionize how you approach investments and partnerships.\",\n    \"CTA (0:52-0:60)\": \"Want to learn more about scaling your real estate business? Tune into our latest episode with Kurt Byers!\"\n  },\n  \"CAPTION\": \"New Western buys a house every 13 minutes! Discover their secret to success. 🎙️🏠\",\n  \"HASHTAGS\": [\"#RealEstateInvesting\", \"#PropertyInvestment\", \"#MarketTrends\", \"#AgentPartnerships\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "You don't have to become an expert in real estate investment. You just have to see a house that you want to sell that would be really hard to list.",
+      "clip_type": "permission_slip",
+      "why_clipworthy": "Gives agents permission to leverage New Western without needing deep investment knowledge.",
+      "suggested_hook": "Not an investment expert? No problem!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"(0:00-0:08) Not an investment expert? No problem! Discover how to succeed in real estate without deep knowledge.\",\n    \"SETUP\": \"(0:08-0:18) Meet Kurt Byers, discussing how agents can leverage New Western for challenging listings without being investment pros.\",\n    \"INSIGHT\": \"(0:18-0:40) 'You don't have to become an expert in real estate investment. You just have to see a house that you want to sell that would be really hard to list,' says Kurt. Use New Western to navigate these tricky properties.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This approach empowers agents to tackle tough listings confidently, expanding their business without extra expertise.\",\n    \"CTA\": \"(0:52-0:60) Ready to transform your listings? Explore New Western's solutions today and elevate your real estate game!\"\n  },\n  \"CAPTION\": \"Unlock real estate success without being an investment expert! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#Investment\",\n    \"#AgentSuccess\",\n    \"#NewWestern\",\n    \"#PropertySolutions\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\"\n}\n```"
+  }
+]

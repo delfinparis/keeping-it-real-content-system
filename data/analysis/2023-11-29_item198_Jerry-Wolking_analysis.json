@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jerry Wolking",
+    "title": "Real Estate Agent",
+    "company": "Keller Williams Greater Quad Cities",
+    "production_level": "Experienced agent with 30+ years",
+    "specialty": "Residential and Commercial Real Estate",
+    "location": "Quad Cities, Illinois and Iowa"
+  },
+  "main_topics": [
+    "Importance of Reputation in Real Estate",
+    "Transition from Landscaping to Real Estate",
+    "Navigating Market Cycles",
+    "Value of Education and Certifications",
+    "Involvement in Real Estate Associations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating high interest rate environments",
+      "solution_summary": "Adapt by learning about financing options like buy downs and understanding market shifts.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a strong reputation",
+      "solution_summary": "Focus on being the chaste, not the chaser, and provide value through knowledge and service.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling dual specialties in residential and commercial real estate",
+      "solution_summary": "Learn the distinct languages and processes of both sectors to effectively manage transactions.",
+      "timestamp": "40:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights on how to adapt to market changes and expand expertise.",
+      "key_takeaway": "Diversify your skills and knowledge to weather market fluctuations and increase your value proposition."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Jerry shares strategies for staying relevant and successful over a long career.",
+      "key_takeaway": "Continuously learn and adapt to new market conditions and client needs to maintain a thriving business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "I'm not interested in a part-time agent.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a pivotal moment that led to a major career decision.",
+      "suggested_hook": "What one client said that changed my career forever."
+    },
+    {
+      "timestamp": "16:00",
+      "end_timestamp": "16:45",
+      "quote": "There's always somebody buying something. There's always somebody selling something.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to find opportunities in any market condition.",
+      "suggested_hook": "How to find opportunities in any market."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Learn about financing options like buy downs to assist clients in high interest rate environments.",
+      "context": "When interest rates are high and clients feel trapped by their current mortgage rates.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Get involved with local real estate associations to expand your network and knowledge.",
+      "context": "To build relationships and gain insights into industry trends.",
+      "timestamp": "29:00"
+    }
+  ],
+  "quotable_insights": [
+    "It is far too easy to get a real estate license. There are so many people in this industry who shouldn't be in it.",
+    "Be the chaste, not the chaser."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Graduate REALTORS Institute (GRI)",
+      "context": "Recommended for new agents to gain a comprehensive education in real estate."
+    },
+    {
+      "type": "designation",
+      "name": "Certified Negotiation Expert",
+      "context": "Valuable for agents to enhance their negotiation skills and client trust."
+    }
+  ],
+  "episode_summary": "In this episode, Jerry Wolking shares his journey from landscaping to a successful real estate career, emphasizing the importance of reputation and continuous learning. He provides insights on navigating market cycles, the value of certifications like GRI, and the benefits of being involved in real estate associations. Jerry also discusses the distinct challenges and opportunities in both residential and commercial real estate.",
+  "_metadata": {
+    "source_file": "2023-11-29_item198_Jerry-Wolking",
+    "analyzed_at": "2026-01-26T22:14:41.414603",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

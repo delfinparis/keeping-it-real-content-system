@@ -1,0 +1,95 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group at @properties",
+    "production_level": "Top 0.001% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Real estate market predictions for 2024",
+    "Lead generation strategies",
+    "The role of AI in real estate",
+    "Importance of collaboration in the industry"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding effective ways to generate leads in 2024",
+      "solution_summary": "Utilize QR codes, YouTube educational videos, AI, Instagram lead capture, and personal networking.",
+      "timestamp": "07:01"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding market trends and predictions for 2024",
+      "solution_summary": "Mortgage rates are expected to decrease, leading to more buyer activity; inflation remains a concern.",
+      "timestamp": "05:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced lead generation strategies and market insights.",
+      "key_takeaway": "Incorporating AI and strategic partnerships can significantly enhance lead generation and market positioning."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical tips for improving lead generation and market understanding.",
+      "key_takeaway": "Focus on building relationships and using technology to capture and convert leads."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:01",
+      "end_timestamp": "08:34",
+      "quote": "QR codes can track. So make sure you find a way and a system to make sure that those are capturing data.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific, actionable tactic that agents can implement immediately.",
+      "suggested_hook": "Are you using QR codes to their full potential in real estate?"
+    },
+    {
+      "timestamp": "11:50",
+      "end_timestamp": "12:17",
+      "quote": "Don't forget about the baby boomers. They control 70% of wealth in our country right now.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Reveals a significant market opportunity that many agents might overlook.",
+      "suggested_hook": "Did you know baby boomers control 70% of the wealth in the U.S.?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to enhance property descriptions and social media strategies.",
+      "context": "Leverage AI tools to generate engaging content and optimize online presence.",
+      "timestamp": "08:02"
+    },
+    {
+      "tactic": "Buy lunch instead of leads to build stronger relationships.",
+      "context": "Invest in face-to-face meetings to create lasting connections and generate referrals.",
+      "timestamp": "09:10"
+    }
+  ],
+  "quotable_insights": [
+    "Collaboration is going to be a big deal in 2024.",
+    "The average homeowner has accumulated $396,000 in wealth over the last three years."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Remind",
+      "context": "Used within MLS to locate second homes and potential leads."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her insights on the 2024 real estate market, emphasizing the importance of collaboration and strategic lead generation. She discusses innovative tactics such as using QR codes, AI, and personal networking to capture leads. Carrie also highlights the potential of targeting baby boomers, who control a significant portion of the nation's wealth.",
+  "_metadata": {
+    "source_file": "2024-01-08_item188_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T22:22:53.552253",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

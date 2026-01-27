@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "My grandmother was the very first female broker in the Quad Cities area back in 1954.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a pioneering family history that adds depth to Brad's real estate story.",
+      "suggested_hook": "Discover the legacy of a real estate pioneer."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Discover the legacy of a real estate pioneer!\",\n    \"SETUP\": \"Meet Brad Boeye, whose grandmother broke barriers as the first female broker in the Quad Cities in 1954.\",\n    \"INSIGHT\": \"Brad shares how his grandmother's pioneering spirit shaped his approach to real estate. Her story isn't just family history; it's a testament to resilience and innovation in a male-dominated industry.\",\n    \"REFRAME/APPLICATION\": \"Understanding your roots can provide a unique perspective in branding and client relationships. Embrace your history to stand out.\",\n    \"CTA\": \"How does your personal history influence your business? Share your story with us!\"\n  },\n  \"CAPTION\": \"Brad Boeye's family legacy in real estate inspires innovation and resilience. #RealEstateLegacy\",\n  \"HASHTAGS\": [\n    \"#RealEstateLegacy\",\n    \"#PioneeringWomen\",\n    \"#FamilyHistory\",\n    \"#RealEstateInspiration\",\n    \"#ClientRelationships\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "15:00",
+      "end_timestamp": "15:45",
+      "quote": "Always trust your wife... if we wouldn't have done that then, we would have been left in the dust.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "A humorous yet insightful reminder of the importance of adapting to change.",
+      "suggested_hook": "Why listening to your partner can transform your business."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Ever thought your partner's advice could save your business?\",\n    \"SETUP\": \"Meet Brad Boeye, a real estate expert who learned the hard way. In a rapidly changing market, ignoring advice can leave you behind.\",\n    \"INSIGHT\": \"Brad shares a pivotal moment: 'Always trust your wife... if we wouldn't have done that then, we would have been left in the dust.' This humorous yet insightful reminder emphasizes the importance of adapting to change.\",\n    \"REFRAME/APPLICATION\": \"Listening to diverse perspectives, especially from those close to you, can offer fresh insights and keep your business ahead in evolving markets.\",\n    \"CTA\": \"Think about whose advice you've been ignoring. Could it transform your business? Share your thoughts in the comments!\"\n  },\n  \"caption\": \"Why listening to your partner can be your business's secret weapon. 💡\",\n  \"hashtags\": [\"#RealEstateTips\", \"#BusinessAdvice\", \"#MarketTrends\", \"#AdaptToChange\", \"#PartnerPower\"],\n  \"content_pillar\": \"real_talk\"\n}\n```"
+  }
+]

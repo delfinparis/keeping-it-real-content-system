@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Courtney Hatfield",
+    "title": "Top Producing Agent and Team Lead",
+    "company": "Your Home Court Team, McDowell Homes",
+    "production_level": "Top 1% of Northeast Ohio",
+    "specialty": "Social Media Marketing",
+    "location": "Cleveland, Ohio and surrounding areas"
+  },
+  "main_topics": [
+    "Social Media Marketing for Real Estate",
+    "Building a Real Estate Team",
+    "Personal Branding",
+    "Mindset and Motivation",
+    "Overcoming Challenges in Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not advertising themselves effectively on social media",
+      "solution_summary": "Ensure your social media profiles clearly indicate you are a real estate agent by using your cover photo and profile picture strategically.",
+      "timestamp": "16:06"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media",
+      "solution_summary": "Consistently post engaging content, use stories daily, and tag local businesses to increase visibility.",
+      "timestamp": "18:10"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of failure and lack of confidence",
+      "solution_summary": "Bet on yourself and understand that failure is a part of growth; it's about getting back up and trying again.",
+      "timestamp": "11:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Courtney's journey from a new agent to a top producer is inspiring and provides a roadmap for growth.",
+      "key_takeaway": "Consistent social media presence and betting on oneself can significantly impact business growth."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Courtney discusses building a successful team and the importance of leadership.",
+      "key_takeaway": "Leverage your unique leadership style to build and grow a successful real estate team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "11:03",
+      "end_timestamp": "12:00",
+      "quote": "Betting on yourself might feel risky, but it's maybe not as risky as people think.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages listeners to take risks and trust in their abilities.",
+      "suggested_hook": "Why betting on yourself is the best investment you can make."
+    },
+    {
+      "timestamp": "16:06",
+      "end_timestamp": "16:40",
+      "quote": "When I go to your page, how do I know that you sell real estate?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a common mistake with a clear solution.",
+      "suggested_hook": "Is your social media profile costing you clients?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Post consistently on social media with a focus on personal branding.",
+      "context": "Use your profile and cover photos to clearly indicate your profession.",
+      "timestamp": "16:06"
+    },
+    {
+      "tactic": "Engage with local businesses by tagging them in your posts.",
+      "context": "This increases visibility and positions you as a community expert.",
+      "timestamp": "24:06"
+    },
+    {
+      "tactic": "Send personalized video messages to leads.",
+      "context": "Use video messages to follow up with open house visitors or new leads.",
+      "timestamp": "45:09"
+    }
+  ],
+  "quotable_insights": [
+    "You don't get water the same day you dig the well.",
+    "Your face is your brand; when someone thinks real estate, they should think of you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "Used for sending personalized video messages to leads."
+    }
+  ],
+  "episode_summary": "In this episode, Courtney Hatfield shares her journey from a stay-at-home mom to a top-producing real estate agent, emphasizing the power of social media marketing. She provides actionable insights on building a personal brand, engaging with local businesses, and using video messages to connect with leads. Her story is a testament to the impact of betting on oneself and leveraging social media to grow a successful real estate business.",
+  "_metadata": {
+    "source_file": "2022-11-09_item300_Courtney-Hatfield",
+    "analyzed_at": "2026-01-26T22:12:36.470615",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

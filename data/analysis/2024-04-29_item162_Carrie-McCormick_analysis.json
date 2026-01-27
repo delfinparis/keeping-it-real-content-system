@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Building a personal brand in real estate",
+    "Networking and relationship building",
+    "Challenges of time management and delegation",
+    "Staying positive in challenging market conditions",
+    "Importance of authentic client communication"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to build a successful personal brand in real estate",
+      "solution_summary": "Carrie emphasizes patience, hard work, and authenticity in building her brand over 20 years.",
+      "timestamp": "04:04"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Effective client communication",
+      "solution_summary": "Carrie suggests being proactive in communication to ensure clients feel valued and informed.",
+      "timestamp": "27:47"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Struggling with time management and delegation",
+      "solution_summary": "Carrie discusses the importance of delegating tasks and managing time effectively to focus on client relationships.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Carrie's journey from a corporate job to a top producer provides a roadmap for agents aiming for high production levels.",
+      "key_takeaway": "Authenticity and building strong client relationships are key to long-term success."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Carrie's emphasis on patience and hard work in building a brand.",
+      "key_takeaway": "Focus on learning the market and building genuine client relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:11",
+      "end_timestamp": "09:59",
+      "quote": "I am not the number one broker... but what I wanted to do is talk to you about your home and what I can do for you.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This moment highlights the power of authenticity and client focus in winning business.",
+      "suggested_hook": "Why being honest with your clients can win you more business."
+    },
+    {
+      "timestamp": "15:03",
+      "end_timestamp": "15:30",
+      "quote": "I don't think this is a good idea, and here's why.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Shows the importance of having a strong opinion and the courage to express it.",
+      "suggested_hook": "Why challenging a developer's plan might just land you the job."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Research clients before meetings to tailor your approach.",
+      "context": "Understand their personality and preferences to better connect and provide value.",
+      "timestamp": "11:18"
+    },
+    {
+      "tactic": "Build a strong network of professionals.",
+      "context": "Use this network to find buyers for high-value properties.",
+      "timestamp": "24:43"
+    }
+  ],
+  "quotable_insights": [
+    "When you really come from a place of authentically putting the client's needs first, the client feels that, and they know that.",
+    "No one else can be you except for you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A recommended tool for lead generation and CRM for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Virtual Staging AI",
+      "context": "An AI tool for quick and affordable virtual staging."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her journey from corporate America to becoming a top 1% real estate producer in Chicago. She emphasizes the importance of authenticity, client communication, and building a strong professional network. Carrie also discusses the challenges of time management and delegation, offering insights into staying positive and solution-oriented in a challenging market.",
+  "_metadata": {
+    "source_file": "2024-04-29_item162_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T22:37:55.197363",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

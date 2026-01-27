@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:24:51",
+      "end_timestamp": "00:25:07",
+      "quote": "The folks who have the least and know the least will pay the most.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that rule changes will benefit all buyers equally.",
+      "suggested_hook": "Are new real estate rules really helping buyers?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Are new real estate rules really helping buyers?\",\n    \"SETUP\": \"(0:08-0:18) Chris Lincel challenges the notion that rule changes benefit all buyers equally. In today's market, who really gains?\",\n    \"INSIGHT\": \"(0:18-0:40) 'The folks who have the least and know the least will pay the most,' says Chris. New rules might seem fair, but they often favor those with more resources and knowledge, leaving the rest at a disadvantage.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This matters because understanding these dynamics can help you navigate the market better. Equip yourself with knowledge to avoid paying more.\",\n    \"CTA\": \"(0:52-0:60) Think about how these changes affect your buying strategy. Share your thoughts in the comments or reach out for more insights.\"\n  },\n  \"CAPTION\": \"Are new real estate rules really helping buyers? 🤔 #RealEstateTruth\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#BuyerBeware\", \"#MarketInsights\", \"#RealEstateRules\", \"#ChrisLincel\"],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:58:06",
+      "end_timestamp": "00:58:28",
+      "quote": "If your value is tied to your ability to provide expert level service... AI is not going to take your job.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on expertise over task execution.",
+      "suggested_hook": "Worried about AI taking over real estate jobs? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Worried about AI taking over real estate jobs? Here's why you shouldn't be.\",\n    \"SETUP\": \"In today's rapidly evolving market, real estate agents face the challenge of AI advancements. But there's a silver lining.\",\n    \"INSIGHT\": \"Chris Lincel shares a key insight: 'If your value is tied to your ability to provide expert level service... AI is not going to take your job.' Focus on honing your expertise rather than just executing tasks.\",\n    \"REFRAME/APPLICATION\": \"This mindset shift ensures your relevance. Elevate your service to an expert level, and AI becomes a tool, not a threat.\",\n    \"CTA\": \"Reflect on your unique skills. How can you enhance your expert service? Share your thoughts in the comments!\"\n  },\n  \"caption\": \"AI won't replace expert-level service. Elevate your skills! #RealEstateAdvice\",\n  \"hashtags\": [\"#RealEstateAdvice\", \"#AIInRealEstate\", \"#ExpertService\", \"#RealEstateMindset\", \"#FutureOfRealEstate\"],\n  \"content_pillar\": \"ai_agent\"\n}\n```"
+  }
+]

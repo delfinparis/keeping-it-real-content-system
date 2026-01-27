@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "23:00",
+      "end_timestamp": "24:00",
+      "quote": "The worst time to learn how to fight is while you're in a fight.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a powerful metaphor for being prepared in advance for industry changes.",
+      "suggested_hook": "Are you ready for the real estate industry's biggest fight yet?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"(0:00-0:08) Are you ready for the real estate industry's biggest fight yet?\",\n    \"SETUP\": \"(0:08-0:18) Chris Linsell discusses the seismic shifts in real estate compensation. Are you prepared for zero dollar co-op commissions?\",\n    \"INSIGHT\": \"(0:18-0:40) The worst time to learn how to fight is while you're in a fight. This metaphor highlights the need for agents to adapt to changes like buyer broker agreements and DOJ proposals.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) Understanding these changes now can position you ahead of the curve. Prepare your strategies to thrive in this evolving market.\",\n    \"CTA\": \"(0:52-0:60) How will you adapt? Share your thoughts or strategies in the comments below!\"\n  },\n  \"CAPTION\": \"Are you ready for the real estate industry's biggest fight yet? Learn how to stay ahead. #RealEstate #IndustryChanges\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#IndustryChanges\", \"#RealEstateAgents\", \"#MarketShift\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "47:00",
+      "end_timestamp": "48:00",
+      "quote": "Disruption is the ground on which innovation is built.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to see industry changes as opportunities for growth.",
+      "suggested_hook": "How can you turn disruption into your greatest opportunity?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"How can you turn disruption into your greatest opportunity?\",\n    \"SETUP\": \"Chris Linsell joins us to discuss the shifting landscape of real estate. With zero dollar co-op commissions and DOJ proposals, change is here.\",\n    \"INSIGHT\": \"Disruption is the ground on which innovation is built. Embrace these changes as a chance to rethink your strategies and grow your business.\",\n    \"REFRAME/APPLICATION\": \"This mindset shift can transform challenges into growth. Start by identifying one area in your business ripe for innovation.\",\n    \"CTA\": \"What disruption are you facing today? Share your thoughts and let's innovate together!\"\n  },\n  \"caption\": \"Turn disruption into opportunity. Embrace change and innovate! 💡\",\n  \"hashtags\": [\n    \"#RealEstateInnovation\",\n    \"#MindsetShift\",\n    \"#GrowthOpportunity\",\n    \"#RealEstateTrends\",\n    \"#AgentSuccess\"\n  ],\n  \"content_pillar\": \"mindset_shift\"\n}\n```"
+  }
+]

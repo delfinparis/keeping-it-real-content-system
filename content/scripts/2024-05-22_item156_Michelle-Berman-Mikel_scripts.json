@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "12:30",
+      "end_timestamp": "13:15",
+      "quote": "If you want conversion, you have to create connection first and then let the conversation happen.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This moment emphasizes the importance of connection over mere content posting, which is a fundamental shift for many agents.",
+      "suggested_hook": "Are you focusing on the wrong Instagram strategy?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you focusing on the wrong Instagram strategy?\",\n    \"SETUP\": \"In the real estate world, many agents are stuck in the cycle of constant posting without real results.\",\n    \"INSIGHT\": \"Michelle Berman Mikel shares that true conversion starts with connection. It's not just about posting content; it's about engaging authentically.\",\n    \"REFRAME/APPLICATION\": \"Shift your focus from quantity to quality. Build genuine relationships and let conversations naturally lead to conversions.\",\n    \"CTA\": \"Think about your last post. Did it invite connection? Comment below with your thoughts!\"\n  },\n  \"CAPTION\": \"Connection over content! Are you engaging authentically? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#InstagramStrategy\",\n    \"#ConnectionOverContent\",\n    \"#RealEstateMarketing\",\n    \"#SocialMediaGrowth\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

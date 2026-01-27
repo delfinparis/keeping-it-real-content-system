@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "11:03",
+      "end_timestamp": "12:00",
+      "quote": "Betting on yourself might feel risky, but it's maybe not as risky as people think.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages listeners to take risks and trust in their abilities.",
+      "suggested_hook": "Why betting on yourself is the best investment you can make."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Ever thought betting on yourself is too risky? Think again!\",\n    \"SETUP\": \"(0:08-0:18) Meet Courtney Hatfield, a real estate expert who believes the biggest risk is not taking one. Here's why you should care.\",\n    \"INSIGHT\": \"(0:18-0:40) Courtney shares, 'Betting on yourself might feel risky, but it's maybe not as risky as people think.' Trusting your skills and instincts can lead to breakthroughs in your real estate career.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) When you invest in yourself, you open doors to new opportunities and growth. Apply this mindset to build your brand and team.\",\n    \"CTA\": \"(0:52-0:60) Ready to take the leap? Start by setting one bold goal today and share your journey with us!\"\n  },\n  \"CAPTION\": \"Betting on yourself is the best investment. Are you ready to take the leap? #MindsetShift\",\n  \"HASHTAGS\": [\"#RealEstateMindset\", \"#BetOnYourself\", \"#RealEstateSuccess\", \"#PersonalGrowth\", \"#CourtneyHatfield\"],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "16:06",
+      "end_timestamp": "16:40",
+      "quote": "When I go to your page, how do I know that you sell real estate?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a common mistake with a clear solution.",
+      "suggested_hook": "Is your social media profile costing you clients?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is your social media profile costing you clients?\",\n    \"SETUP\": \"Courtney Hatfield reveals a common mistake real estate agents make on social media that could be losing them potential clients.\",\n    \"INSIGHT\": \"When someone visits your page, they should instantly know you sell real estate. Make sure your bio clearly states your profession and location. Use a professional photo and showcase your listings and successes.\",\n    \"REFRAME/APPLICATION\": \"Your profile is your digital storefront. Ensure it reflects your expertise and attracts clients by being clear and professional.\",\n    \"CTA\": \"Audit your social media today. Does it clearly say you sell real estate? Share your thoughts in the comments!\"\n  },\n  \"CAPTION\": \"Is your profile losing you clients? Make sure it clearly shows you're in real estate! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateMarketing\",\n    \"#SocialMediaStrategy\",\n    \"#PersonalBranding\",\n    \"#RealEstateAgent\",\n    \"#ClientAttraction\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

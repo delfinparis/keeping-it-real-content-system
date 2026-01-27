@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:16",
+      "end_timestamp": "11:02",
+      "quote": "If we just see a five, if we just see five, nine, nine, nine, nine, nine, nine, like just a five, I think we would have like a wild spring.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential impact of interest rate changes on the market.",
+      "suggested_hook": "Could a small drop in interest rates ignite the real estate market?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Could a small drop in interest rates ignite the real estate market?\",\n    \"SETUP\": \"Lisa Troyano Ascolese shares how a minor interest rate change could transform the market landscape.\",\n    \"INSIGHT\": \"If we just see a five, if we just see five, nine, nine, nine, nine, nine, nine, like just a five, I think we would have like a wild spring.\",\n    \"REFRAME/APPLICATION\": \"Understanding these shifts can help agents prepare for a surge in activity and capitalize on new opportunities.\",\n    \"CTA\": \"Consider how a rate change could impact your strategy. Are you ready to adapt?\"\n  },\n  \"CAPTION\": \"Could a small rate drop spark a real estate boom? Discover what it means for you. #RealEstateInsights\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#MarketTrends\",\n    \"#InterestRates\",\n    \"#AgentDevelopment\",\n    \"#RealEstateStrategy\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "24:38",
+      "end_timestamp": "25:03",
+      "quote": "Find a way that you can create a platform for yourself where you stand out because like I said earlier, we have a thousand eleven REALTORS that identify with Hoboken as a pro, that's insane.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of differentiation in a saturated market.",
+      "suggested_hook": "How do you stand out in a market with over a thousand competitors?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) How do you stand out in a market with over a thousand competitors?\",\n    \"SETUP\": \"(0:08-0:18) Meet Lisa Troyano Ascolese, a real estate expert who knows the importance of differentiation in a saturated market.\",\n    \"INSIGHT\": \"(0:18-0:40) 'Find a way that you can create a platform for yourself where you stand out because like I said earlier, we have a thousand eleven REALTORS that identify with Hoboken as a pro, that's insane.'\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) In a crowded field, unique branding is your secret weapon. Start by identifying what makes you different.\",\n    \"CTA\": \"(0:52-0:60) Ready to stand out? Share your unique value proposition in the comments below!\"\n  },\n  \"CAPTION\": \"Stand out in a crowded market with unique branding. What's your secret weapon? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#AgentDevelopment\",\n    \"#MarketStrategies\",\n    \"#StandOut\",\n    \"#RealEstateMarketing\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

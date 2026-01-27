@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Dr. Erin Helle",
+    "title": "REALTOR and Investor Coach",
+    "company": "eXp Realty",
+    "production_level": "Top REALTOR with a growing team",
+    "specialty": "Real estate coaching and team building",
+    "location": "Not specifically mentioned"
+  },
+  "main_topics": [
+    "Mindset and goal setting",
+    "Business profitability and wealth building",
+    "Health and work-life balance",
+    "Real estate systems and operations",
+    "Dream building and visualization"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of clarity in goal setting",
+      "solution_summary": "Define personal goals that truly matter to you, not influenced by others, and focus on results that are important to you.",
+      "timestamp": "05:01"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Building a profitable business",
+      "solution_summary": "Focus on making your business profitable first, then build wealth and focus on health.",
+      "timestamp": "06:34"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Neglecting health while building a business",
+      "solution_summary": "Emphasize health as a priority alongside business and wealth to prevent burnout.",
+      "timestamp": "07:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides a roadmap for achieving business success while maintaining personal well-being.",
+      "key_takeaway": "Define your goals clearly and align your business efforts with your personal dreams and health priorities."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights into building and mentoring a successful real estate team.",
+      "key_takeaway": "Surround yourself with like-minded individuals and focus on shared goals and values."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:02",
+      "end_timestamp": "09:35",
+      "quote": "If you do what I tell you, I promise you that in a year you won't recognize yourself.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This statement is motivational and promises transformative results, resonating with listeners seeking change.",
+      "suggested_hook": "Want to transform your life in just one year? Here's how!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Block 30 to 60 minutes for uninterrupted goal setting.",
+      "context": "Use this time to define your ideal business, wealth, and health.",
+      "timestamp": "09:30"
+    },
+    {
+      "tactic": "Write goals in the present tense.",
+      "context": "This helps in visualizing and manifesting your desired outcomes.",
+      "timestamp": "11:55"
+    }
+  ],
+  "quotable_insights": [
+    "Dream big, start small, but most of all start."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Dr. Erin Helle introduces her new series focused on helping real estate agents grow their businesses while maintaining personal well-being. She emphasizes the importance of clear goal setting, business profitability, and health as key pillars for success. Listeners are encouraged to visualize their ideal life and take actionable steps towards achieving it.",
+  "_metadata": {
+    "source_file": "2024-03-15_item175_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-26T22:31:21.466922",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

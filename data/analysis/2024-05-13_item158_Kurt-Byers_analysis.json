@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kurt Byers",
+    "title": "Head of Brokerage Partnerships",
+    "company": "New Western",
+    "production_level": "Grown partnership deal revenue by 77% year over year",
+    "specialty": "Real estate investment marketplace",
+    "location": "40+ markets across the U.S."
+  },
+  "main_topics": [
+    "Real estate investment opportunities",
+    "Agent referral programs",
+    "Distressed property solutions",
+    "Market trends and predictions",
+    "Agent partnership strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not knowing what to do with investor leads",
+      "solution_summary": "New Western's podium program allows agents to submit distressed properties for cash offers within 24 hours.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Agents losing potential revenue from distressed properties",
+      "solution_summary": "Agents can earn a 2% referral fee by referring properties to New Western.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Handling properties in poor condition that are hard to list",
+      "solution_summary": "New Western provides cash offers and manages the renovation process.",
+      "timestamp": "12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides a new revenue stream for agents who encounter properties they can't easily list.",
+      "key_takeaway": "Use New Western's program to monetize distressed properties and earn referral fees."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers a way to expand services and increase revenue by tapping into the investment market.",
+      "key_takeaway": "Leverage New Western's expertise to handle properties outside your comfort zone."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:30",
+      "end_timestamp": "06:15",
+      "quote": "We buy a house every 13 minutes. We want to buy more.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the scale and efficiency of New Western's operations.",
+      "suggested_hook": "Ever wondered how fast a real estate investment company can move?"
+    },
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "You don't have to become an expert in real estate investment. You just have to see a house that you want to sell that would be really hard to list.",
+      "clip_type": "permission_slip",
+      "why_clipworthy": "Gives agents permission to leverage New Western without needing deep investment knowledge.",
+      "suggested_hook": "Not an investment expert? No problem!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Submit distressed properties to New Western for cash offers.",
+      "context": "When encountering properties that are difficult to list or require extensive renovation.",
+      "timestamp": "07:30"
+    },
+    {
+      "tactic": "Use demographic data to identify potential distressed properties.",
+      "context": "Targeting older neighborhoods or areas with high turnover.",
+      "timestamp": "28:00"
+    }
+  ],
+  "quotable_insights": [
+    "Relationship building transcends industries, making real estate the perfect transition.",
+    "Our investors love taking bad houses and making them livable."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "sell to newwestern.com",
+      "context": "Platform for agents to submit properties and learn about the referral program."
+    }
+  ],
+  "episode_summary": "In this episode, Kurt Byers from New Western discusses how real estate agents can leverage their podium program to submit distressed properties for cash offers, earning a 2% referral fee. The episode provides insights into identifying potential investment opportunities and expanding agent services without needing deep investment expertise.",
+  "_metadata": {
+    "source_file": "2024-05-13_item158_Kurt-Byers",
+    "analyzed_at": "2026-01-26T22:40:47.852001",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

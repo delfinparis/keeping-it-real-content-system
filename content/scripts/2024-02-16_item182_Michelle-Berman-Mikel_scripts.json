@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "Instagram literally hands that to you on a silver platter... you just created a community for yourself in your hyper local market.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific tactic for finding local connections on Instagram.",
+      "suggested_hook": "Discover how Instagram can become your local community builder!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Discover how Instagram can become your local community builder!\",\n    \"SETUP\": \"(0:08-0:18) Meet Michelle Berman Mikel, sharing how REALTORS can leverage Instagram to connect locally and build a personal brand.\",\n    \"INSIGHT\": \"(0:18-0:40) Instagram literally hands that to you on a silver platter... you just created a community for yourself in your hyper local market. By engaging with local hashtags and geotags, you can find and connect with potential clients right in your area.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This matters because building a local community on Instagram can lead to genuine relationships and more leads. Start by interacting with local posts today.\",\n    \"CTA\": \"(0:52-0:60) Ready to build your community? Start engaging with local content and watch your network grow. Comment below with your thoughts!\"\n  },\n  \"CAPTION\": \"Turn Instagram into your local community builder with these tips from Michelle Berman Mikel!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#InstagramMarketing\", \"#LocalCommunity\", \"#LeadGeneration\", \"#SocialMediaStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "39:20",
+      "end_timestamp": "40:00",
+      "quote": "Avoiding that feeling is literally why I developed the prospecting part of the Instagram platform the way that we do it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a shift from traditional cold calling to digital relationship building.",
+      "suggested_hook": "Tired of cold calling? Here's a better way to prospect!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Tired of cold calling? Here's a better way to prospect!\",\n    \"SETUP\": \"Meet Michelle Berman Mikel, a real estate pro who transformed her prospecting strategy. Discover why you should care.\",\n    \"INSIGHT\": \"Avoiding that feeling is literally why I developed the prospecting part of the Instagram platform the way that we do it. Shift from traditional cold calling to building genuine relationships online.\",\n    \"REFRAME/APPLICATION\": \"By focusing on digital connections, you can create a personal brand that attracts leads naturally. Start engaging, not just selling.\",\n    \"CTA\": \"Ready to transform your prospecting? Start building relationships on Instagram today!\"\n  },\n  \"caption\": \"Ditch cold calling! Discover Instagram strategies for real estate success. 💼📱\",\n  \"hashtags\": [\"#RealEstateTips\", \"#InstagramMarketing\", \"#LeadGeneration\", \"#DigitalProspecting\", \"#SocialMediaStrategy\"],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  }
+]

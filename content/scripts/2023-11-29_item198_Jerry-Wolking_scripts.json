@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "I'm not interested in a part-time agent.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a pivotal moment that led to a major career decision.",
+      "suggested_hook": "What one client said that changed my career forever."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK (0:00-0:08)\": \"What one client said that changed my career forever.\",\n    \"SETUP (0:08-0:18)\": \"This is about Jerry Wolking, a real estate agent who transitioned from landscaping to real estate. One client’s words shifted his entire career path.\",\n    \"INSIGHT (0:18-0:40)\": \"Jerry was working hard to establish himself in real estate when a client bluntly said, 'I'm not interested in a part-time agent.' This was a wake-up call for Jerry, pushing him to go all-in, earn certifications, and build a reputation in the industry.\",\n    \"REFRAME/APPLICATION (0:40-0:52)\": \"This matters because your commitment level can define your success. Whether you're new or experienced, going all-in can transform your business.\",\n    \"CTA (0:52-0:60)\": \"Think about your own career: Are you all-in? Share your thoughts in the comments or tag someone who needs to hear this.\"\n  },\n  \"CAPTION\": \"A client’s words can change everything. Are you all-in? #RealEstate #CareerChange\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#CareerChange\",\n    \"#Commitment\",\n    \"#Reputation\",\n    \"#Success\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "16:00",
+      "end_timestamp": "16:45",
+      "quote": "There's always somebody buying something. There's always somebody selling something.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to find opportunities in any market condition.",
+      "suggested_hook": "How to find opportunities in any market."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Ever wondered how some agents thrive in any market? Here's the secret to finding opportunities everywhere!\",\n    \"SETUP\": \"(0:08-0:18) Meet Jerry Wolking, a real estate expert who transitioned from landscaping to real estate, mastering market cycles.\",\n    \"INSIGHT\": \"(0:18-0:40) Jerry says, 'There's always somebody buying something. There's always somebody selling something.' This mindset shift helps agents spot opportunities even in challenging markets.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By focusing on education and certifications, you can enhance your reputation and uncover hidden opportunities in any market condition.\",\n    \"CTA\": \"(0:52-0:60) Ready to level up? Start by joining a real estate association and expand your network today!\"\n  },\n  \"CAPTION\": \"Discover how to find opportunities in any market with Jerry Wolking's expert advice! #RealEstateMindset\",\n  \"HASHTAGS\": [\"#RealEstateMindset\", \"#MarketOpportunities\", \"#RealtorTips\", \"#JerryWolking\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

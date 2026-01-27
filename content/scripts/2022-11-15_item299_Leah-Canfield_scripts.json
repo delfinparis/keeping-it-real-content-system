@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "21:30",
+      "end_timestamp": "22:15",
+      "quote": "Reach out to your local newspaper. These people are overworked and need content. If you help them, they will call you back.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for gaining media exposure.",
+      "suggested_hook": "Want to be the go-to real estate expert in your area? Here's how to get the media to call you!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Want to be the go-to real estate expert in your area? Here's how to get the media to call you!\",\n    \"SETUP\": \"(0:08-0:18) Meet Leah Canfield, a luxury real estate expert who transitioned from sports to real estate. She knows the power of media exposure.\",\n    \"INSIGHT\": \"(0:18-0:40) Leah shares a simple yet powerful tactic: 'Reach out to your local newspaper. These people are overworked and need content. If you help them, they will call you back.'\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This strategy can position you as a trusted expert in your community. Start building those media relationships today.\",\n    \"CTA\": \"(0:52-0:60) Ready to boost your credibility? Reach out to your local media and share your expertise. What's your first story pitch?\"\n  },\n  \"CAPTION\": \"Become the local real estate expert the media calls first! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateExpert\",\n    \"#MediaExposure\",\n    \"#LuxuryRealEstate\",\n    \"#BrandBuilding\",\n    \"#RealEstateAdvice\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "34:00",
+      "end_timestamp": "34:45",
+      "quote": "If you want to go fast, go alone. If you want to go far, go as a team.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the importance of teamwork in achieving long-term success.",
+      "suggested_hook": "Are you trying to do it all alone? Here's why building a team is crucial for lasting success."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Are you trying to do it all alone? Here's why building a team is crucial for lasting success.\",\n    \"SETUP\": \"(0:08-0:18) Meet Leah Canfield, a former athlete turned luxury real estate expert. She knows the power of teamwork in achieving long-term goals.\",\n    \"INSIGHT\": \"(0:18-0:40) Leah shares, 'If you want to go fast, go alone. If you want to go far, go as a team.' This wisdom is key in real estate, where collaboration can elevate your brand and client trust.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) Think about your business. Are you leveraging the strengths of a team to build credibility and achieve sustainable growth?\",\n    \"CTA\": \"(0:52-0:60) Start assembling your dream team today. Who will you invite to join your journey to success? Share your thoughts below!\"\n  },\n  \"caption\": \"Want to go far in real estate? Build a team. Leah Canfield explains why teamwork is essential for lasting success.\",\n  \"hashtags\": [\"#RealEstateSuccess\", \"#Teamwork\", \"#LuxuryRealEstate\", \"#BusinessGrowth\", \"#LeahCanfield\"],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  }
+]

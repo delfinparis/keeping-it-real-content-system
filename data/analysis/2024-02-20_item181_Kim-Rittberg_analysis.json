@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video and Podcast Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents get clients, leads, and more revenue through video and podcast",
+    "location": null
+  },
+  "main_topics": [
+    "Merging personal and professional content",
+    "Using discomfort to grow",
+    "Engagement through personal content",
+    "Aligning personal activities with professional branding",
+    "Content strategy for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents have feeds that are either too personal or too professional, missing out on client engagement.",
+      "solution_summary": "Merge personal and professional content to create a balanced feed that showcases both your personality and your professional credibility.",
+      "timestamp": "04:02"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents are uncomfortable with certain types of content creation.",
+      "solution_summary": "Embrace discomfort as a growth opportunity and use it to create engaging content that connects with your audience.",
+      "timestamp": "07:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode helps agents who are struggling to engage their audience by offering strategies to balance personal and professional content.",
+      "key_takeaway": "Integrating personal interests with professional content can increase engagement and client connection."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:02",
+      "end_timestamp": "09:29",
+      "quote": "Even if you don't like to dance, you should dance on video when the part of your personal life that you're bringing to social media is aligned.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges agents to step out of their comfort zones and find personal-professional alignment.",
+      "suggested_hook": "Why stepping out of your comfort zone can skyrocket your real estate career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Merge personal interests with professional content.",
+      "context": "Identify personal activities that can metaphorically relate to your real estate business and share them on social media.",
+      "timestamp": "06:01"
+    }
+  ],
+  "quotable_insights": [
+    "Your feed should not just be all personal or all professional; it's important to merge them both."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to convert leads and increase business."
+    },
+    {
+      "type": "tool",
+      "name": "Apply Design",
+      "context": "Suggested for virtual staging solutions to enhance real estate listings."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses the importance of balancing personal and professional content for real estate agents. She emphasizes using personal discomfort as a growth tool and aligning personal interests with professional branding to increase engagement and client connection. The episode provides actionable strategies for agents to enhance their social media presence and convert content into cash.",
+  "_metadata": {
+    "source_file": "2024-02-20_item181_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T22:27:00.341908",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
