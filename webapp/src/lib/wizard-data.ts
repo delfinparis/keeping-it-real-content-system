@@ -18,7 +18,7 @@ export interface WizardStep {
 // Step 1: Core Struggle - The big picture question (NOW 5 OPTIONS)
 export const STEP_1_CORE_STRUGGLES: WizardStep = {
   id: "core_struggle",
-  title: "What's the #1 thing holding this agent back?",
+  title: "What's the #1 thing holding you back?",
   subtitle: "Pick the one that fits best",
   options: [
     {
@@ -41,7 +41,7 @@ export const STEP_1_CORE_STRUGGLES: WizardStep = {
     },
     {
       id: "grow_personally",
-      label: "Stuck in their head",
+      label: "Stuck in my head",
       description: "Fear, doubt, burnout, or lack of confidence",
       icon: "🧠"
     },

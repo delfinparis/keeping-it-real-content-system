@@ -536,10 +536,10 @@ Let me know what you think after listening!`}
         {mode === "search" && !recommendations && (
           <div className="max-w-2xl mx-auto">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">
-              Describe the Agent's Challenge
+              Tell us what you're struggling with
             </h2>
             <textarea
-              placeholder="Example: 'They've been in the business for 3 years, doing about 10 deals a year, but can't seem to break through to the next level. They're working tons of hours but not seeing the results. Their main struggle is lead generation - they feel like their sphere is tapped out.'"
+              placeholder="Example: 'I've been in the business for 3 years, doing about 10 deals a year, but can't seem to break through to the next level. I'm working tons of hours but not seeing the results. My main struggle is lead generation - I feel like my sphere is tapped out.'"
               value={challenge}
               onChange={(e) => setChallenge(e.target.value)}
               rows={6}
@@ -550,7 +550,7 @@ Let me know what you think after listening!`}
               disabled={!challenge.trim()}
               className="mt-4 w-full bg-kale text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-kale-light transition disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              🎯 Get Episode Recommendations
+              Get Unstuck
             </button>
           </div>
         )}
@@ -613,10 +613,10 @@ Let me know what you think after listening!`}
             {/* Avatars */}
             <div>
               <h2 className="text-2xl font-bold text-gray-900 mb-2">
-                Browse by Agent Type
+                Browse by Experience Level
               </h2>
               <p className="text-gray-600 mb-8">
-                Get recommendations based on where the agent is in their career
+                Get recommendations based on where you are in your career
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

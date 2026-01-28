@@ -55,7 +55,7 @@ export default function ProblemWizard({ onComplete, onQuickSearch }: Props) {
     const step3Options = selections.step2 ? STEP_3_ROOT_CAUSES[selections.step2]?.options : [];
     const step3Option = step3Options?.find((o) => o.id === selections.step3);
 
-    let context = `This agent's main challenge: ${step1Option?.label || ""}.`;
+    let context = `My main challenge: ${step1Option?.label || ""}.`;
     context += ` Specifically: ${step2Option?.label || ""}.`;
     context += ` The root issue: ${step3Option?.label || ""} - ${step3Option?.description || ""}.`;
 
