@@ -30,7 +30,7 @@
     {
       "category": "lead_generation",
       "specific_problem": "Identifying potential recruits for real estate teams",
-      "solution_summary": "Use AI tools like corded.io to identify agents likely to switch brokerages.",
+      "solution_summary": "Use AI tools like courted.io to identify agents likely to switch brokerages.",
       "timestamp": "01:30"
     }
   ],
@@ -88,7 +88,7 @@
     },
     {
       "type": "tool",
-      "name": "corded.io",
+      "name": "courted.io",
       "context": "AI-powered recruiting and retention tool for real estate agents."
     }
   ],
