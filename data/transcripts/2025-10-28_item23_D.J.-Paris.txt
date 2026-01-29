@@ -1,0 +1,304 @@
+Transcript: 2025-10-28_item23_D.J.-Paris.mp3
+Duration: 00:15:57
+============================================================
+
+[00:00:00] I built a tool for you, the listener, to help with your AI prompts to help grow your
+[00:00:06] business.
+[00:00:07] Stay tuned.
+[00:00:08] This episode of Keeping It Real is brought to you by Real Geeks.
+[00:00:11] How many homes are you going to sell this year?
+[00:00:14] Do you have the right tools?
+[00:00:15] Is your website turning soft leads and interested buyers?
+[00:00:19] Are you spending money on leads that aren't converting?
+[00:00:22] Well, Real Geeks is your solution.
+[00:00:24] Find out why agents across the country choose Real Geeks as their technology partner.
+[00:00:29] Real Geeks was created by an agent for agents.
+[00:00:32] They pride themselves on delivering a sales and marketing solution so that you can easily
+[00:00:36] generate more business.
+[00:00:38] Their agent websites are fast and built for lead conversion with a smooth search experience
+[00:00:44] for your visitors.
+[00:00:45] Real Geeks also includes an easy to use agent CRM.
+[00:00:49] So once a lead signs up on your website, you can track their interest and have great
+[00:00:54] follow-up conversations.
+[00:00:55] Real Geeks is loaded with a ton of marketing tools to nurture your leads and increase brand
+[00:01:01] awareness.
+[00:01:01] Visit RealGeeks.com forward slash Keeping It Real Pod and find out why REALTORS come to
+[00:01:07] Real Geeks to generate more business.
+[00:01:09] Again, visit RealGeeks.com forward slash Keeping It Real Pod.
+[00:01:14] And now, onto our show.
+[00:01:16] Today's episode is brought to you by corded.io.
+[00:01:20] Are you looking for agents to join your brokerage or team?
+[00:01:23] Now, as a real estate recruiter, I can tell you the answer is always yes.
+[00:01:28] But most agents aren't looking to move right now.
+[00:01:30] So how do you know who to contact?
+[00:01:33] Well, what if I were to tell you there's a recruiting and retention tool powered by
+[00:01:36] artificial intelligence that shows you exactly which agents in your local market are looking
+[00:01:42] to leave their brokerage right now and which agents at your own firm are also looking
+[00:01:47] to leave you?
+[00:01:48] Now, I've been recruiting REALTORS for 15 years and I've hired over 2000 agents.
+[00:01:53] I can tell you with no exaggeration, this is the tool I've been waiting for.
+[00:01:58] Corded's AI looks for trends across dozens of variables for each agent in your market
+[00:02:02] and shows you which agents they believe are likely to move.
+[00:02:06] Not only does it do that, but corded's AI went and visited my recruiting website and
+[00:02:11] read everything I offer.
+[00:02:12] So now when I'm recruiting, corded's AI tells me exactly what to say based on that
+[00:02:18] agent's needs and what my brokerage can offer.
+[00:02:20] It even writes emails for me.
+[00:02:22] I've never seen anything like it and I use it every single day.
+[00:02:27] Now, if you are looking to grow your brokerage, corded.io is the best tool out there.
+[00:02:32] Visit corded.io to schedule a demo again.
+[00:02:35] That's corded.io.
+[00:02:37] And now, onto the show.
+[00:02:52] Hello and welcome to another episode of Keeping It Real, the largest podcast made by Real
+[00:02:57] Estate Agents.
+[00:02:58] And for real estate agents, my name is DJ Paris.
+[00:03:01] I'm your guide and host through the show.
+[00:03:04] And we do not have a normal regular episode on this particular episode.
+[00:03:08] But I wanted to make a quick announcement with something that I think would be really
+[00:03:13] helpful for you.
+[00:03:14] And I built this for initially for our agents here at KL Realty, which is where in the Chicago
+[00:03:20] market.
+[00:03:21] But it is absolutely a tool that any agent in the entire industry could use.
+[00:03:27] And I think you'll find value in it.
+[00:03:29] And I also think that I'd love to get your feedback as well on maybe how it works.
+[00:03:35] And if it's working well for you.
+[00:03:38] And so let me tell you what it is.
+[00:03:40] So again, initially I built this just for our agents and I thought, well, I'll just open
+[00:03:43] it up to everyone.
+[00:03:44] So let's first talk about a problem that I want to solve.
+[00:03:47] And I'll talk about how I solved it.
+[00:03:49] And or at least attempted to solve it.
+[00:03:51] You can tell me if it works as well as I think it does.
+[00:03:54] So I have been going around talking and I've been asked to speak about artificial intelligence
+[00:04:00] AI in particular, prompt engineering.
+[00:04:03] So prompt engineering is the ability to write really specific and comprehensive prompts
+[00:04:09] into engines like chat GPT and all of the different AI services to get really great
+[00:04:15] results.
+[00:04:15] So a lot of agents, what they'll do when they use something like chat GPT is they'll
+[00:04:21] put their listing description in and they'll just say rewrite it.
+[00:04:24] And if you don't know how to craft that prompt beyond just rewrite this to be more persuasive
+[00:04:29] or more efficient or whatever you might want to, whatever you're putting in there.
+[00:04:33] If you don't have a step by step sort of process to make that that prompt really hyper
+[00:04:41] accurate and specific, you're not going to get a good result.
+[00:04:44] And we know what those listing descriptions look like when they're just tossed into a
+[00:04:50] engine and pumped out.
+[00:04:51] They all look the same, right?
+[00:04:53] So a good prompt might be seven or eight senses.
+[00:04:57] It might be 15 senses.
+[00:04:59] And I don't mean the listing presentation you're throwing it.
+[00:05:01] I mean the exact instructions you're giving it for to get a really good listing description
+[00:05:06] sent back to you, right?
+[00:05:08] So that's, but that's a problem because the problem to the agent is you're busy.
+[00:05:12] You don't have time to necessarily write super long prompts and you also might not know
+[00:05:18] how to do that.
+[00:05:20] And so I've been spending the last six months really helping myself learn how to do that.
+[00:05:27] And as a such, I've been asked to speak and I've really pedal out of success with that.
+[00:05:31] And I thought, what if I built a tool just for fun that did that sort of for you?
+[00:05:37] And I went to work to do that.
+[00:05:39] So I just launched this the other day and I've gotten a lot of really nice feedback from
+[00:05:43] it.
+[00:05:44] So without further ado, the problem I had was agents struggling to write good prompts
+[00:05:50] to get good results and not just for getting better listing descriptions, but for things
+[00:05:53] like, I need to create a social media strategy for writing content, publishing strategy and
+[00:05:58] a content strategy.
+[00:06:00] Or how do I better manage my P&L, my profit and loss for my business?
+[00:06:04] Or how do I better prospect, right?
+[00:06:06] Or how do I create a more, well, let's talk about skills.
+[00:06:10] How do I become better at listing presentations?
+[00:06:12] How do I actually practice increasing my skill sets around various parts of the business?
+[00:06:19] So I came up with 12 different categories for that agents would want to maybe use AI to
+[00:06:25] improve a part of their business.
+[00:06:27] And I created those categories and then I went in and I started creating specific prompts
+[00:06:32] that I thought were well formed.
+[00:06:34] So these are hyper specific and I created two different versions of each prompt.
+[00:06:38] I created a short form version.
+[00:06:40] So a really quick and simple snippet that is quick into the point and you can drop that
+[00:06:45] in to AI and then I created a long form version which I think are the really, you know,
+[00:06:50] maybe I should only offer the long form, but I just wanted to offer both just because
+[00:06:52] I thought it was fun.
+[00:06:53] So I have long form version and short form version.
+[00:06:56] And in the long form version, there's oftentimes you're going to see brackets and you'll
+[00:07:00] ask for specific parts of your business that you would put in there so it knows, you
+[00:07:03] know, you obviously, I don't know you.
+[00:07:05] And I created these 12 categories and then I have about maybe 15 prompts in each category.
+[00:07:10] And then I thought, okay, that's cool, but that's a finite amount of prompts.
+[00:07:14] And I said, I want to keep adding more and more to this database.
+[00:07:18] And so I built my own engine that is literally scraping chat GPT and using some of these
+[00:07:25] even prompts itself to create better prompts and to refine the prompts and add more.
+[00:07:30] So every day it's doing that and it's creating more prompts in the background adding to
+[00:07:34] the database and adding it to this web tool that I have.
+[00:07:37] So without further ado, here's where you can go test it out.
+[00:07:40] It's totally free.
+[00:07:41] There's no registration.
+[00:07:42] I'm not asking for your email.
+[00:07:43] And I probably should if I was a smarter man, I would do that, but I just want you to test
+[00:07:47] it for now and let me know what you think.
+[00:07:49] And I should have a little feedback to all of the build that.
+[00:07:52] But for right now, you can actually go try it out.
+[00:07:55] It is the website again.
+[00:07:56] This is our recruiting website for our firm.
+[00:07:58] So it's not the keeping it real podcast website.
+[00:08:01] It's our own agent for recruiting.
+[00:08:02] And by the way, if you are a Chicago agent and you'd like to learn more about our firm,
+[00:08:06] you can go right to that website and you could click around and you'll learn more about
+[00:08:09] us.
+[00:08:10] But you'll have to go directly to this prompt.
+[00:08:11] I don't have a link.
+[00:08:12] You can't link to it from the homepage.
+[00:08:14] So I'm going to give you the exact URL and I'll put it in the description here as well.
+[00:08:18] So you can check it out.
+[00:08:19] But it is join kale and that kale like the vegetables.
+[00:08:21] So K-A-L-E join kale.com forward slash AI hyphen prompts prompts of plural.
+[00:08:27] So join kale.com forward slash AI hyphen prompts.
+[00:08:31] And again, leveling to that in the notes here.
+[00:08:35] So you don't have to remember that.
+[00:08:36] But go there.
+[00:08:37] It loads really quickly.
+[00:08:38] Works on mobile.
+[00:08:39] Again, I'm not getting any data from you.
+[00:08:41] Although I am tracking the just what the clicks you're making so that I know like which categories
+[00:08:45] are really helpful.
+[00:08:46] And then I'll figure out a feedback mechanism so you can tell me like that's a bad prompt.
+[00:08:50] That's a good one.
+[00:08:51] And I haven't done that yet.
+[00:08:52] But it's really cool.
+[00:08:53] So you basically choose a category.
+[00:08:54] Then from those 12 categories and then you choose a particular prompt.
+[00:08:59] And then from there, it'll ask you short form or long form.
+[00:09:02] Always check long form.
+[00:09:04] I think those are those are really where the value is.
+[00:09:06] And then at the very bottom of the prompt, there's a copy button.
+[00:09:09] So you just click that copy button.
+[00:09:11] It copies it to your clipboard.
+[00:09:13] And then you can paste that directly into chat GPT or whatever you're using.
+[00:09:18] And then just make sure to fill in the brackets so that it knows you.
+[00:09:22] And let me know what you think.
+[00:09:23] It is goes through by the way a 10 step process for creating prompts.
+[00:09:28] So it's isn't just this thing I put together really nearly.
+[00:09:31] I really went through and talked to prompt engineers and learned a lot about prompt engineering
+[00:09:36] myself so that I thought it would be pretty well formed.
+[00:09:40] But I'm not a practicing agent, right?
+[00:09:42] So I'll technically I am right now.
+[00:09:43] I'm selling my own condo.
+[00:09:44] Thankfully I have a lot of top producer friends who are telling me how to do that.
+[00:09:48] But I'm not out there in the field like you guys.
+[00:09:50] So you have to test this and let me know what you like and where it needs to be improved.
+[00:09:54] And if there's any additional features that you want me to add to it, I can do that.
+[00:09:59] So let's keep this going.
+[00:10:01] I think it's super fun.
+[00:10:02] You'll notice when you go to the page that it has a Chicago broker sort of title to it.
+[00:10:07] That's for SEO purposes for me just to attract Chicago brokers.
+[00:10:11] So just ignore the Chicago part.
+[00:10:12] Has nothing to do with Chicago.
+[00:10:13] It's just a little way for us to get some additional traffic from the agents we want to recruit.
+[00:10:18] And we are sending this out to agents we want to recruit for testing.
+[00:10:20] But you know, you guys are my listeners and I appreciate it.
+[00:10:23] And it doesn't hurt me at all to have you try this.
+[00:10:26] And I'd rather you try it.
+[00:10:27] So give it a shot.
+[00:10:28] Let me know tell other agents in your office because I think there's not as many of these kind of tools available.
+[00:10:33] And I think it's really helpful.
+[00:10:35] So maybe one day I'll be able to you can type in kind of what you want.
+[00:10:39] And it could craft a prompt for you.
+[00:10:41] Maybe that's what's coming next.
+[00:10:42] But for right now, I've got a finite number of those.
+[00:10:44] And remember, they're being refreshed daily.
+[00:10:47] So I'm only adding like one new prompt a day because if I added like a hundred prompts today,
+[00:10:51] I think it would just get unwieldy.
+[00:10:53] And I don't think people really need that.
+[00:10:54] But if there's something I missed, if you're like, oh, there's a category in here that you didn't really cover or a particular type of prompt,
+[00:11:01] I want just let me know.
+[00:11:03] So you can just reach out to us on, you know, through the different social channels that we have for keeping it real or, you know, email me.
+[00:11:09] You can find me online.
+[00:11:10] I'm easy to find.
+[00:11:11] And let us know what you want and let us know the feedback.
+[00:11:14] And that would help us because then I can add more features and always make it free.
+[00:11:17] And there won't ever be registration or anything.
+[00:11:19] But just check it out and let me know if it's helpful for you again.
+[00:11:22] Join kale.com forward slash AI hyphen prompts, prompts being plural and we'll have a link to that.
+[00:11:28] So let us know what you think.
+[00:11:30] I hope it's helpful and I would be super excited to get your feedback on it.
+[00:11:33] So that's all I got for today for you today, guys.
+[00:11:37] And yeah, just keep listening to the show, tell a friend.
+[00:11:40] And I will see you on our next episode where I'm actually going to be interviewing somebody and not just talking directly to you.
+[00:11:45] But I appreciate you letting me do that this time.
+[00:11:48] And I was really excited to try that tool.
+[00:11:51] And I found it was a lot easier to build than I thought it was.
+[00:11:54] So if you are looking to build tools like this for your own website, for your clients, something that would help them, you know, AI can do that.
+[00:12:02] I mean, I just did that.
+[00:12:03] So definitely consider, you know, adding your own web apps to your own.
+[00:12:08] Maybe it's a, you know, a CMA sort of helper that an age consumer could use themselves or, you know, we don't have to rely upon the companies.
+[00:12:18] That build our websites as much anymore, although those companies are great.
+[00:12:21] And just you can put your own code in now.
+[00:12:24] And, you know, even if you have one of those websites, you will be able to push this into any website, whether you're with, you know, real geeks, which we love.
+[00:12:32] Real geeks is our sponsor.
+[00:12:33] We love them.
+[00:12:34] You could put this in a real gate site.
+[00:12:35] You know, you could build this tool that I just built and put it in a real gate.
+[00:12:38] So you don't have to leave real gates.
+[00:12:39] Don't leave real gates.
+[00:12:40] And whatever service you're using, but you can pump this into any web page because it's just custom code.
+[00:12:44] It's no big deal.
+[00:12:45] So think about tools that would be helpful for your clients.
+[00:12:49] And also, I'm going to give you one other reason to do it that might not be so obvious.
+[00:12:54] So for those of you that are, this is a whole other conversation.
+[00:12:57] And I don't want to make this too complicated.
+[00:12:59] But I'll just make this really a simple idea that you should consider.
+[00:13:03] So you know when you go to a website and it's for a service or a product you're interested in.
+[00:13:07] And then you, you know, you visit the website.
+[00:13:10] You check out see what it is.
+[00:13:11] Then, you know, maybe let's say you don't buy it or, you know, you know, engage with it.
+[00:13:14] But then you go and you start, you know, surfing on social media networks or Google or Reddit or LinkedIn or whatever.
+[00:13:22] You start seeing those ads pop up for the exact same product.
+[00:13:25] You're like, oh, it's pretty cool or maybe it's not cool.
+[00:13:28] But it's pretty interesting how they're able to do that, right?
+[00:13:30] So you can do that with one of these tools.
+[00:13:34] So what I mean is you build something for your website that is helpful to a consumer.
+[00:13:39] Whatever.
+[00:13:40] Think about what your consumers need, your home buyers, your home sellers, maybe you can build a web app.
+[00:13:44] You know, you can do that inside of chat, GBT or whatever.
+[00:13:47] When you install that, then if you are somebody that does have ads on Facebook, on the meta products and Google.
+[00:13:55] If you do have, you know, ads for, you know, your business, your brokerage or your real estate practice,
+[00:14:01] you can actually then install a pixel on that page that is on your website for that tool.
+[00:14:08] And it will automatically install unless somebody has a blocker for that.
+[00:14:12] Most people don't.
+[00:14:13] This is why you see those ads for the websites you visit popping up everywhere.
+[00:14:18] And then you could set up what's called remarketing, which is what all these brands do.
+[00:14:22] And that way when somebody visits, you know, Facebook, you know, Instagram, wherever, you could have ads going just to those people.
+[00:14:30] Just to the people that already went to your website, which are probably the people that you want to market to.
+[00:14:34] And now all of a sudden, you can market to them and send those ads at really very inexpensive pricing.
+[00:14:40] Like we're not talking about spending hundreds of dollars per click.
+[00:14:43] It might be like 20 cents a click.
+[00:14:45] And for 20 cents, would it be helpful to have somebody, you know, if you drive them to your website,
+[00:14:50] to then maybe, you know, sort them an ad about why they should choose your service?
+[00:14:55] I think it's worth it.
+[00:14:56] So certainly that's another reason to do it.
+[00:14:58] So again, I know I went a bit off the rails on this one telling you about the tool.
+[00:15:01] And then why you should build your own tools, not just for help for your client, but that you could market to them.
+[00:15:05] But I just thought I'd give you that strategy of why it makes sense to drive people to your website,
+[00:15:10] to give them a useful tool and also to be able to market to them.
+[00:15:14] Without asking them, I want your contact information.
+[00:15:17] A lot of people don't want to give that.
+[00:15:18] So this is a way, sort of sneaky-ish way, but totally ethical and legal way to do that,
+[00:15:24] which all the brands are doing anyway.
+[00:15:26] And you should not be one that isn't at least aware that you can do this.
+[00:15:31] So it's called remarketing.
+[00:15:32] You can just Google how to do this.
+[00:15:33] I won't walk you through that.
+[00:15:34] That's much more complicated.
+[00:15:35] But it is bozzled.
+[00:15:37] So if you want to think about it, just start the wheels turning.
+[00:15:40] Think, what if I built a little tool on my website and then every time that person goes to their social media network,
+[00:15:47] well, maybe there's a chance one of my ads will show up.
+[00:15:49] So that's pretty cool.
+[00:15:50] All right, guys.
+[00:15:50] We'll see you on the next episode.
+[00:15:52] And thanks again for listening.
+[00:15:53] Thanks for being a supporter.
+[00:15:55] And I really appreciate you all.
+[00:15:56] All right, bye.
+
+============================================================
+FULL TEXT (no timestamps):
+============================================================
+ I built a tool for you, the listener, to help with your AI prompts to help grow your business. Stay tuned. This episode of Keeping It Real is brought to you by Real Geeks. How many homes are you going to sell this year? Do you have the right tools? Is your website turning soft leads and interested buyers? Are you spending money on leads that aren't converting? Well, Real Geeks is your solution. Find out why agents across the country choose Real Geeks as their technology partner. Real Geeks was created by an agent for agents. They pride themselves on delivering a sales and marketing solution so that you can easily generate more business. Their agent websites are fast and built for lead conversion with a smooth search experience for your visitors. Real Geeks also includes an easy to use agent CRM. So once a lead signs up on your website, you can track their interest and have great follow-up conversations. Real Geeks is loaded with a ton of marketing tools to nurture your leads and increase brand awareness. Visit RealGeeks.com forward slash Keeping It Real Pod and find out why REALTORS come to Real Geeks to generate more business. Again, visit RealGeeks.com forward slash Keeping It Real Pod. And now, onto our show. Today's episode is brought to you by corded.io. Are you looking for agents to join your brokerage or team? Now, as a real estate recruiter, I can tell you the answer is always yes. But most agents aren't looking to move right now. So how do you know who to contact? Well, what if I were to tell you there's a recruiting and retention tool powered by artificial intelligence that shows you exactly which agents in your local market are looking to leave their brokerage right now and which agents at your own firm are also looking to leave you? Now, I've been recruiting REALTORS for 15 years and I've hired over 2000 agents. I can tell you with no exaggeration, this is the tool I've been waiting for. Corded's AI looks for trends across dozens of variables for each agent in your market and shows you which agents they believe are likely to move. Not only does it do that, but corded's AI went and visited my recruiting website and read everything I offer. So now when I'm recruiting, corded's AI tells me exactly what to say based on that agent's needs and what my brokerage can offer. It even writes emails for me. I've never seen anything like it and I use it every single day. Now, if you are looking to grow your brokerage, corded.io is the best tool out there. Visit corded.io to schedule a demo again. That's corded.io. And now, onto the show. Hello and welcome to another episode of Keeping It Real, the largest podcast made by Real Estate Agents. And for real estate agents, my name is DJ Paris. I'm your guide and host through the show. And we do not have a normal regular episode on this particular episode. But I wanted to make a quick announcement with something that I think would be really helpful for you. And I built this for initially for our agents here at KL Realty, which is where in the Chicago market. But it is absolutely a tool that any agent in the entire industry could use. And I think you'll find value in it. And I also think that I'd love to get your feedback as well on maybe how it works. And if it's working well for you. And so let me tell you what it is. So again, initially I built this just for our agents and I thought, well, I'll just open it up to everyone. So let's first talk about a problem that I want to solve. And I'll talk about how I solved it. And or at least attempted to solve it. You can tell me if it works as well as I think it does. So I have been going around talking and I've been asked to speak about artificial intelligence AI in particular, prompt engineering. So prompt engineering is the ability to write really specific and comprehensive prompts into engines like chat GPT and all of the different AI services to get really great results. So a lot of agents, what they'll do when they use something like chat GPT is they'll put their listing description in and they'll just say rewrite it. And if you don't know how to craft that prompt beyond just rewrite this to be more persuasive or more efficient or whatever you might want to, whatever you're putting in there. If you don't have a step by step sort of process to make that that prompt really hyper accurate and specific, you're not going to get a good result. And we know what those listing descriptions look like when they're just tossed into a engine and pumped out. They all look the same, right? So a good prompt might be seven or eight senses. It might be 15 senses. And I don't mean the listing presentation you're throwing it. I mean the exact instructions you're giving it for to get a really good listing description sent back to you, right? So that's, but that's a problem because the problem to the agent is you're busy. You don't have time to necessarily write super long prompts and you also might not know how to do that. And so I've been spending the last six months really helping myself learn how to do that. And as a such, I've been asked to speak and I've really pedal out of success with that. And I thought, what if I built a tool just for fun that did that sort of for you? And I went to work to do that. So I just launched this the other day and I've gotten a lot of really nice feedback from it. So without further ado, the problem I had was agents struggling to write good prompts to get good results and not just for getting better listing descriptions, but for things like, I need to create a social media strategy for writing content, publishing strategy and a content strategy. Or how do I better manage my P&L, my profit and loss for my business? Or how do I better prospect, right? Or how do I create a more, well, let's talk about skills. How do I become better at listing presentations? How do I actually practice increasing my skill sets around various parts of the business? So I came up with 12 different categories for that agents would want to maybe use AI to improve a part of their business. And I created those categories and then I went in and I started creating specific prompts that I thought were well formed. So these are hyper specific and I created two different versions of each prompt. I created a short form version. So a really quick and simple snippet that is quick into the point and you can drop that in to AI and then I created a long form version which I think are the really, you know, maybe I should only offer the long form, but I just wanted to offer both just because I thought it was fun. So I have long form version and short form version. And in the long form version, there's oftentimes you're going to see brackets and you'll ask for specific parts of your business that you would put in there so it knows, you know, you obviously, I don't know you. And I created these 12 categories and then I have about maybe 15 prompts in each category. And then I thought, okay, that's cool, but that's a finite amount of prompts. And I said, I want to keep adding more and more to this database. And so I built my own engine that is literally scraping chat GPT and using some of these even prompts itself to create better prompts and to refine the prompts and add more. So every day it's doing that and it's creating more prompts in the background adding to the database and adding it to this web tool that I have. So without further ado, here's where you can go test it out. It's totally free. There's no registration. I'm not asking for your email. And I probably should if I was a smarter man, I would do that, but I just want you to test it for now and let me know what you think. And I should have a little feedback to all of the build that. But for right now, you can actually go try it out. It is the website again. This is our recruiting website for our firm. So it's not the keeping it real podcast website. It's our own agent for recruiting. And by the way, if you are a Chicago agent and you'd like to learn more about our firm, you can go right to that website and you could click around and you'll learn more about us. But you'll have to go directly to this prompt. I don't have a link. You can't link to it from the homepage. So I'm going to give you the exact URL and I'll put it in the description here as well. So you can check it out. But it is join kale and that kale like the vegetables. So K-A-L-E join kale.com forward slash AI hyphen prompts prompts of plural. So join kale.com forward slash AI hyphen prompts. And again, leveling to that in the notes here. So you don't have to remember that. But go there. It loads really quickly. Works on mobile. Again, I'm not getting any data from you. Although I am tracking the just what the clicks you're making so that I know like which categories are really helpful. And then I'll figure out a feedback mechanism so you can tell me like that's a bad prompt. That's a good one. And I haven't done that yet. But it's really cool. So you basically choose a category. Then from those 12 categories and then you choose a particular prompt. And then from there, it'll ask you short form or long form. Always check long form. I think those are those are really where the value is. And then at the very bottom of the prompt, there's a copy button. So you just click that copy button. It copies it to your clipboard. And then you can paste that directly into chat GPT or whatever you're using. And then just make sure to fill in the brackets so that it knows you. And let me know what you think. It is goes through by the way a 10 step process for creating prompts. So it's isn't just this thing I put together really nearly. I really went through and talked to prompt engineers and learned a lot about prompt engineering myself so that I thought it would be pretty well formed. But I'm not a practicing agent, right? So I'll technically I am right now. I'm selling my own condo. Thankfully I have a lot of top producer friends who are telling me how to do that. But I'm not out there in the field like you guys. So you have to test this and let me know what you like and where it needs to be improved. And if there's any additional features that you want me to add to it, I can do that. So let's keep this going. I think it's super fun. You'll notice when you go to the page that it has a Chicago broker sort of title to it. That's for SEO purposes for me just to attract Chicago brokers. So just ignore the Chicago part. Has nothing to do with Chicago. It's just a little way for us to get some additional traffic from the agents we want to recruit. And we are sending this out to agents we want to recruit for testing. But you know, you guys are my listeners and I appreciate it. And it doesn't hurt me at all to have you try this. And I'd rather you try it. So give it a shot. Let me know tell other agents in your office because I think there's not as many of these kind of tools available. And I think it's really helpful. So maybe one day I'll be able to you can type in kind of what you want. And it could craft a prompt for you. Maybe that's what's coming next. But for right now, I've got a finite number of those. And remember, they're being refreshed daily. So I'm only adding like one new prompt a day because if I added like a hundred prompts today, I think it would just get unwieldy. And I don't think people really need that. But if there's something I missed, if you're like, oh, there's a category in here that you didn't really cover or a particular type of prompt, I want just let me know. So you can just reach out to us on, you know, through the different social channels that we have for keeping it real or, you know, email me. You can find me online. I'm easy to find. And let us know what you want and let us know the feedback. And that would help us because then I can add more features and always make it free. And there won't ever be registration or anything. But just check it out and let me know if it's helpful for you again. Join kale.com forward slash AI hyphen prompts, prompts being plural and we'll have a link to that. So let us know what you think. I hope it's helpful and I would be super excited to get your feedback on it. So that's all I got for today for you today, guys. And yeah, just keep listening to the show, tell a friend. And I will see you on our next episode where I'm actually going to be interviewing somebody and not just talking directly to you. But I appreciate you letting me do that this time. And I was really excited to try that tool. And I found it was a lot easier to build than I thought it was. So if you are looking to build tools like this for your own website, for your clients, something that would help them, you know, AI can do that. I mean, I just did that. So definitely consider, you know, adding your own web apps to your own. Maybe it's a, you know, a CMA sort of helper that an age consumer could use themselves or, you know, we don't have to rely upon the companies. That build our websites as much anymore, although those companies are great. And just you can put your own code in now. And, you know, even if you have one of those websites, you will be able to push this into any website, whether you're with, you know, real geeks, which we love. Real geeks is our sponsor. We love them. You could put this in a real gate site. You know, you could build this tool that I just built and put it in a real gate. So you don't have to leave real gates. Don't leave real gates. And whatever service you're using, but you can pump this into any web page because it's just custom code. It's no big deal. So think about tools that would be helpful for your clients. And also, I'm going to give you one other reason to do it that might not be so obvious. So for those of you that are, this is a whole other conversation. And I don't want to make this too complicated. But I'll just make this really a simple idea that you should consider. So you know when you go to a website and it's for a service or a product you're interested in. And then you, you know, you visit the website. You check out see what it is. Then, you know, maybe let's say you don't buy it or, you know, you know, engage with it. But then you go and you start, you know, surfing on social media networks or Google or Reddit or LinkedIn or whatever. You start seeing those ads pop up for the exact same product. You're like, oh, it's pretty cool or maybe it's not cool. But it's pretty interesting how they're able to do that, right? So you can do that with one of these tools. So what I mean is you build something for your website that is helpful to a consumer. Whatever. Think about what your consumers need, your home buyers, your home sellers, maybe you can build a web app. You know, you can do that inside of chat, GBT or whatever. When you install that, then if you are somebody that does have ads on Facebook, on the meta products and Google. If you do have, you know, ads for, you know, your business, your brokerage or your real estate practice, you can actually then install a pixel on that page that is on your website for that tool. And it will automatically install unless somebody has a blocker for that. Most people don't. This is why you see those ads for the websites you visit popping up everywhere. And then you could set up what's called remarketing, which is what all these brands do. And that way when somebody visits, you know, Facebook, you know, Instagram, wherever, you could have ads going just to those people. Just to the people that already went to your website, which are probably the people that you want to market to. And now all of a sudden, you can market to them and send those ads at really very inexpensive pricing. Like we're not talking about spending hundreds of dollars per click. It might be like 20 cents a click. And for 20 cents, would it be helpful to have somebody, you know, if you drive them to your website, to then maybe, you know, sort them an ad about why they should choose your service? I think it's worth it. So certainly that's another reason to do it. So again, I know I went a bit off the rails on this one telling you about the tool. And then why you should build your own tools, not just for help for your client, but that you could market to them. But I just thought I'd give you that strategy of why it makes sense to drive people to your website, to give them a useful tool and also to be able to market to them. Without asking them, I want your contact information. A lot of people don't want to give that. So this is a way, sort of sneaky-ish way, but totally ethical and legal way to do that, which all the brands are doing anyway. And you should not be one that isn't at least aware that you can do this. So it's called remarketing. You can just Google how to do this. I won't walk you through that. That's much more complicated. But it is bozzled. So if you want to think about it, just start the wheels turning. Think, what if I built a little tool on my website and then every time that person goes to their social media network, well, maybe there's a chance one of my ads will show up. So that's pretty cool. All right, guys. We'll see you on the next episode. And thanks again for listening. Thanks for being a supporter. And I really appreciate you all. All right, bye.
