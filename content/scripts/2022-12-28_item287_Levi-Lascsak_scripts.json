@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:50",
+      "end_timestamp": "00:04:15",
+      "quote": "Over the next year, they generated 164 transactions, which equaled 90 million in production... with zero ad spend.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This highlights the potential of organic lead generation through YouTube.",
+      "suggested_hook": "How did Levi Lascsak achieve $90 million in production without spending a dime on ads?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) How did Levi Lascsak achieve $90 million in production without spending a dime on ads?\",\n    \"SETUP\": \"(0:08-0:18) Meet Levi Lascsak, a real estate pro who transitioned careers and built a personal brand using YouTube. Here's why you should care.\",\n    \"INSIGHT\": \"(0:18-0:40) Over the next year, Levi generated 164 transactions, equating to $90 million in production—all through organic lead generation on YouTube. No ad spend, just strategic video content.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This proves the power of YouTube in real estate. Imagine leveraging video content to attract clients without spending on ads.\",\n    \"CTA\": \"(0:52-0:60) Ready to transform your business? Start creating content today and see how YouTube can be your next big lead source.\"\n  },\n  \"CAPTION\": \"Levi Lascsak closed $90M in real estate deals with zero ad spend. Discover his YouTube strategy!\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#YouTubeMarketing\", \"#LeadGeneration\", \"#OrganicGrowth\", \"#VideoStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:45:00",
+      "end_timestamp": "00:45:16",
+      "quote": "Making video does not take time, it makes you time and not only does it make you time, it compounds time.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the common belief that video production is time-consuming.",
+      "suggested_hook": "Think making videos is a time drain? Think again."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Think making videos is a time drain? Think again.\",\n    \"SETUP\": \"(0:08-0:18) Levi Lascsak shares how video creation isn't just efficient, it transforms your real estate business.\",\n    \"INSIGHT\": \"(0:18-0:40) Making video does not take time, it makes you time and not only does it make you time, it compounds time. Levi explains how YouTube can be a powerful lead generation tool.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By leveraging video, you create a personal brand and passive prospecting strategy that works around the clock.\",\n    \"CTA\": \"(0:52-0:60) Ready to let video work for you? Start today and watch your business grow exponentially.\"\n  },\n  \"CAPTION\": \"Think video is a time drain? Levi Lascsak reveals how it can actually save you time and boost your real estate business.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#VideoMarketing\", \"#LeadGeneration\", \"#PersonalBrand\", \"#PassiveProspecting\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

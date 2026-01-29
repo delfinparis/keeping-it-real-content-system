@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "Put me in a desert, I'll find my way to the water. That's just the way I'm wired.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It encapsulates Terrence's perseverance and determination, inspiring others to adopt a similar mindset.",
+      "suggested_hook": "What does it take to turn a dream into reality? Terrence Murphy shares his secret."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08)\",\n    \"content\": \"What does it take to turn a dream into reality? Terrence Murphy shares his secret.\"\n  },\n  \"SETUP\": {\n    \"content\": \"(0:08-0:18)\",\n    \"content\": \"Meet Terrence Murphy, a real estate mogul known for his relentless drive. Ever wonder how he keeps pushing forward?\"\n  },\n  \"INSIGHT\": {\n    \"content\": \"(0:18-0:40)\",\n    \"content\": \"\\\"Put me in a desert, I'll find my way to the water. That's just the way I'm wired,\\\" says Terrence. His mindset shift is all about perseverance and determination, inspiring others to adopt the same.\"\n  },\n  \"REFRAME/APPLICATION\": {\n    \"content\": \"(0:40-0:52)\",\n    \"content\": \"This mindset is crucial for scaling your real estate business. Embrace challenges as opportunities to grow and diversify your income streams.\"\n  },\n  \"CTA\": {\n    \"content\": \"(0:52-0:60)\",\n    \"content\": \"Ready to transform your mindset? Reflect on your perseverance and take the first step towards your dream today.\"\n  },\n  \"CAPTION\": \"Terrence Murphy reveals the mindset that fuels his success. Are you ready to find your water?\",\n  \"HASHTAGS\": [\n    \"#RealEstateMindset\",\n    \"#Perseverance\",\n    \"#DreamToReality\",\n    \"#TerrenceMurphy\",\n    \"#SuccessSecrets\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "On a normal real estate transaction, there's about 20 to 22 companies that make money. I'm teaching my people how to buy those businesses.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a concrete strategy for REALTORS to diversify income and build wealth.",
+      "suggested_hook": "Want to make more money in real estate? Here's how to tap into multiple income streams."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Want to make more money in real estate? Here's how to tap into multiple income streams.\",\n    \"SETUP\": \"(0:08-0:18) Meet Terrence Murphy, a real estate expert teaching REALTORS how to diversify income and build wealth.\",\n    \"INSIGHT\": \"(0:18-0:40) On a normal real estate transaction, there's about 20 to 22 companies that make money. Terrence is showing his team how to buy those businesses, creating new revenue streams.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This strategy not only boosts your income but also secures your financial future. Start identifying these opportunities in your transactions.\",\n    \"CTA\": \"(0:52-0:60) Ready to scale your business? Consider mentorship to guide you. Comment below with your thoughts or questions!\"\n  },\n  \"CAPTION\": \"Diversify your income in real estate by owning the process. Learn how!\",\n  \"HASHTAGS\": [\n    \"#RealEstateIncome\",\n    \"#DiversifyWealth\",\n    \"#BusinessGrowth\",\n    \"#RealEstateTips\",\n    \"#Mentorship\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\"\n}\n```"
+  }
+]

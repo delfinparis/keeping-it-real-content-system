@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Kelly Parker",
+    "title": "Top Producer",
+    "company": "Chicago Home Collective with Compass",
+    "production_level": "Top 1% team",
+    "specialty": "Residential real estate, mentorship for female REALTORS",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Goal setting and personal growth",
+    "Importance of client experience",
+    "Building a relationship-based business",
+    "Celebrating achievements",
+    "Market outlook for 2023"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Setting traditional production goals can feel transactional and disconnect from passion.",
+      "solution_summary": "Focus on personal growth and skill development to naturally drive business success.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Concerns about the real estate market in 2023.",
+      "solution_summary": "Maintain a long-term perspective and focus on personal power rather than market conditions.",
+      "timestamp": "31:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses building a top 1% team and strategies for long-term success.",
+      "key_takeaway": "Prioritize personal growth and authentic client relationships over traditional goal metrics."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on team building and maintaining a cohesive, value-driven team culture.",
+      "key_takeaway": "Foster a collaborative team environment focused on shared values and client experience."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "The reason you do things changes the way you do things.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional approach to goal setting and emphasizes intrinsic motivation.",
+      "suggested_hook": "Why your goals might be holding you back more than helping you."
+    },
+    {
+      "timestamp": "31:00",
+      "end_timestamp": "31:45",
+      "quote": "My success is not predicated on the circumstances.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Offers a refreshing perspective on market fluctuations and personal agency.",
+      "suggested_hook": "How to thrive in any market condition."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on personal growth and skill development.",
+      "context": "Use this approach to naturally attract more business and improve client service.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Celebrate achievements regularly.",
+      "context": "Recognize both personal and professional milestones to maintain motivation.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "The journey is just as dear as the destination.",
+    "Celebrate the whole human, not just the medal achieved."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and client management."
+    },
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "CRM tool highlighted for its effectiveness in lead follow-up and conversion."
+    }
+  ],
+  "episode_summary": "In this episode, Kelly Parker discusses her unique approach to goal setting, emphasizing personal growth and client relationships over traditional metrics. She shares insights on building a top-performing team and maintaining a positive outlook despite market uncertainties. The conversation also highlights the importance of celebrating achievements and fostering a supportive team culture.",
+  "_metadata": {
+    "source_file": "2022-12-20_item290_Kelly-Parker",
+    "analyzed_at": "2026-01-29T16:39:16.250918",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

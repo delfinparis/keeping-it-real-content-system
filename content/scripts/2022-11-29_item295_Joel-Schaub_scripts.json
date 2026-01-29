@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "This is the opportunity for buyers to buy real estate on sale.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It reframes the current market conditions as an opportunity rather than a challenge.",
+      "suggested_hook": "Why now might be the best time to buy real estate despite high interest rates."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"(0:00-0:08) Why now might be the best time to buy real estate despite high interest rates.\",\n    \"SETUP\": \"(0:08-0:18) Meet Joel Schaub, a real estate expert who sees opportunity where others see obstacles. In today's market, buyers have a unique chance.\",\n    \"INSIGHT\": \"(0:18-0:40) Joel explains that current market conditions, often seen as challenging due to high interest rates, actually present a 'sale' on real estate. It's a mindset shift—viewing this as a chance to secure properties at lower prices.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This perspective matters because it empowers buyers to act strategically. By partnering with knowledgeable loan officers, you can navigate these waters effectively.\",\n    \"CTA\": \"(0:52-0:60) Ready to explore these opportunities? Consider how this mindset shift can change your approach to buying. What's your next move?\"\n  },\n  \"CAPTION\": \"Discover why now might be the best time to buy real estate. #MindsetShift\",\n  \"HASHTAGS\": [\"#RealEstateOpportunities\", \"#MindsetShift\", \"#HomeBuying\", \"#MarketStrategy\", \"#RealEstateAdvice\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "Teach, help, repeat. I need that on a t-shirt.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a catchy phrase that encapsulates a successful business philosophy.",
+      "suggested_hook": "The three-step mantra for real estate success."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want the secret to real estate success? It's as simple as three words!\",\n    \"SETUP\": \"Joel Schaub shares a powerful mantra on tackling today's real estate challenges.\",\n    \"INSIGHT\": \"He says, 'Teach, help, repeat. I need that on a t-shirt.' This philosophy not only builds trust but also empowers clients and partners.\",\n    \"REFRAME/APPLICATION\": \"By teaching and helping consistently, you create lasting relationships and a strong reputation in the market.\",\n    \"CTA\": \"How can you incorporate 'Teach, help, repeat' into your daily routine? Share your thoughts below!\"\n  },\n  \"caption\": \"Discover the mantra that can transform your real estate business! #TeachHelpRepeat\",\n  \"hashtags\": [\"#RealEstateSuccess\", \"#TeachHelpRepeat\", \"#BusinessPhilosophy\", \"#RealEstateTips\", \"#JoelSchaub\"],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  }
+]

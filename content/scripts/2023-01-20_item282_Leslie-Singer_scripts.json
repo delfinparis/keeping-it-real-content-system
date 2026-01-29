@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I asked 10 of my really good friends for 10 names each to start my database.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a specific, actionable strategy for new agents to build their client list.",
+      "suggested_hook": "Looking to expand your real estate network? Here's a simple strategy to get started!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Looking to expand your real estate network? Here's a simple strategy to get started!\",\n    \"SETUP\": \"Leslie Singer shares a powerful tactic for new agents. Imagine starting your client list with just a few conversations.\",\n    \"INSIGHT\": \"Leslie asked 10 of her really good friends for 10 names each to kickstart her database. This approach is simple yet incredibly effective.\",\n    \"REFRAME/APPLICATION\": \"This matters because building a strong network is crucial in real estate. Start today by reaching out to your own circle.\",\n    \"CTA\": \"Try this strategy and watch your client list grow. Who will you ask for names today?\"\n  },\n  \"CAPTION\": \"Kickstart your real estate network with this simple strategy from Leslie Singer. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#Networking\",\n    \"#ClientAttraction\",\n    \"#RealEstateAgent\",\n    \"#BusinessGrowth\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "Know your competition and turn that person into a buyer for another property.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical tip on how to convert open house visitors into clients.",
+      "suggested_hook": "Want to turn open house visitors into clients? Here's how!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Want to turn open house visitors into clients? Here's how!\",\n    \"SETUP\": \"(0:08-0:18) Leslie Singer shares a game-changing tip on converting open house visitors into loyal clients. Don't miss this!\",\n    \"INSIGHT\": \"(0:18-0:40) Know your competition and turn that person into a buyer for another property. Identify their needs and match them with a listing that suits them better.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This tactic not only helps you stand out but also builds trust. Apply it to create lasting client relationships.\",\n    \"CTA\": \"(0:52-0:60) Ready to boost your client base? Start by knowing your competition. Share your thoughts in the comments!\"\n  },\n  \"caption\": \"Turn open house visitors into clients with this simple tip from Leslie Singer!\",\n  \"hashtags\": [\"#RealEstateTips\", \"#ClientAttraction\", \"#OpenHouse\", \"#RealEstateAdvice\", \"#LeslieSinger\"],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  }
+]

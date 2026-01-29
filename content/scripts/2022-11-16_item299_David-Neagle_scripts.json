@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "16:00",
+      "end_timestamp": "17:00",
+      "quote": "In 30 days, I tripled my income just by changing my attitude.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This moment highlights the power of mindset in achieving rapid financial growth.",
+      "suggested_hook": "Could a simple mindset shift triple your income?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Could a simple mindset shift triple your income?\",\n    \"SETUP\": \"(0:08-0:18) Meet David Neagle, a real estate expert who transformed his financial life in just 30 days. Here's why you should care.\",\n    \"INSIGHT\": \"(0:18-0:40) David shares how altering his attitude unlocked rapid financial growth. By focusing on positive perception and seizing opportunities, he tripled his income.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This shift isn't just about money; it's about recognizing potential. Apply this mindset to identify growth areas in your business.\",\n    \"CTA\": \"(0:52-0:60) Ready to transform your income? Reflect on your mindset today and start making changes. Share your thoughts below!\"\n  },\n  \"CAPTION\": \"A mindset shift could be your key to tripling your income. Are you ready to change?\",\n  \"HASHTAGS\": [\n    \"#MindsetShift\",\n    \"#RealEstateSuccess\",\n    \"#IncomeGrowth\",\n    \"#BusinessMindset\",\n    \"#OpportunityKnocks\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "42:00",
+      "end_timestamp": "43:00",
+      "quote": "The question should be 'who, not how' when you're overwhelmed.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical approach to scaling a business by focusing on delegation.",
+      "suggested_hook": "Feeling overwhelmed? Here's the question you should be asking."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Feeling overwhelmed? Here's the question you should be asking.\",\n    \"SETUP\": \"(0:08-0:18) Meet David Neagle, a mindset expert, sharing a game-changing approach for real estate professionals feeling swamped.\",\n    \"INSIGHT\": \"(0:18-0:40) Instead of asking 'how can I do this?', ask 'who can do this for me?' This shift in perspective can unlock new levels of productivity and growth.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) By focusing on delegation, you free up time to focus on strategic growth, turning overwhelm into opportunity.\",\n    \"CTA\": \"(0:52-0:60) Ready to scale? Start by identifying tasks to delegate and watch your business transform. Who can help you today?\"\n  },\n  \"caption\": \"Feeling overwhelmed? Shift your focus from 'how' to 'who' and watch your business grow. #Delegation #RealEstateSuccess\",\n  \"hashtags\": [\n    \"#Delegation\",\n    \"#RealEstateSuccess\",\n    \"#MindsetShift\",\n    \"#BusinessGrowth\",\n    \"#ScaleYourBusiness\"\n  ],\n  \"content_pillar\": \"systems_that_scale\"\n}\n```"
+  }
+]

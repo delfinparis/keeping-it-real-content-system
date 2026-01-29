@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Leslie Singer",
+    "title": "Award-winning Broker",
+    "company": "Brown Harris Stevens",
+    "production_level": "Top 1% Producer",
+    "specialty": "New York City Real Estate",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Client Attraction Strategies",
+    "Importance of Mentorship",
+    "Effective Use of Social Media",
+    "Navigating Market Cycles",
+    "Building Long-term Client Relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Attracting clients as a new agent",
+      "solution_summary": "Leverage your existing network by asking friends for introductions to potential clients and start a newsletter to build a database.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client expectations and emotions",
+      "solution_summary": "Understand clients' life transitions and listen to their needs to provide tailored support throughout the transaction.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable brand in a competitive market",
+      "solution_summary": "Utilize direct mail marketing and social media platforms like TikTok to establish and maintain a strong brand presence.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode provides strategies for new agents to build their client base and establish credibility.",
+      "key_takeaway": "Start with your immediate network and leverage their connections to grow your business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Leslie shares insights on maintaining high production levels and building a lasting brand.",
+      "key_takeaway": "Consistently deliver value and maintain client relationships through personalized engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I asked 10 of my really good friends for 10 names each to start my database.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a specific, actionable strategy for new agents to build their client list.",
+      "suggested_hook": "Looking to expand your real estate network? Here's a simple strategy to get started!"
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "Know your competition and turn that person into a buyer for another property.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical tip on how to convert open house visitors into clients.",
+      "suggested_hook": "Want to turn open house visitors into clients? Here's how!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Direct mail marketing",
+      "context": "Send newsletters to buildings and neighborhoods to establish presence and brand recognition.",
+      "timestamp": "14:00"
+    },
+    {
+      "tactic": "Preview properties before showing",
+      "context": "Allows you to focus on client reactions and tailor the showing experience.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "Date the rate, marry the home.",
+    "Every deal has a moment."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Leslie Singer shares her journey from marketing executive to top real estate broker in New York City. She offers practical strategies for new agents to build their client base, emphasizes the importance of mentorship, and discusses how to leverage social media for brand building. Leslie also provides insights on navigating market cycles and maintaining strong client relationships.",
+  "_metadata": {
+    "source_file": "2023-01-20_item282_Leslie-Singer",
+    "analyzed_at": "2026-01-29T16:43:52.917138",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

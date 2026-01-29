@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Leah Canfield",
+    "title": "Real Estate Agent",
+    "company": "Coldwell Banker Mountain Properties",
+    "production_level": "Top 0.4% of Coldwell Banker agents worldwide",
+    "specialty": "Luxury real estate",
+    "location": "Breckenridge, Colorado"
+  },
+  "main_topics": [
+    "Transition from athletics to real estate",
+    "Building a personal brand in real estate",
+    "Overcoming grind culture",
+    "Importance of trusting gut instincts",
+    "Strategies for entering the luxury market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing credibility as a young agent",
+      "solution_summary": "Leah focused on building relationships with Denver agents and getting her name associated with luxury real estate through media outreach.",
+      "timestamp": "13:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with grind culture and maintaining work-life balance",
+      "solution_summary": "Leah hired an assistant to help manage workload and emphasized the importance of not working alone to avoid burnout.",
+      "timestamp": "34:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling difficult clients and setting boundaries",
+      "solution_summary": "Leah advised on trusting gut instincts and setting boundaries with clients to maintain a healthy work environment.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Leah's journey from a competitive athlete to a top real estate agent provides a roadmap for those looking to excel in the industry.",
+      "key_takeaway": "Building a strong personal brand and leveraging relationships can accelerate your success in real estate."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Leah discusses the pitfalls of grind culture and how to achieve success without sacrificing personal well-being.",
+      "key_takeaway": "Delegating tasks and setting boundaries can lead to a more sustainable and fulfilling career."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:54",
+      "end_timestamp": "21:40",
+      "quote": "If you help them and say, hey, look, this is super interesting. This is happening in our market nine times out of 10. They're going to call you back.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a specific tactic for getting media exposure and building credibility.",
+      "suggested_hook": "Want to get quoted in the media? Here's a simple tactic that works."
+    },
+    {
+      "timestamp": "55:20",
+      "end_timestamp": "55:50",
+      "quote": "If you want to go fast, go alone. If you want to go far, go as a team.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This quote encapsulates the importance of teamwork in achieving long-term success.",
+      "suggested_hook": "Why teamwork is essential for long-term success in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Reach out to local newspapers with interesting market data.",
+      "context": "Use this approach to get quoted and build credibility as a real estate expert.",
+      "timestamp": "20:54"
+    },
+    {
+      "tactic": "Hire an assistant to manage workload and maintain service quality.",
+      "context": "When you start feeling overwhelmed, consider hiring help to ensure consistent client service.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you want to go fast, go alone. If you want to go far, go as a team."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Rich Dad Poor Dad",
+      "context": "Recommended for understanding financial freedom and real estate investment."
+    },
+    {
+      "type": "book",
+      "name": "The E-Myth",
+      "context": "Recommended for understanding how to build a business and delegate tasks."
+    }
+  ],
+  "episode_summary": "Leah Canfield shares her journey from competitive skiing to becoming a top real estate agent, emphasizing the importance of building a personal brand and leveraging media relationships. She discusses overcoming grind culture by hiring help and setting boundaries, and advises on trusting gut instincts to manage client relationships effectively.",
+  "_metadata": {
+    "source_file": "2022-11-15_item300_Leah-Canfield",
+    "analyzed_at": "2026-01-29T16:31:04.644055",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

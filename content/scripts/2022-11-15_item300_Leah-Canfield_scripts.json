@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "20:54",
+      "end_timestamp": "21:40",
+      "quote": "If you help them and say, hey, look, this is super interesting. This is happening in our market nine times out of 10. They're going to call you back.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a specific tactic for getting media exposure and building credibility.",
+      "suggested_hook": "Want to get quoted in the media? Here's a simple tactic that works."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to get quoted in the media? Here's a simple tactic that works.\",\n    \"SETUP\": \"Meet Leah Canfield, a former athlete turned real estate pro. She's mastered the art of media exposure.\",\n    \"INSIGHT\": \"Leah shares, 'If you help them and say, hey, look, this is super interesting. This is happening in our market nine times out of 10. They're going to call you back.'\",\n    \"REFRAME/APPLICATION\": \"This tactic builds credibility and keeps you top-of-mind. Use it to position yourself as a market expert.\",\n    \"CTA\": \"Try this approach today. What market trends can you share with the media? Let us know in the comments!\"\n  },\n  \"CAPTION\": \"Want media exposure? Share interesting market trends and watch your credibility soar! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#MediaExposure\",\n    \"#MarketTrends\",\n    \"#BuildCredibility\",\n    \"#LeahCanfield\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "55:20",
+      "end_timestamp": "55:50",
+      "quote": "If you want to go fast, go alone. If you want to go far, go as a team.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This quote encapsulates the importance of teamwork in achieving long-term success.",
+      "suggested_hook": "Why teamwork is essential for long-term success in real estate."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Ever wonder why some real estate agents seem to achieve more with less effort?\",\n    \"SETUP\": \"(0:08-0:18) Leah Canfield, a former athlete turned real estate pro, shares why teamwork is the secret to long-term success.\",\n    \"INSIGHT\": \"(0:18-0:40) 'If you want to go fast, go alone. If you want to go far, go as a team.' Leah explains how building a strong team helped her transition from athletics to real estate, allowing her to break into the luxury market.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) Teamwork isn't just a buzzword; it's a strategy. Apply this by collaborating with experts to expand your reach and grow sustainably.\",\n    \"CTA\": \"(0:52-0:60) Ready to build your dream team? Start by identifying one area where collaboration could boost your business today.\"\n  },\n  \"social_media\": {\n    \"CAPTION\": \"Teamwork makes the dream work! Discover why collaboration is key in real estate success. 👥🏡\",\n    \"HASHTAGS\": [\"#RealEstateSuccess\", \"#Teamwork\", \"#LuxuryMarket\", \"#RealEstateTips\", \"#LeahCanfield\"],\n    \"CONTENT_PILLAR\": \"top_producer_secrets\"\n  }\n}\n```"
+  }
+]

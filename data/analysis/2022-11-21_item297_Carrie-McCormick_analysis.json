@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Market slowdown and interest rates",
+    "Business planning for 2023",
+    "Marketing strategies",
+    "Client relationship management",
+    "Time management and productivity"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Market slowdown due to high interest rates",
+      "solution_summary": "Communicate market data and trends to sellers to set realistic expectations.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Ineffective marketing spend",
+      "solution_summary": "Analyze past marketing efforts to identify what worked and focus on those strategies.",
+      "timestamp": "06:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Lack of consistent client follow-up",
+      "solution_summary": "Use personal milestones like anniversaries to maintain client relationships.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into high-level production strategies and market adaptation.",
+      "key_takeaway": "Focus on data-driven marketing and consistent client engagement to thrive in a challenging market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "People care very much when you demonstrate that you care for them and that you've taken time to look, build it into your life, that their lives are important.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the importance of personal connection in client relationships.",
+      "suggested_hook": "Want to build lasting client relationships? Here's the secret."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Track and analyze marketing spend monthly",
+      "context": "To quickly identify effective strategies and adjust as needed.",
+      "timestamp": "08:45"
+    },
+    {
+      "tactic": "Use personal milestones for client follow-up",
+      "context": "To maintain and strengthen client relationships.",
+      "timestamp": "14:00"
+    }
+  ],
+  "quotable_insights": [
+    "It's sometimes not what you're willing to do that makes the difference; it's what you're no longer willing to stand."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "CRM tool used by top REALTORS for effective follow-up."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the current real estate market slowdown and offers strategies for agents to adapt, including data-driven marketing and personalized client engagement. She emphasizes the importance of analyzing past marketing efforts to focus on what works and suggests using personal milestones to maintain client relationships. The episode provides actionable insights for agents looking to thrive in a challenging market.",
+  "_metadata": {
+    "source_file": "2022-11-21_item297_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T16:32:59.873838",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "19:03",
+      "end_timestamp": "19:48",
+      "quote": "I emailed my resume to about 10,000 agents... I got about 17 interviews.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a unique and actionable approach to finding mentorship and breaking into a new market.",
+      "suggested_hook": "Want to break into luxury real estate? Here's a bold strategy that worked for Paul Salazar."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Want to break into luxury real estate? Here's a bold strategy that worked for Paul Salazar.\",\n    \"SETUP\": \"(0:08-0:18) Paul Salazar faced the daunting task of entering the luxury real estate market. He knew he needed a mentor and a foot in the door.\",\n    \"INSIGHT\": \"(0:18-0:40) So, he emailed his resume to about 10,000 agents. It was a numbers game, and it paid off with 17 interviews. This unconventional approach helped him connect with top agents and find the right mentorship.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) This matters because it shows the power of persistence and thinking outside the box. Apply this by reaching out to industry leaders in your market.\",\n    \"CTA\": \"(0:52-0:60) Ready to take bold steps in your career? Start by sending that email today and see where it leads you!\"\n  },\n  \"social_media\": {\n    \"CAPTION\": \"Want to break into luxury real estate? Try Paul Salazar's bold strategy! 🚀 #RealEstateSuccess\",\n    \"HASHTAGS\": [\"#RealEstateSuccess\", \"#LuxuryRealEstate\", \"#Mentorship\", \"#CareerGrowth\", \"#BoldMoves\"],\n    \"CONTENT_PILLAR\": \"top_producer_secrets\"\n  }\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "50:04",
+      "end_timestamp": "50:40",
+      "quote": "I create a 15-20 page offering memorandum for developers... they trust me even more.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a detailed and effective method for attracting developer clients.",
+      "suggested_hook": "Looking to work with developers? Here's a strategy that sets you apart."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Looking to work with developers? Here's a strategy that sets you apart!\",\n    \"SETUP\": \"Paul Salazar shares how a detailed offering memorandum can win developer trust.\",\n    \"INSIGHT\": \"By crafting a 15-20 page offering memorandum, developers see your dedication and expertise. This document showcases your understanding of their needs and the market, making them trust you even more.\",\n    \"REFRAME/APPLICATION\": \"This approach not only differentiates you but also builds credibility. Start creating detailed memorandums to attract and retain developer clients.\",\n    \"CTA\": \"Ready to elevate your real estate game? Start drafting your first offering memorandum today!\"\n  },\n  \"caption\": \"Want to win over developers? Create detailed offering memorandums! #RealEstateTips\",\n  \"hashtags\": [\"#RealEstate\", \"#DeveloperTrust\", \"#LuxuryRealEstate\", \"#RealEstateMarketing\", \"#ClientSuccess\"],\n  \"content_pillar\": \"top_producer_secrets\"\n}\n```"
+  }
+]
