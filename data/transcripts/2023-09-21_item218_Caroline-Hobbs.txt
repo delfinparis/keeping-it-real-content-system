@@ -1,0 +1,1166 @@
+Transcript: 2023-09-21_item218_Caroline-Hobbs.mp3
+Duration: 00:49:26
+============================================================
+
+[00:00:00] Today we're going to talk about the importance of mentorship.
+[00:00:03] And by the way, almost everyone I've ever had on my show,
+[00:00:06] which are top 1% producers, have all had mentors.
+[00:00:09] Let's talk about it today.
+[00:00:10] Stay tuned.
+[00:00:11] This episode of Keeping It Real is brought to you by Real Geeks.
+[00:00:15] How many homes are you going to sell this year?
+[00:00:17] Do you have the right tools?
+[00:00:19] Is your website turning soft leads in interested buyers?
+[00:00:22] Are you spending money on leads that aren't converting?
+[00:00:25] Well, Real Geeks is your solution.
+[00:00:27] Find out why agents across the country
+[00:00:29] choose Real Geeks as their technology partner.
+[00:00:32] Real Geeks was created by an agent for agents.
+[00:00:35] They pride themselves on delivering
+[00:00:37] a sales and marketing solution so that you
+[00:00:39] can easily generate more business.
+[00:00:42] Their agent websites are fast and built for lead conversion
+[00:00:45] with a smooth search experience for your visitors.
+[00:00:49] Real Geeks also includes an easy-to-use agent CRM.
+[00:00:52] So once a lead signs up on your website,
+[00:00:55] you can track their interest and have great follow-up
+[00:00:58] conversations.
+[00:00:59] Real Geeks is loaded with a ton of marketing tools
+[00:01:02] to nurture your leads and increase brand awareness.
+[00:01:05] Visit realgeeks.com forward slash Keeping It Real Pod
+[00:01:08] and find out why REALTORS come to Real Geeks
+[00:01:11] to generate more business.
+[00:01:13] Again, visit realgeeks.com forward slash Keeping It Real Pod.
+[00:01:17] And now, onto our show.
+[00:01:32] Hello and welcome to another episode of Keeping It Real,
+[00:01:35] the largest podcast made by real estate agents
+[00:01:38] and for real estate agents.
+[00:01:40] My name is DJ Paris.
+[00:01:41] I'm your guide and host through the show.
+[00:01:43] And just a moment, we're going to be speaking with top producer
+[00:01:46] and also software developer Caroline Hobbs.
+[00:01:49] This is a really cool one.
+[00:01:50] You're going to want to listen to all of it
+[00:01:52] because there's lots of great stuff here.
+[00:01:54] Anyway, before we get to Caroline,
+[00:01:56] one thing that you can do to help our show out to things,
+[00:01:59] actually, is leave us a review.
+[00:02:01] So you might be listening to us on Apple podcasts
+[00:02:04] or any other podcast app.
+[00:02:06] Please let us know what you think of the show,
+[00:02:08] helps us improve and obviously meet your needs
+[00:02:10] more effectively.
+[00:02:11] And please also tell a friend about the show.
+[00:02:14] Think of just one other agent that could benefit
+[00:02:15] from hearing from top producers like Caroline
+[00:02:18] and let them know about the show we appreciate it.
+[00:02:21] All right, guys, let's get to the main event,
+[00:02:23] my conversation with Caroline Hobbs.
+[00:02:38] Today on the show, our guest is Caroline Hobbs.
+[00:02:41] She is a broker and owner of Reward Realty
+[00:02:43] in San Jose, California, which is the heart of Silicon Valley.
+[00:02:47] Let me tell you more about Caroline.
+[00:02:49] Now, Caroline, if there's anyone who understands the stress
+[00:02:53] of uprooting one's life and finding the best place
+[00:02:56] to raise a family, it's Caroline.
+[00:02:57] She's the now mother of two's career
+[00:03:00] kicked off with Keller Williams in Palo Alto,
+[00:03:02] where she learned everything that she knows
+[00:03:05] from some of the world's leading agents,
+[00:03:07] some of them have even been on our show.
+[00:03:09] Using her knowledge and intrinsic passion
+[00:03:11] for helping clients achieve their goals,
+[00:03:13] Caroline built Reward Realty from the ground up.
+[00:03:16] As the team lead and headbroker,
+[00:03:18] Caroline spends her days turning mundane listings
+[00:03:21] into irresistible opportunities for local home buyers
+[00:03:24] and investors.
+[00:03:26] When you work with Caroline, you can be rest assured
+[00:03:28] that you'll feel heard, supported,
+[00:03:30] and respected by somebody with decades of experience.
+[00:03:34] Now, to learn more about Caroline's brokerage,
+[00:03:38] please visit RewardRealty.org.
+[00:03:41] Again, RewardRealty.org.
+[00:03:43] We will have a link to that in the show notes
+[00:03:45] and she is currently working on a new tech product
+[00:03:48] specifically for REALTORS.
+[00:03:50] We're gonna be talking about that at some point in the show
+[00:03:53] today as well and we'll give you some information
+[00:03:54] on how to learn more there.
+[00:03:56] Caroline, welcome to the show.
+[00:03:58] Hi, thank you so much for having me.
+[00:04:00] I am so excited to chat with you
+[00:04:02] and I don't get a chance to talk to as many broker owners
+[00:04:06] as I would like.
+[00:04:07] So this is kind of a treat for me
+[00:04:08] because you really are wearing a lot of hats.
+[00:04:11] Not only are you running your brokerage
+[00:04:13] and your own personal business within the brokerage,
+[00:04:16] managing agents and doing all of the,
+[00:04:19] all of the hats that owners do that wear
+[00:04:23] and also working on a tech product at the same time.
+[00:04:26] So I'm excited to talk about that.
+[00:04:28] But why I always like to start off the show
+[00:04:31] learning more about our guests.
+[00:04:33] So tell us how you got into real estate.
+[00:04:36] So I'm actually third generation real estate professional.
+[00:04:39] My grandfather was a contractor who had his real estate license.
+[00:04:43] My mother has been in the lending industry for over 40 years
+[00:04:47] and is just getting ready to retire.
+[00:04:49] And so while I was in college,
+[00:04:52] I was introduced to a real estate agent
+[00:04:57] who is number one in Keller Williams internationally
+[00:05:00] and started working for her as her open house host
+[00:05:03] and assistant.
+[00:05:05] Yeah, what's it like to work for the number one?
+[00:05:10] I just recently had the number one RE/MAX agent
+[00:05:13] who happens also in the world
+[00:05:15] who happens to be in California,
+[00:05:16] not in your neck of the woods down in Los Angeles.
+[00:05:20] But it was interesting talking to like the number one person
+[00:05:23] in the world and really hearing how somebody
+[00:05:26] at the very tippy top of the mountain does it,
+[00:05:29] not just the people who are just slightly underneath them
+[00:05:31] who are also superstars, but the person at the very top.
+[00:05:34] You got that experience.
+[00:05:35] So tell us about what you learned from working with some,
+[00:05:38] I mean, what a gift that is, I imagine.
+[00:05:41] 100%.
+[00:05:41] I honestly, I don't think I would have figured out my strengths
+[00:05:46] as an agent, even in tech, without my start.
+[00:05:52] Working with that agent, I had open houses to host
+[00:05:57] and get face-to-face connections with clients very, very early,
+[00:06:02] like before I was licensed.
+[00:06:04] So from the get-go, she used to joke
+[00:06:06] that I've hosted more open houses
+[00:06:07] than anybody else in Silicon Valley
+[00:06:09] because I hosted them every single weekend for years.
+[00:06:14] So learning how to convert clients,
+[00:06:16] talk to them, understand their concerns, hear them out.
+[00:06:19] That was all super invaluable.
+[00:06:21] But in all honesty, for running a business,
+[00:06:24] I think I learned a lot because this agent
+[00:06:27] had not only her real estate license,
+[00:06:30] but she also had an MBA and what is a certified accountant.
+[00:06:35] So she was like the ultimate business person.
+[00:06:39] So I like to say I stole the knowledge that I could.
+[00:06:42] I worked with her for six and a half years
+[00:06:45] and got to see the ins and outs of how she runs her business,
+[00:06:50] how she conducts it, how she talks to clients,
+[00:06:52] how she closes the deal.
+[00:06:54] But even more so, I was in charge of running her database,
+[00:06:58] which this is in 2008, 2007.
+[00:07:03] She had over 10,000 people in her database.
+[00:07:05] Amazing.
+[00:07:06] So this is way before most people even had a database.
+[00:07:09] Most people were working off of a nilt pad,
+[00:07:12] maybe an excel sheet if you were advanced.
+[00:07:16] And we should also mention that this is right
+[00:07:18] at the most challenging time to be a real estate agent.
+[00:07:22] This is when the market crashed.
+[00:07:24] We had, although those subprime loans,
+[00:07:26] were really brought the housing market down.
+[00:07:28] By the way, that is not happening now.
+[00:07:30] Thank goodness.
+[00:07:31] But you were doing this in a very difficult time.
+[00:07:36] Absolutely.
+[00:07:38] Also with the area that we were selling in,
+[00:07:42] our office, we were with color Williams.
+[00:07:45] And our office was in downtown Palo Alto,
+[00:07:46] which is actually the number one office in the country as well.
+[00:07:51] A lot of times it's just because of the price points
+[00:07:53] that we're at.
+[00:07:55] There at a much higher level,
+[00:07:56] most people need to sell 5, 10, 20 houses
+[00:07:59] to equate the same kind of price range.
+[00:08:03] But just being surrounded by those agents
+[00:08:05] who are really a lot more business minded
+[00:08:08] than I find a lot of REALTORS to be,
+[00:08:11] was really inspiring.
+[00:08:13] The other person that was at the office at the same time
+[00:08:15] with me, a well-known agent who started his own brokerage
+[00:08:18] called Daily Own Realty.
+[00:08:22] Back when we were at color Williams together,
+[00:08:24] he sold the most expensive home in America,
+[00:08:26] which was over in Woodside for about $100 million.
+[00:08:30] And he took that and reinvested it back into himself,
+[00:08:34] starting his company.
+[00:08:35] So I like to think that I kind of learned from those around me
+[00:08:38] and that's the path I ended up choosing as well.
+[00:08:43] It's really, it's really again, such a gift.
+[00:08:46] It's a good reminder to our audience
+[00:08:47] that if you currently don't have a mentor
+[00:08:51] or you don't have open houses to sit on weekends,
+[00:08:55] beg anyone in your office as much as you can
+[00:08:58] to go ahead and sit those open houses.
+[00:09:01] You're doing the seller of favor
+[00:09:03] and clearly you're doing yourself a favor by
+[00:09:05] not only learning how to talk about real estate
+[00:09:06] to people that walk in off the street,
+[00:09:08] but also possibly get some leads as well
+[00:09:11] and hopefully show those people other homes to buy.
+[00:09:15] So this, I cannot encourage people to do this more.
+[00:09:18] I think it's so critical.
+[00:09:21] And everyone who's listening probably already knows,
+[00:09:22] yeah, I know I'm supposed to sit open houses,
+[00:09:25] but I can't think of an example we've done
+[00:09:28] about 500 episodes.
+[00:09:29] I'm sure there's one person that never sat in open house
+[00:09:32] on 500, but that's about it.
+[00:09:35] And I only talk to the top agents in the country.
+[00:09:38] So, and the very top agent at Keller Williams
+[00:09:41] was like, oh yeah, by the way, sit open houses.
+[00:09:43] So yeah, so even if you read Gary Keller's book,
+[00:09:47] it'll tell you to sit open houses.
+[00:09:49] So anyway, that is just a good, quick reminder.
+[00:09:52] So when did you decide to sort of break off?
+[00:09:55] So you learned all this great information from your mentor
+[00:09:58] and got to really see a lot of high end sort of transactions
+[00:10:03] and sort of the white glove approach,
+[00:10:06] which is absolutely needed for those kind of transactions.
+[00:10:10] And you were able to take that synthesize what you learn
+[00:10:13] and then build your own brokerage.
+[00:10:15] Tell us about that.
+[00:10:16] Yeah, so my adventure with Reward Realty
+[00:10:20] started about 10 years ago.
+[00:10:22] April was our 10 year anniversary of being in business.
+[00:10:25] So I started this in 2013.
+[00:10:30] And my goal was
+[00:10:34] at the time, there was really, really high splits
+[00:10:38] with the off the major players.
+[00:10:41] And as a newer agent at the time,
+[00:10:44] well, not new, but like, I was a young agent.
+[00:10:48] So I didn't have a whole lot of resources.
+[00:10:52] A lot of sweat equity went into it.
+[00:10:54] But I wanted to create a place where agents could come,
+[00:10:59] they could keep more of their commission,
+[00:11:01] they could have access to the best tools
+[00:11:05] and really find themselves like a home.
+[00:11:09] I very much and very involved with all of my agents
+[00:11:13] at my brokerage.
+[00:11:15] Today, as we're recording this, this is Wednesday.
+[00:11:18] We call it party day in our office.
+[00:11:21] So we have our local broker tour that we go on.
+[00:11:25] We all go to the meeting together.
+[00:11:26] I actually sit on the board for our real estate association.
+[00:11:32] And we come back to the office.
+[00:11:34] I have my agents in the other room right now,
+[00:11:38] kicking off the 100 days to 100K with Tom Ferry.
+[00:11:42] Love it.
+[00:11:42] All the printed out books ready to go for them.
+[00:11:44] So they're listening to that while we record this right now.
+[00:11:48] But we also do lunch.
+[00:11:50] We invite lenders and we role play.
+[00:11:53] So really trying to, you know, home those skills,
+[00:11:57] make sure that my every agent at our office
+[00:12:01] is a beacon of information for all of their clients.
+[00:12:04] You know, it's so funny because you say that,
+[00:12:07] you know, this idea of having this once a week sort of tour,
+[00:12:11] you know, you call it party day.
+[00:12:14] And you get to go out and see some listings.
+[00:12:17] You get everyone gets the experience of walking through.
+[00:12:20] There's information that's being shared.
+[00:12:23] And then you come back and digest it all
+[00:12:24] and then actually do some additional work
+[00:12:27] with the Tom Ferry program as well as role playing,
+[00:12:29] which is, I think, one of the most invaluable exercises,
+[00:12:32] of course, this is awesome.
+[00:12:35] I'm thinking here, we're in Chicago.
+[00:12:37] There are hundreds of brokerages here.
+[00:12:39] I am sure that maybe one of them does that.
+[00:12:42] I'm sure I'm just guessing.
+[00:12:44] I don't know of any personally that do that weekly.
+[00:12:47] Again, I'm sure there are.
+[00:12:48] And I'll probably get some emails from people
+[00:12:50] afterwards saying, yeah, we do this.
+[00:12:52] But it is very rare.
+[00:12:54] And so I will, I will really honor you for that.
+[00:12:56] And for, by the way, I always forget to say this
+[00:12:58] until the end, if anyone is in the San Jose area
+[00:13:01] and would like that sort of experience
+[00:13:03] as they're growing their business to learn
+[00:13:05] from somebody who learned from the very best.
+[00:13:08] And also, who practices it every single week
+[00:13:11] and literally teaches you and shows you how to do that.
+[00:13:14] Check out Reward Realtry Against RewardRealT.org
+[00:13:17] and by the way, no franchise fee.
+[00:13:20] So how exciting is that?
+[00:13:22] So you don't have to pay that mysterious 5% to the mothership
+[00:13:27] because there is no mothership.
+[00:13:28] It's just Caroline and her team.
+[00:13:30] So that's awesome.
+[00:13:31] I love this idea of really building the skills of your agents
+[00:13:35] which is, I think I've seen a trend.
+[00:13:40] I'm curious to get your take on this.
+[00:13:41] I've seen a trend where managing brokers,
+[00:13:43] people who are in charge of all of the agents,
+[00:13:45] I'm assuming you're the managing broker as well.
+[00:13:48] I am.
+[00:13:48] Yeah.
+[00:13:49] So you were a lot of different hats.
+[00:13:52] And what I've seen over in the last probably 10 years
+[00:13:56] is this trend of the managing brokers
+[00:13:58] are now being asked to do more recruiting
+[00:14:01] because it's getting more competitive.
+[00:14:03] People are moving around a bit.
+[00:14:04] And especially now.
+[00:14:06] And they don't have as much time to train.
+[00:14:09] And so I think a lot of the training initiatives
+[00:14:11] are being pushed off to teams, which I guess
+[00:14:13] sort of makes sense in a way.
+[00:14:16] But I like the idea of joining a brokerage
+[00:14:18] who actually the brokerage itself has amazing training.
+[00:14:22] So I applaud you for continuing to support your agents
+[00:14:26] in that way.
+[00:14:28] Let's talk about your other venture
+[00:14:33] because you were a little bit dissatisfied
+[00:14:35] with database stuff.
+[00:14:38] You wanted to do more.
+[00:14:39] You're right in the part of the country that loves tech
+[00:14:42] and all of our tech sort of breakthroughs
+[00:14:47] come from your part of the country.
+[00:14:49] So tell us a little bit about what you're working on.
+[00:14:52] This is actually really cool.
+[00:14:53] Yeah, absolutely.
+[00:14:55] So we are essentially tying together
+[00:15:00] some of the leading platforms.
+[00:15:01] Followup Boss and Open to Close
+[00:15:03] and building our own customized client portal,
+[00:15:06] which will be client-facing.
+[00:15:09] So between the followup boss and the Open to Close,
+[00:15:12] we've actually created full cross-functional usage of it.
+[00:15:17] So currently they'll link during Zapier,
+[00:15:19] but we have a much more robust way of doing this.
+[00:15:23] Essentially allowing agents to solely work out of followup boss,
+[00:15:27] admins and transaction coordinators
+[00:15:29] to solely work out of Open to Close
+[00:15:30] and have everything sync all of the information
+[00:15:33] showing up in the client portal
+[00:15:35] to be accessible to your clients.
+[00:15:38] And also be able to invite agents
+[00:15:40] from the other side of the transaction
+[00:15:42] to access the documents and things like that.
+[00:15:45] So we can do an AI transaction management
+[00:15:49] kind of scanning the documents, reducing risk
+[00:15:52] by making sure that there's not any kind of missing signatures,
+[00:15:58] missing, you know, question skipped, anything like that.
+[00:16:02] And really having everybody work together
+[00:16:04] to get that file completed
+[00:16:06] without a whole lot of trouble going back and forth.
+[00:16:10] So let me see if I understand because I think I do,
+[00:16:12] although I am a little bit under the weather,
+[00:16:14] so I may just be making this up in my head
+[00:16:17] and you'll correct me if I'm wrong,
+[00:16:19] but I think I understand,
+[00:16:20] so the problem you're solving is,
+[00:16:22] hey, clients oftentimes don't really know where they are
+[00:16:26] in a transaction, there's no real portal for a client
+[00:16:30] to go in and say, oh, this is exactly where we are currently.
+[00:16:33] They're waiting for communication from their broker,
+[00:16:36] their agent, and maybe their agent's good at doing that,
+[00:16:39] maybe they aren't, but there isn't a place
+[00:16:41] where they can just go and see a snapshot of,
+[00:16:43] here's everything that's currently going on.
+[00:16:45] So you built that solution, it was really actually,
+[00:16:48] I don't know that that solution,
+[00:16:50] does that solution exist before yours?
+[00:16:52] Because no, she's taking her head now.
+[00:16:54] Nope.
+[00:16:54] Nope.
+[00:16:54] That is a brilliant idea because I was thinking about this,
+[00:16:58] I bought a place a few years ago
+[00:17:00] and I hadn't bought a place in a long time,
+[00:17:02] so I sort of forgot the process.
+[00:17:04] And now with getting alone and doing well
+[00:17:08] of the lender stuff, it was all that way.
+[00:17:10] It was all online, they would ping me,
+[00:17:14] I need this, this, this, but it was all through a portal,
+[00:17:16] it made perfect sense, and then I could see the status
+[00:17:19] of it as well as the updates as they rolled in.
+[00:17:22] I love that you're doing this, this is really, really smart.
+[00:17:25] So it's a client-centric approach to really keep them
+[00:17:29] in the loop and then also utilize existing systems
+[00:17:32] that agents are already enjoying.
+[00:17:34] Yes, so that is definitely a major portion of it,
+[00:17:39] is I felt like there was always a client version,
+[00:17:42] or like a client facing part of this that was missing.
+[00:17:48] Also another thing that inspired me to do this,
+[00:17:50] especially on the listing side,
+[00:17:52] is a lot of times when homes are sitting on the market
+[00:17:54] for a little while and not moving,
+[00:17:57] they wanna see like a whole track list
+[00:17:59] of what you've done to market their home.
+[00:18:01] So this allows you to make those notes
+[00:18:04] in their follow-up boss and have them synced directly
+[00:18:06] into the client portal where they can see every single action
+[00:18:09] that you're taking at each step.
+[00:18:11] But furthermore, and I think this is where
+[00:18:13] agents will be a little bit more interested,
+[00:18:16] is that all of your follow-ups,
+[00:18:19] all of those special touches,
+[00:18:20] whether it's gifting, marketing,
+[00:18:23] all of that is going is a custom buildout
+[00:18:27] that we do for you in your follow-up boss account
+[00:18:29] and then you're open to close account.
+[00:18:31] So let's say that a new company starts up
+[00:18:34] for home valuations and they have an open API
+[00:18:37] and you wanna incorporate it into your account
+[00:18:39] and your client vars.
+[00:18:41] You'll tell us, open your account,
+[00:18:43] we'll set it up for you, we'll help test it out
+[00:18:47] to make sure that we're using it
+[00:18:48] at the highest and best level
+[00:18:50] and help you get all of the automation set up.
+[00:18:54] So that way it is just incorporated.
+[00:18:56] You're not going to another place to go make a change,
+[00:18:58] another place to go send out postcards,
+[00:19:00] another place to go create your commissions
+[00:19:04] or anything like that.
+[00:19:06] So there's really two components here.
+[00:19:08] There's the client's facing side,
+[00:19:10] which is gonna give them updates, they can see your activity,
+[00:19:13] they can stay in the loop and get notified
+[00:19:14] when there's new activity.
+[00:19:16] Then on the other side there's the agent facing side,
+[00:19:20] which is going to link up with many different tools
+[00:19:23] all in one so that you're not logging in and out
+[00:19:26] of all these different systems
+[00:19:28] and I don't think anyone's built that either.
+[00:19:31] I guess Salesforce would be the closest thing to that
+[00:19:33] but it's Salesforce as a giant, massive tool
+[00:19:37] that isn't specifically real estate focused.
+[00:19:39] So you're basically taking existing tools
+[00:19:41] and really hyper focusing them
+[00:19:43] to the real estate agent experience.
+[00:19:46] Yeah, if you can imagine a tool that combines
+[00:19:51] like disclosure IO but for both sides of the transaction
+[00:19:55] and compresses all of those files together
+[00:19:59] for the most complete ones and marking what's missing,
+[00:20:02] that's kind of, that's the workflow
+[00:20:04] that we're building towards.
+[00:20:07] Awesome, when do you anticipate,
+[00:20:09] is it in beta testing now or how is it ready for?
+[00:20:13] It's in development.
+[00:20:14] We have partnered with BARA Agency
+[00:20:16] which is the number one real estate development company.
+[00:20:20] They are our CTOs for this.
+[00:20:23] We have Evolve who is helping us with our onboarding.
+[00:20:26] Jackie is a superstar and well known
+[00:20:30] among a lot of the exacts in real estate technology companies.
+[00:20:35] And then, you know, so we really have partnered
+[00:20:38] with some of the best of the best.
+[00:20:40] We have regular meetings with open close and follow up boss
+[00:20:43] to make sure we're all building alongside one another
+[00:20:46] to really create a super system.
+[00:20:48] And I think a lot of our vendors
+[00:20:51] are really seeing the value in what we're doing,
+[00:20:55] being able to extend their client life cycles
+[00:20:57] because they're actually utilizing the tools
+[00:20:59] that they're paying for.
+[00:21:01] Right.
+[00:21:02] And the reality of it is,
+[00:21:04] and we all know this who are practicing REALTORS
+[00:21:06] is there's just too much to do in any given day
+[00:21:10] to really manage your entire business as an individual.
+[00:21:13] It's just too much.
+[00:21:14] It really is.
+[00:21:15] And so you need to leverage tools
+[00:21:16] and the problem with CRMs is,
+[00:21:20] I mean, certain CRMs are wonderful,
+[00:21:22] but you really have to,
+[00:21:25] this is the era of integration.
+[00:21:27] So we're gonna start to see tools combining
+[00:21:30] loan wolf is doing this a lot.
+[00:21:32] If people are following a loan wolf,
+[00:21:33] they're purchasing lots of little tech companies
+[00:21:36] and trying to create some sort of ecosphere to sort of suck you in.
+[00:21:40] Caroline is doing the same thing,
+[00:21:41] and she's doing it with some of the biggest players in the space.
+[00:21:45] So because it's not, it's still in development,
+[00:21:47] you guys are working on it now.
+[00:21:49] If somebody wants to sort of be informed of the updates
+[00:21:54] and you know, once it's ready,
+[00:21:56] where should they, should I,
+[00:21:57] should they go to rewardbrealtty.org,
+[00:21:58] send you an email just to put it on a list?
+[00:22:01] That would be fine,
+[00:22:02] or use the link below to just go ahead
+[00:22:05] and book a 30 minute consultation with me.
+[00:22:07] We are getting ready to start onboarding people
+[00:22:10] onto our open to close and follow up boss built out system.
+[00:22:17] So basically all the action plans,
+[00:22:19] all the touch points,
+[00:22:20] all of that gets customized to the user,
+[00:22:23] all of the verbiage.
+[00:22:24] We give you video scripts to go and record
+[00:22:26] to put into your transaction emails as far as updates go,
+[00:22:30] and then those will sink to the client portal.
+[00:22:33] We are expecting to,
+[00:22:34] we're not expecting for hoping to finish the client portal
+[00:22:40] by end of Q1 in 2024.
+[00:22:44] So for anybody that is already on our platforms,
+[00:22:48] they will automatically get, you know, first dibs
+[00:22:50] and likely some beta testing on it.
+[00:22:52] And then we will be selling it as a part of the tech stack
+[00:22:57] that we've developed,
+[00:22:58] as well as an individual product that people can access
+[00:23:01] and use on their own transactions.
+[00:23:03] I love it.
+[00:23:04] So stay tuned,
+[00:23:05] but get on the mailing list.
+[00:23:08] So we are, I forgot Caroline mentioned there is a link.
+[00:23:12] So if you're a brokerage, if you're a team,
+[00:23:14] if you're an individual that has many systems,
+[00:23:16] you want to integrate,
+[00:23:17] you can schedule in the description below,
+[00:23:20] you'll see a link to schedule time with Caroline
+[00:23:22] and her team to learn more.
+[00:23:24] Also, you can also go to rewardrealt.org
+[00:23:26] and shoot her message.
+[00:23:28] I want to talk a little bit about the state of the market
+[00:23:32] because of course this is a different year than last year.
+[00:23:35] We have our interest rates are different,
+[00:23:38] our inventory, you know, demand is different.
+[00:23:42] And I don't know what it's like in the San Jose area,
+[00:23:46] but I suspect it's similar to what we're experiencing
+[00:23:50] in other parts of the country.
+[00:23:52] So basically what I'm saying is the vast majority
+[00:23:55] of agents I talk to their businesses down.
+[00:23:58] Occasionally I run into somebody who's crushing it,
+[00:24:00] but that's an anomaly.
+[00:24:01] It's not as common as anyone would like.
+[00:24:04] So how are you keeping your agents motivated?
+[00:24:06] Obviously I love the party Wednesday idea of going out
+[00:24:09] and doing skill building.
+[00:24:11] What else are you telling your agents to do right now
+[00:24:14] to help keep their business rolling?
+[00:24:19] We do a number of things.
+[00:24:20] So we do a lot of online marketing.
+[00:24:22] So we do have new leads that come in every single day
+[00:24:26] through several different programs.
+[00:24:29] In addition to that, I do have all of my buyers agents
+[00:24:32] because I do run a small team
+[00:24:33] within the brokerage as well.
+[00:24:35] They host all of my open houses.
+[00:24:38] I have built up a pretty strong stream of listings
+[00:24:43] and reputation in the area.
+[00:24:45] So fortunately we've been able to keep business coming in
+[00:24:50] and focusing on that way.
+[00:24:53] But really we're leveraging our systems
+[00:24:55] to help differentiate ourselves, be the first to contact.
+[00:25:00] And then with the role play,
+[00:25:02] making sure that we make every single conversation count.
+[00:25:05] It's fine in a busy market
+[00:25:07] when you've got 100 leads coming in a day
+[00:25:12] to mess up on a couple.
+[00:25:14] But this is the role play
+[00:25:16] and we want to capitalize on every single opportunity.
+[00:25:19] And so we want to make sure that our agents are ready to go.
+[00:25:22] The second opportunity arises
+[00:25:24] and that they're able to have that persuasive conversation
+[00:25:28] and help their clients understand
+[00:25:32] what a good time it actually is to purchase.
+[00:25:36] Yeah, and let's talk about rates.
+[00:25:38] So interest rates are higher than anyone would prefer currently.
+[00:25:43] Although historically not that high, but it feels high,
+[00:25:45] I think now, even though it doesn't really,
+[00:25:50] if you look at the numbers, I don't think it's too awful.
+[00:25:52] Just it's awful in comparison to 3%,
+[00:25:54] which was in anomaly as well a couple of years ago.
+[00:25:57] So but it is an interesting conversation
+[00:26:00] because I think I've some friends there are lenders
+[00:26:03] that I'm probably I'm getting the statistic wrong,
+[00:26:05] but it's something like 85% of US homeowners
+[00:26:08] have less than a 4% mortgage.
+[00:26:11] So we've, I don't know, really created a challenge
+[00:26:15] for REALTORS now to, unless you have to move,
+[00:26:18] it's tough to ask somebody to give up their 3% rate
+[00:26:23] for possibly a 7% rate.
+[00:26:26] So are you coaching your agents on how to handle
+[00:26:30] that particular conversation
+[00:26:31] and what would you recommend in those cases?
+[00:26:34] So there's a few different things.
+[00:26:38] Regarding the market here in Silicon Valley,
+[00:26:41] we're seeing a lot of cash offers come through
+[00:26:44] and I realize that it's just because we get a lot of money
+[00:26:46] from investors and we've got engineers with RSU money
+[00:26:50] and things like that.
+[00:26:51] But what that indicates to me is there's blood in the water.
+[00:26:56] And if you've been in real estate long enough,
+[00:26:58] you know that home prices and interest rates
+[00:27:01] have an inverse relationship.
+[00:27:04] So what some of our partner lenders have been doing
+[00:27:07] is they have programs where if you purchase now,
+[00:27:10] they in six months, they'll refinance you for free.
+[00:27:14] No cost at all.
+[00:27:15] Very cool.
+[00:27:16] So I think that's also a good conversation,
+[00:27:19] but there's always going to be a reason to move.
+[00:27:22] I think that this reaction to the interest rates
+[00:27:24] is a little bit of a generational thing.
+[00:27:27] It's less so with the move down clients,
+[00:27:29] which is a lot of the people that we've served this year.
+[00:27:32] I think younger buyers and their 30s,
+[00:27:36] which is a majority of people buying and selling right now
+[00:27:39] is people starting to have families
+[00:27:40] and moving up in their careers
+[00:27:42] and starting to move into a home that they might stay in
+[00:27:45] for a little bit longer.
+[00:27:49] They're not going to stay in a townhouse
+[00:27:52] because that's what they could afford when they're 20,
+[00:27:54] 30 years old and when they have two kids and need a backyard.
+[00:27:59] No matter what their interest rate is.
+[00:28:02] Now will they hold onto it as an investment property
+[00:28:05] and turn it into an investment property?
+[00:28:08] That's not a bad idea,
+[00:28:10] but I kind of stand by the fact that there's always
+[00:28:13] going to be a reason to buy and sell.
+[00:28:15] And in California, we are seeing a lot of people,
+[00:28:19] again, not as interested about the interest rates,
+[00:28:22] but like acknowledging that the cost of living
+[00:28:25] is so high here and moving out of state.
+[00:28:29] Yeah, that makes sense.
+[00:28:30] And you said something very powerful
+[00:28:32] about the good thing to remember,
+[00:28:35] I sort of had forgotten this,
+[00:28:36] that interest rates at home price
+[00:28:38] is they have like a negative correlation,
+[00:28:40] as one goes up the other, goes down.
+[00:28:43] So that is a conversation to have with buyers right now
+[00:28:47] and sellers to say, hey, yeah, you know,
+[00:28:50] and there's all there other options too
+[00:28:52] with mortgages you could do buy downs.
+[00:28:54] So by the way, if anyone's not familiar with a buy down,
+[00:28:56] listen to our, we do a monthly episode
+[00:28:58] with Joel from Guaranteed Rate.
+[00:28:59] He talks a lot about buy downs.
+[00:29:01] Those are very common right now to help ease some of that,
+[00:29:04] you know, that a sicker shock of seeing the larger number
+[00:29:07] on that monthly payment.
+[00:29:10] So, but there are solutions,
+[00:29:11] but I think you brought up a really good point is,
+[00:29:13] let's talk about home pricing,
+[00:29:15] because at the end of the day,
+[00:29:16] if pricing's coming down, because rates are high,
+[00:29:20] well, ultimately that could be a good thing for both sides,
+[00:29:23] but the math needs to be there, right?
+[00:29:25] So agents need to, I think, do a little bit more math these days
+[00:29:29] than perhaps they had to do before when rates were so low
+[00:29:33] that, and let's also remember too,
+[00:29:35] when rates were in the threes and even the twos a little bit,
+[00:29:39] think about how many buyers flooded the market
+[00:29:42] and how much, how people were overpaying
+[00:29:45] for some of these, you know, these homes.
+[00:29:48] So this is a time where there's less buyers.
+[00:29:50] So in a way, that's less competition, that's good.
+[00:29:53] And now, you know, you might get a discount on the price.
+[00:29:58] Well, I think that's very true in other markets.
+[00:30:03] Here's the problem.
+[00:30:05] Buyers and sellers in Silicon Valley are very spoiled.
+[00:30:10] So it's, I mean, can you imagine being an engineer,
+[00:30:15] you make, you know, $500,000 a year,
+[00:30:18] including your stock income,
+[00:30:20] and somebody tells you, no,
+[00:30:22] you can't have that house because somebody
+[00:30:24] had been $50,000 more.
+[00:30:26] Well, what is $50,000 equate to?
+[00:30:28] $200 bucks a month, $300 bucks a month.
+[00:30:31] So they're talking to go out to dinner two times, you know?
+[00:30:34] And so I think that's one of the reasons
+[00:30:36] why we see our prices go up at such a rapid rate.
+[00:30:41] We are seeing multiple offers still.
+[00:30:45] So there's homes in San Jose, especially,
+[00:30:48] that'll have three, four or five offers
+[00:30:50] after a week on the market.
+[00:30:53] South County, like Gilroy and Morgan Hill,
+[00:30:56] those are expanding neighborhoods
+[00:30:59] that are kind of hit or miss on the multiple offers,
+[00:31:02] but we aren't really seeing as much of a dip in pricing,
+[00:31:06] but people are a little bit more conservative.
+[00:31:09] So it just, it makes pricing that much more important.
+[00:31:14] So what I always say, like,
+[00:31:16] if you have tours going on for your area, put it on tour,
+[00:31:20] get the feedback from other local agents
+[00:31:22] and see what they think.
+[00:31:24] I know when we put our,
+[00:31:26] I put every single listing of mine on tour,
+[00:31:28] we usually have anywhere from 55 to 75 agents come through
+[00:31:32] on that day.
+[00:31:33] Wow.
+[00:31:34] Which is amazing,
+[00:31:36] because you really get good feedback.
+[00:31:39] Everybody in the area knows about your listing,
+[00:31:41] they've walked it.
+[00:31:42] And one of the things I encourage my team to do
+[00:31:44] as we're doing the tours is take pictures.
+[00:31:48] It's a great opportunity to make content.
+[00:31:50] Talk about what's going on in the market that week.
+[00:31:53] People love video.
+[00:31:55] So getting out in front of your audience
+[00:31:59] and your sphere is amazing.
+[00:32:02] Yeah, let's talk about the role of video
+[00:32:05] because I think agents are going on tours,
+[00:32:09] they're going to broker open, opens there,
+[00:32:12] obviously doing showings with their clients
+[00:32:14] and whatever listings they may have.
+[00:32:16] So if you're in a home,
+[00:32:20] you have the opportunity to make a video,
+[00:32:23] even if it's 60 seconds, short form video, by the way,
+[00:32:26] has, by about a,
+[00:32:28] I just did a presentation on this.
+[00:32:30] So it depends on what stat you believe,
+[00:32:31] but about a four to five times multiple,
+[00:32:34] or I think that's the right way to set,
+[00:32:36] four or five times more,
+[00:32:37] maybe it's not a multiple,
+[00:32:39] then even image posts and long form video.
+[00:32:43] So actually people are,
+[00:32:44] I mean, we look TikTok.
+[00:32:45] This is a crazy statistic,
+[00:32:47] just to show you the importance of short form video.
+[00:32:49] And I know TikTok skews to a younger audience,
+[00:32:51] but this is a crazy statistic.
+[00:32:54] 1.67 billion users TikTok has.
+[00:32:57] There's only 8.1 billion people in the world.
+[00:33:00] They have one out of every eight people
+[00:33:02] going there at,
+[00:33:04] and 1.1 billion of the 1.67 billion go there every single month.
+[00:33:08] And it's probably even more often than that.
+[00:33:10] Because if you're on TikTok,
+[00:33:11] you're not just going once a month,
+[00:33:12] you're going every single day.
+[00:33:13] So short form video is key,
+[00:33:16] and it's the easiest type of content to create
+[00:33:18] because it's the shortest amount,
+[00:33:19] and it's what people want to see.
+[00:33:22] So I think you're right.
+[00:33:23] I think there's so much opportunity going,
+[00:33:26] anytime you go to a listing,
+[00:33:27] or any sort of property,
+[00:33:29] and just doing a quick little,
+[00:33:30] it doesn't just have to be showing your audience
+[00:33:32] that you went to the gym this morning,
+[00:33:33] and you're committed,
+[00:33:35] and that's fine too,
+[00:33:36] but you create this great real estate content,
+[00:33:38] just simply by going to a listing and saying,
+[00:33:40] oh, look at this cool thing in this house,
+[00:33:42] I want to show you.
+[00:33:43] Yep, totally.
+[00:33:45] And you know, really you should be doing that,
+[00:33:48] even when you're taking buyers out on tourists,
+[00:33:49] take pictures of cool things,
+[00:33:51] get them front while they're upstairs,
+[00:33:53] looking in the master bedroom,
+[00:33:54] and just be like, hey,
+[00:33:56] I just came by this listing,
+[00:33:58] this is amazing, come and take a look,
+[00:34:01] schedule showing with me now.
+[00:34:04] And even if you're with a client,
+[00:34:06] what, here's what I would recommend,
+[00:34:08] because obviously you want to support that client,
+[00:34:09] you don't want to be doing other work while you're doing that,
+[00:34:11] but if you have a few moments,
+[00:34:14] just take a video of something cool in the house,
+[00:34:17] don't say anything,
+[00:34:18] you can always add your commentary in later,
+[00:34:22] but get that video,
+[00:34:24] so that way the client doesn't necessarily
+[00:34:25] know that you're creating content for some folks,
+[00:34:28] but create, like just,
+[00:34:30] even if it's 10 seconds,
+[00:34:31] show something,
+[00:34:32] and then you can always do a voiceover,
+[00:34:34] it's a huge missed opportunity for agents,
+[00:34:36] and then post it everywhere.
+[00:34:38] 100%.
+[00:34:41] Let's, I want to talk to about,
+[00:34:45] about new agents,
+[00:34:46] because we do have a lot of new agents
+[00:34:48] that listen to our show,
+[00:34:50] and are want to hear from top producers
+[00:34:52] about what they should be doing right now.
+[00:34:54] Well, we already talked about open houses,
+[00:34:56] that's an absolute no-brainer,
+[00:34:59] aside from open houses,
+[00:35:01] how should somebody be working their sphere of influence,
+[00:35:04] especially if they're new?
+[00:35:05] What are the things that you would recommend to a new agent
+[00:35:08] to make sure that the sphere of influence
+[00:35:10] starts to now associate the new agent with being an agent,
+[00:35:15] and not the person that used to work in tech, for example,
+[00:35:19] and now is doing real estate,
+[00:35:20] and people still think of you as the tech guy.
+[00:35:23] So how do you really begin to condition the people
+[00:35:26] in your life to know that now I'm the real estate person?
+[00:35:30] First off, real easy.
+[00:35:32] There's a lot of tools like this, like Homebot.
+[00:35:35] There's a new one called Fellow,
+[00:35:37] which I really like a lot,
+[00:35:39] and I'm going to be integrating into our systems.
+[00:35:42] These automated value tools.
+[00:35:46] Get everyone you know, your whole Christmas card list,
+[00:35:50] get them every single person on one of these AMV tools.
+[00:35:54] You will immediately be associated with good news
+[00:35:57] about their house,
+[00:35:58] and they'll get a monthly email with updates
+[00:36:01] on their home value,
+[00:36:02] and they'll know that you're the person to go and talk to you
+[00:36:05] about it.
+[00:36:06] So yeah, it is funny.
+[00:36:07] It is funny.
+[00:36:08] I'm sorry to interrupt, I was going to say,
+[00:36:10] I love getting that Zillow email once a month,
+[00:36:13] and look, don't kill me everyone.
+[00:36:16] I know not everybody who listens to this love Zillow,
+[00:36:18] and I'm not saying this is a love Zillow thing,
+[00:36:20] but you know what is cool about Zillow?
+[00:36:22] Is that little zest of an email once a month to tell me
+[00:36:24] how if my home is appreciated or depreciated,
+[00:36:27] whether it's accurate or not, it's another question,
+[00:36:29] but just getting that,
+[00:36:30] it's kind of like getting your fight goes
+[00:36:31] for every month from you to credit,
+[00:36:33] because it's like, even though it doesn't really matter for me,
+[00:36:36] I like knowing if my score went up or down
+[00:36:38] or if my home price went up or down,
+[00:36:40] and this is something that you can do to anybody,
+[00:36:44] whether they're a client of yours or not,
+[00:36:46] and odds are their own agent isn't doing that.
+[00:36:48] Let me give you an idea to just go over the top,
+[00:36:51] and for all the new agents listening,
+[00:36:53] this is what you want to hear.
+[00:36:55] Is go on to Zillow,
+[00:36:57] screenshot your friends' address with their Zestimate.
+[00:37:01] Perfect, I love it.
+[00:37:02] Shoot him a text and be like,
+[00:37:03] hey, look how much your home is worth.
+[00:37:07] Values are still up, people are still moving,
+[00:37:10] do you know anyone who's in the market?
+[00:37:13] I love it.
+[00:37:13] It's easy, it takes you three seconds,
+[00:37:17] and it's one of the things that's included
+[00:37:20] in the 100K and 100 Days for the Tom Ferry program,
+[00:37:23] is a Zestimate printout,
+[00:37:24] and you can mail these to people as well.
+[00:37:27] Circle the price,
+[00:37:28] interested in actual value,
+[00:37:30] because we all joke,
+[00:37:31] Zest Wits are off depending on the area.
+[00:37:35] 
+[00:37:36] Now, I will tell you by the way,
+[00:37:37] I got a chance to spend some time with Zillow this year
+[00:37:41] and last year I was very fortunate to be able
+[00:37:44] to spend time with her senior leadership,
+[00:37:46] and their data engineers and their economists
+[00:37:49] will tell you with absolute honesty,
+[00:37:53] I believe, unless they're not being honest,
+[00:37:56] but I believe they're being honest,
+[00:37:57] that they're within 3% give or take plus or minus, right?
+[00:38:03] So they will say, we actually check our data
+[00:38:06] and we are now so close that we're at about a 3%
+[00:38:09] one way there.
+[00:38:10] Now, I know everyone out there might feel differently,
+[00:38:12] but the point is really funny that you mentioned that.
+[00:38:15] If you go on to Zillow into the agent toolkit,
+[00:38:18] this is one of the things you'll see.
+[00:38:20] There is a Zestimate section and they have a graph
+[00:38:23] which shows exactly what you're talking about
+[00:38:25] based on, I don't know, there's probably
+[00:38:27] about 20 cities listed.
+[00:38:30] The thing about that, and there are some that are very close.
+[00:38:35] And I think it really just depends on the market.
+[00:38:37] Like how much is the average
+[00:38:43] over asking kind of price?
+[00:38:46] Because really it comes down to like,
+[00:38:48] are people bidding 5,000 over?
+[00:38:50] Are they bidding 200,000 over?
+[00:38:53] So one thing I noticed on their chart
+[00:38:56] is cities like San Jose are missing.
+[00:38:59] Sure.
+[00:39:00] Because it's just their numbers are not going to be
+[00:39:03] anywhere as close since you have more of that emotional factor
+[00:39:07] that comes into play with our buyers
+[00:39:09] and their pricing decisions.
+[00:39:11] Yeah, that definitely makes sense.
+[00:39:13] So the Zestimate is going to be
+[00:39:16] contingent on the area, but the good news is
+[00:39:18] it's probably better that it's off than it's,
+[00:39:21] you know, I talked to somebody at Zilla once,
+[00:39:23] this is many, many years ago when it wasn't
+[00:39:25] as accurate as it is now.
+[00:39:27] And the guy goes, agent should be thanking us
+[00:39:29] that it's not that accurate because we're making,
+[00:39:32] we're making you more important
+[00:39:34] because and so what Caroline is saying
+[00:39:36] is actually absolutely of such a great idea.
+[00:39:39] Everybody in your database, especially if you're new.
+[00:39:42] Hey, I just noticed Zilla was saying your home's this,
+[00:39:45] circle it.
+[00:39:45] I think I can, I want to, I want to double check those numbers.
+[00:39:49] I want to see where you'd be interested
+[00:39:50] in getting a more accurate quote or a more updated quote.
+[00:39:54] That is a great, who wouldn't?
+[00:39:56] And it's going to give you the opportunity
+[00:39:58] to really understand home values.
+[00:40:00] If you do enough of those, you know,
+[00:40:02] you're just going to start to get what's going on
+[00:40:04] in your marketplace.
+[00:40:06] And everybody always wants to know what their home is worth,
+[00:40:08] whether they're moving or not.
+[00:40:10] We all want to know it.
+[00:40:11] What are possibly our largest asset for most people
+[00:40:14] is the largest asset.
+[00:40:16] What that, if it's appreciating or depreciating,
+[00:40:18] I love that idea.
+[00:40:19] Well, it also creates, I think earlier in the call,
+[00:40:23] you were asking me about how I'm helping my newer agents
+[00:40:27] stay busy.
+[00:40:28] It creates conversations.
+[00:40:31] So for internet leads, the average are, you know,
+[00:40:34] you'll typically sell maybe 5% if you're,
+[00:40:38] if you're good at converting on a low side.
+[00:40:40] It's like two to three percent.
+[00:40:42] So what that tells me is that I need to have more conversations
+[00:40:46] in order to produce more transactions.
+[00:40:50] And sometimes, you know, internet leads are not the best.
+[00:40:54] So you have to go outside the box.
+[00:40:56] Circle dialing can work with these estimates as well.
+[00:41:02] What is Circle dialing?
+[00:41:03] Can you explain that to our audience?
+[00:41:05] Yeah, Circle dialing is choosing a farm area.
+[00:41:08] A lot of people do this with postcards,
+[00:41:10] male marketing.
+[00:41:13] So Circle dialing is essentially taking that physical male
+[00:41:17] farm that you're used to reaching out to and calling their
+[00:41:22] phones.
+[00:41:23] So there's many different companies out there that will give
+[00:41:27] you access to the phone numbers like Red X, Vulcan 7.
+[00:41:31] And then there's other companies that will link in.
+[00:41:34] And you can actually do like voicemail drops.
+[00:41:37] Hey, this is Caroline Hobbs, your
+[00:41:40] Lantana, Wisteria neighborhood REALTOR.
+[00:41:42] Just wanted to give you a call.
+[00:41:44] This home just closed as grow.
+[00:41:46] And I thought you might be interested.
+[00:41:47] They received multiple offers.
+[00:41:49] Give me a call if you're curious and want to learn more.
+[00:41:52] By the way, this is such a great idea.
+[00:41:54] I mean, I got very excited.
+[00:41:56] I was waiting for her to finish,
+[00:41:57] which is not what you're supposed to do as an interviewer
+[00:41:59] because I'm so excited.
+[00:42:00] This is such a brilliant idea because think about this.
+[00:42:03] You sell a home in a subdivision or neighborhood.
+[00:42:05] Right.
+[00:42:07] And you want to you want to blanket the neighborhood
+[00:42:09] by saying, hey, by the way, I just sold so and so's home.
+[00:42:11] I'd love to chat with you.
+[00:42:12] That's challenging to do unless you're knocking door to door.
+[00:42:15] And I don't even think people really appreciate that.
+[00:42:18] Mostly, I mean, it depends, I guess, where you live.
+[00:42:20] Doorbell cameras make it the worst.
+[00:42:22] Well, that's true, too.
+[00:42:23] But if you have the fortitude of door knock, I applaud you.
+[00:42:26] I just I think that that's going the way of the dodo.
+[00:42:29] So one thing that you can do is start to call.
+[00:42:32] But maybe there's 100 homes in that subdivision.
+[00:42:35] And yeah, that's kind of a lot of work to call 100 people
+[00:42:38] using something like Slide-Ile, where it's
+[00:42:41] going to drop right into their voicemail.
+[00:42:43] Just say, hey, and you wouldn't say their first name, of course,
+[00:42:46] because you would just record it once.
+[00:42:47] But hey, this home just sold down the street,
+[00:42:50] wanted to suggest exactly what we actually care
+[00:42:54] on, said it much better.
+[00:42:55] And I won't try to do what she said.
+[00:42:57] But it's such a brilliant idea because everybody
+[00:42:59] is interested also in their neighbor's properties
+[00:43:02] because that's going to affect their properties,
+[00:43:04] that activity.
+[00:43:06] And the other thing for open houses,
+[00:43:07] you can do this with open houses, too.
+[00:43:09] You can start, you know, schedule an open house
+[00:43:11] and then blanket the neighborhood a couple days before.
+[00:43:15] Yeah, because everybody's nosy.
+[00:43:17] They want to see what's inside of their neighbor's home.
+[00:43:20] Well, you know, it's funny.
+[00:43:21] And it happens all the time.
+[00:43:24] I get REALTORS that come up, or not REALTORS,
+[00:43:26] but I get neighborhood homeowners that come in.
+[00:43:29] And they're like, we just wanted to creep on the house
+[00:43:32] and see what it looks like inside.
+[00:43:33] We're not really in the market.
+[00:43:35] We're just, you know, or it's like somebody
+[00:43:37] that'll text me, do you know what this sold for?
+[00:43:39] I was creepin' on Zillow and I see that it's pending.
+[00:43:42] Just don't know.
+[00:43:44] Those are like my star people.
+[00:43:45] And now they have my phone number,
+[00:43:48] from the voicemail drops.
+[00:43:50] And they know that I'm the person with the information
+[00:43:53] about sales in the neighborhood.
+[00:43:55] Absolutely.
+[00:43:56] It's such a great idea.
+[00:43:57] And I actually think this is a great place to wrap up
+[00:44:00] because you just gave our audience
+[00:44:03] a really amazing couple of suggestions
+[00:44:06] for how to stay busy.
+[00:44:08] I mean, guys, let's just recap some of them.
+[00:44:10] Number one, if you're not doing open houses,
+[00:44:12] bag, bag, everyone in your office who has a listing,
+[00:44:15] can I please, please, please come sit in open house
+[00:44:18] for you Saturday, Sunday, whatever,
+[00:44:20] and do as many of those as possible,
+[00:44:21] because not only will it get you familiar,
+[00:44:25] but we were talking to buyers.
+[00:44:27] It'll also possibly get you some leads as well
+[00:44:30] and just a lot of experience.
+[00:44:32] So that's a no brainer.
+[00:44:33] We all know that.
+[00:44:34] Now this idea of the zestimate,
+[00:44:37] or as Caroline says, the zestimate,
+[00:44:40] that's too much work for me to say zestimate.
+[00:44:42] So I'm gonna say zestimate.
+[00:44:44] But I'm under the weather,
+[00:44:45] so I'm gonna try to conserve my energy.
+[00:44:47] But anyway, her idea is an amazing one.
+[00:44:50] So if you're new, everybody you know,
+[00:44:52] just, you know, if you don't know if they own
+[00:44:54] a Brent column and say, hey, do you own your property?
+[00:44:57] I'm, you know, I just got my license.
+[00:44:59] Can I, I'm gonna practice on you and I wanna,
+[00:45:03] and I'm gonna send you something and, you know,
+[00:45:04] again, this is, we wanna condition these,
+[00:45:06] these, your, your sphere to know that this is what you do.
+[00:45:10] And by the way, it's great experience as well
+[00:45:12] to learn about pricing, learn about what Zillow
+[00:45:15] sends out there so that as an agent,
+[00:45:17] because we know the number one place consumers are going
+[00:45:20] to see their value of their home is Zillow.
+[00:45:22] Like that's where they're going.
+[00:45:23] So it's a real good idea for you to know what their
+[00:45:26] estimate is so that they don't call you and say,
+[00:45:28] just notice my homes at like 500 grand.
+[00:45:31] You know what I would do?
+[00:45:32] I would put everybody's address in there,
+[00:45:35] and I as an agent, all my clients,
+[00:45:37] everyone in my sphere so that I get alerts for their homes
+[00:45:41] so that I could be the one to contact them and say,
+[00:45:43] oh, I just saw Zillow updated their estimate for your home.
+[00:45:47] I wanna take a closer look at that myself
+[00:45:48] and see if it's right.
+[00:45:50] Brilliant idea.
+[00:45:51] And what I also talked about, you know,
+[00:45:53] doing things with inside of neighborhoods,
+[00:45:56] you can get these phone numbers, circle marketing,
+[00:45:58] you can get these phone numbers,
+[00:46:00] and you can, you don't have to call everyone
+[00:46:02] if you don't like cold calling,
+[00:46:03] nobody likes cold calling.
+[00:46:04] You could do a slide aisle, drop it in.
+[00:46:06] Hey, we got an open house coming up
+[00:46:07] or I just sold the home down the street.
+[00:46:09] If you're, and we had multiple offers
+[00:46:11] and it sold for above listing,
+[00:46:13] if you're interested in seeing
+[00:46:14] what your home might be worth right now,
+[00:46:15] give me a ring not, are you looking to sell?
+[00:46:18] Because they're either looking to sell or they're not.
+[00:46:19] But would you be interested in finding out
+[00:46:21] what your home value is worth?
+[00:46:22] Who wouldn't say yes to it?
+[00:46:23] And you know what, I've lived in a new development
+[00:46:25] for two and a half years,
+[00:46:28] and yeah, I'm in the business,
+[00:46:29] but I'm not a practicing REALTOR.
+[00:46:30] So I don't think anybody thinks of me as a REALTOR
+[00:46:32] because I'm really not.
+[00:46:34] Not one agent has ever called me to go,
+[00:46:37] hey, I know you bought a couple of years ago,
+[00:46:38] would you like to know what it's worth right now?
+[00:46:40] Now, I know because I look at Zillow or whatever,
+[00:46:42] but most of my...
+[00:46:44] New construction are like my hidden.
+[00:46:46] Yes.
+[00:46:47] My hidden source for,
+[00:46:49] new seller leads,
+[00:46:51] most people are gonna move between years two and four
+[00:46:55] in a new home development,
+[00:46:56] and then it starts to kind of trickle and become more random,
+[00:46:59] but you're a hundred percent right.
+[00:47:03] Not even one postcard, not a phone call,
+[00:47:06] not a postcard, it is wild.
+[00:47:09] So, and we have 40,000,
+[00:47:10] 5,000 agents here in Chicago,
+[00:47:11] not one of them is doing it.
+[00:47:13] So, at least in my development,
+[00:47:15] so great stuff from Caroline,
+[00:47:17] and by the way, guys, she has leads,
+[00:47:20] and that's not the reason to go to her firm
+[00:47:21] because that is never a good reason to go to a firm,
+[00:47:24] but it is a nice thing that she does have leads.
+[00:47:27] Now, so definitely reach out if,
+[00:47:30] but I think more importantly is the skill building,
+[00:47:32] and she actually does that every single week
+[00:47:35] with her agents, she learned from the best,
+[00:47:37] so why not learn from her,
+[00:47:39] and she's crushing it as well.
+[00:47:40] So please, everyone go visit,
+[00:47:42] especially if you're in the San Jose area,
+[00:47:45] rewardrealt.org,
+[00:47:46] see if you might be a good fit for Caroline and her brokerage.
+[00:47:51] And for those of you that were really interested
+[00:47:53] in some of the tech stuff she's doing,
+[00:47:54] where she's integrating a client portal
+[00:47:56] and an agent portal with all systems
+[00:47:58] sort of talking to each other,
+[00:47:59] so that you don't have to go in and out
+[00:48:02] of various solutions to do your work.
+[00:48:05] Reach out to her as well,
+[00:48:07] and there's a link in our show notes
+[00:48:09] where you can schedule time to chat with her
+[00:48:11] about whether this would be a good fit for your team,
+[00:48:13] your brokerage, or just yourself.
+[00:48:16] So Caroline, thank you so much for being on the show.
+[00:48:19] You were amazing, really appreciate your insight
+[00:48:22] and the advice you gave to our listeners was incredible.
+[00:48:26] So on behalf of the listeners,
+[00:48:28] I thank you for coming on the show.
+[00:48:29] On behalf of Caroline and myself,
+[00:48:31] we thank our listeners too.
+[00:48:33] You guys are the reason we continue to do this.
+[00:48:35] Please, we ask you to do just one thing,
+[00:48:37] but I'm gonna ask for actually two things.
+[00:48:39] One, the most important thing is telefront.
+[00:48:40] Think of one other agent that isn't maybe doing
+[00:48:44] as well this year.
+[00:48:45] By the way, that's just about everybody.
+[00:48:46] Maybe they're a little dejected, a little down.
+[00:48:48] Maybe they're not at a firm like Caroline's
+[00:48:51] where they're not getting as much skill training
+[00:48:53] as possible.
+[00:48:54] Shoot them a link to this.
+[00:48:55] It's gonna give them a couple of great ideas
+[00:48:57] to stay busy.
+[00:48:58] Please do that for us.
+[00:48:59] That'll help us get in front of more REALTORS.
+[00:49:02] And also leave us a review that whatever app
+[00:49:04] you're listening to us on,
+[00:49:05] let us know what you think of the show.
+[00:49:07] We appreciate that as well.
+[00:49:08] Caroline, thank you so much.
+[00:49:10] You're amazing and I'm excited to hear more
+[00:49:13] about the tech development as it goes.
+[00:49:16] And maybe we'll have you back when it launches
+[00:49:17] and we'll do a demo and have some fun.
+[00:49:19] So thank you so much for being on the show.
+[00:49:22] Thank you.
+[00:49:22] And everyone else will see you on the next episode.
+[00:49:25] Thanks guys.
+[00:49:26] Awesome.
+
+============================================================
+FULL TEXT (no timestamps):
+============================================================
+ Today we're going to talk about the importance of mentorship. And by the way, almost everyone I've ever had on my show, which are top 1% producers, have all had mentors. Let's talk about it today. Stay tuned. This episode of Keeping It Real is brought to you by Real Geeks. How many homes are you going to sell this year? Do you have the right tools? Is your website turning soft leads in interested buyers? Are you spending money on leads that aren't converting? Well, Real Geeks is your solution. Find out why agents across the country choose Real Geeks as their technology partner. Real Geeks was created by an agent for agents. They pride themselves on delivering a sales and marketing solution so that you can easily generate more business. Their agent websites are fast and built for lead conversion with a smooth search experience for your visitors. Real Geeks also includes an easy-to-use agent CRM. So once a lead signs up on your website, you can track their interest and have great follow-up conversations. Real Geeks is loaded with a ton of marketing tools to nurture your leads and increase brand awareness. Visit realgeeks.com forward slash Keeping It Real Pod and find out why REALTORS come to Real Geeks to generate more business. Again, visit realgeeks.com forward slash Keeping It Real Pod. And now, onto our show. Hello and welcome to another episode of Keeping It Real, the largest podcast made by real estate agents and for real estate agents. My name is DJ Paris. I'm your guide and host through the show. And just a moment, we're going to be speaking with top producer and also software developer Caroline Hobbs. This is a really cool one. You're going to want to listen to all of it because there's lots of great stuff here. Anyway, before we get to Caroline, one thing that you can do to help our show out to things, actually, is leave us a review. So you might be listening to us on Apple podcasts or any other podcast app. Please let us know what you think of the show, helps us improve and obviously meet your needs more effectively. And please also tell a friend about the show. Think of just one other agent that could benefit from hearing from top producers like Caroline and let them know about the show we appreciate it. All right, guys, let's get to the main event, my conversation with Caroline Hobbs. Today on the show, our guest is Caroline Hobbs. She is a broker and owner of Reward Realty in San Jose, California, which is the heart of Silicon Valley. Let me tell you more about Caroline. Now, Caroline, if there's anyone who understands the stress of uprooting one's life and finding the best place to raise a family, it's Caroline. She's the now mother of two's career kicked off with Keller Williams in Palo Alto, where she learned everything that she knows from some of the world's leading agents, some of them have even been on our show. Using her knowledge and intrinsic passion for helping clients achieve their goals, Caroline built Reward Realty from the ground up. As the team lead and headbroker, Caroline spends her days turning mundane listings into irresistible opportunities for local home buyers and investors. When you work with Caroline, you can be rest assured that you'll feel heard, supported, and respected by somebody with decades of experience. Now, to learn more about Caroline's brokerage, please visit RewardRealty.org. Again, RewardRealty.org. We will have a link to that in the show notes and she is currently working on a new tech product specifically for REALTORS. We're gonna be talking about that at some point in the show today as well and we'll give you some information on how to learn more there. Caroline, welcome to the show. Hi, thank you so much for having me. I am so excited to chat with you and I don't get a chance to talk to as many broker owners as I would like. So this is kind of a treat for me because you really are wearing a lot of hats. Not only are you running your brokerage and your own personal business within the brokerage, managing agents and doing all of the, all of the hats that owners do that wear and also working on a tech product at the same time. So I'm excited to talk about that. But why I always like to start off the show learning more about our guests. So tell us how you got into real estate. So I'm actually third generation real estate professional. My grandfather was a contractor who had his real estate license. My mother has been in the lending industry for over 40 years and is just getting ready to retire. And so while I was in college, I was introduced to a real estate agent who is number one in Keller Williams internationally and started working for her as her open house host and assistant. Yeah, what's it like to work for the number one? I just recently had the number one RE/MAX agent who happens also in the world who happens to be in California, not in your neck of the woods down in Los Angeles. But it was interesting talking to like the number one person in the world and really hearing how somebody at the very tippy top of the mountain does it, not just the people who are just slightly underneath them who are also superstars, but the person at the very top. You got that experience. So tell us about what you learned from working with some, I mean, what a gift that is, I imagine. 100%. I honestly, I don't think I would have figured out my strengths as an agent, even in tech, without my start. Working with that agent, I had open houses to host and get face-to-face connections with clients very, very early, like before I was licensed. So from the get-go, she used to joke that I've hosted more open houses than anybody else in Silicon Valley because I hosted them every single weekend for years. So learning how to convert clients, talk to them, understand their concerns, hear them out. That was all super invaluable. But in all honesty, for running a business, I think I learned a lot because this agent had not only her real estate license, but she also had an MBA and what is a certified accountant. So she was like the ultimate business person. So I like to say I stole the knowledge that I could. I worked with her for six and a half years and got to see the ins and outs of how she runs her business, how she conducts it, how she talks to clients, how she closes the deal. But even more so, I was in charge of running her database, which this is in 2008, 2007. She had over 10,000 people in her database. Amazing. So this is way before most people even had a database. Most people were working off of a nilt pad, maybe an excel sheet if you were advanced. And we should also mention that this is right at the most challenging time to be a real estate agent. This is when the market crashed. We had, although those subprime loans, were really brought the housing market down. By the way, that is not happening now. Thank goodness. But you were doing this in a very difficult time. Absolutely. Also with the area that we were selling in, our office, we were with color Williams. And our office was in downtown Palo Alto, which is actually the number one office in the country as well. A lot of times it's just because of the price points that we're at. There at a much higher level, most people need to sell 5, 10, 20 houses to equate the same kind of price range. But just being surrounded by those agents who are really a lot more business minded than I find a lot of REALTORS to be, was really inspiring. The other person that was at the office at the same time with me, a well-known agent who started his own brokerage called Daily Own Realty. Back when we were at color Williams together, he sold the most expensive home in America, which was over in Woodside for about $100 million. And he took that and reinvested it back into himself, starting his company. So I like to think that I kind of learned from those around me and that's the path I ended up choosing as well. It's really, it's really again, such a gift. It's a good reminder to our audience that if you currently don't have a mentor or you don't have open houses to sit on weekends, beg anyone in your office as much as you can to go ahead and sit those open houses. You're doing the seller of favor and clearly you're doing yourself a favor by not only learning how to talk about real estate to people that walk in off the street, but also possibly get some leads as well and hopefully show those people other homes to buy. So this, I cannot encourage people to do this more. I think it's so critical. And everyone who's listening probably already knows, yeah, I know I'm supposed to sit open houses, but I can't think of an example we've done about 500 episodes. I'm sure there's one person that never sat in open house on 500, but that's about it. And I only talk to the top agents in the country. So, and the very top agent at Keller Williams was like, oh yeah, by the way, sit open houses. So yeah, so even if you read Gary Keller's book, it'll tell you to sit open houses. So anyway, that is just a good, quick reminder. So when did you decide to sort of break off? So you learned all this great information from your mentor and got to really see a lot of high end sort of transactions and sort of the white glove approach, which is absolutely needed for those kind of transactions. And you were able to take that synthesize what you learn and then build your own brokerage. Tell us about that. Yeah, so my adventure with Reward Realty started about 10 years ago. April was our 10 year anniversary of being in business. So I started this in 2013. And my goal was at the time, there was really, really high splits with the off the major players. And as a newer agent at the time, well, not new, but like, I was a young agent. So I didn't have a whole lot of resources. A lot of sweat equity went into it. But I wanted to create a place where agents could come, they could keep more of their commission, they could have access to the best tools and really find themselves like a home. I very much and very involved with all of my agents at my brokerage. Today, as we're recording this, this is Wednesday. We call it party day in our office. So we have our local broker tour that we go on. We all go to the meeting together. I actually sit on the board for our real estate association. And we come back to the office. I have my agents in the other room right now, kicking off the 100 days to 100K with Tom Ferry. Love it. All the printed out books ready to go for them. So they're listening to that while we record this right now. But we also do lunch. We invite lenders and we role play. So really trying to, you know, home those skills, make sure that my every agent at our office is a beacon of information for all of their clients. You know, it's so funny because you say that, you know, this idea of having this once a week sort of tour, you know, you call it party day. And you get to go out and see some listings. You get everyone gets the experience of walking through. There's information that's being shared. And then you come back and digest it all and then actually do some additional work with the Tom Ferry program as well as role playing, which is, I think, one of the most invaluable exercises, of course, this is awesome. I'm thinking here, we're in Chicago. There are hundreds of brokerages here. I am sure that maybe one of them does that. I'm sure I'm just guessing. I don't know of any personally that do that weekly. Again, I'm sure there are. And I'll probably get some emails from people afterwards saying, yeah, we do this. But it is very rare. And so I will, I will really honor you for that. And for, by the way, I always forget to say this until the end, if anyone is in the San Jose area and would like that sort of experience as they're growing their business to learn from somebody who learned from the very best. And also, who practices it every single week and literally teaches you and shows you how to do that. Check out Reward Realtry Against RewardRealT.org and by the way, no franchise fee. So how exciting is that? So you don't have to pay that mysterious 5% to the mothership because there is no mothership. It's just Caroline and her team. So that's awesome. I love this idea of really building the skills of your agents which is, I think I've seen a trend. I'm curious to get your take on this. I've seen a trend where managing brokers, people who are in charge of all of the agents, I'm assuming you're the managing broker as well. I am. Yeah. So you were a lot of different hats. And what I've seen over in the last probably 10 years is this trend of the managing brokers are now being asked to do more recruiting because it's getting more competitive. People are moving around a bit. And especially now. And they don't have as much time to train. And so I think a lot of the training initiatives are being pushed off to teams, which I guess sort of makes sense in a way. But I like the idea of joining a brokerage who actually the brokerage itself has amazing training. So I applaud you for continuing to support your agents in that way. Let's talk about your other venture because you were a little bit dissatisfied with database stuff. You wanted to do more. You're right in the part of the country that loves tech and all of our tech sort of breakthroughs come from your part of the country. So tell us a little bit about what you're working on. This is actually really cool. Yeah, absolutely. So we are essentially tying together some of the leading platforms. Followup Boss and Open to Close and building our own customized client portal, which will be client-facing. So between the followup boss and the Open to Close, we've actually created full cross-functional usage of it. So currently they'll link during Zapier, but we have a much more robust way of doing this. Essentially allowing agents to solely work out of followup boss, admins and transaction coordinators to solely work out of Open to Close and have everything sync all of the information showing up in the client portal to be accessible to your clients. And also be able to invite agents from the other side of the transaction to access the documents and things like that. So we can do an AI transaction management kind of scanning the documents, reducing risk by making sure that there's not any kind of missing signatures, missing, you know, question skipped, anything like that. And really having everybody work together to get that file completed without a whole lot of trouble going back and forth. So let me see if I understand because I think I do, although I am a little bit under the weather, so I may just be making this up in my head and you'll correct me if I'm wrong, but I think I understand, so the problem you're solving is, hey, clients oftentimes don't really know where they are in a transaction, there's no real portal for a client to go in and say, oh, this is exactly where we are currently. They're waiting for communication from their broker, their agent, and maybe their agent's good at doing that, maybe they aren't, but there isn't a place where they can just go and see a snapshot of, here's everything that's currently going on. So you built that solution, it was really actually, I don't know that that solution, does that solution exist before yours? Because no, she's taking her head now. Nope. Nope. That is a brilliant idea because I was thinking about this, I bought a place a few years ago and I hadn't bought a place in a long time, so I sort of forgot the process. And now with getting alone and doing well of the lender stuff, it was all that way. It was all online, they would ping me, I need this, this, this, but it was all through a portal, it made perfect sense, and then I could see the status of it as well as the updates as they rolled in. I love that you're doing this, this is really, really smart. So it's a client-centric approach to really keep them in the loop and then also utilize existing systems that agents are already enjoying. Yes, so that is definitely a major portion of it, is I felt like there was always a client version, or like a client facing part of this that was missing. Also another thing that inspired me to do this, especially on the listing side, is a lot of times when homes are sitting on the market for a little while and not moving, they wanna see like a whole track list of what you've done to market their home. So this allows you to make those notes in their follow-up boss and have them synced directly into the client portal where they can see every single action that you're taking at each step. But furthermore, and I think this is where agents will be a little bit more interested, is that all of your follow-ups, all of those special touches, whether it's gifting, marketing, all of that is going is a custom buildout that we do for you in your follow-up boss account and then you're open to close account. So let's say that a new company starts up for home valuations and they have an open API and you wanna incorporate it into your account and your client vars. You'll tell us, open your account, we'll set it up for you, we'll help test it out to make sure that we're using it at the highest and best level and help you get all of the automation set up. So that way it is just incorporated. You're not going to another place to go make a change, another place to go send out postcards, another place to go create your commissions or anything like that. So there's really two components here. There's the client's facing side, which is gonna give them updates, they can see your activity, they can stay in the loop and get notified when there's new activity. Then on the other side there's the agent facing side, which is going to link up with many different tools all in one so that you're not logging in and out of all these different systems and I don't think anyone's built that either. I guess Salesforce would be the closest thing to that but it's Salesforce as a giant, massive tool that isn't specifically real estate focused. So you're basically taking existing tools and really hyper focusing them to the real estate agent experience. Yeah, if you can imagine a tool that combines like disclosure IO but for both sides of the transaction and compresses all of those files together for the most complete ones and marking what's missing, that's kind of, that's the workflow that we're building towards. Awesome, when do you anticipate, is it in beta testing now or how is it ready for? It's in development. We have partnered with BARA Agency which is the number one real estate development company. They are our CTOs for this. We have Evolve who is helping us with our onboarding. Jackie is a superstar and well known among a lot of the exacts in real estate technology companies. And then, you know, so we really have partnered with some of the best of the best. We have regular meetings with open close and follow up boss to make sure we're all building alongside one another to really create a super system. And I think a lot of our vendors are really seeing the value in what we're doing, being able to extend their client life cycles because they're actually utilizing the tools that they're paying for. Right. And the reality of it is, and we all know this who are practicing REALTORS is there's just too much to do in any given day to really manage your entire business as an individual. It's just too much. It really is. And so you need to leverage tools and the problem with CRMs is, I mean, certain CRMs are wonderful, but you really have to, this is the era of integration. So we're gonna start to see tools combining loan wolf is doing this a lot. If people are following a loan wolf, they're purchasing lots of little tech companies and trying to create some sort of ecosphere to sort of suck you in. Caroline is doing the same thing, and she's doing it with some of the biggest players in the space. So because it's not, it's still in development, you guys are working on it now. If somebody wants to sort of be informed of the updates and you know, once it's ready, where should they, should I, should they go to rewardbrealtty.org, send you an email just to put it on a list? That would be fine, or use the link below to just go ahead and book a 30 minute consultation with me. We are getting ready to start onboarding people onto our open to close and follow up boss built out system. So basically all the action plans, all the touch points, all of that gets customized to the user, all of the verbiage. We give you video scripts to go and record to put into your transaction emails as far as updates go, and then those will sink to the client portal. We are expecting to, we're not expecting for hoping to finish the client portal by end of Q1 in 2024. So for anybody that is already on our platforms, they will automatically get, you know, first dibs and likely some beta testing on it. And then we will be selling it as a part of the tech stack that we've developed, as well as an individual product that people can access and use on their own transactions. I love it. So stay tuned, but get on the mailing list. So we are, I forgot Caroline mentioned there is a link. So if you're a brokerage, if you're a team, if you're an individual that has many systems, you want to integrate, you can schedule in the description below, you'll see a link to schedule time with Caroline and her team to learn more. Also, you can also go to rewardrealt.org and shoot her message. I want to talk a little bit about the state of the market because of course this is a different year than last year. We have our interest rates are different, our inventory, you know, demand is different. And I don't know what it's like in the San Jose area, but I suspect it's similar to what we're experiencing in other parts of the country. So basically what I'm saying is the vast majority of agents I talk to their businesses down. Occasionally I run into somebody who's crushing it, but that's an anomaly. It's not as common as anyone would like. So how are you keeping your agents motivated? Obviously I love the party Wednesday idea of going out and doing skill building. What else are you telling your agents to do right now to help keep their business rolling? We do a number of things. So we do a lot of online marketing. So we do have new leads that come in every single day through several different programs. In addition to that, I do have all of my buyers agents because I do run a small team within the brokerage as well. They host all of my open houses. I have built up a pretty strong stream of listings and reputation in the area. So fortunately we've been able to keep business coming in and focusing on that way. But really we're leveraging our systems to help differentiate ourselves, be the first to contact. And then with the role play, making sure that we make every single conversation count. It's fine in a busy market when you've got 100 leads coming in a day to mess up on a couple. But this is the role play and we want to capitalize on every single opportunity. And so we want to make sure that our agents are ready to go. The second opportunity arises and that they're able to have that persuasive conversation and help their clients understand what a good time it actually is to purchase. Yeah, and let's talk about rates. So interest rates are higher than anyone would prefer currently. Although historically not that high, but it feels high, I think now, even though it doesn't really, if you look at the numbers, I don't think it's too awful. Just it's awful in comparison to 3%, which was in anomaly as well a couple of years ago. So but it is an interesting conversation because I think I've some friends there are lenders that I'm probably I'm getting the statistic wrong, but it's something like 85% of US homeowners have less than a 4% mortgage. So we've, I don't know, really created a challenge for REALTORS now to, unless you have to move, it's tough to ask somebody to give up their 3% rate for possibly a 7% rate. So are you coaching your agents on how to handle that particular conversation and what would you recommend in those cases? So there's a few different things. Regarding the market here in Silicon Valley, we're seeing a lot of cash offers come through and I realize that it's just because we get a lot of money from investors and we've got engineers with RSU money and things like that. But what that indicates to me is there's blood in the water. And if you've been in real estate long enough, you know that home prices and interest rates have an inverse relationship. So what some of our partner lenders have been doing is they have programs where if you purchase now, they in six months, they'll refinance you for free. No cost at all. Very cool. So I think that's also a good conversation, but there's always going to be a reason to move. I think that this reaction to the interest rates is a little bit of a generational thing. It's less so with the move down clients, which is a lot of the people that we've served this year. I think younger buyers and their 30s, which is a majority of people buying and selling right now is people starting to have families and moving up in their careers and starting to move into a home that they might stay in for a little bit longer. They're not going to stay in a townhouse because that's what they could afford when they're 20, 30 years old and when they have two kids and need a backyard. No matter what their interest rate is. Now will they hold onto it as an investment property and turn it into an investment property? That's not a bad idea, but I kind of stand by the fact that there's always going to be a reason to buy and sell. And in California, we are seeing a lot of people, again, not as interested about the interest rates, but like acknowledging that the cost of living is so high here and moving out of state. Yeah, that makes sense. And you said something very powerful about the good thing to remember, I sort of had forgotten this, that interest rates at home price is they have like a negative correlation, as one goes up the other, goes down. So that is a conversation to have with buyers right now and sellers to say, hey, yeah, you know, and there's all there other options too with mortgages you could do buy downs. So by the way, if anyone's not familiar with a buy down, listen to our, we do a monthly episode with Joel from Guaranteed Rate. He talks a lot about buy downs. Those are very common right now to help ease some of that, you know, that a sicker shock of seeing the larger number on that monthly payment. So, but there are solutions, but I think you brought up a really good point is, let's talk about home pricing, because at the end of the day, if pricing's coming down, because rates are high, well, ultimately that could be a good thing for both sides, but the math needs to be there, right? So agents need to, I think, do a little bit more math these days than perhaps they had to do before when rates were so low that, and let's also remember too, when rates were in the threes and even the twos a little bit, think about how many buyers flooded the market and how much, how people were overpaying for some of these, you know, these homes. So this is a time where there's less buyers. So in a way, that's less competition, that's good. And now, you know, you might get a discount on the price. Well, I think that's very true in other markets. Here's the problem. Buyers and sellers in Silicon Valley are very spoiled. So it's, I mean, can you imagine being an engineer, you make, you know, $500,000 a year, including your stock income, and somebody tells you, no, you can't have that house because somebody had been $50,000 more. Well, what is $50,000 equate to? $200 bucks a month, $300 bucks a month. So they're talking to go out to dinner two times, you know? And so I think that's one of the reasons why we see our prices go up at such a rapid rate. We are seeing multiple offers still. So there's homes in San Jose, especially, that'll have three, four or five offers after a week on the market. South County, like Gilroy and Morgan Hill, those are expanding neighborhoods that are kind of hit or miss on the multiple offers, but we aren't really seeing as much of a dip in pricing, but people are a little bit more conservative. So it just, it makes pricing that much more important. So what I always say, like, if you have tours going on for your area, put it on tour, get the feedback from other local agents and see what they think. I know when we put our, I put every single listing of mine on tour, we usually have anywhere from 55 to 75 agents come through on that day. Wow. Which is amazing, because you really get good feedback. Everybody in the area knows about your listing, they've walked it. And one of the things I encourage my team to do as we're doing the tours is take pictures. It's a great opportunity to make content. Talk about what's going on in the market that week. People love video. So getting out in front of your audience and your sphere is amazing. Yeah, let's talk about the role of video because I think agents are going on tours, they're going to broker open, opens there, obviously doing showings with their clients and whatever listings they may have. So if you're in a home, you have the opportunity to make a video, even if it's 60 seconds, short form video, by the way, has, by about a, I just did a presentation on this. So it depends on what stat you believe, but about a four to five times multiple, or I think that's the right way to set, four or five times more, maybe it's not a multiple, then even image posts and long form video. So actually people are, I mean, we look TikTok. This is a crazy statistic, just to show you the importance of short form video. And I know TikTok skews to a younger audience, but this is a crazy statistic. 1.67 billion users TikTok has. There's only 8.1 billion people in the world. They have one out of every eight people going there at, and 1.1 billion of the 1.67 billion go there every single month. And it's probably even more often than that. Because if you're on TikTok, you're not just going once a month, you're going every single day. So short form video is key, and it's the easiest type of content to create because it's the shortest amount, and it's what people want to see. So I think you're right. I think there's so much opportunity going, anytime you go to a listing, or any sort of property, and just doing a quick little, it doesn't just have to be showing your audience that you went to the gym this morning, and you're committed, and that's fine too, but you create this great real estate content, just simply by going to a listing and saying, oh, look at this cool thing in this house, I want to show you. Yep, totally. And you know, really you should be doing that, even when you're taking buyers out on tourists, take pictures of cool things, get them front while they're upstairs, looking in the master bedroom, and just be like, hey, I just came by this listing, this is amazing, come and take a look, schedule showing with me now. And even if you're with a client, what, here's what I would recommend, because obviously you want to support that client, you don't want to be doing other work while you're doing that, but if you have a few moments, just take a video of something cool in the house, don't say anything, you can always add your commentary in later, but get that video, so that way the client doesn't necessarily know that you're creating content for some folks, but create, like just, even if it's 10 seconds, show something, and then you can always do a voiceover, it's a huge missed opportunity for agents, and then post it everywhere. 100%. Let's, I want to talk to about, about new agents, because we do have a lot of new agents that listen to our show, and are want to hear from top producers about what they should be doing right now. Well, we already talked about open houses, that's an absolute no-brainer, aside from open houses, how should somebody be working their sphere of influence, especially if they're new? What are the things that you would recommend to a new agent to make sure that the sphere of influence starts to now associate the new agent with being an agent, and not the person that used to work in tech, for example, and now is doing real estate, and people still think of you as the tech guy. So how do you really begin to condition the people in your life to know that now I'm the real estate person? First off, real easy. There's a lot of tools like this, like Homebot. There's a new one called Fellow, which I really like a lot, and I'm going to be integrating into our systems. These automated value tools. Get everyone you know, your whole Christmas card list, get them every single person on one of these AMV tools. You will immediately be associated with good news about their house, and they'll get a monthly email with updates on their home value, and they'll know that you're the person to go and talk to you about it. So yeah, it is funny. It is funny. I'm sorry to interrupt, I was going to say, I love getting that Zillow email once a month, and look, don't kill me everyone. I know not everybody who listens to this love Zillow, and I'm not saying this is a love Zillow thing, but you know what is cool about Zillow? Is that little zest of an email once a month to tell me how if my home is appreciated or depreciated, whether it's accurate or not, it's another question, but just getting that, it's kind of like getting your fight goes for every month from you to credit, because it's like, even though it doesn't really matter for me, I like knowing if my score went up or down or if my home price went up or down, and this is something that you can do to anybody, whether they're a client of yours or not, and odds are their own agent isn't doing that. Let me give you an idea to just go over the top, and for all the new agents listening, this is what you want to hear. Is go on to Zillow, screenshot your friends' address with their Zestimate. Perfect, I love it. Shoot him a text and be like, hey, look how much your home is worth. Values are still up, people are still moving, do you know anyone who's in the market? I love it. It's easy, it takes you three seconds, and it's one of the things that's included in the 100K and 100 Days for the Tom Ferry program, is a Zestimate printout, and you can mail these to people as well. Circle the price, interested in actual value, because we all joke, Zest Wits are off depending on the area. Now, I will tell you by the way, I got a chance to spend some time with Zillow this year and last year I was very fortunate to be able to spend time with her senior leadership, and their data engineers and their economists will tell you with absolute honesty, I believe, unless they're not being honest, but I believe they're being honest, that they're within 3% give or take plus or minus, right? So they will say, we actually check our data and we are now so close that we're at about a 3% one way there. Now, I know everyone out there might feel differently, but the point is really funny that you mentioned that. If you go on to Zillow into the agent toolkit, this is one of the things you'll see. There is a Zestimate section and they have a graph which shows exactly what you're talking about based on, I don't know, there's probably about 20 cities listed. The thing about that, and there are some that are very close. And I think it really just depends on the market. Like how much is the average over asking kind of price? Because really it comes down to like, are people bidding 5,000 over? Are they bidding 200,000 over? So one thing I noticed on their chart is cities like San Jose are missing. Sure. Because it's just their numbers are not going to be anywhere as close since you have more of that emotional factor that comes into play with our buyers and their pricing decisions. Yeah, that definitely makes sense. So the Zestimate is going to be contingent on the area, but the good news is it's probably better that it's off than it's, you know, I talked to somebody at Zilla once, this is many, many years ago when it wasn't as accurate as it is now. And the guy goes, agent should be thanking us that it's not that accurate because we're making, we're making you more important because and so what Caroline is saying is actually absolutely of such a great idea. Everybody in your database, especially if you're new. Hey, I just noticed Zilla was saying your home's this, circle it. I think I can, I want to, I want to double check those numbers. I want to see where you'd be interested in getting a more accurate quote or a more updated quote. That is a great, who wouldn't? And it's going to give you the opportunity to really understand home values. If you do enough of those, you know, you're just going to start to get what's going on in your marketplace. And everybody always wants to know what their home is worth, whether they're moving or not. We all want to know it. What are possibly our largest asset for most people is the largest asset. What that, if it's appreciating or depreciating, I love that idea. Well, it also creates, I think earlier in the call, you were asking me about how I'm helping my newer agents stay busy. It creates conversations. So for internet leads, the average are, you know, you'll typically sell maybe 5% if you're, if you're good at converting on a low side. It's like two to three percent. So what that tells me is that I need to have more conversations in order to produce more transactions. And sometimes, you know, internet leads are not the best. So you have to go outside the box. Circle dialing can work with these estimates as well. What is Circle dialing? Can you explain that to our audience? Yeah, Circle dialing is choosing a farm area. A lot of people do this with postcards, male marketing. So Circle dialing is essentially taking that physical male farm that you're used to reaching out to and calling their phones. So there's many different companies out there that will give you access to the phone numbers like Red X, Vulcan 7. And then there's other companies that will link in. And you can actually do like voicemail drops. Hey, this is Caroline Hobbs, your Lantana, Wisteria neighborhood REALTOR. Just wanted to give you a call. This home just closed as grow. And I thought you might be interested. They received multiple offers. Give me a call if you're curious and want to learn more. By the way, this is such a great idea. I mean, I got very excited. I was waiting for her to finish, which is not what you're supposed to do as an interviewer because I'm so excited. This is such a brilliant idea because think about this. You sell a home in a subdivision or neighborhood. Right. And you want to you want to blanket the neighborhood by saying, hey, by the way, I just sold so and so's home. I'd love to chat with you. That's challenging to do unless you're knocking door to door. And I don't even think people really appreciate that. Mostly, I mean, it depends, I guess, where you live. Doorbell cameras make it the worst. Well, that's true, too. But if you have the fortitude of door knock, I applaud you. I just I think that that's going the way of the dodo. So one thing that you can do is start to call. But maybe there's 100 homes in that subdivision. And yeah, that's kind of a lot of work to call 100 people using something like Slide-Ile, where it's going to drop right into their voicemail. Just say, hey, and you wouldn't say their first name, of course, because you would just record it once. But hey, this home just sold down the street, wanted to suggest exactly what we actually care on, said it much better. And I won't try to do what she said. But it's such a brilliant idea because everybody is interested also in their neighbor's properties because that's going to affect their properties, that activity. And the other thing for open houses, you can do this with open houses, too. You can start, you know, schedule an open house and then blanket the neighborhood a couple days before. Yeah, because everybody's nosy. They want to see what's inside of their neighbor's home. Well, you know, it's funny. And it happens all the time. I get REALTORS that come up, or not REALTORS, but I get neighborhood homeowners that come in. And they're like, we just wanted to creep on the house and see what it looks like inside. We're not really in the market. We're just, you know, or it's like somebody that'll text me, do you know what this sold for? I was creepin' on Zillow and I see that it's pending. Just don't know. Those are like my star people. And now they have my phone number, from the voicemail drops. And they know that I'm the person with the information about sales in the neighborhood. Absolutely. It's such a great idea. And I actually think this is a great place to wrap up because you just gave our audience a really amazing couple of suggestions for how to stay busy. I mean, guys, let's just recap some of them. Number one, if you're not doing open houses, bag, bag, everyone in your office who has a listing, can I please, please, please come sit in open house for you Saturday, Sunday, whatever, and do as many of those as possible, because not only will it get you familiar, but we were talking to buyers. It'll also possibly get you some leads as well and just a lot of experience. So that's a no brainer. We all know that. Now this idea of the zestimate, or as Caroline says, the zestimate, that's too much work for me to say zestimate. So I'm gonna say zestimate. But I'm under the weather, so I'm gonna try to conserve my energy. But anyway, her idea is an amazing one. So if you're new, everybody you know, just, you know, if you don't know if they own a Brent column and say, hey, do you own your property? I'm, you know, I just got my license. Can I, I'm gonna practice on you and I wanna, and I'm gonna send you something and, you know, again, this is, we wanna condition these, these, your, your sphere to know that this is what you do. And by the way, it's great experience as well to learn about pricing, learn about what Zillow sends out there so that as an agent, because we know the number one place consumers are going to see their value of their home is Zillow. Like that's where they're going. So it's a real good idea for you to know what their estimate is so that they don't call you and say, just notice my homes at like 500 grand. You know what I would do? I would put everybody's address in there, and I as an agent, all my clients, everyone in my sphere so that I get alerts for their homes so that I could be the one to contact them and say, oh, I just saw Zillow updated their estimate for your home. I wanna take a closer look at that myself and see if it's right. Brilliant idea. And what I also talked about, you know, doing things with inside of neighborhoods, you can get these phone numbers, circle marketing, you can get these phone numbers, and you can, you don't have to call everyone if you don't like cold calling, nobody likes cold calling. You could do a slide aisle, drop it in. Hey, we got an open house coming up or I just sold the home down the street. If you're, and we had multiple offers and it sold for above listing, if you're interested in seeing what your home might be worth right now, give me a ring not, are you looking to sell? Because they're either looking to sell or they're not. But would you be interested in finding out what your home value is worth? Who wouldn't say yes to it? And you know what, I've lived in a new development for two and a half years, and yeah, I'm in the business, but I'm not a practicing REALTOR. So I don't think anybody thinks of me as a REALTOR because I'm really not. Not one agent has ever called me to go, hey, I know you bought a couple of years ago, would you like to know what it's worth right now? Now, I know because I look at Zillow or whatever, but most of my... New construction are like my hidden. Yes. My hidden source for, new seller leads, most people are gonna move between years two and four in a new home development, and then it starts to kind of trickle and become more random, but you're a hundred percent right. Not even one postcard, not a phone call, not a postcard, it is wild. So, and we have 40,000, 5,000 agents here in Chicago, not one of them is doing it. So, at least in my development, so great stuff from Caroline, and by the way, guys, she has leads, and that's not the reason to go to her firm because that is never a good reason to go to a firm, but it is a nice thing that she does have leads. Now, so definitely reach out if, but I think more importantly is the skill building, and she actually does that every single week with her agents, she learned from the best, so why not learn from her, and she's crushing it as well. So please, everyone go visit, especially if you're in the San Jose area, rewardrealt.org, see if you might be a good fit for Caroline and her brokerage. And for those of you that were really interested in some of the tech stuff she's doing, where she's integrating a client portal and an agent portal with all systems sort of talking to each other, so that you don't have to go in and out of various solutions to do your work. Reach out to her as well, and there's a link in our show notes where you can schedule time to chat with her about whether this would be a good fit for your team, your brokerage, or just yourself. So Caroline, thank you so much for being on the show. You were amazing, really appreciate your insight and the advice you gave to our listeners was incredible. So on behalf of the listeners, I thank you for coming on the show. On behalf of Caroline and myself, we thank our listeners too. You guys are the reason we continue to do this. Please, we ask you to do just one thing, but I'm gonna ask for actually two things. One, the most important thing is telefront. Think of one other agent that isn't maybe doing as well this year. By the way, that's just about everybody. Maybe they're a little dejected, a little down. Maybe they're not at a firm like Caroline's where they're not getting as much skill training as possible. Shoot them a link to this. It's gonna give them a couple of great ideas to stay busy. Please do that for us. That'll help us get in front of more REALTORS. And also leave us a review that whatever app you're listening to us on, let us know what you think of the show. We appreciate that as well. Caroline, thank you so much. You're amazing and I'm excited to hear more about the tech development as it goes. And maybe we'll have you back when it launches and we'll do a demo and have some fun. So thank you so much for being on the show. Thank you. And everyone else will see you on the next episode. Thanks guys. Awesome.
