@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Bob Brown",
+    "title": "Author, Instructor, Foundation Repair Expert",
+    "company": "Arizona Foundation Solutions",
+    "production_level": null,
+    "specialty": "Foundation Repair",
+    "location": "Arizona"
+  },
+  "main_topics": [
+    "Foundation Repair Strategies",
+    "Importance of Hiring Engineers",
+    "Soil Types and Their Impact on Foundations",
+    "Signs of Foundation Issues",
+    "Risk Management in Real Estate Transactions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Identifying foundation issues before listing or buying a property",
+      "solution_summary": "Hire a licensed professional engineer to conduct a thorough inspection before the listing process or before the home inspector's report.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding soil types and their impact on property foundations",
+      "solution_summary": "Use resources like the NCRS website to learn about local soil types and their potential impact on foundations.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Avoiding costly foundation repairs post-purchase",
+      "solution_summary": "Invest in a pre-purchase foundation inspection by an engineer to prevent unexpected repair costs.",
+      "timestamp": "11:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into differentiating oneself by offering additional services like foundation inspections.",
+      "key_takeaway": "Proactively hiring engineers for foundation inspections can protect clients and enhance your reputation."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn foundational knowledge about property inspections and risk management.",
+      "key_takeaway": "Understanding basic signs of foundation issues can be a valuable skill in real estate transactions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:30",
+      "end_timestamp": "09:15",
+      "quote": "If you're a listing agent and you don't want to get fired, be proactive, right? And don't call a foundation repair company.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This advice challenges conventional practices and offers a specific action to protect one's business.",
+      "suggested_hook": "Why calling the wrong expert could cost you your listing."
+    },
+    {
+      "timestamp": "17:30",
+      "end_timestamp": "18:00",
+      "quote": "Clay soil can be cyclical. It can expand and contract... and have all kinds of problems.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "This reveals a common but often overlooked issue that can affect property value.",
+      "suggested_hook": "The hidden danger lurking beneath your property."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hire a licensed engineer for foundation inspections before listing or buying a property.",
+      "context": "To identify potential foundation issues early and avoid costly repairs.",
+      "timestamp": "05:00"
+    },
+    {
+      "tactic": "Use the NCRS website to learn about local soil types.",
+      "context": "To understand how soil conditions might affect property foundations in your area.",
+      "timestamp": "18:00"
+    }
+  ],
+  "quotable_insights": [
+    "A disappointed home buyer might feel like somebody had some negligence there, and now maybe everybody gets sued.",
+    "Clay sucks because it really does suck. It actually pulls water towards itself."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Foundation Repair Secrets",
+      "context": "Bob Brown's book that provides insights into foundation repair and how to protect oneself from costly repairs."
+    },
+    {
+      "type": "website",
+      "name": "NCRS",
+      "context": "A resource for understanding soil types and their impact on foundations."
+    }
+  ],
+  "episode_summary": "In this episode, Bob Brown, a foundation repair expert, discusses the importance of hiring engineers for foundation inspections to prevent costly repairs and litigation. He explains the impact of different soil types on property foundations and offers practical advice for REALTORS to protect their clients and enhance their services. The episode emphasizes proactive strategies for identifying foundation issues and managing risks in real estate transactions.",
+  "_metadata": {
+    "source_file": "2023-08-25_item225_Bob-Brown",
+    "analyzed_at": "2026-01-29T17:48:38.836446",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

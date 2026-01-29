@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Strategist and Expert",
+    "company": "Not specifically mentioned",
+    "production_level": "Award-winning",
+    "specialty": "Video content creation and strategy",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Video content creation for real estate agents",
+    "Using hooks and headlines in videos",
+    "Leveraging pop culture in real estate marketing",
+    "Engagement strategies on social media",
+    "Personal branding through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents struggle to make their videos engaging and watched by potential clients.",
+      "solution_summary": "Use strong hooks and headlines to capture attention quickly and relate content to pop culture to increase discoverability.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents only posting 'just listed' or 'just closed' content.",
+      "solution_summary": "Showcase personal expertise and personality to become the go-to expert in your neighborhood.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Difficulty in converting social media engagement into real-world relationships.",
+      "solution_summary": "Engage with others on social media as you would in a coffee shop to build relationships that convert.",
+      "timestamp": "17:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to elevate personal branding and increase engagement.",
+      "key_takeaway": "Utilize video content with strong hooks and personal insights to stand out in the real estate market."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers clear steps to start creating impactful video content.",
+      "key_takeaway": "Focus on creating engaging video content with clear hooks and leverage pop culture for greater reach."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "11:00",
+      "end_timestamp": "12:00",
+      "quote": "The reason why I don't like social feeds full of 'just listed' and 'just closed' is that all it does is try to sell one house, but it doesn't try to sell you as an agent.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional approach to real estate social media marketing.",
+      "suggested_hook": "Why 'just listed' posts might be hurting your real estate brand."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use strong hooks and headlines in videos.",
+      "context": "Capture viewer attention within the first few seconds of your video.",
+      "timestamp": "04:00"
+    },
+    {
+      "tactic": "Engage with others on social media like a coffee shop.",
+      "context": "Build relationships by commenting and interacting genuinely with others' content.",
+      "timestamp": "17:30"
+    }
+  ],
+  "quotable_insights": [
+    "Get out of that supermodel mode and get into teacher mode."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Bootcamp Summer Intensive",
+      "context": "A course offered by Kim Rittberg to help agents become confident video creators."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares strategies for real estate agents to create engaging video content that captures attention and builds personal brands. She emphasizes the importance of strong hooks, leveraging pop culture, and engaging authentically on social media to convert online interactions into real-world relationships.",
+  "_metadata": {
+    "source_file": "2023-06-26_item241_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:37:01.147632",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

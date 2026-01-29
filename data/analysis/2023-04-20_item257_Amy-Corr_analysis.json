@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Amy Corr",
+    "title": "Managing Broker",
+    "company": "At Properties, Christie's International Real Estate",
+    "production_level": "N/A",
+    "specialty": "Agent coaching and development",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Agent recruitment and retention",
+    "Building and managing real estate teams",
+    "Creating raving fans and client relationships",
+    "Emotional intelligence in real estate transactions",
+    "Branding and marketing strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggling to generate leads organically",
+      "solution_summary": "Focus on building relationships and becoming a connector by providing value and solving problems for clients.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling emotional client reactions during transactions",
+      "solution_summary": "Prepare for emotional responses by using techniques like the 'accusation audit' to soften the blow of bad news.",
+      "timestamp": "47:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents lacking authenticity in their branding",
+      "solution_summary": "Incorporate personal passions and interests into your real estate practice to attract like-minded clients.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on building a successful real estate business through relationship building and team management.",
+      "key_takeaway": "Focus on providing value and creating raving fans to organically grow your business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses strategies for effectively building and managing a real estate team.",
+      "key_takeaway": "Identify your strengths and delegate tasks to build a cohesive and successful team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:30",
+      "quote": "Focus on the give. Figure out what you can give to someone today that will change their life, even just a little bit.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights a shift from transactional thinking to relationship building, which is crucial for long-term success.",
+      "suggested_hook": "Want to transform your real estate business? Start by focusing on the give."
+    },
+    {
+      "timestamp": "47:00",
+      "end_timestamp": "48:00",
+      "quote": "Use the 'accusation audit' to prepare clients for bad news, softening the emotional impact.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific technique for managing difficult client conversations.",
+      "suggested_hook": "How to deliver bad news to clients without damaging your relationship."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to identify and solve problems for your clients.",
+      "context": "Monitor your clients' social media for opportunities to provide value by connecting them with solutions.",
+      "timestamp": "24:00"
+    },
+    {
+      "tactic": "Prepare for emotional client reactions using the 'accusation audit'.",
+      "context": "Before delivering bad news, set expectations to manage emotional responses.",
+      "timestamp": "47:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on the give. Figure out what you can give to someone today that will change their life, even just a little bit.",
+    "The best agents are super connectors, the ones who are called for everything."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Never Split the Difference",
+      "context": "Recommended for learning negotiation techniques applicable to real estate transactions."
+    }
+  ],
+  "episode_summary": "In this episode, Amy Corr discusses strategies for building a successful real estate business through relationship building and team management. She emphasizes the importance of providing value to clients and using emotional intelligence to handle difficult situations. The episode also covers branding strategies and the benefits of incorporating personal passions into your real estate practice.",
+  "_metadata": {
+    "source_file": "2023-04-20_item257_Amy-Corr",
+    "analyzed_at": "2026-01-29T17:25:40.808597",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

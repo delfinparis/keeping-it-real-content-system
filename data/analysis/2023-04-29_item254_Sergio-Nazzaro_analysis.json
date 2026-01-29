@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Sergio Nazzaro",
+    "title": "Real Estate Agent and Performance Coach",
+    "company": "Not explicitly mentioned",
+    "production_level": "$35M+ producer in third year",
+    "specialty": "Helping entrepreneurs balance life and business",
+    "location": "Denver, Colorado"
+  },
+  "main_topics": [
+    "Stress management in real estate",
+    "Importance of setting boundaries",
+    "Leveraging social media for lead generation",
+    "Balancing personal life and professional success",
+    "Building authentic client relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Managing stress as a real estate agent",
+      "solution_summary": "Develop personal discipline and set clear boundaries to manage stress effectively.",
+      "timestamp": "13:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of boundaries with clients",
+      "solution_summary": "Communicate clear working hours and expectations to clients from the start.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Fear of sharing personal life on social media",
+      "solution_summary": "Share authentic stories that feel comfortable and can connect with others.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sergio discusses how he achieved high production levels while maintaining personal balance.",
+      "key_takeaway": "Success in real estate is not just about sales volume but also about maintaining personal well-being and relationships."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to set boundaries and manage stress early in their careers.",
+      "key_takeaway": "Establishing boundaries and managing stress are crucial skills for long-term success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "My business didn't take off until I started to have boundaries.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that being always available is necessary for success.",
+      "suggested_hook": "Why setting boundaries could be the key to skyrocketing your real estate career."
+    },
+    {
+      "timestamp": "39:00",
+      "end_timestamp": "40:00",
+      "quote": "Your brand is not a house. People want to know what you like to do.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It shifts focus from traditional real estate marketing to personal branding.",
+      "suggested_hook": "Are you marketing homes or yourself? Discover the real secret to client attraction."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send home anniversary gifts and check-in calls twice a year.",
+      "context": "To maintain and deepen client relationships.",
+      "timestamp": "50:00"
+    },
+    {
+      "tactic": "Post consistently on social media to leverage reach.",
+      "context": "Use social media as a tool for storytelling and client engagement.",
+      "timestamp": "36:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your ability to manage stress in your state as you show up to those is what sets you apart from everybody else.",
+    "If you can manage your stress when things are hard, your ability to manage your stress when things are good will allow you to get more opportunities from those opportunities."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "app",
+      "name": "Calm",
+      "context": "Used for meditation and stress management."
+    }
+  ],
+  "episode_summary": "In this episode, Sergio Nazzaro shares his journey from military service to becoming a top-producing real estate agent and coach. He emphasizes the importance of stress management, setting boundaries, and leveraging social media for business growth. Sergio also discusses how balancing personal life with professional success can lead to overall fulfillment and higher productivity.",
+  "_metadata": {
+    "source_file": "2023-04-29_item254_Sergio-Nazzaro",
+    "analyzed_at": "2026-01-29T17:28:19.715174",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

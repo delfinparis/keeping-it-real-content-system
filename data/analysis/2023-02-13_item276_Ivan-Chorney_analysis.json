@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Ivan Chorney",
+    "title": "Team Leader",
+    "company": "Compass",
+    "production_level": "$282M+ in closed transactions last year",
+    "specialty": "Ultra luxury homes and new development sales",
+    "location": "Southeast Florida"
+  },
+  "main_topics": [
+    "Building relationships with developers",
+    "Importance of resilience and mindset",
+    "Delegating tasks for efficiency",
+    "Staying positive in challenging markets"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to be chosen by developers for new construction projects",
+      "solution_summary": "Immerse yourself in the industry, join a team, and consistently demonstrate value and tenacity.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated in a challenging market",
+      "solution_summary": "Focus on opportunities, maintain a positive mindset, and avoid sensationalist media.",
+      "timestamp": "46:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Overwhelmed by administrative tasks",
+      "solution_summary": "Delegate tasks you procrastinate on to virtual assistants to focus on core activities.",
+      "timestamp": "28:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Provides insights on how to break into luxury markets and work with developers.",
+      "key_takeaway": "Persistence and building strong relationships are key to success in high-end real estate."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses the importance of delegation and team dynamics.",
+      "key_takeaway": "Delegating tasks can significantly enhance productivity and focus on high-impact activities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "15:30",
+      "quote": "How you do anything is how you do everything.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a powerful reminder of the importance of consistency and integrity in all actions.",
+      "suggested_hook": "Want to know the secret to success in real estate? It starts with how you approach every task."
+    },
+    {
+      "timestamp": "46:00",
+      "end_timestamp": "47:00",
+      "quote": "Where attention goes, energy flows.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a focus on positive and productive activities.",
+      "suggested_hook": "Struggling in a tough market? Here's how to shift your mindset for success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send clients local restaurant recommendations regularly.",
+      "context": "Use this as a way to stay in touch and provide value without being salesy.",
+      "timestamp": "24:00"
+    },
+    {
+      "tactic": "Reach out to agents who recently closed deals in buildings you're interested in.",
+      "context": "Gather insights and build relationships for future opportunities.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "How you do anything is how you do everything.",
+    "Where attention goes, energy flows."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and CRM management."
+    }
+  ],
+  "episode_summary": "In this episode, Ivan Chorney shares his journey from bartending to leading a top luxury real estate team. He emphasizes the importance of resilience, relationship-building, and maintaining a positive mindset in challenging markets. Ivan also provides actionable tips on delegation and staying connected with clients through value-driven communication.",
+  "_metadata": {
+    "source_file": "2023-02-13_item276_Ivan-Chorney",
+    "analyzed_at": "2026-01-29T17:11:04.953863",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

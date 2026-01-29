@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Digital Video Expert and Marketing Strategist",
+    "company": null,
+    "production_level": null,
+    "specialty": "Digital Video and Marketing Strategy",
+    "location": null
+  },
+  "main_topics": [
+    "Overcoming self-doubt in video creation",
+    "Strategic use of video for real estate agents",
+    "The importance of showing up on camera",
+    "Balancing personal and professional content",
+    "Building confidence in video presentations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling self-conscious on camera",
+      "solution_summary": "Focus on speaking to your ideal client and practice regularly to build confidence.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not leveraging video effectively",
+      "solution_summary": "Develop a strategic approach to video content that aligns with your business goals.",
+      "timestamp": "03:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with confidence and visibility, which video can help address.",
+      "key_takeaway": "Start using video to connect with your ideal clients and build your brand."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers need to differentiate themselves in a crowded market.",
+      "key_takeaway": "Strategically leveraging video can set you apart and attract more clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:50",
+      "end_timestamp": "05:30",
+      "quote": "Video is the fastest and best way to grow your business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of video in modern real estate marketing.",
+      "suggested_hook": "Discover why video is your secret weapon in real estate!"
+    },
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Kill the negative voices inside our heads that say, 'Why are you on camera?'",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to overcome self-doubt and embrace video.",
+      "suggested_hook": "Struggling with self-doubt? Here's how to silence those negative voices!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Envision your ideal client when creating video content.",
+      "context": "Helps focus your message and reduce self-consciousness.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Balance personal and professional content in your social media strategy.",
+      "context": "Use a mix of educational and personal posts to engage your audience.",
+      "timestamp": "17:00"
+    }
+  ],
+  "quotable_insights": [
+    "Video is the fastest and best way to grow your business.",
+    "Kill the negative voices inside our heads that say, 'Why are you on camera?'"
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for real estate sales and marketing solutions."
+    },
+    {
+      "type": "tool",
+      "name": "Modwell",
+      "context": "Used for virtually renovating listings to show potential buyers."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses the importance of overcoming self-doubt and leveraging video strategically to grow a real estate business. She provides actionable tips on how to build confidence on camera and balance personal and professional content in social media strategies. The episode emphasizes the power of video in differentiating agents in a crowded market.",
+  "_metadata": {
+    "source_file": "2023-07-10_item238_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:39:34.925426",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

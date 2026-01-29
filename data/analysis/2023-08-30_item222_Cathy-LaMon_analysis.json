@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Cathy LaMon",
+    "title": "Realtor",
+    "company": "Keller Williams",
+    "production_level": "Top Producer",
+    "specialty": "Referral-based business",
+    "location": "Atlanta, Georgia"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Effective communication strategies",
+    "Networking with trusted advisors",
+    "Client appreciation events",
+    "Adapting to market changes"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Transitioning from cold calls to referrals",
+      "solution_summary": "Focus on building relationships and networking with trusted advisors like estate attorneys and CPAs.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining communication when there's no activity",
+      "solution_summary": "Regularly update clients even when there's no new activity to report.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating engaging social media content",
+      "solution_summary": "Work with a marketing professional to craft messages that provide value and resonate with the audience.",
+      "timestamp": "41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for building a referral-based business and leveraging professional networks.",
+      "key_takeaway": "Focus on relationship-building and consistent communication to grow a sustainable business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on delegating roles based on strengths and organizing client appreciation events.",
+      "key_takeaway": "Leverage team members' strengths and host events to strengthen client relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:30",
+      "end_timestamp": "20:15",
+      "quote": "I have lunch with someone almost every day of the week, either past clients or trusted advisors.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific, actionable strategy for maintaining and building relationships.",
+      "suggested_hook": "Want to know how top agents keep their referral pipeline full? It starts with lunch."
+    },
+    {
+      "timestamp": "48:00",
+      "end_timestamp": "48:45",
+      "quote": "We are going to be fine. Focus on listings and learning.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Provides reassurance and a proactive strategy during uncertain market conditions.",
+      "suggested_hook": "Feeling uncertain about the market? Here's why you shouldn't worry."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host client appreciation events regularly.",
+      "context": "Use events to deepen relationships and show appreciation.",
+      "timestamp": "38:00"
+    },
+    {
+      "tactic": "Build a network of trusted advisors.",
+      "context": "Collaborate with professionals like estate attorneys and CPAs for mutual referrals.",
+      "timestamp": "20:00"
+    },
+    {
+      "tactic": "Make 10 calls a day to stay connected.",
+      "context": "Use calls to maintain relationships and uncover client needs.",
+      "timestamp": "8:00"
+    }
+  ],
+  "quotable_insights": [
+    "The market will talk back. If you're not getting showings, the market is telling you something.",
+    "Once you get in our web, you can't get out."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Brian Buffini's Referral System",
+      "context": "Used as a core strategy for building a referral-based business."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Promoted as a CRM and marketing solution for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Cathy LaMon shares her journey from IBM sales to becoming a top-producing real estate agent by building a referral-based business. She emphasizes the importance of effective communication, networking with trusted advisors, and hosting client appreciation events. Cathy also provides insights on adapting to market changes and leveraging social media to provide value.",
+  "_metadata": {
+    "source_file": "2023-08-30_item222_Cathy-LaMon",
+    "analyzed_at": "2026-01-29T17:50:28.531193",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

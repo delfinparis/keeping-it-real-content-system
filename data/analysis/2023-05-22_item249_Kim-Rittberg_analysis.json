@@ -1,0 +1,92 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning Video Producer",
+    "company": "Self-employed",
+    "production_level": "Award-winning",
+    "specialty": "Video production and coaching for real estate agents",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Overcoming the fear of being on camera",
+    "Using video to grow real estate business",
+    "Engagement strategies on social media",
+    "Building personal brand through authentic content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Struggle to get on video",
+      "solution_summary": "Start by having a friend or family member interview you to make the process more comfortable.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Low engagement on social media",
+      "solution_summary": "Use Instagram stories with polls and engagement mechanisms to increase interaction.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of not being ready for video",
+      "solution_summary": "Practice consistently; it's a muscle that gets better with use.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with showing up on video due to lack of experience.",
+      "key_takeaway": "Start small with conversational videos to build confidence."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers need to leverage video to stand out in a competitive market.",
+      "key_takeaway": "Engage with your audience authentically to build a strong personal brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "14:45",
+      "quote": "As soon as you're selling, you're losing. You have to think of it as a way to build that relationship.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional sales approach, emphasizing relationship-building.",
+      "suggested_hook": "Why selling might be hurting your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Instagram stories with polls for engagement.",
+      "context": "To increase interaction and visibility on social media.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Have a friend or family member interview you on camera.",
+      "context": "To ease into video content creation by making it conversational.",
+      "timestamp": "05:00"
+    }
+  ],
+  "quotable_insights": [
+    "As soon as you're selling, you're losing. You have to think of it as a way to build that relationship."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "From Camera Shy to Camera Shine",
+      "context": "A course to help agents show up confidently on camera."
+    },
+    {
+      "type": "tool",
+      "name": "Realgeeks",
+      "context": "Recommended for lead generation and CRM for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares practical advice for real estate agents to overcome the fear of being on camera and effectively use video to grow their business. She emphasizes the importance of building authentic relationships through social media engagement and offers actionable tips to start creating video content with ease.",
+  "_metadata": {
+    "source_file": "2023-05-22_item249_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:31:41.734867",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

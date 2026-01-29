@@ -1,0 +1,103 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video and Podcast Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents become thought leaders using video and podcasts",
+    "location": null
+  },
+  "main_topics": [
+    "Creating effective real estate videos",
+    "Essential tools for video production",
+    "Building confidence on camera",
+    "Leveraging social media for lead generation",
+    "Outsourcing video editing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Real estate agents not standing out with traditional home tours",
+      "solution_summary": "Focus on personal branding and consistent social media presence to establish expertise.",
+      "timestamp": "02:43"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Complicated and unused video equipment",
+      "solution_summary": "Use simple tools like a tripod and ring light for effective video production.",
+      "timestamp": "03:48"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time-consuming video editing",
+      "solution_summary": "Outsource editing or use simple apps like InShot or CapCut.",
+      "timestamp": "08:48"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can quickly establish themselves as local experts using video.",
+      "key_takeaway": "Start with simple video tools and focus on personal branding to generate leads."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can enhance their social media presence with consistent video content.",
+      "key_takeaway": "Consistency and confidence on camera can lead to new referrals and co-listings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:03",
+      "end_timestamp": "12:20",
+      "quote": "You're always selling yourself when you're on camera.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of personal branding in real estate.",
+      "suggested_hook": "Why being on camera is your secret weapon in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a tripod and ring light for steady, well-lit videos.",
+      "context": "Essential for creating professional-looking videos without expensive equipment.",
+      "timestamp": "03:48"
+    },
+    {
+      "tactic": "Edit videos using simple apps like InShot or CapCut.",
+      "context": "For agents who don't enjoy or have time for complex editing.",
+      "timestamp": "08:48"
+    },
+    {
+      "tactic": "Outsource video editing if it consumes too much time.",
+      "context": "To focus on core real estate activities and save time.",
+      "timestamp": "09:14"
+    }
+  ],
+  "quotable_insights": [
+    "Confidence and the right mindset are truly the most important tools you need."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "InShot",
+      "context": "Recommended for simple video editing."
+    },
+    {
+      "type": "tool",
+      "name": "CapCut",
+      "context": "Another simple app for video editing."
+    },
+    {
+      "type": "tool",
+      "name": "Ring Light",
+      "context": "For even lighting in video production."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares essential tools and strategies for real estate agents to create impactful videos. She emphasizes the importance of personal branding and consistent social media presence to generate leads. With simple equipment and confidence on camera, agents can stand out and grow their business effectively.",
+  "_metadata": {
+    "source_file": "2023-09-08_item220_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:51:59.310709",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

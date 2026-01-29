@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kevin Van Eck",
+    "title": "Executive Vice President of Innovation",
+    "company": "Christie's International Real Estate",
+    "production_level": null,
+    "specialty": "Developing and implementing growth programs for agents",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Agent recruitment and retention strategies",
+    "Impact of AI on real estate",
+    "Leveraging feeder markets",
+    "Differentiating marketing strategies",
+    "Brokerage selection process"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI potentially replacing REALTORS",
+      "solution_summary": "AI is unlikely to replace REALTORS due to the emotional aspect of transactions that require human empathy and guidance.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents appearing as commodities",
+      "solution_summary": "Agents should differentiate themselves by creating unique content that resonates with their audience and tells a story.",
+      "timestamp": "42:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Identifying and leveraging feeder markets",
+      "solution_summary": "Research direct flight routes and migration patterns to identify feeder markets and establish referral networks.",
+      "timestamp": "28:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging feeder markets and differentiating marketing strategies.",
+      "key_takeaway": "Understanding and utilizing feeder markets can significantly enhance lead generation and business growth."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses recruitment and retention strategies that can help in building and maintaining a successful team.",
+      "key_takeaway": "Providing agents with the best tools and resources can organically attract and retain top talent."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "AI can't create a consumer experience like you can.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the fear of AI replacing REALTORS by emphasizing the irreplaceable human element.",
+      "suggested_hook": "Worried about AI taking over real estate? Here's why you're irreplaceable."
+    },
+    {
+      "timestamp": "42:00",
+      "end_timestamp": "43:00",
+      "quote": "If it doesn't make you stop scrolling, then don't post it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear guideline for creating engaging content.",
+      "suggested_hook": "Want your real estate posts to stand out? Here's the secret."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Research direct flight routes to identify feeder markets.",
+      "context": "Use this information to establish referral networks and target marketing efforts.",
+      "timestamp": "29:00"
+    },
+    {
+      "tactic": "Create content that tells a story and resonates with your audience.",
+      "context": "Focus on unique aspects of properties or client experiences to differentiate your marketing.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate is an emotional transaction; AI can't replace that human connection.",
+    "Differentiate yourself by doing something that makes people stop scrolling."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Active Rain",
+      "context": "Used as a platform for early real estate blogging and networking."
+    }
+  ],
+  "episode_summary": "Kevin Van Eck discusses the importance of differentiating oneself in the real estate market by leveraging feeder markets and creating unique, engaging content. He addresses the potential impact of AI on the industry, emphasizing the irreplaceable human element in real estate transactions. The episode provides actionable insights for agents looking to grow their business and enhance their personal brand.",
+  "_metadata": {
+    "source_file": "2023-05-12_item251_Kevin-Van-Eck",
+    "analyzed_at": "2026-01-29T17:30:29.668680",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

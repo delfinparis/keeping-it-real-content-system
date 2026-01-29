@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Ali Garced",
+    "title": "Real Estate Agent",
+    "company": "eXp Realty",
+    "production_level": "Closed 55 transactions in first two years",
+    "specialty": "Systems and processes for real estate transactions",
+    "location": "Not specifically mentioned"
+  },
+  "main_topics": [
+    "Developing systems and checklists for real estate transactions",
+    "Transitioning from military to real estate",
+    "Strategies for working with buyers and sellers",
+    "Importance of tracking and analyzing business metrics",
+    "Building a real estate team and agent recruitment"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficiency in handling multiple transactions",
+      "solution_summary": "Developed 180-step onboarding checklist and 200-step buyer/seller checklist to streamline processes.",
+      "timestamp": "03:56"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding seller leads in a challenging market",
+      "solution_summary": "Leverage military connections and consider cold calling and personalized direct mail.",
+      "timestamp": "50:55"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Getting buyer offers accepted in competitive markets",
+      "solution_summary": "Use escalation clauses, non-refundable earnest money, and personalized video messages to listing agents.",
+      "timestamp": "32:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Ali's systems and processes provide a blueprint for scaling production efficiently.",
+      "key_takeaway": "Implementing detailed systems and tracking metrics can significantly boost productivity and income."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Ali discusses building a team and providing value through shared resources.",
+      "key_takeaway": "Creating standardized processes can enhance team performance and recruitment."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "27:45",
+      "quote": "I don't answer phone calls unless it's an existing client under contract. This saves me hours each week.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a contrarian approach to managing time effectively.",
+      "suggested_hook": "Why one top agent refuses to answer phone calls and how it triples her income."
+    },
+    {
+      "timestamp": "32:30",
+      "end_timestamp": "33:15",
+      "quote": "Offer non-refundable earnest money to show you're serious. It sets your offer apart.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Provides a unique tactic for making offers stand out.",
+      "suggested_hook": "A surprising tactic to make your buyer's offer irresistible."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a 180-step onboarding checklist for new agents.",
+      "context": "To ensure consistency and efficiency in agent training.",
+      "timestamp": "03:56"
+    },
+    {
+      "tactic": "Send personalized video messages to listing agents.",
+      "context": "To increase the likelihood of offer acceptance by standing out.",
+      "timestamp": "35:01"
+    }
+  ],
+  "quotable_insights": [
+    "Treat your real estate business as an actual business with systems and processes.",
+    "You don't need to answer every phone call to be successful; focus on what's important."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Trello",
+      "context": "Used for managing checklists and processes efficiently."
+    }
+  ],
+  "episode_summary": "Ali Garced shares her journey from military service to becoming a successful real estate agent by implementing detailed systems and processes. She discusses her unique strategies for working with buyers and sellers, the importance of tracking business metrics, and how she built a thriving real estate team. Ali provides actionable insights on improving efficiency and standing out in competitive markets.",
+  "_metadata": {
+    "source_file": "2023-07-19_item237_Ali-Garced",
+    "analyzed_at": "2026-01-29T17:40:10.336408",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

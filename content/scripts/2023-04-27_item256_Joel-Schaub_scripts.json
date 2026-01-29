@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you're renting, the rate you're paying is 100%.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement powerfully reframes the cost of renting versus buying.",
+      "suggested_hook": "Are you paying 100% interest on your home?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you paying 100% interest on your home?\",\n    \"SETUP\": \"Joel Schaub is here to change the way you think about renting versus buying. In today's market, understanding your options is crucial.\",\n    \"INSIGHT\": \"When you rent, every dollar spent is gone forever. Joel explains that while buying might seem daunting, creative solutions like buy downs and family opportunity loans can make homeownership accessible.\",\n    \"REFRAME/APPLICATION\": \"Think of it this way: investing in a home means investing in your future. Partnering with knowledgeable lenders can open doors to opportunities.\",\n    \"CTA\": \"Ready to stop paying 100% interest? Explore your options and start building equity today. Comment below with your thoughts!\"\n  },\n  \"caption\": \"Are you paying 100% interest on your home? Discover creative solutions for homeownership with Joel Schaub.\",\n  \"hashtags\": [\n    \"#RealEstateTips\",\n    \"#HomeBuying\",\n    \"#InvestInYourFuture\",\n    \"#MarketInsights\",\n    \"#RealEstateAdvice\"\n  ],\n  \"content_pillar\": \"market_intelligence\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:28",
+      "end_timestamp": "19:10",
+      "quote": "The Family Opportunity Loan allows you to buy a home for your college-bound child with just 5% down.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This provides a specific, actionable strategy for parents of college students.",
+      "suggested_hook": "Save on college costs with this little-known loan strategy."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Save on college costs with this little-known loan strategy!\",\n    \"SETUP\": \"(0:08-0:18) Parents, are you worried about the rising costs of sending your child to college? Here's a smart financial move you might not know about.\",\n    \"INSIGHT\": \"(0:18-0:40) Joel Schaub reveals the Family Opportunity Loan, a unique option that lets you purchase a home for your college-bound child with just 5% down. This strategy not only saves on dorm costs but also builds equity.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) Imagine turning college expenses into an investment. This loan can be a game-changer for your family's financial strategy.\",\n    \"CTA\": \"(0:52-0:60) Want to learn more about creative lending solutions? Tune into our latest episode and start planning smartly today!\"\n  },\n  \"CAPTION\": \"Discover how the Family Opportunity Loan can save you money on college housing!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#CollegeSavings\", \"#FamilyFinance\", \"#HomeBuying\", \"#SmartInvesting\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  }
+]

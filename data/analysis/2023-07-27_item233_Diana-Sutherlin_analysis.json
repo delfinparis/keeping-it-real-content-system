@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Diana Sutherlin",
+    "title": "Real Estate Agent",
+    "company": "Sutherlin Group",
+    "production_level": "Top 1% producer",
+    "specialty": "New construction and waterfront properties",
+    "location": "Jersey City, Hoboken, and up the Gold Coast, New Jersey"
+  },
+  "main_topics": [
+    "Importance of connecting with clients",
+    "Transition from sales training to real estate",
+    "Working with developers",
+    "Navigating market challenges",
+    "Building long-term client relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Understanding client motivations and fears",
+      "solution_summary": "Listen actively to identify client motivations, fears, and desires to better serve them.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a market with low inventory and high interest rates",
+      "solution_summary": "Collaborate with loan officers to create compelling offers and educate clients on market conditions.",
+      "timestamp": "47:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into achieving high production levels and working with developers.",
+      "key_takeaway": "Focus on building authentic client relationships and continuously learning to enhance your market expertise."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "If you don't know the answer to something, say, 'That's a great question. I want to double-check with my team because I want to give you a complete answer.'",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a practical script for handling questions when the answer is unknown.",
+      "suggested_hook": "Here's how to handle tough client questions with confidence."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Conduct mini buyer consultations during open houses.",
+      "context": "Engage visitors by asking questions to understand their needs and motivations.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Shop competing developments to understand the market.",
+      "context": "Visit other projects to gather insights and offer unique value to developers.",
+      "timestamp": "44:00"
+    }
+  ],
+  "quotable_insights": [
+    "People want to work with who they connect with. You don't have to prove how great you are; you have to connect with them."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Audition by Michael Shirtliff",
+      "context": "Referenced for its insights into focusing on the other person during interactions."
+    }
+  ],
+  "episode_summary": "In this episode, Diana Sutherlin shares her journey from sales training to becoming a top 1% real estate producer. She emphasizes the importance of connecting deeply with clients, understanding their motivations, and continuously learning. Diana also provides insights into working with developers and navigating current market challenges.",
+  "_metadata": {
+    "source_file": "2023-07-27_item233_Diana-Sutherlin",
+    "analyzed_at": "2026-01-29T17:42:43.478475",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Joel Schaub",
+    "title": "Vice President of Lending",
+    "company": "Guaranteed Rate",
+    "production_level": "Top 0.1% of loan officers nationwide",
+    "specialty": "Giving back part of his commission to clients",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Bank failures and their impact on mortgage rates",
+    "Creative financing strategies for buyers",
+    "Importance of client events and partnerships",
+    "Adjustable rate mortgages and their benefits",
+    "Market trends and predictions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of bank failures on mortgage rates",
+      "solution_summary": "Bank failures may lead to lower mortgage rates due to increased bond market activity.",
+      "timestamp": "04:30"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High mortgage rates deterring buyers",
+      "solution_summary": "Use seller buy downs and adjustable rate mortgages to offer lower initial rates.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships in a challenging market",
+      "solution_summary": "Host client appreciation events and partner with mortgage professionals for shared costs.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to close more deals despite high rates.",
+      "key_takeaway": "Utilize creative financing options and strengthen client relationships through events."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on partnering with mortgage professionals to enhance team offerings.",
+      "key_takeaway": "Collaborate with lenders to co-host events and provide value-added services to clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:03",
+      "end_timestamp": "09:45",
+      "quote": "If you take that same $15,000 and have the seller buy the rate down for the client... their payment would drop four to $500 a month.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable tactic to reduce monthly payments significantly.",
+      "suggested_hook": "Want to save your clients hundreds on their mortgage payments?"
+    },
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "If you're not doing something, you're doing nothing... partner with a mortgage person.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages proactive engagement and partnership in a challenging market.",
+      "suggested_hook": "Are you leveraging partnerships to grow your real estate business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller buy downs to lower mortgage rates for clients.",
+      "context": "Apply when negotiating deals to make homes more affordable.",
+      "timestamp": "07:00"
+    },
+    {
+      "tactic": "Host client events to maintain and strengthen relationships.",
+      "context": "Organize small, cost-effective gatherings to engage your sphere.",
+      "timestamp": "16:00"
+    }
+  ],
+  "quotable_insights": [
+    "Date the rate, marry the home.",
+    "If you're not doing something, you're doing nothing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and conversion."
+    }
+  ],
+  "episode_summary": "In this episode, Joel Schaub discusses the impact of recent bank failures on mortgage rates and offers creative financing strategies like seller buy downs and adjustable rate mortgages to help buyers in a high-rate environment. He emphasizes the importance of client engagement through events and partnerships with mortgage professionals to enhance business growth.",
+  "_metadata": {
+    "source_file": "2023-03-23_item267_Joel-Schaub",
+    "analyzed_at": "2026-01-29T17:13:18.216291",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

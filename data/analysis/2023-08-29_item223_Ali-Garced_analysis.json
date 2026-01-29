@@ -1,0 +1,98 @@
+{
+  "guest_info": {
+    "name": "Ali Garced",
+    "title": "Real Estate Agent",
+    "company": "Not explicitly mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Buyer and seller checklists, military relocation",
+    "location": "Not explicitly mentioned"
+  },
+  "main_topics": [
+    "Buyer checklist process",
+    "Using Trello for real estate management",
+    "Importance of tracking lead sources",
+    "Effective communication with clients",
+    "Automation and efficiency in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing buyer and seller processes efficiently",
+      "solution_summary": "Ali uses Trello to organize and track the stages of buyer and seller interactions, providing a structured checklist for each step.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time wasted in scheduling and client communication",
+      "solution_summary": "Ali recommends using Calendly to automate scheduling and ensure clients fill out necessary information before meetings.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Ensuring clients are serious and informed before property viewings",
+      "solution_summary": "Ali provides clients with a detailed buyer email and homework to ensure they are prepared and serious about their property interests.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can benefit from structured processes and checklists to manage client interactions effectively.",
+      "key_takeaway": "Implementing a structured checklist and using tools like Trello and Calendly can streamline client management and improve productivity."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents looking to scale their business can learn about automating processes and focusing on serious clients.",
+      "key_takeaway": "Automating scheduling and client communication can free up time and resources to focus on high-value activities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "14:45",
+      "quote": "Don't be afraid to say no because every single client that you take on that you don't feel good about is time you could be spending with other clients that make you feel good.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote challenges the common fear of turning away clients and emphasizes the importance of working with the right clients.",
+      "suggested_hook": "Why saying 'no' to the wrong clients can be the best decision for your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Trello to organize client interactions with specific columns for different stages.",
+      "context": "Apply this tactic to keep track of where each client is in the buying or selling process.",
+      "timestamp": "05:00"
+    },
+    {
+      "tactic": "Automate scheduling with Calendly and prepare clients with pre-meeting questions.",
+      "context": "Use this to ensure efficient use of time and to gather necessary client information before meetings.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Provide clients with a comprehensive buyer email and homework to ensure they are informed and serious.",
+      "context": "Implement this to filter serious clients and prepare them for the buying process.",
+      "timestamp": "17:00"
+    }
+  ],
+  "quotable_insights": [
+    "Buyers want to be told what to do, even if they are experienced investors."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Trello",
+      "context": "Used for organizing and managing buyer and seller processes."
+    },
+    {
+      "type": "tool",
+      "name": "Calendly",
+      "context": "Recommended for automating scheduling and gathering client information."
+    }
+  ],
+  "episode_summary": "In this episode, Ali Garced shares her detailed buyer checklist process and how she uses Trello and Calendly to streamline client management. She emphasizes the importance of tracking lead sources, automating scheduling, and ensuring clients are serious and informed before property viewings. Ali's approach offers actionable insights for agents looking to improve efficiency and client interactions.",
+  "_metadata": {
+    "source_file": "2023-08-29_item223_Ali-Garced",
+    "analyzed_at": "2026-01-29T17:49:43.518442",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Shelby Johnson",
+    "title": "Top Producer and Veteran",
+    "company": "Five Pillars Real Estate with eXp",
+    "production_level": "500+ transactions in two and a half years",
+    "specialty": "Real Estate Investment and Coaching",
+    "location": "North and South Carolina"
+  },
+  "main_topics": [
+    "Transition from Military to Real Estate",
+    "Building a Sellable Real Estate Business",
+    "Importance of Systems and Leverage",
+    "Real Estate Investment Strategies",
+    "Agent Coaching and Development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing high transaction volume efficiently",
+      "solution_summary": "Hiring a transaction coordinator and implementing documented systems for scalability.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of failure and rejection",
+      "solution_summary": "Adopting a military mindset of urgency and persistence, where 'no' is not an answer.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads as a new agent",
+      "solution_summary": "Aggressively tapping into sphere of influence and shadowing top agents for rapid learning.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Shelby shares her journey from zero to top producer, offering a roadmap for new agents.",
+      "key_takeaway": "Focus on learning from top producers and implementing systems early on."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Shelby discusses scaling a real estate business to hundreds of transactions.",
+      "key_takeaway": "Leverage transaction coordinators and document processes to handle high volumes."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "In the military, you can't say 'I couldn't do it.' There is a way, you just have to find it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common fear of failure and encourages persistence.",
+      "suggested_hook": "What if 'no' wasn't an option in your real estate career?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "Hiring a transaction coordinator was my first real step up. It was true leverage.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific tactic that can immediately improve productivity.",
+      "suggested_hook": "Want to scale your real estate business? Here's the first hire you need to make."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hire a transaction coordinator",
+      "context": "To manage paperwork and processes, freeing up time for client interactions.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Shadow top agents",
+      "context": "To quickly learn effective systems and strategies in real estate.",
+      "timestamp": "16:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you're creative, the world is yours in real estate.",
+    "Everything works, but you have to find the authentic fit for you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Rich Dad Poor Dad by Robert Kiyosaki",
+      "context": "Inspired Shelby's interest in real estate investing."
+    },
+    {
+      "type": "website",
+      "name": "biggerpockets.com",
+      "context": "Resource for learning about real estate investing."
+    }
+  ],
+  "episode_summary": "In this episode, Shelby Johnson shares her journey from military service to becoming a top real estate producer. She emphasizes the importance of leveraging systems, hiring transaction coordinators, and learning from top agents to scale a real estate business. Shelby also discusses her coaching approach to help agents build sellable businesses and navigate the current market challenges.",
+  "_metadata": {
+    "source_file": "2023-08-23_item227_Shelby-Johnson",
+    "analyzed_at": "2026-01-29T17:46:37.395832",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

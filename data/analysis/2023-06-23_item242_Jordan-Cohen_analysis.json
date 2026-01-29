@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Jordan Cohen",
+    "title": "Top RE/MAX Agent",
+    "company": "RE/MAX",
+    "production_level": "Over $314 million in sales annually",
+    "specialty": "Luxury Estates",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Listing Presentation Strategies",
+    "Transition from Entry-Level to Luxury Market",
+    "Importance of Professionalism in Real Estate",
+    "Effective Marketing Techniques",
+    "Building Client Trust"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Winning competitive listings",
+      "solution_summary": "Develop a powerful listing presentation that focuses on exposure and salesmanship, and build trust before discussing price.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Use elevated marketing materials and explain their value to clients to differentiate yourself.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to move from entry-level to luxury markets and increase sales volume.",
+      "key_takeaway": "Develop a strong listing presentation and focus on building client trust to win high-value listings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I want you to have the same amount of confidence in me as I have in myself, that I am the best real estate agent.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the importance of confidence and trust in client relationships.",
+      "suggested_hook": "Why confidence is key to winning listings in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Always present your full listing presentation, even if not competing.",
+      "context": "To establish credibility and control over the process.",
+      "timestamp": "25:00"
+    },
+    {
+      "tactic": "Use elevated marketing materials like high-quality brochures.",
+      "context": "To attract potential buyers who may not be actively searching online.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "A great real estate agent is like a good sports agent; we're promoting our stars, which is your house."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Agents Edge",
+      "context": "Jordan Cohen's book on strategies for winning listings and increasing sales."
+    }
+  ],
+  "episode_summary": "Jordan Cohen, the top RE/MAX agent, shares his journey from entry-level to luxury real estate, emphasizing the importance of a strong listing presentation and building client trust. He offers actionable tactics for standing out in a competitive market, including the use of elevated marketing materials and the strategic timing of price discussions.",
+  "_metadata": {
+    "source_file": "2023-06-23_item242_Jordan-Cohen",
+    "analyzed_at": "2026-01-29T17:36:34.605051",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

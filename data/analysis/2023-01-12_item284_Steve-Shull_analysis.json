@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Steve Shull",
+    "title": "Real Estate Coach and Author",
+    "company": "Performance Coaching",
+    "production_level": "Coaches agents doing $100M+ in sales",
+    "specialty": "Real Estate Coaching",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Building a repeat and referral business",
+    "Mindset and time management",
+    "Tactical empathy in client interactions",
+    "Determining if you're the favorite or the fool",
+    "Preparation and communication skills"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents worrying about market predictions",
+      "solution_summary": "Focus on what you can control daily, not market predictions.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling unrealistic seller expectations",
+      "solution_summary": "Use tactical empathy to make clients feel understood and guide them towards realistic expectations.",
+      "timestamp": "50:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Ineffective listing presentations",
+      "solution_summary": "Determine if you're the favorite or the fool before going on appointments.",
+      "timestamp": "1:14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for building a high-volume referral business.",
+      "key_takeaway": "Focus on building relationships and being a trusted advisor rather than just chasing transactions."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers a fresh perspective on reducing stress while increasing productivity.",
+      "key_takeaway": "Shift from a transactional to a relational approach to reduce stress and increase repeat business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "44:30",
+      "end_timestamp": "45:30",
+      "quote": "You cannot overcome emotion with fact, logic, and reason.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional wisdom of using logic to persuade clients.",
+      "suggested_hook": "Are you trying to convince clients with facts? Here's why that might be a mistake."
+    },
+    {
+      "timestamp": "1:14:00",
+      "end_timestamp": "1:15:00",
+      "quote": "You win or lose business based on whether you're the favorite or the fool.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Reframes the importance of presentations in securing business.",
+      "suggested_hook": "Think your presentation wins listings? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call every contact in your CRM every 90 days.",
+      "context": "To build and maintain a strong referral network.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Use tactical empathy to make clients feel understood.",
+      "context": "When handling objections and setting realistic expectations.",
+      "timestamp": "44:00"
+    },
+    {
+      "tactic": "Determine if you're the favorite or the fool before listing appointments.",
+      "context": "To avoid wasting time on unlikely prospects.",
+      "timestamp": "1:14:00"
+    }
+  ],
+  "quotable_insights": [
+    "World records don't get broken when you're ready; they get broken when the day is ready.",
+    "Every deal you do is a miracle and comes from left field."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Full Fee Agent",
+      "context": "Co-authored by Steve Shull and Chris Voss, it provides strategies for maintaining full commission rates."
+    },
+    {
+      "type": "book",
+      "name": "Never Split the Difference",
+      "context": "Referenced for its negotiation strategies applicable to real estate."
+    }
+  ],
+  "episode_summary": "Steve Shull shares insights on building a sustainable real estate business through repeat and referral clients. He emphasizes the importance of mindset, tactical empathy, and determining if you're the favorite or the fool in client interactions. The episode challenges conventional sales tactics and offers practical strategies for improving client relationships and business outcomes.",
+  "_metadata": {
+    "source_file": "2023-01-12_item284_Steve-Shull",
+    "analyzed_at": "2026-01-29T17:05:51.880176",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

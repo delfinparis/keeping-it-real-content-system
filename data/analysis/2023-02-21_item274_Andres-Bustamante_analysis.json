@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Andres Bustamante",
+    "title": "Real Estate Agent",
+    "company": "Keller Williams, the Nino team",
+    "production_level": "$19M producer",
+    "specialty": "Residential Real Estate",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Starting a real estate career young",
+    "Leasing as a gateway to sales",
+    "Building a personal brand through social media",
+    "Mindset and discipline in real estate",
+    "Networking and mentorship"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads as a young agent",
+      "solution_summary": "Utilize leasing as a way to build a client base and get referrals.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated in a challenging market",
+      "solution_summary": "Focus on discipline over motivation; establish a strong morning routine.",
+      "timestamp": "39:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a brand as a new agent",
+      "solution_summary": "Share personal stories and successes on social media to build relatability and trust.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Andres started his career at 19 and shares insights on how to break into the industry.",
+      "key_takeaway": "Start with leasing to build your client base and transition into sales."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Andres shares his journey from leasing to becoming a top producer.",
+      "key_takeaway": "Focus on building a strong personal brand and leveraging social media."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:00",
+      "end_timestamp": "14:00",
+      "quote": "His first ever sale as a 21 year old was for $1.1 million.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the potential for young agents to achieve significant success early.",
+      "suggested_hook": "Can a 21-year-old really sell a million-dollar home?"
+    },
+    {
+      "timestamp": "39:30",
+      "end_timestamp": "40:30",
+      "quote": "For me, and this is like straight up, I don't believe in motivation.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that motivation is key to success.",
+      "suggested_hook": "Why motivation might be overrated in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to share personal success stories.",
+      "context": "Builds relatability and trust with potential clients.",
+      "timestamp": "24:00"
+    },
+    {
+      "tactic": "Join local groups and networks like Toastmasters.",
+      "context": "Expands your network and positions you as a leader.",
+      "timestamp": "33:00"
+    },
+    {
+      "tactic": "Implement a disciplined morning routine.",
+      "context": "Helps maintain focus and productivity throughout the day.",
+      "timestamp": "39:30"
+    }
+  ],
+  "quotable_insights": [
+    "Leasing is so underrated; it's a great way to start in real estate.",
+    "We're storytellers; we have to know how to tell a story."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Miracle Morning",
+      "context": "Recommended for establishing a productive morning routine."
+    },
+    {
+      "type": "program",
+      "name": "75 Hard",
+      "context": "A discipline-building program that Andres follows annually."
+    }
+  ],
+  "episode_summary": "In this episode, Andres Bustamante shares his journey from a 19-year-old leasing agent to a top-producing REALTOR in Austin, Texas. He discusses the power of leasing as a gateway to sales, the importance of building a personal brand through social media, and how discipline and a strong morning routine are crucial for success in real estate. Andres also emphasizes the value of networking and mentorship in accelerating one's career.",
+  "_metadata": {
+    "source_file": "2023-02-21_item274_Andres-Bustamante",
+    "analyzed_at": "2026-01-29T17:14:24.973852",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

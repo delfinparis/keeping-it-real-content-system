@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:03",
+      "end_timestamp": "09:45",
+      "quote": "If you take that same $15,000 and have the seller buy the rate down for the client... their payment would drop four to $500 a month.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable tactic to reduce monthly payments significantly.",
+      "suggested_hook": "Want to save your clients hundreds on their mortgage payments?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to save your clients hundreds on their mortgage payments?\",\n    \"SETUP\": \"Joel Schaub shares a game-changing strategy for real estate agents looking to provide value to their clients.\",\n    \"INSIGHT\": \"If you take that same $15,000 and have the seller buy the rate down for the client, their payment would drop four to $500 a month.\",\n    \"REFRAME/APPLICATION\": \"This tactic not only makes homes more affordable but also strengthens your client relationships by offering real savings.\",\n    \"CTA\": \"Consider this strategy for your next deal and watch your client satisfaction soar. Ready to make a difference?\"\n  },\n  \"CAPTION\": \"Help clients save big on their mortgage payments with this simple tactic! 💰🏠\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageSavings\", \"#CreativeFinancing\", \"#ClientSuccess\", \"#RealEstateAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "If you're not doing something, you're doing nothing... partner with a mortgage person.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages proactive engagement and partnership in a challenging market.",
+      "suggested_hook": "Are you leveraging partnerships to grow your real estate business?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you leveraging partnerships to grow your real estate business?\",\n    \"SETUP\": \"In today's challenging market, standing still is not an option. Joel Schaub shares why partnerships are key.\",\n    \"INSIGHT\": \"Joel emphasizes, 'If you're not doing something, you're doing nothing... partner with a mortgage person.' This mindset shift can unlock new opportunities.\",\n    \"REFRAME/APPLICATION\": \"By collaborating with mortgage experts, you can offer creative financing solutions and stay ahead in the market.\",\n    \"CTA\": \"Think about your current partnerships. Are they helping you grow? Start a conversation with a mortgage expert today.\"\n  },\n  \"social_media\": {\n    \"CAPTION\": \"Partnerships are the key to thriving in real estate. Are you making the right connections?\",\n    \"HASHTAGS\": [\"#RealEstateGrowth\", \"#PartnershipPower\", \"#MortgageStrategies\", \"#MarketTrends\", \"#ProactiveRealEstate\"],\n    \"CONTENT_PILLAR\": \"top_producer_secrets\"\n  }\n}\n```"
+  }
+]

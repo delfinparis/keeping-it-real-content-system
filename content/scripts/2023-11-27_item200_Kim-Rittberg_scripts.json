@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:14:10",
+      "end_timestamp": "00:14:42",
+      "quote": "Always film B-roll footage. It's hard for someone to know what is this restaurant, where is it, what's it like, what's cool about it?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of B-roll in storytelling, a key aspect often overlooked by beginners.",
+      "suggested_hook": "Want to make your videos more engaging? Don't skip this crucial step!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"(0:00-0:08) Want to make your videos more engaging? Don't skip this crucial step!\",\n    \"SETUP\": \"(0:08-0:18) Kim Rittberg shares why B-roll footage is the secret weapon in storytelling that many beginners overlook.\",\n    \"INSIGHT\": \"(0:18-0:40) Always film B-roll footage. It's hard for someone to know what is this restaurant, where is it, what's it like, what's cool about it? B-roll fills in those gaps, making your story richer and more relatable.\",\n    \"REFRAME/APPLICATION\": \"(0:40-0:52) B-roll isn't just filler; it's the context that brings your main footage to life. Use it to showcase the essence of your subject.\",\n    \"CTA\": \"(0:52-0:60) Ready to elevate your video content? Start planning your B-roll shots today and see the difference!\"\n  },\n  \"CAPTION\": \"B-roll is the secret sauce to engaging videos. Are you using it effectively? #VideoTips\",\n  \"HASHTAGS\": [\"#VideoContent\", \"#Storytelling\", \"#RealEstateTips\", \"#BRoll\", \"#ContentCreation\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\"\n}\n```"
+  }
+]

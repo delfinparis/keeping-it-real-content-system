@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Lifestyle consulting in real estate",
+    "Negotiation strategies",
+    "Market challenges with interest rates",
+    "Client management and psychology",
+    "Marketing tactics for REALTORS"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Clients hesitant to sell due to low locked-in interest rates",
+      "solution_summary": "Discuss lifestyle goals and long-term benefits beyond financial calculations.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Ineffective negotiation tactics",
+      "solution_summary": "Research client and opposing party's personality to tailor negotiation approach.",
+      "timestamp": "11:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced negotiation strategies and client management insights.",
+      "key_takeaway": "Understanding client psychology and tailoring negotiation tactics can enhance deal success."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical marketing and client engagement strategies to boost business.",
+      "key_takeaway": "Sending personalized market reports can re-engage past clients and generate leads."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:05",
+      "end_timestamp": "06:00",
+      "quote": "You have a choice. You could either keep the big house with your 1.875% interest rate or start living the life that you want.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional focus on financials by highlighting lifestyle priorities.",
+      "suggested_hook": "Are you letting low interest rates dictate your life choices?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Research client and opposing party's personality for negotiations.",
+      "context": "Use online profiles and professional backgrounds to tailor negotiation strategies.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Send personalized market reports to clients.",
+      "context": "Mail a printed report and follow up with an email to engage clients.",
+      "timestamp": "29:00"
+    }
+  ],
+  "quotable_insights": [
+    "As REALTORS, we become consultants to our clients, focusing on their lifestyle and long-term goals."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "RealGeeks.com",
+      "context": "Recommended as a technology partner for REALTORS to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the importance of viewing real estate agents as lifestyle consultants, emphasizing the need to understand client psychology and motivations. She shares advanced negotiation strategies and marketing tactics, such as sending personalized market reports, to enhance client engagement and business growth.",
+  "_metadata": {
+    "source_file": "2023-02-20_item275_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T17:13:42.767619",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

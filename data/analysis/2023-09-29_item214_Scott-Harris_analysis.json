@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Scott Harris",
+    "title": "Team Leader",
+    "company": "Harris Residential Team of Brown Harris Stevens",
+    "production_level": "Billion dollar producer",
+    "specialty": "Residential real estate",
+    "location": "New York City, covering Manhattan and Brooklyn"
+  },
+  "main_topics": [
+    "Building client relationships",
+    "Mindset and emotional management",
+    "Providing value beyond transactions",
+    "Handling competition in real estate",
+    "Storytelling in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Managing stress and emotions during transactions",
+      "solution_summary": "Create a calm environment and avoid making decisions when stressed; take time to process emotions before responding.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Stay in touch with clients by celebrating anniversaries and providing ongoing value.",
+      "timestamp": "58:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a competitive market",
+      "solution_summary": "Focus on caring for clients and creating win-win situations, rather than viewing other agents as competition.",
+      "timestamp": "40:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a successful real estate business through client care and emotional intelligence.",
+      "key_takeaway": "Success in real estate is driven by genuine care for clients and managing one's mindset effectively."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Scott shares strategies for leading a team and maintaining high performance through storytelling and client engagement.",
+      "key_takeaway": "Empower your team with stories of success and challenges to foster learning and growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:30",
+      "quote": "Sometimes doing nothing today is doing something.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that immediate action is always necessary, highlighting the power of patience.",
+      "suggested_hook": "Why doing nothing can sometimes be the best decision in real estate."
+    },
+    {
+      "timestamp": "40:00",
+      "end_timestamp": "41:00",
+      "quote": "I actually don't think of everyone as competition.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the common competitive mindset in real estate, promoting collaboration.",
+      "suggested_hook": "Why your fellow agents aren't your competition."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Reach out to clients with no expectation of return.",
+      "context": "Build relationships by providing value and support, even when there's no immediate transaction.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Use storytelling to engage clients.",
+      "context": "Share personal success stories and case studies to make market data relatable.",
+      "timestamp": "52:00"
+    }
+  ],
+  "quotable_insights": [
+    "You can't be afraid and curious at the same time.",
+    "Caring wins the game most of the time."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Ed Mylett Podcast",
+      "context": "Referenced for insights on believing in clients and seeing their potential."
+    },
+    {
+      "type": "book",
+      "name": "The Millionaire Real Estate Agent",
+      "context": "Mentioned as a source of language for cultivating referrals."
+    }
+  ],
+  "episode_summary": "In this episode, Scott Harris shares his approach to building a successful real estate business through genuine client care and emotional intelligence. He discusses the importance of managing stress, maintaining client relationships post-transaction, and using storytelling to engage clients. Scott also offers a contrarian view on competition, emphasizing collaboration and win-win solutions.",
+  "_metadata": {
+    "source_file": "2023-09-29_item214_Scott-Harris",
+    "analyzed_at": "2026-01-29T17:54:51.908219",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

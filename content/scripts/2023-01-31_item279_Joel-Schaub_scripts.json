@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "07:10",
+      "end_timestamp": "08:00",
+      "quote": "If the rates dropped by 200 basis points tomorrow, think about how much competition is now flooding that same market.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential market shift and urgency to act now.",
+      "suggested_hook": "Why waiting for lower rates might backfire on homebuyers."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"What if waiting for lower rates could actually cost you your dream home?\",\n    \"SETUP\": \"Joel Schaub explains how a sudden drop in interest rates could flood the market with competition. Here's why you should care.\",\n    \"INSIGHT\": \"If rates dropped by 200 basis points tomorrow, the influx of buyers would be immense. This surge in demand could drive prices up, making it harder to secure a home.\",\n    \"REFRAME/APPLICATION\": \"Understanding this dynamic is crucial. Acting now, rather than waiting, might just give you the competitive edge you need.\",\n    \"CTA\": \"Think about your strategy: Are you prepared for a market shift? Discuss with your loan officer today.\"\n  },\n  \"CAPTION\": \"Waiting for lower rates? It might backfire. Discover why acting now could be your best move. #RealEstateAdvice\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#HomeBuying\",\n    \"#MarketTrends\",\n    \"#InterestRates\",\n    \"#HomeBuyingTips\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:20",
+      "end_timestamp": "19:00",
+      "quote": "If you can take off your selling shoes, put on your education and helping shoes, you're going to grow your business.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a shift from selling to educating, which can resonate with many agents.",
+      "suggested_hook": "The secret to growing your real estate business in 2023."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to unlock the secret to skyrocketing your real estate business in 2023?\",\n    \"SETUP\": \"Joel Schaub shares a game-changing mindset shift for real estate agents. It's not just about selling anymore.\",\n    \"INSIGHT\": \"If you can take off your selling shoes, put on your education and helping shoes, you're going to grow your business. This approach resonates with clients and builds trust.\",\n    \"REFRAME/APPLICATION\": \"By focusing on educating clients about market trends and loan options, you position yourself as a valuable resource, not just a salesperson.\",\n    \"CTA\": \"Start today: How can you educate your clients better? Share your thoughts in the comments!\"\n  },\n  \"CAPTION\": \"Shift from selling to educating and watch your business grow! 🎓🏡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientEducation\", \"#BusinessGrowth\", \"#RealEstateAgent\", \"#MarketTrends\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\"\n}\n```"
+  }
+]

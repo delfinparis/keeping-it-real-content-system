@@ -1,0 +1,87 @@
+{
+  "guest_info": {
+    "name": "Russ Cofano",
+    "title": "CEO",
+    "company": "Colabra Technology",
+    "production_level": null,
+    "specialty": "Digital marketing technology and analytics",
+    "location": null
+  },
+  "main_topics": [
+    "Digital marketing for real estate agents",
+    "Sphere Builder platform",
+    "Importance of digital presence",
+    "Measuring social media effectiveness",
+    "Agent recruitment and retention"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents struggle with effective digital marketing",
+      "solution_summary": "Sphere Builder provides a measurable score and prescriptive advice to improve digital presence.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Real estate industry losing search battle to portals",
+      "solution_summary": "Agents should focus on building a digital sphere of influence to maintain local expertise.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance digital marketing, crucial for scaling business.",
+      "key_takeaway": "Building a strong digital presence can significantly increase your market share and production."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights into tools that can help team members improve their online branding.",
+      "key_takeaway": "Utilizing Sphere Builder can help team members align their digital marketing efforts with top producers."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "40:57",
+      "end_timestamp": "41:30",
+      "quote": "The best and most sustainable businesses in real estate operate off those word of mouth referrals and repeat business.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Emphasizes the enduring value of referrals in real estate.",
+      "suggested_hook": "Want to know the secret to a sustainable real estate business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a Google Business Profile",
+      "context": "Essential for improving search visibility and digital credibility.",
+      "timestamp": "47:13"
+    },
+    {
+      "tactic": "Consistent social media engagement",
+      "context": "Regularly update and engage on chosen platforms to build a digital sphere.",
+      "timestamp": "44:04"
+    }
+  ],
+  "quotable_insights": [
+    "Your network is your net worth, and the digital sphere can exponentially expand it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "spherebuilder.io",
+      "context": "Platform for measuring and improving digital marketing for real estate agents."
+    },
+    {
+      "type": "white paper",
+      "name": "Digital Marketing Use Cases for Real Estate Agents",
+      "context": "Provides insights into successful digital marketing strategies."
+    }
+  ],
+  "episode_summary": "In this episode, Russ Cofano discusses the importance of digital marketing for real estate agents and introduces Sphere Builder, a platform that helps agents measure and improve their online presence. By focusing on building a digital sphere of influence, agents can enhance their market share and production, moving beyond traditional lead generation strategies.",
+  "_metadata": {
+    "source_file": "2023-03-31_item262_Russ-Cofano",
+    "analyzed_at": "2026-01-29T17:21:56.819371",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

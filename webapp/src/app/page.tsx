@@ -480,7 +480,7 @@ Let me know what you think after listening!`}
             Where are you stuck?
           </h1>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto text-center">
-            500+ top producers have solved your problem. Let's find who.
+            Your biggest real estate agent problems have already been solved.
           </p>
 
           {/* Mode Toggle - Mobile Optimized */}

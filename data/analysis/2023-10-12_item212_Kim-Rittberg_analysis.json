@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Social Media Expert",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video Marketing",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of being on camera",
+    "Strategies for creating video content",
+    "Overcoming camera shyness",
+    "Using Instagram Stories for practice",
+    "Building personal brand through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Fear of being on camera",
+      "solution_summary": "Shift mindset from 'supermodel mode' to 'teacher mode' and focus on the message rather than appearance.",
+      "timestamp": "04:04"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of engagement from video content",
+      "solution_summary": "Develop a strategy for video content that connects with the ideal client and consistently show up on camera.",
+      "timestamp": "02:29"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with confidence on camera and need to build their personal brand.",
+      "key_takeaway": "Start with Instagram Stories to practice being on camera in a low-pressure environment."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may be creating content but not seeing results.",
+      "key_takeaway": "Having a clear strategy and understanding your audience can significantly improve engagement and lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:07",
+      "end_timestamp": "12:25",
+      "quote": "Showing up on camera is worth it. His other videos like the home tours were getting seen a hundred times, and this video is getting seen several thousand times.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the tangible benefits of overcoming camera shyness and the impact on business visibility.",
+      "suggested_hook": "Want to boost your video views from hundreds to thousands? Here's how showing up on camera can transform your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Instagram Stories to practice being on camera.",
+      "context": "Start with low-pressure, temporary content to build confidence.",
+      "timestamp": "06:13"
+    },
+    {
+      "tactic": "Conduct interviews to create engaging video content.",
+      "context": "Plan interviews carefully to ensure they are focused and engaging.",
+      "timestamp": "10:52"
+    }
+  ],
+  "quotable_insights": [
+    "Hiding from the camera means hiding from clients.",
+    "Get out of supermodel mode and into teacher mode."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Boot Camp",
+      "context": "A seven-week live coaching program to help agents get confident on camera and develop a video strategy."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of being on camera for real estate agents to build their personal brand and generate leads. She provides practical strategies for overcoming camera shyness, such as using Instagram Stories for practice and shifting mindset from appearance-focused to message-focused. The episode also highlights the benefits of a strategic approach to video content creation.",
+  "_metadata": {
+    "source_file": "2023-10-12_item212_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:56:09.910976",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
