@@ -489,17 +489,9 @@ Let me know what you think after listening!`}
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">
             Where are you stuck?
           </h1>
-          <p className="text-xl text-blue-100 mb-6 max-w-2xl mx-auto text-center">
+          <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto text-center">
             500+ top producers have already solved your biggest problems.
           </p>
-
-          {/* Stats Bar */}
-          <div className="flex justify-center mb-8">
-            <div className="bg-white/10 backdrop-blur-sm rounded-full px-6 py-2 flex items-center gap-2">
-              <span className="text-2xl font-bold text-white">1,459</span>
-              <span className="text-blue-100 text-sm">Agent Solutions</span>
-            </div>
-          </div>
 
           {/* Mode Toggle - Mobile Optimized */}
           <div className="flex flex-col sm:flex-row justify-center gap-2 sm:space-x-2 mb-8">
@@ -653,7 +645,7 @@ Let me know what you think after listening!`}
       <div className="bg-gray-50 border-y border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <p className="text-center text-gray-500 text-sm uppercase tracking-wider mb-8">Trusted by real estate professionals worldwide</p>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-6 text-center">
             <div className="p-4">
               <div className="text-3xl md:text-4xl font-bold text-kale">8M+</div>
               <div className="text-gray-500 mt-1 text-sm">Downloads</div>
@@ -669,6 +661,10 @@ Let me know what you think after listening!`}
             <div className="p-4">
               <div className="text-3xl md:text-4xl font-bold text-kale">595</div>
               <div className="text-gray-500 mt-1 text-sm">Episodes Analyzed</div>
+            </div>
+            <div className="p-4 col-span-2 md:col-span-1">
+              <div className="text-3xl md:text-4xl font-bold text-kale">1,459</div>
+              <div className="text-gray-500 mt-1 text-sm">Agent Solutions</div>
             </div>
           </div>
         </div>
