@@ -491,7 +491,7 @@ Let me know what you think after listening!`}
             Where are you stuck?
           </h1>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto text-center">
-            Your biggest real estate agent problems have already been solved.
+            500+ top producers have already solved your biggest problems.
           </p>
 
           {/* Mode Toggle - Mobile Optimized */}
