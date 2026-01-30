@@ -19,7 +19,7 @@ export interface WizardStep {
 export const STEP_1_CORE_STRUGGLES: WizardStep = {
   id: "core_struggle",
   title: "What's the #1 thing holding you back?",
-  subtitle: "Pick the one that fits best",
+  subtitle: "",
   options: [
     {
       id: "more_business",
