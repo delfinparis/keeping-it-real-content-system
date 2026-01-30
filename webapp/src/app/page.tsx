@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { PROBLEM_CATEGORIES, AVATARS } from "@/lib/types";
 import ProblemWizard from "@/components/ProblemWizard";
 import Footer from "@/components/Footer";
@@ -476,6 +477,16 @@ Let me know what you think after listening!`}
             {/* Hero Section */}
       <div className="bg-gradient-kale text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          {/* Podcast Logo */}
+          <div className="flex justify-center mb-6">
+            <Image
+              src="/kir-logo.jpg"
+              alt="Keeping It Real Podcast"
+              width={120}
+              height={120}
+              className="rounded-2xl shadow-lg"
+            />
+          </div>
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">
             Where are you stuck?
           </h1>
