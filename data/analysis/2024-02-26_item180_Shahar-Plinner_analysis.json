@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Shahar Plinner",
+    "title": "Entrepreneur and Tax Expert",
+    "company": "Formations Corp",
+    "production_level": null,
+    "specialty": "Tax management solutions for self-employed individuals, particularly real estate agents",
+    "location": "Seattle, Silicon Valley, Tel Aviv"
+  },
+  "main_topics": [
+    "Tax savings for real estate agents",
+    "Benefits of incorporating as an S-Corp",
+    "Financial planning and expense management",
+    "Retirement savings strategies",
+    "Common tax mistakes and solutions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "High tax liabilities for 1099 real estate agents",
+      "solution_summary": "Incorporate as an S-Corp to save on self-employment taxes and utilize retirement savings accounts for additional tax benefits.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Co-mingling of personal and business funds",
+      "solution_summary": "Set up separate business accounts and use accounting software to track expenses accurately.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to maximize income retention through tax savings.",
+      "key_takeaway": "Incorporating as an S-Corp can significantly reduce tax liabilities and increase take-home pay."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn foundational financial management strategies to start their careers on the right foot.",
+      "key_takeaway": "Understanding and implementing proper tax structures early can lead to substantial long-term savings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:30",
+      "end_timestamp": "21:15",
+      "quote": "Just moving into an S-Corp structure can save you 15% on self-employment taxes.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights a significant financial benefit that can capture attention.",
+      "suggested_hook": "Are you leaving money on the table by not incorporating?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set up a single-member LLC and elect S-Corp status for tax savings.",
+      "context": "For real estate agents earning over $80,000 annually.",
+      "timestamp": "18:00"
+    },
+    {
+      "tactic": "Use accounting software to manage business expenses.",
+      "context": "To maintain accurate financial records and simplify tax filing.",
+      "timestamp": "27:00"
+    }
+  ],
+  "quotable_insights": [
+    "Treat your real estate business like a business by incorporating and managing your finances strategically."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "FormationsCorp.com",
+      "context": "Recommended for real estate agents to explore tax management solutions."
+    }
+  ],
+  "episode_summary": "In this episode, tax expert Shahar Plinner discusses how real estate agents can save significant amounts on taxes by incorporating as an S-Corp. He emphasizes the importance of financial planning, proper expense management, and leveraging retirement savings accounts. Shahar also highlights common tax mistakes and provides actionable solutions to optimize financial health for self-employed individuals.",
+  "_metadata": {
+    "source_file": "2024-02-26_item180_Shahar-Plinner",
+    "analyzed_at": "2026-01-29T18:21:05.706433",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

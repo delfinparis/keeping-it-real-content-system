@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Kina De Santis",
+    "title": "Founder and Owner",
+    "company": "Reframe",
+    "production_level": "$200M+ producer",
+    "specialty": "Social media-driven real estate sales",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Social media marketing for real estate",
+    "High-touch client service",
+    "Building a real estate team",
+    "Leveraging virtual assistants",
+    "Agile business processes"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media",
+      "solution_summary": "Post daily content that provides value and answers common questions potential clients have.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining high-touch service while scaling",
+      "solution_summary": "Implement virtual assistants to handle repetitive tasks and maintain a repository of resources for common client questions.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a personal brand on social media",
+      "solution_summary": "Be authentic and provide educational content that resonates with your audience.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on scaling a real estate business through social media and high-touch service.",
+      "key_takeaway": "Focus on providing value through content and maintain a high level of client service to grow your business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Kina discusses building and managing a team with a focus on agility and high-touch service.",
+      "key_takeaway": "Use agile processes and virtual assistants to support your team and maintain service quality."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:00",
+      "end_timestamp": "16:45",
+      "quote": "If I can just provide value, people will just show up at my door.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the power of value-driven content in attracting clients.",
+      "suggested_hook": "Want clients to come to you? Here's how providing value can make that happen."
+    },
+    {
+      "timestamp": "20:00",
+      "end_timestamp": "20:45",
+      "quote": "We want to be a REALTOR for life, even if you never buy and sell again.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the importance of building lasting relationships with clients.",
+      "suggested_hook": "Building lifelong relationships in real estate: Here's why it matters."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Post daily educational content on social media.",
+      "context": "To build a following and generate leads.",
+      "timestamp": "15:30"
+    },
+    {
+      "tactic": "Use virtual assistants to handle repetitive tasks.",
+      "context": "To maintain high-touch service while scaling your business.",
+      "timestamp": "10:30"
+    },
+    {
+      "tactic": "Create a repository of resources for common client questions.",
+      "context": "To quickly address client inquiries and save time.",
+      "timestamp": "11:00"
+    }
+  ],
+  "quotable_insights": [
+    "If I can just provide value, people will just show up at my door.",
+    "We want to be a REALTOR for life, even if you never buy and sell again."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KeepingItRealWebinar.com",
+      "context": "For signing up for the upcoming Keeping It Real Live webinar."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "As a technology partner for generating more business."
+    }
+  ],
+  "episode_summary": "In this episode, Kina De Santis shares her journey from a tech background to becoming a top-producing real estate agent through the power of social media. She discusses the importance of providing value-driven content, maintaining high-touch client service, and leveraging virtual assistants to scale her business. Listeners will gain insights into building a personal brand and creating lasting client relationships.",
+  "_metadata": {
+    "source_file": "2024-12-30_item102_Kina-De-Santis",
+    "analyzed_at": "2026-01-29T19:03:04.972252",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

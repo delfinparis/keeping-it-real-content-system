@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Lisa Troyano Ascolese",
+    "title": "Broker Owner",
+    "company": "Engel and Völkers Hoboken and Jersey City",
+    "production_level": "Tripled production in five years",
+    "specialty": "Agent development and real estate entrepreneurship",
+    "location": "Hoboken and Jersey City, New Jersey"
+  },
+  "main_topics": [
+    "Agent development and mentorship",
+    "Market conditions and predictions",
+    "Brokerage operations and challenges",
+    "Marketing strategies for real estate",
+    "Commission structures and industry changes"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory and high interest rates",
+      "solution_summary": "Focus on relationships with attorneys and retirement communities to find clients who need to move.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Utilize social media and video marketing to create a unique personal brand.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Commission pressure and industry lawsuits",
+      "solution_summary": "Be transparent with clients about commission structures and provide clear value propositions.",
+      "timestamp": "37:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Lisa's insights on tripling production and agent development are directly applicable.",
+      "key_takeaway": "Focus on mentorship and building strong relationships to enhance production."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discussion on brokerage operations and agent training is crucial for team leaders.",
+      "key_takeaway": "Implement structured mentorship programs to support agent growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:30",
+      "end_timestamp": "10:15",
+      "quote": "If we just see a five, I think we would have like a wild spring.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the potential market shift with interest rate changes.",
+      "suggested_hook": "Could a slight dip in interest rates ignite the real estate market?"
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "Find a way that you can create a platform for yourself where you stand out.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Encourages agents to leverage their unique strengths in marketing.",
+      "suggested_hook": "How can you stand out in a saturated real estate market?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop relationships with attorneys and retirement communities.",
+      "context": "To find clients who need to move due to life changes.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Use video marketing to enhance personal branding.",
+      "context": "Create engaging content that highlights your expertise and market knowledge.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "You're never safe when you work for someone else.",
+    "Transparency in commissions builds trust with clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Re-staged",
+      "context": "Lisa's mobile staging app to help with furniture waste."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Lisa Troyano Ascolese shares her journey of tripling production at her brokerages and offers insights into agent development and mentorship. She discusses current market challenges, including low inventory and high interest rates, and emphasizes the importance of building strong relationships and leveraging social media for personal branding. Lisa also addresses industry changes in commission structures and the need for transparency with clients.",
+  "_metadata": {
+    "source_file": "2024-02-07_item185_Lisa-Troyano-Ascolese",
+    "analyzed_at": "2026-01-29T18:17:40.076025",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Cole Jarvis",
+    "title": "Social Media Strategist",
+    "company": "Jarvis Media",
+    "production_level": null,
+    "specialty": "Social media strategies for real estate agents",
+    "location": "Upstate New York"
+  },
+  "main_topics": [
+    "Effective social media strategies for REALTORS",
+    "Content creation and branding",
+    "Leveraging paid advertising with organic content",
+    "Choosing the right social media platform",
+    "Measuring social media success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "REALTORS thinking their social media content needs to be perfect",
+      "solution_summary": "Focus on creating helpful content consistently rather than perfect content.",
+      "timestamp": "09:13"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in standing out on social media",
+      "solution_summary": "Create niche, value-driven content that answers specific questions potential clients might have.",
+      "timestamp": "31:28"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Understanding which social media platform to focus on",
+      "solution_summary": "Focus on the platform you are most comfortable with and where your audience spends time.",
+      "timestamp": "26:29"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to improve social media presence and engagement.",
+      "key_takeaway": "Consistency and authenticity in content can build a strong personal brand."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into leveraging social media for greater reach and influence.",
+      "key_takeaway": "Combining organic content with paid strategies can maximize visibility and engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "34:04",
+      "end_timestamp": "34:40",
+      "quote": "Replace the word algorithm with audience. Say no, my audience didn't like it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It reframes how agents should view social media performance.",
+      "suggested_hook": "Are you blaming the algorithm for poor engagement? Think again."
+    },
+    {
+      "timestamp": "50:03",
+      "end_timestamp": "50:18",
+      "quote": "If you do anything once a day for long enough, you'll build a habit.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages consistency and habit-building in content creation.",
+      "suggested_hook": "Want to master social media? Start with this simple habit."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create short-form video content daily.",
+      "context": "To build a habit and improve content quality over time.",
+      "timestamp": "50:03"
+    },
+    {
+      "tactic": "Use a hybrid strategy of organic and paid content.",
+      "context": "To increase reach and target specific audiences more effectively.",
+      "timestamp": "57:47"
+    }
+  ],
+  "quotable_insights": [
+    "Your social media strategy is not about catching lightning in a bottle; it's about trial and error.",
+    "The more granular you can go with your content, the better."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Jarvis Media",
+      "context": "Cole's company that helps REALTORS with social media strategies."
+    },
+    {
+      "type": "tool",
+      "name": "Meta Business Suite",
+      "context": "For tracking social media performance metrics."
+    }
+  ],
+  "episode_summary": "In this episode, Cole Jarvis shares insights on optimizing social media strategies for real estate agents. He emphasizes the importance of creating consistent, value-driven content and leveraging both organic and paid strategies to maximize reach. Cole also discusses the significance of choosing the right platform and measuring success through key performance indicators.",
+  "_metadata": {
+    "source_file": "2024-11-15_item114_Cole-Jarvis",
+    "analyzed_at": "2026-01-29T18:56:24.587166",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

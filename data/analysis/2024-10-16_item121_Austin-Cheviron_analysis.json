@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Austin Cheviron",
+    "title": "Coach, Trainer, and Speaker",
+    "company": "Cheviron Coaching",
+    "production_level": "Top agent in Indiana",
+    "specialty": "Real estate coaching and team leadership",
+    "location": "Indiana"
+  },
+  "main_topics": [
+    "Vision and goal setting",
+    "Time management and productivity",
+    "Financial management and wealth building",
+    "Real estate team leadership",
+    "Personal development and mindset"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of vision leading to stagnation",
+      "solution_summary": "Develop a clear vision and defend it to guide decision-making and maintain focus.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing work and family life",
+      "solution_summary": "Set boundaries such as fixed work hours and prioritize family time to maintain balance.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Ineffective financial management",
+      "solution_summary": "Implement a system to allocate income into specific buckets for taxes, investments, and expenses.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to climb from the bottom to the top in real estate.",
+      "key_takeaway": "Having a clear vision and defending it is crucial for achieving high levels of success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights into building and managing a successful real estate team.",
+      "key_takeaway": "Focus on training and empowering team members to achieve high productivity with low expenses."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I'll be home at five o'clock every night for dinner, no matter what.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical example of setting boundaries to balance work and family life.",
+      "suggested_hook": "How setting strict boundaries can transform your work-life balance."
+    },
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:00",
+      "quote": "Work less, take care of it more. You don't have to spend all the time you guys do.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the notion that more work equals more success, emphasizing smarter financial management.",
+      "suggested_hook": "Why working less could actually make you more successful."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Track daily financials for 15 minutes",
+      "context": "To maintain awareness and control over personal finances.",
+      "timestamp": "48:00"
+    },
+    {
+      "tactic": "Set fixed work hours and communicate them",
+      "context": "To create boundaries and ensure time for family.",
+      "timestamp": "15:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you do what is easy, life will be hard. If you do what is hard, life will become easy.",
+    "Business is easy; life is hard. Your life gets in the way of your business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Getting Things Done",
+      "context": "Recommended for improving productivity and managing tasks."
+    }
+  ],
+  "episode_summary": "Austin Cheviron shares his journey from welfare to becoming a top real estate agent by developing a clear vision and setting strict boundaries. He emphasizes the importance of financial management and offers practical tips for balancing work and family life. The episode provides actionable insights for real estate agents at all levels, focusing on personal development and effective team leadership.",
+  "_metadata": {
+    "source_file": "2024-10-16_item121_Austin-Cheviron",
+    "analyzed_at": "2026-01-29T18:51:32.253869",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

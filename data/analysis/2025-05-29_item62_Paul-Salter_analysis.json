@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": "",
+    "production_level": "",
+    "specialty": "Mindset coaching using hypnosis",
+    "location": ""
+  },
+  "main_topics": [
+    "Mindset and identity transformation",
+    "Overcoming self-sabotage",
+    "Asking the right questions for growth",
+    "Developing successful habits",
+    "Improving self-talk and beliefs"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Over-fixation on goals without identity transformation",
+      "solution_summary": "Focus on who you need to become rather than just what you need to do.",
+      "timestamp": "09:39"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Self-sabotaging behaviors",
+      "solution_summary": "Identify and dismantle both obvious and subtle sabotaging behaviors.",
+      "timestamp": "17:02"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Asking the wrong questions",
+      "solution_summary": "Shift from problem-focused to solution-focused questions.",
+      "timestamp": "21:36"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights into why they might be plateauing in their career.",
+      "key_takeaway": "To achieve higher success, focus on evolving your identity and mindset."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode offers strategies to break through to the next level of income.",
+      "key_takeaway": "Identify and adopt the habits and mindset of top producers."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:39",
+      "end_timestamp": "10:04",
+      "quote": "The real question is this, who do you need to become to afford this house?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges listeners to rethink their approach to achieving goals.",
+      "suggested_hook": "Are you asking the right questions about your success?"
+    },
+    {
+      "timestamp": "21:36",
+      "end_timestamp": "22:27",
+      "quote": "The quality of your questions determines the quality of your life.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This quote encapsulates a powerful concept that can inspire immediate reflection.",
+      "suggested_hook": "Want to change your life? Start by changing your questions."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set a timer for 20 minutes to reflect on key questions about your identity and goals.",
+      "context": "Use this exercise to gain clarity on who you need to become.",
+      "timestamp": "26:06"
+    },
+    {
+      "tactic": "Audit your self-talk and replace negative language with empowering words.",
+      "context": "Improve your self-talk to boost your energy and motivation.",
+      "timestamp": "16:06"
+    }
+  ],
+  "quotable_insights": [
+    "You can't change unless you change.",
+    "Your income and impact haven't changed because you haven't changed."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Be Your Best Self Only Better by Mike Baer",
+      "context": "Recommended for its exercise on identity transformation."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter introduces a new series focused on identity transformation for real estate success. He emphasizes the importance of evolving one's identity, improving self-talk, and asking the right questions to overcome self-sabotage and achieve higher levels of success. Listeners are encouraged to focus on who they need to become rather than just what they need to do.",
+  "_metadata": {
+    "source_file": "2025-05-29_item62_Paul-Salter",
+    "analyzed_at": "2026-01-29T19:26:15.678698",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Brad Boeye",
+    "title": "Principal",
+    "company": "Bicell Build QC with Real Broker",
+    "production_level": "Top 1% of agents in the US",
+    "specialty": "Residential sales",
+    "location": "Quad Cities, Iowa and Illinois"
+  },
+  "main_topics": [
+    "Market trends and predictions for 2024",
+    "Importance of social media and branding",
+    "Strategies for maintaining client relationships",
+    "Navigating high interest rates and low inventory",
+    "Building a long-term career in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "High interest rates and low inventory",
+      "solution_summary": "Educate clients on historical interest rates and the benefits of buying now before rates drop and prices rise.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable brand",
+      "solution_summary": "Utilize social media consistently and create a logo that reflects your personal and family history in real estate.",
+      "timestamp": "29:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Staying top of mind with past clients",
+      "solution_summary": "Regularly engage with clients through social media, handwritten notes, and personal visits with gifts like plants.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on leveraging personal history and social media to build a strong brand.",
+      "key_takeaway": "Consistency in branding and client engagement can significantly boost your real estate career."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to overcome market challenges and maintain productivity.",
+      "key_takeaway": "Focus on educating clients about market conditions and use social media to stay relevant."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "My grandmother was the very first female broker in the Quad Cities area back in 1954.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a pioneering story that adds depth and credibility to Brad's real estate journey.",
+      "suggested_hook": "Discover the inspiring legacy behind a top real estate producer."
+    },
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "You can't control what you can't control, like interest rates and inventory.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on controllable aspects of their business.",
+      "suggested_hook": "How to thrive in real estate despite market challenges."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to maintain visibility",
+      "context": "Consistently post and engage on platforms like Facebook and Instagram to stay top of mind.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Host client appreciation events",
+      "context": "Organize annual events to strengthen relationships with past clients.",
+      "timestamp": "24:30"
+    },
+    {
+      "tactic": "Educate clients on market conditions",
+      "context": "Provide historical context on interest rates to help clients make informed decisions.",
+      "timestamp": "18:30"
+    }
+  ],
+  "quotable_insights": [
+    "Longevity in real estate means something; stick with it even during tough years.",
+    "Social media is like being in a coffee shop every day; people start to recognize and trust you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Apply Design",
+      "context": "Virtual staging solution for enhancing real estate listings."
+    }
+  ],
+  "episode_summary": "In this episode, Brad Boeye shares insights on navigating the 2024 real estate market, emphasizing the importance of social media and branding. He discusses strategies for maintaining client relationships and adapting to high interest rates and low inventory. Brad's rich family history in real estate and his personal journey offer valuable lessons for agents looking to build a long-term career.",
+  "_metadata": {
+    "source_file": "2024-02-23_item181_Brad-Boeye",
+    "analyzed_at": "2026-01-29T18:20:21.672917",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

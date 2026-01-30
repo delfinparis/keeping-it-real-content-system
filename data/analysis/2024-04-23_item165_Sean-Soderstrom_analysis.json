@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Sean Soderstrom",
+    "title": "Co-founder and CEO",
+    "company": "Courted.io",
+    "production_level": "Not mentioned",
+    "specialty": "Recruiting and retention platform for real estate agents",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Recruiting and retention in real estate",
+    "Predictive analytics for agent movement",
+    "Technology solutions for real estate teams",
+    "Agent data analysis and insights",
+    "Market trends in agent migration"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Time-consuming and expensive process of recruiting agents",
+      "solution_summary": "Using Courted.io to leverage data and predictive analytics to identify and recruit agents efficiently.",
+      "timestamp": "13:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "High turnover of real estate agents",
+      "solution_summary": "Courted.io provides insights into agent movement trends and helps brokerages retain talent by identifying agents likely to leave.",
+      "timestamp": "18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "This episode discusses tools and strategies for effectively recruiting and retaining team members.",
+      "key_takeaway": "Utilize data-driven insights to streamline the recruitment process and enhance team retention."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode highlights the importance of understanding market trends and leveraging technology for career growth.",
+      "key_takeaway": "Stay informed about industry trends and use technology to position yourself advantageously in the market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:45",
+      "end_timestamp": "18:30",
+      "quote": "One in four agents moving is significant... It's a very personal experience and the agent has so much leverage.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the high turnover rate in the industry and the importance of agent leverage.",
+      "suggested_hook": "Did you know that 25% of agents move brokerages each year?"
+    },
+    {
+      "timestamp": "39:00",
+      "end_timestamp": "39:45",
+      "quote": "Imagine what that would do to somebody's feeling of connection to their own brokerage.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the impact of personalized recognition on agent retention.",
+      "suggested_hook": "Want to keep your top agents loyal? Here's a simple strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use predictive analytics to identify agents likely to move.",
+      "context": "Apply this when looking to expand your team or retain current members.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Personalize communication based on agent performance data.",
+      "context": "Use this approach when reaching out to potential recruits or current agents.",
+      "timestamp": "27:00"
+    }
+  ],
+  "quotable_insights": [
+    "Recruiting can be a really good hedge against the slow market.",
+    "It's all about the agent, regardless of what happens with settlements and other things in the future."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Courted.io",
+      "context": "Recommended for recruiting and retaining real estate agents using data-driven insights."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Mentioned as a sponsor providing sales and marketing solutions for agents."
+    }
+  ],
+  "episode_summary": "In this episode, Sean Soderstrom discusses the challenges and solutions in recruiting and retaining real estate agents using his platform, Courted.io. The conversation highlights the importance of leveraging predictive analytics and data-driven insights to streamline recruitment processes and enhance agent retention. Sean shares valuable strategies for team leaders and brokerages to stay competitive in a rapidly evolving market.",
+  "_metadata": {
+    "source_file": "2024-04-23_item165_Sean-Soderstrom",
+    "analyzed_at": "2026-01-29T18:31:15.267397",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

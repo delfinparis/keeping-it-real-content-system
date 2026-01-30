@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Real Estate Technology Analyst and Director of Content",
+    "company": "Luxury Presence",
+    "production_level": null,
+    "specialty": "Real Estate Technology and Marketing",
+    "location": "Michigan"
+  },
+  "main_topics": [
+    "Importance of Business Websites",
+    "Video Marketing Strategies",
+    "Email Marketing Resurgence",
+    "Social Media Sentiment Decline",
+    "Marketing Budget Trends"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Social media no longer the top marketing tool for agents",
+      "solution_summary": "Business websites have become the most important marketing tool, offering dynamic content and user experience.",
+      "timestamp": "00:04:39"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Underutilization of video marketing",
+      "solution_summary": "Start simple with virtual tours and client testimonials; authenticity trumps high production value.",
+      "timestamp": "00:14:17"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Inadequate marketing budgets",
+      "solution_summary": "78% of agents increased their marketing budgets; consider investing more to stay competitive.",
+      "timestamp": "00:20:52"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Ineffective text message marketing",
+      "solution_summary": "Focus on email marketing for better consumer sentiment and effectiveness.",
+      "timestamp": "00:23:06"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents need to understand the shift in marketing priorities.",
+      "key_takeaway": "Focus on building a dynamic business website and using video marketing authentically."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can benefit from adjusting their marketing strategies.",
+      "key_takeaway": "Reassess marketing budgets and prioritize email over text message marketing."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:39",
+      "end_timestamp": "00:05:31",
+      "quote": "This year for the first time ever, real estate business websites were ranked as the most important marketing vehicle a real estate professional can have.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It challenges the conventional wisdom of social media dominance.",
+      "suggested_hook": "Did you know social media is no longer the top marketing tool for real estate agents?"
+    },
+    {
+      "timestamp": "00:14:17",
+      "end_timestamp": "00:15:02",
+      "quote": "Video content consistently performs better when it looks like it's filmed by a person and not by a video crew.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It encourages agents to embrace authenticity over high production value.",
+      "suggested_hook": "Think you need Hollywood-level videos to succeed in real estate marketing? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Utilize business websites for dynamic content and lead generation.",
+      "context": "Shift focus from social media to websites for a lasting brand presence.",
+      "timestamp": "00:04:39"
+    },
+    {
+      "tactic": "Start video marketing with simple, authentic content.",
+      "context": "Use your phone to create virtual tours and client testimonials.",
+      "timestamp": "00:14:17"
+    },
+    {
+      "tactic": "Increase marketing budgets to stay competitive.",
+      "context": "Consider investing more in marketing as 78% of agents have done.",
+      "timestamp": "00:20:52"
+    }
+  ],
+  "quotable_insights": [
+    "Authenticity is more important than production in video marketing.",
+    "Social media is becoming more of a means of funneling traffic to the website."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Luxury Presence",
+      "context": "Provides advanced business website capabilities for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the shifting landscape of real estate marketing, highlighting the rise of business websites as the primary marketing tool over social media. He emphasizes the importance of video marketing, the resurgence of email marketing, and the need for increased marketing budgets. The episode provides actionable insights for agents to adapt to these changes and enhance their marketing strategies.",
+  "_metadata": {
+    "source_file": "2024-08-30_item129_Chris-Linsell",
+    "analyzed_at": "2026-01-29T18:47:08.384481",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Jack Miller",
+    "title": "CEO",
+    "company": "T360",
+    "production_level": null,
+    "specialty": "Real estate consulting",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Value proposition in real estate",
+    "Impact of NAR settlement on agents",
+    "Dual career vs. single career agents",
+    "Commission trends",
+    "Brokerage models and profitability"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of NAR settlement on consumer perception",
+      "solution_summary": "Agents need to articulate their value to consumers more effectively.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Commission compression concerns",
+      "solution_summary": "Agents can increase their earnings by negotiating their value proposition and signing agreements upfront.",
+      "timestamp": "32:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "High turnover of dual career agents",
+      "solution_summary": "Focus on professionalism and maintaining a certain level of transactions to stay relevant.",
+      "timestamp": "23:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses how to articulate value and increase earnings.",
+      "key_takeaway": "Focus on demonstrating and communicating your value to clients to thrive in a changing market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on brokerage models and agent retention strategies.",
+      "key_takeaway": "Provide value-added services to support agents and improve retention."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "36:00",
+      "end_timestamp": "36:45",
+      "quote": "We're an economy and a people that will pay more to have the food delivered than we will for the food itself.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It highlights the importance of service over price.",
+      "suggested_hook": "Why service matters more than price in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use tools to track and report your value to clients.",
+      "context": "Implement tools like RAISE to show clients the time and effort you invest.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Focus on life events to identify potential clients.",
+      "context": "Target clients experiencing life changes like divorce or job relocation.",
+      "timestamp": "52:00"
+    }
+  ],
+  "quotable_insights": [
+    "Truth is on our side; we just have to get better about talking about it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RAISE",
+      "context": "Recommended for tracking and demonstrating the value of agent services."
+    },
+    {
+      "type": "website",
+      "name": "The Opportunity Report",
+      "context": "A comprehensive report on real estate industry trends and opportunities."
+    }
+  ],
+  "episode_summary": "Jack Miller, CEO of T360, discusses the importance of articulating value in real estate, the impact of the NAR settlement, and trends in commission and brokerage models. He emphasizes the need for agents to focus on life events to identify clients and to use tools to demonstrate their value. The episode provides actionable insights for agents to thrive in a changing market.",
+  "_metadata": {
+    "source_file": "2024-12-02_item109_Jack-Miller",
+    "analyzed_at": "2026-01-29T18:59:30.547215",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

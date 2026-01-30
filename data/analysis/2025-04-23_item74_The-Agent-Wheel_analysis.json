@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Kiki Palmer",
+    "title": "Real Estate Agent",
+    "company": "Kale Realty",
+    "production_level": "$2.3M in closed sales and under contract sales volume this year",
+    "specialty": "Transitioning from dual career to full-time real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Transitioning from dual career to full-time real estate",
+    "Lead generation strategies for listings",
+    "Time management and productivity",
+    "Building and managing a real estate database",
+    "Client care and follow-up systems"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Limited lead sources focusing mainly on SOI and referrals",
+      "solution_summary": "Develop multiple lead pipelines and leverage virtual assistants for cold calling",
+      "timestamp": "00:18:51"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured follow-up system for referrals",
+      "solution_summary": "Implement a system for asking and following up on referrals consistently",
+      "timestamp": "00:23:09"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Need for a structured approach to budgeting and financial tracking",
+      "solution_summary": "Use a red light/green light budget system and track ROI on lead sources",
+      "timestamp": "00:40:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode is relevant for agents looking to transition from part-time to full-time real estate.",
+      "key_takeaway": "Focus on diversifying lead sources and implementing structured systems for follow-up and referrals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:45:00",
+      "end_timestamp": "00:46:00",
+      "quote": "The consistency and the long play actually works.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of consistency in real estate success.",
+      "suggested_hook": "Why consistency is your secret weapon in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a virtual assistant for cold calling",
+      "context": "To overcome reluctance in making cold calls and expand lead generation efforts.",
+      "timestamp": "00:18:51"
+    },
+    {
+      "tactic": "Implement a red light/green light budget system",
+      "context": "To evaluate the effectiveness of lead generation expenditures and stop non-performing investments.",
+      "timestamp": "00:40:10"
+    }
+  ],
+  "quotable_insights": [
+    "Become their dream maker by knowing their dreams."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Ninja Selling",
+      "context": "Recommended for personal growth and improving real estate skills."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "For generating more business through effective lead conversion and CRM."
+    }
+  ],
+  "episode_summary": "This episode of 'Keeping It Real' features Kiki Palmer, a Chicago-based real estate agent, discussing her transition from a dual career to full-time real estate. The conversation focuses on lead generation strategies, time management, and building a robust client database. Coach Brent Scott provides actionable insights on improving productivity and profitability in real estate.",
+  "_metadata": {
+    "source_file": "2025-04-23_item74_The-Agent-Wheel",
+    "analyzed_at": "2026-01-29T19:19:28.534324",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

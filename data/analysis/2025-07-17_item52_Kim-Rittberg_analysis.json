@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach and Former Journalist",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content creation and PR strategies",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of press for real estate agents",
+    "Building relationships with local media",
+    "Types of stories agents should pitch",
+    "Leveraging social media for PR",
+    "Personal storytelling in PR"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to establish credibility and visibility in a crowded market",
+      "solution_summary": "Use press to gain visibility, differentiate yourself, and build authority by sharing expert tips and piggybacking on hot topics.",
+      "timestamp": "05:29"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to attract more clients through media exposure",
+      "solution_summary": "Get featured in local and national press by pitching expert advice and insights on current real estate trends.",
+      "timestamp": "16:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to increase visibility and credibility through press, which is crucial for top producers.",
+      "key_takeaway": "Leverage press to stand out in the market and attract more clients by sharing expert insights and personal stories."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:29",
+      "end_timestamp": "07:54",
+      "quote": "Press gives you that extra badge of honor as seen in local TV or written up on major platforms.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the value of press in building credibility and trust.",
+      "suggested_hook": "Want to stand out in the crowded real estate market? Here's how press can be your badge of honor."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Pitch expert tips and seasonal advice to local media outlets.",
+      "context": "Use this tactic to get featured in local press and build your authority.",
+      "timestamp": "15:39"
+    },
+    {
+      "tactic": "Piggyback on hot topics in the news to provide relevant insights.",
+      "context": "Apply this when there's a trending topic in real estate to become a go-to expert.",
+      "timestamp": "16:11"
+    }
+  ],
+  "quotable_insights": [
+    "Visibility, differentiation, and authority are the key benefits of getting press."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to convert leads and increase business."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "A recruiting tool that helps identify agents looking to move, enhancing recruitment strategies."
+    }
+  ],
+  "episode_summary": "This episode explores the importance of press in establishing credibility and visibility for real estate agents. Kim Rittberg discusses strategies for building media relationships and pitching stories that resonate with audiences. The episode provides actionable insights on leveraging press and social media to enhance personal branding and attract more clients.",
+  "_metadata": {
+    "source_file": "2025-07-17_item52_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:32:26.216152",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

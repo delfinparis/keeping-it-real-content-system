@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Lisa K. Lippman",
+    "title": "Top Producer",
+    "company": "Brown Harris Stevens",
+    "production_level": "$300M+ producer",
+    "specialty": "Luxury Real Estate",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Breaking into Luxury Real Estate",
+    "Building a Real Estate Career from Law",
+    "Effective Client Communication",
+    "Importance of Professional Presentation",
+    "Navigating Market Changes"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "How to break into luxury real estate",
+      "solution_summary": "Build experience gradually and maintain professionalism; understand the luxury market and client expectations.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with slow market periods",
+      "solution_summary": "Stay active by previewing properties and engaging with the market to create opportunities.",
+      "timestamp": "50:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Communicating effectively with clients",
+      "solution_summary": "Provide regular updates and feedback to clients to maintain trust and transparency.",
+      "timestamp": "33:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into breaking into and succeeding in the luxury market.",
+      "key_takeaway": "Success in luxury real estate requires gradual experience building, professionalism, and understanding client needs."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies for maintaining business during slow periods.",
+      "key_takeaway": "Stay proactive and create opportunities by engaging with the market even during downturns."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "It's with experience, right? It's with a lot of hard work.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of experience and perseverance in breaking into luxury real estate.",
+      "suggested_hook": "Want to break into luxury real estate? Here's the mindset you need."
+    },
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:00",
+      "quote": "Go walk through doors, go to open houses, preview properties.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific action plan for agents during slow market periods.",
+      "suggested_hook": "Feeling stuck in a slow market? Here's what you should be doing."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Provide regular client updates",
+      "context": "Send reports every two to three weeks with detailed activity and feedback.",
+      "timestamp": "33:00"
+    },
+    {
+      "tactic": "Dress professionally for luxury showings",
+      "context": "Maintain a high level of professionalism in appearance to match client expectations.",
+      "timestamp": "28:00"
+    },
+    {
+      "tactic": "Engage with the market during slow periods",
+      "context": "Visit open houses and preview properties to create opportunities.",
+      "timestamp": "50:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you want to do this part-time, get out of the business.",
+    "Success is determined by how scrappy you are, how hard you work, and how hungry you are."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Lisa K. Lippman shares her journey from law to becoming a top luxury real estate producer in New York City. She discusses the importance of building experience, maintaining professionalism, and adapting to market changes. Lisa provides actionable advice on client communication, professional presentation, and creating opportunities during slow periods.",
+  "_metadata": {
+    "source_file": "2025-06-30_item53_Lisa-K.-Lippman",
+    "analyzed_at": "2026-01-29T19:31:55.445733",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

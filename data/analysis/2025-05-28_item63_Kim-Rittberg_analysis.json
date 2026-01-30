@@ -1,0 +1,76 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": "Crane Apartments",
+    "production_level": null,
+    "specialty": "Video content creation for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Video content strategy during market uncertainty",
+    "Building connection and credibility through video",
+    "Using personal stories to enhance engagement",
+    "Leveraging AI tools like ChatGPT for content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to create engaging video content during uncertain market conditions",
+      "solution_summary": "Focus on building connection and credibility by sharing personal stories and professional insights.",
+      "timestamp": "00:03:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through video content",
+      "solution_summary": "Use video to showcase personal and professional life, building trust and connection with potential clients.",
+      "timestamp": "00:08:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding and lead generation through video.",
+      "key_takeaway": "Building a personal connection and establishing credibility through video can significantly increase client engagement and lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:16",
+      "end_timestamp": "00:04:36",
+      "quote": "The main things that we're trying to do are build these two C's, connection and credibility.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It succinctly captures the core strategy for effective video content.",
+      "suggested_hook": "Want to know the secret to impactful video content? Focus on the two C's."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use personal stories to build connection",
+      "context": "Share relatable personal experiences to engage your audience.",
+      "timestamp": "00:06:01"
+    },
+    {
+      "tactic": "Leverage ChatGPT for content scripting",
+      "context": "Use AI tools to draft social media scripts and video content.",
+      "timestamp": "00:09:32"
+    }
+  ],
+  "quotable_insights": [
+    "Once you know how to use your phone, you can convert your content into cash."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for creating social media scripts and video content."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares strategies for creating effective video content during uncertain market conditions. She emphasizes the importance of building connection and credibility with your audience through personal stories and professional insights. Kim also highlights the use of AI tools like ChatGPT to streamline content creation.",
+  "_metadata": {
+    "source_file": "2025-05-28_item63_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:25:24.377060",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

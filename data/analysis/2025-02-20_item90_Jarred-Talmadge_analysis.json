@@ -1,0 +1,95 @@
+{
+  "guest_info": {
+    "name": "Jarred Talmadge",
+    "title": "Author, Instructor, and Consultant",
+    "company": null,
+    "production_level": null,
+    "specialty": "LinkedIn for Real Estate",
+    "location": "Denver, Colorado"
+  },
+  "main_topics": [
+    "Leveraging LinkedIn for real estate",
+    "Building a digital reputation",
+    "Content creation strategies",
+    "Lead generation through LinkedIn",
+    "Using LinkedIn's tools effectively"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggling to generate leads on social media",
+      "solution_summary": "Utilize LinkedIn's business-focused platform to connect with potential clients and generate leads by creating a strong profile and engaging content.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not utilizing LinkedIn to its full potential",
+      "solution_summary": "Transform LinkedIn from a digital resume to a digital reputation by optimizing profiles and engaging with connections through personalized messages and content.",
+      "timestamp": "15:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who have a LinkedIn profile but aren't seeing results.",
+      "key_takeaway": "Focus on creating engaging content and leveraging LinkedIn's unique tools to stand out and generate leads."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode offers advanced tactics for those looking to expand their reach and influence on LinkedIn.",
+      "key_takeaway": "Use LinkedIn's newsletter and video messaging features to build authority and connect with a larger audience."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "28:00",
+      "quote": "LinkedIn is truly still the last social media outlet out there that's entirely based on selling and business and relationship building.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the perception of LinkedIn as just a professional networking site.",
+      "suggested_hook": "Think LinkedIn is just for resumes? Think again!"
+    },
+    {
+      "timestamp": "31:00",
+      "end_timestamp": "32:00",
+      "quote": "You want to stand out. You want to really scare somebody. Do the audio feature instead.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic that can immediately differentiate an agent from the competition.",
+      "suggested_hook": "Want to stand out on LinkedIn? Try this simple trick!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use LinkedIn's audio and video messaging features for personalized outreach.",
+      "context": "When connecting with potential clients or following up with leads.",
+      "timestamp": "30:00"
+    },
+    {
+      "tactic": "Start a LinkedIn newsletter to regularly engage with your network.",
+      "context": "To build authority and keep your audience informed about industry insights.",
+      "timestamp": "40:00"
+    }
+  ],
+  "quotable_insights": [
+    "Every single one of your clients between now and the end of your career, they're all on LinkedIn right now."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The LinkedIn Real Estate Agent",
+      "context": "Jarred's book offering strategies for leveraging LinkedIn in real estate."
+    },
+    {
+      "type": "website",
+      "name": "classeswithjared.com",
+      "context": "Provides free previews and resources for learning more about LinkedIn strategies."
+    }
+  ],
+  "episode_summary": "In this episode, Jarred Talmadge shares insights on leveraging LinkedIn as a powerful tool for real estate agents. He discusses transforming LinkedIn from a digital resume to a digital reputation, using personalized audio and video messaging, and starting newsletters to engage with potential clients. The episode provides actionable tactics to stand out and generate leads in a less crowded space.",
+  "_metadata": {
+    "source_file": "2025-02-20_item90_Jarred-Talmadge",
+    "analyzed_at": "2026-01-29T19:10:37.705816",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

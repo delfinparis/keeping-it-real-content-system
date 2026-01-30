@@ -1,0 +1,80 @@
+{
+  "guest_info": {
+    "name": "Erin Helle",
+    "title": "Social Media Specialist",
+    "company": "Unknown",
+    "production_level": "Unknown",
+    "specialty": "Social Media Content Creation",
+    "location": "Unknown"
+  },
+  "main_topics": [
+    "Social Media Content Planning",
+    "Using AI for Content Ideas",
+    "Engagement Strategies on Social Media"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Creating a month's worth of social media content efficiently",
+      "solution_summary": "Spend one hour planning content for the entire month using a structured system and free tools like ChatGPT.",
+      "timestamp": "00:01:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Maintaining consistent engagement and brand recognition on social media",
+      "solution_summary": "Use a mix of personal stories and professional insights to keep your audience engaged and associate your name with real estate.",
+      "timestamp": "00:19:48"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "This episode provides a simple, cost-effective system for creating social media content, which is crucial for new agents building their brand.",
+      "key_takeaway": "You can plan and execute a month's worth of social media content in just one hour using free tools and a structured approach."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:14:01",
+      "end_timestamp": "00:14:35",
+      "quote": "You can spend one hour deliberately planning your social media content for an entire month and just put it on autopilot.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This moment highlights a practical and efficient approach to social media planning, appealing to agents seeking time-saving strategies.",
+      "suggested_hook": "Want to automate your social media for a whole month in just one hour?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use ChatGPT to generate social media content ideas",
+      "context": "Type in 'social media content for REALTORS' to get a list of potential topics.",
+      "timestamp": "00:06:46"
+    },
+    {
+      "tactic": "Engage with top posts using your hashtags before posting",
+      "context": "Spend 10 minutes engaging with top content to increase visibility and engagement on your own posts.",
+      "timestamp": "00:21:42"
+    }
+  ],
+  "quotable_insights": [
+    "Remember to mix up your content to keep your audience engaged and provide value to your followers."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for generating social media content ideas for REALTORS."
+    },
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used for creating graphics for social media posts."
+    }
+  ],
+  "episode_summary": "In this episode, Erin Helle shares a streamlined approach to planning a month's worth of social media content in just one hour using free tools like ChatGPT and Canva. She emphasizes the importance of engaging content and provides a detailed calendar system to maximize efficiency and audience engagement.",
+  "_metadata": {
+    "source_file": "2024-05-23_item156_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-29T18:34:56.895299",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

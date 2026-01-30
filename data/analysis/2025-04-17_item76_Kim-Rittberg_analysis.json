@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": "Award-winning video marketer",
+    "specialty": "Video content creation for real estate agents",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Using Chat GPT for video content creation",
+    "Leveraging AI for real estate marketing",
+    "Improving communication skills on camera",
+    "Balancing content creation with workload",
+    "Video bootcamp for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Creating engaging video content to attract clients",
+      "solution_summary": "Use Chat GPT to brainstorm video ideas and create scripts, ensuring content is personalized and not generic.",
+      "timestamp": "06:01"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Maintaining authenticity while using AI-generated content",
+      "solution_summary": "Apply the SAG method: ensure content sounds like you, you agree with it, and it's not generic.",
+      "timestamp": "11:09"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to enhance video content, which is crucial for standing out in a competitive market.",
+      "key_takeaway": "Use AI tools like Chat GPT to streamline content creation while maintaining personal authenticity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:30",
+      "quote": "Chat GPT can be your brainstorming partner when you're out of ideas.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a practical use of AI that can immediately benefit agents.",
+      "suggested_hook": "Struggling with video content ideas? Let AI be your creative partner!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Chat GPT to generate video hooks and captions.",
+      "context": "When presenting properties, especially older homes, to highlight their charm.",
+      "timestamp": "07:53"
+    },
+    {
+      "tactic": "Apply the SAG method to AI-generated content.",
+      "context": "Ensure content aligns with your personal brand and expertise.",
+      "timestamp": "11:09"
+    }
+  ],
+  "quotable_insights": [
+    "Chat GPT is just a tool; we're always selling ourselves, our credibility, and our connection."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Kimrickberg.com/REtips",
+      "context": "For additional video tips and resources for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Chat GPT",
+      "context": "For brainstorming and creating video content."
+    }
+  ],
+  "episode_summary": "Kim Rittberg discusses how real estate agents can leverage Chat GPT to enhance their video content creation, emphasizing the importance of maintaining authenticity and personal branding. She introduces the SAG method to ensure AI-generated content aligns with personal expertise and provides actionable tips for using AI as a creative partner.",
+  "_metadata": {
+    "source_file": "2025-04-17_item76_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:17:38.030640",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

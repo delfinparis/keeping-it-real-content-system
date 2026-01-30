@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Tara Meier",
+    "title": "Real Estate Marketing Technology Expert",
+    "company": "My Home",
+    "production_level": "Over 150 transactions between 2012-2019",
+    "specialty": "Brand and identity development, online presence, reputation management, social media strategy, AI and automation",
+    "location": "Chandler, Arizona"
+  },
+  "main_topics": [
+    "Utilizing AI in real estate",
+    "Building an online presence",
+    "Social media strategies for REALTORS",
+    "Digital advertising",
+    "Content creation and batching"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of online presence and engagement",
+      "solution_summary": "Agents should consistently update their online profiles, engage on social media, and provide valuable content to their audience.",
+      "timestamp": "13:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective use of social media for lead generation",
+      "solution_summary": "Identify your audience's struggles and create content that addresses their questions and interests using tools like ChatGPT.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Time management in content creation",
+      "solution_summary": "Batch content creation by setting aside dedicated time for planning and recording to reduce stress and improve consistency.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for improving online presence and using AI to enhance marketing efforts.",
+      "key_takeaway": "Leverage AI tools like ChatGPT to streamline content creation and better engage with your audience."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers advanced strategies for digital advertising and audience targeting.",
+      "key_takeaway": "Utilize digital advertising strategically by creating custom audiences and layering marketing efforts."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Gone are the days when just posting a house for sale is going to be exciting. People want to be entertained, informed, and inspired.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the traditional approach to real estate marketing and emphasizes the need for engaging content.",
+      "suggested_hook": "Are your real estate posts just getting scrolled past? Here's why you need to change your strategy."
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "AI can really help you craft a compelling bio, build your brand, and draft copy for your website and social media posts.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable use of AI that agents can implement immediately.",
+      "suggested_hook": "Want to save time and boost your real estate brand? Here's how AI can help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use ChatGPT to identify audience needs and create content.",
+      "context": "Ask ChatGPT for common questions and concerns of your target audience to guide content creation.",
+      "timestamp": "18:00"
+    },
+    {
+      "tactic": "Batch content creation to save time.",
+      "context": "Set aside specific times for planning and recording content to maintain consistency.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "People want to be entertained, informed, and inspired, not just sold to.",
+    "Your online presence is your first impression—make it count."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for generating content ideas and understanding audience needs."
+    },
+    {
+      "type": "tool",
+      "name": "Google Business",
+      "context": "Underutilized platform for driving reviews and improving online visibility."
+    }
+  ],
+  "episode_summary": "In this episode, Tara Meier shares insights on leveraging AI and digital strategies to enhance real estate marketing efforts. She emphasizes the importance of a strong online presence, engaging content, and strategic digital advertising. Tara provides actionable tips for using AI tools like ChatGPT to streamline content creation and improve audience engagement.",
+  "_metadata": {
+    "source_file": "2023-12-27_item191_Tara-Meier",
+    "analyzed_at": "2026-01-29T18:13:47.582098",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

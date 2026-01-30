@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Michelle Berman-Michael",
+    "title": "Instagram Specialist",
+    "company": null,
+    "production_level": null,
+    "specialty": "Building community and loyalty on Instagram",
+    "location": null
+  },
+  "main_topics": [
+    "Building community on Instagram",
+    "Creating loyalty through content",
+    "The importance of storytelling",
+    "Neural coupling in content creation",
+    "Ditching talking head videos"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of loyalty and community on Instagram",
+      "solution_summary": "Build a community by focusing on storytelling and personal content that resonates with your audience.",
+      "timestamp": "00:02:19"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Content not standing out on Instagram",
+      "solution_summary": "Avoid talking head videos and focus on storytelling to engage and connect with your audience.",
+      "timestamp": "00:07:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding and client loyalty on Instagram.",
+      "key_takeaway": "Use storytelling to build a loyal community and stand out in a crowded market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:02",
+      "end_timestamp": "00:09:32",
+      "quote": "63% of people remember stories over the 5% who remember data points.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the power of storytelling, making it a compelling point for content creators.",
+      "suggested_hook": "Want to make your content unforgettable? Here's a statistic that might surprise you."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on storytelling in your Instagram content.",
+      "context": "Use stories to engage your audience and create emotional connections.",
+      "timestamp": "00:12:01"
+    },
+    {
+      "tactic": "Ditch talking head videos.",
+      "context": "Avoid generic content and instead create engaging stories that resonate with your audience.",
+      "timestamp": "00:07:11"
+    }
+  ],
+  "quotable_insights": [
+    "The root problem of not being able to receive loyalty is that we are not building our community."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Michelle Berman-Michael discusses the importance of building a community and creating loyalty on Instagram through storytelling. She emphasizes the need to move away from generic talking head videos and instead focus on content that resonates emotionally with the audience. By leveraging the concept of neural coupling, agents can enhance engagement and stand out in a crowded market.",
+  "_metadata": {
+    "source_file": "2024-07-26_item139_Instagram-and-Prospecting",
+    "analyzed_at": "2026-01-29T18:41:13.523081",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

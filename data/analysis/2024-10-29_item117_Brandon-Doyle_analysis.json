@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Brandon Doyle",
+    "title": "Tech Guru and REALTOR",
+    "company": "Doyle Real Estate Team, RE/MAX Results",
+    "production_level": "Top 1%",
+    "specialty": "Smart Home Technology",
+    "location": "Minneapolis, Minnesota"
+  },
+  "main_topics": [
+    "Integrating personal passions into real estate",
+    "Smart home technology in real estate",
+    "Content creation for real estate marketing",
+    "Effective client engagement strategies",
+    "The impact of technology on real estate practices"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to leverage personal passions to grow a real estate business",
+      "solution_summary": "Brandon uses his passion for smart home technology to create content that attracts tech-savvy clients.",
+      "timestamp": "00:05:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through content creation",
+      "solution_summary": "Brandon creates hyper-local content focused on new construction and schools to attract serious buyers.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships over time",
+      "solution_summary": "Brandon uses multi-channel engagement including newsletters, social media, and client events.",
+      "timestamp": "00:40:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on leveraging personal interests to differentiate and grow a real estate business.",
+      "key_takeaway": "Integrating personal passions like smart home technology can attract niche clients and enhance your brand."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Brandon discusses systems and strategies for effective team operations and client engagement.",
+      "key_takeaway": "Consistent, multi-channel client engagement is key to maintaining long-term relationships and referrals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:16:00",
+      "end_timestamp": "00:17:00",
+      "quote": "By going for that longer tail, I'm going to get more of a serious buyer.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a specific strategy for attracting high-intent buyers.",
+      "suggested_hook": "Want to attract serious buyers? Here's how focusing on long-tail content can help."
+    },
+    {
+      "timestamp": "00:40:00",
+      "end_timestamp": "00:41:00",
+      "quote": "We do multiple client events per year... It's really just an excuse to reach out to people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a practical and effective way to maintain client relationships.",
+      "suggested_hook": "Struggling to stay in touch with clients? Here's a simple strategy that works."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create hyper-local content focused on specific community aspects like schools.",
+      "context": "Use this strategy to attract high-intent buyers who are serious about moving to a specific area.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "tactic": "Host client events as a way to maintain relationships and generate referrals.",
+      "context": "Use events not just for direct engagement but as a reason to reach out to clients.",
+      "timestamp": "00:40:00"
+    }
+  ],
+  "quotable_insights": [
+    "Integrating your personal passions into your business can attract a niche audience and enhance your brand.",
+    "Consistent, multi-channel client engagement is key to maintaining long-term relationships and referrals."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "Used by Brandon for CRM to track email and phone interactions."
+    },
+    {
+      "type": "tool",
+      "name": "Chat GPT",
+      "context": "Used for repurposing content and generating ideas for social media posts."
+    }
+  ],
+  "episode_summary": "In this episode, Brandon Doyle discusses how he integrates his passion for smart home technology into his real estate practice to attract tech-savvy clients. He shares strategies for creating hyper-local content to generate leads and emphasizes the importance of consistent client engagement through multi-channel approaches. Brandon also highlights the role of technology in enhancing the client experience and maintaining long-term relationships.",
+  "_metadata": {
+    "source_file": "2024-10-29_item117_Brandon-Doyle",
+    "analyzed_at": "2026-01-29T18:54:19.697273",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "D.J. Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": "Agent Recruitment and AI Tools",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "AI Tools for Real Estate Agents",
+    "Prompt Engineering",
+    "Agent Recruitment Strategies",
+    "Building Custom Web Tools",
+    "Remarketing Techniques"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents struggling to write effective AI prompts",
+      "solution_summary": "Developed a tool that provides pre-written, specific AI prompts for various real estate tasks.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Identifying agents looking to switch brokerages",
+      "solution_summary": "Using corded.io's AI tool to identify agents likely to move and tailor recruitment pitches.",
+      "timestamp": "01:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating effective social media and content strategies",
+      "solution_summary": "Providing AI-generated prompts to help agents develop content strategies.",
+      "timestamp": "06:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides tools and strategies to enhance productivity and marketing efforts.",
+      "key_takeaway": "Utilize AI tools to streamline operations and improve lead generation and conversion."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights into recruiting strategies and tools to identify potential recruits.",
+      "key_takeaway": "Leverage AI to identify agents looking to move and tailor recruitment efforts effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:50",
+      "end_timestamp": "06:30",
+      "quote": "A good prompt might be seven or eight sentences... the exact instructions you're giving it for a really good listing description.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of detailed prompt crafting for effective AI use.",
+      "suggested_hook": "Are your AI prompts falling flat? Here's how to craft them for success."
+    },
+    {
+      "timestamp": "13:00",
+      "end_timestamp": "13:45",
+      "quote": "Think about tools that would be helpful for your clients... you can pump this into any web page because it's just custom code.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to think creatively about using technology to serve clients.",
+      "suggested_hook": "Want to stand out in real estate? Build your own client tools!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI-generated prompts for various real estate tasks.",
+      "context": "Apply when crafting listing descriptions, social media strategies, and more.",
+      "timestamp": "06:00"
+    },
+    {
+      "tactic": "Implement remarketing strategies using website tools.",
+      "context": "Install a pixel on your website tool page to target visitors with ads.",
+      "timestamp": "14:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you don't have a step-by-step process to make that prompt really hyper-accurate and specific, you're not going to get a good result.",
+    "You can market to them and send those ads at really very inexpensive pricing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Used for identifying agents likely to move and tailoring recruitment pitches."
+    },
+    {
+      "type": "tool",
+      "name": "joinkale.com/AI-prompts",
+      "context": "A free tool developed to help agents craft effective AI prompts."
+    }
+  ],
+  "episode_summary": "In this episode, D.J. Paris introduces a new AI tool designed to help real estate agents craft effective prompts for various tasks, such as listing descriptions and content strategies. He also discusses the use of AI in agent recruitment and the benefits of building custom web tools for client engagement and remarketing. The episode provides actionable insights into leveraging technology to improve productivity and marketing efforts in the real estate industry.",
+  "_metadata": {
+    "source_file": "2025-10-28_item23_D.J.-Paris",
+    "analyzed_at": "2026-01-29T19:52:01.051526",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

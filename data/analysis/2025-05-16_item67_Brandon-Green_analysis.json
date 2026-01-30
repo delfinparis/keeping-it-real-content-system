@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Brandon Green",
+    "title": "Financial Strategist",
+    "company": "Alchemy of Money",
+    "production_level": "Award-winning entrepreneur",
+    "specialty": "Financial services for real estate professionals",
+    "location": "Washington, DC"
+  },
+  "main_topics": [
+    "Real estate investment strategies",
+    "Financial management for real estate agents",
+    "Importance of profit and loss statements",
+    "Tax strategies and planning",
+    "Role of a fractional CFO"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Agents not helping themselves financially as much as they help clients",
+      "solution_summary": "Treat your business like a business and focus on financial management and investment strategies.",
+      "timestamp": "04:30"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Lack of proper bookkeeping and tax planning",
+      "solution_summary": "Implement proper bookkeeping to generate accurate profit and loss statements for strategic tax planning.",
+      "timestamp": "23:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Uncertainty in making financial decisions like hiring",
+      "solution_summary": "Use profit and loss statements to assess financial readiness for hiring and other business decisions.",
+      "timestamp": "36:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on scaling business and financial management.",
+      "key_takeaway": "Understanding and managing your finances is crucial for sustainable growth."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses the importance of financial planning for team expansion.",
+      "key_takeaway": "Use financial data to make informed decisions about hiring and scaling."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:30",
+      "end_timestamp": "05:20",
+      "quote": "You as soon as possible need to begin to treat your business like a business.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Encapsulates the episode's core message about business mindset.",
+      "suggested_hook": "Are you treating your real estate career like a true business?"
+    },
+    {
+      "timestamp": "23:00",
+      "end_timestamp": "23:45",
+      "quote": "Most people need to start with better data.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of data-driven decision making.",
+      "suggested_hook": "Why better data is the key to unlocking your business's potential."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a profit and loss statement for your business.",
+      "context": "Use it to track financial health and make informed decisions.",
+      "timestamp": "29:00"
+    },
+    {
+      "tactic": "Consider hiring a fractional CFO as your business grows.",
+      "context": "When your revenue reaches around $3 million, to manage complex financial operations.",
+      "timestamp": "47:00"
+    }
+  ],
+  "quotable_insights": [
+    "Treat your business like a business.",
+    "Better data leads to better decisions."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Alchemy of Money",
+      "context": "Brandon Green's company offering financial services for real estate professionals."
+    }
+  ],
+  "episode_summary": "In this episode, Brandon Green discusses the importance of treating your real estate business like a business, emphasizing the need for proper financial management and investment strategies. He highlights the role of profit and loss statements and tax planning in making informed business decisions, and introduces the concept of a fractional CFO for growing businesses.",
+  "_metadata": {
+    "source_file": "2025-05-16_item67_Brandon-Green",
+    "analyzed_at": "2026-01-29T19:23:27.641376",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

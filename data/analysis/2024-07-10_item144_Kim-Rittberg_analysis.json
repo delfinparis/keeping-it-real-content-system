@@ -1,0 +1,69 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents create video content",
+    "location": null
+  },
+  "main_topics": [
+    "Creating vacation content for real estate business",
+    "Importance of personal branding through social media",
+    "Building connection and credibility online"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Real estate agents not utilizing vacation time for content creation",
+      "solution_summary": "Film beautiful locations and personal moments during vacation to enhance social media presence and connect with followers.",
+      "timestamp": "00:02:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging personal experiences to enhance social media presence, crucial for agents aiming to build a strong personal brand.",
+      "key_takeaway": "Use vacation time to create authentic content that builds connection and credibility with your audience."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:00",
+      "end_timestamp": "00:04:30",
+      "quote": "The two C's that are the key to really growing your social media: connection and credibility.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the essence of effective social media strategy.",
+      "suggested_hook": "Want to grow your social media presence? Focus on these two C's."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Film steady shots of beautiful locations without moving the camera too much.",
+      "context": "When capturing vacation content to avoid making viewers dizzy.",
+      "timestamp": "00:05:00"
+    },
+    {
+      "tactic": "Use visual metaphors to convey emotions or achievements.",
+      "context": "When you don't have footage of specific events, use metaphorical imagery.",
+      "timestamp": "00:09:00"
+    }
+  ],
+  "quotable_insights": [
+    "Connection brings likability and credibility brings trustworthiness."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KimRittburg.com",
+      "context": "For more content and resources on video marketing."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable tips for real estate agents to create engaging video content during vacations. By focusing on connection and credibility, agents can enhance their personal brand and attract more clients. Kim emphasizes the importance of using visual metaphors and capturing authentic moments to build a relatable online presence.",
+  "_metadata": {
+    "source_file": "2024-07-10_item144_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:40:18.626272",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

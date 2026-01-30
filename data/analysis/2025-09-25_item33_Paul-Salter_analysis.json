@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset and performance coaching using hypnosis",
+    "location": null
+  },
+  "main_topics": [
+    "Attachment to results",
+    "Mindset and performance in real estate",
+    "Detachment from outcomes",
+    "Self-care and energy management",
+    "Process over results"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Attachment to results leading to stress and decreased performance",
+      "solution_summary": "Focus on process over results, manage expectations, and practice self-care to maintain energy and effectiveness.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Monotony in processes leading to shiny object syndrome",
+      "solution_summary": "Recommit to proven processes and find joy in execution rather than seeking novelty.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the stress and burnout from constant chasing of results.",
+      "key_takeaway": "Detach from outcomes and focus on consistent process execution to regain control and effectiveness."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can learn the importance of process over immediate results.",
+      "key_takeaway": "Trust in your processes and understand the lag effect between input and output."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:50",
+      "end_timestamp": "10:30",
+      "quote": "The harder he clung to an outcome, the further he pushed success away.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the paradox of attachment and its impact on success.",
+      "suggested_hook": "Are you pushing success away by holding on too tight?"
+    },
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "When you can really refresh and learn to fall in love with your process again, that's your edge.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a shift in perspective from outcome to process.",
+      "suggested_hook": "Rediscover the power of loving your process."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on process over results",
+      "context": "When feeling overwhelmed by the need for immediate outcomes.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Cast multiple lines into the water",
+      "context": "To increase opportunities and manage the lag effect in real estate deals.",
+      "timestamp": "22:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your attachment to results is the silent and visible sabotage holding you back from next level success.",
+    "Trust in your processes and yourself that the results will come, so long as you remain committed and consistent."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "For generating more business and managing leads effectively."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For identifying agents looking to move and enhancing recruitment efforts."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the detrimental effects of attachment to results in real estate and how it can sabotage success. He emphasizes the importance of focusing on processes over outcomes and managing energy through self-care. Listeners are encouraged to detach from immediate results and trust in their proven processes to achieve long-term success.",
+  "_metadata": {
+    "source_file": "2025-09-25_item33_Paul-Salter",
+    "analyzed_at": "2026-01-29T19:45:26.626915",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

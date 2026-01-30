@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "$300 million producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, developer partnerships",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "End-of-year strategies for real estate success",
+    "Impact of interest rates on buyer activity",
+    "Re-engaging with client databases",
+    "Holiday marketing strategies",
+    "Planning for 2026 in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Agents taking their foot off the gas in Q4",
+      "solution_summary": "Push hard in Q4 to set up for success in 2026 by re-engaging with your database and amplifying holiday marketing.",
+      "timestamp": "05:06"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Maintaining a strong personal brand and SEO",
+      "solution_summary": "Audit your online presence, ensure cohesive branding, and enhance your SEO to improve visibility.",
+      "timestamp": "14:49"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling unique home features like wallpaper",
+      "solution_summary": "Consider virtual staging to show potential buyers a neutral version of the space.",
+      "timestamp": "11:14"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to maximize the end of the year and plan for future success.",
+      "key_takeaway": "Consistent marketing and engagement in Q4 can set the foundation for a successful 2026."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on re-engaging databases and planning for the next year are crucial for team growth.",
+      "key_takeaway": "Implement data-driven business plans and enhance your team's personal branding efforts."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:45",
+      "end_timestamp": "08:30",
+      "quote": "Re-engage with your database, especially during the holidays, when agents typically take their foot off the gas.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This advice is actionable and timely, encouraging agents to leverage a period when others might slow down.",
+      "suggested_hook": "Don't let the holiday season slow you down—here's how to stay ahead!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Re-engage with your database through personal check-ins and handwritten cards.",
+      "context": "Use the holiday season to reconnect with past clients and provide market updates.",
+      "timestamp": "07:45"
+    },
+    {
+      "tactic": "Audit your current listings and reposition if needed.",
+      "context": "Evaluate listings that haven't moved in 30-60 days and adjust pricing or marketing strategies.",
+      "timestamp": "08:44"
+    }
+  ],
+  "quotable_insights": [
+    "Step on the gas in Q4 to set the rhythm for 2026.",
+    "Buyers are consuming information visually first, so make sure your online presence is perfect."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive sales and marketing solution for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares strategies for real estate agents to maximize the end of the year and set the stage for a successful 2026. She emphasizes the importance of re-engaging with client databases, enhancing personal branding, and leveraging holiday marketing. The discussion also covers the impact of interest rates on buyer activity and the need for data-driven business planning.",
+  "_metadata": {
+    "source_file": "2025-10-29_item22_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T19:52:15.452399",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

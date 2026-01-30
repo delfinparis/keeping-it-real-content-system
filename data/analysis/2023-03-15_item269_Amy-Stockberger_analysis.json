@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Amy Stockburger",
+    "title": "Broker Owner",
+    "company": "Amy Stockburger Real Estate",
+    "production_level": "Top 1% in South Dakota, ranked 23rd in the nation by Real Trends",
+    "specialty": "Lifetime home support system",
+    "location": "Sioux Falls, South Dakota"
+  },
+  "main_topics": [
+    "VIP club for real estate clients",
+    "Monetizing client services",
+    "Building a referral-based business",
+    "Systems and operations in real estate",
+    "Agent recruitment and retention"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Spending money on leads that aren't converting",
+      "solution_summary": "Implement a VIP club to turn clients into referral machines and monetize services.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems for scaling a real estate business",
+      "solution_summary": "Create a structured VIP club with monetized services and detailed operational checklists.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Need for additional revenue streams",
+      "solution_summary": "Monetize moving trucks, party supplies, and vendor partnerships to create new revenue streams.",
+      "timestamp": "00:25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into building a scalable, referral-based business model.",
+      "key_takeaway": "Implementing a VIP club can significantly increase client retention and referrals."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode offers strategies for team growth and agent retention through unique service offerings.",
+      "key_takeaway": "Monetizing various client services can create loyalty and additional revenue streams."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:11:00",
+      "end_timestamp": "00:12:00",
+      "quote": "I created a unique and all-inclusive lifetime home support system that turns clients into referral machines.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a unique approach to client retention and referral generation.",
+      "suggested_hook": "Want to turn your clients into referral machines? Here's how!"
+    },
+    {
+      "timestamp": "00:25:30",
+      "end_timestamp": "00:26:30",
+      "quote": "We charge our vendor partners $3,500 a year to be part of our program, creating a significant revenue stream.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional approach to vendor partnerships by monetizing them.",
+      "suggested_hook": "Are you leaving money on the table with your vendor partnerships?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a VIP club with lifetime access to services like moving trucks and party supplies.",
+      "context": "Use this to increase client loyalty and referrals.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "tactic": "Monetize vendor partnerships by charging for inclusion in your preferred vendor list.",
+      "context": "Create additional revenue streams while ensuring quality service for clients.",
+      "timestamp": "00:25:30"
+    }
+  ],
+  "quotable_insights": [
+    "The best real estate business you can build is a relationship-based business.",
+    "If you're not in this to serve, it's likely not going to work out for you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Start Your VIP Club",
+      "context": "A course designed to help agents implement and monetize a VIP club for their clients."
+    }
+  ],
+  "episode_summary": "In this episode, Amy Stockburger shares her innovative approach to building a referral-based real estate business through a VIP club that offers lifetime client services. She discusses how to monetize various aspects of client interactions, from moving trucks to vendor partnerships, providing actionable insights for agents looking to scale their operations and increase client loyalty.",
+  "_metadata": {
+    "source_file": "2023-03-15_item269_Amy-Stockberger",
+    "analyzed_at": "2026-01-29T17:57:40.737033",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

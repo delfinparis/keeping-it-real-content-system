@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Dr. Erin Helle",
+    "title": "Investor Coach",
+    "company": "BC Global Investments",
+    "production_level": null,
+    "specialty": "Financial management for REALTORS",
+    "location": null
+  },
+  "main_topics": [
+    "Financial management for REALTORS",
+    "Income and expense tracking",
+    "Budgeting and forecasting",
+    "Tax planning and compliance",
+    "Investment strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Lack of financial control leading to anxiety and unproductivity",
+      "solution_summary": "Gain control over finances by tracking income and expenses meticulously, budgeting effectively, and planning for taxes.",
+      "timestamp": "00:02:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Unplanned expenses leading to financial instability",
+      "solution_summary": "Create a budget and forecast future revenue and expenses to make informed financial decisions.",
+      "timestamp": "00:07:52"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Lack of retirement planning for REALTORS",
+      "solution_summary": "Develop multiple income streams and invest strategically to ensure financial security post-retirement.",
+      "timestamp": "00:10:42"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with financial management and need foundational advice.",
+      "key_takeaway": "Control your finances from the start to avoid future anxiety and ensure business growth."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers need to optimize financial strategies to scale their business.",
+      "key_takeaway": "Strategic investment and financial planning are crucial for long-term success and growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:53",
+      "end_timestamp": "00:03:04",
+      "quote": "If you are not controlling your money, your money is controlling you.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a powerful statement that emphasizes the importance of financial control.",
+      "suggested_hook": "Is your money controlling you? Here's how to take back control."
+    },
+    {
+      "timestamp": "00:10:42",
+      "end_timestamp": "00:11:09",
+      "quote": "Most people won't be able to retire as a REALTOR because as soon as your transactions stop you're no longer going to get paid.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common assumption that real estate agents can easily retire.",
+      "suggested_hook": "Think you can retire as a REALTOR? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Track income and commissions accurately.",
+      "context": "Ensure timely and comprehensive recording of earnings to manage financials effectively.",
+      "timestamp": "00:05:03"
+    },
+    {
+      "tactic": "Create a budget and financial forecast.",
+      "context": "Plan for expenses and allocate funds for growth to avoid financial pitfalls.",
+      "timestamp": "00:07:52"
+    },
+    {
+      "tactic": "Consult with a tax professional.",
+      "context": "Optimize tax strategy and ensure compliance with laws to save money.",
+      "timestamp": "00:09:14"
+    }
+  ],
+  "quotable_insights": [
+    "If you are not controlling your money, your money is controlling you.",
+    "Most people won't be able to retire as a REALTOR because as soon as your transactions stop you're no longer going to get paid."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "BC Global Investments",
+      "context": "Provides additional resources and a way to contact Dr. Erin Helle for financial advice."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion as a technology partner for agents."
+    }
+  ],
+  "episode_summary": "In this episode, Dr. Erin Helle discusses the importance of financial management for REALTORS, emphasizing the need for control over income and expenses, effective budgeting, and strategic investments. She provides actionable advice on tax planning and the necessity of multiple income streams for retirement, challenging common assumptions about financial stability in the real estate industry.",
+  "_metadata": {
+    "source_file": "2024-07-25_item140_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-29T18:41:00.391098",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

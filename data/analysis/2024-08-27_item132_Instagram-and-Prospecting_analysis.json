@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Michelle Barnard Michael",
+    "title": "Content Creator and Coach",
+    "company": "Not mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Social media content creation for real estate agents",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Integrating personal passions into real estate content",
+    "Creating connection through storytelling",
+    "Developing a value series for social media",
+    "Using AI tools for content creation",
+    "Avoiding common pitfalls in video content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents focusing too much on data rather than personal connection in content",
+      "solution_summary": "Lead with personal stories and passions to create a connection with the audience.",
+      "timestamp": "03:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in creating engaging social media content",
+      "solution_summary": "Use a T-graph to align personal passions with client pain points and create a value series.",
+      "timestamp": "07:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for creating engaging content that can differentiate them in a crowded market.",
+      "key_takeaway": "Integrating personal stories and passions into content can significantly increase engagement and lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:07",
+      "end_timestamp": "14:45",
+      "quote": "If your opening sentence talks immediately about real estate, you haven't done your job.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional approach of leading with data in real estate content.",
+      "suggested_hook": "Why starting with real estate data might be hurting your content strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a T-graph to align passions with client pain points.",
+      "context": "Use this method to brainstorm content ideas that resonate with your audience.",
+      "timestamp": "07:04"
+    },
+    {
+      "tactic": "Develop a five-part value series using storytelling.",
+      "context": "Break down a topic into five sub-questions and create short videos for each.",
+      "timestamp": "07:10"
+    }
+  ],
+  "quotable_insights": [
+    "Lead with personal stories and passions to create a connection with your audience.",
+    "Instead of sharing data, share stories and see a dramatic increase in engagement."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting tool for identifying agents looking to move brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Michelle Barnard Michael discusses the importance of integrating personal passions into real estate content to create a stronger connection with the audience. She introduces the concept of a value series, which uses storytelling to engage viewers, and provides actionable tactics for aligning personal interests with client pain points. The episode emphasizes the shift from data-driven content to story-driven content to increase engagement and lead generation.",
+  "_metadata": {
+    "source_file": "2024-08-27_item132_Instagram-and-Prospecting",
+    "analyzed_at": "2026-01-29T18:45:16.625451",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

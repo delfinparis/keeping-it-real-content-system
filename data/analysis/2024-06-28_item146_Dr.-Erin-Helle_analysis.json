@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Dr. Erin Helle",
+    "title": "Real Estate Expert",
+    "company": "Not mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Seller Financing and Loan Assumptions",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Seller Financing",
+    "Loan Assumptions",
+    "Lean Positions in Real Estate",
+    "Assumable Mortgages",
+    "Educating Buyers and Sellers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Understanding lean positions in seller financing",
+      "solution_summary": "Ensure seller financing is structured with the seller in the first lean position to protect their financial interests.",
+      "timestamp": "06:14"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Complexity of assumable mortgages",
+      "solution_summary": "Verify mortgage is assumable and prepare for a lengthy process due to lender's lack of financial incentive.",
+      "timestamp": "12:15"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding advanced financing options can set them apart in a competitive market.",
+      "key_takeaway": "Mastering seller financing and loan assumptions can provide solutions for clients in high-interest rate environments."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:52",
+      "end_timestamp": "08:26",
+      "quote": "Seller financing is basically when the seller of the property provides financing to the buyer, so they basically become the bank.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It clearly explains the concept of seller financing, which is crucial for agents to understand.",
+      "suggested_hook": "Ever thought about becoming the bank in a real estate transaction?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use an amortization calculator to help clients understand payment structures.",
+      "context": "When negotiating seller financing terms.",
+      "timestamp": "08:08"
+    }
+  ],
+  "quotable_insights": [
+    "Lean positions matter and can make or break a real estate deal."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Amortization Calculator",
+      "context": "To help clients understand monthly payments in seller financing."
+    }
+  ],
+  "episode_summary": "Dr. Erin Helle discusses the intricacies of seller financing and loan assumptions, emphasizing the importance of lean positions and the potential benefits of assumable mortgages in high-interest environments. The episode provides actionable insights for real estate agents to educate their clients and leverage these financing options effectively.",
+  "_metadata": {
+    "source_file": "2024-06-28_item146_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-29T18:39:37.247314",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

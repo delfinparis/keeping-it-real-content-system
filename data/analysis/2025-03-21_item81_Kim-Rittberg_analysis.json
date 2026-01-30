@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Expert",
+    "company": "Henry Street Media",
+    "production_level": "Top 1% Podcast Host",
+    "specialty": "Video Marketing and Social Media Strategy",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Social Media Video Strategies",
+    "Building Credibility and Connection",
+    "Overcoming Camera Shyness",
+    "Lead Generation through Video",
+    "Balancing Personal and Professional Content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media videos",
+      "solution_summary": "Create consistent, credible, and connection-building content that showcases your expertise and personality.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Hiding from the camera due to lack of confidence",
+      "solution_summary": "Transfer your in-person social skills to on-camera presence by practicing and focusing on being genuine.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting social media leads into clients",
+      "solution_summary": "Use a mix of personal stories and professional insights to build trust and demonstrate expertise.",
+      "timestamp": "00:23:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start using video effectively without needing advanced skills or equipment.",
+      "key_takeaway": "Start with simple, authentic videos to build your brand and generate leads."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can refine their video strategy to improve lead quality and conversion rates.",
+      "key_takeaway": "Balance personal and professional content to enhance credibility and connection."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:18:00",
+      "end_timestamp": "00:18:45",
+      "quote": "Hiding from the camera is hiding from clients. You are not selling a home; you're selling yourself.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement challenges agents to rethink their approach to video marketing.",
+      "suggested_hook": "Are you hiding from the camera and missing out on clients?"
+    },
+    {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:24:30",
+      "quote": "You don't need listings to make content. Listings are actually the most boring type of content.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the common belief that listings are the most important content.",
+      "suggested_hook": "Think listings are the key to great content? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use your iPhone for authentic, on-the-go content",
+      "context": "Capture everyday moments and insights to build a personal connection with your audience.",
+      "timestamp": "00:26:00"
+    },
+    {
+      "tactic": "Develop a consistent posting schedule",
+      "context": "Post 2-3 times a week to maintain visibility and engagement without burning out.",
+      "timestamp": "00:48:00"
+    }
+  ],
+  "quotable_insights": [
+    "Being good on camera is about transferring your great in-person skills to the digital world.",
+    "Credibility and connection are the two Cs that drive success in video marketing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting tool for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable insights on leveraging video marketing to generate leads and build a personal brand. She emphasizes the importance of credibility and connection in content, offers strategies for overcoming camera shyness, and provides tips on balancing personal and professional content to enhance engagement and conversion.",
+  "_metadata": {
+    "source_file": "2025-03-21_item81_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:15:24.717327",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

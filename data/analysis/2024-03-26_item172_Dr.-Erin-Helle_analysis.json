@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Erin Helle",
+    "title": "Dream Builder, Team Leader, Financially Free REALTOR",
+    "company": null,
+    "production_level": null,
+    "specialty": "Business, Wealth, and Health",
+    "location": null
+  },
+  "main_topics": [
+    "Time Blocking",
+    "Calendar Management",
+    "Productivity Techniques",
+    "Prioritization",
+    "Outsourcing Tasks"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Ineffective time management leading to lower productivity",
+      "solution_summary": "Implement time blocking to allocate specific time slots for tasks, ensuring focus and priority alignment.",
+      "timestamp": "03:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Belief in multitasking as a productivity booster",
+      "solution_summary": "Focus on single-tasking to reduce errors and improve task quality.",
+      "timestamp": "11:28"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with managing their time effectively.",
+      "key_takeaway": "Time blocking can dramatically improve productivity and reduce stress."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Experienced agents may feel overwhelmed by their workload.",
+      "key_takeaway": "Outsourcing non-essential tasks can free up time for more impactful work."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:55",
+      "end_timestamp": "11:12",
+      "quote": "I'm telling you this will change your life.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This statement is powerful and can motivate listeners to take action.",
+      "suggested_hook": "Want to transform your productivity? Here's a life-changing tip!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Define and write down your working hours.",
+      "context": "Establish clear boundaries for work to improve focus and efficiency.",
+      "timestamp": "05:32"
+    },
+    {
+      "tactic": "Prioritize tasks by importance, not just deadlines.",
+      "context": "Ensure that the most impactful tasks are completed first.",
+      "timestamp": "07:13"
+    },
+    {
+      "tactic": "Outsource tasks that are not directly contributing to revenue.",
+      "context": "Free up time for high-value activities.",
+      "timestamp": "14:01"
+    }
+  ],
+  "quotable_insights": [
+    "Busy doesn't equal productive. Rest is critical.",
+    "Complete is better than perfect when it allows you to move on to something else."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to improve lead conversion and business generation."
+    }
+  ],
+  "episode_summary": "In this episode, Erin Helle discusses the importance of time blocking and calendar management to enhance productivity and reduce stress. She provides a step-by-step guide on how to implement these techniques and emphasizes the value of prioritizing tasks and outsourcing non-essential work. Listeners are encouraged to focus on completion over perfection to achieve sustainable business growth.",
+  "_metadata": {
+    "source_file": "2024-03-26_item172_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-29T18:26:58.179204",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

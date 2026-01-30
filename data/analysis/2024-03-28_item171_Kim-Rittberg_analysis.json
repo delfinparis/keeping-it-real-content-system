@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning marketer",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents get better on camera",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Importance of speaking on camera for REALTORS",
+    "Building trustworthiness and credibility through video",
+    "Using social media effectively for business",
+    "Overcoming discomfort with being on camera",
+    "Creating relatable and expert content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not showing up on video, limiting personal connection",
+      "solution_summary": "Encourage agents to speak on camera to build trust and relatability.",
+      "timestamp": "00:02:04"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Discomfort with being on camera and hearing one's own voice",
+      "solution_summary": "Normalize discomfort as part of growth and encourage practice.",
+      "timestamp": "00:10:10"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Static social media posts not effectively building personal brand",
+      "solution_summary": "Incorporate personal voice and expertise in content to enhance credibility.",
+      "timestamp": "00:09:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn the importance of using video to build their brand.",
+      "key_takeaway": "Speaking on camera is crucial for establishing trust and relatability with clients."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can enhance their credibility and expertise through video content.",
+      "key_takeaway": "Integrating personal insights and expertise in videos can differentiate you in a competitive market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:32",
+      "end_timestamp": "00:09:01",
+      "quote": "When you're posting on social media and having those static posts, you're actually not really leveling up people's understanding of who you are.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional approach to social media marketing.",
+      "suggested_hook": "Are your social media posts truly showcasing who you are?"
+    },
+    {
+      "timestamp": "00:12:00",
+      "end_timestamp": "00:12:30",
+      "quote": "Everyone hates their own voice... We are all our own worst judges.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Addresses a common fear with a relatable personal story.",
+      "suggested_hook": "Do you hate the sound of your own voice? You're not alone."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Record short videos while out in the field to share daily activities and insights.",
+      "context": "Use during regular workdays to engage your audience with authentic content.",
+      "timestamp": "00:14:18"
+    },
+    {
+      "tactic": "Use a sticky note method to focus on specific goals for content creation.",
+      "context": "Align social media efforts with personal business goals.",
+      "timestamp": "00:04:51"
+    }
+  ],
+  "quotable_insights": [
+    "Being on camera and showing your voice is very, very important.",
+    "If being on camera for the first time is uncomfortable, it means your brain is growing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for REALTORS to generate more business."
+    },
+    {
+      "type": "course",
+      "name": "VIP Thought Leader Day",
+      "context": "A program to help agents get comfortable on camera with a dialed-in message."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of REALTORS speaking on camera to build trust, credibility, and relatability. She provides actionable tips for overcoming discomfort with video content and highlights the benefits of integrating personal insights into social media strategies. The episode encourages agents to use video as a tool for personal branding and business growth.",
+  "_metadata": {
+    "source_file": "2024-03-28_item171_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:27:20.067827",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

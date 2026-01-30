@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sarah DeWulf",
+    "title": "Licensed REALTOR",
+    "company": "Real",
+    "production_level": "Top 0.1% of agents in the United States",
+    "specialty": "Residential real estate",
+    "location": "Quad Cities (Illinois and Iowa)"
+  },
+  "main_topics": [
+    "Building a real estate business",
+    "Customer service and client management",
+    "Leveraging social media and reviews",
+    "Navigating market challenges",
+    "Personal resilience and growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating new listings in a competitive market",
+      "solution_summary": "Send handwritten letters to expired listings offering to discuss new strategies.",
+      "timestamp": "24:35"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Use social media to stay connected and send personalized gifts for life events.",
+      "timestamp": "29:08"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Dealing with high interest rates and market slowdown",
+      "solution_summary": "Focus on client education about payment comfort over interest rates and emphasize local market conditions over national news.",
+      "timestamp": "22:58"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sarah provides insights into achieving high production levels through consistent systems and client care.",
+      "key_takeaway": "Focus on creating raving fans through exceptional service and personalized follow-ups."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Sarah's strategies for building a business from scratch.",
+      "key_takeaway": "Join networking groups and volunteer opportunities to expand your sphere of influence."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:35",
+      "end_timestamp": "25:08",
+      "quote": "I send handwritten letters to expired listings every Tuesday, and it still works.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic that agents can implement immediately.",
+      "suggested_hook": "Looking for a new way to generate listings? Try this proven tactic!"
+    },
+    {
+      "timestamp": "08:02",
+      "end_timestamp": "08:38",
+      "quote": "Without our health, we have nothing. All these little stressors in life... if your family's healthy, that's all that matters.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Touches on personal resilience and the importance of health, resonating with listeners on a human level.",
+      "suggested_hook": "Why health should be your top priority, even in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send personalized gifts for client life events",
+      "context": "Use social media to track client milestones and send thoughtful gifts like framed photos.",
+      "timestamp": "29:08"
+    },
+    {
+      "tactic": "Conduct thorough buyer consultations",
+      "context": "Set clear expectations and educate clients on the buying process to enhance their experience.",
+      "timestamp": "19:15"
+    }
+  ],
+  "quotable_insights": [
+    "Create raving fans by going above and beyond what the customer expects.",
+    "Don't get your local real estate advice from the news."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Google My Business",
+      "context": "Recommended for collecting and displaying client reviews to enhance online presence."
+    },
+    {
+      "type": "tool",
+      "name": "Smallwoods",
+      "context": "Used for creating personalized framed photos as client gifts."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah DeWulf shares her journey to becoming a top-producing REALTOR in the Quad Cities. She discusses the importance of creating raving fans through exceptional customer service and personalized client interactions. Sarah also provides actionable strategies for lead generation, such as sending handwritten letters to expired listings, and emphasizes the significance of maintaining client relationships through social media and thoughtful gifts.",
+  "_metadata": {
+    "source_file": "2023-10-31_item206_Sara-DeWulf",
+    "analyzed_at": "2026-01-29T18:04:41.884679",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

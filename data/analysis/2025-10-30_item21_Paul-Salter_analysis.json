@@ -1,0 +1,86 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset and Performance Coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Work-life balance versus alignment",
+    "Consequences of imbalance",
+    "Importance of honest communication",
+    "Mindset and self-awareness",
+    "Sustainable success strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Chasing work-life balance leading to burnout",
+      "solution_summary": "Shift focus from balance to alignment by being honest about your goals and needs.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Overworking without sustainable results",
+      "solution_summary": "Calibrate work intensity and rest to avoid burnout and maintain high performance.",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the common issue of burnout from overworking in pursuit of success.",
+      "key_takeaway": "Shift from seeking balance to seeking alignment with your true goals and needs."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into sustainable success strategies.",
+      "key_takeaway": "Align your actions with your true desires to achieve long-term success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:30",
+      "end_timestamp": "15:15",
+      "quote": "Your superpower inevitably will become your kryptonite.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement encapsulates the risk of over-relying on one's strengths without balance.",
+      "suggested_hook": "Is your greatest strength also your biggest weakness?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "22:45",
+      "quote": "Every single breakthrough begins with honest communication.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This emphasizes the foundational role of self-awareness in achieving success.",
+      "suggested_hook": "The key to your next breakthrough might be simpler than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set alarms to reflect on personal desires",
+      "context": "Use this tactic to gain clarity on your true goals and align your actions accordingly.",
+      "timestamp": "25:00"
+    }
+  ],
+  "quotable_insights": [
+    "Alignment allows you to achieve significant and sustainable results.",
+    "The goal here is not to seek balance in entrepreneurship; you need to seek alignment."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for real estate recruiters to identify agents looking to switch brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the pitfalls of chasing work-life balance and advocates for seeking alignment with one's true goals and desires. He emphasizes the importance of honest self-communication and sustainable success strategies to avoid burnout and achieve long-term fulfillment.",
+  "_metadata": {
+    "source_file": "2025-10-30_item21_Paul-Salter",
+    "analyzed_at": "2026-01-29T19:52:46.688207",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

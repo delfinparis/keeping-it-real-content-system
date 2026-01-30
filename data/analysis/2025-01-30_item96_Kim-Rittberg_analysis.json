@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Creative Executive Producer",
+    "company": "Henry Street Media",
+    "production_level": "Top 1%",
+    "specialty": "Video and Social Media Strategy",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Video Marketing for Real Estate",
+    "Building Confidence on Camera",
+    "Social Media Strategy",
+    "Content Creation for Lead Generation",
+    "Personal Branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents feel self-conscious on camera and lack confidence.",
+      "solution_summary": "Shift mindset from supermodel mode to teacher mode to focus on delivering valuable information rather than worrying about appearance.",
+      "timestamp": "20:32"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents are not generating leads from social media.",
+      "solution_summary": "Implement a structured video strategy that combines expertise with personal storytelling to engage and convert followers into leads.",
+      "timestamp": "28:05"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents lack a clear strategy for content creation.",
+      "solution_summary": "Develop a comprehensive video content plan that includes engaging, educational, and entertaining elements.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with establishing a presence on social media.",
+      "key_takeaway": "Start by focusing on building confidence and a clear content strategy to effectively use video for lead generation."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may have some social media presence but lack a cohesive strategy.",
+      "key_takeaway": "Refine your approach by integrating personal stories with professional expertise to better engage your audience."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:32",
+      "end_timestamp": "21:15",
+      "quote": "Shift out of supermodel mode and into teacher mode. Focus on your message, not your appearance.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This advice helps agents overcome a common barrier to using video effectively.",
+      "suggested_hook": "Struggling to feel confident on camera? Here's a mindset shift that can help."
+    },
+    {
+      "timestamp": "28:05",
+      "end_timestamp": "28:45",
+      "quote": "Video is a modern networking tool. Treat every contact like a real person.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This emphasizes the importance of personal connection in digital marketing.",
+      "suggested_hook": "Want to turn your social media followers into clients? Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage with your audience by responding to comments and messages.",
+      "context": "Use social media as a two-way communication tool to build relationships.",
+      "timestamp": "28:05"
+    },
+    {
+      "tactic": "Create content that combines expertise with personal stories.",
+      "context": "This approach helps to humanize your brand and build trust with potential clients.",
+      "timestamp": "30:16"
+    }
+  ],
+  "quotable_insights": [
+    "Hiding from the camera means hiding from clients.",
+    "Content can convert into cash when you have the right strategy and confidence."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for recruiting and retention by identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares her expertise on leveraging video and social media to generate leads and build a personal brand in real estate. She emphasizes the importance of confidence on camera and provides actionable strategies for creating engaging content that converts followers into clients. Kim also highlights the significance of personal storytelling in establishing trust and credibility with potential clients.",
+  "_metadata": {
+    "source_file": "2025-01-30_item96_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:07:20.158207",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

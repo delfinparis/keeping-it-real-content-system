@@ -1,0 +1,76 @@
+{
+  "guest_info": {
+    "name": "Dr. Erin Helle",
+    "title": "Unknown",
+    "company": "BC Global Investments",
+    "production_level": "Unknown",
+    "specialty": "Client Relationship Management",
+    "location": "Unknown"
+  },
+  "main_topics": [
+    "Effective Communication Strategies",
+    "Client Management Techniques",
+    "Referral Generation",
+    "Customer Service Skills"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Building and maintaining strong client relationships",
+      "solution_summary": "Utilize active listening, clear communication, and regular check-ins to build trust and manage client expectations.",
+      "timestamp": "02:27"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Misinterpretation in text communication",
+      "solution_summary": "Use video messages to convey tone and intent clearly, reducing misinterpretations.",
+      "timestamp": "04:50"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for building strong client relationships and generating referrals.",
+      "key_takeaway": "Effective communication and proactive client management are key to generating referrals and maintaining client satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:50",
+      "end_timestamp": "06:30",
+      "quote": "Record a video of yourself...so they can see your smiling face and hear your tone.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a specific tactic that can immediately improve client communication.",
+      "suggested_hook": "Want to avoid miscommunication with clients? Try this simple video message trick!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send video messages for important updates",
+      "context": "Use video messages to convey tone and reduce misinterpretation in client communication.",
+      "timestamp": "04:50"
+    },
+    {
+      "tactic": "Regular proactive check-ins with clients",
+      "context": "Ensure clients are informed and feel valued by providing updates even when there are none.",
+      "timestamp": "10:52"
+    }
+  ],
+  "quotable_insights": [
+    "Happy clients are the foundation of your success as a REALTOR."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "BC Global Investments",
+      "context": "For accessing handouts and booking calls with Dr. Erin Helle."
+    }
+  ],
+  "episode_summary": "Dr. Erin Helle discusses the importance of effective communication and client management in real estate. She shares actionable strategies for building strong client relationships, generating referrals, and maintaining client satisfaction through proactive communication and exceptional service.",
+  "_metadata": {
+    "source_file": "2024-07-11_item143_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-29T18:40:36.764080",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

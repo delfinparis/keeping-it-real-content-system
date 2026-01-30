@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Athena Brownson",
+    "title": "Luxury REALTOR",
+    "company": "Compass",
+    "production_level": "Top 1%",
+    "specialty": "Luxury properties and creating healthy, balanced spaces",
+    "location": "Denver Metro, Colorado"
+  },
+  "main_topics": [
+    "Mindset and Visualization",
+    "Overcoming Personal Challenges",
+    "Importance of Coaching and Mentorship",
+    "Building Resilience and Adaptability",
+    "Gratitude and Self-Care Practices"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining a positive mindset despite personal challenges",
+      "solution_summary": "Athena emphasizes the power of visualization and gratitude practices to maintain a positive mindset and overcome challenges.",
+      "timestamp": "06:03"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Balancing personal health with professional responsibilities",
+      "solution_summary": "Athena discusses the importance of building a supportive team and having structured routines to manage health and work effectively.",
+      "timestamp": "24:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Authenticity in client relationships",
+      "solution_summary": "Athena highlights the importance of being transparent about personal challenges to build trust and authenticity with clients.",
+      "timestamp": "25:22"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Athena shares strategies on visualization and mindset that are crucial for reaching top production levels.",
+      "key_takeaway": "Visualization and structured routines can significantly enhance performance and resilience."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode provides insights into managing personal health and professional responsibilities, which is vital for veterans feeling overwhelmed.",
+      "key_takeaway": "Building a supportive team and focusing on self-care can prevent burnout."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:43",
+      "end_timestamp": "07:15",
+      "quote": "I always say I'm the luckiest sick person alive.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This statement captures Athena's resilience and positive outlook despite her chronic illness.",
+      "suggested_hook": "How a top REALTOR turns adversity into strength."
+    },
+    {
+      "timestamp": "24:30",
+      "end_timestamp": "25:00",
+      "quote": "Culture and community are really the two of the biggest pillars of my business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of building a supportive network in real estate.",
+      "suggested_hook": "Why community is key to real estate success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Visualization of ideal client interactions",
+      "context": "Write out detailed scenarios of successful client interactions to mentally prepare and attract the right clients.",
+      "timestamp": "18:06"
+    },
+    {
+      "tactic": "Gratitude journaling twice a day",
+      "context": "Write five unique things you're grateful for each day to maintain a positive mindset.",
+      "timestamp": "42:32"
+    }
+  ],
+  "quotable_insights": [
+    "The greatest moments of growth occur when you're being challenged the most.",
+    "Real estate is not rocket science; it's reps."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Atomic Habits",
+      "context": "Recommended for improving daily habits and becoming 1% better every day."
+    },
+    {
+      "type": "therapy",
+      "name": "EMDR",
+      "context": "Used by Athena to process trauma and improve mental resilience."
+    }
+  ],
+  "episode_summary": "In this episode, Athena Brownson shares her journey from professional skiing to becoming a top 1% luxury REALTOR. She discusses the importance of mindset, visualization, and gratitude in overcoming personal challenges, such as her battle with chronic Lyme disease. Athena also emphasizes the value of coaching, building a supportive team, and maintaining authenticity in client relationships.",
+  "_metadata": {
+    "source_file": "2025-02-27_item86_Athena-Brownson",
+    "analyzed_at": "2026-01-29T19:11:36.645369",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "guest_info": {
+    "name": "Dr. Erin Helle",
+    "title": "Real Estate Agent Coach",
+    "company": "eXp Realty",
+    "production_level": "Top REALTOR with a growing team",
+    "specialty": "Real Estate Coaching and Team Building",
+    "location": "Not specified"
+  },
+  "main_topics": [
+    "Mindset and Goal Setting",
+    "Business and Wealth Building",
+    "Health and Personal Well-being"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of clarity in goal setting",
+      "solution_summary": "Define goals that matter to you personally, not influenced by others, and focus on achieving those.",
+      "timestamp": "05:01"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Balancing business profitability with personal health",
+      "solution_summary": "Prioritize making your business profitable first, then focus on wealth and health to avoid burnout.",
+      "timestamp": "06:34"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for significant business growth and personal development.",
+      "key_takeaway": "Define clear, personal goals and take actionable steps towards achieving them for business success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:52",
+      "end_timestamp": "10:28",
+      "quote": "Describe your ideal business. What is your business represent? What makes your business unique?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Encourages agents to think deeply about their business identity and unique value proposition.",
+      "suggested_hook": "Are you clear on what makes your business stand out?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Write goals in the present tense as if they are already achieved.",
+      "context": "Enhances belief and alignment with your goals.",
+      "timestamp": "11:55"
+    }
+  ],
+  "quotable_insights": [
+    "Dream big, start small, but most of all start."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for generating more business."
+    }
+  ],
+  "episode_summary": "In this episode, Dr. Erin Helle introduces a new series focused on helping real estate agents grow their businesses through mindset, goal setting, and actionable steps. She emphasizes the importance of defining personal goals, building a profitable business, and maintaining health to avoid burnout. Listeners are encouraged to visualize their ideal business and life, and to take concrete steps towards achieving their dreams.",
+  "_metadata": {
+    "source_file": "2024-03-15_item176_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-29T18:23:45.689097",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

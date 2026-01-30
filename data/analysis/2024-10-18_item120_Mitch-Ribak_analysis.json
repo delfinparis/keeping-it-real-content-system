@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "Mitch Ribak",
+    "title": "Team Leader, Coach, Author, Broker, Business Owner",
+    "company": "Tropical Beachside Broker by EXP",
+    "production_level": "Averages 800+ transactions per year",
+    "specialty": "Lead conversion and business operations",
+    "location": "Brevard County, Florida"
+  },
+  "main_topics": [
+    "Lead generation and conversion",
+    "Time management and productivity",
+    "Building a sustainable real estate business",
+    "The importance of setting expectations",
+    "Work-life balance in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without a sphere of influence",
+      "solution_summary": "Utilize open houses and internet marketing to generate leads.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Agents working excessive hours without seeing family",
+      "solution_summary": "Implement a modern team model where tasks are delegated to contracted agents.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents not having a business plan",
+      "solution_summary": "Write a business plan from day one and focus on lead generation, nurturing, and conversion.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Believing that selling more homes equals success",
+      "solution_summary": "Focus on creating a business that provides freedom and quality of life, not just high sales numbers.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into how to scale production efficiently.",
+      "key_takeaway": "Focus on building systems that allow you to work less while maintaining high production."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to reduce workload and regain personal time.",
+      "key_takeaway": "Delegate tasks and focus on your strengths to improve work-life balance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "The only reason they use you is because you happen to be in front of them when they're buying or selling.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that trust is the primary reason clients choose agents.",
+      "suggested_hook": "Ever wonder why clients really choose you as their REALTOR?"
+    },
+    {
+      "timestamp": "30:00",
+      "end_timestamp": "30:45",
+      "quote": "Your expectations are the cause of almost all your disappointment.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages listeners to reevaluate their expectations to reduce stress.",
+      "suggested_hook": "Could your expectations be holding you back?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send bi-weekly emails with market updates and local events.",
+      "context": "To stay top-of-mind with your contacts and increase engagement.",
+      "timestamp": "16:30"
+    },
+    {
+      "tactic": "Set boundaries with clients about your availability.",
+      "context": "To maintain a work-life balance and manage client expectations.",
+      "timestamp": "50:00"
+    }
+  ],
+  "quotable_insights": [
+    "Prospecting solves all problems.",
+    "Kids spell love T-I-M-E."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Big Lie",
+      "context": "Mitch's book on creating a sustainable real estate business."
+    },
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "A technology partner for lead generation and conversion."
+    }
+  ],
+  "episode_summary": "In this episode, Mitch Ribak shares his journey from a struggling entrepreneur to a top-producing REALTOR, emphasizing the importance of lead generation, setting expectations, and maintaining work-life balance. He introduces his modern team model that allows agents to delegate tasks and focus on high-value activities, ultimately leading to a more sustainable and fulfilling career in real estate.",
+  "_metadata": {
+    "source_file": "2024-10-18_item120_Mitch-Ribak",
+    "analyzed_at": "2026-01-29T18:52:08.353737",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

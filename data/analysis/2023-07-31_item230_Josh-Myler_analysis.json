@@ -1,0 +1,73 @@
+{
+  "guest_info": {
+    "name": "Josh Myler",
+    "title": "Top Producer",
+    "company": "The Agency",
+    "production_level": "Top 1% producer",
+    "specialty": "High net worth individuals",
+    "location": "Beverly Hills, California"
+  },
+  "main_topics": [
+    "Emotional intelligence in real estate",
+    "Navigating high net worth client relationships",
+    "Market analysis and value determination",
+    "Transitioning career paths",
+    "Client management and service"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client emotions during transactions",
+      "solution_summary": "Act as a guide and keep clients focused on the end goal, using emotional intelligence to manage expectations and reactions.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding market changes post-COVID",
+      "solution_summary": "Educate clients on historical market trends to provide context for current conditions and future expectations.",
+      "timestamp": "40:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into managing high net worth clients and the importance of emotional intelligence.",
+      "key_takeaway": "Success in real estate is not just about transactions but about building lasting relationships through understanding and managing client emotions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "It's never about the deal; it's about the client. Focus on their needs and the deal will follow.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This highlights the importance of client-centered service in real estate.",
+      "suggested_hook": "Why focusing on the client, not the deal, leads to success in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use market history to educate clients",
+      "context": "Provide clients with historical market data to help them understand current conditions.",
+      "timestamp": "40:00"
+    }
+  ],
+  "quotable_insights": [
+    "There truly is a buyer for every house, and a house for every buyer.",
+    "Success in real estate is about keeping everyone calm and focused on the end goal."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Untethered Soul",
+      "context": "Recommended for understanding the pursuit of happiness and being of service."
+    }
+  ],
+  "episode_summary": "In this episode, Josh Myler shares his journey from aspiring doctor to top-producing real estate agent in Beverly Hills. He emphasizes the importance of emotional intelligence in managing client relationships and navigating high-stakes transactions. Josh also discusses the value of understanding market trends and educating clients to foster trust and successful outcomes.",
+  "_metadata": {
+    "source_file": "2023-07-31_item230_Josh-Myler",
+    "analyzed_at": "2026-01-29T17:59:57.126496",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

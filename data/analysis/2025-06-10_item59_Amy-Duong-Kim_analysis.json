@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Amy Duong Kim",
+    "title": "Team Lead",
+    "company": "Duong Kim Global at Compass",
+    "production_level": "Top 1% agent for the last 15+ years",
+    "specialty": "Residential and Commercial Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Prospecting and lead generation",
+    "Market challenges and solutions",
+    "Client engagement and retention",
+    "Effective use of social media",
+    "Offer strategies in competitive markets"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding new buyers and sellers in a tough market",
+      "solution_summary": "Focus on life events and needs to persuade potential sellers and buyers.",
+      "timestamp": "15:02"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Staying organized with marketing efforts",
+      "solution_summary": "Plan marketing strategies in the fourth quarter to avoid distractions during the year.",
+      "timestamp": "33:04"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Submitting competitive offers",
+      "solution_summary": "Include a summary page, have a strong lender, and communicate clearly with listing agents.",
+      "timestamp": "26:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights from a top 1% agent on maintaining high production levels.",
+      "key_takeaway": "Consistent prospecting and strategic client engagement are key to sustaining success."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on overcoming market challenges and improving client interactions.",
+      "key_takeaway": "Adapt to market conditions by focusing on client needs and leveraging social media effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "22:30",
+      "quote": "Make it a rule that I have to prospect at least one person a day.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a simple, actionable tactic for consistent prospecting.",
+      "suggested_hook": "Struggling with prospecting? Here's a simple daily habit to boost your leads."
+    },
+    {
+      "timestamp": "33:04",
+      "end_timestamp": "33:30",
+      "quote": "I don't try any new marketing tactics until the fourth quarter of the year.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the idea of constant marketing experimentation.",
+      "suggested_hook": "Why you should stop experimenting with marketing all year round."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Reach out to at least one prospect daily.",
+      "context": "Builds a habit of consistent prospecting without overwhelming oneself.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Boost listings on social media with targeted ads.",
+      "context": "Increases visibility of open houses and listings to the right audience.",
+      "timestamp": "47:56"
+    }
+  ],
+  "quotable_insights": [
+    "You can never assume that your clients are going to be with you forever without any nurturing.",
+    "It's always a good time to buy real estate in Chicago and the Chicago land area."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Amy Duong Kim shares her strategies for maintaining top producer status in a challenging market. She emphasizes the importance of consistent prospecting, strategic marketing planning, and effective client engagement. Listeners will gain insights into submitting competitive offers and leveraging social media to enhance visibility.",
+  "_metadata": {
+    "source_file": "2025-06-10_item59_Amy-Duong-Kim",
+    "analyzed_at": "2026-01-29T19:27:59.875539",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

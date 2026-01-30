@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ryan Bruen",
+    "title": "Team Lead",
+    "company": "Bruin Team",
+    "production_level": "Number one Coldwell Banker team in Morris and Somerset counties",
+    "specialty": "Luxury Home Marketing Specialist",
+    "location": "Morris and Somerset counties, New Jersey"
+  },
+  "main_topics": [
+    "Building client relationships",
+    "Market challenges and solutions",
+    "Smart home technology",
+    "Proactive business strategies",
+    "Client communication and CRM usage"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Motivation to move due to high interest rates",
+      "solution_summary": "Focus on lifestyle benefits rather than financial incentives to motivate clients.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Engage in personal, one-on-one interactions and keep detailed CRM records for personalized outreach.",
+      "timestamp": "39:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing business during slow market periods",
+      "solution_summary": "Use slow periods to refine systems and processes to prepare for busy times.",
+      "timestamp": "58:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into maintaining client relationships and proactive market strategies.",
+      "key_takeaway": "Focus on building deep, personal relationships with clients and use technology to stay ahead of market changes."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Ryan discusses team management and leveraging systems to improve efficiency.",
+      "key_takeaway": "Implement systems that allow your team to be proactive and prepared for market fluctuations."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "The real problem lately is motivation, not inventory.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that inventory is the main issue.",
+      "suggested_hook": "Think inventory is the biggest issue in real estate? Think again."
+    },
+    {
+      "timestamp": "39:00",
+      "end_timestamp": "40:00",
+      "quote": "Every home I sell, I want to be the beginning of a long-term relationship.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of relationship-building in real estate.",
+      "suggested_hook": "Why every transaction should be the start of a lifelong relationship."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set up alerts for client neighborhoods to provide timely updates.",
+      "context": "Use alerts to inform clients about market activity before they find out elsewhere.",
+      "timestamp": "48:00"
+    },
+    {
+      "tactic": "Use slow periods to refine business systems.",
+      "context": "Prepare for busy times by improving processes during slower market periods.",
+      "timestamp": "58:00"
+    }
+  ],
+  "quotable_insights": [
+    "Don't wait for someone to do something for you; if it's important, figure it out and find a way.",
+    "The best time to buy a house is when you need a house."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting tool for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Ryan Bruen discusses the importance of building long-term client relationships and staying proactive in a challenging market. He emphasizes the use of smart home technology and CRM systems to enhance client communication and business efficiency. Ryan also shares strategies for maintaining motivation and refining business processes during slower market periods.",
+  "_metadata": {
+    "source_file": "2025-08-14_item46_Ryan-Bruen",
+    "analyzed_at": "2026-01-29T19:36:35.859163",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

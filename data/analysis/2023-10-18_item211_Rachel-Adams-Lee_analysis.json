@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Rachel Adams Lee",
+    "title": "Top 1000 REALTOR and Business Coach",
+    "company": "Rachel Adams Lee Group",
+    "production_level": "Top 1000 agent in the US",
+    "specialty": "Social media lead generation",
+    "location": "Northern California"
+  },
+  "main_topics": [
+    "Social media strategies for REALTORS",
+    "Lead generation through social media",
+    "Balancing personal and professional life",
+    "Time management and productivity",
+    "Building a personal brand"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating referrals through social media",
+      "solution_summary": "Use an 80/20 rule for content, focusing 80% on personal content and 20% on real estate, and implement systems for consistent posting and engagement.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Making social media all about real estate",
+      "solution_summary": "Focus on personal interests and community involvement to create a more engaging and relatable social media presence.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Managing time effectively with multiple responsibilities",
+      "solution_summary": "Implement strict time blocking to ensure focus on different tasks and responsibilities.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for REALTORS who have plateaued in their business growth.",
+      "key_takeaway": "Utilize social media strategically to generate leads and build a personal brand."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Rachel shares her journey from a new agent to a top producer using innovative social media strategies.",
+      "key_takeaway": "Focus on adding value and building relationships through social media to drive business success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "People might find you because you're in real estate, but they stick around because of who you are and how you make them feel.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This highlights the importance of personal branding in real estate.",
+      "suggested_hook": "Why your personality is your biggest asset in real estate."
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "If you're not doing social media as a REALTOR now, you're going to get left behind.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the necessity of social media for modern REALTORS.",
+      "suggested_hook": "The one thing every REALTOR must do to stay relevant."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use the 555 rule for social media engagement.",
+      "context": "Comment on five posts with five words or more five minutes before posting your own content.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Create a content calendar focusing on personal interests and community events.",
+      "context": "Plan posts that include local events, personal stories, and real estate tips.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your social media should be 80% about who you are and 20% about real estate.",
+    "The algorithm is your impact and influence on social media."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Rachel's Freebies",
+      "context": "Provides 20 free hooks for social media posts."
+    },
+    {
+      "type": "course",
+      "name": "Weekly Real System",
+      "context": "A service that provides REALTORS with ready-to-post real estate reels."
+    }
+  ],
+  "episode_summary": "In this episode, Rachel Adams Lee shares her journey from a new agent to a top producer by leveraging social media for lead generation. She provides actionable strategies for REALTORS to build their personal brand and generate referrals through platforms like Instagram and Facebook. Rachel emphasizes the importance of adding value and building relationships to drive business success.",
+  "_metadata": {
+    "source_file": "2023-10-18_item211_Rachel-Adams-Lee",
+    "analyzed_at": "2026-01-29T18:00:53.150785",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

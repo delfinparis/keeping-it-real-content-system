@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jarret Jarvis",
+    "title": "Licensed Real Estate Agent",
+    "company": "Compass Realty",
+    "production_level": "Sold over 200 homes",
+    "specialty": "Virtual Assistant Services for Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Delegation and Virtual Assistants",
+    "Marketing Strategies for Real Estate",
+    "AI and Technology in Real Estate",
+    "Trends in Buyer and Seller Behavior",
+    "Building Agent Networks"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Agents trying to do everything themselves",
+      "solution_summary": "Delegate tasks to virtual assistants to reduce stress and increase business growth.",
+      "timestamp": "04:25"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating inbound referrals",
+      "solution_summary": "Focus on building relationships with agents nationwide to receive inbound referrals.",
+      "timestamp": "26:50"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Buyers focused on interest rates",
+      "solution_summary": "Educate buyers on market conditions and provide competitive mortgage options.",
+      "timestamp": "14:56"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for scaling business through delegation and technology.",
+      "key_takeaway": "Utilizing virtual assistants can significantly increase productivity and business growth."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into advanced marketing and networking strategies.",
+      "key_takeaway": "Building a national agent network can lead to high-value referrals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:20",
+      "end_timestamp": "05:08",
+      "quote": "Stop trying to do everything yourself. Systems and people beat hustle.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that hard work alone leads to success.",
+      "suggested_hook": "Are you working harder, not smarter? Here's why you need to delegate."
+    },
+    {
+      "timestamp": "26:50",
+      "end_timestamp": "27:35",
+      "quote": "The biggest deal I've ever gotten was from building relationships with agents nationwide.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Highlights the unconventional approach of focusing on agent relationships over direct client marketing.",
+      "suggested_hook": "Want bigger deals? Focus on this unexpected strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use virtual assistants for specific tasks like client follow-up and social media management.",
+      "context": "Delegate repetitive and time-consuming tasks to focus on high-value activities.",
+      "timestamp": "29:02"
+    },
+    {
+      "tactic": "Leverage AI tools like ChatGPT for creating SEO-optimized listing descriptions.",
+      "context": "Enhance online visibility and attract more potential buyers.",
+      "timestamp": "18:54"
+    }
+  ],
+  "quotable_insights": [
+    "Systems and people beat hustle.",
+    "Brand is everything; think outside the box to solve problems for your clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for identifying agents likely to switch brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Jarret Jarvis discusses the importance of delegation and the use of virtual assistants to scale a real estate business. He shares insights on leveraging AI for marketing and listing optimization, as well as building a national network of agents for inbound referrals. Jarret emphasizes working smarter, not harder, and provides actionable strategies for improving productivity and business growth.",
+  "_metadata": {
+    "source_file": "2025-09-24_item34_Jarret-Jarvis",
+    "analyzed_at": "2026-01-29T19:45:07.072221",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

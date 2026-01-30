@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach for Real Estate Agents",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content creation and coaching",
+    "location": "Brooklyn, New York"
+  },
+  "main_topics": [
+    "Avoiding cheesy or salesy videos",
+    "Content marketing strategies",
+    "Improving on-camera confidence",
+    "Effective video production techniques",
+    "Building relationships through video content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Appearing cheesy or salesy in videos",
+      "solution_summary": "Focus on providing valuable content that educates or entertains rather than directly selling.",
+      "timestamp": "00:04:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who want to improve their video content and personal branding.",
+      "key_takeaway": "Shift from a sales-focused approach to a content-driven approach to build a stronger personal brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:07:54",
+      "end_timestamp": "00:08:27",
+      "quote": "Hey, everyone. Kimrick. We're here. I'm checking out this brownstone in Brooklyn. I have to show you some of these amazing historic details that I just love.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the difference between a salesy pitch and engaging content.",
+      "suggested_hook": "Want to make your real estate videos more engaging? Here's how!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Shift from 'supermodel mode' to 'teacher mode' on camera.",
+      "context": "Focus on the message and content rather than appearance to improve on-camera confidence.",
+      "timestamp": "00:06:40"
+    }
+  ],
+  "quotable_insights": [
+    "Your marketing should feel like content, and your content should feel like content, but it does the job of marketing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended as a recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares insights on how real estate agents can avoid appearing cheesy or salesy in their videos by focusing on content that educates and entertains. She emphasizes the importance of shifting from a sales-focused approach to a content-driven strategy to build stronger relationships and personal brands. Kim also discusses the significance of on-camera confidence and offers practical tips for creating engaging video content.",
+  "_metadata": {
+    "source_file": "2025-02-26_item87_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:11:09.002297",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

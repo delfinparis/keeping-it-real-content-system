@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Zach Geisendorfer",
+    "title": "Sales Manager and Partner",
+    "company": "Fam Realty Group",
+    "production_level": "Top 1% producer",
+    "specialty": "Mega Open Houses",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Mega Open House Strategy",
+    "Lead Generation through Open Houses",
+    "Effective Follow-Up Techniques",
+    "Agent Productivity and Systems",
+    "Cold Calling for Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Open houses not generating leads",
+      "solution_summary": "Implement a Mega Open House strategy starting with calls to neighbors and extensive signage.",
+      "timestamp": "00:03:31"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Low conversion from open house visitors",
+      "solution_summary": "Use a structured greeting and follow-up process to increase engagement and conversions.",
+      "timestamp": "00:36:15"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient follow-up processes",
+      "solution_summary": "Implement a 21-touch follow-up system over 7 days post-open house.",
+      "timestamp": "00:50:51"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with lead generation and open houses are a common starting point.",
+      "key_takeaway": "A structured approach to open houses can significantly increase lead generation and conversion."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Top producers are always looking for ways to optimize their systems and increase efficiency.",
+      "key_takeaway": "Implementing a mega open house strategy can set you apart and increase your production."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:18:00",
+      "end_timestamp": "00:18:30",
+      "quote": "The reason open houses don't work is because you're not hosting open houses. You're just hanging out in the house on a Saturday afternoon.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that open houses are ineffective.",
+      "suggested_hook": "Think open houses don't work? Think again!"
+    },
+    {
+      "timestamp": "00:36:15",
+      "end_timestamp": "00:37:01",
+      "quote": "I just asked one favor though. Can you meet me by the kitchen counter before you leave? So I can ask you a few questions about the home.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic to engage open house visitors.",
+      "suggested_hook": "Want to convert more open house visitors? Here's a simple tactic."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call 200-300 neighbors before an open house.",
+      "context": "Start on Wednesday before a Saturday open house to generate interest and leads.",
+      "timestamp": "00:19:04"
+    },
+    {
+      "tactic": "Use 50+ signs for open houses.",
+      "context": "Increase visibility and traffic to the open house.",
+      "timestamp": "00:31:55"
+    },
+    {
+      "tactic": "Implement a 21-touch follow-up system.",
+      "context": "Engage with open house visitors over the week following the event.",
+      "timestamp": "00:50:51"
+    }
+  ],
+  "quotable_insights": [
+    "The work works, as long as you work the work.",
+    "An impressive agent is focused on selling the house, not just collecting leads."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "Loft47",
+      "context": "Used as a CRM for managing open house leads."
+    },
+    {
+      "type": "tool",
+      "name": "Fello",
+      "context": "Used for creating market reports for potential sellers."
+    }
+  ],
+  "episode_summary": "In this episode, Zach Geisendorfer shares his proven Mega Open House strategy that has generated significant GCI through effective lead generation and follow-up processes. He discusses the importance of preparation, extensive signage, and a structured approach to engaging open house visitors. Zach also highlights the value of a 21-touch follow-up system to maximize conversions and build a robust client database.",
+  "_metadata": {
+    "source_file": "2025-04-02_item78_Zach-Geisendorfer",
+    "analyzed_at": "2026-01-29T19:16:13.924748",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

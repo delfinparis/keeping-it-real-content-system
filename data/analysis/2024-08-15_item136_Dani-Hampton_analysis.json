@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Dani Hampton",
+    "title": "Real Estate Agent",
+    "company": "Dani Hampton Real Estate Group",
+    "production_level": "Top Producer",
+    "specialty": "Organic Social Media Marketing",
+    "location": "Dallas Fort Worth, Texas"
+  },
+  "main_topics": [
+    "Building a Real Estate Team",
+    "Organic Social Media Marketing",
+    "Personal Growth and Development",
+    "Client Relationship Management",
+    "Balancing Personal and Professional Life"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without paid ads or cold calls",
+      "solution_summary": "Utilize organic social media marketing by being authentic and relatable to build trust and attract clients.",
+      "timestamp": "29:36"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Establishing effective team standards and processes",
+      "solution_summary": "Define clear standards and expectations for team operations and client interactions to ensure consistency and accountability.",
+      "timestamp": "15:25"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Balancing personal growth with professional responsibilities",
+      "solution_summary": "Focus on personal development to improve business outcomes and set a positive example for team members.",
+      "timestamp": "24:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Dani shares strategies on how to scale a real estate business through organic growth and team building.",
+      "key_takeaway": "Building a strong personal brand and team can lead to high production without relying on traditional lead generation methods."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode offers insights into creating effective team standards and managing team dynamics.",
+      "key_takeaway": "Clear communication of expectations and values is crucial for team success and personal accountability."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "29:36",
+      "end_timestamp": "30:07",
+      "quote": "I decided I was not going to be the Lexus driving REALTOR and embraced my true identity.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional image of a REALTOR and emphasizes authenticity.",
+      "suggested_hook": "Why being yourself is your biggest asset in real estate."
+    },
+    {
+      "timestamp": "24:45",
+      "end_timestamp": "25:03",
+      "quote": "Becoming a team leader has been the biggest blessing in my life because it set a higher level of accountability.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the personal growth benefits of leadership roles.",
+      "suggested_hook": "How leading a team can transform your personal and professional life."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Leverage organic social media to build trust and generate leads.",
+      "context": "Focus on being authentic and relatable in your content to connect with potential clients.",
+      "timestamp": "29:36"
+    },
+    {
+      "tactic": "Establish clear standards and expectations for your team.",
+      "context": "Regularly communicate and revisit these standards to ensure alignment and accountability.",
+      "timestamp": "15:25"
+    }
+  ],
+  "quotable_insights": [
+    "People want to connect with people, and if you build that trust factor, they'll naturally want to work with you.",
+    "If you're not proud of what you're sharing, then that's where you probably need to fix something."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Beyond the Method",
+      "context": "Recommended for learning effective Instagram strategies for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Dani Hampton shares her journey from a young REALTOR to a top producer by leveraging organic social media marketing and building a successful real estate team. She emphasizes the importance of personal growth, clear team standards, and authentic branding to attract clients and achieve high production levels without relying on paid leads or cold calls.",
+  "_metadata": {
+    "source_file": "2024-08-15_item136_Dani-Hampton",
+    "analyzed_at": "2026-01-29T18:43:22.500180",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

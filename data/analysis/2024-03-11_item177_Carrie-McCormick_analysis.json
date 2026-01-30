@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top Producer",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 0.001% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Preparing homes for the market",
+    "Buyer expectations in modern real estate",
+    "Networking with agents in other markets",
+    "The impact of social media on real estate",
+    "Virtual staging and technology in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Sellers resistant to updating their homes",
+      "solution_summary": "Educate sellers with data and case studies to show the value of updates and improvements.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding other real estate markets",
+      "solution_summary": "Visit key feeder states to build relationships with local agents and understand their markets.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into managing client expectations and expanding business through networking.",
+      "key_takeaway": "Building a strong network and understanding market trends can significantly enhance your real estate business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:00",
+      "end_timestamp": "07:00",
+      "quote": "It's the hard truth that we've got to tell sellers. Put that investment in upfront to get a better price and a quicker sale.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This advice is crucial for agents dealing with hesitant sellers.",
+      "suggested_hook": "Struggling to convince sellers to update their homes? Here's why it's essential."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use virtual staging to enhance property listings.",
+      "context": "Especially useful in markets with seasonal changes affecting curb appeal.",
+      "timestamp": "16:50"
+    }
+  ],
+  "quotable_insights": [
+    "Sellers don't want to do anything; they want us to do all the legwork."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Curbio",
+      "context": "A service that handles home improvements to prepare properties for sale."
+    },
+    {
+      "type": "tool",
+      "name": "Apply Design",
+      "context": "A virtual staging solution to enhance real estate presentations."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her strategies for preparing homes for sale, emphasizing the importance of updates and staging. She discusses the impact of social media on buyer expectations and the value of networking with agents in other markets. The episode provides actionable insights for real estate agents looking to enhance their client management and expand their business reach.",
+  "_metadata": {
+    "source_file": "2024-03-11_item177_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T18:23:36.116023",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

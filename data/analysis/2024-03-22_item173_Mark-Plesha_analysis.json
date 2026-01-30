@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Mark Plesha",
+    "title": "Real Estate Agent",
+    "company": "Broker Works",
+    "production_level": "Top Agent in Office, $8M+ in 2022",
+    "specialty": "Listings and Probate Leads",
+    "location": "Highland, Indiana"
+  },
+  "main_topics": [
+    "Transitioning to Real Estate",
+    "Lead Generation Strategies",
+    "Time Management for Agents",
+    "Working with Investors",
+    "Building a Local Brand"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding effective lead sources as a new agent",
+      "solution_summary": "Mark focused on direct outbound prospecting, including for sale by owners, expired listings, and probate leads.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing work hours with family time",
+      "solution_summary": "Mark structured his business to focus on listings and investor clients to control his schedule and work 30 hours a week.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a low inventory market",
+      "solution_summary": "Mark pivots his strategy based on market conditions, focusing on probate leads to find listings.",
+      "timestamp": "48:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Mark's success in quickly generating business through strategic lead sources.",
+      "key_takeaway": "Focus on listings and specific lead sources like FSBOs and probate to control your schedule and increase productivity."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can gain insights into building a sustainable business model that adapts to market changes.",
+      "key_takeaway": "Adapt your strategies to market conditions and focus on high-impact activities to maintain consistent growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "34:00",
+      "end_timestamp": "35:00",
+      "quote": "If you can approach the conversation, leading with value, being nice is monumentally important.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of empathy and value in sales, a refreshing take for agents.",
+      "suggested_hook": "Want to know the secret to winning over clients? It's simpler than you think."
+    },
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "I reverse engineered my business to focus on listings, allowing me to work 30 hours a week.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for agents looking to manage their time effectively.",
+      "suggested_hook": "How can you work less and earn more in real estate? Here's the strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call for rent by owners to find potential sellers.",
+      "context": "Use this tactic to connect with property owners who might consider selling.",
+      "timestamp": "13:00"
+    },
+    {
+      "tactic": "Focus on probate leads for listings.",
+      "context": "Target probate leads to find properties that need to be sold due to estate settlements.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "Lead with value and empathy, and the business will follow.",
+    "Adapt your strategies to the market, not the other way around."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Move to Highland",
+      "context": "Mark uses this site to attract people moving to his area and build a local brand."
+    },
+    {
+      "type": "course",
+      "name": "Probate Mastery",
+      "context": "Recommended for learning how to work with probate leads effectively."
+    }
+  ],
+  "episode_summary": "In this episode, Mark Plesha shares how he transitioned from a union laborer to a top-producing real estate agent by focusing on strategic lead sources like FSBOs and probate leads. He discusses the importance of time management, leading with value, and adapting to market conditions to build a sustainable business. Mark's approach offers actionable insights for agents looking to control their schedules and increase productivity.",
+  "_metadata": {
+    "source_file": "2024-03-22_item173_Mark-Plesha",
+    "analyzed_at": "2026-01-29T18:26:42.709430",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

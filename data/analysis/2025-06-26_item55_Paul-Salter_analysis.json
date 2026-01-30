@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset coaching and hypnosis",
+    "location": null
+  },
+  "main_topics": [
+    "Upper Limit Problem",
+    "Self-sabotage",
+    "Mindset and personal development",
+    "Identity transformation",
+    "Achieving next-level success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Upper Limit Problem causing self-sabotage",
+      "solution_summary": "Identify and dismantle limiting beliefs and fears to achieve next-level success.",
+      "timestamp": "00:05:09"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode helps those aiming for higher success levels understand the psychological barriers they might face.",
+      "key_takeaway": "Recognize and overcome self-imposed limits to unlock greater potential."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:10",
+      "end_timestamp": "00:10:01",
+      "quote": "Your subconscious has one objective: to keep you safe. It keeps you in a pattern of comfortability, predictability, and familiarity.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges listeners to rethink how their subconscious limits their success.",
+      "suggested_hook": "Are you unknowingly sabotaging your own success?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify where you are limiting yourself and understand how staying in your current position is keeping you safe.",
+      "context": "Use this tactic to uncover subconscious fears and beliefs that hold you back.",
+      "timestamp": "00:30:36"
+    }
+  ],
+  "quotable_insights": [
+    "Action alleviates anxiety. Action accelerates results.",
+    "In your mind, success is not safe."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for identifying agents looking to move, aiding in recruitment."
+    }
+  ],
+  "episode_summary": "Paul Salter discusses the concept of the Upper Limit Problem, explaining how subconscious beliefs can cap our success and lead to self-sabotage. He provides actionable steps to identify and overcome these barriers, enabling listeners to achieve their full potential in both business and personal life.",
+  "_metadata": {
+    "source_file": "2025-06-26_item55_Paul-Salter",
+    "analyzed_at": "2026-01-29T19:30:25.855918",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

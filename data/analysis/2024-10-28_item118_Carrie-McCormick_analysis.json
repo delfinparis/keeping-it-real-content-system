@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top Producer",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "Top 1% producer, $160M+ in production",
+    "specialty": "Luxury properties, first-time home buyers, veteran investors",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Listing presentations",
+    "Video marketing in real estate",
+    "Building client relationships",
+    "Social media strategy",
+    "Market trends and adaptation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Managing a high volume of listings as a solo agent",
+      "solution_summary": "Build a strong support system and efficient processes to handle multiple listings effectively.",
+      "timestamp": "00:04:44"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Differentiating oneself in listing presentations",
+      "solution_summary": "Focus on unique personal attributes and advanced video marketing to stand out.",
+      "timestamp": "00:06:12"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to the national reach of real estate",
+      "solution_summary": "Utilize video and social media to appeal to a broader, national audience.",
+      "timestamp": "00:09:06"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into managing a high volume of listings and using video marketing to stand out.",
+      "key_takeaway": "Building a strong personal brand and utilizing video can significantly enhance your market presence."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to differentiate in listing presentations and improve client relationships.",
+      "key_takeaway": "Focus on personal differentiation and relationship building to win more listings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:06",
+      "end_timestamp": "00:09:38",
+      "quote": "Videos tell the story of the home, unlike photographs, and engage the buyer emotionally.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the power of video in creating emotional connections with potential buyers.",
+      "suggested_hook": "Discover how video marketing can transform your real estate listings!"
+    },
+    {
+      "timestamp": "00:20:30",
+      "end_timestamp": "00:21:06",
+      "quote": "When you focus on doing an incredible job and providing service, success follows naturally.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a service-oriented mindset that leads to success.",
+      "suggested_hook": "Why focusing on service over numbers can skyrocket your real estate career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video to tell the story of a home",
+      "context": "In listing presentations to differentiate from competitors",
+      "timestamp": "00:09:06"
+    },
+    {
+      "tactic": "Maintain strong relationships with buyer's agents",
+      "context": "To ensure smooth transactions and positive outcomes",
+      "timestamp": "00:15:09"
+    }
+  ],
+  "quotable_insights": [
+    "Your Rolodex and reputation are unique assets that no other agent can compete with.",
+    "Video marketing is not just about showcasing a home; it's about telling its story."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive sales and marketing solution for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her strategies for managing a high volume of listings and differentiating herself through video marketing. She emphasizes the importance of building strong client relationships and adapting to national market trends. Carrie also highlights the role of social media in reaching a broader audience and the value of maintaining a strong personal brand.",
+  "_metadata": {
+    "source_file": "2024-10-28_item118_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T18:53:04.358921",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

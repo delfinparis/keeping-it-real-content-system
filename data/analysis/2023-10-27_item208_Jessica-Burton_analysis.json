@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jessica Burton",
+    "title": "Award-winning REALTOR and continuous top producer",
+    "company": "Indie Quest Properties",
+    "production_level": "$7-10M producer while working two jobs",
+    "specialty": "Communications and marketing specialist",
+    "location": "Houston, Texas"
+  },
+  "main_topics": [
+    "Lead generation strategies",
+    "Importance of processes and systems",
+    "Delegation and virtual assistance",
+    "Social media marketing",
+    "Work-life balance and personal development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding effective lead generation sources",
+      "solution_summary": "Focus on three main sources: open houses, advertising, and social media.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing tasks and staying organized",
+      "solution_summary": "Implement a CRM and time-blocking to manage daily tasks and client follow-ups.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand on social media",
+      "solution_summary": "Engage with audiences through video content and personal stories.",
+      "timestamp": "00:19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents looking to grow their business through structured lead generation and marketing.",
+      "key_takeaway": "Focus on three consistent lead generation sources and leverage social media for brand building."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jessica shares her journey from part-time to full-time success, offering insights on scaling a real estate business.",
+      "key_takeaway": "Delegating tasks and focusing on client-facing activities can significantly boost your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:19:00",
+      "end_timestamp": "00:20:00",
+      "quote": "I realized I could put out a few more reels... and that was a $17,000 commission.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the direct financial impact of leveraging social media effectively.",
+      "suggested_hook": "Want to know how one Instagram reel led to a $17,000 commission?"
+    },
+    {
+      "timestamp": "00:31:00",
+      "end_timestamp": "00:32:00",
+      "quote": "I am really big on processes... I couldn't just fly from the seat of my pants.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of having structured processes in real estate.",
+      "suggested_hook": "Why flying by the seat of your pants won't work in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a CRM to manage client interactions and follow-ups.",
+      "context": "Helps keep track of client birthdays, important dates, and follow-up schedules.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "tactic": "Batch video content for social media.",
+      "context": "Set aside time to create multiple videos at once to maintain a consistent online presence.",
+      "timestamp": "00:24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Lead generation is everything, and we're going to talk about your three main lead generation sources today.",
+    "Delegating tasks allowed me to grow my business by 30%."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Follow-Up Boss",
+      "context": "Recommended CRM for managing client relationships and follow-ups."
+    },
+    {
+      "type": "course",
+      "name": "Kim Rittberg's Video Boot Camp",
+      "context": "Helped Jessica become comfortable with creating video content for social media."
+    }
+  ],
+  "episode_summary": "In this episode, Jessica Burton shares her journey from working two full-time jobs to becoming a top-producing REALTOR. She discusses her lead generation strategies, the importance of having structured processes, and how delegating tasks can significantly boost business growth. Jessica also emphasizes the power of social media marketing and personal development in achieving real estate success.",
+  "_metadata": {
+    "source_file": "2023-10-27_item208_Jessica-Burton",
+    "analyzed_at": "2026-01-29T18:02:47.966504",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

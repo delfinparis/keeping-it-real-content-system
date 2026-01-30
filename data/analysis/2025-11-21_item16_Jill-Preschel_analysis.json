@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jill Preschel",
+    "title": "Top Producer",
+    "company": "Surhan Group",
+    "production_level": "$2B+ in transactions",
+    "specialty": "Luxury and new developments",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Luxury real estate market",
+    "Agent development and mentorship",
+    "Effective communication strategies",
+    "Navigating new developments",
+    "Balancing emotional and rational decision-making"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "How to be chosen by developers for new projects",
+      "solution_summary": "Show up at developments, offer value, and demonstrate expertise in the market.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling luxury clients' unique needs",
+      "solution_summary": "Focus on understanding their emotional and rational needs and provide tailored solutions.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Ensuring clear communication and follow-up",
+      "solution_summary": "Send summary emails after meetings to confirm understanding and next steps.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into breaking into luxury markets and working with developers.",
+      "key_takeaway": "Building relationships and demonstrating value are key to being selected for high-profile projects."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Jill discusses effective mentorship and team development strategies.",
+      "key_takeaway": "Fostering a supportive and responsive team environment can enhance productivity and satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:30",
+      "quote": "Show up at the development, walk the home, take it in, be there.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable step for agents looking to work with developers.",
+      "suggested_hook": "Want to represent new developments? Here's how to get started."
+    },
+    {
+      "timestamp": "31:00",
+      "end_timestamp": "32:30",
+      "quote": "Just because you have the budget and an urgent need doesn't mean you should move forward.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the notion that luxury buyers should always act quickly.",
+      "suggested_hook": "Why patience is a virtue in luxury real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send summary emails after meetings",
+      "context": "To ensure all parties are aligned and clear on next steps.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Use mirroring to connect emotionally",
+      "context": "When dealing with clients to show empathy and understanding.",
+      "timestamp": "43:00"
+    }
+  ],
+  "quotable_insights": [
+    "Being nice gets you things.",
+    "It's not personal. Move on."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Architecture of Happiness",
+      "context": "Inspired Jill's interest in how environments shape people."
+    },
+    {
+      "type": "book",
+      "name": "Thinking, Fast and Slow",
+      "context": "Discusses the two systems of the brain relevant to decision-making."
+    }
+  ],
+  "episode_summary": "Jill Preschel shares her journey in luxury real estate, offering insights into working with developers and luxury clients. She emphasizes the importance of clear communication, emotional intelligence, and showing up to provide value. The episode provides actionable strategies for agents aspiring to break into high-end markets.",
+  "_metadata": {
+    "source_file": "2025-11-21_item16_Jill-Preschel",
+    "analyzed_at": "2026-01-29T19:56:38.832069",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
