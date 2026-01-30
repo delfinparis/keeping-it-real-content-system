@@ -6,7 +6,6 @@ import Image from "next/image";
 import { PROBLEM_CATEGORIES, AVATARS } from "@/lib/types";
 import ProblemWizard from "@/components/ProblemWizard";
 import Footer from "@/components/Footer";
-import RecentEpisodes from "@/components/RecentEpisodes";
 
 interface KeyMoment {
   timestamp: string;
@@ -508,17 +507,6 @@ Let me know what you think after listening!`}
               <span>Guided Search</span>
             </button>
             <button
-              onClick={() => setMode("search")}
-              className={`px-5 py-3 rounded-lg font-medium transition flex items-center justify-center gap-2 ${
-                mode === "search"
-                  ? "bg-white text-kale shadow-lg"
-                  : "bg-white/10 text-white hover:bg-white/20"
-              }`}
-            >
-              <span>✍️</span>
-              <span>Describe Directly</span>
-            </button>
-            <button
               onClick={() => setMode("browse")}
               className={`px-5 py-3 rounded-lg font-medium transition flex items-center justify-center gap-2 ${
                 mode === "browse"
@@ -566,12 +554,6 @@ Let me know what you think after listening!`}
           </div>
         )}
 
-        {/* Recently Added - Show on wizard and search modes */}
-        {(mode === "wizard" || mode === "search") && !recommendations && (
-          <div className="mt-12 border-t border-gray-200 pt-12">
-            <RecentEpisodes />
-          </div>
-        )}
 
         {/* Browse Mode */}
         {mode === "browse" && (
