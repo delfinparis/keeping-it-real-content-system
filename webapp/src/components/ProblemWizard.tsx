@@ -225,18 +225,6 @@ export default function ProblemWizard({ onComplete, onQuickSearch }: Props) {
     <div className="max-w-2xl mx-auto px-4">
       {renderProgressBar()}
 
-      {/* Quick search option for power users - More visible */}
-      {currentStep === 1 && (
-        <div className="text-center mb-8">
-          <button
-            onClick={onQuickSearch}
-            className="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-kale bg-gray-100 hover:bg-kale-50 px-4 py-2 rounded-full transition group"
-          >
-            <span>Know what you're looking for?</span>
-            <span className="font-medium text-kale group-hover:underline">Type directly →</span>
-          </button>
-        </div>
-      )}
 
       {currentStep > 1 && (
         <button

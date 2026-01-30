@@ -489,9 +489,17 @@ Let me know what you think after listening!`}
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">
             Where are you stuck?
           </h1>
-          <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto text-center">
+          <p className="text-xl text-blue-100 mb-6 max-w-2xl mx-auto text-center">
             500+ top producers have already solved your biggest problems.
           </p>
+
+          {/* Stats Bar */}
+          <div className="flex justify-center mb-8">
+            <div className="bg-white/10 backdrop-blur-sm rounded-full px-6 py-2 flex items-center gap-2">
+              <span className="text-2xl font-bold text-white">1,459</span>
+              <span className="text-blue-100 text-sm">Agent Solutions</span>
+            </div>
+          </div>
 
           {/* Mode Toggle - Mobile Optimized */}
           <div className="flex flex-col sm:flex-row justify-center gap-2 sm:space-x-2 mb-8">
