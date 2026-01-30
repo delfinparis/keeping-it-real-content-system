@@ -108,9 +108,26 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-500 text-sm">
-          <p>Powered by the Keeping It Real Podcast</p>
-          <p className="mt-1">D.J. Paris · Kale Realty · Chicago</p>
+        {/* Stats Bar */}
+        <div className="border-t border-gray-800 mt-8 pt-8">
+          <div className="flex flex-wrap justify-center gap-8 mb-6 text-center">
+            <div>
+              <p className="text-2xl font-bold text-kale">1,400+</p>
+              <p className="text-xs text-gray-400 uppercase tracking-wide">Problems Identified</p>
+            </div>
+            <div>
+              <p className="text-2xl font-bold text-kale">950+</p>
+              <p className="text-xs text-gray-400 uppercase tracking-wide">Clip Moments</p>
+            </div>
+            <div>
+              <p className="text-2xl font-bold text-kale">575+</p>
+              <p className="text-xs text-gray-400 uppercase tracking-wide">Episodes Analyzed</p>
+            </div>
+          </div>
+          <div className="text-center text-gray-500 text-sm">
+            <p>Powered by the Keeping It Real Podcast</p>
+            <p className="mt-1">D.J. Paris · Kale Realty · Chicago</p>
+          </div>
         </div>
       </div>
     </footer>
