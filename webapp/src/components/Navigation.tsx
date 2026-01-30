@@ -26,13 +26,10 @@ export default function Navigation() {
         <div className="flex justify-between h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <Link href="/" className="flex items-center gap-3">
-              <div className="w-8 h-8 bg-gradient-to-br from-kale to-emerald-600 rounded-lg flex items-center justify-center shadow-sm">
-                <span className="text-white font-bold text-sm">UA</span>
-              </div>
-              <div className="hidden sm:block">
-                <span className="text-lg font-semibold text-gray-900">Unstuck Agent</span>
-              </div>
+            <Link href="/" className="flex items-center">
+              <span className="text-xl font-bold tracking-tight text-kale uppercase">
+                UNSTUCK<span className="font-light ml-1">AGENT</span>
+              </span>
             </Link>
           </div>
 
