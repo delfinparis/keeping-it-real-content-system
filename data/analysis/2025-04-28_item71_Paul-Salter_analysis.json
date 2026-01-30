@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "High-Performance Hypnotherapist and Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset and subconscious reprogramming",
+    "location": null
+  },
+  "main_topics": [
+    "Mindset and its impact on success",
+    "Overcoming subconscious blocks",
+    "Importance of slowing down and self-reflection",
+    "Fear and its influence on behavior",
+    "Role of hypnosis in personal development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of action despite knowing what to do",
+      "solution_summary": "Identify and address subconscious blocks through mindset coaching and hypnosis.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of success and its impact on performance",
+      "solution_summary": "Explore and dismantle the origins of fear to allow for personal and professional growth.",
+      "timestamp": "00:32:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode highlights how mindset can be a barrier to reaching higher levels of success.",
+      "key_takeaway": "Understanding and reprogramming subconscious beliefs can unlock potential and lead to greater achievements."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode discusses the importance of slowing down and self-reflection to prevent burnout.",
+      "key_takeaway": "Taking time for self-reflection can lead to better decision-making and renewed energy."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:30",
+      "end_timestamp": "00:06:00",
+      "quote": "What's holding you back right now for that next level in real estate isn't more information. It's something else.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the common belief that more knowledge is the key to success.",
+      "suggested_hook": "Think more information is the key to success? Think again."
+    },
+    {
+      "timestamp": "00:32:00",
+      "end_timestamp": "00:33:00",
+      "quote": "It's not safe to win. The last time I won and had success, dad left.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This personal story illustrates how deep-seated fears can impact behavior.",
+      "suggested_hook": "Could your fear of success be holding you back?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop a silence and stillness practice",
+      "context": "Use meditation or journaling to connect with your subconscious and identify limiting beliefs.",
+      "timestamp": "00:18:00"
+    },
+    {
+      "tactic": "Fear setting exercise",
+      "context": "Write down your fears and worst-case scenarios to diffuse their power.",
+      "timestamp": "00:44:00"
+    }
+  ],
+  "quotable_insights": [
+    "The voice of your subconscious mind is silence.",
+    "Knowledge is pretty invaluable if not worthless if it's not paired with action."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The 4-Hour Work Week by Tim Ferris",
+      "context": "Recommended for its fear setting exercise to challenge and overcome fears."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the importance of addressing subconscious blocks to achieve success in real estate. He emphasizes the need for self-reflection and slowing down to connect with one's true self. Through personal stories and practical exercises, Paul provides insights on overcoming fears and reprogramming beliefs to unlock potential.",
+  "_metadata": {
+    "source_file": "2025-04-28_item71_Paul-Salter",
+    "analyzed_at": "2026-01-30T11:11:45.622354",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sarah Meslowski",
+    "title": "Top 1% Agent",
+    "company": "Not mentioned",
+    "production_level": "Top 1%",
+    "specialty": "YouTube Lead Generation",
+    "location": "Metro Atlanta, Georgia"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Creating valuable content for real estate",
+    "The longevity of YouTube content",
+    "AI's role in content discovery",
+    "Overcoming barriers to video creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating consistent leads without direct outreach",
+      "solution_summary": "Use YouTube to create valuable, searchable content that attracts inbound leads over time.",
+      "timestamp": "04:03"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time-consuming video editing",
+      "solution_summary": "Outsource video editing to focus on content creation and real estate activities.",
+      "timestamp": "18:52"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a brand without being a social media influencer",
+      "solution_summary": "Focus on providing valuable information rather than self-promotion to establish authority.",
+      "timestamp": "10:35"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode shows how to leverage YouTube for significant lead generation.",
+      "key_takeaway": "YouTube can be a powerful tool for generating leads if you focus on creating valuable, searchable content."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start using YouTube without needing extensive resources.",
+      "key_takeaway": "Start with simple equipment and focus on content value rather than production quality."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:01",
+      "end_timestamp": "06:13",
+      "quote": "YouTube is the second biggest search engine online next to Google.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights YouTube's potential as a search engine for real estate content.",
+      "suggested_hook": "Did you know YouTube is the second largest search engine? Here's why it matters for real estate."
+    },
+    {
+      "timestamp": "14:03",
+      "end_timestamp": "14:45",
+      "quote": "You're not having to convert them. They're now just simply moving into, okay, here's what we're thinking about.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows the effectiveness of inbound leads from YouTube.",
+      "suggested_hook": "Imagine leads coming to you, ready to work. Here's how YouTube makes it possible."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create videos about living in your area rather than just listings.",
+      "context": "Focus on content that answers common questions potential movers might have.",
+      "timestamp": "08:36"
+    },
+    {
+      "tactic": "Leverage AI to enhance content discoverability.",
+      "context": "Ensure your videos are optimized for AI search results.",
+      "timestamp": "22:24"
+    }
+  ],
+  "quotable_insights": [
+    "The life cycle of a YouTube video lasts years and years.",
+    "If you're going to put any effort into social media, go really hard into YouTube first."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Meslowski discusses the power of YouTube as a lead generation tool for real estate agents. She shares her journey of building a successful channel that generates 85% of her business, emphasizing the importance of creating valuable, searchable content. The episode also explores the role of AI in enhancing content discoverability and offers practical advice for agents looking to leverage YouTube effectively.",
+  "_metadata": {
+    "source_file": "2026-01-27_item4_unknown-guest",
+    "analyzed_at": "2026-01-30T11:17:15.635300",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Luke Jorwick",
+    "title": "Top Producer",
+    "company": "Jameson Sotheby's International",
+    "production_level": "Top 1%",
+    "specialty": "Residential Real Estate",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Challenges in the real estate market",
+    "Importance of authenticity in client relationships",
+    "Millennials and real estate buying trends",
+    "Balancing personal and professional life in real estate",
+    "Marketing and self-promotion challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Difficulty in self-promotion and asking for testimonials",
+      "solution_summary": "Focus on authentic relationships and let your work speak for itself.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Millennials buying homes later in life",
+      "solution_summary": "Educate clients on the importance of buying a good investment property early.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Clients wanting to buy unsuitable properties",
+      "solution_summary": "Guide clients based on their long-term needs and market knowledge.",
+      "timestamp": "18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Luke is a top producer sharing insights on authentic client relationships.",
+      "key_takeaway": "Focus on building genuine connections rather than aggressive self-promotion."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Provides strategies for dealing with market challenges and client management.",
+      "key_takeaway": "Educate clients on market realities and focus on their long-term satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "18:45",
+      "end_timestamp": "19:30",
+      "quote": "I love when I find it's not to buy this. It saves us all time.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that agents should always push for a sale.",
+      "suggested_hook": "Why telling your clients not to buy could be your secret weapon."
+    },
+    {
+      "timestamp": "26:30",
+      "end_timestamp": "27:15",
+      "quote": "If you buy something that's good value, the check's all the boxes, and you don't put yourself in a position to have to sell, you're not going to lose money.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for advising clients on property investment.",
+      "suggested_hook": "The key to ensuring your real estate investment always pays off."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on authentic client relationships over aggressive marketing.",
+      "context": "Build trust and let your work speak for itself.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Educate clients on the importance of buying a good investment property early.",
+      "context": "Address the trend of millennials buying homes later.",
+      "timestamp": "26:00"
+    }
+  ],
+  "quotable_insights": [
+    "Leave the stressing up to me and you just find a house you like.",
+    "I'm not going to sell you in a building that's financially bad."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Luke Jorwick shares his journey as a top 1% producer in Chicago's real estate market. He emphasizes the importance of authentic client relationships and provides insights into the challenges of marketing oneself. Luke also discusses the trend of millennials buying homes later and offers strategies for guiding clients to make sound investment decisions.",
+  "_metadata": {
+    "source_file": "2025-02-21_item89_Luke-Jorwic",
+    "analyzed_at": "2026-01-30T11:10:09.379446",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

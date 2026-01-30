@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Hypnosis and Mindset Coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Subconscious Mind and Beliefs",
+    "Memory Reconsolidation",
+    "Hypnosis as a Tool for Change",
+    "Neuroplasticity",
+    "Overcoming Self-Doubt and Imposter Syndrome"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Self-doubt and emotional reactivity in business",
+      "solution_summary": "Use hypnosis to access and reframe subconscious beliefs.",
+      "timestamp": "00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Imposter syndrome and feelings of unworthiness",
+      "solution_summary": "Through hypnosis, uncover and rewire emotional associations with past experiences.",
+      "timestamp": "08:39"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Perfectionism and procrastination",
+      "solution_summary": "Utilize neuroplasticity to create new neural pathways and behaviors.",
+      "timestamp": "32:34"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode helps them overcome mental blocks that hinder reaching the next level.",
+      "key_takeaway": "Hypnosis can be a powerful tool to dismantle limiting beliefs and enhance performance."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to manage stress and emotional exhaustion.",
+      "key_takeaway": "Reframing subconscious beliefs can lead to a more sustainable and fulfilling career."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:19",
+      "end_timestamp": "07:07",
+      "quote": "You are programmed to survive. You are not programmed to thrive.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional belief about human potential and offers a new perspective.",
+      "suggested_hook": "Are you merely surviving in your real estate career?"
+    },
+    {
+      "timestamp": "28:07",
+      "end_timestamp": "28:32",
+      "quote": "Hypnosis is not magic. It's not mind control. It's a natural state of mind.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It dispels common myths about hypnosis, making it more approachable.",
+      "suggested_hook": "Think hypnosis is just a party trick? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use memory reconsolidation to reframe past experiences.",
+      "context": "When feeling triggered by past events affecting current performance.",
+      "timestamp": "14:08"
+    },
+    {
+      "tactic": "Apply hypnosis to access and edit subconscious beliefs.",
+      "context": "To overcome self-doubt and enhance decision-making.",
+      "timestamp": "30:23"
+    }
+  ],
+  "quotable_insights": [
+    "Your beliefs are filters through which you see the world.",
+    "Hypnosis allows you to sidestep the harsh inner critic and connect with your subconscious mind."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter delves into the power of the subconscious mind and how hypnosis can be used to reframe limiting beliefs and enhance performance. He explains the concepts of memory reconsolidation and neuroplasticity, offering actionable insights for overcoming self-doubt, imposter syndrome, and perfectionism. Listeners are encouraged to explore hypnosis as a tool for personal and professional growth.",
+  "_metadata": {
+    "source_file": "2026-01-29_item2_Paul-Salter",
+    "analyzed_at": "2026-01-30T11:17:40.652462",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

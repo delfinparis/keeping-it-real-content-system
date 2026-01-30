@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Joel Schaub",
+    "title": "Vice President of Lending",
+    "company": "Guaranteed Rate",
+    "production_level": "Top 0.1% of loan officers nationwide",
+    "specialty": "Creative lending solutions and client appreciation",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Changes in loan limits for jumbo and conventional loans",
+    "Strategies for agents in high interest rate environments",
+    "Creative financing solutions like the 2-1 buy-down",
+    "Market predictions for the upcoming spring",
+    "Client appreciation and marketing strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding new loan limits and their implications",
+      "solution_summary": "Agents should adjust pricing strategies to avoid jumbo loan categories and market advantages to first-time buyers.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High interest rates affecting buyer decisions",
+      "solution_summary": "Utilize 2-1 buy-downs to lower initial payments and make offers more attractive.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out with client appreciation",
+      "solution_summary": "Send gifts on off-days like Valentine's Day to differentiate from typical holiday gifting.",
+      "timestamp": "20:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for adapting to market changes and leveraging lending solutions.",
+      "key_takeaway": "Understanding and utilizing new loan limits and creative financing can significantly enhance your competitive edge."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insight into market trends and client appreciation can help in guiding team strategies.",
+      "key_takeaway": "Implementing unique client appreciation tactics can strengthen client relationships and brand loyalty."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "14:45",
+      "quote": "This is going to be an earlier spring market than ever... buyers are going to be out there hot and heavy.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the typical expectation of a slow winter market, suggesting early opportunities.",
+      "suggested_hook": "Why this spring market might surprise you!"
+    },
+    {
+      "timestamp": "09:30",
+      "end_timestamp": "10:15",
+      "quote": "If you don't ask, you're not going to get... a $10,000 credit can lower a client's payment by $500 a month.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic that can directly impact buyer affordability.",
+      "suggested_hook": "How a simple ask can save your clients $500 a month!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Utilize 2-1 buy-downs to make offers more attractive.",
+      "context": "When negotiating in a high interest rate environment to lower initial payments.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Adjust property pricing to avoid jumbo loan categories.",
+      "context": "When listing properties near the new loan limit thresholds.",
+      "timestamp": "05:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you don't ask, you're not going to get.",
+    "The sky is not falling. Rates have already come down."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    }
+  ],
+  "episode_summary": "In this episode, Joel Schaub discusses the recent changes in loan limits and how they can benefit agents and first-time buyers. He offers strategies for navigating high interest rate environments, including the use of 2-1 buy-downs. Joel also shares insights on market predictions for an early spring and emphasizes the importance of unique client appreciation tactics.",
+  "_metadata": {
+    "source_file": "2023-12-08_item197_Joel-Schaub",
+    "analyzed_at": "2026-01-30T11:07:25.347424",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
