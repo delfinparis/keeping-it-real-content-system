@@ -223,7 +223,7 @@ export default function ProblemWizard({ onComplete, onQuickSearch }: Props) {
 
   return (
     <div className="max-w-2xl mx-auto px-4">
-      {renderProgressBar()}
+      {currentStep > 1 && renderProgressBar()}
 
 
       {currentStep > 1 && (
