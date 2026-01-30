@@ -120,7 +120,7 @@ export default function Footer() {
               <p className="text-xs text-gray-400 uppercase tracking-wide">Clip Moments</p>
             </div>
             <div>
-              <p className="text-2xl font-bold text-kale">575+</p>
+              <p className="text-2xl font-bold text-kale">595</p>
               <p className="text-xs text-gray-400 uppercase tracking-wide">Episodes Analyzed</p>
             </div>
           </div>
