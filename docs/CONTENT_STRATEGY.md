@@ -315,7 +315,13 @@ Track which clip types perform best:
 
 ## Recruitment Integration
 
-### From Content to Conversation
+**Strategy Pivot (Feb 2026):** Content now serves TWO purposes:
+1. **External** - Attract new agents via social
+2. **Internal** - Make current Kale agents feel valued so they refer friends
+
+See: `~/Downloads/jennica-workflow 4/docs/REFERRAL_RECRUITING_STRATEGY.md`
+
+### External: Content to Conversation
 
 1. **Viewer engages** with video (like, comment, share)
 2. **DM sequence** triggered or manual outreach
@@ -324,37 +330,62 @@ Track which clip types perform best:
 5. **Nurture sequence** continues with relevant content
 6. **Recruitment conversation** when timing is right
 
+### Internal: Agent Appreciation ("Thought of You" Play)
+
+1. **Jennica identifies** agent challenge (from CRM notes, conversations)
+2. **Matches to clip** that addresses their specific problem
+3. **Sends personalized message**: "Saw this, thought of you"
+4. **Builds goodwill** → agent more likely to refer friends
+
+**Daily target:** 5 personalized clip sends per day
+
 ### Tracking Content-Sourced Leads
 
-In Monday.com CRM, track:
-- Source: Which video brought them in
+In Close CRM, track:
+- Source: Which video brought them in (Video - Instagram, Video - TikTok, etc.)
 - Content pillar that resonated
 - Avatar type based on engagement
-- Episodes sent as follow-up
+- Clips sent as follow-up
 - Conversion to recruit
+- Referring agent (if from warm intro)
 
 ---
 
 ## Content Inventory
 
-### Currently Available (5 episodes analyzed)
+### Currently Available (Feb 2026)
 
-| Episode | Guest | Clips | Scripts | Topics |
-|---------|-------|-------|---------|--------|
-| Tim Burrell | Tim Burrell | 2 | 2 | AI, Negotiation |
-| Chris Linsell | Chris Linsell | 2 | 2 | NAR, Industry |
-| Connie Mahan | Connie Mahan | 2 | 2 | Mindset, Lead Gen |
-| Marisa Kashino | Marisa Kashino | 2 | 2 | Market, Psychology |
-| Kristee Leonard | Kristee Leonard | 2 | 2 | Branding, Balance |
+| Asset | Count | Location |
+|-------|-------|----------|
+| Clip files | 304 | `content/clips/` |
+| Video scripts | 115 | `content/scripts/` |
+| Total clips (2-3 per file) | ~600-900 | Ready to use |
 
-**Total clips ready:** 10
-**Total scripts ready:** 10
+**At 2 videos/day = 300-450 days of content ready**
 
-### To Process
+### Sample Clip Format
 
-- 295 episodes remaining in download queue
-- Estimated clips available: 590-885 more
-- Processing time: ~2-3 min per episode for analysis
+```json
+{
+  "timestamp": "11:03",
+  "end_timestamp": "12:00",
+  "quote": "Betting on yourself might feel risky...",
+  "clip_type": "mindset_shift",
+  "why_clipworthy": "Encourages listeners to take risks",
+  "suggested_hook": "Why betting on yourself is the best investment"
+}
+```
+
+### Clip Types Available
+
+- tactical_specificity
+- contrarian_take
+- emotional_resonance
+- memorable_one_liner
+- pattern_reveal
+- surprising_statistic
+- permission_slip
+- mindset_shift
 
 ---
 
@@ -371,4 +402,4 @@ In Monday.com CRM, track:
 
 ---
 
-*Last updated: 2026-01-23*
+*Last updated: 2026-02-04*
