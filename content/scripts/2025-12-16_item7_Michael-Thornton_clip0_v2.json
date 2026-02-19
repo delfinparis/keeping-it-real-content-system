@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "You can't get too high or too low in this business.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Direct, systems-focused, no-nonsense operator who speaks in practical frameworks and measurable outcomes.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It names the exact emotional rollercoaster that kills consistency for agents who've been in the game long enough to know the highs hurt as much as the lows."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The deal that makes you feel invincible is the same one that's about to wreck your next three months.",
+      "production_note": "B-roll: Agent celebrating a closing, then cut to stressed agent staring at empty pipeline on laptop"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Michael Thornton does $30 million a year in volume. And he'll tell you the biggest threat to your business isn't the market. It's your own emotional swings.",
+      "production_note": "Show Michael's headshot with volume stat overlay, then cut to graph showing typical agent income volatility"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he means. You close a big deal, you feel like a rockstar, so you ease off prospecting for two weeks. Or you lose a listing, spiral into doubt, and stop making calls because you're 'not in the right headspace.' Both responses kill your pipeline. The top producers? They've learned something you haven't yet. Quote: 'You can't get too high or too low in this business.' They treat wins and losses the same way. Data points. Not identity markers. Monday morning looks identical whether they closed three deals Friday or lost a buyer to another agent.",
+      "production_note": "Split screen: Left side shows 'high' agent celebrating, right side shows 'low' agent dejected. Then transition to calm, focused agent at desk with consistent daily schedule visible"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Because here's the truth: your income isn't determined by your best month or your worst month. It's determined by whether you can do the same six activities every single day regardless of how you feel. That's it. That's the whole game.",
+      "production_note": "Show simple checklist: Prospecting calls, Follow-ups, Showings, Marketing, Database touch, Lead generation - all checked off consistently"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So ask yourself: what's the one activity you skip when things are going really well? And what's the one you skip when things feel hard? That's your leak. Fix it this week.",
+      "production_note": "Direct to camera moment, then fade to text overlay: 'What's your leak?' with comment prompt"
+    }
+  },
+  "caption": "The emotional rollercoaster is killing your consistency. Here's what $30M/year agents do differently.",
+  "hashtags": [
+    "#realestatementor",
+    "#agentmindset",
+    "#consistencyiskey",
+    "#topproducer",
+    "#realestatesuccess"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "07:00",
+    "source_episode": "2025-12-16_item7_Michael-Thornton",
+    "guest_name": "Michael Thornton",
+    "generated_at": "2026-02-19T10:24:20.297906",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

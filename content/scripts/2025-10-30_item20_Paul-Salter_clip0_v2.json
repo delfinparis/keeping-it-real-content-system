@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The goal here is not to seek balance in entrepreneurship. The bullshit concept that doesn't exist, you need to seek alignment.",
+    "clip_type": "contrarian_take",
+    "energy": "high_passionate",
+    "guest_voice": "Paul speaks in direct, profanity-laced truth bombs with zero corporate filter. He asks hard questions, calls out self-deception, and builds intensity through repetition and escalation.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It names the exact lie burned-out agents tell themselves — that if they just 'balance better' they'll stop feeling guilty about missing dinner again."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Work-life balance is a lie. And it's destroying your business.",
+      "production_note": "Hard cut to Paul mid-sentence. Intense eye contact. Text overlay: 'WORK-LIFE BALANCE IS A LIE'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "You keep telling your family you'll be home by six. You keep missing it. Then you feel guilty. Then you work distracted. Then nothing gets done right. Paul Salter — mindset coach to top producers — says you're solving the wrong problem.",
+      "production_note": "B-roll: Clock showing 6pm, unanswered family texts, agent working late looking stressed. Quick cuts."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he told me: 'The goal is not to seek balance in entrepreneurship. The bullshit concept that doesn't exist. You need to seek alignment.' Stop lying to yourself about what building an empire actually takes. Here's what alignment actually looks like: One agent I know told his wife, 'Tuesday and Thursday nights, I'm at the office until nine. Saturday mornings, I'm prospecting until noon. But Sunday? Phone's off. I'm yours.' No more fake promises. No more sneaking emails at dinner. His production went up thirty percent. His marriage got better. That's alignment. You pick your seasons. You communicate the truth. You stop pretending you can build a seven-figure business on leftover hours.",
+      "production_note": "Paul speaking directly to camera. Cut to text overlays: 'TUESDAY/THURSDAY UNTIL 9PM' 'SATURDAY MORNINGS: PROSPECTING' 'SUNDAY: PHONE OFF'. Use his exact quote with profanity intact. Show intensity building in his delivery."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "When you stop pretending and start aligning? Your family knows what to expect. Your team knows what you need. And you stop carrying guilt into every room. Alignment isn't balance. It's honesty about the season you're in.",
+      "production_note": "Softer tone. B-roll: Agent having honest conversation with spouse showing calendar, focused work session with no phone, family dinner with phone in another room."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight before bed: Block three nights on your calendar for the next two weeks. Write down the exact hours you'll work late. Then show your spouse. Say the words out loud: 'These nights I'm building. These nights I'm home.' That conversation? That's where alignment starts.",
+      "production_note": "Return to Paul. Direct address. Text overlay: 'TONIGHT: BLOCK 3 NIGHTS' then 'SHOW YOUR SPOUSE' then 'SAY IT OUT LOUD'. Hold on his face for beat after he finishes."
+    }
+  },
+  "caption": "Stop chasing balance. Start building alignment. One conversation can change everything.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#WorkLifeBalance",
+    "#EntrepreneurMindset",
+    "#RealTalk",
+    "#TopProducer"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "00:22:30",
+    "source_episode": "2025-10-30_item20_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:40:12.876863",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:01:46.026487",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Added concrete example of alignment in practice (specific schedule with days/times). Replaced abstract questions with specific 60-second action: block calendar tonight, show spouse, have the conversation. Kept strongest line about lying to yourself. Made the CTA a literal script they can follow.",
+    "original_score": 6,
+    "judge_note": "The insight section is too long and abstract — give one concrete example of what 'alignment' looks like in practice (specific schedule, specific boundary, specific conversation)."
+  }
+}

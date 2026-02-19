@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "We are so lucky to get to do what we do, which is help people right, honestly and ethically, make the largest decision of their life and make sure that they do it with as little risk as possible.",
+    "clip_type": "emotional_resonance",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Connie speaks like a mentor who's been in the trenches — conversational, genuine, with the wisdom of someone who's built something real from nothing. No corporate polish, just honest reflection.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It reframes the grind as privilege at the exact moment when experienced agents have forgotten why they started — hitting the identity crisis that causes exits."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agents who quit? They didn't fail. They forgot.",
+      "production_note": "Black screen with white text. Stark. No music yet. Tighter phrasing for more punch."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Connie Mahan went from restaurant manager to REALTOR of the Year in Central Florida. She's seen hundreds of agents come and go. Here's what separates the ones who stay.",
+      "production_note": "Cut to Connie on screen. Soft background music begins — contemplative, not motivational."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "\"We are so lucky to get to do what we do — help people, honestly and ethically, make the largest decision of their life with as little risk as possible.\" She said that with her whole chest. Not as a pitch. As a fact. Because somewhere between your third failed appraisal this month and the client who ghosted you after fifty showings, you stopped seeing it. We turned a privilege into a grind. A calling into a checklist.",
+      "production_note": "B-roll: hands signing documents, keys being handed over, families hugging in front of homes. Real moments, not stock footage. Overlay Connie's audio of the actual quote at 0:15-0:22."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "The burnout isn't from working too hard. It's from forgetting what the work is for. You didn't get licensed to send Zillow alerts. You got licensed to hand someone keys to the house where their kid will take first steps.",
+      "production_note": "Back to Connie's face. Hold on her eyes. Let the silence breathe for half a beat."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight before bed: Open your phone. Find a photo from a closing in the last six months. Text that client right now: 'Hey [name], been thinking about you — how's the house treating you?' Send it. That's the reset.",
+      "production_note": "Text overlay: 'Text one past client tonight.' Phone screen visual showing a text being typed. Fade to black. No logo. Let it land."
+    }
+  },
+  "caption": "The agents who quit aren't the ones who fail. They're the ones who forget why they started.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#RealtorLife",
+    "#AgentBurnout",
+    "#RealEstateMotivation",
+    "#RealtorMindset"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "21:15",
+    "source_episode": "2025-12-30_item9_Connie-Mahan",
+    "guest_name": "Connie Mahan",
+    "generated_at": "2026-02-19T10:19:30.762135",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:12:02.715161",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Tightened hook for more punch. Added concrete specificity to INSIGHT (third failed appraisal, client who ghosted after fifty showings). Completely rewrote CTA from vague 'write down their name' to specific action: text a past client tonight with exact script and timing. Kept strongest line about privilege/grind/calling/checklist.",
+    "original_score": 5,
+    "judge_note": "This is nearly identical to Script 1 — same guest, same quote, same vague CTA about 'thinking about your last client' — consolidate or kill one."
+  }
+}

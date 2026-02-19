@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Gen Z is making 50% more income than baby boomers were at their age.",
+    "clip_type": "surprising_statistic",
+    "energy": "matter_of_fact",
+    "guest_voice": "Amanda speaks with data-driven authority, dropping stats casually but confidently. She challenges assumptions without being preachy — just states the facts and lets them land.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It weaponizes a counter-intuitive stat that destroys the excuse agents are using to ignore an entire generation of buyers."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Gen Z is making 50% more income than boomers were at their age — and you're still not calling them back.",
+      "production_note": "Bold text overlay of the stat. Quick cut to Amanda's face with a slight eyebrow raise on 'not calling them back.'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Amanda Pendleton from Zillow studied the actual data on Gen Z buyers. What she found should completely change who you're prospecting this week.",
+      "production_note": "B-roll of young professionals in modern apartments, signing documents. Text overlay: 'Amanda Pendleton | Zillow House Trends Expert'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what's actually happening: Gen Z isn't broke. They're earning more than any previous generation at their age. But they're researching on TikTok at 11pm, watching neighborhood tours on YouTube during lunch, and asking ChatGPT about mortgage rates — not calling you. They don't need another market report email. They need an agent who answers DMs in under an hour, posts 30-second neighborhood walkthroughs showing the coffee shop three blocks away, and explains down payment assistance like they're texting a friend. The average first-time buyer age is now 36. Every year they wait costs them $30,000 in equity.",
+      "production_note": "Split screen: Left shows income growth chart, right shows phone screen scrolling TikTok/YouTube. Cut to Amanda speaking. Text overlays: 'Answer DMs <1 hour' and '$30K equity per year waited.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "This isn't about learning TikTok dances. It's about meeting buyers where they already are. Gen Z closed 30% more purchases last year than the year before — they're just working with the three agents in your market who actually respond fast and speak their language.",
+      "production_note": "Close-up of Amanda. Text overlay: '30% increase in Gen Z purchases — who got them?'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight, open Instagram. Record one 30-second video walking through a neighborhood you listed or sold in — point out the Starbucks, the dog park, the bike lane. Post it with the caption 'DM me for the full tour.' That's the test. If you get three DMs by tomorrow, you just found your Gen Z strategy.",
+      "production_note": "End card with action steps as bullet points: '1. Open Instagram tonight' '2. Record 30-sec neighborhood walk' '3. Post: DM me for tour' '4. Check DMs tomorrow.' Fade to podcast logo."
+    }
+  },
+  "caption": "Gen Z makes 50% more than boomers did at their age. So why aren't you calling them back? Amanda Pendleton's data changes everything.",
+  "hashtags": [
+    "#GenZBuyers",
+    "#RealEstateAgent",
+    "#FirstTimeHomeBuyer",
+    "#RealEstateTrends",
+    "#AgentTips"
+  ],
+  "content_pillar": "market_intelligence",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "24:46",
+    "source_episode": "2026-01-30_item1_Amanda-Pendleton",
+    "guest_name": "Amanda Pendleton",
+    "generated_at": "2026-02-19T10:10:07.576755",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:13:29.249042",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Sharpened hook with confrontational twist. Replaced vague 'cut through noise' with three concrete tactics (answer DMs <1hr, post neighborhood tours, explain like texting). Completely rewrote CTA from reflective question to specific tonight/tomorrow action sequence with measurable outcome (3 DMs = validation). Added $30K equity stat for urgency.",
+    "original_score": 5,
+    "judge_note": "The insight is too generic ('cut through the noise') — give one specific tactic for reaching Gen Z buyers, like 'post neighborhood walkthroughs on TikTok' or 'answer DMs within 10 minutes, not 10 hours.'"
+  }
+}

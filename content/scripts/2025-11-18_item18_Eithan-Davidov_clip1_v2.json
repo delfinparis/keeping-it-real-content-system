@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The worst that happens is they say no, and you move the F on.",
+    "clip_type": "mindset_shift",
+    "energy": "matter_of_fact",
+    "guest_voice": "Eithan speaks like a native New Yorker who's done the reps — direct, no-BS, conversational but confident. He doesn't sugarcoat or motivate with fluff; he states what works because he's lived it.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It reframes rejection from a career-ending fear into a forgettable non-event, which is exactly what paralyzes new agents from picking up the phone."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents never make their first cold call. Not because they can't — because they're terrified of one word.",
+      "production_note": "Text on screen: 'NO' — big, bold, red. Cut to Eithan mid-sentence with energy."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Eithan Davidov closes over 100 transactions a year in New York City. His entire business? Cold prospecting. And he says the thing holding you back isn't skill. It's a story you're telling yourself about rejection.",
+      "production_note": "B-roll: NYC streets, phone screens, 'sold' signs. Keep it kinetic."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he told his team: 'The worst that happens is they say no, and you move the F on.' That's it. Not 'they'll think I'm annoying.' Not 'I'll look desperate.' They say no. You move on. Most agents never prospect because they treat a 'no' like a referendum on their worth. Eithan treats it like a data point. He teaches his agents to add value, not spam — neighborhood updates, market intel, hyper-local insights. But the secret? He makes them understand that rejection isn't the barrier. Fear of rejection is.",
+      "production_note": "Split screen: Eithan talking + text overlays of his quote. Cut to agents on phones, texting, mailing postcards. Show the DOING."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Think about it. If you made ten calls today and nine said no, you'd still have one yes. That's a deal in the pipeline. But if you make zero calls because you're afraid of nine nos? You have zero. The fortune isn't in avoiding rejection. It's in moving past it faster than everyone else.",
+      "production_note": "Visual: Simple math on screen — '9 NOs + 1 YES = 1 DEAL. 0 CALLS = 0 DEALS.' Make it undeniable."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your assignment: Make one cold outreach today. One text. One email. One postcard. Not to close a deal — to prove to yourself that 'no' doesn't kill you. Because once you know that? You're unstoppable.",
+      "production_note": "End on Eithan's face, direct to camera. Text overlay: 'Make 1 cold outreach today.' Simple. Actionable."
+    }
+  },
+  "caption": "The only thing scarier than rejection is never trying. Eithan Davidov on why 'no' is just a speed bump, not a stop sign.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#ColdProspecting",
+    "#RejectionsAreData",
+    "#AgentMindset",
+    "#RealEstateSales"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "22:00",
+    "source_episode": "2025-11-18_item18_Eithan-Davidov",
+    "guest_name": "Eithan Davidov",
+    "generated_at": "2026-02-19T10:38:25.852646",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

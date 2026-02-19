@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Show up. Do the work. Be straight with your clients. And success will be inevitable.",
+    "clip_type": "memorable_oneliner",
+    "energy": "calm_authoritative",
+    "guest_voice": "Jay speaks in short, declarative sentences. No fluff. He's the guy who's seen it all over 40 years and distilled it down to what actually matters.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "Because new agents drowning in tactics and hacks need to hear that success isn't about the next shiny object — it's about fundamentals they're probably skipping."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're doing too much. And it's costing you deals.",
+      "production_note": "Close-up of Jay, serious expression. Cut to B-roll of agent frantically working on laptop surrounded by marketing materials and sticky notes."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jay Cannone spent 40 years becoming a top 1% producer in luxury real estate. And when I asked him what actually moves the needle, he said something most agents won't want to hear.",
+      "production_note": "Cut to Jay in interview setting. Show graphic: 'Jay Cannone | Top 1% Producer | 40 Years'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Every morning, Jay does three things. Calls five past clients. Previews two properties in person. Follows up on every lead from yesterday. That's it. No new CRM. No AI tool. No Instagram reel strategy. He said: 'Show up means actually walk the properties. Do the work means make the calls before lunch. Be straight means if the house is overpriced, say it.' Most new agents chase complexity because simplicity feels too boring to work. But here's what Jay knows: clients don't buy your marketing stack. They buy your reliability. Your honesty. Your presence.",
+      "production_note": "Show Jay delivering his routine on camera. Cut to B-roll: agent walking through empty property taking notes, agent on phone in car making calls, agent in face-to-face conversation with client. Text overlay appears with Jay's three daily actions. Then show the quote about what clients buy."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you're six months in and drowning in tactics—stop. Pick three daily non-negotiables. Not ten systems. Three actions. The ones that actually put you in front of people and properties.",
+      "production_note": "Return to Jay nodding. Cut to agent closing laptop, taking a breath, writing down three items on a notepad with pen."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow morning before 10am: call three past clients. Just check in. No pitch. Then preview one listing in person. Take notes on what buyers will ask. Do those two things and comment 'DONE' here tomorrow. Let's see who actually does it.",
+      "production_note": "Text overlay: 'Before 10am tomorrow: 1. Call 3 past clients 2. Preview 1 listing 3. Comment DONE'. Show comment section graphic. End on Jay's calm, knowing expression."
+    }
+  },
+  "caption": "40 years. Top 1%. Three daily actions. That's it.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#NewAgent",
+    "#RealEstateTips",
+    "#TopProducer",
+    "#RealEstateSuccess"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "06:05",
+    "source_episode": "2025-12-15_item8_Jay-Cannone",
+    "guest_name": "Jay Cannone",
+    "generated_at": "2026-02-19T10:25:42.586545",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:11:05.485179",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Made Jay's advice brutally specific—named his exact three daily actions with concrete definitions. Sharpened hook from 'killing business' to 'costing deals' (more tangible consequence). Completely rewrote CTA to give two specific actions with a tomorrow-morning deadline and accountability mechanism (comment DONE). Kept strongest line about what clients actually buy.",
+    "original_score": 5,
+    "judge_note": "The advice is too generic—give one specific example of what 'show up' or 'do the work' actually looks like in Jay's daily routine."
+  }
+}

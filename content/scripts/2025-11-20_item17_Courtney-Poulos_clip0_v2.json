@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Auto real app takes static images and turns them into viral video... It brings it to life.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Courtney speaks in practical, no-fluff terms — she's a tools-first operator who names the thing and tells you what it does.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Every agent has hundreds of listing photos collecting dust — this turns dead inventory into content that actually moves."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You have 300 listing photos on your phone doing absolutely nothing for you.",
+      "production_note": "Open on a phone camera roll scrolling through dozens of property photos — kitchen, bedroom, exterior shots"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Meanwhile, agents half as experienced are getting 10x the engagement because they figured out one thing: static photos are invisible on social. Courtney Poulos in LA just showed me how she fixed this in about 90 seconds per listing.",
+      "production_note": "Split screen: static listing photo with 12 likes vs. video content with thousands of views"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She takes her listing photos — the ones already on her phone — and runs them through an AI tool that turns them into scroll-stopping video. No filming. No editing skills. She told me it 'brings it to life.' Here's what that actually means: Your $2M listing that got 47 impressions as a photo? Now it's a cinematic walkthrough getting shared by buyers you've never met. The AI adds motion, transitions, music. Takes her 90 seconds to upload, 2 minutes to render. That's it.",
+      "production_note": "Show before/after: same kitchen photo as a static post, then as an AI-generated video with smooth motion and transitions. Show timer counting 90 seconds during upload process"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You're not behind on content because you can't film. You're behind because you haven't automated it. Every closed listing is 50 pieces of content you already own. You just need to turn the photos on.",
+      "production_note": "Show grid of listing photos transforming into video thumbnails, multiplying across the screen"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight before bed: Open your camera roll. Find five photos from your last listing. Tomorrow morning, Google 'AI listing video tools,' pick one, and upload those five photos. Post the result by noon. That's your content for Wednesday.",
+      "production_note": "Text overlay appears step-by-step as each action is named: 'Tonight: Find 5 photos' / 'Tomorrow AM: Upload to AI tool' / 'By noon: Post the video' — end on Courtney's quote as small text: 'It brings it to life'"
+    }
+  },
+  "caption": "Your listing photos are content gold. You just haven't turned them on yet.",
+  "hashtags": [
+    "#RealEstateMarketing",
+    "#AIForRealtors",
+    "#ListingContent",
+    "#RealtorTech",
+    "#ContentStrategy"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "05:05",
+    "source_episode": "2025-11-20_item17_Courtney-Poulos",
+    "guest_name": "Courtney Poulos",
+    "generated_at": "2026-02-19T10:34:32.763898",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:02:20.684741",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Removed product name from weak line, embedded it naturally in transformation story. Rewrote CTA from vague 'ask yourself' to specific time-bound actions: tonight find photos, tomorrow upload, post by noon. Added concrete timing (90 seconds, 2 minutes) to make the ease tangible.",
+    "original_score": 6,
+    "judge_note": "This reads like a paid ad for Auto Real App — either commit to the tool review format or bury the product name deeper and lead with the transformation story."
+  }
+}

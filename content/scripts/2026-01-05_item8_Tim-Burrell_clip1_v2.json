@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "One of the simplest ways to get the conflict to be over is to apologize. It shows strength, not weakness.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Tim speaks in practical, no-nonsense declarations. He doesn't hedge or soften — he states what works, matter-of-factly, like someone who's negotiated thousands of deals and has no patience for posturing.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It inverts the exact ego-driven mistake that kills most agents' deals — believing toughness means never backing down."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agent who apologizes first usually wins the negotiation.",
+      "production_note": "Bold text overlay on black screen, then cut to Tim mid-sentence with intensity"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Sounds backwards, right? Most agents think apologizing makes you look weak. That it gives the other side leverage. Tim Burrell — top producer in Raleigh who's closed thousands of deals — says that's exactly why most negotiations go sideways.",
+      "production_note": "B-roll of tense negotiation scenes, agents arguing, deals falling apart"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he told me: 'One of the simplest ways to get the conflict to be over is to apologize. It shows strength, not weakness.' Think about it. When a deal gets heated, both sides dig in. Egos take over. The transaction becomes about winning the argument instead of closing the deal. But the agent who says 'Hey, I could've handled that better' — they immediately defuse it. They signal they care more about the outcome than being right. And here's the thing — the other agent almost always softens. Because nobody expects it.",
+      "production_note": "Cut between Tim speaking and animated text highlighting key phrases. Show contrast: agent arguing vs agent apologizing, with visual of deal saved"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So next time you're in a negotiation that's heating up, ask yourself: Do I want to win this argument, or do I want to close this deal? Because the agents who swallow their ego and apologize first? They're the ones their clients call back. They're the ones who get deals to the table that everyone else walked away from.",
+      "production_note": "Close-up of Tim, then cut to visual of phone ringing with 'Client Calling' and closed deal celebration"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Full episode in bio — Tim breaks down how to use AI to coach yourself through these exact moments in real time. So you never blow up a deal because your ego got in the way.",
+      "production_note": "End card with episode thumbnail and 'Link in bio' with arrow pointing up"
+    }
+  },
+  "caption": "The negotiation move that feels wrong but wins deals. (Most agents never learn this)",
+  "hashtags": [
+    "#realestatenegotiation",
+    "#realestateagent",
+    "#topproducer",
+    "#realestatemindset",
+    "#agentadvice"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "39:00",
+    "source_episode": "2026-01-05_item8_Tim-Burrell",
+    "guest_name": "Tim Burrell",
+    "generated_at": "2026-02-19T10:17:26.504883",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

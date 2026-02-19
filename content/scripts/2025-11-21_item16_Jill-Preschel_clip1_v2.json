@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Just because you have the budget and an urgent need doesn't mean you should move forward.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Direct, no-fluff advisor. Speaks in declarative statements with quiet confidence. Uses 'you know' as punctuation, not filler. Blunt without being harsh.",
+    "target_avatar": "aspiring_top_producer",
+    "why_this_stops_scrolls": "It contradicts the entire hustle culture of real estate — the idea that urgency and money equal a deal you should take."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The clients you say NO to will make you more money than the ones you say yes to.",
+      "production_note": "Text on screen: 'The clients you say NO to'. Jill's face, direct to camera."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jill Preschel has done over two billion in luxury transactions in New York City. And she just told me something that goes against everything we're taught about closing deals.",
+      "production_note": "B-roll: NYC skyline, luxury properties. Text overlay: '$2B+ in transactions'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She said: 'Just because someone has the budget and an urgent need doesn't mean you should move forward.' Here's what she means. A buyer walks in. They've got eight million liquid. They need to close in thirty days. Every agent in the room is salivating. But Jill's asking a different question: Is this person actually READY? Because urgency without clarity is a lawsuit waiting to happen. Budget without alignment is a deal that falls apart at the attorney review. She's not gatekeeping. She's protecting her reputation. And that restraint? That's what gets her the next referral from a developer who knows she won't waste their time with tire-kickers in Hermès.",
+      "production_note": "Split screen: Jill speaking + text overlays for key phrases ('urgency without clarity', 'budget without alignment'). Cut to luxury property footage on 'Hermès' line."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Most agents think their job is to close every lead. Top producers know their job is to close the RIGHT lead. The ones who say no to the wrong clients get invited to the tables where the right ones sit.",
+      "production_note": "Jill nodding. Text on screen: 'Say NO to the wrong clients.' Slow zoom on her face."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your gut check: What's the last deal you chased that you KNEW wasn't right? Full episode link in bio. Go listen to how Jill built a two-billion-dollar career by knowing when to walk away.",
+      "production_note": "Text on screen: 'What deal did you chase that wasn't right?' End card with episode title and link."
+    }
+  },
+  "caption": "The clients you turn away will make you more money than the ones you chase. Jill Preschel explains why.",
+  "hashtags": [
+    "#luxuryrealestate",
+    "#realestateagent",
+    "#topproducer",
+    "#realestatetips",
+    "#agentmindset"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "aspiring_top_producer",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "31:00",
+    "source_episode": "2025-11-21_item16_Jill-Preschel",
+    "guest_name": "Jill Preschel",
+    "generated_at": "2026-02-19T10:33:30.793917",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Honestly, I think the best advice I've gotten is from the mistakes I've learned.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Jeff speaks with understated confidence — tech-savvy, direct, no fluff. He sounds like someone who's made the mistakes and now quietly dominates.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It gives permission to reframe every failure as future-proofing, which is exactly what agents stuck in the middle need to hear."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Jeff Biebuyck lost a $4.2M listing because he trusted a verbal pre-approval. Now he closes deals other agents can't even pitch.",
+      "production_note": "B-roll: luxury Calabasas property exterior. Cut to Jeff mid-conversation, serious expression."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Top 1%, Calabasas luxury, works with celebrities and execs. But his edge isn't his network. It's the $4.2M mistake he turned into a closing system.",
+      "production_note": "Split screen: Jeff's headshot + his actual luxury listings. Text overlay: 'TOP 1% | CALABASAS | $4.2M LESSON'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Quote: 'Honestly, I think the best advice I've gotten is from the mistakes I've learned.' Here's what he means: That $4.2M listing? Buyer's agent said 'we're pre-approved, let's write.' Jeff didn't verify. Deal died 48 hours before close. Now? Jeff has a 24-hour rule: no offer gets written until HE talks to the lender. Every single time. He's killed three deals in the last year before they wasted anyone's time — and closed 14 others because sellers trust him to vet harder than anyone else. Every mistake became a system. Every failure became a filter.",
+      "production_note": "Footage of Jeff speaking, intercut with: close-up of contract, phone call to lender, calendar marking '24-HOUR RULE'. Text overlays: '$4.2M LESSON' → '24-HOUR RULE' → '14 CLOSED | 3 SAVED'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "If you're stuck at 8 deals a year and haunted by the ones that blew up? Good. That's not failure. That's the raw material for the one system that separates you from every other agent in your market.",
+      "production_note": "Direct-to-camera Jeff or close-up. Warmer lighting. Text overlay: 'YOUR BLOWN DEAL = YOUR COMPETITIVE EDGE'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight: Pull up the last deal you lost. Write down the ONE moment it went sideways. Tomorrow morning: Build the 60-second checklist that prevents it. That's your system. That's how you never lose that way again.",
+      "production_note": "B-roll: agent opening CRM, writing on notepad with pen, typing checklist into phone. End card: 'WATCH FULL EPISODE' with podcast logo. Text overlay: 'TONIGHT: Find the moment. TOMORROW: Build the system.'"
+    }
+  },
+  "caption": "Jeff Biebuyck lost $4.2M because he trusted a verbal pre-approval. Now he has a system. Here's what he built from that failure.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#LuxuryRealEstate",
+    "#TopProducer",
+    "#RealEstateMindset",
+    "#AgentGrowth"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "04:28",
+    "source_episode": "2025-11-19_item18_Jeff-Biebuyck",
+    "guest_name": "Jeff Biebuyck",
+    "generated_at": "2026-02-19T10:35:58.290407",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:09:30.425733",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced generic mistake examples with ONE specific $4.2M story with the exact system Jeff built (24-hour lender verification rule). Sharpened hook with the actual loss amount. Rewrote CTA to name specific actions with specific deadlines: 'Tonight: pull up last lost deal, write down the moment. Tomorrow morning: build 60-second checklist.' Kept strongest line about mistakes becoming systems.",
+    "original_score": 5,
+    "judge_note": "This is Script 1 wearing a different hat—pick ONE actual mistake Jeff made with names, numbers, and the system he built from it."
+  }
+}

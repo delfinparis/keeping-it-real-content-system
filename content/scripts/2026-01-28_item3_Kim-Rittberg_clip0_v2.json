@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Everyone has Google. Everyone has to add to you. Don't just take the phone to the internet and say it. Really think about what is your opinion, what is your take?",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Kim speaks in direct, no-nonsense statements. She uses repetition for emphasis ('Everyone has...') and rhetorical questions that land like commands. Her tone is coach-like — practical, not preachy.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It calls out the uncomfortable truth that most agents are just regurgitating information anyone could Google, exposing why their content gets ignored."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your content is invisible because you're saying what Google already said.",
+      "production_note": "Text on screen: 'Everyone has Google' — quick cuts of generic real estate posts (market updates, interest rate screenshots, listing photos)"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "You're posting market stats. Interest rate updates. Home buying tips. And nobody's stopping. Nobody's engaging. Because they didn't need YOU for that information.",
+      "production_note": "Show scrolling past generic agent content — fast scroll effect. Cut to Kim Rittberg (text: 'Award-winning video coach')"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Kim Rittberg works with top producers, and she's blunt about this: 'Everyone has Google. Everyone has access to you. Don't just take the phone to the internet and say it. Really think about what is YOUR opinion, what is YOUR take?' Here's what that actually means. When interest rates drop — don't just announce it. Tell people if NOW is the time to buy, or if they should wait. When a house sits on the market — don't just share it. Explain WHY it's sitting and what that means for buyers in that neighborhood.",
+      "production_note": "Split screen: Left side shows 'Google-able content' (generic posts), right side shows 'Your take' (opinion-driven content). Highlight Kim's quote on screen as voiceover plays it."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "The agents getting calls aren't the ones with the most posts. They're the ones with a point of view. Because people don't hire information. They hire perspective.",
+      "production_note": "Show phone ringing, calendar filling up. Text overlay: 'Information vs. Perspective'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Look at your last three posts. If someone could've Googled it in ten seconds, delete it and try again. This time, with YOUR take.",
+      "production_note": "Show someone scrolling their own feed, pausing, thinking. End on text: 'What's YOUR take?'"
+    }
+  },
+  "caption": "Stop being a search engine. Start being an expert. Your take > Google's facts.",
+  "hashtags": [
+    "#RealEstateMarketing",
+    "#ContentStrategy",
+    "#RealEstateAgent",
+    "#VideoMarketing",
+    "#RealEstateTips"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "00:08:41",
+    "source_episode": "2026-01-28_item3_Kim-Rittberg",
+    "guest_name": "Kim Rittberg",
+    "generated_at": "2026-02-19T10:11:09.216216",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "If you're committed to your goal, the holidays, the weather, other people's actions leave you absolutely unfazed.",
+    "clip_type": "emotional_resonance",
+    "energy": "high_passionate",
+    "guest_voice": "Direct, no-BS coach who uses sharp contrasts and challenges you to look in the mirror. Speaks in declarative statements with intensity.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It exposes the uncomfortable truth that most agents aren't actually committed to their goals — they're just interested — and that's why December always derails them."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The holidays don't kill your business. Your lack of commitment does.",
+      "production_note": "Hard cut to Paul mid-sentence, intense eye contact. Text overlay: 'COMMITTED vs INTERESTED'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Paul Salter's a mindset coach who works with top producers. And he says December is the litmus test. Most agents think they're committed to their goals. But their calendar in three weeks will prove they're just interested.",
+      "production_note": "B-roll: Calendar flipping to December, empty office, agent scrolling phone on couch. Quick cut to agent's blocked-out calendar with 'HOLIDAY PARTY' repeated."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's the difference. Interested agents say 'I'll work hard... unless it's cold. Unless it's the holidays. Unless my kids are off school.' They negotiate with circumstances. Committed agents? Paul says it like this: 'If you're committed to your goal, the holidays, the weather, other people's actions leave you absolutely unfazed.' That's it. Committed people don't negotiate with circumstances. They don't need perfect conditions. They just show up. Every day. Even December 23rd.",
+      "production_note": "Split screen: 'INTERESTED' side shows agent making excuses, checking weather app. 'COMMITTED' side shows agent at desk December 23rd, making calls. Highlight Paul's quote with kinetic text. End on close-up: 'EVEN DECEMBER 23RD.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So when you catch yourself blocking off December 15th through January 2nd, ask: Am I committed, or just interested? Because interested agents reset every January. Committed agents separate in December. While everyone else is at holiday parties, you're building January's pipeline.",
+      "production_note": "Close-up of Paul. Cut to visual: two paths diverging — one labeled 'RESET AGAIN,' one labeled 'SEPARATE NOW.' B-roll of empty office vs agent working."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Here's your test. Tomorrow morning, before 10am, call five past clients you haven't talked to in six months. Just check in. 'Hey, thinking of you before the holidays.' That's it. Five calls. Before 10am. That's what committed looks like. Full episode in bio.",
+      "production_note": "Text overlay builds: 'TOMORROW / BEFORE 10AM / 5 PAST CLIENTS / 6+ MONTHS / JUST CHECK IN.' End card with episode title, guest name, and '5 CALLS = COMMITMENT.'"
+    }
+  },
+  "caption": "Committed agents don't negotiate with December. They separate while everyone else checks out.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#SeparationSeason",
+    "#AgentMindset",
+    "#RealEstateTips",
+    "#CommitmentOverInterest"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "00:23:07",
+    "source_episode": "2025-12-04_item14_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:30:40.407722",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:03:13.048869",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague 'pick one income-producing activity' CTA with hyper-specific action: call 5 past clients before 10am tomorrow. Added concrete details throughout (December 23rd, blocking off dates, 6 months). Kept strongest line verbatim and built around it.",
+    "original_score": 6,
+    "judge_note": "Name the activity—'call three expireds,' 'door-knock your farm,' 'text ten past clients'—generic IPAs don't move needles."
+  }
+}

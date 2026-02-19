@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Margo has this like really like kind of constantly simmering rage within her that propels her to do a lot of these horrible things.",
+    "clip_type": "emotional_resonance",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Marisa speaks in thoughtful, conversational fragments — she builds ideas through 'like' and 'you know,' creating intimacy rather than polish. She's observational, connecting personal experience to broader cultural truths.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It names the rage that successful agents never admit to feeling — the constant pressure to perform perfection while cracking underneath."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The rage is what keeps you going. And it's killing you.",
+      "production_note": "Text on screen: 'The rage is what keeps you going.' Hard cut to agent looking at phone, exhausted but scrolling."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Best-selling author Marisa Kashino wrote a character who cracks under the pressure of looking perfect. And when I heard her describe it, I realized — she's talking about us.",
+      "production_note": "B-roll of Instagram-perfect real estate content — perfect latte, gym selfie, staged home. Quick cuts."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She said her character has 'this constantly simmering rage that propels her to do horrible things.' Not dramatic meltdowns. Just the slow burn of trying to be the perfect agent, perfect parent, perfect body, perfect feed. You're performing success while the bar keeps moving. Social media didn't create this pressure — it just made it visible 24/7. Now your clients see other agents who look like they never sleep, never struggle, never have a bad listing photo. So you perform harder. Post more. Smile wider. The rage isn't anger at clients. It's anger at the impossible standard you're racing toward.",
+      "production_note": "Show real agent content — the highlight reel. Then show Marisa's quote on screen. Then contrast with reality: agent at desk late at night, deleting and rewriting a caption."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "What if the rage isn't the problem? What if it's your body telling you that performing perfection isn't sustainable? You've built a career. You don't need to prove you can do everything anymore.",
+      "production_note": "Slow down. Single shot of agent closing laptop. Looking at camera. Human moment."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow morning: open Instagram. Find the listing photo you almost deleted because the lighting was off or the angle was weird. Post it with this caption: 'Not every listing is magazine-ready. Still sold.' That's it. Do it before 10am.",
+      "production_note": "Text on screen: 'Post the photo you almost deleted. Before 10am tomorrow.' End card with podcast logo and 'Full episode in bio.'"
+    }
+  },
+  "caption": "The rage is the quiet part no one talks about. Marisa Kashino said it out loud.",
+  "hashtags": [
+    "#realtorlife",
+    "#burnoutisreal",
+    "#socialmediatruths",
+    "#realtalk",
+    "#perfectionism"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "32:35",
+    "source_episode": "2026-01-21_item7_Marisa-Kashino",
+    "guest_name": "Marisa Kashino",
+    "generated_at": "2026-02-19T10:15:41.314217",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:12:31.333628",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Completely rewrote the CTA from generic 'post something imperfect' to a specific action with specific content (the listing photo they almost deleted), specific caption text, and specific deadline (tomorrow before 10am). Kept the strongest line about rage at impossible standards. Hook scored 7/10 so kept it intact.",
+    "original_score": 5,
+    "judge_note": "The CTA is the same generic 'post something real' advice as Script 1 — give a specific example of what to post (like 'post the listing photo you almost deleted because the lighting was off') so they can actually do it."
+  }
+}

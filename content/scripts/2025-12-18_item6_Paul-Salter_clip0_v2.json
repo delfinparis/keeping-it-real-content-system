@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "When a behavior or something that is said by another person triggers you, it's a mirror of a part of yourself you don't like.",
+    "clip_type": "pattern_reveal",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Paul speaks in psychological truth bombs—direct, unflinching, with the rhythm of someone who's done the work himself. He builds tension before delivering insights that sting.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It reframes defensiveness from 'they're attacking me' to 'I'm avoiding something I already believe about myself'—a psychological mirror most people have never held up."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "That client comment that ruined your whole day? It hit because you already believed it.",
+      "production_note": "Text on screen: 'That comment that ruined your day...' with tense music sting"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Paul Salter's a mindset coach who works with high performers stuck in defensiveness patterns. And he just called out the thing nobody wants to admit about taking things personally.",
+      "production_note": "Cut to Paul's headshot with credentials, then b-roll of stressed professional checking phone"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he said: 'When a behavior or something that is said by another person triggers you, it's a mirror of a part of yourself you don't like.' The feedback about your response time? You already know you're dropping balls. The comment about follow-through? You're already ashamed of the deals that fell apart. It stings because deep down, you believe it's true—and you've been working overtime to avoid looking at it.",
+      "production_note": "Show Paul's quote on screen, then cut to examples: unread texts piling up, missed calendar notifications, stressed agent at desk late at night"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Which means the defensiveness isn't protecting you. It's keeping you stuck. Because you can't fix what you won't acknowledge. The trigger is actually showing you exactly where the work needs to happen.",
+      "production_note": "Visual shift—light breaking through, person taking deep breath, opening notebook"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So ask yourself: what criticism have you been fighting the hardest? That's your mirror. That's your next breakthrough. Start there.",
+      "production_note": "End on Paul speaking directly to camera, or text overlay: 'What are you fighting the hardest?' with contemplative music"
+    }
+  },
+  "caption": "The feedback that triggers you the most? You already believe it. Here's what that means.",
+  "hashtags": [
+    "#MindsetShift",
+    "#RealEstateAgent",
+    "#EmotionalIntelligence",
+    "#PersonalDevelopment",
+    "#SelfAwareness"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "12:08",
+    "source_episode": "2025-12-18_item6_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:23:37.460905",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

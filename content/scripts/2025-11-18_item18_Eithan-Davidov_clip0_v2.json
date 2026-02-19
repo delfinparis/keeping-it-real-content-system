@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Don't grow too fast. You don't want to bite off more than you can chew.",
+    "clip_type": "memorable_oneliner",
+    "energy": "calm_authoritative",
+    "guest_voice": "Direct, no-nonsense NYC real estate veteran. Speaks in short, punchy sentences. Practical wisdom without fluff.",
+    "target_avatar": "team_leader",
+    "why_this_stops_scrolls": "It's the opposite of what every growth guru preaches — and it's coming from someone doing 100+ transactions a year."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The guy closing 100 deals a year just said don't grow your team.",
+      "production_note": "B-roll: Quick cuts of 'CLOSED' signs, team photos, frantic office energy. Text overlay: '100+ transactions/year'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Eithan Davidov runs one of the top teams in Queens. And when I asked him about scaling, he said something that goes against everything you hear on LinkedIn.",
+      "production_note": "Split screen: Eithan headshot on one side, Queens skyline on other. Cut to podcast footage of the actual moment."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Quote: 'Don't grow too fast. You don't want to bite off more than you can chew.' Here's what he means. Every agent you add isn't just another producer. It's another person who needs training, systems, leads, and your time. He's watched teams implode because they hired five agents when they only had infrastructure for two. The deals dried up. Service quality tanked. And the team leader became a full-time babysitter instead of a rainmaker.",
+      "production_note": "Show actual quote as text on screen. Then cut to visual metaphor: overflowing plate, stressed team leader at desk buried in papers, split screen of 'what you think scaling looks like' vs 'what it actually looks like'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So before you post that 'we're hiring' ad, ask yourself: Do I have the systems to support another human? Or am I just trying to look bigger than I am?",
+      "production_note": "Close-up of Eithan speaking directly to camera (or host listening intently). Cut to 'HIRING' sign with question mark overlay."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Growth isn't the goal. Sustainable growth is. If you're building a team right now, what's the one system you need before your next hire? Comment below.",
+      "production_note": "End card: 'SUSTAINABLE > FAST' text overlay. Show comment prompt animation."
+    }
+  },
+  "caption": "100 transactions a year. His advice? Slow down. (This hit different)",
+  "hashtags": [
+    "#RealEstateTeam",
+    "#TeamLeader",
+    "#RealEstateBusiness",
+    "#AgentLife",
+    "#ScalingSmarter"
+  ],
+  "content_pillar": "systems_that_scale",
+  "target_avatar": "team_leader",
+  "share_trigger": "identity — team leaders will tag this and say 'FINALLY someone said it' because they're drowning in unsustainable growth",
+  "_metadata": {
+    "source_clip_timestamp": "05:25",
+    "source_episode": "2025-11-18_item18_Eithan-Davidov",
+    "guest_name": "Eithan Davidov",
+    "generated_at": "2026-02-19T10:38:02.712873",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

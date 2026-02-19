@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Insurability became an issue with affordability... we've seen a massive shift in our market.",
+    "clip_type": "pattern_reveal",
+    "energy": "matter_of_fact",
+    "guest_voice": "Direct, no-fluff communicator who states market realities plainly without drama — speaks in clear declarative statements about what IS happening, not what might happen.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It names the invisible deal-killer that agents are experiencing but not talking about — the thing that's tanking transactions after inspections and making buyers walk."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Insurance is killing more deals than bad inspections right now.",
+      "production_note": "Text on screen: 'INSURANCE > INSPECTIONS' with a red X over a house icon. Fast cut energy."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "If you've had a buyer walk after everything looked good, this is probably why. Jeff Biebuyck moves luxury properties in Calabasas and Hidden Hills — top 1% nationwide — and he's watching it happen in real time.",
+      "production_note": "B-roll of luxury homes, then cut to Jeff speaking. Keep it tight."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he told me: 'Insurability became an issue with affordability. We've seen a massive shift in our market.' Translation? Buyers are pre-approved. Inspection's clean. Then they get the insurance quote — if they can even GET insurance — and the numbers don't work anymore. In fire-risk zones, premiums doubled or tripled. In flood zones, policies disappeared entirely. Suddenly a $2 million home costs $25K a year just to insure. That's a $2,000 monthly payment your buyer didn't budget for.",
+      "production_note": "Show insurance quote examples on screen. Highlight the monthly cost difference. Use visual math: $2M home → $25K insurance → $2K/month."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Which means you can't just be a real estate agent anymore. You need to know insurance like you know comps. You need carriers who'll actually write policies. You need to set expectations before the offer, not after.",
+      "production_note": "Cut back to host or Jeff. Serious tone. This is the 'wake up' moment."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your homework: Call three insurance brokers this week. Ask what's actually insurable in your market right now. Because if you're not having this conversation before escrow, your competition is.",
+      "production_note": "Text on screen: 'CALL 3 BROKERS THIS WEEK' — make it feel like a checklist item they can screenshot."
+    }
+  },
+  "caption": "The hidden deal-killer no one's talking about (and how top agents are adapting)",
+  "hashtags": [
+    "#realestatetips",
+    "#luxuryrealestate",
+    "#insurancecrisis",
+    "#realtorlife",
+    "#marketshift"
+  ],
+  "content_pillar": "market_intelligence",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "28:00",
+    "source_episode": "2025-11-19_item18_Jeff-Biebuyck",
+    "guest_name": "Jeff Biebuyck",
+    "generated_at": "2026-02-19T10:36:19.664927",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

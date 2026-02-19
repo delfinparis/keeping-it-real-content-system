@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "When you're calling your database, are you asking for money or are you handing out gold bars?",
+    "clip_type": "mindset_shift",
+    "energy": "high_passionate",
+    "guest_voice": "Chase uses direct, conversational language with vivid metaphors and rhetorical questions. He teaches through contrast and challenges listeners to examine their own behavior.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It exposes the uncomfortable truth that most agents are takers disguised as relationship-builders, and offers a specific mental model to flip the script."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your database doesn't answer because they know you're calling to take, not give.",
+      "production_note": "Text on screen: 'Your database knows.' Cut to Chase mid-sentence, intense eye contact."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Chase Craig — two billion in sales, six thousand transactions — says most agents have this backwards. And it's killing their conversion. Here's what he means.",
+      "production_note": "Quick B-roll of phone screen with unanswered calls. Chase's stats appear as text overlays."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He asks: When you're calling your database, are you asking for money or are you handing out gold bars? Most agents call when they need a deal. They ask about timing. They pitch their services. That's asking for money. Handing out gold bars? That's calling with a market update they can't get anywhere else. A off-market property that fits their criteria. Intel on their neighborhood. Value first. Always.",
+      "production_note": "Split screen: 'Asking for Money' vs 'Handing Out Gold Bars' with examples under each. Cut back to Chase delivering the metaphor with hand gestures."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "When you become the person who gives gold bars, your database starts answering. Because they want what you have. Not because they feel guilty ignoring you.",
+      "production_note": "Close-up of Chase. Text overlay: 'They want what you have.' Cut to visual of phone ringing, being answered."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So before your next database call — write down the gold bar you're giving. If you can't name it, don't make the call yet. Go find the gold first.",
+      "production_note": "Chase pointing at camera. Final frame: 'Find the gold first.' Show notepad with 'My Gold Bar:' written at top."
+    }
+  },
+  "caption": "Stop asking for money. Start handing out gold bars. Your database will know the difference.",
+  "hashtags": [
+    "#RealEstateDatabase",
+    "#TopProducerMindset",
+    "#RealEstateValue",
+    "#AgentTips",
+    "#ChaseOnPodcast"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "33:00",
+    "source_episode": "2025-10-24_item24_Chase-Craig",
+    "guest_name": "Chase Craig",
+    "generated_at": "2026-02-19T10:44:22.075800",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

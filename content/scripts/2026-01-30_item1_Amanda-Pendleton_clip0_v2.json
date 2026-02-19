@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "If I have an agent and I am doing photos for a list, I would probably keep a white duvet in my trunk.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Amanda speaks like a data translator — she takes massive research insights and distills them into practical, almost offhand advice. No fluff, just 'here's what the numbers say, here's what you do.'",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It's a stupidly simple hack backed by real data that most agents would never think to do, but could immediately implement to get more engagement on their listings."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "A white duvet in your trunk could be worth thirty thousand dollars.",
+      "production_note": "Open on close-up of car trunk popping open, revealing neatly folded white bedding. Quick cut to listing photo with white bedding on bed."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Amanda Pendleton analyzes millions of listings at Zillow. And she found something wild: listings with white linens get 30% more engagement. Not better homes. Just... whiter sheets.",
+      "production_note": "Show Amanda's headshot with Zillow logo. Cut to split-screen of two identical bedrooms — one with colorful bedding, one with white. Overlay engagement metrics showing the difference."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she told us: 'If I have an agent and I am doing photos for a list, I would probably keep a white duvet in my trunk.' That's it. Ten bucks at Target. Five minutes before the photographer shows up. You walk through the listing, swap out the floral comforter for crisp white. Suddenly the bedroom looks bigger, cleaner, more aspirational. Buyers scroll slower. They click 'Save.' They book the showing.",
+      "production_note": "Show B-roll of agent pulling white duvet from trunk. Time-lapse of agent making bed with white linens. Before/after slider of same room with different bedding. Cut to phone screen showing listing with high engagement metrics."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You're already staging the kitchen counters. You're already telling sellers to hide the family photos. This is the same thing — except nobody's doing it yet. Which means you get the advantage right now.",
+      "production_note": "Show quick cuts of typical staging activities (clearing counters, removing personal items), then back to the white duvet in trunk. End on agent closing trunk with confident look."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your homework: Buy two white duvets this week. Keep them in your car. Use them on your next three listings. Then tell me if your engagement numbers don't change.",
+      "production_note": "Direct to camera. Text overlay: '2 white duvets = 30% more engagement.' Fade to podcast logo with 'Full episode: link in bio.'"
+    }
+  },
+  "caption": "Zillow analyzed millions of listings. This $10 hack gets 30% more engagement. Most agents have no idea.",
+  "hashtags": [
+    "#realestatetips",
+    "#listingphotography",
+    "realestateagent",
+    "#zillowdata",
+    "#homeselling"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "05:09",
+    "source_episode": "2026-01-30_item1_Amanda-Pendleton",
+    "guest_name": "Amanda Pendleton",
+    "generated_at": "2026-02-19T10:09:47.979544",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Imagine one out of every five items at the grocery store all being made by the same company. That's the scale that we're talking about here.",
+    "clip_type": "pattern_reveal",
+    "energy": "calm_authoritative",
+    "guest_voice": "Chris speaks in clear, methodical explanations with vivid analogies — he breaks down complex industry moves into relatable scenarios without dumbing them down.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reveals a hidden monopoly forming in real estate that directly threatens how independent agents will compete and survive in the next 24 months."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "One company now controls 20% of every real estate agent in America.",
+      "production_note": "Bold text overlay: '1 in 5 agents' with map of US highlighting density. Urgent music bed."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Compass just bought Anywhere Real Estate — that's Coldwell Banker, Century 21, Better Homes and Gardens, Corcoran, ERA. Eighteen thousand offices. Over 300,000 agents. Most of them woke up one day under new ownership.",
+      "production_note": "Cut to Chris on screen. Lower third: 'Chris Linsell | Real Estate Tech Strategist'. B-roll of brokerage logos flashing quickly."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Chris Linsell breaks it down like this: 'Imagine one out of every five items at the grocery store all being made by the same company. That's the scale we're talking about here.' These agents joined legacy brands with regional roots and broker relationships. Now they're part of a tech-first machine with centralized data, AI tools, and algorithmic lead routing. The brand they signed up for? Gone. The playbook? Rewritten.",
+      "production_note": "Animated graphic showing brand logos merging into Compass logo. Cut to Chris quote on screen with grocery store aisle visual metaphor in background. Return to Chris nodding."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Here's what changed overnight: the agents with the biggest marketing budgets, the slickest tech, and the most data just got 300,000 teammates. If you're competing on brokerage brand alone, you just became invisible.",
+      "production_note": "Split screen: small independent agent vs. massive Compass network visualization. Zoom in on solo agent looking at phone, dwarfed by network graphic."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight, open your Instagram or LinkedIn. Post one thing you helped a client with this week that had nothing to do with your brokerage. A neighborhood insight. A negotiation win. A mistake you caught. That's your brand. Start building it now.",
+      "production_note": "End card with text overlay: 'Post ONE client win tonight' with phone mockup showing sample post. Fade to black with timer graphic: 'Do it now.'"
+    }
+  },
+  "caption": "300,000 agents just became part of the same company overnight. Time to build a brand that's actually yours.",
+  "hashtags": [
+    "#RealEstateNews",
+    "#CompassRealEstate",
+    "#RealEstateAgent",
+    "#RealtorLife",
+    "#RealEstateTech"
+  ],
+  "content_pillar": "market_intelligence",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "15:45",
+    "source_episode": "2025-10-27_item24_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:42:55.345139",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:01:08.167216",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Committed fully to the personal brand angle (vs. tech gap). Removed redundant explanation in INSIGHT. Replaced vague 'ask yourself' CTA with specific action: post one client story tonight on social media. Tightened SETUP to emphasize the overnight ownership change agents didn't choose.",
+    "original_score": 6,
+    "judge_note": "This is 90% identical to Script 3—pick one angle (tech gap or personal brand) and commit fully."
+  }
+}

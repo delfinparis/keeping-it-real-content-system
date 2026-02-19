@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Imagine if the NAR committed to being 10x data collection insights and analysis. We could do 100x frankly based on the power that AI unlocks.",
+    "clip_type": "contrarian_take",
+    "energy": "high_passionate",
+    "guest_voice": "Chris speaks like a systems architect — big vision, specific numbers, conversational but precise. He builds arguments methodically then lands provocative conclusions.",
+    "target_avatar": "aspiring_top_producer",
+    "why_this_stops_scrolls": "It exposes the massive competitive advantage hiding in plain sight that 99% of agents aren't using while the top 1% quietly dominate with data."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The top 1% of agents aren't better at sales. They're better at math.",
+      "production_note": "Quick cuts of luxury listings, million-dollar deals, then hard cut to spreadsheets and data dashboards"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "While you're grinding open houses and cold calling, they're mining 300 data fields per listing that you're completely ignoring. Chris Linsell, real estate tech analyst, just said the quiet part out loud.",
+      "production_note": "Split screen: exhausted agent making calls vs. top producer analyzing market data on multiple screens"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Every property in your MLS has roughly 300 data fields. Days on market, price per square foot, seller concessions, seasonal patterns. That's not just information — that's predictive power. Chris's vision? 'Imagine if NAR committed to being 10x data collection, insights and analysis. We could do 100x with AI.' But here's the thing — you don't need to wait for NAR. The data's already there. ChatGPT can analyze your entire market in seconds. Which neighborhoods are softening? Where are buyers overpaying? What's the actual absorption rate?",
+      "production_note": "Screen recordings of ChatGPT analyzing real MLS data, graphs appearing, insights being generated. Show actual prompts and outputs."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "The agents crushing it right now aren't just showing homes. They're walking into listings with market intelligence that makes them look like prophets. That's not talent. That's leverage.",
+      "production_note": "Agent confidently presenting market analysis to impressed clients, nodding heads, signing papers"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Pull your last 50 closed sales from your MLS. Export to CSV. Upload to ChatGPT. Ask it to find patterns you missed. Do it today — or watch someone else become the market expert in your territory.",
+      "production_note": "Step-by-step screen recording showing the exact process, ending with revealing insights appearing"
+    }
+  },
+  "caption": "Your MLS has 300 data fields per listing. Top producers use them. You ignore them. That's the gap.",
+  "hashtags": [
+    "#RealEstateData",
+    "#AIForRealtors",
+    "#TopProducer",
+    "#MLSHacks",
+    "#RealEstateIntelligence"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "aspiring_top_producer",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "00:23:03",
+    "source_episode": "2025-12-22_item5_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:21:55.652005",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Anybody who sends me these postcards as consistently as you've done for the past 10 months, that's who I want to work with.",
+    "clip_type": "emotional_resonance",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Jay speaks in conversational, meandering storytelling—authentic, self-deprecating, and brutally honest about his near-bankruptcy. He doesn't polish his struggles.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It validates the hidden fear every agent has—that their marketing isn't working—and proves the exact moment consistency pays off."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "He mailed postcards for ten months. Got nothing. Zero calls. Almost went bankrupt.",
+      "production_note": "Text on screen: '10 MONTHS. $0 RESULTS.' Anxious, tense music."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jay Cannone's a top 1% producer now. But back then? He was on a conference call with other agents celebrating wins while he was sitting there broke. Ready to quit the whole marketing thing.",
+      "production_note": "B-roll: Empty desk, bills piled up. Cut to Jay's headshot with 'TOP 1% PRODUCER' credential."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Month eleven. A luxury seller calls. Jay asks why him. The guy says: 'Anybody who sends me these postcards as consistently as you've done for the past ten months—that's who I want to work with.' Not the best design. Not the cleverest copy. Consistency. The seller had been watching. Testing. Waiting to see if Jay would quit like everyone else.",
+      "production_note": "Overlay: Phone ringing. Cut to Jay's actual quote as audio. Text on screen: 'MONTH 11.' Then: 'CONSISTENCY = CREDIBILITY.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You think nobody's noticing your marketing. They are. They're just not ready yet. Every postcard, every email, every video—it's a deposit. And the people worth working with? They're counting.",
+      "production_note": "Slow-motion B-roll: Mail being delivered, emails landing in inbox. Calm, hopeful music shift."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's the question: What marketing did you quit on at month nine? Full episode link in bio—Jay breaks down the exact system that saved his career.",
+      "production_note": "Text on screen: 'WHAT DID YOU QUIT ON?' Freeze on Jay's face. End card: 'FULL EPISODE 🔗'"
+    }
+  },
+  "caption": "He almost quit at month 10. Month 11 changed everything. The full story will gut you.",
+  "hashtags": [
+    "#RealEstateMarketing",
+    "#Consistency",
+    "#TopProducer",
+    "#RealEstateAgent",
+    "#LuxuryRealEstate"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "28:00",
+    "source_episode": "2025-12-15_item8_Jay-Cannone",
+    "guest_name": "Jay Cannone",
+    "generated_at": "2026-02-19T10:26:01.861527",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

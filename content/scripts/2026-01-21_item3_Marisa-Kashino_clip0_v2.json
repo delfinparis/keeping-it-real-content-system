@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The stakes feel so high when you're in it. So I thought it would make sort of the perfect context for a thriller.",
+    "clip_type": "emotional_resonance",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Marisa speaks in thoughtful, complete sentences with a literary sensibility — she uses phrases like 'psychological unraveling' and 'emotionally fraught' but grounds them in relatable specifics.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It validates the emotional intensity new agents feel with buyers by revealing a bestselling author turned it into a thriller — making their daily stress feel both seen and significant."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "A bestselling author wrote a psychological thriller about buying a house.",
+      "production_note": "Book cover reveal with thriller-style dramatic lighting/music sting"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Not about murder. Not about money laundering. About the actual process of trying to buy a home in a competitive market. Because Marisa Kashino realized something most agents already know.",
+      "production_note": "Cut to author headshot, then quick montage of 'SOLD' signs, bidding wars, open house crowds"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Her protagonist gets outbid eleven times. Trapped in a tiny apartment. Two years of searching. And she says this: 'The stakes feel so high when you're in it. So I thought it would make the perfect context for a thriller.' The character literally unravels — obsessive, unhinged, willing to do anything. And here's what's wild: agents told Marisa they've seen this exact energy in real buyers. The biggest investment most people ever make, and you're their guide through what feels like psychological warfare.",
+      "production_note": "B-roll: stressed buyers at kitchen tables, phones with rejection texts, agents consoling clients. Use the verbatim quote as text overlay at 0:18"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So when your buyer melts down over losing another house? When they start suggesting wild escalation clauses or want to write a ten-page letter? You're not dealing with crazy. You're dealing with stakes that literally inspired a dark comedy thriller.",
+      "production_note": "Close-up of agent's empathetic face, nodding. Split screen showing buyer emotion vs agent's calm presence"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "The book is called 'Best Offer Wins.' Read it. Then hand it to your most anxious buyer and say 'I promise we won't let it get this far.' Sometimes people just need to know you see how hard this is.",
+      "production_note": "Book cover with title clear, then cut to agent handing book to client with reassuring smile"
+    }
+  },
+  "caption": "When the housing market is intense enough to inspire a psychological thriller, your buyers aren't overreacting — they're human.",
+  "hashtags": [
+    "#realestatetok",
+    "#newagent",
+    "#buyeragent",
+    "#housingmarket",
+    "#realestatebook"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "18:42",
+    "source_episode": "2026-01-21_item3_Marisa-Kashino",
+    "guest_name": "Marisa Kashino",
+    "generated_at": "2026-02-19T10:16:02.430794",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

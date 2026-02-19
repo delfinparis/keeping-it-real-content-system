@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "If you choose to take on that client, then you need to represent them just like if they were a multimillion dollar deal.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Direct, principle-driven. Speaks in clear declaratives without fluff. Confident but not performative — the tone of someone who's done the work and knows what matters.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Exposes the hidden reason agents plateau — they're unconsciously treating clients differently based on price point, which kills referrals and reputation."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The $200K listing is killing your $2M career.",
+      "production_note": "Text on screen: '$200K listing' then 'killing your $2M career' — bold, contrasting colors. B-roll of modest home exterior."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Most agents say they treat every client the same. But your calendar, your response time, your staging budget? They tell a different story. Kristee Leonard's built a $50M+ business in Austin luxury — and she says this double standard is the silent killer.",
+      "production_note": "Split screen: calendar screenshots showing response time differences, then cut to Kristee's headshot with credential text overlay."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she told me: 'If you choose to take on that client, then you need to represent them just like if they were a multimillion dollar deal.' Not 'try to.' Not 'when you can.' Need to. Because that $250K seller? She has a sister looking at $3M properties. That first-time buyer has a boss who just got promoted. You think they're not watching how you show up? The professional photos, the staging consult, the response time at 8 PM — it's all the same standard, or you're building a business on quicksand.",
+      "production_note": "Overlay Kristee's quote as text. Cut between: professional listing photos, agent on phone at night, staging consultation footage. Visual emphasis on 'same standard.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "This isn't about being nice. It's about understanding that your reputation isn't built on your biggest deal — it's built on your most inconsistent one. The client you half-repped is the one telling the story at the dinner party.",
+      "production_note": "B-roll: dinner party scene, people talking. Text overlay: 'Your reputation = your most inconsistent client.'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Pull your last ten clients. Honest question: if someone looked at your effort level across all ten, would they see one standard or two? If it's two, you already know what to fix.",
+      "production_note": "Direct to camera or text overlay with the question. End card: 'One standard or two?' Pause for effect before fade."
+    }
+  },
+  "caption": "The client you're half-repping is the one killing your referrals. Kristee Leonard on the one standard that built $50M in production.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#LuxuryRealEstate",
+    "#RealtorLife",
+    "#ClientService",
+    "#TopProducer"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "27:00",
+    "source_episode": "2026-01-22_item6_Kristee-Leonard",
+    "guest_name": "Kristee Leonard",
+    "generated_at": "2026-02-19T10:13:59.128021",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

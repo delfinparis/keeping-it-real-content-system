@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "What does it actually mean to look your age anymore?",
+    "clip_type": "mindset_shift",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Marisa speaks in thoughtful, connected observations — building ideas piece by piece, using 'I think' and 'you know' as natural connectors, not filler. She's exploratory, not declarative.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It names the invisible exhaustion of performing perfection in an AI-filtered world — something every agent feels but rarely admits."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your last three buyers rejected homes because of the kitchen backsplash.",
+      "production_note": "Open on agent's phone showing three different 'pass' texts from buyers, all mentioning aesthetic details. Zoom into one: 'Love it but that tile...'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Best-selling author Marisa Kashino wrote a novel about home buying in the Instagram age. She asked me one question that broke my brain: 'What does it actually mean to look your age anymore?'",
+      "production_note": "Cut to Marisa's headshot with book cover. B-roll of someone scrolling Pinterest boards labeled 'Dream Kitchen' while touring an actual home"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Because here's what's happening: Your buyers are touring a 1950s ranch with good bones and a great yard. But they're comparing it to AI-generated kitchen renders they saw on Pinterest this morning. Unlacquered brass. Zellige tile. That specific shade of sage green that's everywhere right now. They're not rejecting the house — they're rejecting the gap between the algorithm's version of 'perfect' and what's actually in front of them. And you know what the worst part is? You're doing the same thing. You spent two hours last night editing your listing photos. Smoothing. Brightening. Making that dated bathroom look 'aspirational.' We're all chasing a standard that doesn't exist.",
+      "production_note": "Show split screen: Pinterest 'saved' kitchen vs. actual kitchen in showing. Cut to agent laptop at night, Lightroom open, before/after slider. Text overlay of original quote at 0:20. End on exhausted agent face lit by screen glow"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "What if the thing your clients actually need isn't more perfection? What if they need someone who'll tell them the truth about what's real? That the brass will tarnish. That the Zillow photo has a filter. That their budget buys a life, not a magazine spread.",
+      "production_note": "Slow down. Single shot of agent having real conversation with client at kitchen table. Natural light. No filter. Agent gesturing to actual home around them, not a screen"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow, before your first showing: Record a 15-second video in the actual kitchen of that listing. No filter. Say one true thing about it — the window light, the cabinet depth, what actually works. Post it. That's the pattern breaking.",
+      "production_note": "End card with text overlay: 'Tomorrow. One video. No filter. 15 seconds.' Show example of agent recording in real kitchen with phone. Fade to podcast logo"
+    }
+  },
+  "caption": "Your buyers are rejecting real homes because they look like... homes. Here's how to break the pattern.",
+  "hashtags": [
+    "#RealEstateReality",
+    "#AgentBurnout",
+    "#SocialMediaTruth",
+    "#RealOverPerfect",
+    "#RealtorMindset"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "29:00",
+    "source_episode": "2026-01-21_item2_Marisa-Kashino",
+    "guest_name": "Marisa Kashino",
+    "generated_at": "2026-02-19T10:16:44.935410",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:06:36.667818",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Sharpened hook to specific buyer behavior (backsplash rejections). Narrowed insight to focus solely on buyer's Pinterest problem with one concrete example (1950s ranch vs. AI renders). Completely rewrote CTA to name exact action: 'tomorrow, record 15-second video in actual kitchen, no filter, post it' — gives timeframe, format, location, and constraint.",
+    "original_score": 6,
+    "judge_note": "The hook is too vague and the insight section tries to cover too much ground — pick one specific example (either the client's Pinterest obsession OR the agent's perfection trap, not both) and drill into it with a concrete story."
+  }
+}

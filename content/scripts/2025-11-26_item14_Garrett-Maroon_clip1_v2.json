@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Redefine success on your own terms.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Garrett speaks in practical, relatable stories with conversational rhythm — lots of 'right?' and 'you know' — building to clear, declarative truths.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It names the exact prison most successful agents are in — winning by someone else's scoreboard while losing at their own life."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You hit top 1% and still feel like you're losing.",
+      "production_note": "Close-up on Garrett, serious expression. Cut to B-roll: agent at desk late at night, phone lighting their tired face."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Garrett Maroon built a top 1% real estate business in Southeast Virginia. But he almost lost everything that mattered while doing it. Here's what he figured out.",
+      "production_note": "Quick cuts: family photos, awards on shelf, missed soccer game. Establish the tension between success metrics and life metrics."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Most agents are chasing a definition of success they didn't even write. More deals. Higher production. Bigger team. But nobody's asking — success at what cost? Garrett hit his breaking point at 47 transactions. His daughter asked why he missed her recital. Again. So he did something radical: he fired 60% of his database. Just stopped chasing C and D clients. Hired a showing assistant for $15 an hour. And built a boundary: no calls after 6pm, no showings on Sundays. His volume dropped to 32 deals the next year. But you know what? He coached every single one of his son's baseball games. And he made more per transaction because he was working with A clients who actually valued his time.",
+      "production_note": "Split screen: left side shows typical 'success' imagery (awards, big checks, stage photos). Right side shows Garrett's actual calendar with blocked-off family time. Cut to B-roll: agent saying 'no' on phone, delegating to assistant, closing laptop at 6pm. Text overlay: '47 deals → 32 deals. Stressed → Present.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Because here's the truth — you can be the top producer in your market and still be failing at the life you actually want. The breakthrough isn't doing more. It's getting clear on what you're actually building toward. And then having the guts to cut what doesn't fit.",
+      "production_note": "Garrett speaking directly to camera, earnest. Cut to B-roll: agent closing laptop at reasonable hour, present at family moment, genuine smile."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight before bed: open your client list. Find three clients who drain you and give you nothing back. Tomorrow morning, text them a referral to another agent. Just three. That's how you start building your version of success instead of theirs.",
+      "production_note": "Text overlay animates on screen: '1. Open client list. 2. Find 3 energy drains. 3. Refer them out tomorrow.' Fade to Garrett nodding with conviction."
+    }
+  },
+  "caption": "Top 1% and still losing? Here's what Garrett cut to win. 🎯",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#WorkLifeBalance",
+    "#RealtorLife",
+    "#TopProducer",
+    "#RealEstateMindset"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "36:10",
+    "source_episode": "2025-11-26_item14_Garrett-Maroon",
+    "guest_name": "Garrett Maroon",
+    "generated_at": "2026-02-19T10:32:49.487169",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:02:40.020944",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague 'maybe success is...' examples with Garrett's actual story: firing 60% of database, hiring showing assistant, setting 6pm boundary. Changed reflective CTA ('write it down tonight') to concrete action: identify 3 draining clients and refer them out tomorrow morning. Built entire INSIGHT around one specific decision and its measurable outcome.",
+    "original_score": 6,
+    "judge_note": "Too vague and self-helpy—give one concrete example of what Garrett ACTUALLY changed in his business (a system, a boundary, a hire) instead of asking viewers to journal."
+  }
+}

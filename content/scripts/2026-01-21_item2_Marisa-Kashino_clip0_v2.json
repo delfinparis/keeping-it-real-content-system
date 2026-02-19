@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "It's really how far would someone go to get the house, right?",
+    "clip_type": "emotional_resonance",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Marisa speaks in conversational, grounded language — she uses 'right?' and 'you know' to pull you in, building narrative tension through relatable specifics rather than abstraction.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It names the uncomfortable truth every agent knows but rarely says out loud — buyers will do absolutely insane things for a house, and you're the one who has to manage that chaos."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your buyer just asked if they could write a letter to the seller's dead mother.",
+      "production_note": "Close-up of Marisa's face, mid-conversation. Cut to B-roll of handwritten letter being sealed in envelope — slightly ominous lighting."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Marisa Kashino wrote a bestselling novel about a woman who goes absolutely unhinged trying to buy a house. And the scary part? An agent in Seattle told her that exact story. The dead mother letter. Actually happened.",
+      "production_note": "Show book cover 'Best Offer Wins' briefly. Cut to Marisa's reaction shot — half laugh, half disbelief. Quick montage of 'SOLD' signs, bidding wars."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "In the book, the main character gets outbid eleven times. Two years of house hunting. So when she hears about a home that's not even listed yet? She doesn't call her agent. She stalks the owners at the grocery store. Shows up at their kid's soccer game. And when that doesn't work, she escalates. But here's what agents told Marisa: they've seen buyers offer to pay for the seller's divorce attorney. Promise to name their baby after the seller. One guy tried to buy the house next door just to be closer. Because as Marisa puts it: 'It's really how far would someone go to get the house, right?' You're not managing transactions. You're managing people at their absolute breaking point — watching the biggest investment they'll ever make slip away for the eleventh time.",
+      "production_note": "Split screen: Marisa speaking on one side, dramatic B-roll on the other — woman peering through windows, obsessively scrolling listings at 2am, showing up uninvited at seller's door. Use thriller-style music bed. Text overlay of specific examples: 'Paid for divorce attorney' / 'Named baby after seller' / 'Bought house next door'."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Every agent watching this has that one buyer story. The one who showed up uninvited. The one who offered cash they didn't actually have. The one who made you sit in your car after the showing and wonder if you should've been a therapist instead. That's not bad clients. That's what happens when you don't draw the line early.",
+      "production_note": "Return to Marisa's face, nodding knowingly. Cut to agent sitting alone in car after showing, exhaling deeply — the weight of it all. Brief flash of agent's phone blowing up with texts."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Before your next buyer consultation — literally the next one — add one question to your intake: 'What's the craziest thing you've considered doing to get a house?' Their answer tells you exactly where you need to set the boundary. Try it once. Full episode in bio.",
+      "production_note": "Direct eye contact with camera. Text overlay appears: 'NEXT CONSULTATION → ASK: What's the craziest thing you've considered doing to get a house?' Final frame: show title card with episode number and guest name."
+    }
+  },
+  "caption": "Your buyer will do absolutely insane things for a house. The question is: where's your line?",
+  "hashtags": [
+    "#realestate",
+    "#realtorlife",
+    "#buyersagent",
+    "#realestateagent",
+    "#agentburnout"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "18:08",
+    "source_episode": "2026-01-21_item2_Marisa-Kashino",
+    "guest_name": "Marisa Kashino",
+    "generated_at": "2026-02-19T10:16:24.839043",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:12:20.312479",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Delivered on the hook promise by adding real agent stories (divorce attorney, baby naming, house next door). Replaced vague 'ask yourself' CTA with specific action: add one question to next buyer consultation with exact wording provided. Fixed weakest line by making boundary-setting concrete instead of resigned.",
+    "original_score": 5,
+    "judge_note": "The hook is killer but the script never delivers on it—give us one real story from an agent who saw this level of crazy, not just book summary."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Show up. Do the work. Be straight with your clients. And success will be inevitable.",
+    "clip_type": "memorable_oneliner",
+    "energy": "calm_authoritative",
+    "guest_voice": "Jay speaks in short, declarative sentences—no fluff, no jargon. He's the veteran who's seen it all and distilled 40 years into four principles.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "Because it cuts through all the 'growth hacking' noise and offers a deceptively simple formula from someone who's actually done it for four decades."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "A 40-year veteran just told me he's never missed a closing. Here's the one thing he refuses to do.",
+      "production_note": "Open on Jay mid-sentence, dead serious. Text overlay: 'NEVER MISSED A CLOSING.' Quick cut to luxury home exterior."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jay Cannone. Forty years in Fairfield County luxury. Top 1% every single year. And when I asked what separates agents who last from agents who flame out, he didn't give me a strategy. He gave me a story.",
+      "production_note": "B-roll: Jay's headshot, then quick cuts of three different luxury properties. Text overlay: '40 YEARS | TOP 1% | NEVER QUIT'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He said: 'I had a buyer back out at 4pm on a Friday. Seller was furious. I could've hidden until Monday. Instead, I drove to their house that night. Sat at their kitchen table. Told them exactly what happened and exactly what I'd do next. No spin. No excuses.' Then he looked at me and said: 'Show up. Do the work. Be straight. Do that long enough, and success becomes inevitable.' Here's what he means by inevitable: the market runs out of ways to say no to you. Not because you're the smartest. Because you're the one who keeps showing up when it's uncomfortable.",
+      "production_note": "Jay speaking directly to camera for the kitchen table story. Cut to B-roll of agent driving at dusk, knocking on door, sitting across table (reenactment style). Text overlay: 'SHOW UP. DO THE WORK. BE STRAIGHT.' Then return to Jay for final line."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You're probably obsessing over your Instagram strategy right now. But here's the truth: in a business full of shortcuts, being the agent who shows up consistently and tells the truth is actually rare. That's your edge.",
+      "production_note": "Split screen: left side shows phone with Instagram analytics. Right side shows simple text: 'SHOW UP. TELL THE TRUTH.' Slow zoom on right side. Keep Jay's strongest line intact."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Right now, open your phone. Find the client conversation you've been avoiding—the one where you have to deliver bad news or admit you dropped the ball. Text them: 'Can we talk tomorrow at 9am? I owe you an update.' Send it before this video ends. That's the pattern Jay's talking about.",
+      "production_note": "Return to Jay looking directly at camera. Text overlay appears step-by-step: '1. OPEN YOUR PHONE' → '2. FIND THE CONVERSATION' → '3. TEXT THEM NOW' → 'SEND IT.' Fade to podcast logo."
+    }
+  },
+  "caption": "He's never missed a closing in 40 years. This is the one thing he refuses to do.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#RealEstateMindset",
+    "#AgentLife",
+    "#LuxuryRealEstate"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "06:05",
+    "source_episode": "2025-12-15_item9_Jay-Cannone",
+    "guest_name": "Jay Cannone",
+    "generated_at": "2026-02-19T10:25:02.182215",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:04:25.103360",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced generic quote with specific story (kitchen table moment) to differentiate from Script 3. Rewrote CTA from reflective 'which one are you struggling with' to concrete action: text the client you're avoiding right now. Sharpened hook to focus on the refusal (what he WON'T do) rather than vague 'success is inevitable.'",
+    "original_score": 6,
+    "judge_note": "This is nearly identical to Script 3—either kill one or differentiate by showing a specific example of Jay doing one of these four things."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Your superpower inevitably will become your kryptonite.",
+    "clip_type": "memorable_oneliner",
+    "energy": "calm_authoritative",
+    "guest_voice": "Paul speaks in direct, metaphor-rich language with a coach's cadence — declarative statements that build momentum, using repetition ('more and more and more') and vivid imagery ('house of cards').",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It names the exact trap high performers fall into — the thing that made them successful is now destroying them, and they don't see it coming."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The thing that got you to the top is about to take you out.",
+      "production_note": "Open on Paul mid-sentence, intense eye contact. Cut to B-roll of exhausted agent at desk late at night."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "You've built your career on outworking everyone. More calls. More showings. More deals. And it worked. Until it didn't. Paul Salter coaches top performers who've hit this exact wall.",
+      "production_note": "Quick cuts: phone notifications, calendar packed solid, awards on shelf. Text overlay: 'More ≠ Better'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he told me: 'Your superpower inevitably will become your kryptonite.' That relentless work ethic? It's now a house of cards. You're making reactive, emotionally charged decisions. Saying yes when you should decline. You've lost touch with the joy that made you want to build this business in the first place. The real cost isn't just fatigue — it's disconnection. From yourself. From your intuition. From what actually matters.",
+      "production_note": "Paul speaking directly to camera for the quote. Then cut to visual metaphor: house of cards collapsing in slow motion. Overlay text on key phrases: 'reactive decisions' 'disconnection' 'house of cards'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "The agents who sustain success for decades? They're not balanced. They're aligned. They stopped pouring everything into one area while the foundation crumbles. They built an empire that doesn't require sacrificing everything else.",
+      "production_note": "Shift to warmer footage: agent with family, working out, clear-headed morning routine. Text overlay: 'Aligned > Balanced'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So ask yourself: What's the one area of your life you've been neglecting that's actually the foundation of everything else? Name it. Out loud. Right now.",
+      "production_note": "Return to Paul, direct address. Pause after 'Name it.' Let the silence land. Fade to black on 'Right now.'"
+    }
+  },
+  "caption": "Your superpower is killing you. Here's what top performers do differently.",
+  "hashtags": [
+    "#RealEstateMindset",
+    "#BurnoutRecovery",
+    "#SustainableSuccess",
+    "#TopProducer",
+    "#AgentLife"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity — burned out high performers will tag colleagues who need to hear this, or save it as a reminder for themselves",
+  "_metadata": {
+    "source_clip_timestamp": "14:30",
+    "source_episode": "2025-10-30_item21_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:39:28.996040",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

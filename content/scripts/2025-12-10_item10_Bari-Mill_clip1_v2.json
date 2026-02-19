@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Find a niche and leverage your network.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Bari speaks conversationally with practical clarity — no fluff, just 'here's what worked.' She's reflective about her path but direct about tactics.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "Because most new agents are told to 'build their sphere' but have no idea what that actually means — Bari gives them a concrete starting point they can act on today."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents chase everyone. The ones closing $40 million? They do the opposite.",
+      "production_note": "Fast cut: split screen showing scattered leads vs. focused niche visuals. Text overlay: '$40M+'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Bari Mill went from teacher to top Chicago producer in six years. Not by working harder. By working narrower. Here's the exact move she made that most agents never think to do.",
+      "production_note": "B-roll: Bari in action, Chicago skyline. Quick cut to her talking head."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She picked finance professionals in Chicago. Not everyone. Finance people. Then she did something specific: she joined the Chicago Finance Professionals networking group. Showed up every month. Didn't pitch. Just listened. After three months, one guy asked if she knew real estate. She helped him buy a condo. He introduced her to four colleagues. Within a year, she became THE agent for that world. When finance people need real estate? They think of Bari. Not because she's everywhere. Because she's the ONLY one they see in their world.",
+      "production_note": "Text on screen: 'Finance professionals — Chicago.' Visuals: networking event footage, handshakes, then network diagram forming with connections lighting up. Show actual LinkedIn profile expanding with connections."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You don't need a thousand leads. You need twenty people who trust you in ONE world. One group. One monthly meetup. One conversation that turns into four referrals. That's the difference between chasing and being chosen.",
+      "production_note": "Close-up of Bari. Text overlay: '1 group > 1,000 cold calls.' Slow zoom emphasizing the point."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight, Google '[your city] + [your industry] networking group.' Find one meetup happening this month. RSVP before you go to bed. Show up. Don't pitch. Listen. That's how this starts.",
+      "production_note": "Direct to camera. Text overlay appears step-by-step: '1. Google: [city] + [industry] networking' '2. RSVP tonight' '3. Show up. Listen.' End card with episode link."
+    }
+  },
+  "caption": "Stop chasing everyone. Start showing up in one world. Bari Mill showed us exactly how.",
+  "hashtags": [
+    "#realestatetips",
+    "#newagent",
+    "#nichedown",
+    "#realestateagent",
+    "#leadgeneration"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "28:00",
+    "source_episode": "2025-12-10_item10_Bari-Mill",
+    "guest_name": "Bari Mill",
+    "generated_at": "2026-02-19T10:28:01.395242",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:03:49.353291",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Added specific tactic (Chicago Finance Professionals group, 3-month timeline, first deal story). Replaced vague 'ask yourself' CTA with concrete action: Google a networking group tonight, RSVP, show up. Kept strongest line about being THE agent. Made voice more conversational and story-driven.",
+    "original_score": 6,
+    "judge_note": "Too generic—show us HOW she actually penetrated the finance world (specific event, conversation, or tactic), not just that she did."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "If you choose to take on that client, then you need to represent them just like if they were a multimillion dollar deal.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Kristee speaks in complete, measured sentences with practical clarity — no fluff, no hype, just matter-of-fact wisdom from someone who's done the work.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It challenges the hidden belief that treating small clients differently is smart business strategy, when it's actually what's keeping you stuck."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agent doing $50 million a year still works rentals.",
+      "production_note": "Text on screen: '$50M PRODUCER' — then cut to Kristee speaking directly to camera"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Most agents think the path to luxury is saying no to small deals. Kristee Leonard — who sells over $50 million a year in Austin — does the opposite.",
+      "production_note": "B-roll: luxury home exteriors, then cut to Kristee in interview setting"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She still takes rental clients. Still works with first-time buyers. And here's why: 'If you choose to take on that client, then you need to represent them just like if they were a multimillion dollar deal.' One of those rentals? Came from California. Turned into multiple referrals. She's not treating small clients well because it's nice — she's doing it because it's how you build a referral engine that compounds. The year she sold $50 million? She was still working rentals.",
+      "production_note": "Cut between Kristee speaking and text overlays of key phrases: 'SAME LEVEL OF SERVICE' / 'ONE RENTAL = MULTIPLE REFERRALS' / '$50M YEAR + STILL WORKING RENTALS'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You're not stuck because you're taking small deals. You're stuck because you're half-assing them while waiting for the big one. Treat every client like they're the referral source to your next ten — because they are.",
+      "production_note": "Direct to camera, tight shot on Kristee's face for authority"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Think about your last small client. Did you give them the same energy as your biggest deal? If not — that's the gap. Full episode in bio.",
+      "production_note": "End card: 'FULL EPISODE: LINK IN BIO' with podcast artwork"
+    }
+  },
+  "caption": "The $50M agent still works rentals. Here's why that's the strategy, not the sacrifice.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#LuxuryRealEstate",
+    "#RealEstateTips",
+    "#AgentMindset",
+    "#RealEstateSuccess"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity — validates agents who work 'all levels' while challenging those who ghost small clients",
+  "_metadata": {
+    "source_clip_timestamp": "28:00",
+    "source_episode": "2026-01-22_item1_Kristee-Leonard",
+    "guest_name": "Kristee Leonard",
+    "generated_at": "2026-02-19T10:15:20.140556",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

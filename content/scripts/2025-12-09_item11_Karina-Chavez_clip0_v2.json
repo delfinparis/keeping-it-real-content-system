@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Best advice has been always answer your phone... you never know what you're going to get.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Karina speaks with practical confidence — no fluff, just straightforward wisdom delivered like advice from a mentor who's been there.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It challenges the modern agent's impulse to screen calls and control their time, suggesting the opposite might be the secret to breakthrough growth."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Karina Chavez answered a 7pm call last Tuesday. It turned into a $480,000 listing by Thursday.",
+      "production_note": "Phone screen showing 7:04pm incoming call. Quick cut to Karina signing listing agreement two days later."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "She's a top 1% producer in Albuquerque who built her business entirely on referrals. Her number one rule? So simple most agents ignore it.",
+      "production_note": "B-roll of Karina at closing table, hugging clients. Her phone buzzing on the table throughout."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "\"Always answer your phone. You never know what you're going to get.\" That Tuesday call? A past client's coworker whose agent went dark during inspection. She needed someone who'd actually pick up. Most agents saw a random evening number and let it ring. Karina answered on the second ring. Here's what nobody tells you — people don't want to leave voicemails about six-figure decisions. They want a human. Right now. And they'll move to the next agent in their contacts faster than you think.",
+      "production_note": "Show Karina's phone ringing at 7:04pm. Text overlay: 'Past client referral - needs agent NOW'. Cut to Karina answering enthusiastically. Show competitor's phone going to voicemail with 'call declined' animation."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You're at 30 deals this year and can't figure out why you're plateaued. Meanwhile, you sent four calls to voicemail last week because you were 'busy.' One of those could've been your easiest $15,000 of the year.",
+      "production_note": "Split screen: Agent ignoring call while scrolling social media vs. calculator showing $15,000 commission. Agent's expression shifts from defensive to 'oh shit' realization."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Right now — not tomorrow — go into your phone settings. Turn off 'Silence Unknown Callers.' Then answer every single call for the next seven days. Keep a note in your phone: who called, what they wanted. Report back next Friday on what you found.",
+      "production_note": "Screen recording showing iPhone Settings > Phone > Silence Unknown Callers being toggled OFF. Text overlay: 'ANSWER EVERY CALL - 7 DAYS' with checkbox. End on Karina answering phone with genuine smile."
+    }
+  },
+  "caption": "She answered at 7pm on a Tuesday. Listed it Thursday. Your phone isn't ringing less—you're just not answering. (via Karina Chavez)",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#RealtorTips",
+    "#TopProducer",
+    "#RealEstateBusiness",
+    "#AgentAdvice"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "06:05",
+    "source_episode": "2025-12-09_item11_Karina-Chavez",
+    "guest_name": "Karina Chavez",
+    "generated_at": "2026-02-19T10:29:01.691201",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:03:33.562326",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Transformed vague hook into specific story with dollar amount and timeline. Developed the 7pm call into a complete narrative with stakes and outcome. Replaced reflective reframe with direct confrontation about their plateau. Completely rewrote CTA from passive 'track what happens' to three concrete steps: disable silence feature, answer for 7 days, document results. Made it impossible to misunderstand what to do next.",
+    "original_score": 6,
+    "judge_note": "Add one specific story of a deal Karina won by answering — the 7pm call example is mentioned but not developed into an actual narrative."
+  }
+}

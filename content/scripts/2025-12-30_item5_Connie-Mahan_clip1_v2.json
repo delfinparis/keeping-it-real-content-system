@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "We are so lucky to get to do what we do, which is help people honestly and ethically make the largest decision of their life.",
+    "clip_type": "emotional_resonance",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Connie speaks in conversational, grounded language — no corporate jargon. She's matter-of-fact about success but deeply emotional about service. Uses 'right' as a verbal tic to emphasize points.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It reframes burnout not as a personal failure but as forgetting the privilege buried under the grind — a permission slip to reconnect with purpose."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The best agents I know are quitting. Not because they're failing — because they forgot why they started.",
+      "production_note": "B-roll: Empty desk, keys being placed down, MLS portal closing on screen"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Connie Mahan — REALTOR of the Year, broker owner in Central Florida — just said something that stopped me cold. Because she's not talking about deals or door knocking. She's talking about what we've lost.",
+      "production_note": "Cut to Connie on screen with awards visible in background"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she said: 'We are so lucky to get to do what we do — help people honestly and ethically make the largest decision of their life.' Not 'close deals.' Not 'hit quota.' Help people. With the biggest choice they'll ever make. And she's right. Somewhere between the CRMs and the commission splits and the interest rate panic, we stopped seeing it. You're not a salesperson. You're the person someone trusts with their entire financial future. Their kids' schools. Their parents' retirement. That's not a job. That's a privilege.",
+      "production_note": "Split screen: Connie's quote overlaid on footage of real families — moving boxes, keys handed over, hugs at closing tables. Linger on the hug moment."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "If you're burned out right now, maybe it's not because you're doing too much. Maybe it's because you forgot what you're actually doing. You're not chasing listings. You're protecting people from the biggest mistake of their lives. And your next client conversation? That's where you prove it.",
+      "production_note": "Close-up: Agent looking at family photos on phone, then looking up with clarity. Cut to agent picking up phone with intention."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Your next buyer or seller call — before you talk comps or rates — say this out loud: 'My job is to protect you from making a mistake you can't undo.' Then listen to how the conversation changes. Do it on your very next call. That's the shift.",
+      "production_note": "Text on screen: 'My job is to protect you from making a mistake you can't undo.' Hold for 3 seconds. Fade to Connie's quote as end card."
+    }
+  },
+  "caption": "The agents quitting aren't failing. They forgot this one thing.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#RealtorLife",
+    "#AgentBurnout",
+    "#RealEstateMindset",
+    "#RealtorOfTheYear"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "21:15",
+    "source_episode": "2025-12-30_item5_Connie-Mahan",
+    "guest_name": "Connie Mahan",
+    "generated_at": "2026-02-19T10:20:10.113969",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:05:58.474602",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague 'write it down' CTA with specific script to use on next client call. Added bridge in REFRAME connecting burnout to next conversation. Tightened SETUP for conversational flow. Kept strongest line and emotional core intact.",
+    "original_score": 6,
+    "judge_note": "The CTA is too vague and introspective — give them a specific action they can take with their next client interaction, not homework about their last one."
+  }
+}

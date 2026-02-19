@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Honestly, I think the best advice I've gotten is from the mistakes I've learned because otherwise it wouldn't have been good advice to myself.",
+    "clip_type": "mindset_shift",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Jeff speaks in conversational, unpolished honesty — he doesn't wrap insights in corporate language. He's direct but reflective, someone who's clearly processed his failures into wisdom.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It flips the entire self-help industrial complex on its head — the advice you need most can't come from someone else's mouth."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Jeff Biebuyck lost a $2.1 million deal because he ignored advice he'd heard a hundred times.",
+      "production_note": "Hard cut to Jeff, direct to camera. No music. Stark. Text overlay: '$2.1M LOST'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "He's sold hundreds of millions in luxury real estate. He's been to the masterminds, hired the coaches, listened to the podcasts. But here's what he told me about advice that actually changes you.",
+      "production_note": "B-roll: luxury properties, high-end neighborhoods. Quick cuts. Jeff walking through a property."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "'The best advice I've gotten is from the mistakes I've learned, because otherwise it wouldn't have been good advice to myself.' Here's what he means: A mentor told him for years to follow up within 24 hours. He nodded. He agreed. Then he waited three days to call back a lead. Someone else swooped in. $2.1 million gone. That's when the advice became real. Not when he heard it. When it cost him. You've been told to nurture your database, right? But until you lose a referral to another agent because you ghosted someone for six months, it's just words on a screen.",
+      "production_note": "Split screen: Jeff speaking + text overlays: '24 HOURS' / '$2.1M GONE' / '6 MONTHS = LOST REFERRAL'. Cut to Jeff nodding, processing. Show him looking at phone, shaking his head."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you fumbled a deal this year — if you overpriced and watched it sit, if you didn't call back fast enough, if you let a buyer ghost you — that's not failure. That's not failure. That's tuition. You just paid for the only kind of advice that actually rewrites your behavior.",
+      "production_note": "Shift to warmer tone. Close-up on Jeff. Empathetic energy. Slow push-in on his face."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Right now, open your notes app. Write down the one deal you lost this year that still stings. Then write the one thing you'll do differently on your next lead because of it. Tomorrow morning, before you touch social media, read that note. That's how tuition becomes wisdom.",
+      "production_note": "Direct to camera. Text overlay appears: '1. Open notes app NOW' / '2. Write the deal you lost' / '3. Write what you'll change' / '4. Read it tomorrow 9am'. Pause. Let it land. Fade to logo."
+    }
+  },
+  "caption": "The advice that changes you has to cost you something first. Jeff Biebuyck on the $2.1M lesson that stuck.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#LuxuryRealEstate",
+    "#RealTalk",
+    "#AgentMindset"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "04:28",
+    "source_episode": "2025-11-19_item17_Jeff-Biebuyck",
+    "guest_name": "Jeff Biebuyck",
+    "generated_at": "2026-02-19T10:36:39.351982",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:02:06.594735",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague hook with specific dollar loss. Added concrete $2.1M mistake story in INSIGHT with exact timeline (24 hours/3 days). Kept 'That's tuition' line (strongest). Completely rewrote CTA to four-step action plan starting with 'Right now, open your notes app' — no reflection prompts, only concrete verbs with tomorrow deadline.",
+    "original_score": 6,
+    "judge_note": "The hook overpromises and the insight stays too philosophical—give one specific mistake Jeff made with dollar amounts and exact consequences."
+  }
+}

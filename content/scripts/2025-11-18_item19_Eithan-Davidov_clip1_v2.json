@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "I use AI to clean up my thoughts instead of generate them.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Direct, no-fluff operator. Speaks in practical terms, not theoretical. Values efficiency over elegance.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It flips the entire AI narrative from 'robot replacement' to 'clarity amplifier' — something every overwhelmed agent desperately needs."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're using AI completely backwards.",
+      "production_note": "Text on screen: 'You're using AI completely backwards.' Quick cut to Eithan mid-conversation, serious expression."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Most agents are trying to get ChatGPT to write their emails, their posts, their scripts. And it sounds like a robot wrote it. Eithan Davidov closes over 100 deals a year in Queens. He uses AI differently.",
+      "production_note": "B-roll: generic AI-generated text examples, robotic voice overlay. Cut to Eithan's face with text overlay: '100+ transactions/year'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "His rule: 'I use AI to clean up my thoughts instead of generate them.' Here's what that actually looks like. Voice memo after a listing appointment — messy, incomplete thoughts about the seller's concerns. Dump it into AI. Ask it to organize, not create. What comes back is YOUR voice. YOUR insights. Just structured. Same thing with follow-up sequences. You write the raw version. The stuff you'd actually say. AI tightens it, finds the gaps, makes it coherent. You stay human. You just get clearer, faster.",
+      "production_note": "Screen recording: voice memo transcription being pasted into ChatGPT with prompt visible: 'Organize these thoughts, keep my voice.' Show before/after side by side. Highlight the preserved personality in the 'after.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Because here's what nobody tells you — the bottleneck isn't ideas. You have plenty of those. The bottleneck is turning the chaos in your head into something you can actually send. AI as a thought-cleaner? That's the unlock.",
+      "production_note": "Close-up of Eithan speaking directly to camera. Cut to visual metaphor: cluttered desk transforming to organized workspace."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Try this today. Record a 2-minute voice memo about your last client interaction. Transcribe it. Ask AI to organize your thoughts, not rewrite them. See what happens.",
+      "production_note": "Text on screen with each step appearing as spoken. End on Eithan's face with text: 'Clean up your thoughts. Not replace them.'"
+    }
+  },
+  "caption": "Stop asking AI to write FOR you. Ask it to organize what's already in your head. Game changer.",
+  "hashtags": [
+    "#AIforRealtors",
+    "#RealEstateProductivity",
+    "#RealtorTips",
+    "#ChatGPT",
+    "#RealEstateAgent"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "34:00",
+    "source_episode": "2025-11-18_item19_Eithan-Davidov",
+    "guest_name": "Eithan Davidov",
+    "generated_at": "2026-02-19T10:37:42.514432",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

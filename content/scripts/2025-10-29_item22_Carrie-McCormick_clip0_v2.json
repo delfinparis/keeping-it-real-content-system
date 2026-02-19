@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Re-engage with your database, especially during the holidays, when agents typically take their foot off the gas.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Carrie speaks like a veteran coach — direct, experienced, with the confidence of someone who's closed $300M in deals. No fluff, just pattern recognition from decades in the game.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It weaponizes the exact moment when most agents go dark — turning everyone else's laziness into your unfair advantage."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your competition is about to disappear for six weeks.",
+      "production_note": "Text on screen: 'December = Ghost Town' over B-roll of empty office or calendar flipping to December"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Every November, the same thing happens. Agents take their foot off the gas. They coast into the holidays. And that's exactly when Carrie McCormick — $300 million producer out of Chicago — goes hunting.",
+      "production_note": "Cut to Carrie's headshot with credential text overlay, then B-roll of holiday decorations/quiet neighborhoods"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she does: 'Re-engage with your database, especially during the holidays, when agents typically take their foot off the gas.' She's not sending generic holiday cards. She's calling the people who bought during the pandemic — their values are up, rates dropped to 6%, and they're finally not terrified of giving up that 3% mortgage. She's texting cash buyers about year-end deals. She's scheduling January listing appointments while everyone else is watching football.",
+      "production_note": "Screen recording of CRM/database, then show examples: phone with text messages, calendar with appointments booked in January, split screen of 'Most Agents' (couch/TV) vs 'Top Producers' (working)"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "What you do in Q4 sets up your entire next year. While they're gliding, you're loading the pipeline. January 1st, you wake up with ten warm conversations already going. They wake up cold.",
+      "production_note": "Visual contrast: split screen showing 'Your January' (full pipeline graphic) vs 'Their January' (empty pipeline/starting from zero)"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Open your CRM right now. Filter for anyone who closed between 2020 and 2022. That's your December hit list. The question is: will you work it, or will someone else?",
+      "production_note": "Screen recording showing CRM filter being applied, ending with results populating. Final frame: 'Your move.' text overlay"
+    }
+  },
+  "caption": "Q4 is when top producers separate from the pack. Here's the database play most agents miss.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#Q4Strategy",
+    "#DatabaseMarketing",
+    "#TopProducerSecrets",
+    "#RealEstateSales"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "07:45",
+    "source_episode": "2025-10-29_item22_Carrie-McCormick",
+    "guest_name": "Carrie McCormick",
+    "generated_at": "2026-02-19T10:40:33.416520",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

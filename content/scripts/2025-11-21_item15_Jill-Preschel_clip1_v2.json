@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "After a conversation, send a summary email to ensure everyone is on the same page.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Direct and tactical. Jill speaks from experience, not theory — she references specific rooms, specific people, specific habits formed under pressure. No fluff.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reveals the invisible habit that separates agents who close from agents who chase — and it's stupidly simple."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agents closing $2B+ in luxury deals do this after every single conversation. You probably don't.",
+      "production_note": "Text overlay: '$2B+ in transactions' — b-roll of luxury NYC properties, high-rise views"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jill Preschel spent years in rooms with private equity partners and institutional investors. She learned fast: if you don't document the conversation, it never happened.",
+      "production_note": "Cut to Jill speaking. Lower third: 'Jill Preschel — Luxury & New Developments, NYC'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Her habit? After every conversation — client call, showing, negotiation — she sends one email. Not long. Just: 'Great talking. Here's what we discussed. Here's what we agreed on. Here's the next step.' That's it. She learned this sitting across from capital partners who'd agree to things in meetings, then conveniently forget. The email isn't rude. It's a receipt. And here's what it actually does: it eliminates the 'I thought you said' arguments. It keeps YOU in control of the narrative. And it makes you look like the one pro in a sea of amateurs.",
+      "production_note": "Show email example on screen. Highlight key phrases: 'what we discussed,' 'what we agreed on,' 'next step.' Cut back to Jill delivering the insight."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Most agents think the hard part is the conversation. Wrong. The hard part is making sure the conversation sticks. This one email is the difference between being remembered and being forgotten.",
+      "production_note": "Split screen: 'Agents who don't send the email' vs 'Agents who do' — visual contrast in outcomes"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Next conversation you have today — send the summary email. Three bullets. Thirty seconds to write. See what happens.",
+      "production_note": "Text overlay: 'Send the summary email.' End on Jill nodding, confident close."
+    }
+  },
+  "caption": "The one email luxury agents send after every conversation. You probably don't. (And it shows.)",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#LuxuryRealEstate",
+    "#TopProducer",
+    "#RealEstateTips",
+    "#AgentTips"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "00:17:00",
+    "source_episode": "2025-11-21_item15_Jill-Preschel",
+    "guest_name": "Jill Preschel",
+    "generated_at": "2026-02-19T10:34:12.794049",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

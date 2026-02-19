@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The art of sales is not in my ability to sell. It's in the clients' ability or desire to trust me.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Courtney speaks in clear, declarative statements with conviction. She's matter-of-fact without being cold — confident, not salesy.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It flips the entire sales paradigm upside down — most agents are trying to get better at pitching when they should be getting better at something else entirely."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're getting better at the wrong thing.",
+      "production_note": "Text on screen: 'You're getting better at the WRONG thing.' Bold, stark background. Cut to Courtney mid-sentence."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Every sales training tells you to perfect your pitch. Get better at objection handling. Learn closing techniques. But Courtney Poulos — recognized leader by LA Business Journal — says that's backwards.",
+      "production_note": "B-roll of generic sales training materials, scripts, objection handling flowcharts. Quick cuts to create tension."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she told me: 'The art of sales is not in my ability to sell. It's in the clients' ability or desire to trust me.' Think about that. You're not closing deals because your pitch is weak. You're losing deals because trust isn't there. And trust isn't built in a presentation — it's built in how you show up before the pitch ever happens. The mechanic you never question. The doctor whose advice you follow without hesitation. The hairstylist you've been seeing for ten years. They're not better salespeople. They're more trusted people.",
+      "production_note": "Cut to Courtney's actual quote on screen. Then B-roll of trusted professionals — mechanic, doctor, hairstylist — people nodding, trusting, not questioning. Show the relationship, not the transaction."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So what if you stopped trying to get better at convincing people... and started getting better at being the kind of person people don't need to be convinced by? What changes in how you market? How you communicate? How you spend your time?",
+      "production_note": "Split screen: left side shows 'old way' (scripts, pitches, closing tactics), right side shows 'new way' (coffee meetings, follow-ups, consistency, showing up). Visual contrast."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Pull out your last three lost deals. Be honest: was it your pitch that failed... or was trust never built in the first place? That's the work.",
+      "production_note": "Text on screen: 'Was it your pitch... or was it trust?' Fade to Courtney looking directly at camera. End card with podcast info."
+    }
+  },
+  "caption": "Stop perfecting your pitch. Start building trust. (This changes everything.)",
+  "hashtags": [
+    "#RealEstateSales",
+    "#TrustOverTactics",
+    "#RealEstateAgent",
+    "#SalesMindset",
+    "#TopProducer"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "46:08",
+    "source_episode": "2025-11-20_item16_Courtney-Poulos",
+    "guest_name": "Courtney Poulos",
+    "generated_at": "2026-02-19T10:35:37.172300",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

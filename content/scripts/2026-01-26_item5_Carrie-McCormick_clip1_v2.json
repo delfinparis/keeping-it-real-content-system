@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The average age of home buyers is now 56-59, and 30% of these purchases are all cash.",
+    "clip_type": "surprising_statistic",
+    "energy": "calm_authoritative",
+    "guest_voice": "Carrie speaks like a seasoned advisor — measured, data-informed, and conversational. She builds arguments methodically, using market insights to shift perspective rather than hype.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It obliterates the conventional wisdom that agents should be chasing millennials and first-time buyers, revealing a massive demographic blind spot that's costing deals."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're marketing to the wrong generation. And it's costing you six figures.",
+      "production_note": "Hard cut to Carrie. Text overlay: 'WRONG GENERATION' in bold. High contrast background."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Carrie McCormick is a top 1% producer in Chicago luxury. And she just shared a stat that should change your entire 2026 strategy. Because while you're optimizing for Instagram-scrolling millennials...",
+      "production_note": "B-roll: Instagram feed scrolling, millennial couple looking at phones. Cut back to Carrie mid-sentence."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "The average home buyer is now 56 to 59 years old. And 30% of them are paying all cash. Not financing. Cash. These aren't first-timers stretching for a down payment. They're downsizers, empty nesters, and investors who've been building equity for decades. They don't care about your TikTok. They want a advisor who understands their timeline, their tax situation, and their legacy plan. And most agents are completely invisible to them.",
+      "production_note": "Text overlay of stats: '56-59 years old' and '30% ALL CASH' appear as she says them. Cut to footage of older couple touring upscale home, shaking hands with agent."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So here's the shift: Stop chasing volume. Start building relationships with the generation that actually has the money. Your marketing, your messaging, your entire client experience — it needs to speak to people who value judgment over speed.",
+      "production_note": "Carrie speaking directly to camera. Slight zoom in for emphasis. Text: 'JUDGMENT > SPEED'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Ask yourself: When's the last time you had a real conversation with a 58-year-old about what they're planning next? That's your 2026 play.",
+      "production_note": "Freeze on Carrie's face. Text overlay: 'Who are YOU actually marketing to?' Fade to show logo/handle."
+    }
+  },
+  "caption": "The average buyer is 56-59. And 30% pay cash. Your marketing strategy just became obsolete.",
+  "hashtags": [
+    "#RealEstateMarketing",
+    "#LuxuryRealEstate",
+    "#RealEstateStrategy",
+    "#RealtorTips",
+    "#2026Market"
+  ],
+  "content_pillar": "market_intelligence",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "08:00",
+    "source_episode": "2026-01-26_item5_Carrie-McCormick",
+    "guest_name": "Carrie McCormick",
+    "generated_at": "2026-02-19T10:12:32.875538",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

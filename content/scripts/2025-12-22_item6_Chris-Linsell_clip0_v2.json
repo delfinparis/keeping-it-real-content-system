@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Imagine if the NAR would say, 'Guys, it's time for a national MLS.'",
+    "clip_type": "contrarian_take",
+    "energy": "calm_authoritative",
+    "guest_voice": "Chris speaks like a systems thinker who's done the math—direct, specific, and unafraid to propose solutions that make people uncomfortable. He uses conversational asides ('for what it's worth,' 'I'm going to get in trouble') but backs everything with data.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It names the frustration every agent feels but never says out loud—that our industry's data infrastructure is deliberately fragmented, and someone with insider credibility is finally saying the quiet part loud."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your MLS is designed to keep you inefficient.",
+      "production_note": "Hard cut to Chris mid-sentence. Text overlay: 'YOUR MLS IS DESIGNED TO KEEP YOU INEFFICIENT' in bold, slightly aggressive font."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "There are over 500 MLS systems in America. You can't pull comps across state lines. You can't analyze trends nationally. Chris Linsell—a real estate tech analyst—just said what nobody else will.",
+      "production_note": "B-roll: Map of US with fragmented MLS regions lighting up. Cut to Chris's credentials as lower third."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He rebuilt NAR from scratch—on paper—and here's the one thing that would change everything: a national MLS. One unified system, still locally run, but every agent has access to every data point, everywhere. Here's what that means for you tomorrow: A buyer calls asking about Austin. Right now, you scramble for referrals. With a national system? You pull last 90 days of closes, filter by their price point, and text them three neighborhoods with rising inventory—before lunch. Quote: 'Imagine if the NAR would say, guys, it's time for a national MLS.'",
+      "production_note": "Split screen: Chris speaking + screen recording of agent pulling actual cross-market data in real time. Highlight the quote with dynamic text and slight slow-mo on 'national MLS.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Right now, you're competing with one hand tied behind your back. A national MLS means you'd know migration patterns before Zillow does. You'd spot buyer trends in real time. You'd actually be the expert again.",
+      "production_note": "Close-up on Chris. Cut to agent at desk looking at fragmented data vs. unified dashboard mockup showing migration heatmap."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Here's what you do today: Open your last three 'I'm relocating' conversations. Pick one. Spend 15 minutes researching their target city like you would your own market—not with a referral, with data. Send them what you find. That's what a national MLS would let you do in 90 seconds. Start practicing now.",
+      "production_note": "Return to Chris. End card: '15 MINUTES. ONE CITY. TODAY.' with specific action steps as bullet points. Podcast logo bottom right."
+    }
+  },
+  "caption": "A national MLS would change everything. So why don't we have one?",
+  "hashtags": [
+    "#realestatetechnology",
+    "#MLSreform",
+    "#realtorlife",
+    "#realestatedata",
+    "#NAR"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "debate",
+  "_metadata": {
+    "source_clip_timestamp": "22:58",
+    "source_episode": "2025-12-22_item6_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:21:13.089674",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:05:45.575737",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Condensed insight section by 40% and added concrete example (Austin buyer scenario). Completely rewrote CTA from reflective question to specific 15-minute action with exact steps. Kept strongest line in reframe, eliminated weak rhetorical question.",
+    "original_score": 6,
+    "judge_note": "The insight section is too long and abstract—cut it in half and add one specific example of what an agent could DO differently with national MLS access tomorrow."
+  }
+}

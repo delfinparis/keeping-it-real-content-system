@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "It's an honor to be chosen by clients, and I treat them like they're an honor.",
+    "clip_type": "emotional_resonance",
+    "energy": "calm_authoritative",
+    "guest_voice": "Kristee speaks with old-school conviction — matter-of-fact, no fluff, zero apology for her work ethic. She doesn't sell herself; she states what she does.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reframes client relationships from transactional to sacred — and reveals why top producers never complain about 'difficult' clients."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agents doing $50 million a year don't have difficult clients.",
+      "production_note": "Bold text overlay on black background. Cut to Kristee mid-sentence, serious expression."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Kristee Leonard moves over $50 million in luxury real estate in Austin every single year. And when I asked her about client management, she said something that stopped me cold.",
+      "production_note": "B-roll of luxury Austin properties. Quick cuts. Upbeat but focused energy."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She said: 'It's an honor to be chosen by clients, and I treat them like they're an honor.' Not 'I tolerate them.' Not 'I manage expectations.' She sees being chosen as a privilege. So when a client texts at 9 PM? That's not an interruption — that's someone who trusted her with the biggest financial decision of their life. When someone asks to see a property three times? That's not annoying — that's someone making sure they get it right. The reframe is everything.",
+      "production_note": "Show Kristee speaking the quote on screen. Then cut to text overlays of the reframes ('9 PM text = privilege' / 'Third showing = diligence'). Use split-screen to contrast attitudes."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Here's what changes: When you treat being chosen as an honor, you stop resenting the work. You stop complaining about clients. And they feel it. That energy is the difference between a transaction and a referral machine.",
+      "production_note": "Slow zoom on Kristee's face. Overlay text: 'They feel it.' Cut to testimonial-style footage or 5-star reviews."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So ask yourself: Do your clients feel like an honor to work with? Or do they feel like they're bothering you? That answer is your business in 12 months.",
+      "production_note": "Direct-to-camera moment. Text overlay of the question. Fade to podcast logo and 'Full episode in bio.'"
+    }
+  },
+  "caption": "The $50M agent who never complains about clients. Here's why. 🎯",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#LuxuryRealEstate",
+    "#TopProducer",
+    "#ClientExperience",
+    "#RealEstateMindset"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "18:30",
+    "source_episode": "2026-01-22_item2_Kristee-Leonard",
+    "guest_name": "Kristee Leonard",
+    "generated_at": "2026-02-19T10:14:38.928730",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

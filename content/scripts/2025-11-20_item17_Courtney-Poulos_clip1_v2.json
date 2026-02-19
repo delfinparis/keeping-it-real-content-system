@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "If you're renting, we know that's 100% loss... owning a home improves culture, society, civilization writ large.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Courtney speaks with measured conviction, building arguments through specifics and contrasts. She's unafraid to call out hypocrisy and thinks systemically.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reframes homeownership from a personal finance calculation into a mission — giving agents a deeper 'why' for the work they do."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "One of my buyers stopped paying rent three months ago. Not because they couldn't afford it — because they finally owned.",
+      "production_note": "Hard cut to Courtney. Text overlay: '3 MONTHS AGO' with a struck-through rent check graphic."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Courtney Poulos runs a renovation brokerage in LA. And she just told me the most specific thing I've heard about why ownership actually changes people — not in theory, in 90 days.",
+      "production_note": "B-roll: LA homes, quick renovation clips, then cut back to Courtney."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what happened: Young couple, renting for six years. Moved every 18 months. Never met their neighbors. Then they bought a two-bedroom in Echo Park. Within three months? They repainted the front door. Introduced themselves to four neighbors. Started complaining about the potholes on their street — because now it was *their* street. Courtney's take: 'If you're renting, that's 100% loss. But owning? It improves culture, society, the whole block.' She's not talking about equity. She's talking about the day someone stops being a tenant and starts being a neighbor. When you help someone buy, you're not just closing a deal — you're anchoring a family.",
+      "production_note": "Split screen: left side shows couple moving boxes repeatedly, right side shows them painting door, meeting neighbors, pointing at pothole. Then cut back to Courtney for the quote. End on neighborhood shot — kids playing, neighbors talking."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So when a buyer says they're 'not ready,' they're not wrong about the market. They're wrong about what changes when you own. It's not the investment. It's that you suddenly care about the park two blocks away. That's the conversation that moves people.",
+      "production_note": "Close-up on Courtney. Slow zoom. Text overlay: 'You suddenly care about the park two blocks away.'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow, before your next buyer meeting: Pull up one past client who bought in the last year. Text them: 'What's one thing you've done to your place or your block that you never would've done as a renter?' Screenshot their answer. Read it before you walk in.",
+      "production_note": "Text overlay: '1. Find a past client' / '2. Text this question' / '3. Read their answer before your meeting.' Fade to Courtney nodding with phone in hand."
+    }
+  },
+  "caption": "My buyer stopped paying rent 3 months ago. Not broke—they finally owned. Courtney Poulos on what changes in 90 days.",
+  "hashtags": [
+    "#realestagemindset",
+    "#whyhomeownershipmatters",
+    "#realtorpurpose",
+    "#beyondthecommission",
+    "#realestateagent"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "36:00",
+    "source_episode": "2025-11-20_item17_Courtney-Poulos",
+    "guest_name": "Courtney Poulos",
+    "generated_at": "2026-02-19T10:34:51.611732",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:09:50.413548",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced abstract 'civilization' hook with specific 3-month client story. Grounded insight in concrete behavioral changes (painted door, met neighbors, complained about potholes). CTA now names exact action: text a past client this specific question, screenshot answer, read before next meeting—gives stuck intermediate a confidence tool they can deploy in 24 hours.",
+    "original_score": 5,
+    "judge_note": "The 'civilization' angle is too grand and preachy for stuck intermediates who need tactical wins — reframe around one specific client story where ownership changed their behavior in 90 days."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "AI can flag changes in tone and make the change in the attitude and flag that these people are getting mad.",
+    "clip_type": "emotional_resonance",
+    "energy": "matter_of_fact",
+    "guest_voice": "Tim speaks in practical, conversational chunks — he's a working producer who explains tech like a tool, not magic. No hype, just utility.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reveals AI can do something most agents don't even realize they're bad at — reading the room before it's too late."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're losing the deal before you even know they're mad.",
+      "production_note": "Close-up of frustrated agent staring at phone/email. Text overlay: 'You're losing the deal...'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Most negotiations fall apart because we miss the shift. The tone change. The moment they go from considering to walking. Tim Burrell — top producer in Raleigh — catches it before it happens.",
+      "production_note": "Cut to email thread scrolling. Highlight phrases getting shorter, colder. Show Tim's headshot with credential lower-third."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He runs his negotiation emails through ChatGPT with a custom prompt. It flags tone shifts. When language gets sharper. When someone's frustration is building. Quote: 'It'll notice a change in the tone and flag that these people are getting mad.' You get the warning before you hit send on the reply that kills the deal. Before you schedule the call that goes sideways. He's got a prompt that reads every buyer and seller email during inspection periods and flags anything above a 6 out of 10 on the frustration scale.",
+      "production_note": "Screen recording of ChatGPT analyzing email sentiment. Show actual prompt input. Show output: 'Frustration level: 7/10 - recommend call instead of email.' Cut to split-screen: tense client email vs. AI analysis. Overlay verbatim quote as text."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Your last deal that died? The one where you thought 'I should've seen that coming'? You probably sent three emails that week that landed wrong. This catches email number one.",
+      "production_note": "Agent looking at phone, pausing before responding. Visual: 'Catch it at email #1' text overlay. Show relief on agent's face."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight: Open ChatGPT. Copy your last tense client email thread. Paste it in. Ask 'What's the frustration level here and what should I do differently?' See what you missed. That's the skill. Full episode and prompt in bio.",
+      "production_note": "Text overlay: 'Tonight: ChatGPT + your last tense email = what you missed.' End card with episode thumbnail and 'Prompt in bio.'"
+    }
+  },
+  "caption": "ChatGPT can tell you when they're getting mad before you blow the deal. Tim Burrell's negotiation hack.",
+  "hashtags": [
+    "#RealEstateNegotiation",
+    "#AIForRealtors",
+    "#RealEstateAgent",
+    "#NegotiationSkills",
+    "#RealEstateTech"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "39:00",
+    "source_episode": "2026-01-05_item4_Tim-Burrell",
+    "guest_name": "Tim Burrell",
+    "generated_at": "2026-02-19T10:18:09.419302",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:06:14.240657",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Named the actual tool (ChatGPT with custom prompt) instead of vague 'AI tools.' Added specific frustration scale metric (6/10). Rewrote CTA to give exact action: open ChatGPT tonight, paste last tense email, ask specific question. Removed weak metaphor about negotiation coach.",
+    "original_score": 6,
+    "judge_note": "Name the actual AI tool Tim uses—'AI tools that analyze emails' is too generic and kills credibility."
+  }
+}

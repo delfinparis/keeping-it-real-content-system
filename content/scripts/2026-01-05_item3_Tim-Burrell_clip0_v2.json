@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Find out something which you've got in common. Establish some sort of rapport, get some kind of relationship going and then work on solving the problem.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Tim speaks like a seasoned attorney-turned-agent: methodical, no-nonsense, breaking complex concepts into clear sequential steps without drama.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reveals the counterintuitive truth that winning negotiations isn't about being the smartest person in the room — it's about being the most human first."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents lose deals before they even start negotiating.",
+      "production_note": "Hard cut to Tim mid-sentence. Text overlay: 'MOST AGENTS LOSE DEALS...'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "They walk in armed with comps and counteroffers. But Tim Burrell — attorney, contractor, and 45-year top producer — says they're starting at step three.",
+      "production_note": "B-roll: negotiation table, stacks of contracts. Text overlay credentials appear one by one."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "His rule? 'Find out something you've got in common. Establish some sort of rapport, get some kind of relationship going and then work on solving the problem.' Not rapport as manipulation. Rapport as foundation. Because here's what 45 years teaches you: people don't negotiate with strangers. They negotiate with people they trust. Even a little. Even for five minutes.",
+      "production_note": "Cut to Tim's exact quote as A-roll. Then overlay text: 'COMMON GROUND → RAPPORT → PROBLEM SOLVING' appearing in sequence."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So that listing appointment where you dove straight into your presentation? That offer where you led with price? You skipped the only step that actually matters. You tried to solve a problem for someone who didn't see you as human yet.",
+      "production_note": "Direct-to-camera style or close-up of Tim. Shift to slightly uncomfortable pause before last line."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Next negotiation: spend the first three minutes finding one thing you share. A hometown. A hobby. A frustration. Then watch what happens when you finally talk numbers.",
+      "production_note": "Text overlay: 'NEXT NEGOTIATION: 3 MINUTES OF COMMON GROUND FIRST' — hold on screen as video fades."
+    }
+  },
+  "caption": "45 years of deals taught him this: rapport isn't the nice-to-have. It's the foundation everything else is built on.",
+  "hashtags": [
+    "#RealEstateNegotiation",
+    "#TopProducerSecrets",
+    "#RealEstateAgent",
+    "#NegotiationSkills",
+    "#RealEstateTips"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "09:45",
+    "source_episode": "2026-01-05_item3_Tim-Burrell",
+    "guest_name": "Tim Burrell",
+    "generated_at": "2026-02-19T10:18:27.665681",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

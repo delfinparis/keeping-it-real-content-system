@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The best advice was literally to get in and do and the rest will figure itself out.",
+    "clip_type": "mindset_shift",
+    "energy": "matter_of_fact",
+    "guest_voice": "Direct, no-nonsense. Connie speaks in simple declaratives — she doesn't dress up advice with jargon. She sounds like someone who's done the work and has zero patience for overthinking.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It contradicts every 'get certified first' instinct new agents have and gives permission to be messy — which is what they're secretly desperate to hear."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You don't need another course. You need to stop preparing.",
+      "production_note": "Hard cut to Connie mid-sentence. No music. Raw audio. Text on screen: 'REALTOR of the Year'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Connie Mahan didn't wait until she felt ready. She went from restaurant management to REALTOR of the Year in Central Florida. And her best advice? It's gonna make you uncomfortable.",
+      "production_note": "B-roll: Connie at closings, community events, with clients. Fast cuts. Energy building."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She said: 'The best advice was literally to get in and do and the rest will figure itself out.' Not 'take another class.' Not 'shadow someone for six months.' Get in. And do. Because here's what happens — you take your first listing. You mess up the photos. You panic about the contract. You call someone. You learn. And suddenly? You've got a closing under your belt. The agents who wait for perfect? They're still waiting. The ones who started messy? They're closing deals.",
+      "production_note": "Split screen: Connie speaking + text overlays of key phrases ('GET IN' / 'AND DO' / 'THE REST WILL FIGURE ITSELF OUT'). Use jump cuts to keep pace fast."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You're not behind because you don't know everything. You're behind because you're still studying instead of doing. The market doesn't reward readiness. It rewards reps.",
+      "production_note": "Slow push-in on Connie. Let the words land. No music. Just truth."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your move: reach out to one expired listing today. Not tomorrow. Today. You'll fumble the script. You'll sound nervous. And you'll learn more in that five-minute call than in five hours of YouTube. Go.",
+      "production_note": "Text on screen: 'ONE EXPIRED. TODAY.' End with Connie nodding. Fade to black."
+    }
+  },
+  "caption": "Stop preparing. Start doing. The rest figures itself out. (REALTOR of the Year shares the advice that changed everything)",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#NewAgentTips",
+    "#RealtorLife",
+    "#RealEstateMindset",
+    "#JustStart"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "identity — new agents will tag other new agents who are stuck in 'learning mode' and need permission to be imperfect",
+  "_metadata": {
+    "source_clip_timestamp": "04:38",
+    "source_episode": "2025-12-30_item9_Connie-Mahan",
+    "guest_name": "Connie Mahan",
+    "generated_at": "2026-02-19T10:19:11.375594",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

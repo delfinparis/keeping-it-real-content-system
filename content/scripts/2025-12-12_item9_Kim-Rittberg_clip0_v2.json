@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Accomplishments can also be past clients that you helped, save money, make more money, more stress-free experience.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Kim speaks like a coach who's been in the trenches — direct, practical, no fluff. She uses conversational fragments and gets to the point fast.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "Most agents think 'accomplishments' means awards and designations — this reframes it as the client wins they're already sitting on but not leveraging."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your about me video is boring because you're bragging about the wrong things.",
+      "production_note": "Text on screen: 'Your About Me Video Is Boring' — stark, bold, attention-grabbing typography"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Most agents list their awards, their years in business, their designations. And prospects scroll right past it. Kim Ritberg — former TV producer who's coached hundreds of agents — says you're missing the entire point.",
+      "production_note": "B-roll of generic 'about me' videos or agent headshots with awards. Quick cuts to establish the problem."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she told me: 'Accomplishments can also be past clients that you helped save money, make more money, more stress-free experience.' Not your rookie of the year award. Not your million-dollar club plaque. The family you helped buy their first home for thirty thousand under asking. The seller you got an extra week to move out so they didn't have to put their stuff in storage. The couple you walked through a bidding war without losing their minds.",
+      "production_note": "Split screen: left side shows traditional 'accomplishments' (plaques, certificates). Right side shows real client stories — keys being handed over, moving boxes, family photos in new homes."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Because here's the thing — nobody hires you because you won an award. They hire you because they think you can solve their problem. And the fastest way to prove that? Show them you already did it for someone exactly like them.",
+      "production_note": "Close-up of Kim speaking directly to camera, or overlay text emphasizing 'someone exactly like them'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So before you film your next about me video — write down three client wins. Specific ones. With numbers. That's your script. Not your resume.",
+      "production_note": "Text on screen: '3 Client Wins = Your Script' — clean, actionable end card"
+    }
+  },
+  "caption": "Stop listing awards. Start sharing client wins. That's the about me video people actually watch.",
+  "hashtags": [
+    "#RealEstateMarketing",
+    "#AboutMeVideo",
+    "#RealEstateAgent",
+    "#ClientWins",
+    "#VideoMarketing"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "00:04:25",
+    "source_episode": "2025-12-12_item9_Kim-Rittberg",
+    "guest_name": "Kim Ritberg",
+    "generated_at": "2026-02-19T10:26:21.277214",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

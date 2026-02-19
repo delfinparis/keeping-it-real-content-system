@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "You don't have to be the smartest person in the room. You just have to outwork the smartest person in the room.",
+    "clip_type": "memorable_oneliner",
+    "energy": "matter_of_fact",
+    "guest_voice": "Direct, no-nonsense. Kristee speaks in declarative statements with zero fluff — she's not selling motivation, she's stating what works.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It gives permission to win without being the most talented — and that's exactly what agents drowning in imposter syndrome need to hear."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agent who just closed three deals in your zip code isn't smarter than you.",
+      "production_note": "Text on screen: 'Not smarter than you.' Cut to Kristee looking directly at camera, slight head shake."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Kristee Leonard moves fifty million a year in Austin luxury. She'll tell you straight — she's not the smartest agent in the room. But she is the one making the calls no one else wants to make.",
+      "production_note": "B-roll: Austin skyline, luxury homes. Text overlay: '$50M+ volume, Austin luxury.' Quick cuts to emphasize pace."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she said: 'You don't have to be the smartest person in the room. You just have to outwork the smartest person in the room.' While other agents are overthinking their scripts, their CRM, their branding — she's making fifty more calls. While they're tweaking their Instagram bio for the third time this week, she's knocking doors at seven PM on a Tuesday. The ones who win aren't the ones with the best systems. They're the ones who show up when showing up is uncomfortable.",
+      "production_note": "Split screen: Kristee quote on one side, montage on the other — phone in hand dialing, knocking on door at dusk, client handshake. Text emphasizes 'outwork' and 'fifty more calls.' Keep pacing tight."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you've been sitting there thinking you need one more course, one more certification, one more mentor — you don't. You need ten more conversations this week than you had last week. That's the only gap that matters.",
+      "production_note": "Close-up on Kristee. Text on screen: 'Ten more conversations.' Slow zoom. Her expression is direct, almost challenging."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow at nine AM, pull up the expired listings from the last thirty days in your market. Call the first ten. Your opening line: 'Hi, this is [your name]. I saw your home didn't sell. I have one question — what would it take to get you to give this another shot?' Make all ten calls before ten AM. That's outworking your market.",
+      "production_note": "Text on screen builds as she speaks: '9am tomorrow' → 'Expired listings, last 30 days' → 'Call 10 before 10am' → Opening line appears in quotes. End card with podcast logo and 'Full script in bio.'"
+    }
+  },
+  "caption": "She does $50M/year. Not because she's the smartest. Because she makes the calls no one else will.",
+  "hashtags": [
+    "#RealEstateMindset",
+    "#TopProducer",
+    "#WorkEthic",
+    "#RealEstateSuccess",
+    "#AgentLife"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "04:38",
+    "source_episode": "2026-01-22_item2_Kristee-Leonard",
+    "guest_name": "Kristee Leonard",
+    "generated_at": "2026-02-19T10:14:18.621124",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:12:50.329450",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Sharpened hook with specific competitor reference. Kept strongest line about 'overthinking scripts/CRM.' Replaced generic 'consistency' line with concrete example (Instagram bio vs door-knocking). Completely rewrote CTA with exact time (9am), exact source (expired last 30 days), exact number (10), exact deadline (before 10am), and word-for-word script to use.",
+    "original_score": 5,
+    "judge_note": "The CTA is too vague — change 'make ten calls' to 'call ten expired listings from last month using this opening line: [specific script].'"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "We provide electricity, water, internet... and a safe environment.",
+    "clip_type": "emotional_resonance",
+    "energy": "calm_authoritative",
+    "guest_voice": "Karina speaks in practical, matter-of-fact terms about profound impact work — no fluff, just direct statements about what she does and why it matters.",
+    "target_avatar": "aspiring_top_producer",
+    "why_this_stops_scrolls": "She's making money by solving a real community problem most agents ignore — proving you don't have to choose between profit and purpose."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "She bought a run-down motel for $1.2 million. Turned it into 32 housing units. Now she's top 1% in Albuquerque.",
+      "production_note": "B-roll of actual motel exterior with address visible, quick cut to renovated unit interior with family, then Karina's confident headshot"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "While other agents fight over the same luxury listings, Karina Chavez built a referral machine doing deals nobody else wanted. Old motels. Affordable housing conversions. Zero competition.",
+      "production_note": "Split screen: MLS luxury listing photos vs. motel conversion project. Text overlay: 'Karina Chavez - Top 1% Producer, Albuquerque'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's the model: She buys old motels. Converts them into 30-40 affordable units per property. Quote: 'We provide electricity, water, internet... and a safe environment.' Three properties in. 94 families housed. Here's what happened: 11 of those tenants bought homes from her within 18 months. Every tenant becomes a future buyer. Every family she helps tells ten more. She's not waiting for leads. She's manufacturing them by solving the housing crisis one motel at a time.",
+      "production_note": "Show conversion timeline: demo footage, construction, finished units. Overlay quote text during her saying it. Cut to actual families moving in. Show Karina walking property with contractor, pointing at plans. Flash '94 families' and '11 buyers' as text overlays"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "She figured out what most agents miss: you don't build a business competing for the same clients. You build it by becoming the only solution to a problem everyone else ignores. In Albuquerque, that's affordable housing. What is it in your market?",
+      "production_note": "Karina to camera or voiceover with authority. B-roll of her shaking hands with tenant-turned-buyer at closing table. Show genuine emotion in the interaction"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow morning: pull up your city's housing crisis data. Google '[your city] housing shortage report.' Find the gap. Then call one commercial broker and ask what distressed multi-family properties just hit the market. That's your first call. Make it before noon.",
+      "production_note": "Text overlay appears in steps as voiceover progresses: '1. Google [your city] housing shortage' / '2. Call commercial broker' / '3. Before noon tomorrow' — end on Karina's confident expression with podcast logo"
+    }
+  },
+  "caption": "She's not chasing listings. She's creating housing—and manufacturing her own buyer pipeline. Top 1%.",
+  "hashtags": [
+    "#RealEstateInvesting",
+    "#AffordableHousing",
+    "#TopProducer",
+    "#RealEstateStrategy",
+    "#CommunityImpact"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "aspiring_top_producer",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "24:00",
+    "source_episode": "2025-12-09_item11_Karina-Chavez",
+    "guest_name": "Karina Chavez",
+    "generated_at": "2026-02-19T10:29:20.638376",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:10:42.942919",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Added specific numbers (32 units, $1.2M, 94 families, 11 buyers in 18 months) throughout to fix vagueness. Completely rewrote CTA from reflective question to concrete action sequence with deadline. Sharpened hook with actual numbers. Kept strongest line about tenant-to-buyer pipeline and expanded it with proof.",
+    "original_score": 5,
+    "judge_note": "The motel conversion story is interesting but too vague — needs numbers (how many units? what's the ROI? how many referrals actually came from it?)."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "A good prompt might be seven or eight sentences... the exact instructions you're giving it for a really good listing description.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "DJ speaks like a problem-solver who's already figured it out — direct, practical, no fluff. He teaches by naming the exact mistake you're making.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It exposes the exact reason their AI output looks generic — they're writing one-sentence prompts when they need paragraphs."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your AI listings sound robotic because you're writing one sentence when you need seven.",
+      "production_note": "Text on screen: '1 sentence ❌ → 7 sentences ✓' — cut to DJ speaking directly to camera"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "DJ Paris recruits top agents in Chicago and builds AI tools for real estate. And he says most agents are sabotaging their own AI results without knowing it.",
+      "production_note": "B-roll: generic AI listing description with cringe phrases highlighted ('charming,' 'don't miss out')"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he means. When you throw a listing into ChatGPT and just say 'rewrite this,' you get garbage. Because a good prompt isn't a command — it's a conversation. DJ says a real prompt is seven or eight sentences minimum. You're telling it your voice, your buyer, the home's story, what to emphasize, what to avoid. The exact instructions for a listing description that actually sounds like you. Most agents skip all that. Then they wonder why every listing reads the same.",
+      "production_note": "Split screen: LEFT shows 'Rewrite this' prompt → generic output. RIGHT shows multi-sentence prompt → compelling, specific output. Highlight key phrases from DJ's quote."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if your AI content feels flat, it's not the tool. It's the input. You're not giving it enough to work with. The agents getting great results? They're writing prompts longer than the listing itself.",
+      "production_note": "DJ speaking — text overlay: 'Better prompts = Better listings'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Next time you use AI, try this: Write seven sentences before you hit enter. Tell it who you are, who you're writing for, and what makes this property different. Then watch what happens.",
+      "production_note": "Text on screen: 'TRY IT: 7-sentence prompt challenge' — end card with podcast logo"
+    }
+  },
+  "caption": "Stop blaming AI for bad listings. Your prompts are too short. Here's what top agents do instead.",
+  "hashtags": [
+    "#AIForRealEstate",
+    "#RealEstateMarketing",
+    "#ChatGPT",
+    "#PromptEngineering",
+    "#RealtorTips"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "05:50",
+    "source_episode": "2025-10-28_item23_D.J.-Paris",
+    "guest_name": "D.J. Paris",
+    "generated_at": "2026-02-19T10:41:55.188111",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

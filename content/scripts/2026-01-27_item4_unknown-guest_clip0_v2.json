@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "YouTube is the second biggest search engine online next to Google.",
+    "clip_type": "surprising_statistic",
+    "energy": "calm_authoritative",
+    "guest_voice": "Sarah speaks like a teacher who's cracked a code — matter-of-fact, specific, and generous with what she knows. No fluff, just 'here's what works.'",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Most agents are burning out on Instagram and TikTok while completely ignoring the platform where buyers are actively searching for them."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're creating content on the wrong platform.",
+      "production_note": "Bold text overlay on black screen. Cut to Sarah mid-sentence, serious expression."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Sarah Meslowski — top 1% agent in Metro Atlanta — gets 85% of her business from one place. Not Instagram. Not Facebook. Not even TikTok.",
+      "production_note": "B-roll: Sarah's YouTube channel dashboard showing subscriber count and video thumbnails. Quick cuts."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "YouTube is the second biggest search engine online next to Google. Think about that. When someone types 'best neighborhoods in Atlanta' — they're not scrolling for entertainment. They're searching with intent. Sarah's videos show up. Her phone rings. She's not chasing algorithms or posting three times a day. She created 200 videos over three years. They work for her 24/7. While other agents are stuck on the content hamster wheel, her old videos are still generating leads.",
+      "production_note": "Screen recording: YouTube search bar with 'moving to [city]' search. Show Sarah's videos ranking. Cut to her testimonial or speaking. Show analytics: views over time graph trending up on older videos."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Here's what changes: you stop performing for an audience and start answering the questions your buyers are already typing. Your content becomes an asset, not a daily obligation.",
+      "production_note": "Split screen: left side shows frantic agent posting Stories, right side shows Sarah's evergreen video getting views months later. Calm vs. chaos."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Open YouTube right now. Search 'moving to [your city].' See who owns that space. Then ask yourself — why isn't it you?",
+      "production_note": "Direct to camera. Sarah looking at viewer. Text overlay: 'Who owns YOUR market on YouTube?' Fade to logo/handle."
+    }
+  },
+  "caption": "85% of her business comes from YouTube. Here's why you're ignoring your biggest opportunity.",
+  "hashtags": [
+    "#realestateleadgen",
+    "#youtubeforrealtors",
+    "#realestatemarketing",
+    "#agentgrowth",
+    "#realestatesuccess"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility — agents will tag their team or save this as a reminder to finally start their YouTube channel",
+  "_metadata": {
+    "source_clip_timestamp": "05:01",
+    "source_episode": "2026-01-27_item4_unknown-guest",
+    "guest_name": "Sarah Meslowski",
+    "generated_at": "2026-02-19T10:11:29.879443",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

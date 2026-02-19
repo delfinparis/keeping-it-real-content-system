@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Hypnosis is not magic. It's not mind control. It's not brainwashing. Hypnosis is a natural state of mind. A safe state of mind. A natural safe state of mind you have already been in today multiple times.",
+    "clip_type": "contrarian_take",
+    "energy": "calm_authoritative",
+    "guest_voice": "Paul speaks in deliberate, rhythmic repetition — building emphasis through layered negations before landing on simple truth. He's a teacher dismantling fear with facts.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It reframes something most dismiss as woo-woo into a science-backed tool they've already experienced — making the impossible suddenly accessible."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You've been hypnotized three times already today. You just didn't know it.",
+      "production_note": "Close-up on Paul, direct to camera. Cut to B-roll: someone zoning out in traffic, scrolling phone, in the shower."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Paul Salter is a performance coach who uses hypnosis with high-achievers. And the reason most people never try it? They think it's a party trick. A pocket watch. Mind control.",
+      "production_note": "Quick cuts: stage hypnosis show, swinging watch animation. Then cut back to Paul, calm and serious."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what it actually is. Quote: 'Hypnosis is not magic. It's not mind control. It's a natural state of mind you've already been in today multiple times.' That zone-out in the shower? Hypnosis. That flow state mid-workout? Hypnosis. It's just a word for the brainwave state between awake and asleep — where your subconscious is open to reconsolidating old beliefs. The ones keeping you stuck.",
+      "production_note": "Text on screen: 'Beta → Alpha → Theta.' Show brainwave animation. Cut to Paul explaining, then overlay text of quote."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Which means the tool you've been dismissing as pseudoscience? It's the same state your brain uses naturally to rewire itself. You're already doing it. You're just not doing it on purpose.",
+      "production_note": "Slow zoom on Paul. Cut to B-roll: someone meditating, journaling, eyes closed. Overlay text: 'You're already doing it.'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So ask yourself: what belief are you carrying that you didn't consciously choose? Full episode in bio. Paul breaks down how to access this state and rewrite the script.",
+      "production_note": "Paul direct to camera. End card: 'Full Episode → Bio' with podcast artwork and Paul's name."
+    }
+  },
+  "caption": "You've been in hypnosis today. You just didn't call it that. Paul Salter explains what it actually is (and why it works).",
+  "hashtags": [
+    "#Hypnosis",
+    "#PerformanceCoaching",
+    "#SubconsciousMind",
+    "#MindsetShift",
+    "#SelfImprovement"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "28:07",
+    "source_episode": "2026-01-29_item2_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:10:48.869668",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

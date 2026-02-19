@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The best advice was literally to get in and do and the rest will figure itself out.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Connie speaks with straightforward, no-BS clarity — she's practical, direct, and cuts through overthinking with simple truths.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It challenges the paralysis-by-analysis trap new agents fall into by offering permission to act before feeling ready."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "New agents spend six months preparing. Top producers spend six days doing.",
+      "production_note": "Split screen: overwhelmed agent at desk with courses/books vs agent knocking on door"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "You're waiting to feel ready. Waiting for the perfect script, the perfect market, the perfect confidence. Meanwhile, someone who started last week just closed their first deal.",
+      "production_note": "B-roll: unopened real estate course materials, dusty business cards, calendar days flipping by"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Connie Mahan — REALTOR of the Year in Central Florida — got the advice that changed everything: 'Get in and do. The rest will figure itself out.' Not 'study more.' Not 'wait until you're comfortable.' Do. She didn't know every answer. She learned by showing up. Door-knocking taught her objection handling better than any course. Open houses taught her buyer psychology. Expired listings taught her confidence. The doing created the knowing.",
+      "production_note": "Quick cuts of agent activities: door-knocking, open house sign, phone calls, showing homes — all with energetic pacing"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Here's what nobody tells you: your first ten conversations will be terrible. And that's the point. You can't learn swimming from a book. You're not unprepared — you're untested. There's a difference.",
+      "production_note": "Close-up of agent's face showing nerves turning to determination"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your assignment: before you watch another training video, do one thing that scares you. Door-knock five homes. Call three expireds. Host an open house. Then tell me what you learned that no course could've taught you.",
+      "production_note": "Direct to camera, confident energy. End on freeze frame of agent taking first step out the door"
+    }
+  },
+  "caption": "Stop studying. Start doing. The best training is the one that terrifies you.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#NewAgent",
+    "#RealtorLife",
+    "#RealEstateTips",
+    "#JustStart"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "04:38",
+    "source_episode": "2025-12-30_item4_Connie-Mahan",
+    "guest_name": "Connie Mahan",
+    "generated_at": "2026-02-19T10:20:30.619215",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "One really great thing to do is to build that about me video... What makes you different than the people around the corner?",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Direct, no-fluff coaching voice. Former TV producer who speaks in clear action steps, not theory. Conversational but efficient.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It names the exact piece of content most agents skip — and reveals why that's costing them listings to agents who aren't even better than them."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're invisible on Google. And that's why you're losing listings to agents with half your experience.",
+      "production_note": "Hard cut to Kim, tight frame. Text overlay: 'Google your name right now.'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Kim Ritberg spent 20 years producing TV before coaching agents. And she says the one video that turns strangers into clients is the one you're not making.",
+      "production_note": "B-roll: Screen recording of Google search results showing competitor videos. Kim's name appears in search bar."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "It's your About Me video. Not a listing tour. Not a market update. The video that answers: 'What makes you different than the people around the corner?' A resume lists credentials. An About Me video shows personality, shows proof, shows why YOU are the call they should make. When a seller Googles three agents, two have bios. One has a video. Guess who gets the call? Kim says in 2026, you're either on video or you're invisible.",
+      "production_note": "Split screen: Left side shows text-only agent bio. Right side shows dynamic About Me video thumbnail with play button. Text overlay on key phrase: 'Credentials vs. Connection.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Here's what shifts: Before the consult, they've already heard your voice. They've already decided they like you. You walk in warm, not cold. You're not pitching yourself anymore. You're confirming what they already believe.",
+      "production_note": "Screen recording of video thumbnail in Google results. Cursor hovers over play button. Zoom in."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight, open your phone's camera. Record three minutes. Who you are, why you do this, one story that proves it. Tomorrow morning, upload it to YouTube with your name in the title. Then text the link to your last three leads who went cold.",
+      "production_note": "Back to Kim, direct to camera. Text overlay appears line by line: '1. Record tonight' '2. Upload tomorrow' '3. Text 3 cold leads.'"
+    }
+  },
+  "caption": "The listing went to the agent they could see. Not the one with the best resume.",
+  "hashtags": [
+    "#RealEstateMarketing",
+    "#RealtorContent",
+    "#VideoForRealtors",
+    "#PersonalBranding",
+    "#RealEstateAgent"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "00:03:38",
+    "source_episode": "2025-12-12_item10_Kim-Rittberg",
+    "guest_name": "Kim Ritberg",
+    "generated_at": "2026-02-19T10:26:41.312813",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:04:05.217697",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague competitor threat hook with direct visibility problem. Tightened insight around the strongest line. Completely rebuilt CTA into three specific actions with tonight/tomorrow deadlines and exact steps: record, upload with SEO title, text three specific people.",
+    "original_score": 6,
+    "judge_note": "Hook creates a problem that doesn't connect to the solution—start with 'You're invisible on Google and here's the one video that fixes it' instead of a vague competitor threat."
+  }
+}

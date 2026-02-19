@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Do it now and ask for forgiveness later is terrible advice. So much of what we do is nuanced and requires conversations before actions.",
+    "clip_type": "contrarian_take",
+    "energy": "calm_authoritative",
+    "guest_voice": "Direct, no-nonsense. Speaks in clear declaratives. Cuts through noise with precision. No fluff, just conviction.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Challenges the hustle-culture advice that gets agents in trouble and offers the real path to $2B+ in transactions."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The advice that cost me my biggest deal: 'Do it now, ask for forgiveness later.'",
+      "production_note": "Hard cut. Text on screen: 'DO IT NOW, ASK FOR FORGIVENESS LATER' with a red X slashing through it. Jill looking directly at camera."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jill Preschel has done over two billion in luxury real estate. And she'll tell you the 'move fast and break things' mentality? It doesn't work when one conversation can make or break a seven-figure commission.",
+      "production_note": "B-roll of luxury NYC properties. Text overlay: '$2B+ in transactions.' Cut to Jill's headshot with credentials."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she does instead. Before she makes a move with a developer or a luxury buyer, she has the conversation first. 'So much of what we do is nuanced and requires conversations before actions.' Not after. Before. Because in luxury real estate, you don't get do-overs. You get one shot to show you understand the stakes. One email sent too early. One showing scheduled without checking in. One assumption about what the client wants. That's all it takes to lose trust you'll never get back.",
+      "production_note": "Split screen: Left side shows 'MOVE FAST' approach with chaos imagery. Right side shows 'CONVERSATION FIRST' with calm, strategic imagery. Cut to Jill speaking the quote directly. Then show examples: calendar invites, email drafts, phone conversations."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "The agents who close the biggest deals aren't the fastest. They're the ones who ask the right questions before they act. Speed without strategy is just expensive chaos.",
+      "production_note": "Slow-motion footage of a luxury property closing. Text overlay: 'STRATEGY > SPEED.' Cut back to Jill nodding."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your move: before you send that next email or schedule that next showing, ask yourself one question. 'What conversation am I skipping?' Then have it.",
+      "production_note": "Black screen with white text appearing word by word: 'What conversation am I skipping?' Hold for 2 seconds. End card with podcast info."
+    }
+  },
+  "caption": "The 'move fast' advice that's costing you deals. Jill Preschel ($2B+ in luxury) explains why conversation beats speed every time.",
+  "hashtags": [
+    "#luxuryrealestate",
+    "#realestateagent",
+    "#topproducer",
+    "#realestatetips",
+    "#agentadvice"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity — agents who've lost deals from moving too fast will tag colleagues who need to hear this",
+  "_metadata": {
+    "source_clip_timestamp": "00:05:00",
+    "source_episode": "2025-11-21_item15_Jill-Preschel",
+    "guest_name": "Jill Preschel",
+    "generated_at": "2026-02-19T10:33:52.631198",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

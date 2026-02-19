@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "When people don't say, 'Hey, we're so fun to work with,' but say, 'Thank you for your professionalism,' that's when you know you're doing it right.",
+    "clip_type": "memorable_oneliner",
+    "energy": "calm_authoritative",
+    "guest_voice": "Direct, no-fluff communicator. Uses specific examples and contrasts. Speaks in declarative statements, not hedges.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It contradicts everything social media teaches agents about being 'authentic' and 'relatable' — and comes from someone doing $30M annually."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your clients don't actually want to be your friends.",
+      "production_note": "Hard cut to Michael mid-sentence. Serious expression. B-roll: agents doing goofy social media dances or overly casual client interactions."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "I know that sounds harsh. But Michael Thornton built a $30 million business in Wheaton, Illinois, and he figured out what clients actually value. And it's not what you think.",
+      "production_note": "Cut to Michael's headshot with text overlay '$30M+ Annual Volume.' Then B-roll of professional real estate interactions — clean presentations, organized showings."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he told me: 'When people don't say, \"Hey, we're so fun to work with,\" but say, \"Thank you for your professionalism\" — that's when you know you're doing it right.' Think about that. Your clients aren't hiring you to grab drinks. They're trusting you with the biggest financial decision of their lives. They want competence. They want systems. They want someone who answers emails at 9 PM and knows the contract inside-out. Being likable? That's table stakes. Being professional? That's what gets you referrals.",
+      "production_note": "Show Michael's actual quote on screen. Cut between footage of: agents being responsive, reviewing contracts, organized transaction coordination. Contrast with 'fun' social content that gets likes but not listings."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you're stuck wondering why your personality isn't converting to closings — maybe you've been optimizing for the wrong metric. People remember professionalism. They forget fun.",
+      "production_note": "Direct address to camera or text overlay with key phrase. B-roll: testimonials, 5-star reviews, referral conversations."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Ask yourself: What's the last compliment a client gave you? Was it about your vibe — or your follow-through? That's your answer.",
+      "production_note": "End on Michael's face or a thought-provoking visual. Text overlay of the question. Fade to podcast logo/subscribe prompt."
+    }
+  },
+  "caption": "Professionalism > personality. $30M agent explains why clients don't want to be your friend.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#RealEstateBusiness",
+    "#AgentMindset",
+    "#ProfessionalismWins"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity — agents who pride themselves on professionalism will share this as validation; those focused on 'authenticity' will debate it",
+  "_metadata": {
+    "source_clip_timestamp": "28:00",
+    "source_episode": "2025-12-16_item8_Michael-Thornton",
+    "guest_name": "Michael Thornton",
+    "generated_at": "2026-02-19T10:23:58.663372",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

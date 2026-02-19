@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Ask AI how you can use it better.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Michael speaks like a systems-builder who's already three steps ahead — practical, direct, with a quiet confidence that comes from doing $30M+ annually.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Most agents are asking AI to do tasks, but a $30M producer just revealed he asks AI to teach him how to use AI — a meta-strategy that compounds advantage."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're using AI wrong. And the fix is so simple it feels stupid.",
+      "production_note": "Text on screen: 'You're using AI wrong.' Cut to Michael mid-sentence, serious expression."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Michael Thornton does $30 million a year in Wheaton, Illinois. He's not just using AI for tasks. He's using AI to get better at using AI.",
+      "production_note": "B-roll: Michael's website ranking on AI search, screenshot of ChatGPT interface. Text overlay: '$30M/year producer'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he does. Instead of just asking ChatGPT to write a listing description or summarize an email, he asks it: 'How can I use you better for real estate?' And it tells him. It suggests workflows he didn't know existed. Prompts he never thought to try. He's literally having AI train him. And it's working — his blogs now show up as source material when people ask AI about restaurants in his town. He's hijacking the algorithm because he asked the algorithm how to hijack it.",
+      "production_note": "Screen recording: Typing 'How can I use you better for real estate?' into ChatGPT. Show AI's response scrolling. Cut to Michael explaining with energy. Text overlay key phrases: 'Ask AI to train you' / 'Hijack the algorithm'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Most agents treat AI like a tool. Michael treats it like a coach. That's the difference between using technology and being shaped by it. You get better. Your prompts get sharper. Your output compounds.",
+      "production_note": "Split screen: 'AI as tool' vs 'AI as coach'. Cut to Michael nodding, confident close-up."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your homework. Open ChatGPT right now. Type: 'How can I use you better for my real estate business?' And actually read what it says. That's it. That's the entire strategy.",
+      "production_note": "Text on screen: 'Ask AI how to use AI better.' Fade to Michael's face with slight smile. End card: 'Try it. Right now.'"
+    }
+  },
+  "caption": "A $30M agent just told me his AI secret. It's almost too simple. (But it works.)",
+  "hashtags": [
+    "#AIforRealEstate",
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#ChatGPT",
+    "#RealEstateTips"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "48:00",
+    "source_episode": "2025-12-16_item7_Michael-Thornton",
+    "guest_name": "Michael Thornton",
+    "generated_at": "2026-02-19T10:24:41.186743",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

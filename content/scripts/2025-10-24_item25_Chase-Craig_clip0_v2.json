@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Focus on what you can control. There's so many things we deal with as real estate professionals, and it's easy to get caught up in the muck.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Chase speaks with grounded, no-BS clarity — he's been broke, built scale, and doesn't waste words on theory.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It names the exact paralysis new agents feel — drowning in things they can't control — and offers a lifeline from someone who's closed 6000 deals."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're drowning in things you can't control.",
+      "production_note": "Fast cut montage: market headlines, interest rate graphs, texts from difficult clients, overwhelming email inbox — all flashing quickly to create visual chaos"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "And if you're a new agent, it feels like the entire game is rigged against you. Chase Craig — 6000 transactions, $2 billion in sales — started making twelve bucks an hour at Home Depot.",
+      "production_note": "Split screen: Chase speaking to camera on one side, B-roll of his stats/achievements on the other. Transition to old photo of Home Depot storefront"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he learned. Quote: 'Focus on what you can control. There's so many things we deal with as real estate professionals, and it's easy to get caught up in the muck.' Chase ignores interest rates, inventory numbers, what Zillow's doing, what his competitors post. He built an empire on three things: his database — he texts every past client on their birthday, no exceptions. His response time — leads get called back in under five minutes, period. And his daily actions — five prospecting calls before he checks email. That's it. Everything else is noise.",
+      "production_note": "Show Chase speaking the quote, then cut to simple text overlay: 'What You Can Control: 1. Your Database 2. Your Response Time 3. Your Daily Actions' — let each point appear with a subtle sound effect. B-roll of CRM showing birthday reminders, phone timer showing '4:32' response time, morning calendar block labeled 'Prospecting Calls'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So when you're spiraling about the market or what some guru said on Twitter, that's time stolen from the three things that'll actually get you paid. Database. Response time. Daily actions. Put it where you'll see it every morning. That's your new filter for every decision.",
+      "production_note": "Chase speaking directly to camera, tighter shot, more intimate. Cut to visual of a phone being put face-down on a desk — symbolic of tuning out noise. Show sticky note with the three controllables on a monitor"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Right now, open your phone. Set a recurring alarm for 9 AM tomorrow labeled 'Five Calls.' Then open your CRM and tag five people you haven't talked to in 90 days. Tomorrow at nine, you call them. No script, just check in. That's day one of controlling what matters.",
+      "production_note": "Screen recording overlay: finger opening phone alarm app, typing '9 AM - Five Calls,' then opening CRM and selecting contacts. End with Chase nodding, slight smile — confident, not cocky. Text overlay: 'Tomorrow 9 AM: Make 5 calls'"
+    }
+  },
+  "caption": "Chase Craig: $2B in sales. Started at $12/hour. Here's what he controls (and what he ignores).",
+  "hashtags": [
+    "#realestatetips",
+    "#newagent",
+    "#realestatemindset",
+    "#realtor",
+    "#agentadvice"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "15:45",
+    "source_episode": "2025-10-24_item25_Chase-Craig",
+    "guest_name": "Chase Craig",
+    "generated_at": "2026-02-19T10:44:02.882735",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:00:53.141933",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Expanded the three controllables with specific tactical examples (birthday texts, sub-5-minute response, five morning calls). Completely rewrote CTA from vague 'write it down' to concrete immediate actions: set phone alarm now, tag five contacts now, make calls tomorrow at 9 AM. Kept strongest line about putting it where you'll see it. Removed list-y 'muck' explanation for tighter flow.",
+    "original_score": 6,
+    "judge_note": "The three controllables need tactical depth—HOW to improve response time, WHAT daily actions, not just naming them."
+  }
+}

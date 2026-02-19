@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "You're not having to convert them. They're now just simply moving into, okay, here's what we're thinking about.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Sarah speaks in plain, conversational language with a helper's tone—not flashy, not polished, but deeply practical and rooted in what actually works.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It reveals the exact moment in the sales process most agents dread—the conversion—and shows how to skip it entirely."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents are converting leads. Sarah Meslowski stopped converting them entirely.",
+      "production_note": "Split screen: Left side shows stressed agent on phone call. Right side shows Sarah calmly at desk with laptop."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "She's top 1% in Metro Atlanta. Generates 85% of her business from one platform. And the leads that come in? They're already sold on her before she ever picks up the phone.",
+      "production_note": "B-roll of Sarah's YouTube channel, subscriber count visible. Quick cuts of video thumbnails."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she does differently. Instead of chasing cold leads on Instagram or Facebook, she creates helpful YouTube videos answering the exact questions buyers are already searching for. Best neighborhoods in Atlanta. What to know before moving to Buckhead. School district breakdowns. When someone watches three of her videos, they're not calling to be convinced. As Sarah puts it: 'You're not having to convert them. They're now just simply moving into, okay, here's what we're thinking about.' They've already decided YOU'RE their agent. The call is just logistics.",
+      "production_note": "Screen recording of YouTube search bar with queries appearing. Cut to Sarah speaking the quote on camera. Show example video titles overlaid on footage."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Think about that. No pitch. No objection handling. No convincing someone you're worth the commission. They found you. They trust you. They're ready. That's the difference between interruption marketing and being the answer to someone's search.",
+      "production_note": "Side-by-side comparison: Traditional cold call vs. warm YouTube lead picking up phone smiling."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's the question: What's the one question buyers in YOUR market are Googling right now? Make a video answering it. That's your first YouTube lead.",
+      "production_note": "Text overlay: 'What question are they searching?' Fade to Sarah's headshot with channel link."
+    }
+  },
+  "caption": "She generates 85% of her business from leads that never needed convincing. Here's how YouTube changed everything.",
+  "hashtags": [
+    "#RealEstateLeadGen",
+    "#YouTubeForRealtors",
+    "#InboundMarketing",
+    "#RealEstateAgent",
+    "#RealtorTips"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "14:03",
+    "source_episode": "2026-01-27_item4_unknown-guest",
+    "guest_name": "Sarah Meslowski",
+    "generated_at": "2026-02-19T10:11:50.223634",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

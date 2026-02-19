@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Marketing is attracting. Selling is convincing.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Jay speaks in clear, declarative statements with a reflective warmth — he's distilling decades of experience into simple truths without ego or jargon.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reframes the entire hustle-and-grind sales model into something that feels less exhausting and more magnetic — exactly what burned-out agents need to hear."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "If you're still chasing clients, you've already lost.",
+      "production_note": "Text on screen: 'If you're still chasing clients...' — B-roll of agent frantically typing/calling, sped up slightly for effect"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jay Cannone is top 1% in Fairfield County luxury real estate. And he stopped 'selling' years ago. Here's what he does instead.",
+      "production_note": "Cut to Jay's headshot with '1% Producer' text overlay — then quick montage of luxury listings"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Jay's rule: Marketing is attracting. Selling is convincing. When you're marketing right, clients come pre-sold. They've seen your content. They trust your expertise. They know your values. By the time they call, you're not pitching — you're consulting. You're not overcoming objections — you're confirming what they already believe. The transaction becomes inevitable.",
+      "production_note": "Split screen: Left side shows 'OLD WAY' — cold calls, door knocking. Right side shows 'NEW WAY' — content creation, testimonials, community presence. Transition to Jay speaking this section if available, or overlay text with his quote in bold"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Think about your last five deals. How many came to you versus how many did you have to convince? That ratio is your real scorecard. The more you attract, the less you exhaust yourself.",
+      "production_note": "Thought-provoking pause with text: 'How many came TO you?' — then 'vs. how many did you CONVINCE?' Let it breathe for 2 seconds"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your homework: List three things you're doing to attract versus convince. If you can't name three, you're still in sales mode. Full episode link in bio.",
+      "production_note": "Text overlay: '3 things that ATTRACT clients:' with blank lines — then 'Full episode 🔗 bio' with arrow pointing up"
+    }
+  },
+  "caption": "Stop convincing. Start attracting. Jay Cannone breaks down the shift that changed everything.",
+  "hashtags": [
+    "#RealEstateMarketing",
+    "#LuxuryRealEstate",
+    "#TopProducer",
+    "#RealEstateAgent",
+    "#AgentMindset"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "25:00",
+    "source_episode": "2025-12-15_item9_Jay-Cannone",
+    "guest_name": "Jay Cannone",
+    "generated_at": "2026-02-19T10:25:22.598568",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

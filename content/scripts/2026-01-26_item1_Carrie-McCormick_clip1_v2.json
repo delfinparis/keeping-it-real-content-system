@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Buyers aren't rejecting homes. They reject uncertainty when they don't feel good about something when there's a lack of information.",
+    "clip_type": "pattern_reveal",
+    "energy": "calm_authoritative",
+    "guest_voice": "Carrie speaks in clear, definitive statements — no hedging. She uses concrete metaphors and frames insights as universal truths backed by decades of pattern recognition.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reframes every lost deal as a communication failure, not a pricing problem — which means every agent watching just got handed back control."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your buyers aren't walking away from the house. They're walking away from you.",
+      "production_note": "Hard cut to Carrie mid-sentence, tight frame. Text overlay: 'They're walking away from YOU'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Carrie McCormick — top 1% producer in Chicago luxury — just told me why deals die. And it has nothing to do with the property.",
+      "production_note": "B-roll: Carrie's credentials (top 1%, Chicago skyline). Quick cuts to keep pace."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she said: 'Buyers don't reject homes. They reject uncertainty.' Here's what that looks like in real life. Carrie's presenting a $2.1M listing. Buyer asks why it's priced there. Weak agent says: 'Market analysis supports it.' Carrie says: 'Two comps closed 90 days ago at $1.95M. Since then, inventory dropped 40% in this zip code. We priced at $2.1M because we're launching with a 72-hour social blitz, broker event Tuesday, and if we don't get action in 10 days, we adjust. Here's the timeline.' One agent gave a number. One gave certainty. Guess who got the listing.",
+      "production_note": "Show Carrie speaking the quote. Cut to text overlays: '$2.1M listing' / 'Inventory dropped 40%' / '72-hour blitz' / 'Here's the timeline.' B-roll of listing presentations, data sheets, calendar graphics."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So the next time a buyer ghosts after a showing? It's not the house. It's that you gave them a price without a plan. You gave them doubt instead of direction.",
+      "production_note": "Return to Carrie, slightly wider frame. Text: 'Price without a PLAN.' Slow push-in for emphasis."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow morning, take your next listing. Write out three sentences: Why this price. Why this week. What happens in 10 days if we're wrong. Say it out loud before your presentation. That's the script. Full episode in bio.",
+      "production_note": "Text overlay: 'Tomorrow morning: Write 3 sentences' / 'Why this price / Why this week / What if we're wrong' / 'Say it OUT LOUD.' End card with podcast branding and 'Link in bio'"
+    }
+  },
+  "caption": "Buyers don't reject homes. They reject uncertainty. Carrie McCormick shows exactly what that means in a listing presentation.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#ListingPresentation",
+    "#RealEstateSales",
+    "#AgentTips"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "14:00",
+    "source_episode": "2026-01-26_item1_Carrie-McCormick",
+    "guest_name": "Carrie McCormick",
+    "generated_at": "2026-02-19T10:13:13.298518",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:07:29.549683",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague 'pricing as a narrative' with Carrie's actual $2.1M listing example showing exact comps, inventory data, and marketing timeline. Rewrote CTA from reflective 'ask yourself' to specific morning prep action: write three sentences, say them out loud before next presentation.",
+    "original_score": 6,
+    "judge_note": "The hook promises a punch but the insight gets vague—show exactly what 'pricing as a narrative' looks like with a real example from Carrie's deals."
+  }
+}

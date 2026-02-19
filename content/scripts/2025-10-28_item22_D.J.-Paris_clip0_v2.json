@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Corded's AI tells me exactly what to say based on that agent's needs and what my brokerage can offer.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "DJ Paris speaks like a veteran recruiter who's seen it all—direct, no-fluff, with the credibility of someone who's hired 2000+ agents and isn't easily impressed.",
+    "target_avatar": "team_leader",
+    "why_this_stops_scrolls": "It reveals a recruiting advantage most team leaders don't know exists—AI that predicts which agents are about to jump ship and writes the exact pitch to close them."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "AI now knows which agents are about to leave your brokerage before you do.",
+      "production_note": "Text overlay: 'AI PREDICTS AGENT FLIGHT RISK' over dramatic B-roll of empty office desk"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "DJ Paris has recruited over 2000 agents in 15 years. He's seen every recruiting tool. And he says this one changed everything about how he hires.",
+      "production_note": "Show DJ speaking to camera or photo with credential text overlay: '2000+ agents recruited'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "The tool is called Corded. It scans dozens of variables for every agent in your market—production trends, social signals, career patterns—and flags who's likely to move. But here's the wild part: it reads YOUR recruiting website, learns what you offer, then tells you exactly what to say to each agent. DJ says, 'Corded's AI tells me exactly what to say based on that agent's needs and what my brokerage can offer. It even writes the emails.' It's not just lead gen. It's recruitment on autopilot.",
+      "production_note": "Screen recording of Corded dashboard showing agent profiles and AI-generated email. Cut to DJ testimonial footage."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Think about this: while you're guessing who to call, your competitor is getting a list of agents ready to jump—with the exact script to close them. That's not a fair fight.",
+      "production_note": "Split screen: 'You' (manual spreadsheet) vs. 'Them' (AI dashboard with hot leads highlighted)"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "If you're serious about growing your team, check out corded.io. And ask yourself: are you recruiting, or are you just hoping the right agents find you?",
+      "production_note": "Text overlay: 'corded.io' with DJ speaking direct to camera"
+    }
+  },
+  "caption": "AI that predicts which agents will leave + writes the pitch to recruit them. DJ Paris (2000+ hires) calls it the tool he's been waiting for.",
+  "hashtags": [
+    "#RealEstateRecruiting",
+    "#AIForRealEstate",
+    "#TeamLeader",
+    "#BrokerageGrowth",
+    "#RealEstateTools"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "team_leader",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "02:00",
+    "source_episode": "2025-10-28_item22_D.J.-Paris",
+    "guest_name": "Unknown Guest",
+    "generated_at": "2026-02-19T10:42:35.379032",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

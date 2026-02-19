@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Imagine one out of every five items at the grocery store all being made by the same company. That's the scale that we're talking about here.",
+    "clip_type": "surprising_statistic",
+    "energy": "matter_of_fact",
+    "guest_voice": "Chris speaks in concrete numbers and relatable metaphors, building context methodically like an analyst who knows the data cold but wants you to feel the weight of it.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reframes a distant corporate acquisition into an immediate personal threat — one company is about to control 20% of every agent's competitive landscape."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "One company now controls one in five agents in America.",
+      "production_note": "Bold text overlay: '1 IN 5 AGENTS' with Compass logo appearing beneath — stark, clean visual with slight zoom for emphasis"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "If you're competing for listings right now, your competition just got a billion-dollar upgrade. Chris Linsell, real estate tech analyst, broke down what this actually means for you.",
+      "production_note": "Cut to Chris on screen, professional but approachable framing. Lower third with name and title"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Compass just acquired Anywhere Real Estate. That's 300,000 agents — Century 21, Coldwell Banker, Better Homes and Gardens, Corcoran, ERA — all under one system now. Chris said: 'Imagine one out of every five items at the grocery store all being made by the same company. That's the scale we're talking about here.' These agents didn't choose Compass. But starting now, they're getting Compass CRM, Compass AI lead tools, Compass marketing automation, Compass transaction software.",
+      "production_note": "Show brand logos cascading into Compass logo. Then grocery store visual metaphor — 1 in 5 products highlighted in Compass orange. End with quick montage of tech interface screens"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Which means Bob at Century 21 isn't just Bob anymore. He's got AI writing his listing descriptions, automated follow-up sequences, and a design team cranking out his social content. You're not competing against Bob. You're competing against Bob plus a tech team he doesn't even pay for.",
+      "production_note": "Split screen: 'You vs. Bob 2.0' — left side shows solo agent at laptop, right side shows same agent with animated tech icons surrounding them"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Here's what you do today: Go to your CRM right now. If you don't have automated follow-up running for every lead, set up one sequence before tomorrow morning. Start with past clients who closed 12+ months ago. Three emails, two weeks apart. That's the gap you close first.",
+      "production_note": "Return to host, direct to camera. Text overlay appears in stages: '1. Open your CRM' → '2. Set up ONE follow-up sequence' → '3. Target 12+ month past clients' → 'DO IT TODAY'"
+    }
+  },
+  "caption": "300,000 agents just got a tech upgrade. Here's the one system you need to build this week to compete.",
+  "hashtags": [
+    "#RealEstateNews",
+    "#CompassRealEstate",
+    "#RealEstateAgent",
+    "#RealEstateTech",
+    "#AgentLife"
+  ],
+  "content_pillar": "market_intelligence",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "15:45",
+    "source_episode": "2025-10-27_item23_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:43:37.193470",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:08:05.558804",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague 'ask yourself' CTA with specific 3-step action (open CRM, create one automated sequence, target 12+ month past clients, deadline: tomorrow morning). Added concrete tech examples in INSIGHT (CRM, AI tools, marketing automation) so viewer knows exactly what 'tech stack' means. Sharpened REFRAME to name specific capabilities Bob now has. Kept strongest line (grocery store metaphor) as anchor.",
+    "original_score": 5,
+    "judge_note": "The CTA is too vague—name ONE specific tech tool or system they should adopt today, not 'ask yourself.'"
+  }
+}

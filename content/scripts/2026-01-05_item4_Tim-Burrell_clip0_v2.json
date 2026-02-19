@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "One of the things that AI does particularly well is to give you information about the other person.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Tim speaks like a seasoned attorney-turned-practitioner: precise, tactical, no fluff. He delivers insights as actionable intelligence, not theory.",
+    "target_avatar": "aspiring_top_producer",
+    "why_this_stops_scrolls": "Every agent thinks they're good at reading people — this reveals they're walking into negotiations blind compared to what's now possible."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're negotiating blind. And the other agent isn't.",
+      "production_note": "Hard cut to Tim. No music. Direct eye contact. Let the silence land."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Tim Burrell — attorney, contractor, RE/MAX Hall of Fame — closes deals most agents walk away from. His edge? He knows more about the other side before the first conversation even starts.",
+      "production_note": "B-roll: Tim's book 'The AI Negotiator' on screen. Quick cuts of negotiation scenes — handshakes, contract signings."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he does. Before every negotiation, he feeds AI the other agent's name. Within seconds, he's got their transaction history, their negotiation patterns, their pressure points. 'One of the things that AI does particularly well,' Tim says, 'is to give you information about the other person.' Not generic research. Specific intel. How aggressive they counter. What concessions they typically make. Where they cave. It's like walking into a poker game knowing everyone's tells.",
+      "production_note": "Screen recording of AI prompt and results. Overlay text highlighting key phrases: 'transaction history,' 'negotiation patterns,' 'pressure points.' Cut back to Tim delivering the quote."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "While you're guessing, top producers are studying. They know if the listing agent always folds on inspection repairs. They know if the buyer's agent panics when deals stall. You're not losing deals because you're not good enough. You're losing because you're not prepared enough.",
+      "production_note": "Split screen: 'You' side shows generic prep notes. 'Them' side shows detailed AI analysis. Tension-building music starts."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Next negotiation, try this. Take their name, run it through ChatGPT with public transaction data, and ask: 'What patterns show up?' You'll never walk in blind again. Full episode in bio.",
+      "production_note": "Tim delivers direct to camera. Text overlay: 'Try this before your next negotiation.' End card with episode link."
+    }
+  },
+  "caption": "Top producers aren't better negotiators. They just know more before they walk in. 🎯",
+  "hashtags": [
+    "#RealEstateAI",
+    "#NegotiationTips",
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#AIForRealtors"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "aspiring_top_producer",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "10:00",
+    "source_episode": "2026-01-05_item4_Tim-Burrell",
+    "guest_name": "Tim Burrell",
+    "generated_at": "2026-02-19T10:17:48.186096",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

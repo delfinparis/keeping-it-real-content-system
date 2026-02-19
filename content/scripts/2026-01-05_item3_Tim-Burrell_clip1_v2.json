@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "AI will give you some feedback in terms of should you do this or should you not do this.",
+    "clip_type": "mindset_shift",
+    "energy": "matter_of_fact",
+    "guest_voice": "Tim speaks like a seasoned operator who's already moved past the hype — practical, direct, data-informed without being academic.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Most agents still think AI is for writing emails — this shows it's your negotiation coach that prevents you from blowing deals before they happen."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're about to send that lowball offer. AI just stopped you from killing the deal.",
+      "production_note": "Text overlay: 'OFFER: $425K' with a red X animation. Tense music sting."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Most agents negotiate in real life and learn they went too low after the seller ghosts them. Tim Burrell — top producer in Raleigh — runs every offer through AI first.",
+      "production_note": "B-roll: Phone screen showing angry seller text. Cut to Tim's headshot with credentials."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's his exact process. Before you submit, you feed AI the situation: their motivation, your client's position, the offer amount. Then you ask for the three most probable responses. Because anchoring works — start lower, you'll end lower — but go insultingly low and they'll make you apologize your way back up. AI shows you where that line is before you cross it. Tim says, 'AI will give you some feedback in terms of should you do this or should you not do this.' It's a negotiation simulator. You test the offer in private, adjust, then go live.",
+      "production_note": "Screen recording: ChatGPT/Claude interface with prompt visible. Highlight 'three probable responses.' Cut to split screen showing 'insulting offer' vs 'strategic offer' outcomes."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Think about your last deal that died in negotiation. What if you'd known their likely reaction before you hit send? You're not guessing anymore. You're war-gaming every move.",
+      "production_note": "Slow zoom on frustrated agent staring at phone. Transition to confident agent reviewing AI feedback on laptop."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Next offer you write — before you send it — paste the scenario into Claude or ChatGPT. Ask for three probable responses. See what it catches. Full episode link in bio.",
+      "production_note": "Text overlay: 'Try this TODAY' with simple prompt template shown on screen. End card with podcast logo."
+    }
+  },
+  "caption": "AI caught what would've killed my last deal. Here's the exact prompt top producers use before every offer.",
+  "hashtags": [
+    "#RealEstateNegotiation",
+    "#AIForRealtors",
+    "#RealEstateStrategy",
+    "#RealtorTips",
+    "#NegotiationSkills"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "36:30",
+    "source_episode": "2026-01-05_item3_Tim-Burrell",
+    "guest_name": "Tim Burrell",
+    "generated_at": "2026-02-19T10:18:50.326680",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

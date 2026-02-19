@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "This separation season is not only an opportunity to distance yourself from your competitors... it's an opportunity to leave the past version of yourself in the dust.",
+    "clip_type": "mindset_shift",
+    "energy": "high_passionate",
+    "guest_voice": "Paul speaks like a coach in your corner — direct, urgent, using sports metaphors and deliberate pauses to land his points. He builds tension through repetition before delivering the punch.",
+    "target_avatar": "aspiring_top_producer",
+    "why_this_stops_scrolls": "It reframes the holiday slowdown as the exact moment that separates who you say you want to be from who you're actually becoming."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "While your competition is posting 'Out of Office,' you're about to lap them.",
+      "production_note": "Split screen: agents posting vacation pics with 'OOO' email screenshots vs. someone pulling up their CRM at their desk. Quick cut rhythm."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Paul Salter is a mindset coach who works with top producers. And he says December isn't downtime. It's what he calls Separation Season.",
+      "production_note": "B-roll of calendar flipping to December. Paul's headshot appears with 'MINDSET COACH' subtitle. Quick cut to agents checking out early."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what that means: 'This separation season is not only an opportunity to distance yourself from your competitors... it's an opportunity to leave the past version of yourself in the dust.' Not just ahead of other agents. Ahead of who you were last year. While everyone else is telling themselves they'll get serious in January, you're building a gap they can't close. Five focused weeks now is worth three months of catching up later. That's not motivation. That's math.",
+      "production_note": "Text on screen: 'SEPARATION SEASON' appears bold. Cut to footage of someone working while others party. Highlight the quote with kinetic text. Show '5 weeks = 3 months' visual equation."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "The agent who closes three deals in December isn't just ahead on commission. They're walking into January with momentum everyone else has to manufacture from scratch. You're not grinding. You're separating.",
+      "production_note": "Close-up shots of small wins — a signed contract, a follow-up call, a client handshake. Energy shifts from urgent to confident. Show '3 DEALS' text overlay."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Here's your move: Open your phone right now. Text three past clients this exact message: 'Hey [name], thinking of you this season. Coffee on me this week?' Send it before this video ends. That's separation season. Full episode in bio.",
+      "production_note": "Direct to camera energy. Text overlay shows the exact message template appearing word by word. End card with episode link and 'SEND IT NOW' button graphic."
+    }
+  },
+  "caption": "While they coast, you separate. Paul Salter on why December is your secret weapon. 🎯",
+  "hashtags": [
+    "#SeparationSeason",
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#MindsetCoach",
+    "#RealEstateMindset"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "aspiring_top_producer",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "00:04:30",
+    "source_episode": "2025-12-04_item13_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:31:00.171622",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:02:54.872861",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Sharpened hook with 'Out of Office' specificity. Kept strongest line verbatim. Completely rewrote CTA with exact script template and 'before this video ends' urgency — no vague 'reach out,' but specific text message with exact words to send.",
+    "original_score": 6,
+    "judge_note": "Replace vague 'reach out' with a specific action (text this exact message, mail a market report, invite to coffee with this script)."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "It's time for a national MLS... one unified system that gets you access to every listing in the country.",
+    "clip_type": "tactical_specificity",
+    "energy": "high_passionate",
+    "guest_voice": "Chris talks like someone who's been waiting to say this out loud — building momentum with specifics, painting vivid use cases, then catching himself with self-aware humor ('I know I'm going to get flack from somebody on this').",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Because every agent has felt the pain of fragmented MLS systems killing deals, and this proposes the forbidden solution everyone thinks about but nobody says."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You lost a $2.3M buyer last month because you couldn't pull comps from Denver.",
+      "production_note": "B-roll: Agent staring at 'Client Archived' in CRM, then quick cut to Denver skyline they couldn't access"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Retirees comparing Phoenix, Boise, and Raleigh. Investors asking about cap rates in three states. And you're stuck saying 'let me refer you out' because your MLS ends at the county line. You lose the client. Someone else closes the deal.",
+      "production_note": "Fast cuts: retirement couple with three city brochures, agent awkwardly explaining 'I can't help with that market,' referral form being filled out"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Chris Linsell, real estate tech analyst, just said what everyone's thinking: 'It's time for a national MLS.' But here's what he's really saying — you don't have to wait for NAR to fix it. Right now, top agents are stitching together their own version. They're buying secondary MLS access in their top three referral markets for $50/month each. They're using Zillow's API to pull comps nationally in under sixty seconds. They're building referral networks where they stay the primary contact, not the handoff guy. Chris dreams of one system. Smart agents are building their own.",
+      "production_note": "Show Chris speaking his quote, then cut to: agent dashboard showing multiple MLS logins, Zillow API interface pulling live data, split-screen of agent video-calling partner agent in another state while client watches"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Right now, you lose clients because you can't serve them past your MLS boundary. But three agents in your office aren't waiting. They've got Phoenix access. They've got Nashville access. They're closing deals you're referring out. That's not a tech problem anymore. That's a decision problem.",
+      "production_note": "Visual: Side-by-side comparison — 'You: Referral Fee $1,200' vs 'Them: Full Commission $18,000' — then agent confidently presenting multi-market analysis to nodding clients"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Before your next team meeting, do this: Open your CRM. Filter closed deals by 'Referred Out - Geographic.' Pick the top market. Google '[That City] MLS subscriber access.' Most are $40-60/month. Buy it. Next client who asks? You're the expert now, not the referral source.",
+      "production_note": "Text overlay appears step-by-step as spoken: '1. Filter CRM by Referred Out' → '2. Find your #1 referral market' → '3. Google [City] MLS access' → '4. Subscribe today' — End on agent confidently opening secondary MLS dashboard"
+    }
+  },
+  "caption": "You're losing deals to geography. Here's how to fix it this week. (via Chris Linsell)",
+  "hashtags": [
+    "#RealEstateTech",
+    "#MLSReform",
+    "#RealEstateAgent",
+    "#RealtorLife",
+    "#PropTech"
+  ],
+  "content_pillar": "market_intelligence",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "25:03",
+    "source_episode": "2025-12-22_item10_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:22:59.942362",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:11:29.471718",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Pivoted from 'policy wish' to 'actionable workaround.' Replaced vague CTA ('what would your pipeline look like?') with 5-step process agents can execute before their next team meeting. Added concrete costs ($50/month MLS access), specific tools (Zillow API), and real numbers ($2.3M buyer, $18K vs $1.2K commission comparison) throughout.",
+    "original_score": 5,
+    "judge_note": "This is a policy wish, not an actionable insight—pivot to what agents can do NOW with existing tools (Zillow API, referral networks, multi-MLS subscriptions) instead of waiting for NAR to fix it."
+  }
+}

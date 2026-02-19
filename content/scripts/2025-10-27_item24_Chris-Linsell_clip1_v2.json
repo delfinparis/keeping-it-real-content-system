@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Your clients do not care what brokerage you're a part of. They remember who you are.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Chris speaks in declarative, confident statements—no hedging, no fluff. He builds arguments methodically, using specifics and industry observations to support bold claims.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It destroys the safety blanket agents hide behind—that their brokerage's brand will carry them—and forces them to confront whether they've built anything of their own."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your brokerage logo isn't closing deals. You are.",
+      "production_note": "Open on brokerage signs/logos (Keller Williams, RE/MAX, Compass, etc.) rapidly flashing on screen, then cut to black with just text: 'But your clients don't care.'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Chris Linsell—real estate tech strategist—just said the quiet part out loud during a conversation about the Compass-Anywhere merger. And it's the wake-up call most agents don't want to hear.",
+      "production_note": "Show Chris on screen with lower third. Cut to b-roll of generic agent headshots with big brokerage logos overshadowing their faces."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he said: 'Your clients do not care what brokerage you're a part of. They remember who you are.' Think about your last five closings. Did any client choose you because of your broker? Or did they choose you because you answered the phone, knew the neighborhood, showed up on time, and made them feel heard? The brokerage didn't build that trust. You did. The logo on your business card is a placeholder. Your name, your reputation, your follow-through—that's the brand.",
+      "production_note": "Show Chris's quote on screen as text overlay. Cut to footage of agents on listing appointments, phone calls, client meetings—real moments of connection. Then flash to empty brokerage office spaces to drive home the contrast."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if Compass and Anywhere merge tomorrow, if your brokerage gets acquired, if your office closes—are you still in business? Or were you renting someone else's credibility the whole time? The agents who survive industry chaos are the ones clients remember by name.",
+      "production_note": "Split screen: left side shows brokerage merger headlines and 'SOLD' signs on closed offices; right side shows a single agent's face with their name in bold. Zoom in on the agent's side."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Here's your gut check: If you switched brokerages today, how many of your clients would follow you? That number is your real brand equity. Start building it like your career depends on it. Because it does.",
+      "production_note": "End on Chris nodding, then cut to text on screen: 'Your name > Your brokerage.' Fade to show logo/CTA."
+    }
+  },
+  "caption": "Your brokerage isn't your brand. You are. Chris Linsell breaks down what actually matters to clients.",
+  "hashtags": [
+    "#RealEstateBranding",
+    "#RealEstateAgent",
+    "#PersonalBrand",
+    "#RealEstateTruth",
+    "#AgentMindset"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "28:00",
+    "source_episode": "2025-10-27_item24_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:43:18.486602",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Mindset, skill set, repetition. You need to have a mindset shift before you can truly grow with video.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Kim speaks like a coach who's seen it all — direct, no-nonsense, with the confidence of someone who's worked at Netflix and produced TV for a decade. She doesn't sugarcoat, she clarifies.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It names the exact reason agents sabotage their own video efforts before they even start filming — and offers a three-step escape route."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your tenth video will beat someone else's polished first one. Here's why you haven't made it to ten.",
+      "production_note": "Close-up of agent's phone screen showing 'Video 1' through 'Video 9' thumbnails, then empty slot for Video 10. Text overlay: 'Most agents quit at video 3'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Kim Rittberg trains agents who've tried video and quit. She was a Netflix marketer, produced TV for a decade. She knows why you stopped at video three.",
+      "production_note": "B-roll of Kim coaching an agent through filming, cut with shots of agents deleting draft videos on their phones"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She showed me one agent's progression. Video one: 'Um, so... homes are selling fast.' Stiff. Generic. Video five: still awkward, but she mentioned the new traffic pattern on Maple that's killing showings. Video twelve: she's walking a buyer through why that traffic actually creates opportunity three blocks over. Same person. Twelve reps. Kim calls it MSR — Mindset, Skill set, Repetition. But here's what she actually means. Video one, you're thinking 'I should do this.' Video twelve, you're thinking 'I'm the only agent who's going to explain this.' That shift — from obligation to authority — that's the mindset unlock. The skill set and reps follow.",
+      "production_note": "Show actual progression: split-screen of three videos from same agent, timestamps visible. Text overlays of her evolution: 'Generic → Specific → Authoritative.' End on Kim's face saying the mindset line"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you've been telling yourself you're 'just not a video person' — you're not wrong about your skills yet. You're wrong about your starting point. You're starting with 'should.' Start with 'only I know this.'",
+      "production_note": "Split screen: left side shows agent looking at competitor's polished video, defeated. Right side shows same agent filming a quick walkthrough, confident, mid-sentence about something specific"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Right now: Open your notes app. Write one sentence that starts with 'Most agents don't tell buyers that...' and finish it with something true about your market this week. Tomorrow at 9am, stand in the place that sentence is about, hit record, and say it out loud. That's video one.",
+      "production_note": "Screen recording of notes app with cursor blinking after 'Most agents don't tell buyers that...' Text overlay: 'Tomorrow 9am. Hit record. Say it.' Freeze on agent's thumb hovering over record button, about to press"
+    }
+  },
+  "caption": "Why your tenth video will beat their polished first one (and how to get there)",
+  "hashtags": [
+    "#realestatevideo",
+    "#agenttips",
+    "#videomarketing",
+    "#realestateagent",
+    "#MSRmethod"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "00:05:02",
+    "source_episode": "2025-11-14_item20_Kim-Rittberg",
+    "guest_name": "Kim Rittberg",
+    "generated_at": "2026-02-19T10:38:47.841048",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:09:09.884193",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced abstract MSR explanation with concrete agent progression story. Sharpened hook to focus on the '10 videos' insight. Completely rewrote CTA to give two specific actions with exact timing: write the sentence NOW, film it tomorrow at 9am. Changed 'homework' language to immediate directive.",
+    "original_score": 5,
+    "judge_note": "The MSR framework gets buried in explanation—show one real agent's before/after mindset shift instead of defining all three steps abstractly."
+  }
+}

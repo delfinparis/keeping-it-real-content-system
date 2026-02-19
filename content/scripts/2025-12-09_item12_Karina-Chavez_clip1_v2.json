@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "This is what your house is for. This is what all the sacrifices have been for.",
+    "clip_type": "emotional_resonance",
+    "energy": "calm_authoritative",
+    "guest_voice": "Karina speaks with quiet conviction and practical wisdom — she educates without preaching, using real stories to illustrate principles.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reframes homeownership from transaction to life-changing security — something agents forget when they're stuck in the grind."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your clients don't actually understand what they bought.",
+      "production_note": "Text on screen: 'Your clients don't understand...' Over B-roll of keys being handed over at closing"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Karina Chavez — top 1% producer in Albuquerque — watched the 2008 crash destroy her community. Interest-only loans. Predatory lenders. Families who thought they understood, but didn't.",
+      "production_note": "Quick cuts of Karina speaking, then archival footage of foreclosure signs from 2008"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "So now? She prints every loan document. Goes page by page. Fixed rate — it never changes. Taxes. Insurance. Everything. Not because she's a loan officer. Because she learned something most agents miss: Your job isn't done at closing. One of her clients called her years later, panicking about a medical crisis. Karina reminded her: 'This is what your house is for. This is what all the sacrifices have been for.' Equity. Security. A way forward.",
+      "production_note": "Split screen: Karina explaining documents on one side, then cut to emotional moment of her recounting the story. Text overlay on 'This is what your house is for'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You're not selling houses. You're selling the thing that catches people when they fall. But only if they actually understand what they own. That's the difference between a transaction and a relationship that lasts decades.",
+      "production_note": "Karina speaking directly to camera, intimate framing"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Ask yourself: Could your clients explain their mortgage to their kids? If not, you're leaving them vulnerable. Full episode — link in bio.",
+      "production_note": "End card with episode thumbnail and 'Link in bio' text"
+    }
+  },
+  "caption": "Your clients don't understand what they bought. And that's on you. 🏠",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#ClientEducation",
+    "#TopProducer",
+    "#RealEstateAdvice",
+    "#AgentLife"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "20:04",
+    "source_episode": "2025-12-09_item12_Karina-Chavez",
+    "guest_name": "Karina Chavez",
+    "generated_at": "2026-02-19T10:28:38.638991",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

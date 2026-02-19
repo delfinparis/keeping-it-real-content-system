@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Imagine if the NAR committed to being 10x data collection insights and analysis. We could easily do this — we could do 100x frankly based on the power that AI unlocks.",
+    "clip_type": "contrarian_take",
+    "energy": "calm_authoritative",
+    "guest_voice": "Chris speaks like a strategic consultant — measured, specific, building arguments with logic and data. He uses precise numbers ('300 fields,' '10x,' '100x') and isn't afraid to say the uncomfortable thing.",
+    "target_avatar": "aspiring_top_producer",
+    "why_this_stops_scrolls": "It reveals that the real competitive advantage isn't hustle or charm — it's access to data that NAR is sitting on but not weaponizing for agents."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your MLS has 300 data fields per listing. You're using maybe seven.",
+      "production_note": "Text on screen: '300 fields' then '7 fields' — stark contrast. B-roll of MLS interface scrolling through endless dropdown menus."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Chris Linsell is a real estate tech analyst who just said the quiet part out loud about why top producers win — and it's not what you think.",
+      "production_note": "Cut to Chris on camera. Lower third: 'Chris Linsell, Real Estate Tech Analyst.' Quick cuts of agents staring at screens, looking overwhelmed."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He says imagine if NAR committed to being 10x — not 10 percent, ten TIMES — better at data collection and analysis. We could do 100x with AI unlocking big data insights. Right now? That data sits there. Unused. But the agents who figure out how to mine it — days on market patterns by school district, price-per-square-foot trends by builder, absorption rates by micro-neighborhood — they're not just winning listings. They're becoming the trusted authority before they even walk in the door.",
+      "production_note": "Split screen: left side shows basic MLS search, right side shows data visualization dashboards, heat maps, trend graphs. Text highlights: '10x,' '100x,' 'AI unlocks.' Show agent presenting data-rich CMA on tablet to impressed clients."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You think you're competing on personality and hustle. You're actually competing on information asymmetry. And most agents don't even know the game being played.",
+      "production_note": "Close-up of Chris delivering this line. Cut to agent looking at phone, then looking up with realization. Slow zoom on screen showing data dashboard."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your homework: Open your MLS tonight. Count how many data fields you actually use in your CMAs. Then ask yourself — what am I missing?",
+      "production_note": "Text on screen: 'TONIGHT: Count your data fields.' End card with podcast logo and 'Full episode in bio.'"
+    }
+  },
+  "caption": "The data's already there. You're just not using it. (And your competition is starting to.)",
+  "hashtags": [
+    "#RealEstateData",
+    "#TopProducer",
+    "#MLSSecrets",
+    "#RealEstateTech",
+    "#AgentAdvantage"
+  ],
+  "content_pillar": "market_intelligence",
+  "target_avatar": "aspiring_top_producer",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "22:58",
+    "source_episode": "2025-12-22_item10_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:22:39.320641",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

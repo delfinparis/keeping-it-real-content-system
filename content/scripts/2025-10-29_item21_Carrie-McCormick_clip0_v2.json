@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Re-engage with your database, especially during the holidays. This is the time to push on the gas and do a lot of marketing.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Carrie speaks like a seasoned coach—direct, no-fluff, grounded in decades of market cycles. She uses conversational phrases ('you know') but delivers tactical wisdom with quiet confidence.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It flips the conventional wisdom that Q4 is 'coast mode' and reveals what top producers do while everyone else is checking out."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents are about to make a $50,000 mistake.",
+      "production_note": "Bold text overlay on dark background. Cut to Carrie mid-sentence, serious expression."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "They're taking their foot off the gas in Q4. Letting their database go cold. Waiting for January. Carrie McCormick—who's closed over $300 million in Chicago—says that's exactly backwards.",
+      "production_note": "B-roll: Calendar flipping to November/December. Cut to Carrie's credentials on screen. Then back to her speaking."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she does instead: 'Re-engage with your database, especially during the holidays. This is the time to push on the gas and do a lot of marketing.' Why? Because rates just dropped to 6%. Anyone who bought during the pandemic has equity. And they're not terrified of giving up their 3% rate anymore. While everyone else is coasting, you're calling past clients saying: 'Let's re-appraise your place. What's it worth? Do you want to move?' That's how you set up 2026 in November.",
+      "production_note": "Split screen: Carrie speaking + animated text highlighting key phrases ('push on the gas,' '6% rates,' 're-appraise'). Show phone/CRM interface mockup during 'calling past clients' line."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Think about it: Your competition is watching football and planning vacations. You're having conversations that turn into February listings. The agents who win Q1 are the ones who worked Q4.",
+      "production_note": "Contrast visual: Split screen showing 'typical agent' (couch, remote) vs 'you' (laptop, phone, working). End on Carrie nodding."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your homework: Pull your list of everyone who bought between 2020 and 2022. Send them a market update this week. One conversation could be your entire January. Don't wait.",
+      "production_note": "Text overlay: 'Pull your 2020-2022 buyers. Send market update THIS WEEK.' End card with Carrie's name and episode link."
+    }
+  },
+  "caption": "While everyone's coasting into the holidays, top producers are setting up their 2026. Here's the Q4 play most agents miss.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#Q4Strategy",
+    "#RealEstateMarketing",
+    "#TopProducer",
+    "#DatabaseMarketing"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "08:02",
+    "source_episode": "2025-10-29_item21_Carrie-McCormick",
+    "guest_name": "Carrie McCormick",
+    "generated_at": "2026-02-19T10:40:54.921830",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

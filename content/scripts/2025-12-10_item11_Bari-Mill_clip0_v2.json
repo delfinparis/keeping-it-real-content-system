@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Focus on what you do have, not on what you don't.",
+    "clip_type": "mindset_shift",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Conversational and honest, uses emotional metaphors ('feels like you got broken up with'), speaks from lived experience rather than theory.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It reframes the emotional gut-punch every new agent feels when their sphere doesn't choose them — and offers a way out of the spiral."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Someone in your sphere just hired another agent. And it feels like a breakup.",
+      "production_note": "Text on screen: 'Someone in your sphere just hired another agent.' Cut to Barry looking directly at camera, empathetic expression."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Barry Mill's done $40 million in Chicago real estate. And she remembers that knot in her stomach. The one you get when you find out someone you KNOW... chose someone else.",
+      "production_note": "B-roll of Chicago skyline. Cut to Barry mid-conversation, nodding knowingly. Text overlay: '$40M+ Producer'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she learned: you can't build a business on what you DON'T have. You'll spiral. You'll obsess over the one person who said no instead of the ten who haven't been asked yet. Barry's advice? 'Focus on what you do have, not on what you don't.' That friend who's always said they'd refer you? Call them. That neighbor who mentioned downsizing six months ago? Text them today. The business you're chasing is making you miss the business right in front of you.",
+      "production_note": "Show Barry speaking the quote directly. Cut to text animation: 'Focus on what you DO have.' Then split screen: left side shows 'Obsessing over 1 NO' vs right side 'Ignoring 10 YESes waiting.' End with Barry gesturing emphatically."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Because here's the truth: every top producer has lost deals to their own cousin. The difference? They didn't let it paralyze them. They went back to their list and worked what they HAD.",
+      "production_note": "Barry looking straight at camera, slight smile. Text overlay: 'Every top producer has lost deals to their own cousin.' Cut to her shrugging, matter-of-fact."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So right now. Pull up your contacts. Find three people who've said 'I'll send you business' and never did. And text them: 'Hey — still in real estate. Who do you know looking to buy or sell?' Do it today.",
+      "production_note": "Screen recording of phone contacts scrolling. Text overlay appears word-by-word: 'Text 3 people TODAY.' End with Barry nodding, confident closeup."
+    }
+  },
+  "caption": "The rejection will paralyze you if you let it. Barry Mill on what to do instead.",
+  "hashtags": [
+    "#realestatetips",
+    "#newagent",
+    "#realestatemindset",
+    "#chicagorealestate",
+    "#realtorlife"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "06:00",
+    "source_episode": "2025-12-10_item11_Bari-Mill",
+    "guest_name": "Bari Mill",
+    "generated_at": "2026-02-19T10:27:02.398884",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

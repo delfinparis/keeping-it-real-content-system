@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Show up at the development, walk the home, take it in, be there.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Direct, no-nonsense, matter-of-fact. Jill speaks in clear, actionable statements without fluff—she's a doer who teaches by telling you exactly what to do.",
+    "target_avatar": "aspiring_top_producer",
+    "why_this_stops_scrolls": "It exposes the embarrassingly simple thing separating agents who get developer deals from those who don't—and it's not what they think."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents pitch developers over email. That's why they lose.",
+      "production_note": "Text on screen: 'Most agents pitch developers over email.' Hard cut to Jill's face."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jill Preschel has done over two billion in luxury and new development transactions in New York City. And when agents ask her how to get selected by a developer, her answer sounds almost too simple.",
+      "production_note": "B-roll: NYC luxury developments, construction sites, high-rise exteriors. Text overlay: '$2B+ in transactions'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She says: 'Show up at the development, walk the home, take it in, be there.' Not a deck. Not a cold email with your stats. Physical presence. Because developers don't hire agents who can talk about the building. They hire agents who know the building. The sight lines. The finishes. The story of the space. You can't pitch what you haven't stood inside.",
+      "production_note": "Split screen: Left side shows someone typing an email (cross it out). Right side shows agent walking through a development space, touching finishes, looking out windows. Cut to Jill delivering the quote directly to camera."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "This isn't about schmoozing. It's about competence. When you show up before you're hired, you're already doing the job. And that's what separates the agents who get the listing from the ones still waiting for a callback.",
+      "production_note": "Close-up of agent confidently walking into a development sales office. Text overlay: 'Do the job before you're hired.'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your move: pick one development in your market. Walk it this week. Not to pitch—just to know it. Then tell me what you learned.",
+      "production_note": "Direct to camera. Text overlay fades in: 'Walk one development this week.' End with Jill's name and credentials."
+    }
+  },
+  "caption": "Developers don't hire the best emailer. They hire the agent who showed up.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#LuxuryRealEstate",
+    "#NewDevelopment",
+    "#TopProducer",
+    "#RealEstateTips"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "aspiring_top_producer",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "24:00",
+    "source_episode": "2025-11-21_item16_Jill-Preschel",
+    "guest_name": "Jill Preschel",
+    "generated_at": "2026-02-19T10:33:08.640429",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

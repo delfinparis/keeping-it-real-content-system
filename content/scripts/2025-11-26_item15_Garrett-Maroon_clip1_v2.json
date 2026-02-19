@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Are we going to live on purpose or on accident?",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Garrett speaks in direct, conversational language with a coach-like clarity — not preachy, but challenging. He uses rhetorical questions that land like a gentle confrontation.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It names the quiet crisis most agents live but never admit — they're being lived BY their business instead of living it."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents aren't running a business. They're being run by one.",
+      "production_note": "B-roll: Agent checking phone at dinner table, laptop open at 9pm, exhausted face in car"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "You wake up. Check your phone. Respond to clients. Show houses. Write contracts. Collapse. Repeat. That's not a business. That's a treadmill with a commission check. Garrett Maroon — top 1% in Southeast Virginia, all referral-based — asked himself one question that changed everything.",
+      "production_note": "Fast cut montage of typical agent chaos, then freeze on Garrett's face"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "\"Are we going to live on purpose or on accident?\" Most agents default to accident. They let the market set their schedule. Let clients dictate their boundaries. Let 'busy' become their identity. Garrett rebuilt his entire business around one principle: intentional design. He mapped his ideal week FIRST — family dinners, gym time, date nights — then built his client systems around that. Not the other way around. The result? Fewer transactions. Higher income. Actual life outside real estate.",
+      "production_note": "Show calendar blocking visual, family dinner scene, then split screen: chaotic agent vs. intentional agent"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Here's what nobody tells you: the agents who work the most aren't the ones who earn the most. The ones who design their business around their life — they're the ones who stay in this game for decades without burning out. You're not lazy for wanting boundaries. You're strategic.",
+      "production_note": "Close-up of agent closing laptop at 5pm, walking away with confidence"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your homework: Block out your ideal week. Not your work week — your LIFE week. Then look at your business and ask: what has to change? That's where your breakthrough starts. Full episode in bio.",
+      "production_note": "Text overlay: 'Block your life first. Build your business second.' End card with episode link"
+    }
+  },
+  "caption": "You're not too busy. You're living on accident. Here's how top 1% agents fix it.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#WorkLifeBalance",
+    "#RealEstateMindset",
+    "#TopProducer",
+    "#AgentBurnout"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "00:36:45",
+    "source_episode": "2025-11-26_item15_Garrett-Maroon",
+    "guest_name": "Garrett Maroon",
+    "generated_at": "2026-02-19T10:32:06.834372",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

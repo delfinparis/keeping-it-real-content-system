@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Focus on what you do have, not on what you don't.",
+    "clip_type": "mindset_shift",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Conversational and honest. Uses relatable metaphors ('feels like you got broken up with') and admits to personal struggles before offering wisdom.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "Every new agent has been ghosted by someone in their sphere — this reframes the pain into power."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your college roommate just bought a house. They didn't call you.",
+      "production_note": "Text on screen: 'Your college roommate just bought a house.' Pause. Then: 'They didn't call you.' Use somber music sting."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "That knot in your stomach? Bari Mill felt it too. She's now a $40 million producer in Chicago. But early on, she'd lose sleep over every friend who used another agent.",
+      "production_note": "Cut to Bari's headshot with credential overlay. Then B-roll of someone staring at phone anxiously."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She calls it the breakup feeling. Someone you've known for years ghosts you when it's time to buy. And here's what her team lead told her that changed everything: 'Focus on what you do have, not on what you don't.' Stop obsessing over the three people who didn't hire you. Start doubling down on the thirty who might. Those three? They had reasons you'll never fully understand. The thirty? They're watching to see if you quit or keep going.",
+      "production_note": "Text overlay of quote. Split screen: left side shows 3 red X's (lost deals), right side shows 30 green checkmarks (opportunities). Zoom into the 30."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Every hour you spend spiraling about rejection is an hour you're not calling the people who actually want to hear from you. The agents who win? They grieve for five minutes, then get back on the phone.",
+      "production_note": "Show timer counting down from 5 minutes. Then cut to agent picking up phone with confidence."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your move: Write down three people who DID work with you or refer you. Text them right now. Just 'Thank you.' That's the energy that builds a forty-million-dollar business.",
+      "production_note": "Screen record of typing 'Thank you' text message. End with Bari's quote on screen and show logo."
+    }
+  },
+  "caption": "Stop counting rejections. Start counting opportunities. (This mindset shift changed everything for a $40M producer)",
+  "hashtags": [
+    "#realestateminds",
+    "#newagent",
+    "#realestatemotivation",
+    "#realtorlife",
+    "#agentadvice"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "06:00",
+    "source_episode": "2025-12-10_item10_Bari-Mill",
+    "guest_name": "Bari Mill",
+    "generated_at": "2026-02-19T10:27:41.515079",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

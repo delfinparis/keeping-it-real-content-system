@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Feeling attacked doesn't mean you're weak; it means something inside of you is asking for attention.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Paul speaks in declarative statements with therapist-level clarity — direct, no fluff, naming patterns most people avoid acknowledging.",
+    "target_avatar": "team_leader",
+    "why_this_stops_scrolls": "It reframes defensiveness from a character flaw into a diagnostic signal — giving leaders permission to examine what they've been hiding from themselves."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your top agent just quit. Not because of splits — because you dismissed their pricing concern in front of the team three weeks ago.",
+      "production_note": "Hard cut. Text on screen: 'The real reason they left.' Paul direct to camera, serious tone."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Paul Salter coaches high performers on mindset and regulation. And he says that moment — when you got defensive about pricing strategy — cost you more than one agent. It cost you the truth.",
+      "production_note": "B-roll: empty desk, nameplate removed, team meeting door closing. Lower third: Paul Salter — Performance Coach."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Because here's what actually happened in that meeting. An investor questioned your market analysis. You felt your authority challenged. Your chest tightened. You interrupted with data to prove you're right. You won the argument. You lost the relationship. Paul's reframe: 'Feeling attacked doesn't mean you're weak; it means something inside of you is asking for attention.' That tightness in your chest? That's not the problem. Ignoring it and bulldozing forward — that's the pattern that's bleeding talent.",
+      "production_note": "Cut to Paul speaking. Key phrase 'asking for attention' on screen. Quick cuts: chest touch (physical cue), finger pointing across table, agent packing box, closed door."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Paul teaches a 90-second regulation technique: Notice the tightness. Name it silently — 'I feel threatened.' Take three breaths. Then ask one question: 'What if they're right?' That pause — between feeling and reacting — that's where you keep your top performers.",
+      "production_note": "Slow zoom on Paul demonstrating: hand on chest, eyes closed briefly, calm exhale. Text overlay: '1. Notice. 2. Name. 3. Breathe. 4. Ask.' Shift to grounded, teaching tone."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Before your next team meeting — tomorrow, this week, whenever it is — set a timer on your phone for 90 seconds. Practice this sequence once. Notice, name, breathe, ask. So when someone challenges your strategy mid-meeting, you have a pattern that isn't defense. You have a choice.",
+      "production_note": "Paul direct to camera. Split screen: phone timer set to 1:30, then Paul's face. Final frame: 'Set the timer now.' held for 2 seconds before end card."
+    }
+  },
+  "caption": "Your best agent didn't quit over money. They quit because you couldn't hear feedback without getting defensive.",
+  "hashtags": [
+    "#LeadershipMindset",
+    "#RealEstateLeadership",
+    "#EmotionalIntelligence",
+    "#TeamCulture",
+    "#HighPerformance"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "team_leader",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "24:28",
+    "source_episode": "2025-12-18_item7_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:23:18.960963",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:04:59.992882",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced abstract leadership language with a specific, visceral scenario (top agent quitting after dismissed pricing concern). Added Paul's actual 90-second regulation technique with concrete steps. Rewrote CTA to give immediate, physical action: set a 90-second timer before next meeting and practice the sequence once. No reflection — just rehearsal.",
+    "original_score": 6,
+    "judge_note": "Replace vague leadership language with one specific scenario (e.g., 'when your top agent quits after you dismissed their pricing concern') and give a tactical regulation technique Paul actually teaches."
+  }
+}

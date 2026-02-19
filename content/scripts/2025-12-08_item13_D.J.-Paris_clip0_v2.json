@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "I came up with Persona as a best selling novelist, a top journalist for a newspaper who wins awards for their investigative journalism...",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "D.J. speaks like a systems thinker who's reverse-engineered a problem — methodical, specific, no fluff. He talks in frameworks and persona design, not hype.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Most agents write listing descriptions like they're filling out a form — this shows how to architect them like a bestselling author would."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your listing descriptions sound like everyone else's. That's costing you showings.",
+      "production_note": "Text on screen: 'Spacious 3BR home with updated kitchen' — then REJECT stamp over it"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "D.J. Paris runs business development for a real estate tech company in Chicago. He just built an AI tool that rewrites listings — but not the way you think.",
+      "production_note": "B-roll of generic MLS listings scrolling fast, all blurring together"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he did. He told the AI: 'You're a bestselling novelist and an award-winning investigative journalist.' Not a real estate agent. A novelist who knows how to create sensory detail. A journalist who knows how to lead with the story, not the specs. Then he fed it listing data. The AI started writing descriptions that sound like someone actually wants to live there. Not 'updated kitchen' — 'the kind of kitchen where Sunday mornings stretch into afternoons.'",
+      "production_note": "Split screen: Left side shows boring MLS copy. Right side shows the AI-rewritten version appearing word by word with a typewriter effect"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Most agents write listings like they're checking boxes. You're competing with that. What if your descriptions read like the opening chapter of a book buyers can't put down?",
+      "production_note": "Close-up of phone screen — showing a listing getting multiple saves and shares"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Pull up your last listing description. Read it out loud. Does it sound like a form, or does it sound like a place someone dreams about? That's your answer.",
+      "production_note": "Freeze frame on D.J. with text overlay: 'Your words are your competitive advantage'"
+    }
+  },
+  "caption": "He told AI to write like a novelist, not an agent. The results? Listings that actually get read.",
+  "hashtags": [
+    "#RealEstateMarketing",
+    "#AIForRealtors",
+    "#ListingDescriptions",
+    "#RealEstateTools",
+    "#RealtorTips"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "03:07",
+    "source_episode": "2025-12-08_item13_D.J.-Paris",
+    "guest_name": "D.J. Paris",
+    "generated_at": "2026-02-19T10:29:39.606923",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

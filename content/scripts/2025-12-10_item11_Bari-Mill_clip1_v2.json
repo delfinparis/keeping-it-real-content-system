@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "CRM is something that is not that hard, and if I just set an alarm or a timer to input clients for 10 minutes a day, it's not that hard.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Bari speaks with practical, no-BS directness — she's confessional about what she doesn't do well, but frames solutions as achievable, not aspirational.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "A $40M producer admits she struggles with the same basic thing everyone hates — and her fix is stupidly simple, not some guru nonsense."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "A $40 million producer just admitted she's terrible at CRM.",
+      "production_note": "Text on screen: '$40M PRODUCER'. Cut to Bari's face mid-confession."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Bari Mill closes 40 million a year in Chicago. And the thing she avoids most? The same thing you do. Updating her database. But here's what she figured out.",
+      "production_note": "B-roll of Chicago skyline, then cut to Bari speaking. Text overlay: 'Chicago Top Producer'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She said: 'CRM is something that is not that hard, and if I just set an alarm or a timer to input clients for 10 minutes a day, it's not that hard.' Ten minutes. Not an hour. Not a Sunday afternoon catch-up session where you hate your life. A timer. Every day. She treats it like brushing her teeth — boring, non-negotiable, done before she can talk herself out of it.",
+      "production_note": "Show phone timer being set for 10 minutes. Cut between Bari's quote and screen recording of CRM being updated. Text overlay: '10 MINUTES. EVERY DAY.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Because the agents who do 40 million aren't superhuman. They just don't let the boring stuff pile up into a crisis. Ten minutes today beats three hours of panic next month.",
+      "production_note": "Split screen: messy CRM vs. clean CRM. Cut to Bari nodding."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So set the timer. Right now. Before you close this app. Ten minutes. See if she's right.",
+      "production_note": "Close-up of phone timer starting. Text: 'SET THE TIMER NOW.' Fade to Bari's face."
+    }
+  },
+  "caption": "40M producer admits she's bad at CRM. Her fix? 10 minutes a day. That's it.",
+  "hashtags": [
+    "#realestatetips",
+    "#CRM",
+    "#topproducer",
+    "#realestateagent",
+    "#chicagorealestate"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "39:00",
+    "source_episode": "2025-12-10_item11_Bari-Mill",
+    "guest_name": "Bari Mill",
+    "generated_at": "2026-02-19T10:27:20.644650",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Double down on your personal brand and SEO. Make sure you audit your online presence to see how you rank.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Carrie speaks with the confidence of someone who's seen every market cycle. She's direct, practical, and gives advice like she's coaching someone at her desk — no fluff, just 'here's what works.'",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Because most agents have no idea they're invisible online until they Google themselves and realize buyers found their competitor first."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're losing deals to agents who aren't better than you. They just show up first on Google.",
+      "production_note": "Text overlay: 'Google your name + realtor + your city' — show search results scrolling, cursor hovering over competitor profiles"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Carrie McCormick's closed over 300 million in real estate. And she says most agents are invisible online — and they don't even know it.",
+      "production_note": "Cut to Carrie speaking directly to camera, then quick b-roll of someone typing 'realtor near me' on phone"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she does: 'Double down on your personal brand and SEO. Audit your online presence to see how you rank.' She's talking about Googling yourself — your name plus 'realtor' plus your city. Are you on page one? Because 97% of buyers start there. And here's what kills you: outdated headshots from 2015. Three-star Google reviews you never responded to. A website that takes eight seconds to load on mobile. You're not losing to better agents. You're losing to agents who fixed those three things.",
+      "production_note": "Show Google search demo in real-time: type 'realtor + [city]', scroll to page one. Zoom in on three weak agent profiles: old photo, low reviews, slow site. Then show one optimized profile for contrast."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "This isn't about being tech-savvy. It's about being findable. You could be the best agent in your market, but if a buyer Googles 'realtor near me' and you're buried on page two with a headshot from your first brokerage, you're done before the conversation starts.",
+      "production_note": "Close-up of host or Carrie, serious tone. Cut to phone screen showing page two of search results, scrolling past buried agent profiles"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Right now — before you scroll — Google your name plus 'realtor' plus your city. Look at the first result. If your headshot is more than two years old, book a photographer today. If you have reviews under four stars, respond to every single one this week. If your website loads slow, text your web guy tonight. Pick one. Fix it by Friday. Link in bio — Carrie walks through the full system.",
+      "production_note": "Text overlay, stacked and timed with each action: '1. Book photographer TODAY' / '2. Respond to reviews THIS WEEK' / '3. Text web guy TONIGHT' — then 'Pick ONE. Fix by FRIDAY.' Final frame: 'Link in bio' with arrow"
+    }
+  },
+  "caption": "Most agents have no idea they're invisible online. Here's the 5-minute audit + the 3 fixes that matter most.",
+  "hashtags": [
+    "#realestateSEO",
+    "#realtormarketing",
+    "#personalbranding",
+    "#realestateagent",
+    "#topproducer"
+  ],
+  "content_pillar": "systems_that_scale",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "14:49",
+    "source_episode": "2025-10-29_item21_Carrie-McCormick",
+    "guest_name": "Carrie McCormick",
+    "generated_at": "2026-02-19T10:41:35.573936",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:08:23.372220",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague 'that's your starting point' CTA with three specific, time-bound actions (book photographer today, respond to reviews this week, text web guy tonight). Added concrete examples in INSIGHT (outdated headshots, unresponded reviews, slow website) per judge's feedback. Tightened SETUP and REFRAME for pacing.",
+    "original_score": 5,
+    "judge_note": "The advice is too generic—tell them the THREE specific things to fix after they Google themselves (reviews, headshot, website speed, etc.)."
+  }
+}

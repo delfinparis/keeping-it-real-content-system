@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Best advice has been always answered your phone. I think a lot of people take that for granted and it's such an easy one.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Direct and no-nonsense. Karina speaks in short, declarative statements with zero fluff — the voice of someone who's done the work and knows what actually moves the needle.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It's an almost offensively simple tactic from a top 1% producer that challenges the complexity trap most agents are stuck in."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Top 1% producer. One habit. Sounds too simple to work.",
+      "production_note": "Fast cut montage of unanswered calls, missed notifications, voicemails piling up"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "While you're chasing the next marketing hack or perfecting your Instagram grid, Karina Chavez built a referral-based empire in Albuquerque on something you learned in kindergarten.",
+      "production_note": "B-roll of Karina with clients, walking properties, genuine interactions — nothing staged"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Her advice? 'Always answer your phone. I think a lot of people take that for granted and it's such an easy one.' That's it. Not when you're free. Not when it's convenient. When it rings. Because here's what most agents miss — that call isn't interrupting your work. That call IS your work. Every unanswered ring is a client choosing someone else. Someone who picked up.",
+      "production_note": "Split screen: left side shows ignored calls going to voicemail, right side shows Karina immediately answering. Text overlay: 'That call IS your work'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You're not too busy to answer. You're too busy because you don't answer. The agents winning referrals aren't smarter or better connected. They're just... there. Present. Available. Human.",
+      "production_note": "Close-up of phone ringing, hand reaching to answer immediately. Warm, confident expression"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "This week, answer every call. Even the ones you don't recognize. Especially those. Track what happens. Then tell me complexity is your problem.",
+      "production_note": "Direct to camera, Karina's knowing look. Text overlay: 'Answer. Every. Call.'"
+    }
+  },
+  "caption": "Top 1% producer's secret? She picks up the phone. That's it. That's the tweet.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#RealestateTips",
+    "#AgentAdvice",
+    "#RealEstateSuccess"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity — agents will share this as a humble-brag ('I already do this') or as a wake-up call to their team",
+  "_metadata": {
+    "source_clip_timestamp": "06:05",
+    "source_episode": "2025-12-09_item12_Karina-Chavez",
+    "guest_name": "Karina Chavez",
+    "generated_at": "2026-02-19T10:28:20.267783",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

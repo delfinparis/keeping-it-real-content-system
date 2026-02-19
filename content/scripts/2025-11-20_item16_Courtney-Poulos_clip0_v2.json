@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "I do the most. This is my first YouTube live. I'm excited.",
+    "clip_type": "emotional_resonance",
+    "energy": "high_passionate",
+    "guest_voice": "Direct, unapologetic, energetic. She speaks in short declaratives with personality — 'I do the most' is confident self-awareness, not bragging.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It captures the exact moment when trying something new feels both terrifying and energizing — the vulnerability every agent feels when stepping outside their comfort zone to stay relevant."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "She's been crushing LA real estate for 15 years. This was her first live video.",
+      "production_note": "Split screen: polished listing photos on left, nervous/excited face on right. Text overlay: 'First YouTube Live'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Courtney Poulos runs one of LA's most respected boutique brokerages. She's been featured by LA Business Journal. And she still gets nervous trying new platforms.",
+      "production_note": "B-roll of LA luxury properties, quick cuts. Text: 'LA Business Journal Leader'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she said right before we went live: 'I do the most. This is my first YouTube live. I'm excited.' No pretending she's done it a thousand times. No fake confidence. Just real energy. Because here's the thing — she knows what most agents forget: your clients aren't looking for perfection. They're looking for someone who shows up. Who adapts. Who tries the thing everyone else is too scared to try. That's the difference between agents who survive market shifts and agents who don't.",
+      "production_note": "Show Courtney's actual quote as text overlay. Cut to her talking about AI tools. Show auto real app examples. Energy should feel raw and authentic, not overproduced."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You don't need to be the most tech-savvy agent in your market. You just need to be willing to look like a beginner in front of people. That's the actual competitive advantage.",
+      "production_note": "Close-up of host nodding. Text overlay: 'Willing to be a beginner = competitive advantage'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So what's the one platform you've been avoiding because you're scared you'll look stupid? Try it this week. Full episode link in bio — Courtney breaks down the AI tools she's actually using to stand out in LA's market.",
+      "production_note": "End card with episode thumbnail and 'Link in bio' text. Keep energy high."
+    }
+  },
+  "caption": "15 years in LA real estate. First YouTube live. That's the energy that wins. 🎥",
+  "hashtags": [
+    "#realestatetips",
+    "#realestateagent",
+    "#realestatemarketing",
+    "#luxuryrealestate",
+    "#LArealestate"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "06:54",
+    "source_episode": "2025-11-20_item16_Courtney-Poulos",
+    "guest_name": "Courtney Poulos",
+    "generated_at": "2026-02-19T10:35:10.748569",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

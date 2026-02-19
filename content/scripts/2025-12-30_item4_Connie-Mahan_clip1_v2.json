@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "We are so lucky to get to do what we do, which is help people honestly and ethically make the largest decision of their life and make sure that they do it with as little risk as possible.",
+    "clip_type": "mindset_shift",
+    "energy": "reflective_vulnerable",
+    "guest_voice": "Connie speaks with grounded warmth — conversational, specific, and unpretentious. She uses 'I mean' and 'right' as connective tissue. She's a storyteller who leads with gratitude, not ego.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It reframes burnout as a gratitude problem, not a workload problem — and that's a gut-punch for anyone who's forgotten why they started."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The REALTOR of the Year in Central Florida doesn't track her lead gen metrics first thing in the morning. She tracks this instead.",
+      "production_note": "Open on Connie's quote graphic or B-roll of her in her office. Text overlay: 'Not lead gen. This.'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Connie Mahan runs an independent brokerage in a town of 30,000 people. She trains agents. She closes deals. And she told me the one thing that's kept her from burning out in 25 years.",
+      "production_note": "Quick cuts: Connie with agents, her brokerage sign, community photos. Keep it moving — 2-3 seconds per shot max."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She said, 'We are so lucky to get to do what we do — which is help people honestly and ethically make the largest decision of their life.' Not close deals. Not hit quota. Help people. I asked her when that clicked. She told me about a buyer who was terrified — first-generation, no family to co-sign, convinced she'd be rejected. Connie walked her through every step. Pre-approval. Inspection. Closing. That buyer cried at the table. And Connie said, 'That's when I realized — this isn't a job. It's a privilege.'",
+      "production_note": "Show Connie speaking the quote if available. Cut to B-roll of her with clients, a closing table, keys being handed over. Slow the pace here — let the story breathe. Text overlay on 'privilege.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Most burned-out agents aren't doing too much. They're feeling too little. When the job becomes transactional, you lose the thing that made you good at it in the first place. Connie's secret? She never stopped seeing it as a privilege.",
+      "production_note": "Shift to direct-to-camera or contemplative B-roll — empty office at dawn, someone reviewing a contract alone, a 'SOLD' sign at dusk. Make it personal and quiet."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Here's what you do tonight: Open your phone. Scroll back to the last closing photo you took with a client. Read their face. Then text them: 'I was thinking about your closing day. How's the house treating you?' Send it before you go to bed. That's the reset. Full episode in bio.",
+      "production_note": "End on Connie's face or a freeze-frame of a client hug. Text overlay: '1. Find the photo. 2. Send the text. Tonight.' Arrow to bio link."
+    }
+  },
+  "caption": "REALTOR of the Year credits this. Not her CRM. Not her ads. This one mindset shift.",
+  "hashtags": [
+    "#realtormindset",
+    "#realestateagent",
+    "#realtorburnout",
+    "#topproducer",
+    "#gratitudeinbusiness"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "21:15",
+    "source_episode": "2025-12-30_item4_Connie-Mahan",
+    "guest_name": "Connie Mahan",
+    "generated_at": "2026-02-19T10:20:52.327658",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:11:47.542744",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague '1999 shirt sponsorship' detail with specific story of first-gen buyer crying at closing table — shows HOW gratitude changed behavior. Rewrote CTA from reflective gut-check to concrete 3-step action: find photo, text client, do it tonight. Sharpened hook with 'tracks this instead' for clearer contrast.",
+    "original_score": 5,
+    "judge_note": "The little league shirt detail is filler—replace it with a specific story of HOW gratitude changed her behavior in one transaction or tough moment."
+  }
+}

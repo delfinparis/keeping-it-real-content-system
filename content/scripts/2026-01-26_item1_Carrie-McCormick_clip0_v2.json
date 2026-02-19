@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "I think today's market is rewarding judgment over urgency and buyers are slowing down a little bit.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Carrie speaks with measured confidence — she doesn't hype, she observes. Her language is precise and strategic, like a seasoned advisor who's seen cycles shift.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It challenges the hustle-harder narrative that's burned out an entire generation of agents who've been told speed wins."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agents closing the most deals in 2026? They're the slowest ones in the room.",
+      "production_note": "Hard cut to Carrie, tight frame, direct eye contact. Text overlay: 'Slow = Strategic'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Carrie McCormick moves $100M+ in Chicago luxury every year. And she's watching a shift most agents are blind to — speed just became a liability.",
+      "production_note": "B-roll: Chicago skyline, luxury properties. Lower third: 'Carrie McCormick | $100M+ Producer'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she told me: 'Today's market is rewarding judgment over urgency. Buyers are slowing down.' They've got ChatGPT pulling comps. Zillow's algorithm. Every data point you have, they have. They don't need you to move fast — they need you to interpret clearly. Carrie's not racing to answer listing questions anymore. She's reframing them. 'Should we price at $1.2M?' becomes 'Here's what $1.2M signals to the three buyer profiles watching this neighborhood.' Pricing isn't a number — it's a positioning statement. And the agents who can translate noise into narrative? Those are the ones clients call back.",
+      "production_note": "Split screen: chaotic Zillow/data feeds on one side, Carrie speaking calmly on other. Overlay keywords: 'Judgment. Narrative. Clarity.' Cut to her at laptop with clients, pointing at specific comps."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you've been feeling like the hustle isn't landing anymore? It's not you. The market changed the rules. Clients don't want the fastest agent — they want the one who makes complexity simple.",
+      "production_note": "Slow zoom on Carrie. Text overlay: 'Advisor > Auctioneer'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Next listing appointment: before you answer 'what should we price at,' say this exact line — 'Let me show you what that number tells buyers about how we're positioning you.' Then walk them through it. That's the shift. Full breakdown in the episode — link in bio.",
+      "production_note": "End card with podcast logo and 'Link in bio' CTA. Text overlay: 'Try this line at your next appointment.' Carrie's headshot in corner."
+    }
+  },
+  "caption": "Speed used to win. Now it's a red flag. Here's what top producers say instead.",
+  "hashtags": [
+    "#RealEstateStrategy",
+    "#LuxuryRealEstate",
+    "#RealEstateAdvice",
+    "#TopProducer",
+    "#RealEstate2026"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "07:00",
+    "source_episode": "2026-01-26_item1_Carrie-McCormick",
+    "guest_name": "Carrie McCormick",
+    "generated_at": "2026-02-19T10:12:53.026898",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:07:11.907671",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Sharpened hook to be more provocative (slow = strategic). Added $100M+ credential for credibility. Made insight more specific with concrete example of reframing pricing question. Completely rewrote CTA to give exact line to use at next listing appointment with clear before/after structure — no reflection, pure action.",
+    "original_score": 6,
+    "judge_note": "The insight is strong but the CTA is a thought exercise — give them one specific thing to say differently on their next listing appointment."
+  }
+}

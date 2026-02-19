@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The best advice was literally to get in and do and the rest will figure itself out.",
+    "clip_type": "mindset_shift",
+    "energy": "matter_of_fact",
+    "guest_voice": "Connie speaks with no-nonsense directness—she's practical, grounded, and cuts through fluff with simple truths born from real experience.",
+    "target_avatar": "overwhelmed_newbie",
+    "why_this_stops_scrolls": "It gives permission to stop overthinking and just start—the exact permission paralyzed new agents desperately need but rarely hear from successful producers."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're not stuck because you don't know enough. You're stuck because you won't move.",
+      "production_note": "Hard cut to Connie. No music. Direct eye contact. Let the silence land."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Connie Mahan—REALTOR of the Year, broker owner in Central Florida—closed her first deal before she finished her first training module. That's not reckless. That's how it actually works.",
+      "production_note": "B-roll: awards, office signage, team in action. Fast cuts. Show credibility without lingering."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She says the best advice she ever got was this: 'Get in and do, and the rest will figure itself out.' Not take another certification. Not perfect your scripts. Do. She called her first expired listing with sweaty palms and a half-written script. She door-knocked a neighborhood where she mispronounced street names. She hosted an open house where exactly two people showed up. And every single one of those messy moments taught her more than any course ever could. Because you don't learn real estate in theory—you learn it in the wreckage of trying.",
+      "production_note": "Cut to Connie delivering the quote on camera. Then quick montage: shaky hand holding phone, knocking on door, empty open house with balloons. Show the reality of 'doing' visually."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you're waiting to feel confident, you've got it backwards. Confidence doesn't create action. Action creates confidence. The agent who makes fifty awkward calls will always outperform the one who rehearses the perfect pitch.",
+      "production_note": "Return to Connie. Tighter shot. Let her lean in slightly. This is the conviction moment."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow morning at 9am—not 'when you feel ready'—pull up your MLS. Find three expired listings from the last thirty days. Call them. Use this exact script: 'Hi, I saw your home didn't sell. I'd love five minutes to tell you what I'd do differently.' That's it. Three calls. 9am. Go.",
+      "production_note": "End card with text overlay: '9AM TOMORROW: 3 expired listing calls.' Connie's face visible behind text, nodding."
+    }
+  },
+  "caption": "Stop studying. Start doing. The rest figures itself out.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#NewAgentTips",
+    "#RealEstateAdvice",
+    "#RealtorLife",
+    "#JustStart"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "overwhelmed_newbie",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "04:38",
+    "source_episode": "2025-12-30_item5_Connie-Mahan",
+    "guest_name": "Connie Mahan",
+    "generated_at": "2026-02-19T10:19:50.171528",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:13:46.347708",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced vague CTA ('commit to one uncomfortable action') with hyper-specific action: exact time (9am), exact task (3 expired listing calls), exact script to use. Added concrete examples in INSIGHT (sweaty palms, mispronounced streets, two-person open house) to make 'doing' visceral and relatable. Kept strongest line about confidence. Differentiated from Script 3 by focusing on Connie's specific messy first actions rather than general momentum philosophy.",
+    "original_score": 4,
+    "judge_note": "This is nearly identical to Script 3—same guest, same quote, same message—kill one or differentiate with a completely different angle."
+  }
+}

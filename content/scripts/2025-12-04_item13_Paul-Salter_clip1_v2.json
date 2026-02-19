@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "If you're committed to your goal, the holidays, the weather, other people's actions leave you absolutely unfazed.",
+    "clip_type": "emotional_resonance",
+    "energy": "high_passionate",
+    "guest_voice": "Direct, no-nonsense coaching style with conversational intensity — uses blunt language ('jack shit'), challenges excuses head-on, speaks in declarative statements that feel like friendly confrontation.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It exposes the lie most agents tell themselves about why December doesn't count — and reframes it as the exact moment to separate from the pack."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents will lose December. You're about to understand why that's your biggest opportunity.",
+      "production_note": "Cold open on Paul mid-sentence, tight frame, intense eye contact. No music yet."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Paul Salter coaches top performers using hypnosis and mindset work. And he's watched the same pattern destroy agent momentum every single year — what he calls the holiday regression.",
+      "production_note": "B-roll: Empty office. Calendar flipping to December. Slack messages going unanswered. Subtle tension-building music begins."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what happens: 40-hour weeks become 20. Then 10. You tell yourself 'the kids have a half day' or 'it's too cold' or 'no one's buying right now anyway.' All-or-nothing thinking kicks in. If you can't do a full day, you do nothing. You open your CRM just to feel productive, but you get jack shit done. Meanwhile, buyers and sellers who need to move yesterday are getting ignored. Paul calls it interest versus commitment. And here's the line that hits: 'If you're committed to your goal, the holidays, the weather, other people's actions leave you absolutely unfazed.'",
+      "production_note": "Cut between Paul speaking and visual metaphors: agent scrolling phone at desk, CRM dashboard with declining activity, snow falling outside window. On the quote, cut to Paul direct to camera, no cuts."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "This isn't about grinding through Christmas dinner. It's about this: while everyone else uses December as an excuse, you use it as separation season. The deals are there. The motivated sellers are there. Your competition just went home.",
+      "production_note": "Shift in energy — music lifts. B-roll: Agent at open house during holidays, closing documents being signed, 'sold' sign going up with snow in background."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your move: pick three high-leverage activities. Not forty. Three. And commit to them every single day until January 2nd. DM me 'committed' and I'll send you Paul's framework for separation season.",
+      "production_note": "Paul direct to camera for final line. End card: 'DM: COMMITTED' with simple animation."
+    }
+  },
+  "caption": "While they're coasting, you're separating. December isn't downtime — it's your competitive advantage.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#SeparationSeason",
+    "#TopProducer",
+    "#AgentMindset",
+    "#RealEstateTips"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "00:23:07",
+    "source_episode": "2025-12-04_item13_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:31:24.338854",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

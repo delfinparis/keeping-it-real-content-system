@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The fortune is in the follow-up, and as much as I wish it wasn't, it's the hardest part.",
+    "clip_type": "memorable_oneliner",
+    "energy": "matter_of_fact",
+    "guest_voice": "Direct, no-BS New York pragmatism. Speaks in short, punchy sentences. Doesn't dress up hard truths.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Because every agent KNOWS follow-up matters but secretly hates doing it — and hearing a 100-deal-a-year guy admit it's his hardest part too is permission to stop pretending."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The guy closing 100 deals a year just admitted what he hates most about his job.",
+      "production_note": "Quick cut to Eithan mid-sentence, energy up. Text overlay: '100+ transactions/year'"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Eithan Davidov runs one of the top teams in Queens. Investment sales, residential, the whole game. And when I asked him what separates closers from everyone else? He didn't say prospecting. Didn't say negotiation.",
+      "production_note": "B-roll of NYC real estate — busy streets, buildings. Cut to Eithan speaking."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He said: 'The fortune is in the follow-up. And as much as I wish it wasn't, it's the hardest part.' Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready. That's where deals live or die. And here's the thing — he HATES it too. But he does it anyway. Because the agents who can't stomach the follow-up? They're the ones wondering why their pipeline's empty.",
+      "production_note": "Show Eithan's exact quote as he says it. Then cut to text overlays: 'The 3rd text.' 'The 5th email.' 'The call 3 months later.' Finish on Eithan nodding."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you're avoiding your CRM, if follow-up feels like pulling teeth — you're not broken. You're normal. The difference is the top producers do it even when it sucks. They build the system so it happens whether they feel like it or not.",
+      "production_note": "Shift tone — direct to camera or text overlay. Empathetic but firm."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Here's your homework: Open your CRM right now. Find three people you should've followed up with last month. Send them something. Anything. That's how fortunes get built. One uncomfortable text at a time.",
+      "production_note": "End on Eithan or direct-to-camera CTA. Text overlay: 'Open your CRM. Find 3 people. Send something.'"
+    }
+  },
+  "caption": "100 deals a year. Still hates follow-up. Does it anyway. That's the difference.",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#FollowUp",
+    "#TopProducer",
+    "#RealEstateSales",
+    "#AgentTips"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "19:00",
+    "source_episode": "2025-11-18_item19_Eithan-Davidov",
+    "guest_name": "Eithan Davidov",
+    "generated_at": "2026-02-19T10:37:20.614200",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

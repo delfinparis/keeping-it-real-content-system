@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The market is moving from speed to strategy; it's about judgment over urgency.",
+    "clip_type": "pattern_reveal",
+    "energy": "calm_authoritative",
+    "guest_voice": "Carrie speaks with confident clarity — direct, no fluff, using contrasts and frameworks. She's a veteran who's seen cycles and distills wisdom into memorable phrases.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It validates why agents grinding harder aren't winning anymore — and names the skill shift they need to make."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agents closing luxury deals right now aren't the ones texting back fastest.",
+      "production_note": "Text on screen: 'Fast Response ≠ Closed Deal' with a crossed-out phone notification. Quick cut to Carrie mid-sentence, serious expression."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Carrie McCormick — top 1% Chicago producer for twenty years — just named the shift that's killing hustlers and minting advisors. And most agents are still playing last year's game.",
+      "production_note": "B-roll of luxury Chicago properties. Quick stats overlay: 'Top 1% | 20+ Years | $500M+ Sold'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what she told me: 'The market is moving from speed to strategy. It's about judgment over urgency.' Here's what that looks like in real life. Last month, Carrie had a buyer ready to offer full price on a Lincoln Park condo. Inspection came back clean. Buyer's lender pre-approved. But Carrie walked them. Why? The building had two special assessments pending — $40K total — buried in the board minutes. The fast agent closes that deal and deals with the fallout. The strategic agent reads the minutes, does the math, and says 'we walk.' That's judgment. That's what clients pay six percent for in 2026.",
+      "production_note": "Split screen: Left side shows frantic 'OFFER ACCEPTED' celebration. Right side shows Carrie speaking the quote directly to camera. Then cut to document close-ups: 'Board Minutes' | 'Special Assessment Line Item' | 'Carrie's advice: Walk.' Text overlay at end: 'Strategy saved this buyer $40K.'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So if you've been wondering why working harder isn't working better — this is why. You've been optimizing for speed in a strategy game. The agents winning right now? They're the ones clients call before they call their lawyer.",
+      "production_note": "Close-up of Carrie, nodding. Text overlay: 'You've been optimizing for speed in a strategy game.' Then: 'Counsel > Hustle'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight, pull your last three closed deals. Open the inspection reports. Find one thing you didn't explain to your client that you should have. Tomorrow morning, record a 60-second video explaining that one thing. Post it. That's how you become the strategy agent. Full breakdown in bio.",
+      "production_note": "Carrie looking directly at camera. Text overlay step-by-step: '1. Pull last 3 deals' | '2. Find the missed insight' | '3. Record 60 sec video' | '4. Post tomorrow AM.' End card with episode thumbnail and link graphic."
+    }
+  },
+  "caption": "Speed used to win. Not anymore. Here's the one thing top producers do that most agents skip entirely.",
+  "hashtags": [
+    "#realestatestrategy",
+    "#topproducer",
+    "#realestateagent",
+    "#luxuryrealestate",
+    "#agentmindset"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "05:00",
+    "source_episode": "2026-01-26_item5_Carrie-McCormick",
+    "guest_name": "Carrie McCormick",
+    "generated_at": "2026-02-19T10:12:13.184190",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:13:09.580280",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Added concrete $40K special assessment story to show judgment vs. speed. Replaced vague 'ask yourself' CTA with specific 4-step action (pull deals, find insight, record video, post tomorrow). Sharpened hook to name luxury context. Kept strongest line verbatim in REFRAME.",
+    "original_score": 5,
+    "judge_note": "Give one concrete example of what 'judgment over urgency' actually looks like in a real transaction—without it, this is just motivational wallpaper."
+  }
+}

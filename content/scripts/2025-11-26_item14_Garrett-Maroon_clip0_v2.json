@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Pick a path and stay there long enough until it works.",
+    "clip_type": "memorable_oneliner",
+    "energy": "calm_authoritative",
+    "guest_voice": "Garrett speaks with quiet conviction — short, declarative sentences that land like wisdom earned through years, not theory. No fluff, no hedging.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It confronts the shiny-object syndrome that's killing most agents' careers with a brutally simple truth they don't want to hear."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're not failing because you picked the wrong strategy. You're failing because you won't stop switching.",
+      "production_note": "Text on screen: 'You're not failing because...' Tight shot of Garrett, direct to camera. Serious tone."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Garrett Maroon built a top 1% business in Southeast Virginia. And when agents ask him what finally worked, his answer pisses people off.",
+      "production_note": "B-roll: Garrett with clients, closing table shots. Text overlay: 'Top 1% Producer' then 'His answer?'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He says: 'Pick a path and stay there long enough until it works.' That's it. Not the perfect CRM. Not the hottest lead source. Not the newest AI tool. Just one strategy — relationships, door knocking, video, whatever — and the discipline to not jump ship when it feels hard at month three. Because here's what nobody tells you: every strategy works if you give it twelve months. And almost no strategy works if you give it twelve weeks.",
+      "production_note": "Show quote on screen: 'Pick a path and stay there long enough until it works.' Cut between Garrett speaking and text overlays of timeline: 'Month 3: It feels hard' vs 'Month 12: It works.' Show visual of agent jumping between tools/strategies."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "The agents who win aren't smarter than you. They're not more talented. They just stopped switching. They picked their path and stayed long enough to get good at it. That's the whole game.",
+      "production_note": "Garrett direct to camera, slower pace. Text overlay: 'They just stopped switching.' Show confident agent with clients — the 'after' state."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So what's your path? Write it down. Commit to twelve months. No switching. And if you need the full conversation on building a relationship-based business, link's in my bio.",
+      "production_note": "Text on screen: 'What's YOUR path?' then 'Commit: 12 months. No switching.' End with Garrett nodding, fade to podcast logo/link."
+    }
+  },
+  "caption": "The strategy isn't the problem. Your commitment to it is. Garrett Maroon breaks down why agents fail.",
+  "hashtags": [
+    "#realestatetips",
+    "#realestateagent",
+    "#topproducer",
+    "#realestateadvice",
+    "#agentmindset"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity — agents will share this because it validates their struggle while calling out the real issue (lack of commitment, not lack of knowledge)",
+  "_metadata": {
+    "source_clip_timestamp": "05:04",
+    "source_episode": "2025-11-26_item14_Garrett-Maroon",
+    "guest_name": "Garrett Maroon",
+    "generated_at": "2026-02-19T10:32:28.251959",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

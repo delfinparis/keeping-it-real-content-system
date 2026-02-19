@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "AI can give you information about the other person, helping you establish rapport and find common ground.",
+    "clip_type": "tactical_specificity",
+    "energy": "calm_authoritative",
+    "guest_voice": "Tim speaks like a teacher who's been in the field — methodical, specific, conversational. He builds examples step-by-step and uses 'you know' as a connector, not filler.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It reveals a specific AI tactic that turns awkward first meetings into instant connection — something every agent wishes they were better at."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Top producers walk into listing appointments already knowing what soccer team your kids play for.",
+      "production_note": "B-roll: Agent walking up to a front door confidently, split screen showing a phone with social media profiles"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Not because they stalked you for hours. Because they spent sixty seconds with AI. Tim Burrell — Raleigh's top producer — runs one prompt before every negotiation.",
+      "production_note": "Cut to Tim's headshot with credentials overlay. Show phone screen with ChatGPT interface"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He feeds AI the other person's name and social profiles. It scans their background, education, business experience. Then it compares their social media to his. Finds commonalities. Your kids both play soccer. You went to similar schools. You root for the same teams. Tim says quote, 'AI can give you information about the other person, helping you establish rapport and find common ground.' He walks in already connected.",
+      "production_note": "Screen recording of AI output showing: 'Common Ground Found: Both attended NC State, Both have daughters in club soccer, Both follow Carolina Panthers.' Overlay text highlighting key phrases"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Think about how many listings you've lost because you couldn't break the ice fast enough. Because the other agent felt like family and you felt like a stranger. That gap just closed.",
+      "production_note": "Split screen: Left side shows awkward handshake, right side shows warm conversation. Transition to confident agent"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Next appointment you have? Google their name. Feed it to ChatGPT with this prompt: 'Find three things I have in common with this person.' See what happens when you stop going in cold.",
+      "production_note": "Text overlay of exact prompt. End card: 'Try it before your next appointment' with engagement prompt"
+    }
+  },
+  "caption": "The AI prompt top producers use before every listing appointment. It's not stalking — it's smart preparation.",
+  "hashtags": [
+    "#RealEstateAI",
+    "#ListingAppointment",
+    "#RealtorTips",
+    "#NegotiationSkills",
+    "#AIForRealtors"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "15:45",
+    "source_episode": "2026-01-05_item8_Tim-Burrell",
+    "guest_name": "Tim Burrell",
+    "generated_at": "2026-02-19T10:17:04.674800",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

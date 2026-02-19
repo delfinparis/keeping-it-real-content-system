@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Mindset, skill set, repetition. You need to have a mindset shift before you can truly grow with video.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Kim speaks like a coach who's seen it all — direct, no-nonsense, using frameworks and acronyms to make complex ideas sticky. She's credible without being preachy.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It names the exact reason agents stay stuck with video — they're trying to fix a skill problem when they actually have a mindset problem."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "You're not bad at video. You just started in the wrong place.",
+      "production_note": "Text on screen: 'You're not bad at video.' Then replace with: 'You started wrong.' Quick cut to Kim."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Most agents jump straight to learning editing apps or buying ring lights. Then they wonder why they still freeze on camera. Kim Rittberg — six-time award-winning marketer who led video at Netflix — says you're skipping step one.",
+      "production_note": "B-roll: Phone with video editing apps, ring light setup. Cut to Kim's credentials on screen."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She calls it MSR: Mindset, Skill set, Repetition. And here's the thing — most agents never fix the mindset part. They think 'I'll feel confident once I'm good at it.' Backwards. Kim says: 'You need to have a mindset shift before you can truly grow with video.' That means deciding you're GOING to be someone who does video before you know how. Then you learn the skills. Then you repeat until it's automatic. Not the other way around.",
+      "production_note": "Text on screen: 'MSR Method' with each word appearing. Show Kim speaking the quote. Visual: mindset → skill set → repetition as a flow chart."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Think about it — you didn't wait to feel like a real estate expert before your first listing appointment. You decided you were an agent, then learned as you went. Video's the same. The identity shift comes first. The comfort comes later.",
+      "production_note": "Split screen: nervous first listing appointment vs. confident agent now. Then parallel to video journey."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "So here's your homework: record one video today where you introduce yourself as 'someone who does video.' Don't post it. Just say it out loud. That's step one.",
+      "production_note": "Text on screen: 'Record (don't post): I'm [name], and I do video.' Kim pointing at camera."
+    }
+  },
+  "caption": "The MSR method: why you're stuck on video (and how to fix it)",
+  "hashtags": [
+    "#realestatevideo",
+    "#agenttips",
+    "#videomarketing",
+    "#realestateagent",
+    "#contentstrategy"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity — agents will share this because it reframes their video struggle as a sequencing problem, not a talent problem, which feels solvable",
+  "_metadata": {
+    "source_clip_timestamp": "00:05:02",
+    "source_episode": "2025-11-14_item19_Kim-Rittberg",
+    "guest_name": "Kim Rittberg",
+    "generated_at": "2026-02-19T10:39:08.844449",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

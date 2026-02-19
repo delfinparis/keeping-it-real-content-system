@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Zillow honestly kind of helps save our team... we were able to diversify spread out across all of greater Los Angeles.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Jeff speaks in practical, no-BS terms — he's a 'carrot not stick' guy who focuses on solutions over theory, uses casual language ('man,' 'kryptonite'), and delivers tactical insights without pretense.",
+    "target_avatar": "team_leader",
+    "why_this_stops_scrolls": "A top 1% luxury agent admitting a platform most agents love to hate actually saved his business challenges the tribal wisdom and makes you wonder what you're missing."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "A top 1% luxury agent just said Zillow saved his team.",
+      "production_note": "Text overlay on black background: 'ZILLOW SAVED HIS TEAM' — then cut to Jeff's face mid-sentence"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Jeff Biebuyck moves luxury properties in Calabasas and Hidden Hills. When his hyper-local market got squeezed, most agents doubled down. He did the opposite.",
+      "production_note": "B-roll of luxury homes in Calabasas/Hidden Hills, then cut to Jeff speaking"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he did: Instead of fighting for scraps in one tight zip code, he used Zillow Flex to spread his team across all of Greater LA. Not as a lead gen tool — as a geographic expansion strategy. His exact words: 'Zillow honestly kind of helps save our team... we were able to diversify spread out across all of greater Los Angeles.' While other luxury agents were waiting for their micro-market to recover, Jeff's team was closing deals in six different areas.",
+      "production_note": "Show map of LA with multiple pins lighting up. Cut to Jeff's quote. Overlay text: 'DIVERSIFY = SURVIVE'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "This isn't about Zillow. It's about what happens when you stop being precious about your territory and start thinking like a business owner. Your market doesn't owe you deals. Expansion isn't betrayal.",
+      "production_note": "Close-up of Jeff, serious tone. Text overlay: 'YOUR MARKET DOESN'T OWE YOU DEALS'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "If you're a team leader and your market's contracting, ask yourself: Are you defending territory or building a business? Full episode link in bio.",
+      "production_note": "End card with Jeff's name, credentials, and episode CTA. Text: 'TERRITORY OR BUSINESS?'"
+    }
+  },
+  "caption": "Top 1% luxury agent: 'Zillow saved our team.' Here's how he used it to escape a contracting market 👇",
+  "hashtags": [
+    "#RealEstateTeams",
+    "#LuxuryRealEstate",
+    "#TeamLeader",
+    "#RealEstateBusiness",
+    "#ZillowFlex"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "team_leader",
+  "share_trigger": "debate",
+  "_metadata": {
+    "source_clip_timestamp": "28:54",
+    "source_episode": "2025-11-19_item17_Jeff-Biebuyck",
+    "guest_name": "Jeff Biebuyck",
+    "generated_at": "2026-02-19T10:37:00.091949",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

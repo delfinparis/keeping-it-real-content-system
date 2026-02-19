@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "You don't have to be the smartest person in the room. You just have to outwork the smartest person in the room.",
+    "clip_type": "memorable_oneliner",
+    "energy": "calm_authoritative",
+    "guest_voice": "Kristee speaks in declarative, no-BS statements — confident, direct, zero fluff. She doesn't inspire, she instructs.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It gives permission to stop waiting to be 'ready' and validates the power of relentless execution over credentials."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "The agent who closed four deals last month isn't smarter than you.",
+      "production_note": "B-roll: Office setting, agent celebrating at desk with 'SOLD' notifications on screen. Contrast with another agent looking frustrated."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "They just made forty-seven calls while you were rewriting your bio. Kristee Leonard — $50 million producer in Austin — doesn't win on strategy. She wins on reps.",
+      "production_note": "Cut to Kristee's headshot or footage. Text overlay: '$50M+ Producer, Austin TX' then 'REPS > STRATEGY'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "She told me: 'You don't have to be the smartest person in the room. You just have to outwork the smartest person in the room.' Translation: While they're researching the perfect CRM, you're texting twenty past clients 'Hey, who do you know moving this spring?' While they're planning their content calendar, you're recording three sixty-second neighborhood tours on your iPhone. While they're at a networking mixer, you're sending handwritten notes to your last ten closings. Smarts get you in the room. Reps win the room.",
+      "production_note": "Split screen: Left side shows 'planning/researching' (agent staring at laptop). Right side shows 'executing' (texting, filming on phone, writing notes). Text overlays of exact actions: 'Text 20 past clients' 'Record 3 tours' 'Send 10 notes'"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "You've been waiting to feel ready. To know enough. To have the right scripts. But every hour you wait, someone with half your knowledge and twice your hustle is closing YOUR deal. The learning phase is over.",
+      "production_note": "Direct to camera or Kristee footage. Slow push-in. Text overlay: 'Someone with half your knowledge and twice your hustle'"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Right now — not tomorrow, NOW — open your phone. Text five past clients this exact message: 'Quick question: who do you know thinking about moving in the next 6 months?' Send it before this video ends. That's forty-five seconds of work that beats four hours of planning.",
+      "production_note": "Screen record of phone opening messages app. Text overlay: 'TEXT 5 PAST CLIENTS NOW' with the exact message displayed. Timer counting down from 0:45."
+    }
+  },
+  "caption": "Smarts get you in the room. Reps win the room. 📲",
+  "hashtags": [
+    "#RealEstateAgent",
+    "#TopProducer",
+    "#WorkEthic",
+    "#RealEstateTips",
+    "#LuxuryRealEstate"
+  ],
+  "content_pillar": "top_producer_secrets",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "04:41",
+    "source_episode": "2026-01-22_item6_Kristee-Leonard",
+    "guest_name": "Kristee Leonard",
+    "generated_at": "2026-02-19T10:13:34.514492",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:06:54.881861",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Replaced generic 'intelligence/work ethic' closer with concrete 'Smarts get you in room, reps win room.' Transformed vague 'make ten calls tomorrow' CTA into hyper-specific 'text five past clients THIS EXACT MESSAGE right now before video ends' with 45-second urgency. Added three ultra-specific action examples (text 20 past clients with exact wording, record 3 iPhone tours, send 10 handwritten notes) to replace abstract comparisons.",
+    "original_score": 6,
+    "judge_note": "This is the third script using the same quote — kill two of them or differentiate the angles completely because right now they're cannibalizing each other."
+  }
+}

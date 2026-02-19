@@ -1,0 +1,56 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "You can have AI do exactly what you were saying, start interpreting data in my local market.",
+    "clip_type": "tactical_specificity",
+    "energy": "matter_of_fact",
+    "guest_voice": "Chris speaks in practical, conversational language — no fluff, just direct application. He connects big concepts to ground-level reality.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "Most agents think AI is for tech bros — this shows the exact real estate use case they're missing right now."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Every agent has access to the same MLS data. But only 3% know how to actually use it.",
+      "production_note": "B-roll: Screen recording of cluttered MLS interface with dozens of tabs open, data overload"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Chris Linsell is a real estate tech analyst in Michigan. And he just dropped the simplest AI tactic I've heard for agents drowning in market data they can't interpret fast enough.",
+      "production_note": "Cut to Chris speaking on camera, then back to host. Graphics: 'Chris Linsell — Real Estate Tech Analyst'"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he said: 'You can have AI do exactly what you were saying — start interpreting data in my local market.' Not writing listing descriptions. Not generating social posts. Interpreting YOUR market data. Feed ChatGPT your local sold comps, days on market, price trends. Ask it: 'What pattern am I missing?' Or: 'Why are homes under 300K moving faster in zip code 48374?' It'll spot the trend you've been staring past for three months.",
+      "production_note": "Screen recording: ChatGPT interface with real estate data being pasted in, then AI response highlighting a specific trend. Text overlay of key prompts."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "This isn't about replacing your expertise. It's about having a data analyst in your pocket who works for free. While other agents are guessing, you're walking into listing appointments with insights they didn't even know existed.",
+      "production_note": "Split screen: 'Other agents' (generic stock footage) vs 'You' (confident agent with tablet showing data visualization)"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Pull your last 90 days of sold data tonight. Drop it into ChatGPT. Ask one question about your market. See what it tells you. That's your listing presentation for tomorrow.",
+      "production_note": "Text overlay: 'Tonight: 1. Export 90 days sold data 2. Paste into ChatGPT 3. Ask: What pattern am I missing?' Fade to podcast logo"
+    }
+  },
+  "caption": "AI isn't for writing captions. It's for reading your market faster than your competition.",
+  "hashtags": [
+    "#RealEstateAI",
+    "#MLSData",
+    "#RealEstateAgent",
+    "#MarketAnalysis",
+    "#RealtorTech"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "35:31",
+    "source_episode": "2025-12-22_item6_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:21:33.981234",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "The barrier to entry to our industry has to be a little bit higher.",
+    "clip_type": "contrarian_take",
+    "energy": "calm_authoritative",
+    "guest_voice": "Chris speaks in big-picture systems thinking — he builds arguments methodically, uses phrases like 'hear me out,' and isn't afraid to say the unpopular thing if it's right.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It says out loud what frustrated veterans think privately — that low barriers let in agents who hurt the profession's credibility and make everyone's job harder."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "A real estate tech analyst just said the quiet part out loud: it should be harder to become a REALTOR.",
+      "production_note": "Bold text overlay: 'HARDER TO BECOME A REALTOR?' over B-roll of crowded new agent orientation or license exam classroom"
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Chris Linsell analyzes real estate tech and industry trends for a living. And he thinks the NAR's biggest opportunity isn't marketing or member perks — it's raising the bar to get licensed.",
+      "production_note": "Show Chris speaking, cut to NAR logo, then back to Chris with serious expression"
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's his argument: NAR should partner with state regulators to actually raise licensing standards. Not just enforce ethics after someone screws up — but make it harder to get in. 'The barrier to entry to our industry has to be a little bit higher,' he says. Right now, Texas requires 180 hours. California requires 135. But Alabama? Sixty hours. Georgia? Seventy-five. That's less time than it takes to become a licensed barber. And these people are representing someone's $400,000 life decision. That's the problem.",
+      "production_note": "Show verbatim quote as text overlay. Cut to map showing state requirements, then split-screen: barber license hours vs. real estate license hours. End on Chris shaking his head"
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "If you've been in this business for years — watching part-timers ghost clients mid-transaction and tank your reputation by association — this isn't controversial. It's overdue. The profession doesn't earn respect until the profession demands competence at the door.",
+      "production_note": "Show frustrated veteran agent at desk, then confident professional agent handing keys to grateful clients"
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Here's what to do: go to your state REALTOR association's website right now. Find the 'advocacy' or 'legislative priorities' page. If raising licensing standards isn't on there, email your government affairs director this week and ask why not. That's how change starts.",
+      "production_note": "Text overlay: '1. Go to state association site 2. Find advocacy page 3. Email gov affairs director' — show cursor clicking through example state site"
+    }
+  },
+  "caption": "Chris Linsell said what burned-out veterans are thinking: it should be harder to get licensed. Alabama requires 60 hours. Barbers need more.",
+  "hashtags": [
+    "#RealEstateStandards",
+    "#NAR",
+    "#RealtorLife",
+    "#RealEstateProfessional",
+    "#IndustryDebate"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "debate",
+  "_metadata": {
+    "source_clip_timestamp": "00:25:03",
+    "source_episode": "2025-12-22_item5_Chris-Linsell",
+    "guest_name": "Chris Linsell",
+    "generated_at": "2026-02-19T10:22:16.781411",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:05:15.485989",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Added specific state licensing hour comparisons (Texas 180 vs Alabama 60) and barber license contrast to make the insight concrete. Replaced vague 'ask yourself' CTA with a three-step action: visit state association site, find advocacy page, email director this week. Sharpened reframe to focus on reputation damage from incompetent peers.",
+    "original_score": 6,
+    "judge_note": "The insight section is too abstract—add one specific licensing requirement Chris advocates for (hours? exam difficulty? mentorship?) and contrast it with one state's current laughably low bar."
+  }
+}

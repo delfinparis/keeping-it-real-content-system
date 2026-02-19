@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "You are programmed to survive. You are not programmed to thrive.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Paul speaks like a therapist who's done the work himself — measured, precise, using metaphors (iceberg) and building logical frameworks. No fluff, no motivational platitudes.",
+    "target_avatar": "burned_out_veteran",
+    "why_this_stops_scrolls": "It reframes burnout not as a personal failure but as biology working exactly as designed — which means there's a way to override it."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Your brain is sabotaging every follow-up call you don't make.",
+      "production_note": "Black screen. White text. Stark. No music yet. Each word appears individually for emphasis."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Paul Salter's a performance coach who uses hypnosis with top producers. And he says the reason you avoid your database, say yes to every demanding client, and can't set boundaries? It's not discipline. It's your brain doing its job.",
+      "production_note": "Cut to Paul speaking. Tight frame. Serious energy. Subtle music bed begins — low, ambient."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he means. Your subconscious — 90% of your mind — runs on one job: keep you alive. Not happy. Not wealthy. Alive. So every time you try something that feels risky — calling a cold lead, saying no to a 9pm showing, raising your commission — your brain reads it as danger. And it pulls you back to what's familiar. What's safe. What's predictable. Paul puts it like this: 'You are programmed to survive. You are not programmed to thrive.' That's why you keep avoiding the same calls. It's not you. It's your wiring.",
+      "production_note": "B-roll: iceberg visual, agent staring at phone screen paralyzed, hand hovering over 'call' button but not pressing. Cut back to Paul for the quote. Let it land. Hold on his face for two beats."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "Which means if you want different results, you don't need another motivational speech. You need to rewire the pattern. That's what Paul does with memory reconsolidation — he helps your brain update the threat assessment. So follow-up calls stop feeling like danger and start feeling like opportunity.",
+      "production_note": "Visual shift: split screen showing 'before' (agent stressed, phone down) and 'after' (agent calm, dialing). Then back to Paul, leaning in slightly."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow morning, before you check email, open your CRM. Find three clients you haven't talked to in 90 days. Call the first one. Not to sell. Just to check in. That's the pattern interrupt. One call. Tomorrow. Do it.",
+      "production_note": "Paul direct to camera. No cuts. Hold the frame. Text overlay appears as he speaks: 'Tomorrow: 3 names. 1 call.' Fade to black with final text: 'Break the pattern.'"
+    }
+  },
+  "caption": "Your brain isn't broken. It's doing exactly what it was designed to do: keep you safe. Not successful. Safe.",
+  "hashtags": [
+    "#RealEstateMindset",
+    "#BurnoutRecovery",
+    "#SubconsciousMind",
+    "#PerformanceCoaching",
+    "#RealtorLife"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "burned_out_veteran",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "06:19",
+    "source_episode": "2026-01-29_item2_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:10:27.826097",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:07:46.862465",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Sharpened hook to name the specific behavior (follow-up avoidance). Added concrete examples in SETUP (database avoidance, boundary issues). Replaced vague 'update the code' metaphor with specific outcome (threat assessment shift). Completely rewrote CTA to give exact action: open CRM tomorrow morning, find 3 names, call 1 person. Made it a command, not a question.",
+    "original_score": 6,
+    "judge_note": "The CTA is too vague ('what behavior keeps showing up') — give one specific example pattern that burned-out veterans will recognize instantly (like avoiding follow-up calls or saying yes to every client)."
+  }
+}

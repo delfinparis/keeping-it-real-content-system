@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "These next few months, the winter months, the holiday season, if you will... view it as separation season.",
+    "clip_type": "mindset_shift",
+    "energy": "calm_authoritative",
+    "guest_voice": "Paul speaks in deliberate, almost cinematic language — he builds tension slowly, uses pauses for emphasis, and frames concepts like a coach painting a vision rather than delivering bullet points.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It weaponizes guilt around the exact moment most agents are already rationalizing why they're about to coast — and reframes their biggest excuse into their biggest opportunity."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "While you're planning to coast through the holidays, someone else is planning to bury you.",
+      "production_note": "B-roll: Split screen — one agent closing laptop early, another making calls at dusk. Tension in the edit."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "Every December, same story. Market slows. Competitors disappear. You tell yourself you'll go hard in January. Paul Salter, mindset coach to top producers, calls BS on that story.",
+      "production_note": "Cut to Paul on camera. Clean background. Direct eye contact."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "He says these next few months — the winter months, the holiday season — view it as separation season. Not downtime. Separation season. Because while 80% of agents are using the holidays as an excuse, the top 5% are using it as a weapon. They're calling past clients who closed six months ago. They're texting sphere contacts who haven't heard from them since summer. They're door-knocking expired listings on Saturday mornings when no one else will. They're building the pipeline that explodes in Q1 while everyone else is scrambling. The gap between you and them? It doesn't widen in January. It widens right now.",
+      "production_note": "Text on screen: 'SEPARATION SEASON' in bold. Cut between Paul speaking and footage of agents working — calls, open houses in winter, follow-up texts at night."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "So the question isn't whether the market slows down. It's whether you do. Because every year you coast through December, you're not just losing a month. You're losing the compounding advantage of being the only one still showing up.",
+      "production_note": "Close-up on Paul. Slow zoom. Let the weight sit."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tomorrow morning, open your CRM. Pull every past client who closed in the last 12 months. Send them a personal voice note — 15 seconds — checking in. Not selling. Just showing up. Do that before lunch. That's separation. Full episode in bio.",
+      "production_note": "End card: 'SEPARATION SEASON' with podcast logo and link. Text overlay: 'Pull last 12 months → Voice note → Before lunch.' Subtle motion graphic."
+    }
+  },
+  "caption": "December isn't downtime. It's separation season. Are you widening the gap or falling behind?",
+  "hashtags": [
+    "#SeparationSeason",
+    "#RealEstateAgent",
+    "#TopProducerMindset",
+    "#RealEstateTips",
+    "#Q1Prep"
+  ],
+  "content_pillar": "real_talk",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "identity",
+  "_metadata": {
+    "source_clip_timestamp": "00:04:03",
+    "source_episode": "2025-12-04_item14_Paul-Salter",
+    "guest_name": "Paul Salter",
+    "generated_at": "2026-02-19T10:30:21.896860",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:10:22.464194",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Added concrete examples to INSIGHT (past clients, sphere, expireds) and completely rewrote CTA with specific action steps: open CRM, filter last 12 months, send voice note, deadline before lunch. Turned vague 'five calls' into a tactical play they can execute immediately.",
+    "original_score": 5,
+    "judge_note": "Five calls to WHO about WHAT—expired listings, past clients, sphere—specificity turns this from a 5 to an 8."
+  }
+}

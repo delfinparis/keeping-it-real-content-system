@@ -1,0 +1,61 @@
+{
+  "clip_assessment": {
+    "verbatim_quote": "Think about tools that would be helpful for your clients... you can pump this into any web page because it's just custom code.",
+    "clip_type": "mindset_shift",
+    "energy": "matter_of_fact",
+    "guest_voice": "D.J. speaks like a tech-savvy operator who's figured out shortcuts — practical, conversational, zero pretense. He shares discoveries like a friend showing you a life hack.",
+    "target_avatar": "stuck_intermediate",
+    "why_this_stops_scrolls": "It flips the 'I need to pay for tools' mindset into 'I can BUILD tools' — and reveals it's easier than most agents think."
+  },
+  "script": {
+    "HOOK": {
+      "timing": "0:00-0:03",
+      "text": "Most agents pay for tools. Top producers build them.",
+      "production_note": "Split screen: Left side shows SaaS subscription invoices stacking up ($49/mo, $99/mo, $149/mo visible). Right side shows a custom tool interface with agent's branding."
+    },
+    "SETUP": {
+      "timing": "0:03-0:12",
+      "text": "D.J. Paris runs recruitment and AI strategy for a Chicago brokerage. Last month he built a custom mortgage affordability calculator for his agents. Took him 47 minutes. Zero coding experience. And now his agents look like wizards to their buyers.",
+      "production_note": "B-roll of D.J.'s actual mortgage calculator tool. Show the clean interface, sliders moving, results calculating in real-time. Show his brokerage logo in the corner."
+    },
+    "INSIGHT": {
+      "timing": "0:12-0:38",
+      "text": "Here's what he did: He opened ChatGPT and typed, 'Build me an HTML mortgage calculator that shows monthly payment, required income, and down payment scenarios for Chicago buyers.' ChatGPT wrote the code. He copied it. Pasted it into a free Carrd page. Fifteen minutes of tweaking the colors and adding his logo. Done. He's not talking about hiring a dev team. He's talking about the fact that AI will write functional code for you in 90 seconds. Mortgage calculator? Done. Neighborhood comparison tool? Done. School district report generator? Done. You own it. You control it. Your branding. Your client data. No monthly subscription bleeding you dry.",
+      "production_note": "Screen recording showing the ACTUAL ChatGPT prompt typed out word-for-word. Show ChatGPT generating the code. Show him copying it. Show him pasting into Carrd. Show the live tool working with real Chicago numbers. Fast cuts but clear enough to follow."
+    },
+    "REFRAME": {
+      "timing": "0:38-0:50",
+      "text": "This isn't about being tech-savvy. It's about realizing the barrier between 'I wish I had that' and 'I built that' just collapsed. Every tool you wish existed? You can build it this week. And your clients will think you hired a developer.",
+      "production_note": "Show three different custom tools in action — mortgage calculator, neighborhood comparison, market report generator. Each one solving a specific client pain point. Agent branding visible on each. Fast cuts, energy building."
+    },
+    "CTA": {
+      "timing": "0:50-0:60",
+      "text": "Tonight before bed: Open ChatGPT. Type this exact prompt: 'Build me an HTML tool that calculates monthly mortgage payments with sliders for price, down payment, and interest rate.' Copy the code it gives you. Paste it into Carrd.co—it's free. Tomorrow, text it to your next buyer. That's it. That's the assignment.",
+      "production_note": "Text overlay showing the exact prompt typed out clearly. Then show the three steps as bullet points: 1) Open ChatGPT 2) Use this prompt 3) Paste into Carrd. D.J. to camera for last line, direct eye contact."
+    }
+  },
+  "caption": "D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Here's the exact prompt he used.",
+  "hashtags": [
+    "#RealEstateAI",
+    "#AgentTools",
+    "#RealEstateTech",
+    "#RealtorLife",
+    "#AIForRealtors"
+  ],
+  "content_pillar": "ai_agent",
+  "target_avatar": "stuck_intermediate",
+  "share_trigger": "utility",
+  "_metadata": {
+    "source_clip_timestamp": "13:00",
+    "source_episode": "2025-10-28_item23_D.J.-Paris",
+    "guest_name": "D.J. Paris",
+    "generated_at": "2026-02-19T10:42:16.637511",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:01:29.749891",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Added specificity throughout: named the exact tool (mortgage calculator), exact time (47 minutes), exact prompt D.J. used, and exact platform (Carrd). Completely rewrote CTA from vague 'think of something' to concrete 'tonight, use this exact prompt, paste into this free tool, text it tomorrow.' Kept strongest hook verbatim.",
+    "original_score": 6,
+    "judge_note": "The hook is strong but the middle is too vague—name ONE specific tool he built and show the exact AI prompt he used to build it."
+  }
+}
