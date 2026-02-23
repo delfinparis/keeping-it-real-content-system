@@ -2,17 +2,18 @@
 
 ## How to Use This Prompt
 
-1. Open a **new Claude.ai conversation** (fresh context, full 200k window)
-2. Paste ONE batch of scripts (e.g., scripts_01-20.md) as your first message
-3. Then paste this entire prompt below as your second message
-4. Repeat for each batch of 20
-5. After all 5 batches are polished, run the RANKING PROMPT at the bottom in a fresh session
+1. Open a **new Claude.ai conversation** (Projects recommended — keeps context persistent)
+2. Paste the entire contents of **ALL_100_SCRIPTS.md** as your first message
+3. Paste this entire prompt as your second message
+4. Claude will polish all 100 scripts, score them, and produce the full ranking in one session
+
+> **Note:** ALL_100_SCRIPTS.md is ~40,000 words / ~50,000 tokens. Claude.ai's 200k context window handles this comfortably, but use claude.ai (not the API) to get the full window. If the output gets truncated, ask "continue from script #[X]" and it will pick up exactly where it left off.
 
 ---
 
 ## THE POLISH PROMPT
 
-(Paste this after pasting the script batch)
+(Paste this after pasting ALL_100_SCRIPTS.md)
 
 ---
 
@@ -125,13 +126,13 @@ Process all scripts in the batch this way, then at the end of the batch provide:
 
 ---
 
-## SEPARATE: THE RANKING PROMPT
+## STEP 2: THE RANKING PROMPT
 
-(Use this in a fresh session AFTER all 5 batches have been polished)
+(Send this as a **third message** in the same session, after the polish is complete)
 
 ---
 
-Below are the polished versions of all 100 "AI Agent Minute" scripts for D.J. Paris.
+You've now polished all 100 "AI Agent Minute" scripts for D.J. Paris. Using the polished versions you just produced:
 
 You are acting as:
 - The Executive Producer who has to select the **first 33 scripts to film** (representing 11 weeks of 3x/week content)
