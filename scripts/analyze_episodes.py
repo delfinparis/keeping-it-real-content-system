@@ -299,7 +299,9 @@ Focus on extracting ACTIONABLE, SPECIFIC insights. Avoid generic advice. Look fo
 Return ONLY valid JSON, no additional text."""
 
 
-VIDEO_SCRIPT_PROMPT = """Based on this clip-worthy moment from a real estate podcast, create a 60-second video script.
+VIDEO_SCRIPT_PROMPT = """You are an expert short-form video script writer for D.J. Paris, VP of Business Development at Kale Realty and host of Keeping It Real Podcast (700+ episodes, 3.2M+ downloads).
+
+Based on this clip-worthy moment from a real estate podcast episode, create a 60-90 second video script.
 
 CLIP INFO:
 - Quote/Moment: {quote}
@@ -309,22 +311,44 @@ CLIP INFO:
 - Guest: {guest_name}
 - Episode Topic: {episode_topic}
 
-Create a script following this EXACT format:
+---
 
-**HOOK (0:00-0:08)**
-[Pattern interrupt — surprising statement, question, or bold claim that stops the scroll]
+MANDATORY STRUCTURE (in this exact order — do not reorder):
 
-**SETUP (0:08-0:18)**
-[Context — who is this about, what's the situation, why should they care]
+**HOOK (0:00–0:08)**
+The FIRST words out of D.J.'s mouth. No name, no setup. A pattern interrupt — surprising statement, bold claim, or question that stops the scroll. Under 15 words. Opens a curiosity gap the rest of the video must close.
 
-**INSIGHT (0:18-0:40)**
-[The meat — the actual advice, tactic, or story. Be specific and tactical.]
+**BRAND INTRO (0:08–0:12)**
+Exactly this line, said quickly and naturally: "This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day."
 
-**REFRAME/APPLICATION (0:40-0:52)**
-[Why this matters, how to apply it to their business]
+**SETUP (0:12–0:22)**
+Context — who said this, where it came from, why it matters. Create a "mirror moment": describe the viewer's specific situation so precisely they think "that's me." Name the pain. Do NOT give the solution yet.
 
-**CTA (0:52-0:60)**
-[What to do next — question to ponder, action to take, or invitation to engage]
+**INSIGHT (0:22–0:45)**
+The actual advice, tactic, or story from the guest. Be specific and tactical. Use the guest's real words where possible. Add [ON-SCREEN: key phrase or stat] markers at every key beat for muted viewers. If there's a contrast, use it: "Most agents do X. Top producers do Y."
+
+**REFRAME/APPLICATION (0:45–0:55)**
+Why this matters right now. How to apply it this week. "You can do this today." Include a credibility signal where natural (e.g., "This agent closed 47 deals last year using exactly this approach").
+
+**CTA (0:55–1:00+)**
+One specific question that invites a comment. Make it easy and direct — not open-ended. Example: "Are you doing this already — yes or no?" or "Which part hits closest to home — drop it below."
+
+**CLOSE**
+Exactly this line: "See you next time."
+
+---
+
+ENGAGEMENT PRINCIPLES — apply all of these:
+
+1. CURIOSITY GAP — The hook opens a loop. Don't close it until INSIGHT. The viewer must keep watching to get the answer.
+2. 15-SECOND RE-HOOK — At the end of SETUP, add a line that re-engages anyone who almost swiped away. Example: "But here's the part nobody talks about..."
+3. MIRROR MOMENT — Recreate the viewer's exact frustration. "You're reaching out to your database but nobody's responding" hits harder than "agents struggle with follow-up."
+4. CONTRAST STRUCTURE — Use "Most agents do X. Top producers do Y." wherever it fits naturally.
+5. HYPER-SPECIFIC NUMBERS — Vague claims die. Specific numbers live. "3 listings" beats "more listings." "$47,000" beats "significant income."
+6. ON-SCREEN TEXT — Add [ON-SCREEN: ...] markers at every key beat. 80%+ of viewers watch on mute.
+7. SHAREABLE MOMENT — Engineer one sentence in INSIGHT or REFRAME so quotable a viewer would screenshot it.
+8. EMOTIONAL ARC — Guide the viewer: Curious (HOOK) → Seen (SETUP) → Enlightened (INSIGHT) → Motivated (REFRAME) → Engaged (CTA).
+9. PACING NOTES — HOOK is punchy, under 12 words. BRAND INTRO is said fast, almost in passing. INSIGHT can breathe and take its time.
 
 ---
 
@@ -332,6 +356,7 @@ Also provide:
 - CAPTION: A short caption for social media (under 150 characters)
 - HASHTAGS: 5 relevant hashtags
 - CONTENT_PILLAR: One of [ai_agent, top_producer_secrets, real_talk, market_intelligence, systems_that_scale]
+- SHAREABLE_MOMENT: The one sentence from the script most likely to be screenshotted or shared
 
 Return the script in a clean, readable format."""
 
