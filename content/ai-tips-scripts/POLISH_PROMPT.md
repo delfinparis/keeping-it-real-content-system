@@ -52,26 +52,37 @@ Apply all expert perspectives to produce a polished, camera-ready script.
 
 **MANDATORY ELEMENTS IN EVERY SCRIPT:**
 
-**OPENING BRAND LINE** — Every script must open with:
-> *"This is D.J. Paris with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute."*
+**SCRIPT STRUCTURE — NON-NEGOTIABLE ORDER:**
 
-This line should feel like a natural signature — not a legal disclaimer. It should be warm and confident, as if D.J. is settling in to share something good.
+```
+1. HOOK          — First sentence. Stops the scroll. No name, no setup.
+2. BRAND INTRO   — "This is D.J. Paris with Keeping It Real Podcast
+                    and Kale Realty, and this is your AI Agent Minute."
+3. PROBLEM       — The specific mistake most agents make. Blunt.
+4. AI FIX        — The solution. Tool named. Exact prompt shown.
+5. REFRAME       — Why this matters to their business or life.
+6. CTA           — One specific question or action.
+7. CLOSE         — "See you next time."
+```
 
-**CLOSING LINE** — Every script must end with:
-> *"See you next time."*
+**WHY THIS ORDER:** The hook earns the viewer's attention in the first 1.5 seconds — before they know or care who D.J. is. The brand intro lands only after the viewer is already hooked and leaning in. It then functions as a warm, confident "here's who's bringing you this" moment rather than a corporate ID tag over a cold open. Think of it like a late-night monologue: the joke lands first, then the host owns the room.
 
-This can have a small beat before it — a pause, a smile moment, a callback to the hook — but it should always land on "see you next time."
+**THE HOOK** — One sentence maximum. Must work as a standalone thought that makes someone stop scrolling. No warm-ups ("Today I want to talk about..."), no name-drops, no throat-clearing. The hook should make the viewer think "wait — what?" or "that's exactly my problem" or "I didn't know that." It must be the single most interesting thing in the script, delivered first.
 
-**LENGTH** — Scripts should be 150–200 words spoken (60–90 seconds at natural delivery pace). If the original script had a great tip that deserved more room, give it room. Don't pad — but don't cut good material just to hit 60 seconds.
+**THE BRAND INTRO** — Exactly: *"This is D.J. Paris with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute."* Deliver it warm and confident — like D.J. is settling in to share something good with a peer. Not a disclaimer. Not a TV station ID. A human who just earned your attention telling you who they are.
+
+**THE CLOSE** — End on: *"See you next time."* This can have a small beat before it — a callback to the hook, a smile moment, a one-liner — but always lands on "see you next time." It's the signature. It trains the audience to want the next one.
+
+**LENGTH** — 150–200 words spoken (60–90 seconds at natural delivery pace). If the tip deserves more room, use it. Don't pad — but don't cut good material just to hit 60 seconds.
 
 **POLISH STANDARDS:**
-- The hook must be the single most attention-grabbing sentence possible — no warm-ups, no "hey guys," no setup before the setup
-- The on-screen title (Do X — Not Y — To Get Z) should be revised if it can be sharper (under 10 words is ideal)
-- Every AI tool reference must include a brief "here's exactly what to type" moment — not just "use Claude" but a specific prompt or instruction
-- The CTA must be specific: not "let me know below" but a direct question or invitation that makes someone want to reply
-- Natural speech rhythm — use dashes for pauses, shorter sentences for emphasis, longer sentences for explanation
-- Conversational but authoritative — like a really smart friend who happens to know this cold
-- Zero filler phrases: "really," "basically," "kind of," "you know," "like," "right?" — cut all of them
+- Hook must be the single most attention-grabbing sentence possible — no warm-ups, no "hey guys," no setup before the setup
+- On-screen title (Do X — Not Y — To Get Z) should be revised if it can be sharper (under 10 words)
+- Every AI tool reference must include a "here's exactly what to type" moment — not just "use Claude" but a specific prompt or instruction
+- CTA must be specific: a direct question that makes someone want to reply, not "let me know below"
+- Natural speech rhythm — use dashes for pauses, shorter sentences for emphasis
+- Conversational but authoritative — a really smart friend who knows this cold
+- Zero filler phrases: "really," "basically," "kind of," "you know," "like," "right?" — all cut
 - No passive voice in hook or CTA
 - No clichés: "game-changer," "unlock," "level up," "supercharge," "revolutionize" — banned
 
@@ -98,17 +109,17 @@ After each rewrite, add a one-line "PRODUCER NOTE" flagging:
 
 **FULL POLISHED SCRIPT (spoken, word-for-word):**
 
+*[HOOK — one sentence, no name, no intro]*
+
 *"This is D.J. Paris with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.*
 
-[HOOK]
+*[PROBLEM — the specific mistake, blunt and relatable]*
 
-[PROBLEM]
+*[AI FIX — tool named, exact prompt shown]*
 
-[AI FIX — with specific prompt example]
+*[REFRAME — why this matters]*
 
-[REFRAME]
-
-[CTA — specific, direct]
+*[CTA — specific question or direct invitation]*
 
 *See you next time."*
 
