@@ -1,0 +1,20 @@
+{
+  "polished_script": "HOOK: Most agents pay for tools. Top producers build them in under an hour. [ON-SCREEN: \"TOP PRODUCERS BUILD TOOLS\"]\n\nBRAND INTRO: \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\"\n\nSETUP: You're spending hundreds monthly on mortgage calculators, CMA tools, client apps. Your buyers are using Zillow because your brokerage tools look like they're from 2015. Meanwhile you're watching other agents somehow have these amazing custom tools that make them look like tech wizards. [ON-SCREEN: \"SPENDING $100s ON TOOLS\"]\n[15-SEC RE-HOOK]: But here's what nobody's telling you about how those tools actually get built.\n\nINSIGHT: Last month I built a custom mortgage affordability calculator for our agents. Took me 47 minutes. Zero coding experience. I opened ChatGPT and typed: 'Build me an HTML mortgage calculator that shows monthly payment, required income, and down payment scenarios for Chicago buyers.' [ON-SCREEN: \"47 MINUTES, ZERO CODING\"] ChatGPT wrote the code in 90 seconds. I copied it, pasted it into a free Carrd page, spent 15 minutes tweaking colors and adding our logo. Done. [ON-SCREEN: \"AI WRITES CODE IN 90 SECONDS\"] Now our agents text this to buyers and look like they hired a developer. Mortgage calculator? Done. Neighborhood comparison tool? Done. School district generator? Done. You own it, control it, brand it. [ON-SCREEN: \"YOU OWN IT, YOU CONTROL IT\"]\n\nREFRAME: The barrier between 'I wish I had that tool' and 'I built that tool' just collapsed. Every subscription bleeding you dry can be replaced with something you actually own. Your clients will think you're a tech genius.\n\nCTA: \"Are you going to try building your first tool this week — yes or no?\"\n\nCLOSE: \"See you next time.\"\n\n---\n\nCAPTION: Most agents pay for tools. Top producers build them with AI in under an hour. Here's exactly how I did it with zero coding experience.\n\nHASHTAGS: #RealEstate #AI #PropTech #RealEstateTools #ChatGPT\n\nSHAREABLE_MOMENT: \"The barrier between 'I wish I had that tool' and 'I built that tool' just collapsed.\"\n\nPERFORMANCE_NOTES: \n1. Emphasize \"47 minutes\" and \"90 seconds\" with slight pauses — these specific timeframes are credibility gold\n2. Speed up delivery during the ChatGPT prompt section to show how fast/easy it is\n3. Strong eye contact on \"You own it, control it, brand it\" — this is the key differentiator from subscriptions",
+  "_metadata": {
+    "source_clip_timestamp": "13:00",
+    "source_episode": "2025-10-28_item23_D.J.-Paris",
+    "guest_name": "D.J. Paris",
+    "generated_at": "2026-02-19T10:42:16.637511",
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v2",
+    "rewritten_at": "2026-02-19T11:01:29.749891",
+    "rewrite_version": "v2.1",
+    "rewrite_changelog": "Added specificity throughout: named the exact tool (mortgage calculator), exact time (47 minutes), exact prompt D.J. used, and exact platform (Carrd). Completely rewrote CTA from vague 'think of something' to concrete 'tonight, use this exact prompt, paste into this free tool, text it tomorrow.' Kept strongest hook verbatim.",
+    "original_score": 6,
+    "judge_note": "The hook is strong but the middle is too vague—name ONE specific tool he built and show the exact AI prompt he used to build it.",
+    "polished_at": "2026-02-23T10:56:21.941043",
+    "polish_version": "v3",
+    "source_version": "v2",
+    "source_file": "2025-10-28_item23_D.J.-Paris_clip1_v2.json"
+  }
+}
