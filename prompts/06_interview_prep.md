@@ -299,7 +299,31 @@ For each: show name, approximate date, topics covered. Note overasked questions 
 
 ---
 
-### SECTION 5: YOUTUBE CHAPTER MARKERS
+### SECTION 5: RESTREAM LIVE DESCRIPTIONS & HASHTAGS
+
+D.J. goes live on Restream during recording. Provide ready-to-paste descriptions and hashtags for each platform.
+
+**Facebook Live Description:**
+[2-3 sentences about the episode + guest. Conversational, excitement-driven. End with "Drop your questions in the comments!"]
+
+**Instagram Live Description:**
+[1-2 short sentences + hashtags. IG limits caption length.]
+
+**TikTok Live Description:**
+[1 punchy sentence + trending hashtags]
+
+**YouTube Live Description:**
+[2-3 sentences, keyword-rich for search. Include guest name, topic, and "Keeping It Real Podcast".]
+
+**LinkedIn Live Description:**
+[Professional tone. 2-3 sentences emphasizing the business value of the conversation.]
+
+**Hashtag Sets:**
+- Universal: #KeepingItReal #RealEstatePodcast #DJParis #RealtorLife #RealEstateAgent
+- Episode-specific: [5-7 hashtags tailored to this guest's topic, market, and expertise]
+- Guest tag: [Guest's social handles for tagging]
+
+### SECTION 6: YOUTUBE CHAPTER MARKERS
 
 Provide suggested YouTube chapter timestamps based on the interview structure. These are estimates — D.J. will adjust after recording.
 
