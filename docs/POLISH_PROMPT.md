@@ -145,6 +145,95 @@ Add `[PAUSE]`, `[SLOW DOWN]`, or `[FAST]` delivery notes at key moments. The hoo
 
 ---
 
+## Writing Discipline (Anti-AI-Style Prose)
+
+These principles cover the surface texture of every line you produce. They are not stylistic preferences -- they are how the polished output stays out of the "obviously a chatbot wrote this" bucket that hurts both perceived authority and detector signals on social platforms.
+
+### 15. Don't optimize to "sound human." Fit the medium.
+
+Detectors are probabilistic, not proof. Don't manufacture mistakes, slang, fake hedges, or staged messiness to dodge an algorithm. Don't break grammar on purpose. Don't insert random sentence-length wobble. The fix is fitting the medium and the audience -- if you do that, the prose reads as human as a side effect.
+
+The recurring problem in AI copy is regularity and mismatch, not any single feature.
+
+### 16. Specificity must be earned
+
+Every paragraph in long-form copy needs a concrete anchor: a proper noun, a specific number that isn't only a date, a direct quote, a named decision or moment, a checkable detail, or a user-facing consequence.
+
+Vague filler that does NOT count as concrete: *many, various, several, a lot of, in ways that mattered, broad implications, the standard X arc.*
+
+**Specificity theater is banned.** Don't add invented milestone names, suspiciously exact claims, or synthetic quotes just to look credible. Fewer verified facts beat many guessed ones.
+
+### 17. High-fragility facts (treat with extra discipline)
+
+These four categories need source support for the **exact claim**, not a nearby topic:
+
+- **Direct quotes.** Words attributed to a guest must be in a transcript or document. "Karina said something like" without a transcript is a fabrication risk.
+- **Public metrics.** "5.7% engagement rate" needs a source that reports 5.7%, not "around six percent."
+- **Future claims.** "Releases in April" needs a published roadmap. If the source is older or tentative, soften to "planned for" or cut the date.
+- **Causal claims.** *Caused, drove, proved, enabled, prevented, led directly to* all need source support for the relationship -- not just the two facts on either side. If evidence only supports sequence or correlation, weaken to *coincided with, appeared alongside, was followed by* or cut the relationship.
+
+### 18. Don't launder analysis through vague authority
+
+Banned without a named source: *experts say, observers note, research suggests, critics argue, many believe.*
+
+### 19. Don't narrate hidden mechanisms
+
+Internal logic, unseen motives, what a system or organization is "really" doing -- if the reader couldn't observe it and you can't verify it, don't write it as fact. Replace with the observable consequence.
+
+- **Bad:** *NAR is positioning itself for...*
+- **Good:** *NAR has publicly said... / NAR's recent moves include...*
+
+### 20. Plain-text formatting
+
+When writing captions, social copy, or any prose that gets pasted into a CMS or composer, prefer **straight ASCII quotes (`"`) and apostrophes (`'`) by default**. Smart curly quotes, curly apostrophes, and single-character ellipses (`…`) read as pasted-from-chatbot signals in casual prose. Normalize before output.
+
+### 21. Regularity is the real tell
+
+LLM writing usually fails not because of any single phrase but because the same move repeats until it dominates. Watch for:
+
+- Parallel three-part cadence by reflex (*clearer, faster, cheaper*)
+- Concession-plus-positive rhythm (*not X, but Y* / *may sound X, but Y*)
+- Paragraph-closing type definitions (*the kind of X where Y*)
+- Identical paragraph arcs (one neat claim sentence, orderly elaboration, every paragraph)
+- Same punctuation move every paragraph
+- Same controlling metaphor returning until it feels too tidy
+
+If any move shows up 3+ times or dominates two consecutive paragraphs, rewrite at least one occurrence. Three-item parallel lists count even when not bulleted.
+
+### 22. Cohere through reference. Don't perform.
+
+Use pronouns and continued reference. Don't restate the full frame every paragraph. Treat *Furthermore, Moreover, Additionally, Importantly, Notably* as transitions to justify, not default sentence starters. No keynote cadence, no mission-statement phrasing, no applause-line endings. No service-desk tone (*Great question, Absolutely, I hope this helps*).
+
+### 23. Formula-phrase watchlist
+
+Not bans -- places to check whether the writing slipped into formula. Most of these are not in the existing banned-words list because they're sentence patterns, not single words.
+
+- *It's important to note that, It's worth noting that, When it comes to, In conclusion*
+- *in today's fast-paced world, ever-evolving landscape, at the end of the day*
+- *dive deep into, embark on a journey, navigate (used as a vague metaphor)*
+- *It's not X, it's Y / Not because X, but because Y / What matters is... / The real issue is...*
+- *is a testament to, serves as / stands as (when "is" or "has" would be clearer)*
+- *plays a key role / pivotal role*
+- *reflects broader, symbolizes, showcases, highlights, underscores* (when attached to generic significance)
+- Decorative emoji and checkmark bullets in prose contexts
+
+(Note: the contrast structure "Most agents do X. Top producers do Y." in Principle 6 is a deliberate reframe pattern and is permitted. The watchlist above bans *It's not X, it's Y* as a reflexive sentence move, not the deliberate contrast that earns its place.)
+
+### 24. Revision pass
+
+Before final output, run these checks:
+
+1. Every substantial paragraph has a concrete anchor (16).
+2. The three most fragile factual claims are sourced or softened (17).
+3. Every cited source supports the exact claim, not a nearby topic.
+4. The single most repeated visible pattern doesn't show up 3+ times or dominate two consecutive paragraphs.
+5. Stance matches genre: opinion has a view, neutral stays neutral.
+6. No fake-human moves added (typos, slang, forced asides) just to break a pattern.
+
+These are tripwires, not goals to optimize for.
+
+---
+
 ## Output Format for Each Polished Script
 
 For every script, output:

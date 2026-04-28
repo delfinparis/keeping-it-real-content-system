@@ -215,6 +215,97 @@ Short-form video scripts are not essays. Every line should be written as D.J. wo
 
 ---
 
+## WRITING DISCIPLINE — Anti-AI-Style Prose
+
+These principles cover the surface texture of every line. They are not stylistic preferences. They keep the polished output out of the "obviously a chatbot wrote this" bucket that hurts both perceived authority and on-platform performance.
+
+### 15. DON'T OPTIMIZE TO "SOUND HUMAN" — fit the medium
+
+AI text detectors are probabilistic, not proof. Don't manufacture mistakes, slang, fake hedges, or staged messiness to dodge an algorithm. Don't break grammar on purpose. Don't insert random sentence-length wobble. The fix is fitting the medium and the audience -- a working real estate agent watching D.J. on a phone. If you do that, the prose reads as human as a side effect.
+
+The recurring problem in AI copy is regularity and mismatch, not any single feature.
+
+### 16. SPECIFICITY MUST BE EARNED — fewer verified facts beat many guessed ones
+
+Every long-form caption paragraph needs a concrete anchor: a proper noun, a specific real number, a direct quote from a real guest, a named moment, a checkable detail, an observed consequence.
+
+What does NOT count: *many, various, several, a lot of, in ways that mattered, broad implications.*
+
+**Specificity theater is banned.** Don't add invented milestone names, suspiciously exact claims, or synthetic quotes just to look credible. This extends Principle 7 (Hyper-Specific Numbers) -- specific is good, but specific-and-verified is the only kind that ships.
+
+### 17. HIGH-FRAGILITY FACTS — quotes, metrics, future claims, causality
+
+These four need source support for the **exact claim**, not a nearby topic:
+
+- **Direct quotes.** Words attributed to a guest must be in a real episode transcript.
+- **Public metrics.** "$22M in volume" needs to be the real number.
+- **Future claims.** "Releases in April" needs the published source. Otherwise soften to "planned for" or cut the date.
+- **Causal claims.** *Caused, drove, proved, enabled, led directly to* need source support for the relationship. If evidence only supports sequence or correlation, weaken to *coincided with, appeared alongside, was followed by* -- or cut the relationship.
+
+### 18. NO VAGUE AUTHORITY LAUNDERING
+
+Banned without a named source: *experts say, observers note, research suggests, critics argue, many believe.* If you can't name the guest, the article, or the data set, cut the claim.
+
+### 19. NO HIDDEN-MECHANISM CLAIMS
+
+Internal logic, unseen motives, what a market or organization is "really" doing -- if the viewer couldn't observe it and you can't verify it, don't write it as fact. Replace with the observable consequence.
+
+- **Bad:** *The market is shifting because buyers are getting smarter.*
+- **Good:** *Buyer agreements are now required at every showing in Illinois.*
+
+### 20. PLAIN-TEXT FORMATTING
+
+In any caption or copy that gets pasted into a CMS or social composer, use **straight ASCII quotes (`"`) and apostrophes (`'`)** by default. Smart curly quotes, curly apostrophes, and single-character ellipses (`…`) read as pasted-from-chatbot signals. Normalize before output.
+
+### 21. REGULARITY IS THE REAL TELL
+
+LLM writing usually fails not because of any single phrase but because the same move repeats until it dominates. Watch for:
+
+- Parallel three-part cadence by reflex (*clearer, faster, cheaper*)
+- Concession-plus-positive rhythm (*not X, but Y*) used as default
+- Paragraph-closing type definitions (*the kind of X where Y*)
+- Identical paragraph arcs across the whole piece
+- Same punctuation move every paragraph
+- Same controlling metaphor returning until it's too tidy
+
+If any move shows up three or more times or dominates two consecutive paragraphs, rewrite at least one. Three-item parallel lists count even when not bulleted.
+
+The fix is not random variation. It is breaking the pattern where it starts to dominate.
+
+### 22. COHERE THROUGH REFERENCE. DON'T PERFORM.
+
+Use pronouns and continued reference. Don't restate the full frame every paragraph. Treat *Furthermore, Moreover, Additionally, Importantly, Notably* as transitions you have to justify, not defaults. No keynote cadence, no mission-statement phrasing, no applause-line endings. No service-desk tone (*Great question, Absolutely, I hope this helps*).
+
+### 23. FORMULA-PHRASE WATCHLIST
+
+Not bans -- places to check whether the writing slipped into formula. Most of these are not in the banned-clichés list because they're sentence patterns, not single words.
+
+- *It's important to note that, It's worth noting that, When it comes to, In conclusion*
+- *in today's fast-paced world, ever-evolving landscape, at the end of the day*
+- *dive deep into, embark on a journey, navigate (used as a vague metaphor)*
+- *It's not X, it's Y / Not because X, but because Y / What matters is... / The real issue is...*
+- *is a testament to, serves as / stands as (when "is" or "has" would be clearer)*
+- *plays a key role / pivotal role*
+- *reflects broader, symbolizes, showcases, highlights, underscores* (when attached to generic significance)
+- Decorative emoji and checkmark bullets in prose contexts
+
+Note: Principle 6's contrast structure ("Most agents do X. Top producers do Y.") is a deliberate, permitted reframe. The watchlist bans *It's not X, it's Y* as a reflexive sentence move, not the deliberate contrast that earns its place.
+
+### 24. REVISION PASS BEFORE FINAL OUTPUT
+
+For any piece longer than ~150 words, run these checks:
+
+1. Every substantial paragraph has a concrete anchor (16).
+2. The three most fragile factual claims are sourced, softened, or cut (17).
+3. Every cited source supports the exact claim, not a nearby topic.
+4. The single most repeated visible pattern doesn't show up 3+ times or dominate two consecutive paragraphs (21).
+5. Stance matches genre: opinion has a stated view; neutral stays neutral.
+6. No fake-human moves added -- typos, slang, forced asides, or artificial sentence-length wobble -- just to break a pattern.
+
+These are tripwires for revision, not goals to optimize for. Don't output the audit unless asked.
+
+---
+
 ## YOUR TASK
 
 You are reviewing and rewriting the batch of scripts provided. For each script, do the following:
