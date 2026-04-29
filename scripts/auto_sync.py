@@ -86,7 +86,13 @@ def get_progress() -> dict:
     if progress_file.exists():
         with open(progress_file, 'r') as f:
             return json.load(f)
-    return {'downloaded': 0, 'transcribed': 0, 'analyzed': 0}
+    return {'downloaded': [], 'transcribed': [], 'analyzed': []}
+
+
+def _count(progress: dict, key: str) -> int:
+    """progress.json stores lists per stage; older code passed ints. Coerce to count."""
+    val = progress.get(key, [])
+    return len(val) if isinstance(val, list) else int(val or 0)
 
 
 def sync_to_webapp():
@@ -170,25 +176,25 @@ def main():
         logger.warning("Download had issues: %s", output[-500:])
 
     progress_after = get_progress()
-    downloaded = progress_after.get('downloaded', 0) - progress_before.get('downloaded', 0)
+    downloaded = _count(progress_after, 'downloaded') - _count(progress_before, 'downloaded')
     logger.info(f"  Downloaded {downloaded} episode(s)")
 
     # Step 3: Transcribe new episodes
     logger.info("\n[STEP 3] Transcribing new episodes...")
-    transcribed_before = progress_before.get('transcribed', 0)
+    transcribed_before = _count(progress_before, 'transcribed')
 
     success, output = run_script("transcribe_episodes.py")
     if not success:
         logger.warning("Transcription had issues: %s", output[-500:])
 
     progress_after = get_progress()
-    transcribed = progress_after.get('transcribed', 0) - transcribed_before
+    transcribed = _count(progress_after, 'transcribed') - transcribed_before
     logger.info(f"  Transcribed {transcribed} episode(s)")
 
     # Step 4: Analyze new transcripts (if API key available)
     if openai_key:
         logger.info("\n[STEP 4] Analyzing new transcripts...")
-        analyzed_before = progress_before.get('analyzed', 0)
+        analyzed_before = _count(progress_before, 'analyzed')
 
         success, output = run_script(
             "analyze_episodes.py",
@@ -199,7 +205,7 @@ def main():
             logger.warning("Analysis had issues: %s", output[-500:])
 
         progress_after = get_progress()
-        analyzed = progress_after.get('analyzed', 0) - analyzed_before
+        analyzed = _count(progress_after, 'analyzed') - analyzed_before
         logger.info(f"  Analyzed {analyzed} episode(s)")
     else:
         logger.info("\n[STEP 4] Skipping analysis (no API key)")
@@ -215,9 +221,9 @@ def main():
 
     final_progress = get_progress()
     logger.info(f"Total episodes in catalog: {get_current_episode_count()}")
-    logger.info(f"Downloaded: {final_progress.get('downloaded', 0)}")
-    logger.info(f"Transcribed: {final_progress.get('transcribed', 0)}")
-    logger.info(f"Analyzed: {final_progress.get('analyzed', 0)}")
+    logger.info(f"Downloaded: {_count(final_progress, 'downloaded')}")
+    logger.info(f"Transcribed: {_count(final_progress, 'transcribed')}")
+    logger.info(f"Analyzed: {_count(final_progress, 'analyzed')}")
     logger.info("")
     logger.info("Webapp data updated. Restart/redeploy webapp to see changes.")
 
