@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Russ Cofano",
+    "title": "CEO",
+    "company": "Colabra Technology",
+    "production_level": null,
+    "specialty": "Digital marketing technology and analytics",
+    "location": null
+  },
+  "main_topics": [
+    "Digital marketing for real estate agents",
+    "Sphere Builder platform",
+    "Importance of digital presence",
+    "Comparison with top producers",
+    "Real estate industry trends"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents struggle with digital marketing and building a digital sphere of influence.",
+      "solution_summary": "Sphere Builder provides a measurable digital presence score and personalized recommendations to improve digital marketing efforts.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "The real estate industry lost the search battle to big portals.",
+      "solution_summary": "Focus on building a local sphere of influence that cannot be matched by portals.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides tools and strategies to enhance digital marketing efforts and compete with top producers.",
+      "key_takeaway": "Utilize Sphere Builder to measure and improve your digital presence to increase production."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "29:00",
+      "quote": "Lead gen without marketing is only half of the equation.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common focus on lead generation by emphasizing the importance of marketing.",
+      "suggested_hook": "Are you focusing too much on lead gen and ignoring marketing?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a Google Business Profile to improve search visibility.",
+      "context": "Essential for being found in Google searches and improving digital presence.",
+      "timestamp": "47:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your network is your net worth, and this applies to your digital sphere as well."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "spherebuilder.io",
+      "context": "Platform for measuring and improving digital marketing efforts."
+    }
+  ],
+  "episode_summary": "In this episode, Russ Cofano discusses the importance of digital marketing for real estate agents and introduces Sphere Builder, a platform that measures an agent's digital presence and offers personalized recommendations. The conversation highlights the shift from traditional to digital spheres of influence and provides actionable insights for agents looking to enhance their digital marketing strategies.",
+  "_metadata": {
+    "source_file": "2023-03-31_item261_Russ-Cofano",
+    "analyzed_at": "2026-01-26T20:55:40.633275",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

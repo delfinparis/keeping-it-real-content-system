@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Social Media Expert",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content creation for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Video content strategies for real estate agents",
+    "Building trust through authentic videos",
+    "Positioning as a local expert",
+    "Showcasing authority through awards and accolades",
+    "Educational and opinion-based video content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents feeling uncomfortable posting personal or authentic content",
+      "solution_summary": "Start with Instagram stories to build confidence and engagement, as they are temporary and less polished.",
+      "timestamp": "03:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of engagement on social media posts",
+      "solution_summary": "Create local videos highlighting favorite spots and tag local businesses to increase engagement.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Agents not showcasing their expertise and authority",
+      "solution_summary": "Post videos about awards and accolades, and recycle content to remind followers of your achievements.",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start building their personal brand through video content.",
+      "key_takeaway": "Begin with authentic, low-pressure videos on Instagram stories to build confidence and engagement."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can enhance their local presence and engagement through targeted local videos.",
+      "key_takeaway": "Highlight local businesses and use local hashtags to increase post engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:00",
+      "end_timestamp": "04:30",
+      "quote": "The very first video, you might feel uncomfortable, but it's the third, the fifth, the seventh, everyone gets better.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to persist through initial discomfort in video creation.",
+      "suggested_hook": "Feeling awkward on camera? Here's why you should keep going!"
+    },
+    {
+      "timestamp": "06:30",
+      "end_timestamp": "07:00",
+      "quote": "He got like 5,000 percent more engagement than his normal posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential impact of local videos on engagement.",
+      "suggested_hook": "Want to boost your social media engagement by 5000%?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Instagram polls to increase engagement",
+      "context": "Add simple polls to Instagram stories to engage viewers and start conversations.",
+      "timestamp": "05:15"
+    },
+    {
+      "tactic": "Tag local businesses in videos",
+      "context": "When creating local videos, tag businesses to increase reach and engagement.",
+      "timestamp": "07:00"
+    }
+  ],
+  "quotable_insights": [
+    "People are actually interested to hear what you have to say because you are the expert in the field.",
+    "People have very strong opinions about their favorite spots in their neighborhood."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Kim Rittberg's Video Bootcamp",
+      "context": "Helps real estate agents become confident on camera and generate leads through video."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares actionable strategies for real estate agents to enhance their personal brand and generate leads through video content. She emphasizes the importance of authenticity, local expertise, and showcasing authority to build trust and engagement. The episode provides practical tips on using Instagram stories, local videos, and educational content to connect with potential clients.",
+  "_metadata": {
+    "source_file": "2023-09-26_item217_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:52:48.446815",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

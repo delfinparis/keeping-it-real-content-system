@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ainhoa Garcia",
+    "title": "Top 1% REALTOR",
+    "company": "Kale Realty",
+    "production_level": "Top 1%",
+    "specialty": "Hispanic market",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Capturing the Hispanic market",
+    "Building a real estate career from scratch",
+    "Importance of volunteering and community involvement",
+    "Challenges faced by immigrants in real estate",
+    "Building authentic client relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of sphere of influence as a new immigrant",
+      "solution_summary": "Engage in hobbies and community activities to meet people and build relationships.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the needs of Hispanic home buyers",
+      "solution_summary": "Recognize the importance of family in decision-making and be welcoming to all family members involved.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a personal brand without a local network",
+      "solution_summary": "Leverage social media to showcase authenticity and build a brand around family and community values.",
+      "timestamp": "41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to build a network from scratch.",
+      "key_takeaway": "Engage in community activities and hobbies to organically grow your client base."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can learn from Ainhoa's journey and strategies.",
+      "key_takeaway": "Authenticity and community involvement are key to building a successful real estate career."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I didn't have a sphere of influence, so I picked hobbies like soccer to meet people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a specific tactic for building a network from scratch.",
+      "suggested_hook": "Struggling to find clients? Here's how hobbies can help you build your network."
+    },
+    {
+      "timestamp": "30:00",
+      "end_timestamp": "31:00",
+      "quote": "For Hispanic buyers, it's a family affair. You need to talk to the whole family.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a key cultural insight for serving Hispanic clients.",
+      "suggested_hook": "Want to capture the Hispanic market? Here's what you need to know."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage in local hobbies and community activities.",
+      "context": "To build a network and meet potential clients organically.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Host client appreciation events.",
+      "context": "To strengthen relationships and create a sense of community.",
+      "timestamp": "48:00"
+    }
+  ],
+  "quotable_insights": [
+    "For Hispanic buyers, it's not just about buying a house; it's about setting roots and belonging.",
+    "Authenticity and community involvement are key to building a successful real estate career."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "RealGeeks.com",
+      "context": "Recommended as a tool for lead conversion and CRM."
+    },
+    {
+      "type": "website",
+      "name": "corded.io",
+      "context": "Recommended for recruiting and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Ainhoa Garcia shares her journey from Spain to becoming a top 1% REALTOR in Chicago, focusing on the Hispanic market. She discusses the importance of community involvement, building authentic relationships, and leveraging hobbies to grow a network. Ainhoa provides actionable insights for new agents and those looking to serve Hispanic clients effectively.",
+  "_metadata": {
+    "source_file": "2024-11-01_item115_Ainhoa-Garcia",
+    "analyzed_at": "2026-01-29T18:55:41.391088",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

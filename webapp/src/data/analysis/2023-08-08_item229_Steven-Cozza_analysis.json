@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Steven Cozza",
+    "title": "Team Leader",
+    "company": "Cozza Team",
+    "production_level": "Top 1% Producer",
+    "specialty": "Real Estate Sales",
+    "location": "Sonoma, Marin County, North San Francisco Bay"
+  },
+  "main_topics": [
+    "Transition from professional sports to real estate",
+    "Importance of consistency and discipline",
+    "Building a successful real estate team",
+    "Effective listing presentations",
+    "Community engagement as a marketing strategy"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in generating consistent leads",
+      "solution_summary": "Implement a consistent farming strategy and community engagement activities to build a reputation and generate leads.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing marketing and operations effectively",
+      "solution_summary": "Hire a marketing specialist to ensure consistent marketing efforts and focus on core client interactions.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Handling rejection and failure in real estate",
+      "solution_summary": "Adopt a mindset similar to professional athletes where failure is seen as a learning opportunity and focus on getting back up quickly.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into how discipline and consistency can lead to top-tier success.",
+      "key_takeaway": "Focus on consistent, repeatable actions and learn from failures to achieve long-term success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Steven discusses building and managing a successful team, which is crucial for team leaders.",
+      "key_takeaway": "Identify and hire for roles that complement your strengths to enhance team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "25:30",
+      "end_timestamp": "26:15",
+      "quote": "The best REALTORS in the business, they have three to five prospecting methods. Start off with two to three, build them out, and make it bomb proof.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable strategy for building a robust lead generation system.",
+      "suggested_hook": "Want to know how top agents build a bulletproof lead generation system?"
+    },
+    {
+      "timestamp": "48:00",
+      "end_timestamp": "48:45",
+      "quote": "When you give someone an option, there's really no negotiating that has to happen. They're going to just choose one usually by default.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional approach to listing presentations by offering options.",
+      "suggested_hook": "Transform your listing presentations with this simple strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a seller questionnaire before listing presentations.",
+      "context": "Use it to understand client needs and tailor your presentation accordingly.",
+      "timestamp": "47:30"
+    },
+    {
+      "tactic": "Offer multiple commission options during listing presentations.",
+      "context": "Provide options to clients to reduce negotiation and increase perceived value.",
+      "timestamp": "49:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency is the key to success in real estate, just as it is in professional sports.",
+    "The best agents are the best at getting back up after a loss."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Ninja Selling",
+      "context": "Recommended for its goal-setting strategies and effective sales techniques."
+    },
+    {
+      "type": "course",
+      "name": "Certified Real Estate Negotiator (C. Ren)",
+      "context": "Suggested for learning effective negotiation skills in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Steven Cozza shares his journey from professional cycling to becoming a top 1% real estate producer. He emphasizes the importance of consistency, discipline, and community engagement in building a successful real estate career. Steven also provides actionable insights on effective listing presentations and the benefits of offering clients multiple commission options.",
+  "_metadata": {
+    "source_file": "2023-08-08_item229_Steven-Cozza",
+    "analyzed_at": "2026-01-29T17:45:15.722349",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

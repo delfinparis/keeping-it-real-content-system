@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning Video Marketer",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video Marketing for Real Estate Agents",
+    "location": null
+  },
+  "main_topics": [
+    "Video Marketing Strategies",
+    "Engagement through Storytelling",
+    "Personal Branding for Real Estate Agents",
+    "Content Creation Tips",
+    "Building a Video Strategy"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents creating videos that don't engage viewers",
+      "solution_summary": "Focus on storytelling with crazy real estate stories, behind-the-scenes content, and personal insights to engage viewers.",
+      "timestamp": "00:02:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through video content",
+      "solution_summary": "Create videos that highlight unique aspects of properties or personal stories to attract and engage potential clients.",
+      "timestamp": "00:08:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced video marketing strategies to enhance personal branding and client engagement.",
+      "key_takeaway": "Use storytelling and personal insights in videos to build a strong personal brand and connect with potential clients."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers actionable video content ideas to increase engagement and lead generation.",
+      "key_takeaway": "Implement diverse video content strategies to maintain viewer interest and drive business growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:05",
+      "end_timestamp": "00:03:30",
+      "quote": "A great video to make is sharing a crazy real estate story... it shows you're a successful agent.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a specific and engaging video idea that can be easily implemented by agents.",
+      "suggested_hook": "Want to captivate your audience with your real estate videos? Here's a simple idea that works!"
+    },
+    {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:30",
+      "quote": "Not every video inside a home has to be a tour... zoom in on that moment and make that big.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional approach to real estate videos, encouraging creativity.",
+      "suggested_hook": "Think all real estate videos are the same? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Share a crazy real estate story to engage viewers.",
+      "context": "Use personal anecdotes to build relatability and showcase experience.",
+      "timestamp": "00:03:05"
+    },
+    {
+      "tactic": "Highlight unique property features in videos.",
+      "context": "Focus on standout elements to capture viewer interest.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "tactic": "Create personal videos to connect with your audience.",
+      "context": "Share personal stories or facts to build a personal connection.",
+      "timestamp": "00:10:50"
+    }
+  ],
+  "quotable_insights": [
+    "Your phone is the most cost-efficient way to market yourself.",
+    "A crazy real estate story can subconsciously show your success."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Bootcamp",
+      "context": "A course for agents to learn video marketing and increase engagement."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable video marketing strategies for real estate agents, focusing on storytelling, personal branding, and content creation. She emphasizes the importance of engaging viewers through unique real estate stories, highlighting property features, and sharing personal insights to build a strong personal brand and generate leads.",
+  "_metadata": {
+    "source_file": "2023-12-19_item194_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:11:30.907904",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

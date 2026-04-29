@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset coaching using hypnosis",
+    "location": null
+  },
+  "main_topics": [
+    "Overcoming complacency",
+    "Mindset shifts for success",
+    "Balancing ambition and rest",
+    "The dangers of settling for 'good enough'",
+    "Using discomfort as a catalyst for growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Settling for 'good enough' and not reaching full potential",
+      "solution_summary": "Encourage honest self-assessment and use discomfort as motivation to push beyond comfort zones.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of standing out and being judged",
+      "solution_summary": "Understand that standing out is necessary for success and embrace the discomfort it brings.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Balancing ambition with rest",
+      "solution_summary": "Intentionally plan periods of rest and recovery to sustain long-term success.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode challenges them to push beyond their current success and avoid complacency.",
+      "key_takeaway": "To reach the top 1%, you must embrace discomfort and continuously strive for more."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to balance ambition with necessary rest to prevent burnout.",
+      "key_takeaway": "Strategically incorporate rest to maintain energy and avoid burnout while pursuing high goals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:00",
+      "end_timestamp": "13:45",
+      "quote": "If you want what the 5% have, you must be willing to do what the 95% won't.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement is a powerful motivator and challenges listeners to take action.",
+      "suggested_hook": "Are you ready to do what it takes to join the top 5%?"
+    },
+    {
+      "timestamp": "16:00",
+      "end_timestamp": "16:45",
+      "quote": "Settling for good enough is costing you so much. It's holding you back, hindering you, hurting you.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This resonates emotionally by highlighting the cost of complacency.",
+      "suggested_hook": "Is 'good enough' secretly sabotaging your success?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use discomfort as a motivator",
+      "context": "When feeling complacent, recognize it as a sign to push for more.",
+      "timestamp": "08:30"
+    },
+    {
+      "tactic": "Plan intentional rest periods",
+      "context": "To avoid burnout, schedule regular times for rest and recovery.",
+      "timestamp": "21:00"
+    }
+  ],
+  "quotable_insights": [
+    "Are you settling for good enough, or are you pushing to be outstanding?",
+    "The voice that tells you 'good enough' is your fuel, but it can also be your downfall."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for identifying agents looking to move and tailoring recruitment strategies."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter challenges listeners to move beyond settling for 'good enough' by embracing discomfort and pushing for excellence. He discusses the importance of honest self-assessment, balancing ambition with rest, and using discomfort as a catalyst for growth. Salter provides actionable insights for real estate professionals to achieve their full potential and avoid the pitfalls of complacency.",
+  "_metadata": {
+    "source_file": "2025-08-28_item39_Paul-Salter",
+    "analyzed_at": "2026-01-29T19:40:54.177527",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

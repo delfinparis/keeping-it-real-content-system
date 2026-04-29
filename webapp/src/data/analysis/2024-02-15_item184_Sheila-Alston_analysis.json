@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Sheila Alston",
+    "title": "Founder",
+    "company": "Healthy Home Media",
+    "production_level": null,
+    "specialty": "Wellness Real Estate",
+    "location": "San Diego"
+  },
+  "main_topics": [
+    "Wellness Real Estate",
+    "Differentiating as a REALTOR",
+    "Lead Generation Strategies",
+    "Healthy Home Media Magazine",
+    "Networking with Healthy Home Professionals"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in differentiating oneself in a crowded real estate market.",
+      "solution_summary": "Using wellness real estate as a unique selling proposition to attract clients.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents struggle to stand out and provide unique value.",
+      "solution_summary": "Leverage wellness real estate trends and provide clients with resources to create healthier homes.",
+      "timestamp": "18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides a unique angle on how to stand out in the market.",
+      "key_takeaway": "Utilize wellness real estate as a differentiator to attract and retain clients."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers strategies to enhance personal branding and client engagement.",
+      "key_takeaway": "Incorporate wellness-focused content and partnerships to build a memorable brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:30",
+      "end_timestamp": "13:15",
+      "quote": "Don't say that you're a REALTOR. Say you're a wellness-focused real estate agent.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It challenges the conventional way REALTORS introduce themselves.",
+      "suggested_hook": "Want to stand out as a REALTOR? Here's a simple change that makes a big impact."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create partnerships with local healthy home professionals.",
+      "context": "Use these partnerships to provide added value to clients and differentiate your services.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Utilize a branded wellness magazine to engage clients.",
+      "context": "Send out monthly issues to keep clients informed and interested in wellness real estate.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Everyone deserves to live in a healthy home.",
+    "Be the connector for everything home."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Healthy Home Media",
+      "context": "Platform for REALTORS to access wellness-focused marketing materials."
+    },
+    {
+      "type": "app",
+      "name": "Boost Your Real Estate Brand",
+      "context": "An app offering resources and courses to enhance real estate branding."
+    }
+  ],
+  "episode_summary": "In this episode, Sheila Alston discusses the emerging trend of wellness real estate and how REALTORS can leverage it to stand out in a crowded market. By focusing on creating healthier home environments and utilizing resources like Healthy Home Media, agents can differentiate themselves and provide unique value to clients.",
+  "_metadata": {
+    "source_file": "2024-02-15_item184_Sheila-Alston",
+    "analyzed_at": "2026-01-29T18:19:01.826169",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

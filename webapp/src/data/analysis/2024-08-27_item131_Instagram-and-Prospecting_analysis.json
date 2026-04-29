@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Michelle Barnard Michael",
+    "title": "CEO",
+    "company": "Not mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Content creation through storytelling",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Utilizing personal passions in social media content",
+    "Creating value series content",
+    "Building connections through storytelling",
+    "Using AI tools for content creation",
+    "Engagement strategies on social media"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents focusing too much on data rather than personal connection in content",
+      "solution_summary": "Lead with personal stories and passions to create a connection with the audience.",
+      "timestamp": "03:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in creating engaging content that attracts clients",
+      "solution_summary": "Use a T-graph to align personal passions with client pain points and create a value series.",
+      "timestamp": "07:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding and client engagement.",
+      "key_takeaway": "Integrate personal passions with client pain points to create compelling content."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:07",
+      "end_timestamp": "14:45",
+      "quote": "If you're going to be talking about the difference between closing costs and your down payment... you want the passion to be the front and center of the hook itself.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear tactic for structuring content hooks effectively.",
+      "suggested_hook": "Are you starting your videos with the wrong hook?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a T-graph to align passions with client pain points.",
+      "context": "Use this method to brainstorm content ideas that resonate with your audience.",
+      "timestamp": "07:04"
+    },
+    {
+      "tactic": "Structure video scripts with a hook, objection, problem, and solution.",
+      "context": "Apply this structure to ensure your videos are engaging and informative.",
+      "timestamp": "10:59"
+    }
+  ],
+  "quotable_insights": [
+    "Instead of sharing data, share stories and you will see a dramatic increase in how the conversations play out."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective sales and marketing solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for real estate recruiters to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Michelle Barnard Michael discusses the importance of integrating personal passions into social media content to create stronger connections with audiences. She introduces the concept of value series content, which uses storytelling to engage clients, and provides actionable tactics for structuring content effectively. The episode emphasizes the power of personal stories over data in building a memorable personal brand.",
+  "_metadata": {
+    "source_file": "2024-08-27_item131_Instagram-and-Prospecting",
+    "analyzed_at": "2026-01-26T19:34:23.568670",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

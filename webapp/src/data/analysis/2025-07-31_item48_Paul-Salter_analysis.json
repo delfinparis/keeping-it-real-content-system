@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset and Performance Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Hypnosis and mindset coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Destructive mindset programs",
+    "Fear of success and self-sabotage",
+    "Overcoming limiting beliefs",
+    "Emotional resilience and awareness",
+    "Mindset transformation through coaching"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Destructive mindset programs that keep individuals stuck",
+      "solution_summary": "Identify and dismantle these programs through awareness and coaching, focusing on emotional resilience and belief transformation.",
+      "timestamp": "00:05:01"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Fear of earning more than one's parents and the associated guilt",
+      "solution_summary": "Recognize the subconscious fear of judgment and rejection, and work to dismantle these beliefs with a mindset coach.",
+      "timestamp": "00:17:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of success leading to self-sabotage",
+      "solution_summary": "Understand the upper limit problem and use mindset coaching to reset internal beliefs about deserving success.",
+      "timestamp": "00:22:46"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode addresses the subconscious barriers that prevent intermediate agents from advancing to the next level.",
+      "key_takeaway": "Identify and dismantle destructive mindset programs to break through income plateaus."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on overcoming mental barriers to achieve higher levels of success.",
+      "key_takeaway": "Understand and overcome the fear of success to reach your full potential."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:19:00",
+      "end_timestamp": "00:20:01",
+      "quote": "The client I described is myself. For five years, held back by the weight of outdated beliefs and behaviors.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Personal stories resonate deeply and provide a relatable entry point for listeners.",
+      "suggested_hook": "Ever feel like you're stuck in a cycle of self-sabotage? You're not alone."
+    },
+    {
+      "timestamp": "00:32:01",
+      "end_timestamp": "00:33:00",
+      "quote": "It's not a coincidence that the construction of words is referred to as spell-ing.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This memorable analogy highlights the power of words in shaping reality.",
+      "suggested_hook": "Did you know your words have the power to shape your reality?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify and dismantle destructive mindset programs",
+      "context": "Use emotional awareness and mindset coaching to break free from limiting beliefs.",
+      "timestamp": "00:39:47"
+    },
+    {
+      "tactic": "Practice emotional resilience",
+      "context": "Incorporate meditation, journaling, and breathwork into your routine to process emotions.",
+      "timestamp": "00:40:28"
+    }
+  ],
+  "quotable_insights": [
+    "Your greatest edge is the one between your ears.",
+    "Destructive mindset programs are learned, which means they can be unlearned."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for real estate recruiters to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the concept of destructive mindset programs and how they hold individuals back from achieving their full potential. He shares personal insights on overcoming these barriers through mindset coaching and emotional resilience practices. Listeners will learn how to identify and dismantle limiting beliefs to break through income plateaus and achieve greater success.",
+  "_metadata": {
+    "source_file": "2025-07-31_item48_Paul-Salter",
+    "analyzed_at": "2026-01-29T19:34:58.104998",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

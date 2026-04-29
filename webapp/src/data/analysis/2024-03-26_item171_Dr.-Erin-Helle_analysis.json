@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Erin Helle",
+    "title": "Dream Builder, Team Leader, and Financially Free REALTOR",
+    "company": null,
+    "production_level": null,
+    "specialty": "Business, Wealth, and Health",
+    "location": null
+  },
+  "main_topics": [
+    "Time Blocking",
+    "Calendar Management",
+    "Productivity Techniques",
+    "Task Prioritization",
+    "Work-Life Balance"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Inefficient use of time leading to lower productivity",
+      "solution_summary": "Implement time blocking to allocate specific time slots for tasks, prioritize tasks, and create white space for rest and unforeseen tasks.",
+      "timestamp": "03:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Belief in multitasking as a productivity tool",
+      "solution_summary": "Focus on single-tasking to improve quality and reduce errors, emphasizing completion over perfection.",
+      "timestamp": "11:12"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with managing their time effectively.",
+      "key_takeaway": "Time blocking can significantly enhance productivity and reduce stress."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Experienced agents may feel overwhelmed by their workload.",
+      "key_takeaway": "Prioritizing tasks and outsourcing non-essential activities can rejuvenate energy and focus."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:55",
+      "end_timestamp": "11:30",
+      "quote": "We're not good at multitasking. None of us are good at multitasking. So stop telling yourself that and stop multitasking.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges a common misconception about multitasking, offering a fresh perspective.",
+      "suggested_hook": "Think you're a great multitasker? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Time blocking",
+      "context": "Break your workday into sections and assign specific time slots for each task.",
+      "timestamp": "03:06"
+    },
+    {
+      "tactic": "Prioritize tasks by importance",
+      "context": "List tasks and prioritize them based on their contribution to business goals.",
+      "timestamp": "06:18"
+    },
+    {
+      "tactic": "Create white space",
+      "context": "Include buffer time in your schedule for rest and unexpected tasks.",
+      "timestamp": "08:35"
+    }
+  ],
+  "quotable_insights": [
+    "Busy doesn't equal productive. Rest is so important.",
+    "Completion is better than perfection when it allows you to move on to something else."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Google Calendar",
+      "context": "Recommended for implementing and sticking to a time-blocked schedule."
+    }
+  ],
+  "episode_summary": "Erin Helle discusses the importance of time blocking and calendar management to enhance productivity and reduce stress. She provides a step-by-step guide to implementing these techniques, emphasizing the need to prioritize tasks and create white space for rest. The episode challenges the misconception of multitasking and encourages focusing on single tasks for better results.",
+  "_metadata": {
+    "source_file": "2024-03-26_item171_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-26T22:33:11.955777",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

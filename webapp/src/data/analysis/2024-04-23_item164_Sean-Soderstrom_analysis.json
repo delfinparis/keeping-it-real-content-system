@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Sean Soderstrom",
+    "title": "Co-founder and CEO",
+    "company": "Courted.io",
+    "production_level": null,
+    "specialty": "Recruiting and retention platform for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Agent recruitment and retention",
+    "Predictive analytics in real estate",
+    "Challenges in the real estate industry",
+    "Technology solutions for brokerages",
+    "Market dynamics and agent mobility"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "High turnover rate of productive agents",
+      "solution_summary": "Use predictive analytics to identify agents likely to move and tailor recruitment efforts accordingly.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Time-consuming and expensive recruitment process",
+      "solution_summary": "Leverage data-driven platforms like Courted to streamline the identification and engagement of potential recruits.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Retaining top-performing agents",
+      "solution_summary": "Utilize data insights to personalize engagement and reinforce agent value within the brokerage.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders are constantly looking to build and retain their teams effectively.",
+      "key_takeaway": "Data-driven insights can significantly enhance recruitment and retention strategies."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers need to understand the market dynamics and how they can leverage technology for growth.",
+      "key_takeaway": "Understanding predictive analytics can help in making informed decisions about career moves."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "One in four agents moving is significant, right? It's a significant amount of turnover.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the high mobility in the real estate industry, which is crucial for recruitment strategies.",
+      "suggested_hook": "Did you know that 25% of agents switch brokerages every year?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "22:45",
+      "quote": "We can start to formulate really personalized messages in seconds and they can actually be generated for you.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the practical application of technology in personalizing recruitment efforts.",
+      "suggested_hook": "Imagine crafting personalized recruitment messages in seconds!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use predictive analytics to identify agents likely to move.",
+      "context": "Apply this tactic when planning recruitment outreach to target agents who are statistically more likely to switch brokerages.",
+      "timestamp": "18:00"
+    },
+    {
+      "tactic": "Leverage data insights to enhance agent retention.",
+      "context": "Use data to recognize and reward top performers, reinforcing their value within the brokerage.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "The agent has so much leverage. It's great for agents to understand that.",
+    "Recruiting can be a really good hedge against the slow market."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Courted.io",
+      "context": "Recommended as a platform for recruiting and retaining real estate agents using predictive analytics."
+    }
+  ],
+  "episode_summary": "In this episode, Sean Soderstrom discusses the challenges and opportunities in real estate agent recruitment and retention, emphasizing the role of predictive analytics. He introduces Courted.io as a solution to streamline recruitment processes and enhance agent retention through data-driven insights. The conversation highlights the high mobility within the industry and the need for brokerages to leverage technology to stay competitive.",
+  "_metadata": {
+    "source_file": "2024-04-23_item164_Sean-Soderstrom",
+    "analyzed_at": "2026-01-26T22:37:12.841684",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

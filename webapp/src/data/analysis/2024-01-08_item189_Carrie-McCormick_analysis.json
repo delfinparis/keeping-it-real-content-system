@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 0.001% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Real estate market predictions for 2024",
+    "Lead generation strategies",
+    "Importance of collaboration in real estate",
+    "Utilizing AI in real estate",
+    "Targeting baby boomers for real estate opportunities"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding new leads in a competitive market",
+      "solution_summary": "Utilize QR codes, educational YouTube videos, AI, and Instagram stories for lead generation.",
+      "timestamp": "07:01"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding market trends for 2024",
+      "solution_summary": "Mortgage rates are expected to decrease, increasing buyer activity.",
+      "timestamp": "05:39"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Maximizing wealth through real estate",
+      "solution_summary": "Homeowners have accumulated significant wealth compared to renters; buying property is a strategic investment.",
+      "timestamp": "04:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced lead generation strategies and market insights.",
+      "key_takeaway": "Embrace new technologies and collaboration to stay ahead in the competitive real estate market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies to implement across a team for better lead generation and market positioning.",
+      "key_takeaway": "Focus on strategic partnerships and leveraging AI to enhance team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:01",
+      "end_timestamp": "08:34",
+      "quote": "There are so many different ways to use QR codes... YouTube videos that educate, that is going to be a lead generator.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides specific, actionable tactics for lead generation.",
+      "suggested_hook": "Discover innovative lead generation tactics for 2024!"
+    },
+    {
+      "timestamp": "04:08",
+      "end_timestamp": "04:46",
+      "quote": "The average was $396,000 in wealth versus 10,000 for renters.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the financial benefits of homeownership with a striking statistic.",
+      "suggested_hook": "Why owning a home could be your best financial decision yet!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use QR codes for lead generation",
+      "context": "Incorporate QR codes into marketing materials to capture leads directly into your CRM.",
+      "timestamp": "07:01"
+    },
+    {
+      "tactic": "Leverage AI for content creation",
+      "context": "Use AI to generate property descriptions and social media content.",
+      "timestamp": "08:02"
+    },
+    {
+      "tactic": "Engage with baby boomers",
+      "context": "Target baby boomers as they control a significant portion of the country's wealth and are likely to buy/sell properties.",
+      "timestamp": "11:50"
+    }
+  ],
+  "quotable_insights": [
+    "If you've opened your home in the last three years, you've accumulated more than $100,000 in wealth.",
+    "Buy lunch, not leads. There's nothing better than meeting someone face to face."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Remind",
+      "context": "Used to locate second homes through MLS for potential leads."
+    },
+    {
+      "type": "tool",
+      "name": "ForWorn",
+      "context": "An app used to gather information on property owners for lead generation."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her insights on the 2024 real estate market, emphasizing the importance of collaboration and innovative lead generation strategies. She discusses the potential of AI and QR codes in capturing leads and highlights the financial advantages of homeownership. The episode provides actionable tactics for real estate agents to enhance their business in the coming year.",
+  "_metadata": {
+    "source_file": "2024-01-08_item189_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T18:15:01.544283",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Amy Duong Kim",
+    "title": "Team Lead",
+    "company": "Duong Kim Global at Compass",
+    "production_level": "Top 1% agent for the last 15 years",
+    "specialty": "Residential and commercial real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Prospecting and lead generation",
+    "Market challenges and solutions",
+    "Client communication and management",
+    "Social media and marketing strategies",
+    "Open houses and offer strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Low inventory and finding new listings",
+      "solution_summary": "Focus on finding solutions for sellers' next steps to encourage them to list.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Submitting competitive offers",
+      "solution_summary": "Use strong lenders, consider waiving contingencies, and ensure clear communication with listing agents.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining consistent marketing efforts",
+      "solution_summary": "Plan marketing strategies in the fourth quarter and stick to a consistent posting schedule.",
+      "timestamp": "33:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights from a top producer on maintaining success over time.",
+      "key_takeaway": "Consistent prospecting and adapting to market changes are key to sustained success."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on overcoming market challenges and improving client interactions.",
+      "key_takeaway": "Focus on providing solutions to clients' problems to generate more listings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "23:00",
+      "end_timestamp": "23:45",
+      "quote": "Make a habit of reaching out to one person a day.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It's a simple, actionable tactic that can lead to significant results over time.",
+      "suggested_hook": "Struggling with prospecting? Here's a simple daily habit that can transform your business."
+    },
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "50:30",
+      "quote": "Block out what's important to you. Your son's hockey game is just as important as a listing presentation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages work-life balance, which is crucial for long-term success.",
+      "suggested_hook": "Feeling overwhelmed? Discover the secret to balancing work and life effectively."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Reach out to one prospect daily",
+      "context": "Builds a consistent pipeline of potential clients.",
+      "timestamp": "23:00"
+    },
+    {
+      "tactic": "Set up MLS searches for pocket listings",
+      "context": "Stay informed about market opportunities and provide value to clients.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "Always a good time to buy real estate in Chicago.",
+    "Create boundaries early on to avoid burnout."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Amy Duong Kim shares her strategies for thriving in a challenging real estate market. She emphasizes the importance of consistent prospecting, adapting to client needs, and maintaining a work-life balance. Listeners will gain insights into effective marketing, offer strategies, and the value of staying informed about market trends.",
+  "_metadata": {
+    "source_file": "2025-06-10_item58_Amy-Duong-Kim",
+    "analyzed_at": "2026-01-24T20:13:23.590759",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

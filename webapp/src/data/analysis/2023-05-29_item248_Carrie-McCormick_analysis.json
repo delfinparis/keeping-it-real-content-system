@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer in Chicago",
+    "specialty": "First-time home buyers, veteran investors, luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Importance of client reviews and testimonials",
+    "Strategies for collecting and utilizing reviews",
+    "Handling negative reviews professionally",
+    "Cross-platform review management",
+    "Leveraging social media for brand building"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Forgetting to ask for client reviews post-transaction",
+      "solution_summary": "Implement a system to request reviews immediately after transaction completion from all parties involved.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Managing reviews across multiple platforms",
+      "solution_summary": "Choose a primary platform for reviews and find ways to cross-post or manage reviews across different platforms.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Dealing with negative reviews",
+      "solution_summary": "Respond graciously and professionally, taking ownership and offering to make amends.",
+      "timestamp": "12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding through client reviews.",
+      "key_takeaway": "Consistently ask for reviews from all transaction parties to build a strong online reputation."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers fresh insights into leveraging reviews for maintaining a competitive edge.",
+      "key_takeaway": "Use reviews not only from clients but also from other transaction participants to bolster credibility."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:00",
+      "end_timestamp": "04:45",
+      "quote": "Implementing a system that right after your transaction is completed to make sure that you reach out to that home buyer or home seller and get a review for yourself.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable tactic that agents can implement immediately.",
+      "suggested_hook": "Are you missing out on valuable client reviews? Here's a simple system to ensure you never forget again."
+    },
+    {
+      "timestamp": "12:00",
+      "end_timestamp": "12:45",
+      "quote": "If you do get a negative response or a negative review, it's so important to obviously respond to that and be gracious and be professional.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Shifts the mindset on handling negative feedback, emphasizing professionalism.",
+      "suggested_hook": "Negative reviews can be daunting, but here's how to turn them into opportunities."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Request reviews from all transaction parties",
+      "context": "After every transaction, ask not only clients but also attorneys, lenders, and inspectors for reviews.",
+      "timestamp": "05:00"
+    },
+    {
+      "tactic": "Cross-post reviews on multiple platforms",
+      "context": "Choose a primary platform for reviews and find ways to share them across other platforms like Google Business and Yelp.",
+      "timestamp": "06:30"
+    }
+  ],
+  "quotable_insights": [
+    "Assume every client is going to Google you and read your reviews.",
+    "Responding to negative reviews graciously can turn a bad situation into an opportunity."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used for creating visually appealing social media posts with client reviews."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the importance of client reviews and testimonials in building a strong personal brand. She shares actionable strategies for collecting reviews from all transaction parties and managing them across multiple platforms. The episode also covers how to handle negative reviews professionally and leverage social media to enhance brand visibility.",
+  "_metadata": {
+    "source_file": "2023-05-29_item248_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T17:32:00.666638",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

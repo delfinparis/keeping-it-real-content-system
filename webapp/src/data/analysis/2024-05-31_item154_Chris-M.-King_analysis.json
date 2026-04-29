@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Chris King",
+    "title": "Coach",
+    "company": "Status Flow",
+    "production_level": null,
+    "specialty": "Transformative coaching using science-based tools",
+    "location": null
+  },
+  "main_topics": [
+    "Overcoming psychological and physiological blocks",
+    "The role of failure in success",
+    "Innovative solutions in challenging markets",
+    "The importance of language in mindset",
+    "Embracing discomfort for growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Imposter syndrome",
+      "solution_summary": "Identify and challenge the story you're telling yourself by looking for evidence of past successes.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of failure",
+      "solution_summary": "Reframe failure as a learning opportunity and continue to push forward without quitting.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating challenging real estate markets",
+      "solution_summary": "Focus on what resources are available and how they can be leveraged creatively.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to overcome mental blocks and leverage current resources.",
+      "key_takeaway": "Reframe challenges as opportunities for innovation and growth."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers a fresh perspective on how to reignite passion and find new solutions in a tough market.",
+      "key_takeaway": "Embrace discomfort and failure as pathways to success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "You don't learn by doing something right. All that you do when you can do something right is confirm that you already know how to do it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional view of success and encourages embracing failure.",
+      "suggested_hook": "Why failure is your best teacher in real estate."
+    },
+    {
+      "timestamp": "29:00",
+      "end_timestamp": "29:45",
+      "quote": "If you're going to tell a story, it might as well be a good one.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Encourages a positive mindset shift through storytelling.",
+      "suggested_hook": "The power of the stories we tell ourselves."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use 'banana world' to brainstorm innovative solutions.",
+      "context": "When feeling stuck, think of ridiculous solutions to open up creative pathways.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Practice box breathing to reduce stress and activate wise mind.",
+      "context": "Use before making important decisions or when feeling overwhelmed.",
+      "timestamp": "23:00"
+    }
+  ],
+  "quotable_insights": [
+    "We make ourselves miserable or we make ourselves strong. The amount of work is the same.",
+    "Feelings drive actions, actions produce results."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "MindFuck",
+      "context": "Chris King's podcast that explores transformative coaching."
+    },
+    {
+      "type": "website",
+      "name": "statusflow.net",
+      "context": "Chris King's website for coaching services."
+    }
+  ],
+  "episode_summary": "In this episode, Chris King discusses how to overcome psychological and physiological blocks to achieve authentic success in real estate. He emphasizes the importance of reframing failure as a learning opportunity and using innovative thinking to navigate challenging markets. Listeners are encouraged to embrace discomfort and leverage available resources creatively.",
+  "_metadata": {
+    "source_file": "2024-05-31_item154_Chris-M.-King",
+    "analyzed_at": "2026-01-29T18:35:47.719716",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

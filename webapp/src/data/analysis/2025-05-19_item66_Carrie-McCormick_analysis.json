@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 0.001% producer",
+    "specialty": "Luxury properties and developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Luxury real estate market",
+    "Pricing strategies",
+    "Networking and agent collaboration",
+    "Marketing and storytelling in real estate",
+    "Challenges in low inventory markets"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory making it difficult to get offers accepted",
+      "solution_summary": "Focus on strategic pricing and understanding buyer psychology to create urgency and excitement.",
+      "timestamp": "06:26"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Telling a compelling story for unique listings",
+      "solution_summary": "Use high-quality photography and video to start the story, and craft engaging descriptions that highlight unique features.",
+      "timestamp": "15:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into breaking into the luxury market and working with developers.",
+      "key_takeaway": "Understanding the psychology of pricing and leveraging high-quality marketing materials can set you apart in the luxury space."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:18",
+      "end_timestamp": "10:26",
+      "quote": "A price that is just right will create movement. It creates emotion and it creates excitement.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This highlights the importance of strategic pricing in real estate.",
+      "suggested_hook": "Want to know the secret to making your listings irresistible?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Conduct competitive research on local listings",
+      "context": "Before listing a property, analyze the competition to understand pricing and presentation.",
+      "timestamp": "11:17"
+    },
+    {
+      "tactic": "Leverage high-quality photography and video",
+      "context": "Use these tools to tell a compelling story for unique or luxury listings.",
+      "timestamp": "15:05"
+    }
+  ],
+  "quotable_insights": [
+    "Pricing is not just about a number; it's how that number makes you feel."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares insights into the luxury real estate market, emphasizing the importance of understanding buyer psychology and strategic pricing. She discusses the challenges of low inventory markets and the need for high-quality marketing materials to tell compelling property stories. The episode also highlights the value of networking and collaboration with other agents to expand reach and opportunities.",
+  "_metadata": {
+    "source_file": "2025-05-19_item66_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T19:23:53.345727",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Terrence Murphy",
+    "title": "Real Estate Entrepreneur",
+    "company": "eXp Realty",
+    "production_level": "$1.1 billion in sales volume over 10 years",
+    "specialty": "Real estate investment and entrepreneurship",
+    "location": "Texas"
+  },
+  "main_topics": [
+    "Scaling a real estate business",
+    "Mindset and perseverance",
+    "Diversifying income streams",
+    "Importance of mentorship and coaching",
+    "Personal development and self-care"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of confidence in achieving big goals",
+      "solution_summary": "Focus on perseverance and incremental progress; think bigger and set ambitious goals.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Difficulty in scaling a real estate business",
+      "solution_summary": "Implement processes and leverage people to manage multiple businesses efficiently.",
+      "timestamp": "36:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Dependence on transactional income",
+      "solution_summary": "Create multiple income streams through investments and ancillary businesses.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Terrence discusses scaling a business to a billion-dollar level, which is relevant for agents aiming high.",
+      "key_takeaway": "Think bigger and focus on creating systems and processes to scale effectively."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode addresses diversifying income streams to avoid burnout from transactional work.",
+      "key_takeaway": "Invest in other businesses and real estate to create passive income."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "Put me in a desert, I'll find my way to the water. That's just the way I'm wired.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It encapsulates Terrence's perseverance and determination, inspiring others to adopt a similar mindset.",
+      "suggested_hook": "What does it take to turn a dream into reality? Terrence Murphy shares his secret."
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "On a normal real estate transaction, there's about 20 to 22 companies that make money. I'm teaching my people how to buy those businesses.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a concrete strategy for REALTORS to diversify income and build wealth.",
+      "suggested_hook": "Want to make more money in real estate? Here's how to tap into multiple income streams."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Time Best Spent (TBS) evaluation",
+      "context": "Regularly assess where your time is most effectively used to maximize productivity.",
+      "timestamp": "36:00"
+    },
+    {
+      "tactic": "Create a value proposition for hyper-local markets",
+      "context": "In a shifting market, focus on local opportunities like expired listings and builder partnerships.",
+      "timestamp": "55:00"
+    }
+  ],
+  "quotable_insights": [
+    "Competence creates confidence.",
+    "It's wins and lessons, not wins and losses."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Atomic Habits",
+      "context": "Recommended for building effective habits and routines."
+    },
+    {
+      "type": "book",
+      "name": "Untethered Soul",
+      "context": "Suggested for personal development and mental clarity."
+    }
+  ],
+  "episode_summary": "In this episode, Terrence Murphy shares his journey from NFL player to billion-dollar real estate entrepreneur. He emphasizes the importance of mindset, perseverance, and creating multiple income streams. Terrence offers actionable strategies for scaling a real estate business and highlights the significance of personal development and self-care.",
+  "_metadata": {
+    "source_file": "2022-12-19_item291_Terrence-Murphy",
+    "analyzed_at": "2026-01-29T16:38:31.840680",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

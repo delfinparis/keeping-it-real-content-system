@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Amanda McMillan",
+    "title": "CEO",
+    "company": "Chicago Home Partner",
+    "production_level": "Top 1% agent, top 50 city agents in Chicago",
+    "specialty": "Referral-based business model",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Challenges and strategies for introverted agents",
+    "Importance of client experience",
+    "Navigating market crises",
+    "Effective team structures"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a high-interest, low-inventory market",
+      "solution_summary": "Focus on building a referral-based business by providing exceptional client experiences and maintaining strong relationships.",
+      "timestamp": "25:12"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Balancing client expectations and market realities",
+      "solution_summary": "Be honest with clients, even if it means advising against a transaction, to build trust and long-term relationships.",
+      "timestamp": "28:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Amanda's journey from a third-generation REALTOR to a top producer offers insights into building a successful career.",
+      "key_takeaway": "Focus on client satisfaction and referrals to build a sustainable and thriving business."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn about the importance of choosing the right brokerage with strong training programs.",
+      "key_takeaway": "Seek out firms with excellent training and mentorship opportunities to accelerate your growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "29:02",
+      "end_timestamp": "29:45",
+      "quote": "I have done more business off of telling people not to do things if that's what I thought, then the alternative.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the conventional wisdom of always pushing for a sale.",
+      "suggested_hook": "Why saying 'no' can be your best sales strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Choose a brokerage with strong training programs.",
+      "context": "For new agents entering the industry, prioritize training over other factors.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Develop a client appreciation program.",
+      "context": "Maintain relationships with past clients through regular, meaningful contact.",
+      "timestamp": "44:39"
+    }
+  ],
+  "quotable_insights": [
+    "If you are going to run a referral-based business model, you better be a heck of an agent to those clients.",
+    "The success of a client doesn't necessarily mean a closing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Love is the Killer App by Tim Sanders",
+      "context": "Recommended for understanding the power of collaboration and compassion in business."
+    }
+  ],
+  "episode_summary": "In this episode, Amanda McMillan shares her journey as a top 1% agent in Chicago, emphasizing the power of a referral-based business model. She discusses strategies for introverted agents, the importance of client experience, and how honesty can build trust and long-term relationships. Amanda also highlights the value of strong training programs and maintaining client relationships through appreciation programs.",
+  "_metadata": {
+    "source_file": "2023-08-14_item228_Amanda-McMillan",
+    "analyzed_at": "2026-01-29T17:45:45.756658",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

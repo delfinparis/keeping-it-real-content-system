@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "D.J. Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": "N/A",
+    "specialty": "Agent Recruitment, AI Utilization",
+    "location": "Chicago, IL"
+  },
+  "main_topics": [
+    "Utilizing AI for Real Estate",
+    "Agent Recruitment Strategies",
+    "Improving Lead Conversion",
+    "Time Management for Agents",
+    "Building a Personal Brand"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Listings are staying on the market longer.",
+      "solution_summary": "Define the role of a top producer who sells faster and use AI to simulate their strategies.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Difficulty in following up with prospects.",
+      "solution_summary": "Use AI to create a daily call list and manage time effectively.",
+      "timestamp": "61:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Struggling with rejection in sales.",
+      "solution_summary": "Use AI to simulate objection handling and improve resilience.",
+      "timestamp": "47:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies to overcome common sales and productivity hurdles.",
+      "key_takeaway": "Utilize AI to enhance your sales process and manage time more effectively."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Insights into how top producers leverage AI for better results.",
+      "key_takeaway": "Adopt AI-driven strategies to emulate top producers' success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Acting as a top 1% listing agent who sells homes 50% faster...",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic for improving listing sales.",
+      "suggested_hook": "Want to sell your listings faster? Here's a tactic top agents use."
+    },
+    {
+      "timestamp": "47:00",
+      "end_timestamp": "47:45",
+      "quote": "If you struggle with rejection, ask ChatGPT for help...",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Offers a mindset shift on handling rejection.",
+      "suggested_hook": "Rejection got you down? Here's how AI can help you bounce back."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Define the role of an expert to solve specific problems using AI.",
+      "context": "When crafting AI queries for business solutions.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Use AI to simulate objection handling.",
+      "context": "To improve sales resilience and objection handling skills.",
+      "timestamp": "47:00"
+    }
+  ],
+  "quotable_insights": [
+    "Acting as a top 1% listing agent who sells homes 50% faster...",
+    "If you struggle with rejection, ask ChatGPT for help..."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for crafting queries to solve business problems."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Suggested as a technology partner for lead conversion."
+    }
+  ],
+  "episode_summary": "In this episode, D.J. Paris shares insights on how top real estate agents utilize AI to enhance their business strategies. He provides actionable tactics for improving lead conversion, managing time effectively, and handling sales objections. The discussion also highlights the importance of defining expert roles in AI queries to achieve specific business goals.",
+  "_metadata": {
+    "source_file": "2025-09-18_item35_D.J.-Paris",
+    "analyzed_at": "2026-01-29T19:44:04.336152",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

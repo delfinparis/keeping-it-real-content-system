@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Matt Kierkegaard",
+    "title": "Founder",
+    "company": "Movement Property Group",
+    "production_level": "Multi-million dollar team leader",
+    "specialty": "Real estate investment and team leadership",
+    "location": "Nashville, Tennessee"
+  },
+  "main_topics": [
+    "Transition from music to real estate",
+    "Overcoming financial adversity",
+    "Real estate market strategies in 2023",
+    "Team leadership and mentorship",
+    "Creative financing and investment strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming financial adversity and career pivots",
+      "solution_summary": "Matt shared his journey from financial hardship to building a successful real estate team, emphasizing determination and leveraging existing networks.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a shifting real estate market in 2023",
+      "solution_summary": "Matt discussed the importance of understanding market shifts and leveraging seller concessions and creative financing to benefit buyers.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Building a client base from scratch",
+      "solution_summary": "Matt shared his tactic of buying coffee for patrons at local coffee shops to initiate conversations and build relationships.",
+      "timestamp": "47:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Matt's journey of starting from scratch and building a successful career.",
+      "key_takeaway": "Leverage your existing network and be open to creative solutions in challenging times."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Matt's leadership style and team management insights are valuable for those managing or building a team.",
+      "key_takeaway": "Empathy and understanding your team's unique skills can drive success and loyalty."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "06:30",
+      "quote": "When you don't have another option, but for it to work, it has to work. And you figure out how to make it work.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It encapsulates the determination required to overcome adversity.",
+      "suggested_hook": "What would you do if failure wasn't an option?"
+    },
+    {
+      "timestamp": "47:00",
+      "end_timestamp": "48:00",
+      "quote": "I would go to a coffee shop and introduce myself to everyone there. Eventually, I started buying everyone's coffee for a couple of hours.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "A unique and actionable networking strategy that stands out.",
+      "suggested_hook": "Want to grow your network? Try this bold coffee shop strategy!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Buy coffee for patrons at a local coffee shop to initiate conversations.",
+      "context": "Use this tactic to build relationships and expand your network in your local community.",
+      "timestamp": "47:00"
+    },
+    {
+      "tactic": "Leverage creative financing options like HELOCs and seller concessions.",
+      "context": "Apply these strategies to help clients navigate high interest rates and market shifts.",
+      "timestamp": "38:00"
+    }
+  ],
+  "quotable_insights": [
+    "Necessity is the mother of invention, especially in real estate.",
+    "Empathy and understanding your team's unique skills can drive success and loyalty."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Shift by Gary Keller",
+      "context": "Recommended for understanding how to navigate shifting real estate markets."
+    }
+  ],
+  "episode_summary": "In this episode, Matt Kierkegaard shares his inspiring journey from financial adversity to leading a successful real estate team. He discusses the importance of determination, leveraging creative financing strategies, and building strong relationships. Matt also offers insights into navigating the 2023 real estate market and emphasizes the value of empathy and understanding in team leadership.",
+  "_metadata": {
+    "source_file": "2023-02-01_item277_Matt-Kirkkegaard",
+    "analyzed_at": "2026-01-26T20:43:39.790191",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

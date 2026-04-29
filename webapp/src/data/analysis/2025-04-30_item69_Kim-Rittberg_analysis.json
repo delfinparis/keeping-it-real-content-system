@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Digital Marketer and Real Estate Video Coach",
+    "company": null,
+    "production_level": "Top 1%",
+    "specialty": "Video marketing for real estate agents",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Video marketing strategies for real estate",
+    "Generating leads through social media",
+    "Building confidence on camera",
+    "Creating engaging content",
+    "The importance of a video strategy"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not generating leads from social media",
+      "solution_summary": "Develop a consistent video strategy and engage with your audience to convert content into leads.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling camera shy or silly",
+      "solution_summary": "Reframe mindset to see video as a tool for helping clients and gaining visibility.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of strategy in video content creation",
+      "solution_summary": "Implement a structured system for content creation to streamline the process.",
+      "timestamp": "15:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with where to start in video marketing.",
+      "key_takeaway": "Start with simple, consistent video content to build confidence and generate leads."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may have plateaued in their lead generation efforts.",
+      "key_takeaway": "Refine your video strategy and engage more deeply with your audience to boost conversions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:30",
+      "end_timestamp": "15:15",
+      "quote": "Hiding from the camera is hiding from clients.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement challenges agents to rethink their approach to video marketing.",
+      "suggested_hook": "Are you hiding from potential clients without realizing it?"
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "Your phone is a tool to make money.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Encourages agents to leverage their smartphones for business growth.",
+      "suggested_hook": "Turn your phone into a money-making machine with this simple mindset shift."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage with your audience by responding to comments and messages.",
+      "context": "Builds relationships and increases the likelihood of converting leads.",
+      "timestamp": "20:00"
+    },
+    {
+      "tactic": "Create content based on frequently asked questions from clients.",
+      "context": "Provides value and positions you as an expert.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "Content converts to cash.",
+    "If no one can see you, they can't hire you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable insights on leveraging video marketing to generate leads and grow your real estate business. She emphasizes the importance of having a structured video strategy and engaging with your audience to convert content into cash. Kim also addresses common challenges agents face, such as camera shyness and lack of content ideas, providing practical solutions to overcome these barriers.",
+  "_metadata": {
+    "source_file": "2025-04-30_item69_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:22:30.974839",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

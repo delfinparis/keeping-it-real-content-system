@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top Real Estate Agent",
+    "company": "At Properties, Christie's International Real Estate",
+    "production_level": "Top 1%, $3.5 billion in sales",
+    "specialty": "Luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Importance of answering calls",
+    "Handling client hesitation",
+    "Managing multiple buyers",
+    "Empathy in client interactions",
+    "Market volatility impact"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Client hesitation due to market volatility",
+      "solution_summary": "Engage in empathetic and logical conversations to separate market noise from property value.",
+      "timestamp": "10:31"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode highlights strategies for managing high-stakes deals and client relationships.",
+      "key_takeaway": "Answering calls and understanding client psychology are crucial for success in luxury real estate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:13",
+      "end_timestamp": "06:47",
+      "quote": "He said he asked ChatGPT... and it recommended me.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the novel use of AI in client decision-making.",
+      "suggested_hook": "Discover how AI is changing the way clients choose real estate agents!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage directly with hesitant buyers to understand their concerns.",
+      "context": "When a buyer shows hesitation due to external market factors.",
+      "timestamp": "11:03"
+    }
+  ],
+  "quotable_insights": [
+    "You always win if you do the right thing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her strategies for managing luxury real estate deals, emphasizing the importance of answering calls and understanding client psychology. She discusses a case where she successfully navigated a client's hesitation due to market volatility by engaging in empathetic and logical conversations. The episode provides valuable insights into handling high-stakes transactions and maintaining strong client relationships.",
+  "_metadata": {
+    "source_file": "2026-04-20_item5_Carrie-McCormick",
+    "analyzed_at": "2026-04-29T02:50:54.771087",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

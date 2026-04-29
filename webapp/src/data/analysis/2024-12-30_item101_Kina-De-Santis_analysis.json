@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kena DeSantis",
+    "title": "Founder and Owner",
+    "company": "Reframe",
+    "production_level": "$200M+ producer",
+    "specialty": "Social media-driven real estate sales",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Social media strategies for real estate",
+    "High-touch client management",
+    "Agile business processes",
+    "Virtual assistants in real estate",
+    "Building a personal brand"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media",
+      "solution_summary": "Kena discusses posting daily content on TikTok and Instagram focusing on providing value and education to attract clients.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining high-touch service as the business scales",
+      "solution_summary": "Implementing virtual assistants and creating detailed playbooks to ensure consistent client experiences.",
+      "timestamp": "09:45"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable personal brand",
+      "solution_summary": "Kena emphasizes authenticity and providing value in her content to build a loyal following.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging social media for significant lead generation.",
+      "key_takeaway": "Consistency and authenticity in content creation can transform your social media presence into a thriving client base."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Kena shares strategies for managing and growing a real estate team effectively.",
+      "key_takeaway": "Implementing systems and using virtual assistants can help maintain high service levels while scaling operations."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If I can just provide value, people will just show up at my door.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights a fundamental shift in approaching lead generation through value provision.",
+      "suggested_hook": "Want clients to come to you? Here's the secret..."
+    },
+    {
+      "timestamp": "31:00",
+      "end_timestamp": "31:45",
+      "quote": "We want everyone to identify us as the kid who does the most work in the group project.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This quote encapsulates the ethos of going above and beyond in service.",
+      "suggested_hook": "Why being the hardest worker pays off in real estate..."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use virtual assistants to handle repetitive tasks and maintain high-touch service.",
+      "context": "To ensure consistent client experiences without overburdening your team.",
+      "timestamp": "09:45"
+    },
+    {
+      "tactic": "Post daily on social media focusing on educational content.",
+      "context": "To build a following and generate leads through value-driven content.",
+      "timestamp": "08:30"
+    }
+  ],
+  "quotable_insights": [
+    "If you can help other people and have good intentions, you will be okay.",
+    "We're not trying to do the most deals; we're trying to do the best deals."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KeepingItRealWebinar.com",
+      "context": "For signing up for a live webinar on becoming a top producer."
+    }
+  ],
+  "episode_summary": "In this episode, Kena DeSantis shares her journey from a tech background to becoming a top real estate producer through innovative social media strategies. She discusses the importance of providing value in content, maintaining high-touch client service, and using virtual assistants to scale operations efficiently. Kena's insights offer actionable tactics for real estate agents looking to grow their business in a competitive market.",
+  "_metadata": {
+    "source_file": "2024-12-30_item101_Kina-De-Santis",
+    "analyzed_at": "2026-01-24T19:46:40.444507",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

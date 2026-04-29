@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Lisa Troyano Ascolese",
+    "title": "Broker Owner",
+    "company": "Engel and Völkers Hoboken and Jersey City",
+    "production_level": "Tripled production in five years",
+    "specialty": "Agent development and real estate entrepreneurship",
+    "location": "Hoboken and Jersey City, New Jersey"
+  },
+  "main_topics": [
+    "Agent development and mentorship",
+    "Market conditions and predictions for 2024",
+    "Brokerage operations and challenges",
+    "Marketing strategies for real estate agents",
+    "The impact of interest rates on real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory and high interest rates",
+      "solution_summary": "Focus on developing relationships with attorneys and retirement communities to find clients who need to move.",
+      "timestamp": "10:16"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Utilize social media and video marketing to create a unique personal brand.",
+      "timestamp": "24:38"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Understanding and justifying commission structures",
+      "solution_summary": "Be transparent with clients about commission structures and explain the value provided.",
+      "timestamp": "41:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to increase production and develop a strong personal brand.",
+      "key_takeaway": "Focus on building relationships and leveraging social media to stand out."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses strategies for agent development and mentorship within a brokerage.",
+      "key_takeaway": "Implement mentorship programs to support agent growth and retention."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:16",
+      "end_timestamp": "11:02",
+      "quote": "If we just see a five, if we just see five, nine, nine, nine, nine, nine, nine, like just a five, I think we would have like a wild spring.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential impact of interest rate changes on the market.",
+      "suggested_hook": "Could a small drop in interest rates ignite the real estate market?"
+    },
+    {
+      "timestamp": "24:38",
+      "end_timestamp": "25:03",
+      "quote": "Find a way that you can create a platform for yourself where you stand out because like I said earlier, we have a thousand eleven REALTORS that identify with Hoboken as a pro, that's insane.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of differentiation in a saturated market.",
+      "suggested_hook": "How do you stand out in a market with over a thousand competitors?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop relationships with attorneys and retirement communities.",
+      "context": "To find clients who are likely to need to move due to life changes.",
+      "timestamp": "20:18"
+    },
+    {
+      "tactic": "Use video marketing to enhance personal branding.",
+      "context": "Create engaging and authentic content to connect with potential clients.",
+      "timestamp": "24:38"
+    }
+  ],
+  "quotable_insights": [
+    "You're never safe when you work for someone else.",
+    "Transparency in commission structures builds trust with clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Re-staged",
+      "context": "A mobile staging app developed to address furniture waste issues."
+    }
+  ],
+  "episode_summary": "In this episode, Lisa Troyano Ascolese shares her journey from corporate America to becoming a successful broker owner who tripled her brokerage's production. She discusses the importance of agent development, the current market challenges, and the need for transparency in commission structures. Lisa also emphasizes the power of social media and video marketing in creating a standout personal brand in a competitive market.",
+  "_metadata": {
+    "source_file": "2024-02-07_item184_Lisa-Troyano-Ascolese",
+    "analyzed_at": "2026-01-26T22:25:01.243686",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

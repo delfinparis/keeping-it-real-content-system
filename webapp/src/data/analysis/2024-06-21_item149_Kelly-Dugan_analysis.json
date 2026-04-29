@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kelly Dugan",
+    "title": "Real Estate Agent",
+    "company": "The Gold Group with At Properties, Christie's International",
+    "production_level": "Top producing team member",
+    "specialty": "Client-focused real estate transactions",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Building a real estate business",
+    "Client management and education",
+    "Marketing and lead generation strategies",
+    "Navigating the current real estate market",
+    "The importance of mentorship in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating new leads from existing listings",
+      "solution_summary": "Kelly snowballs off her listings by targeting the neighborhood with brochures and personalized letters to generate interest.",
+      "timestamp": "11:56"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client expectations in a high-interest rate market",
+      "solution_summary": "Educate clients on market realities and focus on what they can control, like location and layout, rather than interest rates.",
+      "timestamp": "12:52"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the anxiety of starting in real estate",
+      "solution_summary": "Understand that real estate is a long-term game where you get what you put in, and mentorship is crucial.",
+      "timestamp": "29:14"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Kelly's journey from a hairstylist to a successful real estate agent provides inspiration and practical steps for new agents.",
+      "key_takeaway": "Focus on learning and mentorship to build a sustainable business over time."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Kelly shares advanced strategies for leveraging listings to generate more leads and manage client expectations.",
+      "key_takeaway": "Use existing listings as a springboard for new business and continuously educate clients to build trust."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:52",
+      "end_timestamp": "13:40",
+      "quote": "You're not going to wake up one day and feel like today is a great day to drop 500 grand.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It addresses the emotional aspect of buying a home, which is relatable to many buyers.",
+      "suggested_hook": "Ever feel anxious about making a big purchase? You're not alone."
+    },
+    {
+      "timestamp": "29:14",
+      "end_timestamp": "29:31",
+      "quote": "You get what you put in. Sometimes that might take a year or two years, but if you truly are dedicated, it will work out.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages new agents to stay committed and patient.",
+      "suggested_hook": "Wondering if your hard work in real estate will pay off?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Snowball marketing from listings",
+      "context": "After selling a home, target the neighborhood with brochures and letters to generate new leads.",
+      "timestamp": "11:56"
+    },
+    {
+      "tactic": "Educate clients on market realities",
+      "context": "Focus client conversations on controllable factors like location and layout rather than interest rates.",
+      "timestamp": "12:52"
+    }
+  ],
+  "quotable_insights": [
+    "Your success is her success. She's committed to making your real estate journey a success story.",
+    "It's like a fine wine; it gets better with time."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Kelly Dugan shares her journey from hairstylist to a top-producing real estate agent, emphasizing the importance of mentorship and client education. She discusses actionable strategies for lead generation and managing client expectations in a challenging market, providing valuable insights for both new and experienced agents.",
+  "_metadata": {
+    "source_file": "2024-06-21_item149_Kelly-Dugan",
+    "analyzed_at": "2026-01-29T18:38:23.193057",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

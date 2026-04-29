@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Brittany Ranew",
+    "title": "Licensed REALTOR and Relocation Expert",
+    "company": "Premiere Sotheby's International Realty",
+    "production_level": "Top Producer",
+    "specialty": "Relocation and Community Building",
+    "location": "St. Petersburg and Tampa Bay, Florida"
+  },
+  "main_topics": [
+    "Mindset and Motivation",
+    "Community Building through Podcasting",
+    "Real Estate Career Transition",
+    "Morning Routines for Success",
+    "Navigating Market Challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Limiting beliefs and anxiety impacting career growth",
+      "solution_summary": "Consistent personal development practices like gratitude journaling, affirmations, and meditation to reprogram mindset.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand in a new market",
+      "solution_summary": "Starting a community-focused podcast to connect with local businesses and residents, enhancing visibility and trust.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a competitive market",
+      "solution_summary": "Having meaningful conversations and leveraging community involvement to build relationships and referrals.",
+      "timestamp": "43:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for overcoming mindset challenges and building a personal brand.",
+      "key_takeaway": "Consistent personal development and community engagement can transform your real estate career."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into leveraging local community connections to enhance business opportunities.",
+      "key_takeaway": "Building authentic relationships and providing value to your community can lead to increased business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "18:30",
+      "quote": "A podcast is way easier to start because it's just audio. I can just get a business owner on the other side of the mic and ask them questions.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a practical approach to starting a podcast for community engagement.",
+      "suggested_hook": "Want to connect with your community and grow your real estate business? Start a podcast!"
+    },
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "28:30",
+      "quote": "It takes a lot of time to reprogram your brain. You have to be consistent with practices like gratitude and affirmations.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of consistent personal development for overcoming mental barriers.",
+      "suggested_hook": "Struggling with limiting beliefs? Here's how to reprogram your mindset for success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Start a community-focused podcast",
+      "context": "To connect with local businesses and residents, enhancing visibility and trust.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Implement a morning routine with gratitude and affirmations",
+      "context": "To maintain a positive mindset and increase productivity.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Have more meaningful conversations weekly",
+      "context": "To build relationships and generate leads in a competitive market.",
+      "timestamp": "43:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your level of success rarely exceeds your level of personal development.",
+    "In every market, there's a market. You can't stick your head in the sand."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Miracle Morning by Hal Elrod",
+      "context": "Recommended for establishing a productive morning routine."
+    },
+    {
+      "type": "program",
+      "name": "Ninja Selling",
+      "context": "For learning mindset techniques and sales strategies."
+    }
+  ],
+  "episode_summary": "In this episode, Brittany Ranew shares her journey from a music background to becoming a top-producing REALTOR in St. Petersburg, Florida. She discusses overcoming mindset challenges, building a personal brand through community engagement, and the importance of meaningful conversations in real estate. Brittany also highlights her use of a podcast to connect with local businesses and offers insights into maintaining a productive morning routine.",
+  "_metadata": {
+    "source_file": "2023-02-09_item277_Brittany-Ranew",
+    "analyzed_at": "2026-01-29T17:09:41.864625",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

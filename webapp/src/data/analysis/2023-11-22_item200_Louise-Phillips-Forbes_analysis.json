@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Louise Phillips Forbes",
+    "title": "Team Leader",
+    "company": "Brown Harris Stevens",
+    "production_level": "$5.5 billion in career sales",
+    "specialty": "Residential real estate",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Building a successful real estate career",
+    "Importance of relationships in real estate",
+    "Navigating down markets",
+    "Personal branding and authenticity",
+    "Giving back and community involvement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Navigating a down market",
+      "solution_summary": "Focus on being of service and sharing knowledge with competitors to build long-term relationships.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Maintaining authenticity in business",
+      "solution_summary": "Embrace your unique style and background to connect with clients on a personal level.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Building and managing a real estate team",
+      "solution_summary": "Hire for chemistry and complementary skills, and use personality tests to ensure team fit.",
+      "timestamp": "35:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Louise shares insights on how to build a high-performing team and maintain motivation in challenging markets.",
+      "key_takeaway": "Focus on relationships and being of service to others to build a sustainable and successful career."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Louise discusses team dynamics and the importance of hiring for chemistry and complementary skills.",
+      "key_takeaway": "Use personality assessments to ensure team members fit well together and support each other's strengths."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "If I operated from being of service at all times, what goes around comes around.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote encapsulates a powerful mindset shift that can inspire agents to focus on long-term success.",
+      "suggested_hook": "Discover the secret to thriving in any market condition."
+    },
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "Embrace who you are today and who you will become every day.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This moment highlights the importance of authenticity in building a personal brand.",
+      "suggested_hook": "Why being yourself is your greatest asset in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use personality tests for team building",
+      "context": "When hiring new team members, use personality assessments to ensure they complement existing team dynamics.",
+      "timestamp": "35:00"
+    },
+    {
+      "tactic": "Focus on data-driven storytelling",
+      "context": "When presenting to clients, use data to tell a compelling story about the market.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "It's not the business of brick and mortar. It's really the business of people.",
+    "In giving, we receive so much."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Louise Phillips Forbes shares her journey from dancer to top real estate producer, emphasizing the importance of authenticity, relationship-building, and being of service. She offers insights into navigating down markets, building a successful team, and the power of giving back to the community. Her approach to real estate is both data-driven and deeply personal, making her a standout leader in the industry.",
+  "_metadata": {
+    "source_file": "2023-11-22_item200_Louise-Phillips-Forbes",
+    "analyzed_at": "2026-01-26T21:35:48.589509",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

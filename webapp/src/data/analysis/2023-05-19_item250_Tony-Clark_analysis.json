@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Tony Clark",
+    "title": "Real Estate Agent",
+    "company": "Beverly and Company, House Haven",
+    "production_level": "Top 1%, $40M+ producer",
+    "specialty": "Investment Real Estate Strategy",
+    "location": "California, Tennessee"
+  },
+  "main_topics": [
+    "Investment Real Estate Strategy",
+    "Systems and Operations",
+    "Lead Generation and Conversion",
+    "Market Analysis",
+    "CRM Development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding investors versus finding deals",
+      "solution_summary": "Focus on identifying and understanding investor needs first, then find deals that match those criteria.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing client expectations and follow-ups",
+      "solution_summary": "Use a CRM to set tasks and reminders for consistent communication with clients.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Losing leads due to slow follow-up",
+      "solution_summary": "Implement automated workflows to ensure immediate follow-up with new leads.",
+      "timestamp": "29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Tony's success story and systems approach provide a roadmap for scaling production.",
+      "key_takeaway": "Identify a niche, understand your clients' needs, and build systems to streamline operations."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode offers insights into optimizing lead conversion and client management.",
+      "key_takeaway": "Audit your sales pipeline to identify and fix weak points in your process."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Finding the investors is actually the easy part. My suspicion is finding the deal is step number one.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It challenges the common perception that finding investors is the hardest part.",
+      "suggested_hook": "Think finding investors is the hardest part? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a CRM to automate follow-ups and manage client expectations.",
+      "context": "Set up automated workflows to ensure timely communication with leads and clients.",
+      "timestamp": "25:00"
+    },
+    {
+      "tactic": "Identify and focus on a specific niche to streamline marketing efforts.",
+      "context": "Tony focused exclusively on investment real estate to build his business.",
+      "timestamp": "10:00"
+    }
+  ],
+  "quotable_insights": [
+    "At the end of the day, if it works on the spreadsheet and you've accounted for the risks, you have a much better chance of that property being a good asset."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Bigger Pockets",
+      "context": "Recommended as a resource for learning about real estate investment and networking with investors."
+    }
+  ],
+  "episode_summary": "In this episode, Tony Clark shares how he achieved over $40 million in sales in his first 18 months as a REALTOR by focusing on investment real estate and implementing effective systems. He discusses the importance of identifying a niche, understanding client needs, and using a CRM to streamline operations and improve lead conversion. Tony also introduces his new CRM, Realty Flow, designed to simplify real estate business processes.",
+  "_metadata": {
+    "source_file": "2023-05-19_item250_Tony-Clark",
+    "analyzed_at": "2026-01-29T17:31:27.727824",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Rachel Adams Lee",
+    "title": "Top Agent and Coach",
+    "company": "Keller Williams Realty",
+    "production_level": "Top 1000 REALTOR in the US",
+    "specialty": "Social Media Strategies",
+    "location": "Northern California"
+  },
+  "main_topics": [
+    "Social Media Strategies for Real Estate",
+    "Lead Generation Techniques",
+    "Open House Best Practices",
+    "Mindset and Motivation for Agents",
+    "Building a Personal Brand"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through social media",
+      "solution_summary": "Create highly shareable content and use lead magnets to capture contact information.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting open house visitors into clients",
+      "solution_summary": "Send personalized video messages immediately after the open house to build rapport.",
+      "timestamp": "38:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated in a challenging market",
+      "solution_summary": "Surround yourself with positive influences and focus on what you can control.",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced social media strategies to significantly boost lead generation.",
+      "key_takeaway": "Use social media to create authentic, value-driven content that attracts and converts leads."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Rachel shares systems and processes that can be implemented at a team level for better results.",
+      "key_takeaway": "Implement structured follow-up systems and training to improve team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "Create highly shareable content and use lead magnets to capture contact information.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable strategy for lead generation.",
+      "suggested_hook": "Want to capture more leads through social media? Here's how!"
+    },
+    {
+      "timestamp": "38:00",
+      "end_timestamp": "38:45",
+      "quote": "Send personalized video messages immediately after the open house to build rapport.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This is a unique tactic that can differentiate agents in the market.",
+      "suggested_hook": "Stand out with this simple open house follow-up trick!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send personalized video messages after open houses.",
+      "context": "Use this tactic to build rapport and make a memorable impression on potential clients.",
+      "timestamp": "38:00"
+    },
+    {
+      "tactic": "Use lead magnets on social media to capture leads.",
+      "context": "Create downloadable content that provides value and requires contact information to access.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "You don't get the business you don't ask for.",
+    "Treat your business like a professional because you are a professional REALTOR."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Stand Store",
+      "context": "Recommended for creating opt-in pages and automating lead capture."
+    },
+    {
+      "type": "website",
+      "name": "Rachel's Freebies",
+      "context": "Provides hooks and templates for creating viral social media content."
+    }
+  ],
+  "episode_summary": "Rachel Adams Lee shares her expertise on leveraging social media for real estate success, focusing on creating authentic, value-driven content. She provides actionable strategies for lead generation, including the use of lead magnets and personalized video follow-ups after open houses. Rachel emphasizes the importance of mindset and surrounding oneself with positive influences to thrive in a challenging market.",
+  "_metadata": {
+    "source_file": "2025-04-18_item75_Rachel-Adams-Lee",
+    "analyzed_at": "2026-01-29T19:18:11.966243",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

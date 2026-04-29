@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "04:09",
+      "end_timestamp": "04:45",
+      "quote": "Mike Opid, one of the best real estate coaches in the business, is going to coach that person live in real time right here on the podcast.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the unique opportunity for agents to receive live coaching, resonating with those who feel isolated in their struggles.",
+      "suggested_hook": "Feeling stuck in your real estate career? Get coached live by one of the best in the business!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Feeling stuck in your real estate career?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Mike Opid, one of the best real estate coaches, is going to coach someone live right here on the podcast. If you’re feeling isolated in your struggles, this is for you. You're working hard, but the results just aren't showing.\",\n    \"INSIGHT\": \"Mike says, 'Most agents keep pushing alone. But real success comes from guidance.' [ON-SCREEN: Real success comes from guidance] Imagine having a mentor who can help you break through barriers in real time. [ON-SCREEN: Break through barriers] This live coaching session is your chance to see how it's done.\",\n    \"REFRAME/APPLICATION\": \"Why wait? You can start applying these insights today. Mike helped an agent close 15 deals last year using this approach. [ON-SCREEN: Close 15 deals] You can do this today.\",\n    \"CTA\": \"Have you ever had live coaching? Yes or No?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Feeling stuck? Get live coaching from top real estate coach Mike Opid. #RealEstateSuccess\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#LiveCoaching\", \"#AgentTips\", \"#RealEstateMentor\", \"#CareerGrowth\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Real success comes from guidance.\"\n}\n```"
+  }
+]

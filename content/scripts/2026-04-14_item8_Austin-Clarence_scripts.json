@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:30",
+      "end_timestamp": "10:15",
+      "quote": "If a condo complex cannot get conventional financing, what do you think is going to happen to demand and home values?",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the significant impact of regulatory changes on the market.",
+      "suggested_hook": "Are condo values about to drop? Here's what you need to know."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are condo values about to drop? Here's what you need to know.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently highlighted a critical issue on our podcast. If your condo complex can't secure conventional financing, you're in trouble. Imagine trying to sell, but buyers can't get loans. That's a nightmare. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin said, 'If a condo complex cannot get conventional financing, demand and home values will plummet.' [ON-SCREEN: Demand and home values will plummet] Most agents ignore this until it's too late. Top producers, however, prepare by understanding new Fannie Mae and Freddie Mac rules. [ON-SCREEN: Understand new rules]\",\n    \"REFRAME/APPLICATION\": \"This matters because these changes are happening now. You can review your condo listings today to ensure they meet new guidelines. Austin's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are your condo listings compliant — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"New rules could impact condo values. Are your listings ready? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#CondoMarket\",\n    \"#FannieMae\",\n    \"#FreddieMac\",\n    \"#AgentTips\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If a condo complex cannot get conventional financing, demand and home values will plummet.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "Bridge loans allow you to tap into your property's equity without needing a contingent offer.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable solution for buyers in a competitive market.",
+      "suggested_hook": "Struggling to buy before you sell? This financing trick could be your solution."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling to buy before you sell? Here's your secret weapon.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently shared a game-changing tip on our podcast. If you're stuck trying to buy a new home before selling your current one, you know the stress. The market's competitive, and contingent offers can be a deal-breaker.\",\n    \"INSIGHT\": \"Austin mentioned, 'Bridge loans allow you to tap into your property's equity without needing a contingent offer.' [ON-SCREEN: Bridge loans = no contingent offer] This means you can secure your next home while still owning your current one. [ON-SCREEN: Secure your next home now]\",\n    \"REFRAME/APPLICATION\": \"In today's fast-paced market, this tactic is crucial. You can start exploring bridge loans this week and potentially close deals faster. [ON-SCREEN: Start this week]\",\n    \"CTA\": \"Have you tried bridge loans yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock your property's potential with bridge loans! 🏡💡\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#BridgeLoans\",\n    \"#HomeBuying\",\n    \"#RealEstateAdvice\",\n    \"#MarketStrategies\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Bridge loans allow you to tap into your property's equity without needing a contingent offer.\"\n}\n```"
+  }
+]

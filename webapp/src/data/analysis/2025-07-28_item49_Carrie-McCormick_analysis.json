@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Broker",
+    "company": "Carrie McCormick Real Estate Group, Christie's International",
+    "production_level": "Top 1% producer",
+    "specialty": "Luxury properties, first-time home buyers, veteran investors",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Local market focus vs. geographic expansion",
+    "Strategies for thriving in a challenging market",
+    "The impact of interest rates on buying and selling decisions",
+    "The importance of community involvement",
+    "Building a personal brand on social media"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Whether to expand geographically or focus locally",
+      "solution_summary": "Carrie McCormick emphasizes staying local and going deep within your market to dominate and build trust.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Sellers hesitant to move due to low interest rates",
+      "solution_summary": "Encourage sellers to consider long-term benefits and potential for negotiating better prices now.",
+      "timestamp": "11:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode showcases strategies for becoming a top producer by focusing on local markets.",
+      "key_takeaway": "Success can be achieved by deeply understanding and serving your local market rather than spreading too thin."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into recruiting and retaining agents using AI tools.",
+      "key_takeaway": "Utilize AI tools to identify potential recruits and tailor your approach to their needs."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "Instead of thinking of going wide, think about going deep within your market.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the conventional wisdom of geographic expansion and emphasizes the power of local expertise.",
+      "suggested_hook": "Want to dominate your market? Here's why going deep beats going wide."
+    },
+    {
+      "timestamp": "11:00",
+      "end_timestamp": "11:45",
+      "quote": "If you're really unhappy in your home but staying because of the interest rate, that's a bad idea.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This resonates with homeowners feeling trapped by low interest rates.",
+      "suggested_hook": "Are low interest rates keeping you in a home you don't love?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on local market dominance",
+      "context": "Stay in your lane and over-market your local expertise.",
+      "timestamp": "05:00"
+    },
+    {
+      "tactic": "Use AI tools for recruitment",
+      "context": "Utilize AI to identify agents likely to move and tailor your recruitment strategy.",
+      "timestamp": "01:30"
+    }
+  ],
+  "quotable_insights": [
+    "When you're building trust with high-net-worth clients, you want to deliver global reach without leaving your city.",
+    "Think about going deep within your market rather than wide."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her strategy of focusing on local market dominance to achieve top producer status. She discusses the benefits of going deep within your market, the impact of interest rates on buying decisions, and the importance of community involvement. The episode also highlights the use of AI tools for agent recruitment and retention.",
+  "_metadata": {
+    "source_file": "2025-07-28_item49_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T19:34:20.324496",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Chris Lincel",
+    "title": "Real Estate Technology Analyst",
+    "company": "Luxury Presence",
+    "production_level": null,
+    "specialty": "Real estate technology and content",
+    "location": "Michigan"
+  },
+  "main_topics": [
+    "Rising average age of first-time home buyers",
+    "Impact of political changes on real estate",
+    "Multi-generational housing trends",
+    "Opportunities in new construction and inventory",
+    "Importance of social media in real estate marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Rising age and decreasing number of first-time home buyers",
+      "solution_summary": "Develop expertise around the needs of younger buyers and educate them on the benefits of home ownership.",
+      "timestamp": "13:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Tight inventory and high borrowing costs",
+      "solution_summary": "Engage with local officials to support new construction and increase inventory.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Alienating potential clients with political posts on social media",
+      "solution_summary": "Be mindful of the long-term impact of political posts and focus on inclusivity to avoid alienating potential clients.",
+      "timestamp": "04:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging market trends and political changes to grow business.",
+      "key_takeaway": "Engage with local officials and educate younger buyers to capitalize on market opportunities."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies for team leaders to navigate market challenges and support team growth.",
+      "key_takeaway": "Foster relationships with local government and focus on community engagement to drive team success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:00",
+      "end_timestamp": "13:45",
+      "quote": "The average age for first-time home buyers is now 38, up from 35 last year.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a significant market shift that affects strategy.",
+      "suggested_hook": "Did you know the average age of first-time home buyers is rising rapidly?"
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "Engage with local officials to support new construction and increase inventory.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear action step for addressing inventory challenges.",
+      "suggested_hook": "Want to solve the inventory crisis? Here's a strategy you might not have considered."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage with local officials to support new construction.",
+      "context": "To increase housing inventory and create opportunities for first-time buyers.",
+      "timestamp": "25:00"
+    },
+    {
+      "tactic": "Educate younger buyers on the benefits of home ownership.",
+      "context": "To prepare them for future purchasing opportunities and reduce the average age of first-time buyers.",
+      "timestamp": "33:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate is a micro market business where what really matters is what's happening on the streets, on the individual blocks of the communities that you serve.",
+    "If you choose to build a community that only incorporates a certain political view, you are choosing by default who you're not going to include in that community."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "A technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "This episode discusses the rising age of first-time home buyers and the impact of political changes on the real estate market. Chris Lincel emphasizes the importance of engaging with local officials to support new construction and increase inventory. The episode also highlights the need for REALTORS to educate younger buyers and be mindful of their social media presence to avoid alienating potential clients.",
+  "_metadata": {
+    "source_file": "2024-11-21_item113_Chris-Linsell",
+    "analyzed_at": "2026-01-29T18:57:01.185924",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

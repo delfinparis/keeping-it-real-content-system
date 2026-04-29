@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Shelby Johnson",
+    "title": "Broker and Investor",
+    "company": "Five Pillars Real Estate with eXp",
+    "production_level": "Closed 48 transactions in first year; over 500 in two and a half years",
+    "specialty": "Real estate investment, coaching, and team building",
+    "location": "North and South Carolina"
+  },
+  "main_topics": [
+    "Transition from military to real estate",
+    "Building a scalable real estate business",
+    "Importance of systems and operations",
+    "Real estate investment strategies",
+    "Coaching and mentorship in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of structured processes for real estate transactions",
+      "solution_summary": "Implementing transaction coordinators and leveraging their expertise to manage timelines and paperwork efficiently.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of failure and rejection",
+      "solution_summary": "Adopting a military mindset where 'no' is not an answer and persistence is key.",
+      "timestamp": "10:30"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding effective lead generation strategies",
+      "solution_summary": "Testing various methods to find an authentic fit and then doubling down on that strategy.",
+      "timestamp": "41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Shelby discusses scaling from a solo agent to leading a team with hundreds of transactions.",
+      "key_takeaway": "Leverage systems and mentorship to rapidly grow your real estate business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Shelby shares insights on transitioning from a traditional team model to a more flexible, scalable approach.",
+      "key_takeaway": "Empower agents with systems and eliminate the middleman to increase profitability."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "10:00",
+      "quote": "In the military, you can't say 'I couldn't do it.' No is not an answer.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights a powerful mindset that can be applied to real estate.",
+      "suggested_hook": "Learn how a military mindset can transform your real estate career."
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "Hiring a transaction coordinator was my first real step up.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable step for agents looking to scale.",
+      "suggested_hook": "The one hire that can revolutionize your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hire a transaction coordinator early in your career.",
+      "context": "To manage paperwork and timelines, freeing up time for lead generation and client interaction.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Shadow top agents to learn their systems and processes.",
+      "context": "Approach them with humility and a willingness to learn by observation.",
+      "timestamp": "17:00"
+    }
+  ],
+  "quotable_insights": [
+    "The military instills a sense of urgency within you because there's so much pressure all the time.",
+    "If you're creative, the world is yours in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Rich Dad Poor Dad by Robert Kiyosaki",
+      "context": "Inspired Shelby to pursue real estate investing."
+    },
+    {
+      "type": "website",
+      "name": "biggerpockets.com",
+      "context": "Used by Shelby to learn about real estate investing."
+    }
+  ],
+  "episode_summary": "In this episode, Shelby Johnson shares her journey from military service to becoming a top-producing real estate agent and coach. She discusses the importance of discipline, systems, and mentorship in scaling a real estate business. Shelby also highlights the value of transaction coordinators and offers insights into building a sellable business model.",
+  "_metadata": {
+    "source_file": "2023-08-23_item226_Shelby-Johnson",
+    "analyzed_at": "2026-01-26T21:16:06.150404",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

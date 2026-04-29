@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Scott Spellker",
+    "title": "Real Estate Agent",
+    "company": "Coldwell Banker",
+    "production_level": "Number one agent in his area",
+    "specialty": "Trust-building and client relations",
+    "location": "Madison, New Jersey"
+  },
+  "main_topics": [
+    "Building trust as a real estate agent",
+    "Effective marketing and branding strategies",
+    "Navigating interest rates and market conditions",
+    "Providing value to clients",
+    "Transitioning careers successfully"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing trust with clients",
+      "solution_summary": "Be genuine, provide value, and demonstrate expertise to build trust.",
+      "timestamp": "00:05:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Standing out in a competitive market",
+      "solution_summary": "Use personalized branding and extensive signage to increase visibility.",
+      "timestamp": "00:08:12"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of Fed rate changes",
+      "solution_summary": "Educate clients that Fed rate changes do not directly affect mortgage rates.",
+      "timestamp": "00:41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Scott shares strategies for becoming a top agent through trust and branding.",
+      "key_takeaway": "Focus on building genuine relationships and providing exceptional value."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Scott discusses finding new motivation and purpose in real estate.",
+      "key_takeaway": "Reassess what drives you and align your career with those motivations."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:02",
+      "end_timestamp": "00:06:04",
+      "quote": "You really have to kind of brand yourself in some way... and the word was trust.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It offers a clear strategy for personal branding.",
+      "suggested_hook": "How can you stand out as a real estate agent? Start with trust."
+    },
+    {
+      "timestamp": "00:41:00",
+      "end_timestamp": "00:42:08",
+      "quote": "The Fed could cut interest rates and actually that 10-year yield could go up.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges common misconceptions about interest rates.",
+      "suggested_hook": "Think Fed rate cuts mean lower mortgage rates? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Brand your open house signs and use extensive signage.",
+      "context": "To increase visibility and project a high level of activity.",
+      "timestamp": "00:08:12"
+    },
+    {
+      "tactic": "Provide exceptional service by going the extra mile.",
+      "context": "Check on clients' properties during emergencies to build trust.",
+      "timestamp": "00:29:13"
+    }
+  ],
+  "quotable_insights": [
+    "Don't be a secret agent. Interact with other people, and preferably in things that you enjoy.",
+    "Providing value is what drives me. I love to try to be able to pay for my own commission."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Scott Spellker discusses the importance of building trust and branding in real estate. He shares actionable strategies for standing out in a competitive market and provides insights into how interest rates affect the housing market. Scott also emphasizes the value of providing exceptional service to clients and finding personal motivation in one's career.",
+  "_metadata": {
+    "source_file": "2025-10-22_item26_Scott-Spelker",
+    "analyzed_at": "2026-01-29T19:50:23.372413",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

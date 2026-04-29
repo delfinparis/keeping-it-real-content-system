@@ -1,0 +1,78 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Future-proofing your real estate business",
+    "Generational shifts in real estate",
+    "Importance of communication in client relationships",
+    "Adapting to technological changes",
+    "Maintaining human touch in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to technological and generational changes in real estate",
+      "solution_summary": "Agents need to pivot and adapt to new technologies and communication methods to stay relevant.",
+      "timestamp": "04:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Effective communication with clients",
+      "solution_summary": "Develop a communication plan that respects client preferences and offers value.",
+      "timestamp": "08:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on maintaining top producer status by adapting to industry changes.",
+      "key_takeaway": "Embrace technological changes and maintain strong communication skills to stay at the top."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veterans can learn how to leverage their experience while adapting to new industry standards.",
+      "key_takeaway": "Your experience is valuable; combine it with new technology to continue thriving."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:25",
+      "end_timestamp": "06:10",
+      "quote": "A surfer will live for that big wave to come, and once that big wave comes, you have a choice: ride the wave or get devastated by it.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "The analogy powerfully illustrates the necessity of adapting to change.",
+      "suggested_hook": "Are you ready to ride the wave of change in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Ask clients their preferred communication method and times.",
+      "context": "To ensure effective communication and respect client preferences.",
+      "timestamp": "11:00"
+    }
+  ],
+  "quotable_insights": [
+    "Confidence in our industry is very different than ego.",
+    "Don't forget just to be a real human and be kind to people."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to improve lead conversion and client management."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses how real estate agents can future-proof their business by adapting to technological and generational changes. She emphasizes the importance of maintaining strong communication skills and a human touch in client relationships. The episode offers actionable insights for agents to stay relevant and thrive in a rapidly evolving industry.",
+  "_metadata": {
+    "source_file": "2024-06-03_item153_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T18:35:58.535802",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

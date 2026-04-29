@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "Ranked number 13 in production in the Chicago land area",
+    "specialty": "First-time home buyers, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Authenticity and kindness in real estate",
+    "Market challenges and opportunities in 2023",
+    "The role of Zestimates in client communication",
+    "Importance of personal branding",
+    "Effective client communication strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to be authentic and kind in business",
+      "solution_summary": "Lead with authenticity and kindness to build genuine relationships and drive business growth.",
+      "timestamp": "00:03:55"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Market uncertainty in 2023",
+      "solution_summary": "Have a defined business plan and stay positive about market opportunities.",
+      "timestamp": "00:03:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Clients relying on inaccurate Zestimates",
+      "solution_summary": "Reach out to clients to provide accurate home valuations and educate them on Zestimates.",
+      "timestamp": "00:12:42"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Carrie McCormick shares insights on maintaining top production levels through authenticity and strategic planning.",
+      "key_takeaway": "Being genuine and kind can lead to high-impact connections and business success."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for navigating market challenges and improving client communication.",
+      "key_takeaway": "Develop a clear business plan and proactively communicate with clients to stay ahead."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:05:13",
+      "quote": "If you are genuine, it can be extremely effective.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the power of authenticity in building trust and business.",
+      "suggested_hook": "Discover why being genuine is your secret weapon in real estate."
+    },
+    {
+      "timestamp": "00:12:42",
+      "end_timestamp": "00:13:15",
+      "quote": "I would love to have a quick conversation with you and just give you my update on what I actually think your home might be worth.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic for REALTORS to engage with clients over Zestimates.",
+      "suggested_hook": "How to turn Zestimates into client conversations."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Reach out to clients about their home's Zestimate.",
+      "context": "Use it as a conversation starter to provide real market value and build trust.",
+      "timestamp": "00:12:42"
+    },
+    {
+      "tactic": "Pick up the phone and call clients.",
+      "context": "In an era of digital communication, personal calls can make a significant impact.",
+      "timestamp": "00:15:53"
+    }
+  ],
+  "quotable_insights": [
+    "Being authentic and leading with kindness is going to be your plan for 2023.",
+    "Kindness is a choice, and you got to choose it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for REALTORS to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "CRM recommended for driving more leads and improving follow-up."
+    },
+    {
+      "type": "tool",
+      "name": "Slide Dial",
+      "context": "Used for leaving voicemail messages without ringing the phone."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick emphasizes the importance of authenticity and kindness in building successful real estate relationships. She discusses strategies for navigating the 2023 market challenges, including proactive client communication about Zestimates. The episode provides actionable insights on personal branding and effective client engagement.",
+  "_metadata": {
+    "source_file": "2023-01-09_item285_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T16:42:21.909641",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

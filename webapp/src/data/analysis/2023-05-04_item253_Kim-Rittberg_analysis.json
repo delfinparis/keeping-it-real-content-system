@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Content Marketing Expert",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video Content Creation",
+    "location": null
+  },
+  "main_topics": [
+    "Three E's of Video Content",
+    "Importance of a Strong Hook",
+    "Types of Video Content: Educational, Emotional, Entertaining",
+    "Using Personal Stories in Content",
+    "Leveraging Pop Culture in Videos"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating engaging social media content",
+      "solution_summary": "Focus on the three E's: educational, emotional, or entertaining content with a strong hook.",
+      "timestamp": "00:02:25"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on creating engaging content that can elevate personal branding.",
+      "key_takeaway": "Use the three E's to create videos that resonate with your audience and showcase your expertise."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:32",
+      "end_timestamp": "00:04:01",
+      "quote": "The hook is the first two seconds of the video. If you don't have them in the first two seconds, you don't have them.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the critical importance of the first two seconds in video content, a key insight for content creators.",
+      "suggested_hook": "Why the first two seconds of your video are make or break."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Start videos with a strong hook",
+      "context": "The first two seconds should grab attention to ensure viewers continue watching.",
+      "timestamp": "00:03:32"
+    },
+    {
+      "tactic": "Incorporate personal stories",
+      "context": "Use personal experiences to create emotional connections with the audience.",
+      "timestamp": "00:10:12"
+    }
+  ],
+  "quotable_insights": [
+    "You're not selling a home, you're selling yourself.",
+    "Pets and babies are the best content for video."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses the three E's of creating compelling video content: educational, emotional, and entertaining. She emphasizes the importance of a strong hook in the first two seconds of a video and shares insights on leveraging personal stories and pop culture to engage audiences. The episode provides actionable tips for real estate agents looking to enhance their personal brand through video.",
+  "_metadata": {
+    "source_file": "2023-05-04_item253_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:28:30.733950",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

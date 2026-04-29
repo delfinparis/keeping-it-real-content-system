@@ -1,0 +1,87 @@
+{
+  "guest_info": {
+    "name": "Jarred Talmadge",
+    "title": "Author, Instructor, and Consultant",
+    "company": null,
+    "production_level": null,
+    "specialty": "LinkedIn for Real Estate",
+    "location": "Denver, Colorado"
+  },
+  "main_topics": [
+    "Leveraging LinkedIn for Real Estate",
+    "Content Creation on LinkedIn",
+    "Building a Digital Reputation",
+    "Lead Generation Strategies",
+    "LinkedIn Features and Tools"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not utilizing LinkedIn effectively for lead generation",
+      "solution_summary": "Use LinkedIn to build a digital storefront and engage with clients through personalized content and messages.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not controlling their online narrative",
+      "solution_summary": "Optimize LinkedIn profiles to ensure they appear prominently in search results and communicate the agent's value proposition.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with establishing an online presence and generating leads.",
+      "key_takeaway": "LinkedIn can be a powerful tool for building a professional reputation and generating leads if used strategically."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Top producers are always looking for new ways to expand their reach and influence.",
+      "key_takeaway": "Leveraging LinkedIn's unique features can differentiate you from competitors and enhance your professional network."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "29:00",
+      "end_timestamp": "30:00",
+      "quote": "If you want to stand out, use LinkedIn's audio and video messaging features to connect personally.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It introduces a little-known feature that can significantly enhance personal connections.",
+      "suggested_hook": "Want to make a lasting impression on LinkedIn? Try this underutilized feature."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use LinkedIn's audio and video messaging to personalize communication.",
+      "context": "When reaching out to connections, especially for milestones or introductions.",
+      "timestamp": "28:00"
+    },
+    {
+      "tactic": "Start a LinkedIn newsletter to share insights and build authority.",
+      "context": "For agents with over 150 connections looking to expand their influence.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "LinkedIn is not just your digital resume; it's your digital reputation."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The LinkedIn Real Estate Agent",
+      "context": "Jarred's book provides comprehensive strategies for leveraging LinkedIn in real estate."
+    },
+    {
+      "type": "website",
+      "name": "classeswithjarred.com",
+      "context": "Offers free resources and consulting services for real estate professionals."
+    }
+  ],
+  "episode_summary": "In this episode, Jarred Talmadge shares how real estate agents can leverage LinkedIn to build their digital reputation and generate leads. He discusses the importance of personalized communication through LinkedIn's audio and video messaging features and highlights the potential of starting a LinkedIn newsletter to establish authority and engage with a broader audience.",
+  "_metadata": {
+    "source_file": "2025-02-20_item89_Jarred-Talmadge",
+    "analyzed_at": "2026-01-24T19:53:31.846992",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Caira Button",
+    "title": "Real Estate Agent",
+    "company": "Compass",
+    "production_level": "NAR 30 under 30 winner",
+    "specialty": "Social media-based lead generation",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Social media marketing for real estate",
+    "Building a YouTube channel for lead generation",
+    "Transitioning from content creation to real estate",
+    "Challenges and benefits of leading a real estate team",
+    "Personal branding through authentic content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without spending money",
+      "solution_summary": "Utilizing YouTube and social media to create authentic, value-driven content that attracts leads organically.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Focus on niche content that showcases personal passion and expertise, building a genuine connection with the audience.",
+      "timestamp": "00:11:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming imposter syndrome",
+      "solution_summary": "Embrace the uniqueness of your journey and focus on providing value through your personal experiences.",
+      "timestamp": "00:38:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging social media for lead generation and personal branding.",
+      "key_takeaway": "Consistency and authenticity in content creation can lead to significant business growth."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers a roadmap for starting in real estate through content creation.",
+      "key_takeaway": "Start with what you love and let your passion guide your business development."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:05:30",
+      "quote": "I did not build my YouTube channel for real estate whatsoever. Like that came out of nowhere for me.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that social media must be built around business from the start.",
+      "suggested_hook": "What if your biggest business opportunity came from an unexpected passion?"
+    },
+    {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:30",
+      "quote": "If you are doing YouTube, you better love video editing and video content creation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of passion in sustaining long-term content creation.",
+      "suggested_hook": "The secret to successful YouTube marketing? Love what you do."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on niche content that provides value and education.",
+      "context": "Create videos that address specific problems or interests of your target audience.",
+      "timestamp": "00:17:00"
+    },
+    {
+      "tactic": "Be consistent with content output.",
+      "context": "Commit to a regular posting schedule to build and maintain an audience.",
+      "timestamp": "00:14:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your first videos are going to be garbage. They are always going to be so bad compared to what you end up doing.",
+    "Socials is my bread and butter. I absolutely love having that be my primary marketing source."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads."
+    },
+    {
+      "type": "tool",
+      "name": "Apply Design",
+      "context": "Virtual staging solution for enhancing real estate listings."
+    }
+  ],
+  "episode_summary": "Caira Button shares her journey from content creator to successful real estate agent, emphasizing the power of social media in generating leads without spending money. She discusses the importance of authenticity and passion in building a personal brand and offers insights into managing a real estate team. The episode provides actionable advice for agents looking to leverage YouTube and social media for business growth.",
+  "_metadata": {
+    "source_file": "2024-02-27_item179_Caira-Button",
+    "analyzed_at": "2026-01-29T18:22:06.978558",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

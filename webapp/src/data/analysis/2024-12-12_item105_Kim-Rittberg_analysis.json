@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Real Estate Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content creation for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Video content strategies for real estate agents",
+    "End-of-year video creation",
+    "Building connection and credibility through social media",
+    "Leveraging AI in real estate",
+    "New Year's resolutions for business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not effectively using video to connect with clients",
+      "solution_summary": "Create connection and credibility videos to engage clients and showcase expertise.",
+      "timestamp": "00:04:27"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not generating leads through social media",
+      "solution_summary": "Use your phone as a money maker by creating engaging video content.",
+      "timestamp": "00:06:16"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Staying relevant in the market with upcoming trends",
+      "solution_summary": "Share prognostications and market forecasts to establish expertise.",
+      "timestamp": "00:10:22"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to enhance personal branding through video.",
+      "key_takeaway": "Use video content to build a strong personal brand and connect with potential clients."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on how to showcase team achievements and set resolutions.",
+      "key_takeaway": "Highlight team successes and set clear goals for the new year to motivate and lead effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:26",
+      "end_timestamp": "00:06:43",
+      "quote": "Your phone is a money maker. If you're not using it to make money, you're leaving money on the table.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges agents to rethink how they use their phones for business.",
+      "suggested_hook": "Are you leaving money on the table with your smartphone?"
+    },
+    {
+      "timestamp": "00:10:29",
+      "end_timestamp": "00:10:55",
+      "quote": "Prognostication: AI will be key in 2025, but don't lose your human touch.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the balance between technology and personal connection.",
+      "suggested_hook": "How will AI shape real estate in 2025?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a connection video showcasing personal experiences from the past year.",
+      "context": "To build a personal connection with your audience.",
+      "timestamp": "00:06:58"
+    },
+    {
+      "tactic": "Produce a professional wins video highlighting your achievements and client successes.",
+      "context": "To establish credibility and showcase your expertise.",
+      "timestamp": "00:07:49"
+    },
+    {
+      "tactic": "Share New Year's resolutions to demonstrate growth and future goals.",
+      "context": "To engage your audience with your plans for improvement.",
+      "timestamp": "00:08:24"
+    }
+  ],
+  "quotable_insights": [
+    "The whole point of being on social media is to connect with existing clients and connect with potential new clients.",
+    "If you're not using your phone to make money, you're making a mistake."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares strategies for real estate agents to leverage video content for business growth. She emphasizes the importance of creating connection and credibility videos to engage clients and build a personal brand. The episode also discusses the role of AI in the future of real estate and offers actionable tactics for end-of-year content creation.",
+  "_metadata": {
+    "source_file": "2024-12-12_item105_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T19:44:56.851218",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

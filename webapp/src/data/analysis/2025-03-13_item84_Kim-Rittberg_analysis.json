@@ -1,0 +1,87 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning marketer and real estate video coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Real estate video marketing",
+    "location": null
+  },
+  "main_topics": [
+    "Goal setting for video marketing",
+    "Overcoming fear and imposter syndrome",
+    "Building a personal brand through video",
+    "Effective video strategies for real estate agents",
+    "Utilizing social media for business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of judgment and imposter syndrome preventing agents from using video",
+      "solution_summary": "Shift from 'supermodel mode' to 'teacher mode' and focus on providing value and education.",
+      "timestamp": "00:05:20"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not leveraging video to showcase their personality and expertise",
+      "solution_summary": "Create 'about me' videos and engage with audiences on social media to build a personal connection.",
+      "timestamp": "00:07:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with confidence and fear of putting themselves out there.",
+      "key_takeaway": "Start with simple video content and gradually build confidence by focusing on value rather than perfection."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Top producers need to differentiate themselves and build a strong personal brand.",
+      "key_takeaway": "Consistently use video to showcase expertise and connect with potential clients on a personal level."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:57",
+      "end_timestamp": "00:06:12",
+      "quote": "Get out of supermodel mode and into teacher mode.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This phrase encapsulates a key mindset shift necessary for effective video marketing.",
+      "suggested_hook": "Are you too focused on how you look in videos? Here's why you should focus on what you teach instead."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a three-take rule for filming videos.",
+      "context": "To overcome perfectionism and fear of judgment, limit yourself to three takes per video.",
+      "timestamp": "00:08:38"
+    },
+    {
+      "tactic": "Have someone in your office ask you questions on camera.",
+      "context": "This approach helps ease the process of getting comfortable on camera by simulating a natural conversation.",
+      "timestamp": "00:08:13"
+    }
+  ],
+  "quotable_insights": [
+    "You cannot build a business off of one video. You have to keep going, even when you think nobody's watching."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to convert leads and manage client relationships effectively."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "A recruitment tool for identifying agents likely to move, helping brokerages grow their teams."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses the importance of using video to build a personal brand in real estate. She addresses common fears such as judgment and imposter syndrome, offering practical solutions like the three-take rule and focusing on value over appearance. Kim emphasizes the power of consistent video content to engage clients and grow a real estate business.",
+  "_metadata": {
+    "source_file": "2025-03-13_item84_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:12:23.392215",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

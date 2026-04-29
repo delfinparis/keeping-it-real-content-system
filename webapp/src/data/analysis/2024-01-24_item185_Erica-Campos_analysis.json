@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Erica Campos",
+    "title": "REALTOR",
+    "company": "Coldwell Banker",
+    "production_level": "Closed 5 transactions in first 6 months",
+    "specialty": "Real estate for Spanish-speaking clients",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Transitioning to real estate from another career",
+    "Effective use of open houses for lead generation",
+    "Importance of continuous education and designations",
+    "Building and maintaining client relationships",
+    "Utilizing social media for personal branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to generate leads as a new agent without listings",
+      "solution_summary": "Erica reached out to other agents to host open houses, used social media to announce her new career, and leveraged her existing network.",
+      "timestamp": "21:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Erica stays in touch with clients through personalized follow-ups, holiday cards, and by offering value such as project referrals.",
+      "timestamp": "13:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a personal brand as a new agent",
+      "solution_summary": "Erica uses social media to share her journey, successes, and educational content, building a recognizable brand.",
+      "timestamp": "38:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Erica's story of starting from scratch and quickly finding success is highly relevant to new agents.",
+      "key_takeaway": "Focus on building relationships, leveraging open houses, and using social media to establish your presence."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "Let me sign you in. It's a compliance and safety measure.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a simple, effective script for ensuring open house attendees sign in.",
+      "suggested_hook": "Struggling to get open house visitors to sign in? Try this simple script."
+    },
+    {
+      "timestamp": "45:00",
+      "end_timestamp": "46:00",
+      "quote": "Each transaction is a learning opportunity.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to view mistakes as learning opportunities.",
+      "suggested_hook": "Why every mistake in real estate is actually a hidden gem."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use open houses to generate leads",
+      "context": "Reach out to other agents to host their open houses and use them to build your client base.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Personalize follow-ups with clients",
+      "context": "Use notes from open house interactions to tailor follow-up messages.",
+      "timestamp": "27:00"
+    }
+  ],
+  "quotable_insights": [
+    "Clients can easily forget who their REALTOR was; make sure you're unforgettable.",
+    "Embrace mistakes and imperfection; they are the best teachers."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a CRM and lead generation tool for REALTORS."
+    },
+    {
+      "type": "tool",
+      "name": "Remine",
+      "context": "Used to check property details and exemptions."
+    }
+  ],
+  "episode_summary": "In this episode, Erica Campos shares her journey from a financial literacy coach to a successful REALTOR in just six months. She discusses the importance of leveraging open houses, maintaining client relationships, and using social media to build a personal brand. Erica's story is a testament to the power of hard work, continuous learning, and strategic networking.",
+  "_metadata": {
+    "source_file": "2024-01-24_item185_Erica-Campos",
+    "analyzed_at": "2026-01-26T22:24:11.780368",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

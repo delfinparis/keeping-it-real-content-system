@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Matt Miale",
+    "title": "Real Estate Leader and Entrepreneur",
+    "company": "The Miale Team at Keller Williams Legacy Partners",
+    "production_level": "Top producing team closing over 600 homes annually",
+    "specialty": "Building scalable businesses with a focus on performance and purpose",
+    "location": "Connecticut"
+  },
+  "main_topics": [
+    "Importance of focusing on the right ideas and execution",
+    "Building relationships through client events",
+    "Navigating the current real estate market challenges",
+    "The value of joining a real estate team",
+    "Practicing and improving conversation skills"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Choosing the right idea to focus on",
+      "solution_summary": "Focus on the idea that moves you closest to your goal and avoid distractions.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Staying in touch with clients",
+      "solution_summary": "Host client events to maintain relationships and generate referrals.",
+      "timestamp": "44:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory and high competition",
+      "solution_summary": "Practice conversations to help clients understand market conditions and make informed decisions.",
+      "timestamp": "29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on scaling production and building a strong team.",
+      "key_takeaway": "Focus on building relationships and practicing key conversations to drive success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies for leading a high-performing team and leveraging events for client engagement.",
+      "key_takeaway": "Create a supportive environment and focus on relationship-driven lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "It's the ability to pick the right one for right now.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that more ideas are better, emphasizing focus.",
+      "suggested_hook": "Are you overwhelmed by too many good ideas? Here's why focus is key."
+    },
+    {
+      "timestamp": "44:00",
+      "end_timestamp": "45:00",
+      "quote": "The event itself was the least important part. The most important part was the opportunity to stay in deep relationships.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the true value of client events beyond the event itself.",
+      "suggested_hook": "Think client events are just for fun? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host client events to maintain and deepen relationships.",
+      "context": "Use events as a way to engage with your sphere and generate referrals.",
+      "timestamp": "44:00"
+    },
+    {
+      "tactic": "Practice key conversations to improve client interactions.",
+      "context": "Regularly drill conversations to handle market objections effectively.",
+      "timestamp": "29:00"
+    }
+  ],
+  "quotable_insights": [
+    "The best piece of advice is to pick the right idea for right now.",
+    "A really good advocate stays detached from the outcome."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Millionaire Real Estate Agent",
+      "context": "Discussed as a foundational guide for building a real estate business."
+    }
+  ],
+  "episode_summary": "In this episode, Matt Miale shares insights on focusing on the right ideas, the importance of client events for relationship building, and navigating current market challenges. He emphasizes the value of joining a team for collaboration and support, and the necessity of practicing key conversations to improve client interactions.",
+  "_metadata": {
+    "source_file": "2025-05-26_item65_Matt-Miale",
+    "analyzed_at": "2026-01-29T19:25:12.948017",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

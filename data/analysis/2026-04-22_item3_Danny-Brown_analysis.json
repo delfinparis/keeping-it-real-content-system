@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Danny Brown",
+    "title": "Luxury Real Estate Advisor",
+    "company": "Compass",
+    "production_level": "$1.2 billion in volume",
+    "specialty": "Ultra high net worth individuals and luxury real estate",
+    "location": "Beverly Hills, Los Angeles"
+  },
+  "main_topics": [
+    "Building a reputation in luxury real estate",
+    "The importance of agent relationships",
+    "Navigating ultra high net worth client interactions",
+    "The impact of brokerage choice on business",
+    "Strategies for moving up market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building and maintaining a reputation in a competitive market",
+      "solution_summary": "Focus on doing the right thing for clients, even if it means losing a deal, to build long-term trust.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Managing multiple stakeholders in ultra high net worth transactions",
+      "solution_summary": "Develop interpersonal skills to balance and address the needs of various advisors and personal entourage.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into higher market tiers",
+      "solution_summary": "Start with smaller markets, build relationships, and gradually move up by reinvesting in marketing and focusing on micro-markets.",
+      "timestamp": "37:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Danny's insights on moving up market and building a luxury clientele are directly applicable.",
+      "key_takeaway": "Focus on building long-term relationships and gradually increasing your market tier through strategic investments."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Danny discusses the pros and cons of running a lean operation versus a large team.",
+      "key_takeaway": "A lean operation can be as profitable as a large team if managed correctly, focusing on personal client relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:30",
+      "end_timestamp": "06:15",
+      "quote": "Your reputation takes a lifetime to build and you can blow it all in 30 seconds or one conversation.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It highlights the importance of maintaining integrity in business.",
+      "suggested_hook": "Why your reputation is your most valuable asset in real estate."
+    },
+    {
+      "timestamp": "37:00",
+      "end_timestamp": "38:00",
+      "quote": "I started with condos, became the condo king, and moved up market as my clients upgraded.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for agents looking to move up market.",
+      "suggested_hook": "How to strategically move up market in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Block scheduling for prospecting",
+      "context": "Dedicate an hour each morning to client outreach and relationship building.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Leverage open houses to build market presence",
+      "context": "Use open houses to network with agents and potential clients in target markets.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "Doing the right thing is always where I start from. That's the North Star.",
+    "In real estate, you have to wake up and put on a steel cup every morning because you're going to get bashed."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Danny Brown shares insights on building a reputation in luxury real estate, emphasizing the importance of integrity and long-term relationships. He discusses strategies for moving up market and managing ultra high net worth clients, providing valuable advice for agents looking to elevate their business. Danny also reflects on his career path and the lessons learned from his mentors.",
+  "_metadata": {
+    "source_file": "2026-04-22_item3_Danny-Brown",
+    "analyzed_at": "2026-04-29T02:51:57.332704",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

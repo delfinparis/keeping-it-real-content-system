@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Julia Boland",
+    "title": "Team Leader",
+    "company": "The Corcoran Group",
+    "production_level": "Top Producer",
+    "specialty": "Manhattan Real Estate",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Real Estate Market in New York City",
+    "Agent Recruitment and Team Building",
+    "First-Time Home Buyer Guidance",
+    "Co-op and Condo Market Nuances",
+    "Giving Back to the Community"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the complexities of the New York City real estate market",
+      "solution_summary": "Julia explains the importance of knowing the nuances of co-ops and condos, and advises agents to specialize in specific neighborhoods to better serve clients.",
+      "timestamp": "14:01"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Helping clients know when they are ready to buy",
+      "solution_summary": "Julia suggests having ongoing conversations with clients about their financial readiness and market conditions, sometimes starting years in advance.",
+      "timestamp": "17:20"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Building a client base as a new agent",
+      "solution_summary": "Julia emphasizes the importance of leveraging team experience, consistent marketing, and focusing on a specific geographic area.",
+      "timestamp": "20:26"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Julia's insights into team building and market specialization provide a roadmap for agents looking to elevate their business.",
+      "key_takeaway": "Focus on building a strong team and specialize in a specific market area to stand out."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Julia's experience about starting as an assistant and growing into a top producer.",
+      "key_takeaway": "Start by gaining experience under a seasoned agent and gradually build your own client base."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:25",
+      "end_timestamp": "25:05",
+      "quote": "Givers get. When I pivot to helping others, opportunities seem to come my way.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This highlights the power of giving back and how it can lead to unexpected opportunities.",
+      "suggested_hook": "Want more opportunities in real estate? Try giving back!"
+    },
+    {
+      "timestamp": "37:43",
+      "end_timestamp": "38:15",
+      "quote": "Sometimes in a hot market, I'll put in an offer and say, '24 hours, take it or leave it.'",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This tactic creates urgency and shows confidence in negotiations.",
+      "suggested_hook": "Need a bold strategy to win in a competitive market?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Leverage team experience for new agents",
+      "context": "New agents should use the team's track record to build credibility with clients.",
+      "timestamp": "20:26"
+    },
+    {
+      "tactic": "Consistent marketing through newsletters and social media",
+      "context": "Maintain regular communication with clients to stay top-of-mind.",
+      "timestamp": "30:20"
+    }
+  ],
+  "quotable_insights": [
+    "Givers get. When I pivot to helping others, opportunities seem to come my way.",
+    "In New York City, you need a lot more cash than you imagine to purchase."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "CitySnap",
+      "context": "A new platform for New York City real estate agents to access listings and market data."
+    }
+  ],
+  "episode_summary": "Julia Boland shares her journey from fashion to real estate, emphasizing the importance of specialization and team building in the competitive New York City market. She offers insights into navigating co-op and condo transactions and highlights the value of giving back to the community as a strategy for success.",
+  "_metadata": {
+    "source_file": "2023-07-21_item235_Julia-Boland",
+    "analyzed_at": "2026-01-26T21:09:39.873510",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

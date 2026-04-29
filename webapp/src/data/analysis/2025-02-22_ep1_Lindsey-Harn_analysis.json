@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Lindsey Harn",
+    "title": "Top 1% Luxury Producer",
+    "company": "Christie's International Real Estate Sereno",
+    "production_level": "1.1 billion in closed sales",
+    "specialty": "Luxury real estate",
+    "location": "San Luis Obispo County, California"
+  },
+  "main_topics": [
+    "Building a real estate career from scratch",
+    "Leveraging digital presence for lead generation",
+    "Handling tough client conversations",
+    "Winning listings in a low inventory market",
+    "Building strong partnerships for referrals"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a luxury market with non-local buyers",
+      "solution_summary": "Focus on building a strong digital presence and networking with agents in feeder markets.",
+      "timestamp": "23:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling tough client conversations about pricing and home conditions",
+      "solution_summary": "Ask for permission to be brutally honest and provide data-backed recommendations.",
+      "timestamp": "47:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Winning listings in a low inventory market",
+      "solution_summary": "Be the expert solution for sellers and have a clear plan for commission discussions.",
+      "timestamp": "38:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a successful real estate career from scratch.",
+      "key_takeaway": "Success in real estate requires hard work, a strong digital presence, and strategic partnerships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "36:00",
+      "end_timestamp": "36:45",
+      "quote": "Start building partnerships right where you are in your market.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable strategy for generating leads.",
+      "suggested_hook": "Want more referrals? Start with your local partnerships."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI tools like ChatGPT to practice handling client objections.",
+      "context": "Prepare for conversations about commission changes and pricing.",
+      "timestamp": "41:00"
+    },
+    {
+      "tactic": "Conduct a pre-market showing to gather unbiased feedback on pricing.",
+      "context": "Use this strategy to adjust pricing before officially listing a property.",
+      "timestamp": "54:00"
+    }
+  ],
+  "quotable_insights": [
+    "The best thing that I did was being a buyer's agent for eight to ten years. I've seen every type of home."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Used for practicing client objection handling and improving digital presence."
+    }
+  ],
+  "episode_summary": "In this episode, Lindsey Harn shares her journey from a college graduate to a top luxury real estate producer. She discusses the importance of building a strong digital presence, leveraging AI tools for client interactions, and forming strategic partnerships for lead generation. Lindsey also provides insights into handling tough client conversations and winning listings in a challenging market.",
+  "_metadata": {
+    "source_file": "2025-02-22_ep1_Lindsey-Harn",
+    "analyzed_at": "2026-01-24T19:55:22.146705",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

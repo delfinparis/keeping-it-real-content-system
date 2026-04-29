@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jay Cannone",
+    "title": "Top 1% Producer",
+    "company": "William Raveis",
+    "production_level": "Top 1%",
+    "specialty": "Luxury Real Estate",
+    "location": "Fairfield County, Connecticut"
+  },
+  "main_topics": [
+    "Importance of Marketing in Real Estate",
+    "Building and Maintaining Client Relationships",
+    "Personal Branding",
+    "Challenges and Resilience in Personal Life",
+    "Community Involvement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Develop a strong personal brand that communicates who you are and what you stand for, using consistent marketing efforts.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Burnout from traditional sales methods",
+      "solution_summary": "Shift from cold calling and door knocking to a marketing-focused approach to attract clients.",
+      "timestamp": "06:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Engage with clients regularly and build genuine relationships beyond the transaction.",
+      "timestamp": "22:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jay's journey from traditional sales methods to a marketing-focused approach provides a roadmap for scaling production.",
+      "key_takeaway": "Invest in personal branding and consistent marketing to attract clients and grow your business."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Jay's transition from cold calling to marketing offers a sustainable model for long-term success.",
+      "key_takeaway": "Evolve your business model to focus on attraction rather than persuasion to prevent burnout."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:05",
+      "end_timestamp": "06:45",
+      "quote": "Show up. Do the work. Be straight with your clients. And success will be inevitable.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a simple yet powerful mantra that encapsulates a successful mindset.",
+      "suggested_hook": "Want to know the secret to inevitable success in real estate?"
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "Marketing is attracting. Selling is convincing.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the traditional sales approach and emphasizes the power of attraction.",
+      "suggested_hook": "Are you attracting clients or just convincing them?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use personal stories and testimonials in marketing materials.",
+      "context": "To build trust and show authenticity to potential clients.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Engage in community activities to build local recognition.",
+      "context": "Participate in local events and organizations to increase visibility and trust.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "Marketing is attracting. Selling is convincing.",
+    "Show up. Do the work. Be straight with your clients. And success will be inevitable."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Guerrilla Marketing by Jay Levinson",
+      "context": "Referenced as a significant influence on Jay's marketing approach."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Jay Cannone shares his journey from traditional sales methods to a marketing-focused approach that has positioned him as a top 1% producer in luxury real estate. He emphasizes the importance of personal branding, building genuine client relationships, and community involvement. Jay's personal stories of resilience and his tactical marketing insights provide valuable lessons for agents looking to scale their business sustainably.",
+  "_metadata": {
+    "source_file": "2025-12-15_item9_Jay-Cannone",
+    "analyzed_at": "2026-01-27T10:20:02.253071",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video and Podcast Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents grow their business with video and podcasts",
+    "location": null
+  },
+  "main_topics": [
+    "Overcoming camera shyness",
+    "Benefits of using video for real estate agents",
+    "Engaging with social media effectively",
+    "Mindset shifts for being on camera",
+    "Practical tips for video content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of being on camera",
+      "solution_summary": "Shift from 'supermodel mode' to 'teacher mode' and focus on the message rather than appearance.",
+      "timestamp": "06:10"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of engagement on social media",
+      "solution_summary": "Use Instagram Stories and engagement stickers to connect with your audience and bring them into your daily life.",
+      "timestamp": "12:22"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through video",
+      "solution_summary": "Consistently create and post videos to engage dormant leads and attract new ones.",
+      "timestamp": "04:37"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with putting themselves out there and video can be a daunting medium.",
+      "key_takeaway": "Start small with Instagram Stories and gradually build confidence by practicing regularly."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers need to leverage every tool available to stand out in a competitive market.",
+      "key_takeaway": "Video is a powerful tool for differentiation and can significantly boost visibility and lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:07",
+      "end_timestamp": "05:37",
+      "quote": "Hiding from the camera means hiding from clients.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement succinctly captures the importance of overcoming camera shyness for business growth.",
+      "suggested_hook": "Are you hiding from your clients without even realizing it?"
+    },
+    {
+      "timestamp": "09:06",
+      "end_timestamp": "09:36",
+      "quote": "I've tripled my speaking engagements and quadrupled my inbound leads by showing up on camera.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Concrete numbers demonstrate the tangible benefits of being active on video.",
+      "suggested_hook": "Want to quadruple your leads? Here's how video can help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Instagram Stories for casual, authentic engagement.",
+      "context": "Share snippets of your day and use engagement stickers to interact with your audience.",
+      "timestamp": "12:22"
+    },
+    {
+      "tactic": "Practice speaking to the camera regularly.",
+      "context": "Record yourself to get comfortable with your message and presence.",
+      "timestamp": "15:01"
+    },
+    {
+      "tactic": "Shift mindset from appearance-focused to message-focused.",
+      "context": "Focus on the value you provide rather than how you look.",
+      "timestamp": "06:10"
+    }
+  ],
+  "quotable_insights": [
+    "Hiding from the camera means hiding from clients.",
+    "You are your unique special sauce; your perspective is what makes your content unique."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "kimritberg.com",
+      "context": "Offers free downloads and a video boot camp to help agents improve their video content."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares practical tips for real estate agents to overcome camera shyness and leverage video to grow their business. She emphasizes the importance of mindset shifts and consistent practice, offering actionable strategies to engage effectively on social media and attract more leads.",
+  "_metadata": {
+    "source_file": "2023-04-07_item260_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:23:30.340335",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

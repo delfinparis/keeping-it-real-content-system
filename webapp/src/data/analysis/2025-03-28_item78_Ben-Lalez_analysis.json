@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Real Estate Agent",
+    "company": "Compass",
+    "production_level": "Top real estate agent in Chicago",
+    "specialty": "Team leadership and business scaling",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Recognizing and capitalizing on hidden opportunities",
+    "The power of asking questions to uncover leads",
+    "Leveraging referrals for business growth",
+    "Strategies for duplicating ideal clients",
+    "Building reciprocal relationships for lead generation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents missing out on opportunities staring them in the face",
+      "solution_summary": "Ask more questions to uncover hidden opportunities and potential leads.",
+      "timestamp": "04:35"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Not leveraging referral opportunities effectively",
+      "solution_summary": "Develop relationships with agents in other markets and offer referral exchanges.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Difficulty in duplicating ideal clients",
+      "solution_summary": "Meet with past clients to get advice on how to reach more clients like them.",
+      "timestamp": "22:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to uncover hidden opportunities and grow their client base.",
+      "key_takeaway": "Ask more questions and leverage existing relationships to uncover new business opportunities."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on how to train team members to recognize and seize opportunities.",
+      "key_takeaway": "Encourage team members to ask questions and explore every lead for potential business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "The opportunity is staring at people right in the face and they just don't see it.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a common oversight that can lead to missed business opportunities.",
+      "suggested_hook": "Are you missing the opportunities right in front of you?"
+    },
+    {
+      "timestamp": "22:30",
+      "end_timestamp": "23:30",
+      "quote": "If you were me, how might you get in front of more consultants?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic for duplicating ideal clients.",
+      "suggested_hook": "Want to work with more clients like your favorites? Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Ask clients where they are moving and if they own other properties.",
+      "context": "When discussing a rental or sale with a client.",
+      "timestamp": "07:00"
+    },
+    {
+      "tactic": "Develop relationships with agents in other markets for referral exchanges.",
+      "context": "When you learn a client is moving to or from another city.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Meet with past clients to get advice on reaching more clients like them.",
+      "context": "When planning your marketing strategy.",
+      "timestamp": "22:30"
+    }
+  ],
+  "quotable_insights": [
+    "The elusive obvious: opportunities are often right in front of us, we just need to see them.",
+    "You don't get what you don't ask for. Ask for the opportunity."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez shares strategies for uncovering hidden opportunities in real estate by asking more questions and leveraging existing relationships. He emphasizes the importance of referrals and provides actionable tactics for duplicating ideal clients. The discussion also covers the value of reciprocal relationships and how they can lead to increased business growth.",
+  "_metadata": {
+    "source_file": "2025-03-28_item78_Ben-Lalez",
+    "analyzed_at": "2026-01-24T20:00:50.321939",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

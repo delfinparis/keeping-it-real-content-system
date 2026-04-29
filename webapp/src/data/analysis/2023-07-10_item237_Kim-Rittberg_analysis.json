@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Digital Video Expert and Marketing Strategist",
+    "company": null,
+    "production_level": null,
+    "specialty": "Digital Video and Marketing Strategy",
+    "location": null
+  },
+  "main_topics": [
+    "Overcoming self-doubt in video creation",
+    "Strategic use of video for real estate agents",
+    "Building confidence on camera",
+    "Leveraging personal and professional content",
+    "Developing a video strategy"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling self-conscious on camera",
+      "solution_summary": "Focus on speaking to your ideal client and practice regularly to build confidence.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Not leveraging video effectively",
+      "solution_summary": "Develop a strategic approach to video content that aligns with your business goals.",
+      "timestamp": "04:44"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to overcome self-doubt and improve video content creation.",
+      "key_takeaway": "Focus on your ideal client and develop a strategic approach to video to enhance your personal brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:03",
+      "end_timestamp": "09:45",
+      "quote": "Think only about the person you are talking to. Envision your ideal client.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It offers a powerful mindset shift for agents struggling with self-doubt.",
+      "suggested_hook": "Are you letting self-doubt hold you back on camera?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Envision your ideal client when creating video content.",
+      "context": "Use this tactic to overcome self-consciousness and focus your messaging.",
+      "timestamp": "09:03"
+    },
+    {
+      "tactic": "Have someone sit behind the camera to ease nerves.",
+      "context": "Apply this when feeling awkward or stiff on camera.",
+      "timestamp": "14:18"
+    }
+  ],
+  "quotable_insights": [
+    "Video is the fastest and best way to grow your business.",
+    "You're not cringy if you're giving the same advice you give to a client."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Modwell",
+      "context": "Used for virtually renovating listings to show potential buyers."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses overcoming self-doubt and effectively using video to grow a real estate business. She provides actionable strategies for building confidence on camera and emphasizes the importance of a strategic approach to video content. Listeners will learn how to focus on their ideal clients and integrate personal and professional content to enhance their personal brand.",
+  "_metadata": {
+    "source_file": "2023-07-10_item237_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T21:08:12.740694",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Sam Caudle",
+    "title": "Real Estate Agent",
+    "company": "Living in Tampa, brokered by eXp",
+    "production_level": "Top YouTube real estate content creator",
+    "specialty": "YouTube marketing for real estate",
+    "location": "Tampa, Florida"
+  },
+  "main_topics": [
+    "Using YouTube for real estate lead generation",
+    "Content creation strategies for REALTORS",
+    "Building a real estate business through online presence",
+    "The importance of call-to-action in videos",
+    "Partnering with lenders and title companies for video production costs"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through traditional methods is challenging",
+      "solution_summary": "Create searchable YouTube content to attract clients moving to Tampa",
+      "timestamp": "04:23"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting views into real estate clients",
+      "solution_summary": "Include clear calls-to-action and explain the next steps for viewers",
+      "timestamp": "29:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Efficient video production process",
+      "solution_summary": "Use a simple setup with a phone or gimbal and hire an editor to streamline production",
+      "timestamp": "17:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides a blueprint for using YouTube to significantly increase lead generation and sales.",
+      "key_takeaway": "Focus on creating evergreen content that answers specific questions potential clients have about your market."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers a new strategy for those struggling to generate consistent leads.",
+      "key_takeaway": "Leverage YouTube as a search engine to reach clients actively looking for information about your area."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "Your first hundred videos are going to be garbage... but every single video, you're going to get just a little bit better.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages persistence and improvement over time, which is crucial for success.",
+      "suggested_hook": "Why your first 100 videos don't need to be perfect to succeed."
+    },
+    {
+      "timestamp": "45:00",
+      "end_timestamp": "45:45",
+      "quote": "We've closed about half as many deals as we publish videos.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the effectiveness of YouTube in generating real estate leads.",
+      "suggested_hook": "How one agent closes a deal for every two videos he publishes."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create videos that answer specific questions potential clients have about your area.",
+      "context": "Focus on searchable content that provides value to people moving to your market.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Use a simple video setup and outsource editing to save time.",
+      "context": "Start with a phone or a basic camera and hire an editor to handle post-production.",
+      "timestamp": "17:11"
+    },
+    {
+      "tactic": "Include a clear call-to-action in every video.",
+      "context": "Tell viewers exactly what to do next and what will happen when they reach out.",
+      "timestamp": "29:00"
+    }
+  ],
+  "quotable_insights": [
+    "Sales solve all problems, and YouTube is a great way to generate those sales.",
+    "YouTube is the second biggest search engine, and it's where people go to learn."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "RE YouTuber",
+      "context": "Sam's course on using YouTube for real estate lead generation."
+    },
+    {
+      "type": "tool",
+      "name": "Epidemic Sound",
+      "context": "Used for sourcing music for YouTube videos."
+    }
+  ],
+  "episode_summary": "In this episode, Sam Caudle shares his journey of building a thriving real estate business through YouTube. He discusses the importance of creating searchable content, the effectiveness of clear calls-to-action, and how partnering with lenders can offset video production costs. Sam's insights provide a roadmap for agents looking to leverage YouTube for lead generation and business growth.",
+  "_metadata": {
+    "source_file": "2024-08-20_item135_Sam-Caudle",
+    "analyzed_at": "2026-01-29T18:44:00.743447",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

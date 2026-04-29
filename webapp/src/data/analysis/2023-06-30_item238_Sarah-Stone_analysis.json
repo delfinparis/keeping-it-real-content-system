@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sarah Stone",
+    "title": "Top Producer",
+    "company": "Douglas Elliman",
+    "production_level": "Rookie of the Year in Manhattan",
+    "specialty": "Luxury real estate, staging, and interior design",
+    "location": "Fairfield County, Connecticut and Westchester County, New York"
+  },
+  "main_topics": [
+    "Building a real estate business in a new market",
+    "The importance of networking and relationships",
+    "Challenges of the current real estate market",
+    "Strategies for winning in competitive offer situations",
+    "Leveraging social media for brand awareness"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory and high competition in the real estate market",
+      "solution_summary": "Focus on building relationships with other agents and look for off-market opportunities.",
+      "timestamp": "32:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Staying top of mind with past clients",
+      "solution_summary": "Consistently engage with clients through social media, emails, and postcards.",
+      "timestamp": "51:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market",
+      "solution_summary": "Develop relationships with estate attorneys and leverage past connections.",
+      "timestamp": "23:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sarah's journey from starting over in a new market to becoming a top producer is inspiring.",
+      "key_takeaway": "Building strong relationships and leveraging past experiences can accelerate success in a new market."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for overcoming market challenges and standing out in competitive situations.",
+      "key_takeaway": "Networking and creative problem-solving are crucial in a tough market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "23:00",
+      "end_timestamp": "24:00",
+      "quote": "The value of relationships in real estate cannot be overstated. Targeting estate attorneys can be a game-changer.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a specific, actionable strategy for lead generation.",
+      "suggested_hook": "Looking for a unique way to generate leads? Here's a strategy you might not have considered."
+    },
+    {
+      "timestamp": "32:00",
+      "end_timestamp": "33:00",
+      "quote": "In this competitive market, knowing the players and having relationships can give you the edge.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the importance of networking in a competitive market.",
+      "suggested_hook": "Want to win in a competitive real estate market? Here's the secret."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop relationships with estate attorneys for consistent lead flow.",
+      "context": "Approach estate attorneys to handle real estate transactions for estates.",
+      "timestamp": "23:00"
+    },
+    {
+      "tactic": "Use social media to maintain brand awareness.",
+      "context": "Regularly post content to stay top of mind with your network.",
+      "timestamp": "51:00"
+    },
+    {
+      "tactic": "Compliment sellers on their home improvements in offers.",
+      "context": "Include specific compliments in offer letters to appeal to sellers' emotional connections.",
+      "timestamp": "38:00"
+    }
+  ],
+  "quotable_insights": [
+    "Being a good salesperson is being a good salesperson, no matter the market.",
+    "You never know when a relationship will become important in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Stone shares her journey of building a successful real estate business in a new market, emphasizing the importance of networking and relationships. She discusses strategies for overcoming current market challenges, such as low inventory and high competition, and highlights the role of social media in maintaining brand awareness. Listeners will gain actionable insights into lead generation, client management, and standing out in competitive offer situations.",
+  "_metadata": {
+    "source_file": "2023-06-30_item238_Sarah-Stone",
+    "analyzed_at": "2026-01-26T21:07:50.451818",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

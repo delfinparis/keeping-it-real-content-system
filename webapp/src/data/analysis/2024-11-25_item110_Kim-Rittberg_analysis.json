@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Real Estate Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video strategy for lead generation",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Video content creation during holidays",
+    "Building connection and credibility through video",
+    "Using social media to expand sphere of influence",
+    "Low-effort, high-impact video strategies",
+    "Personal storytelling in real estate marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents disengage from social media during holidays, missing opportunities to connect.",
+      "solution_summary": "Create low-effort, personal videos that showcase your life and travels during the holidays to maintain engagement.",
+      "timestamp": "00:03:06"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in generating leads through social media.",
+      "solution_summary": "Focus on connection and credibility by sharing personal stories and experiences to build trust and attract leads.",
+      "timestamp": "00:04:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to use video to build their brand and connect with potential clients.",
+      "key_takeaway": "Quality of strategy in video content is more important than quantity; focus on personal connection."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can enhance their social media strategy by incorporating personal storytelling.",
+      "key_takeaway": "Even infrequent, well-strategized video content can lead to significant commissions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:10",
+      "end_timestamp": "00:06:30",
+      "quote": "She landed 60K in commissions just this year alone through video.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the tangible financial impact of using video effectively.",
+      "suggested_hook": "Discover how one agent earned $60K in commissions with minimal video presence."
+    },
+    {
+      "timestamp": "00:09:07",
+      "end_timestamp": "00:09:30",
+      "quote": "Someone texted me and asked me to grab lunch... and brought me in on a huge new development deal.",
+      "clip_type": "personal_story",
+      "why_clipworthy": "Illustrates the power of social media in rekindling old connections for new opportunities.",
+      "suggested_hook": "How a simple social media post led to a major real estate deal."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Film B-roll of your holiday travels and experiences.",
+      "context": "Use simple footage to show your personal life and connect with your audience.",
+      "timestamp": "00:07:01"
+    },
+    {
+      "tactic": "Use Instagram Stories for temporary, engaging content.",
+      "context": "Share snippets of your life that disappear after 24 hours to maintain engagement without long-term commitment.",
+      "timestamp": "00:10:48"
+    }
+  ],
+  "quotable_insights": [
+    "Every single day, every time you're scrolling on your phone, you could be making money.",
+    "Quality of strategy in video content is more important than quantity."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "RealGeeks.com",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable insights on using video content to maintain engagement and generate leads during the holiday season. She emphasizes the importance of connection and credibility, and provides practical tips for creating low-effort, high-impact videos. Listeners will learn how personal storytelling can expand their sphere of influence and lead to significant business opportunities.",
+  "_metadata": {
+    "source_file": "2024-11-25_item110_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T19:46:50.028228",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Hubert Johnson",
+    "title": "Tax Attorney",
+    "company": "Guardian Tax Law",
+    "production_level": null,
+    "specialty": "Tax resolution and IRS negotiations",
+    "location": "Tucson, Arizona"
+  },
+  "main_topics": [
+    "Tax issues affecting real estate transactions",
+    "Benefits of incorporating for REALTORS",
+    "Tax liens and property seizures",
+    "Offer in compromise with the IRS",
+    "Working with the IRS for property sales"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "REALTORS' clients unable to buy or sell due to tax liens",
+      "solution_summary": "Set up installment agreements with the IRS to allow clients to qualify for mortgages and proceed with real estate transactions.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Potential property seizure by the IRS",
+      "solution_summary": "Engage with the IRS proactively to negotiate terms and prevent property seizure.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights on handling clients with tax issues, a common challenge for REALTORS.",
+      "key_takeaway": "Understanding how to navigate tax liens can unlock more sales opportunities for clients with IRS issues."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can use this information to train agents on handling clients with complex financial backgrounds.",
+      "key_takeaway": "Incorporating tax resolution strategies can enhance your team's ability to close deals with clients facing IRS challenges."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:02",
+      "end_timestamp": "05:45",
+      "quote": "Helping people to pay less in taxes is one of the most patriotic things you can do.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the conventional view of tax payments and adds a patriotic twist.",
+      "suggested_hook": "Why paying less in taxes might be the most patriotic thing you do."
+    },
+    {
+      "timestamp": "12:30",
+      "end_timestamp": "13:15",
+      "quote": "We settled $249,000 for 20 bucks.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "The dramatic reduction in tax debt is a compelling example of successful negotiation.",
+      "suggested_hook": "How a $249,000 tax debt was settled for just $20."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set up installment agreements with the IRS for clients with tax liens.",
+      "context": "Use this strategy to help clients qualify for mortgages despite existing tax debts.",
+      "timestamp": "08:30"
+    },
+    {
+      "tactic": "Incorporate as a business to protect personal assets from IRS debt.",
+      "context": "REALTORS should consider this to separate business liabilities from personal ones.",
+      "timestamp": "06:00"
+    }
+  ],
+  "quotable_insights": [
+    "Helping people to pay less in taxes is one of the most patriotic things you can do.",
+    "We settled $249,000 for 20 bucks."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Guardian Tax Law",
+      "context": "Hubert Johnson's firm website for tax resolution services."
+    },
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "Sponsor of the podcast, offering tools for real estate lead generation."
+    }
+  ],
+  "episode_summary": "In this episode, tax attorney Hubert Johnson discusses how REALTORS can assist clients with tax liens and IRS issues to complete real estate transactions. He highlights the importance of setting up installment agreements and offers in compromise to resolve tax debts. Additionally, Hubert advises REALTORS on incorporating their business to protect personal assets from potential IRS liabilities.",
+  "_metadata": {
+    "source_file": "2023-11-16_item203_Hubert-Johnson",
+    "analyzed_at": "2026-01-26T21:33:34.007580",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

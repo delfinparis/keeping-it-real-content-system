@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Social Media Expert",
+    "company": null,
+    "production_level": null,
+    "specialty": "Digital Marketing and Video Content Creation",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of being on camera",
+    "Strategies for creating video content",
+    "Overcoming camera shyness",
+    "Using Instagram Stories for practice",
+    "Building relationships through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of being on camera",
+      "solution_summary": "Shift mindset from 'supermodel mode' to 'teacher mode' to focus on the message rather than appearance.",
+      "timestamp": "04:04"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of engagement with static content",
+      "solution_summary": "Engage more effectively by showing up on video to build trust and relationships.",
+      "timestamp": "09:40"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with building a personal brand and may feel intimidated by video content.",
+      "key_takeaway": "Start with Instagram Stories for low-pressure practice and gradually build confidence on camera."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may be creating content but not seeing results.",
+      "key_takeaway": "Develop a clear video strategy to enhance content effectiveness and lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:02",
+      "end_timestamp": "08:30",
+      "quote": "If you start showing up today, your video might be okay, maybe a little awkward. But tomorrow will be easier.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to take the first step in video marketing by normalizing initial discomfort.",
+      "suggested_hook": "Feeling awkward on camera? Here's why that's perfectly okay."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Instagram Stories for practice",
+      "context": "Start posting short, temporary videos to get comfortable with being on camera.",
+      "timestamp": "06:13"
+    },
+    {
+      "tactic": "Conduct interviews for content",
+      "context": "Set up interviews to create engaging video content without the pressure of direct-to-camera speaking.",
+      "timestamp": "10:52"
+    }
+  ],
+  "quotable_insights": [
+    "Hiding from the camera means hiding from clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Boot Camp",
+      "context": "A seven-week live coaching program to help agents get confident on camera and develop a video strategy."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of video in real estate marketing, offering strategies to overcome camera shyness and build a personal brand. She provides actionable tips for using Instagram Stories as a practice tool and highlights the effectiveness of video in building client relationships.",
+  "_metadata": {
+    "source_file": "2023-10-12_item211_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T21:27:27.470823",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Real Estate Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video marketing and social media strategy",
+    "location": null
+  },
+  "main_topics": [
+    "Using AI for content creation",
+    "Establishing personal brand",
+    "Connecting with past and potential clients",
+    "Importance of human touch in AI",
+    "Content strategy for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating generic content that doesn't engage",
+      "solution_summary": "Define your brand and use AI to enhance your unique voice and perspective.",
+      "timestamp": "00:04:30"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Overwhelmed by AI and content creation",
+      "solution_summary": "Use AI to generate content ideas but filter them through your personal brand to maintain authenticity.",
+      "timestamp": "00:05:56"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode helps agents refine their content strategy using AI while maintaining their personal brand.",
+      "key_takeaway": "Use AI to enhance your content creation process, but always ensure it aligns with your personal brand and voice."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:19",
+      "end_timestamp": "00:06:57",
+      "quote": "You have to define your brand first. If you don't know what your brand is, meaning who do you talk to, what's special about you, that's something that you need to start with.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable step for agents to improve their content strategy.",
+      "suggested_hook": "Struggling with your content strategy? Start by defining your brand!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to generate content ideas",
+      "context": "Ask AI for content ideas based on your profession and audience, then filter them through your personal brand.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "tactic": "Run AI-generated content through the SAG checklist",
+      "context": "Ensure content sounds like you, aligns with your beliefs, and isn't generic before posting.",
+      "timestamp": "00:09:27"
+    }
+  ],
+  "quotable_insights": [
+    "AI can help you with content, but you have to use it in a way that's highlighting your human side."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KeepingItRealWebinar.com",
+      "context": "For signing up for the upcoming webinar on lead generation and video marketing."
+    },
+    {
+      "type": "website",
+      "name": "RealGeeks.com",
+      "context": "Recommended as a technology partner for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses the integration of AI in content creation for real estate agents, emphasizing the importance of maintaining a personal brand. She provides actionable insights on using AI to generate content ideas and the importance of filtering these ideas through a personal brand to ensure authenticity and engagement.",
+  "_metadata": {
+    "source_file": "2024-12-23_item105_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:02:17.663953",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Erin Helle",
+    "title": "Investor Coach",
+    "company": "eXp Realty",
+    "production_level": null,
+    "specialty": "Goal setting and financial planning for REALTORS",
+    "location": null
+  },
+  "main_topics": [
+    "Setting income goals for REALTORS",
+    "Importance of accountability in real estate",
+    "Financial freedom and personal financial planning",
+    "Backward planning for achieving income goals",
+    "Motivation and productivity for self-employed individuals"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated as a self-employed REALTOR",
+      "solution_summary": "Use goal setting and accountability to maintain motivation.",
+      "timestamp": "03:32"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Calculating a realistic and motivating income goal",
+      "solution_summary": "List all monthly needs and wants, plan for savings and investments, and ensure the goal is meaningful.",
+      "timestamp": "06:35"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Achieving financial freedom",
+      "solution_summary": "Define personal financial freedom, calculate necessary income, and plan backward from income goal to necessary activities.",
+      "timestamp": "12:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for setting and achieving income goals, which can help intermediate agents scale their business.",
+      "key_takeaway": "Backward planning from a clear income goal can systematically increase business success."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to set realistic financial goals and understand the importance of accountability and motivation.",
+      "key_takeaway": "Establishing clear financial goals and accountability can provide direction and motivation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:06",
+      "end_timestamp": "09:28",
+      "quote": "If it doesn't light your soul on fire, you got to go back and do it again.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This quote emphasizes the importance of passion in goal setting, which resonates with many listeners.",
+      "suggested_hook": "Is your goal setting lighting your soul on fire?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Backward planning from income goals to daily activities",
+      "context": "Use this method to determine the number of closings and client interactions needed to meet financial targets.",
+      "timestamp": "13:49"
+    },
+    {
+      "tactic": "Listing all monthly needs and wants",
+      "context": "Helps in setting a realistic and motivating income goal by understanding personal financial requirements.",
+      "timestamp": "06:35"
+    }
+  ],
+  "quotable_insights": [
+    "Financial freedom means being able to say yes to opportunities without being limited by finances."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM management for REALTORS."
+    },
+    {
+      "type": "course",
+      "name": "Buyer Agency Professional Course",
+      "context": "Offered by Kaplan Real Estate Education to help agents secure professional fees."
+    }
+  ],
+  "episode_summary": "In this episode, Erin Helle discusses how REALTORS can set and achieve meaningful income goals through backward planning and accountability. She emphasizes the importance of defining personal financial freedom and provides actionable steps for calculating monthly financial needs and wants. The episode also highlights the role of motivation and community in sustaining business growth.",
+  "_metadata": {
+    "source_file": "2024-06-13_item152_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-29T18:36:28.199880",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

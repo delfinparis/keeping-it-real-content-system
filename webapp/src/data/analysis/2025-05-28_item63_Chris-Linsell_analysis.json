@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Real Estate Technology Analyst and Director of Content at Large",
+    "company": "Luxury Presence",
+    "production_level": "N/A",
+    "specialty": "Real estate technology and content creation",
+    "location": "Michigan"
+  },
+  "main_topics": [
+    "Private Listing Networks",
+    "Fiduciary Responsibilities in Real Estate",
+    "Luxury Real Estate Market Dynamics",
+    "Price Discovery through Private Listings",
+    "Inventory Shortage Solutions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Determining when to use private listing networks",
+      "solution_summary": "Private listings can be beneficial for unique properties, luxury markets, and price discovery.",
+      "timestamp": "03:01"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Accurate pricing in a changing commission landscape",
+      "solution_summary": "Use private listings for real-time feedback and price discovery before public listing.",
+      "timestamp": "24:08"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Inventory shortages in real estate markets",
+      "solution_summary": "Private listings can help balance demand and supply by engaging potential sellers with aspirational price points.",
+      "timestamp": "27:33"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode discusses advanced strategies for leveraging private listings to gain a competitive edge.",
+      "key_takeaway": "Private listings can be a strategic tool for price discovery and managing unique or luxury properties."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can use insights from private listings to train their agents on non-traditional listing strategies.",
+      "key_takeaway": "Understanding the benefits of private listings can help teams better serve clients with unique needs."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you want the highest and best price for a typical property, you want to expose it to the most number of people who are potential buyers.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional wisdom that public listings are always the best route.",
+      "suggested_hook": "Think public listings are the only way to get top dollar? Think again."
+    },
+    {
+      "timestamp": "24:08",
+      "end_timestamp": "24:37",
+      "quote": "Private listings are a fantastic tool for price discovery.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a specific tactic for agents struggling with pricing accuracy.",
+      "suggested_hook": "Struggling with pricing accuracy? Here's a tactic you might not have considered."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use private listings for price discovery.",
+      "context": "When accurate pricing is difficult due to commission changes and fewer comps.",
+      "timestamp": "24:08"
+    },
+    {
+      "tactic": "Engage potential sellers with aspirational price points.",
+      "context": "To alleviate inventory shortages and balance market demand.",
+      "timestamp": "27:33"
+    }
+  ],
+  "quotable_insights": [
+    "The old ways of operating are being replaced right now. We are living in a new era of real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "This episode explores the controversial topic of private listing networks, discussing their potential benefits for luxury properties and price discovery. Chris Linsell offers insights into how private listings can help manage unique properties and address inventory shortages, challenging the conventional wisdom that public listings are always the best option. The conversation provides actionable strategies for agents to consider when navigating today's real estate market dynamics.",
+  "_metadata": {
+    "source_file": "2025-05-28_item63_Chris-Linsell",
+    "analyzed_at": "2026-01-24T20:10:56.234788",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

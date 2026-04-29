@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Quinn Driscoll",
+    "title": "Money Management Coach",
+    "company": "Value Gal",
+    "production_level": null,
+    "specialty": "Money management for real estate agents and brokers",
+    "location": "Twin Cities, Minnesota"
+  },
+  "main_topics": [
+    "Money management for REALTORS",
+    "Commission allocation strategies",
+    "Business expense tracking",
+    "Tax planning and S-corporations",
+    "Financial systems for small businesses"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "REALTORS spending commission checks before they hit the bank",
+      "solution_summary": "Implement a percentage-based system to allocate commissions for taxes, expenses, and personal pay.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Lack of financial planning and budgeting",
+      "solution_summary": "Use tools like business bank accounts and credit cards to separate personal and business expenses.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Unawareness of when to switch to an S-corporation",
+      "solution_summary": "Consult a tax advisor to determine the right time based on income levels, typically around $80,000 to $100,000.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New REALTORS often struggle with financial management and need foundational advice.",
+      "key_takeaway": "Start with separating business and personal finances and implement a commission allocation system."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may have inconsistent income and need better financial systems.",
+      "key_takeaway": "Use a commission pipeline to predict income and manage expenses effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:00",
+      "end_timestamp": "20:45",
+      "quote": "Your commission checks are not the same as your paychecks. Start with a mindset shift.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common misconception about commission income.",
+      "suggested_hook": "Are you treating your commission checks like paychecks? Here's why you shouldn't."
+    },
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "Consider an S-corporation when your income reaches around $80,000 to $100,000.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific financial milestone for REALTORS to consider tax strategies.",
+      "suggested_hook": "When should you switch to an S-corporation? Here's a key income threshold."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Allocate 15% of commissions for tax savings, 30% for business expenses, and 50% for personal pay.",
+      "context": "To manage income effectively and avoid financial roller coasters.",
+      "timestamp": "20:00"
+    },
+    {
+      "tactic": "Use a commission pipeline to track expected income and manage cash flow.",
+      "context": "To gain clarity on upcoming revenue and make informed financial decisions.",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your commission checks are not the same as your paychecks. Start with a mindset shift.",
+    "Consider an S-corporation when your income reaches around $80,000 to $100,000."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "You Need a Budget",
+      "context": "Recommended for easy expense tracking and budgeting."
+    },
+    {
+      "type": "tool",
+      "name": "Mint.com",
+      "context": "Suggested for daily expense tracking and financial overview."
+    }
+  ],
+  "episode_summary": "In this episode, money management coach Quinn Driscoll discusses strategies for REALTORS to better manage their finances. Key topics include commission allocation, expense tracking, and the benefits of forming an S-corporation. Quinn provides actionable advice to help agents stabilize their income and plan for the future.",
+  "_metadata": {
+    "source_file": "2023-05-31_item246_Quinn-Driscoll",
+    "analyzed_at": "2026-01-29T17:33:40.510988",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

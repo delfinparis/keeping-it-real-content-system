@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Former Media Executive",
+    "company": "Not specifically mentioned",
+    "production_level": "Not specifically mentioned",
+    "specialty": "Video and marketing coaching for real estate agents",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Importance of 'About Me' videos",
+    "ABC method for video content",
+    "Building relationships through video",
+    "Confidence and creativity in video production",
+    "Professional video production vs. DIY"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not effectively introducing themselves to potential clients",
+      "solution_summary": "Create an 'About Me' video using the ABC method to showcase accomplishments, business focus, and confidence.",
+      "timestamp": "00:02:39"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how to effectively market oneself through video, which is crucial for agents looking to elevate their brand.",
+      "key_takeaway": "Invest in professional video production to create impactful 'About Me' videos that highlight your unique value proposition."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:54",
+      "end_timestamp": "00:05:14",
+      "quote": "A photo and a little bit of text will never be able to compete with a video.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the power of video over traditional media.",
+      "suggested_hook": "Why photos can't compete with videos in real estate marketing."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use the ABC method for 'About Me' videos",
+      "context": "Include Accomplishments, Business focus, and Confidence in your video to effectively communicate your value.",
+      "timestamp": "00:06:10"
+    }
+  ],
+  "quotable_insights": [
+    "It's not bragging if it's a fact."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of creating a professional 'About Me' video to effectively market oneself as a real estate agent. She introduces the ABC method, focusing on Accomplishments, Business focus, and Confidence, to help agents craft compelling narratives that build trust and relationships with potential clients. The episode also highlights the benefits of investing in professional video production to enhance personal branding.",
+  "_metadata": {
+    "source_file": "2024-04-12_item168_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:28:44.101348",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

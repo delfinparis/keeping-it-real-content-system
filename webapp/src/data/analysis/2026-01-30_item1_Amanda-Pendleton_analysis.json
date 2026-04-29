@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Amanda Pendleton",
+    "title": "House Trends Expert",
+    "company": "Zillow",
+    "production_level": null,
+    "specialty": "Real estate, renovations, and design",
+    "location": null
+  },
+  "main_topics": [
+    "Buyer loyalty and retention",
+    "Online presence and digital marketing",
+    "Gen Z home buying trends",
+    "Seller priorities in the current market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Buyers forget their agents over time",
+      "solution_summary": "Implement reengagement strategies such as personalized check-ins and providing value through resources and updates.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents lack a strong online presence",
+      "solution_summary": "Ensure all online profiles are updated, maintain an active social media presence, and clearly demonstrate value online.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Gen Z's challenges in home buying",
+      "solution_summary": "Educate Gen Z on home buying processes and affordability tools, and communicate in their preferred methods like text.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode highlights the importance of staying in touch with past clients to ensure repeat business.",
+      "key_takeaway": "Regular, authentic communication with past clients is crucial to maintaining long-term relationships."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging online presence for increased client acquisition.",
+      "key_takeaway": "A strong, consistent online presence can significantly boost your visibility and client base."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:09",
+      "end_timestamp": "05:30",
+      "quote": "If I have an agent and I am doing photos for a list, I would probably keep a white duvet in my trunk.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tip for agents to increase listing engagement.",
+      "suggested_hook": "Want to boost your listing engagement by 30%? Here's a simple trick!"
+    },
+    {
+      "timestamp": "24:46",
+      "end_timestamp": "25:04",
+      "quote": "Gen Z is making 50% more income than baby boomers were at their age.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Challenges the misconception that Gen Z cannot afford homes.",
+      "suggested_hook": "Think Gen Z can't afford homes? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call past clients to discuss unfinished home projects and offer contractor referrals.",
+      "context": "Use this tactic to provide value and stay top-of-mind with past clients.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Regularly update your online profiles and showcase your process and results.",
+      "context": "Ensure potential clients find accurate and compelling information about you online.",
+      "timestamp": "19:00"
+    }
+  ],
+  "quotable_insights": [
+    "Loyalty cannot be assumed; repeat buyers are shopping around.",
+    "Your online presence is your 24/7 storefront."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Zillow's Showcase",
+      "context": "Helps agents win more clients by increasing brand impressions."
+    },
+    {
+      "type": "tool",
+      "name": "Zillow's Affordability Calculator",
+      "context": "Allows Gen Z buyers to determine how much home they can afford without contacting a loan officer."
+    }
+  ],
+  "episode_summary": "In this episode, Amanda Pendleton from Zillow discusses the importance of maintaining client relationships and the role of a strong online presence in today's real estate market. She highlights the growing influence of Gen Z in the housing market and offers strategies for agents to effectively engage with this demographic. The episode provides actionable insights for agents to enhance their client retention and acquisition strategies.",
+  "_metadata": {
+    "source_file": "2026-01-30_item1_Amanda-Pendleton",
+    "analyzed_at": "2026-01-30T11:18:44.875282",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

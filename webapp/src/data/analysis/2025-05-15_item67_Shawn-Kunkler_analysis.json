@@ -1,0 +1,106 @@
+{
+  "guest_info": {
+    "name": "Shawn Kunkler",
+    "title": "Real Estate Agent",
+    "company": "Compass",
+    "production_level": "Top Producer",
+    "specialty": "Real Estate Sales",
+    "location": "San Francisco, California"
+  },
+  "main_topics": [
+    "Avoiding common traps in real estate",
+    "The importance of having a business plan",
+    "Building systems and processes",
+    "Staying focused and avoiding distractions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents lack a clear business plan and direction.",
+      "solution_summary": "Develop a concise one-page business plan and review it weekly to ensure alignment with goals.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Inconsistent lead generation efforts leading to business fluctuations.",
+      "solution_summary": "Implement consistent systems for lead generation and follow-up to maintain a steady pipeline.",
+      "timestamp": "39:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Agents get distracted by new strategies and lose focus.",
+      "solution_summary": "Use 'blinders' to stay focused on proven strategies and avoid distractions.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to overcome common pitfalls that intermediate agents face.",
+      "key_takeaway": "Focus on building systems and maintaining consistency in lead generation to stabilize your business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode outlines the importance of learning from successful agents and implementing structured plans.",
+      "key_takeaway": "Surround yourself with successful agents and adopt their proven strategies to elevate your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "28:00",
+      "quote": "If you have no plan, that is your plan.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the essence of having a strategic approach in real estate.",
+      "suggested_hook": "Are you just winging it in your real estate business?"
+    },
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:00",
+      "quote": "The blinders are to keep the horse from getting distracted.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights the importance of focus and avoiding distractions in achieving success.",
+      "suggested_hook": "Want to know the secret to staying focused in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop a one-page business plan.",
+      "context": "Create a concise plan that can be reviewed weekly to ensure alignment with business goals.",
+      "timestamp": "30:00"
+    },
+    {
+      "tactic": "Implement consistent follow-up systems.",
+      "context": "Follow up with leads more than once to increase conversion rates.",
+      "timestamp": "39:00"
+    },
+    {
+      "tactic": "Use 'blinders' to maintain focus.",
+      "context": "Avoid distractions by focusing on proven strategies and ignoring shiny new tactics.",
+      "timestamp": "50:00"
+    }
+  ],
+  "quotable_insights": [
+    "Surround yourself with highly successful people and ask them what they specifically did at that specific threshold.",
+    "Consider the source when receiving advice; not all advice is worth taking."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Shawn Kunkler shares insights on avoiding common traps in real estate by having a clear business plan, building consistent systems, and maintaining focus. He emphasizes the importance of learning from successful agents and implementing structured strategies to stabilize and grow your business.",
+  "_metadata": {
+    "source_file": "2025-05-15_item67_Shawn-Kunkler",
+    "analyzed_at": "2026-01-24T20:08:02.156220",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

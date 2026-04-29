@@ -1,0 +1,81 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Real Estate Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video marketing and social media strategy",
+    "location": null
+  },
+  "main_topics": [
+    "Using AI for content creation",
+    "Establishing personal brand",
+    "Connecting with clients through content",
+    "AI's role in enhancing human connection"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating generic content that doesn't engage",
+      "solution_summary": "Define your brand and use AI to enhance your unique voice and connections.",
+      "timestamp": "00:04:15"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Overwhelmed by content creation demands",
+      "solution_summary": "Use AI to generate content ideas efficiently while maintaining a personal touch.",
+      "timestamp": "00:05:51"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to leverage AI for efficient content creation and personal branding.",
+      "key_takeaway": "Define your brand and use AI to create content that enhances your human connection and credibility."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:27",
+      "end_timestamp": "00:09:54",
+      "quote": "SAG. S does it sound like me? A do I agree with it? G is it generic?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable checklist for evaluating AI-generated content.",
+      "suggested_hook": "Is your AI content passing the SAG test?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Define your brand and communicate it to AI tools like ChatGPT.",
+      "context": "To get content that aligns with your voice and expertise.",
+      "timestamp": "00:06:57"
+    },
+    {
+      "tactic": "Use the SAG checklist to evaluate AI-generated content.",
+      "context": "Ensure content is personalized and aligns with your brand.",
+      "timestamp": "00:09:27"
+    }
+  ],
+  "quotable_insights": [
+    "AI can help you be more efficient, but you have to use it in a way that's highlighting your human side."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KeepingItRealWebinar.com",
+      "context": "To sign up for a webinar on lead generation and video marketing."
+    },
+    {
+      "type": "website",
+      "name": "KimRittberg.com",
+      "context": "For free downloads and tips on video marketing."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses how real estate agents can leverage AI to enhance their content creation efforts while maintaining a personal touch. She emphasizes the importance of defining one's brand and using AI tools like ChatGPT to generate content ideas that align with personal expertise and voice. The episode provides actionable strategies for using AI to improve efficiency and engagement in content marketing.",
+  "_metadata": {
+    "source_file": "2024-12-23_item104_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T19:45:07.382553",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

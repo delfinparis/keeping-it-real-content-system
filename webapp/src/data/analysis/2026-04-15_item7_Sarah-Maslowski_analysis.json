@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "YouTube Real Estate Expert",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube lead generation",
+    "location": null
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Consistency in content creation",
+    "Avoiding analysis paralysis",
+    "Targeting the right audience",
+    "Building a content library"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents quitting YouTube before seeing results",
+      "solution_summary": "Commit to a consistent posting schedule for at least 90 days to start seeing leads.",
+      "timestamp": "05:03"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Focusing on vanity metrics like views and subscribers",
+      "solution_summary": "Focus on attracting the right audience who are potential clients, not just increasing views.",
+      "timestamp": "07:52"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Analysis paralysis preventing video creation",
+      "solution_summary": "Start creating content without overthinking details; done is better than perfect.",
+      "timestamp": "14:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with starting on YouTube due to fear of low engagement.",
+      "key_takeaway": "Consistency and targeting the right audience are more important than initial views."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may plateau in their YouTube efforts.",
+      "key_takeaway": "Reframe success metrics to focus on quality leads rather than high view counts."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:52",
+      "end_timestamp": "08:18",
+      "quote": "You do not need tens of thousands of views. You don't even need a thousand views per video. What you need is the right people watching.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that high views are necessary for success.",
+      "suggested_hook": "Are you chasing views or clients on YouTube?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Commit to a 90-day YouTube posting schedule.",
+      "context": "To teach the algorithm your content type and start generating leads.",
+      "timestamp": "10:10"
+    },
+    {
+      "tactic": "Create a library of bingeable content.",
+      "context": "Allows potential clients to engage deeply with your content.",
+      "timestamp": "11:58"
+    }
+  ],
+  "quotable_insights": [
+    "The agents who build the biggest businesses from YouTube are not necessarily the ones that are most talented on camera. They are the ones that are the most consistent."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through technology solutions."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered recruiting tool for identifying agents looking to switch brokerages."
+    }
+  ],
+  "episode_summary": "Sarah Maslowski shares her insights on using YouTube as a powerful lead generation tool for real estate agents. She emphasizes the importance of consistency, targeting the right audience, and focusing on quality leads over vanity metrics like views. By committing to a 90-day content schedule and building a library of valuable content, agents can effectively leverage YouTube to grow their business.",
+  "_metadata": {
+    "source_file": "2026-04-15_item7_Sarah-Maslowski",
+    "analyzed_at": "2026-04-29T02:49:31.255512",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Danielle Dowell",
+    "title": "Top Producer",
+    "company": "The Dowell Group",
+    "production_level": "Top 1%",
+    "specialty": "New construction, development, luxury residential",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Team Building and Recruitment",
+    "Mindset and Motivation",
+    "Lead Generation Strategies",
+    "Client Relationship Management",
+    "Market Expertise"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a low inventory market",
+      "solution_summary": "Utilize open houses and door knocking to meet potential clients and learn the market.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining motivation and avoiding burnout",
+      "solution_summary": "Adopt an abundance mindset and focus on consistency and learning.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-sale",
+      "solution_summary": "Regularly call clients to provide value and stay top of mind.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Danielle shares insights on scaling a real estate business and managing a high-performing team.",
+      "key_takeaway": "Consistency and the right team are crucial for scaling your business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses effective team recruitment and management strategies.",
+      "key_takeaway": "Hire the right people and ensure a win-win situation for team success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:30",
+      "end_timestamp": "13:15",
+      "quote": "The abundance mindset is huge. The more you give back, the more you get.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the scarcity mindset common in competitive industries.",
+      "suggested_hook": "Why giving back could be your secret to success in real estate."
+    },
+    {
+      "timestamp": "19:30",
+      "end_timestamp": "20:15",
+      "quote": "Don't ask if they want to know their home's value. Just tell them.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a direct, actionable tactic for engaging clients.",
+      "suggested_hook": "A simple call strategy that keeps you top of mind with clients."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call clients with their home valuation instead of asking if they want it.",
+      "context": "Use this approach to engage clients and provide immediate value.",
+      "timestamp": "19:30"
+    },
+    {
+      "tactic": "Sit open houses and learn the market to generate leads.",
+      "context": "For agents without listings, this is a practical way to meet potential clients.",
+      "timestamp": "16:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency is key in the business, whether you're doing it yourself or hiring someone.",
+    "If you're not having fun, it's just not worth doing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for recruiting and retention powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Danielle Dowell shares her insights on thriving in real estate through team building, maintaining an abundance mindset, and leveraging open houses for lead generation. She emphasizes the importance of consistency and providing value to clients to maintain strong relationships and achieve business growth.",
+  "_metadata": {
+    "source_file": "2025-03-17_item83_Danielle-Dowell",
+    "analyzed_at": "2026-01-29T19:13:39.416787",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

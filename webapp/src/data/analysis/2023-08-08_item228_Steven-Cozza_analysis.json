@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Steven Cozza",
+    "title": "Team Leader",
+    "company": "Cozza Team",
+    "production_level": "Top 1% Producer",
+    "specialty": "Real Estate Sales",
+    "location": "Sonoma, Marin County, and North San Francisco Bay"
+  },
+  "main_topics": [
+    "Transition from professional sports to real estate",
+    "Importance of consistency and discipline",
+    "Building a successful real estate team",
+    "Effective listing presentations",
+    "Utilizing community engagement for lead generation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating consistent leads in real estate",
+      "solution_summary": "Focus on community engagement and consistent farming strategies over time.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Handling failure and rejection",
+      "solution_summary": "Learn from losses and focus on getting back up quickly to achieve success.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing time and tasks effectively",
+      "solution_summary": "Prioritize tasks based on importance and urgency, and focus on top priorities.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into achieving high production levels through discipline and strategic planning.",
+      "key_takeaway": "Consistency and a structured approach to business planning can significantly impact success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Steven discusses building and leading a successful real estate team.",
+      "key_takeaway": "Hiring the right people and focusing on systems can double your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "25:30",
+      "end_timestamp": "26:15",
+      "quote": "If you can just focus on those five things, you're going to do the best you can at them.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of prioritizing key goals for success.",
+      "suggested_hook": "Are you spreading yourself too thin? Here's why focusing on fewer goals can lead to greater success."
+    },
+    {
+      "timestamp": "47:00",
+      "end_timestamp": "47:45",
+      "quote": "When you give someone an option, there's really no negotiating that has to happen.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a tactical approach to handling listing presentations and negotiations.",
+      "suggested_hook": "Want to win more listings? Try this strategy to minimize negotiations."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a seller questionnaire before listing presentations.",
+      "context": "To understand client needs and tailor your approach.",
+      "timestamp": "47:30"
+    },
+    {
+      "tactic": "Offer multiple commission options to clients.",
+      "context": "To give clients a sense of control and reduce negotiation.",
+      "timestamp": "49:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency is the key to success in real estate.",
+    "Learn from your losses; they are your stepping stones to success."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Ninja Selling",
+      "context": "Recommended for setting and achieving financial goals through focused repetition."
+    },
+    {
+      "type": "course",
+      "name": "Certified Real Estate Negotiator (C. Ren)",
+      "context": "Suggested for improving negotiation skills in real estate transactions."
+    }
+  ],
+  "episode_summary": "In this episode, Steven Cozza shares his journey from professional cycling to becoming a top 1% real estate producer. He emphasizes the importance of consistency, learning from failures, and strategic planning. Steven also provides actionable insights into building a successful team, effective listing presentations, and community engagement for lead generation.",
+  "_metadata": {
+    "source_file": "2023-08-08_item228_Steven-Cozza",
+    "analyzed_at": "2026-01-26T21:15:03.865706",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

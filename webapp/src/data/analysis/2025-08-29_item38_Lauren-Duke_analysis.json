@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Lauren Duke",
+    "title": "Top Real Estate Coach",
+    "company": "CoreOps Collective",
+    "production_level": "Former COO of a top 10 mega real estate team",
+    "specialty": "Coaching and operational development",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Scaling a real estate business",
+    "Importance of systems and operations",
+    "Building and managing a team",
+    "Time audits and productivity",
+    "Role of coaching in real estate success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of integrated systems across business pillars",
+      "solution_summary": "Develop systems for lead generation, operations, financials, client experience, and team support, and ensure their integration.",
+      "timestamp": "32:01"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Inefficient time management",
+      "solution_summary": "Conduct a time audit to identify where time is being spent and adjust to focus on high-value activities.",
+      "timestamp": "19:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective lead generation efforts",
+      "solution_summary": "Focus on skill development and finding lead generation methods that align with personal strengths.",
+      "timestamp": "22:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses how to effectively build and manage a team, including hiring and integrating systems.",
+      "key_takeaway": "Focus on hiring for cultural fit and developing systems that integrate all aspects of your business."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Provides insights into auditing time and improving productivity through systems.",
+      "key_takeaway": "Conduct a time audit to identify inefficiencies and focus on skill development in lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:39",
+      "end_timestamp": "05:04",
+      "quote": "If you have a business that depends on you, you don't have a business, you have a job. And your boss is a psychopath.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a striking statement that challenges the listener to rethink their business structure.",
+      "suggested_hook": "Are you running a business or just working a job?"
+    },
+    {
+      "timestamp": "15:03",
+      "end_timestamp": "15:27",
+      "quote": "You have to know what you want out of life in general in order to be able to answer that.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages listeners to align their business goals with personal life goals.",
+      "suggested_hook": "Align your business with your life goals for true success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Conduct a time audit",
+      "context": "To identify inefficiencies and focus on high-value activities.",
+      "timestamp": "19:02"
+    },
+    {
+      "tactic": "Hire for cultural fit",
+      "context": "When building a team, prioritize cultural alignment over skills.",
+      "timestamp": "27:11"
+    }
+  ],
+  "quotable_insights": [
+    "If you have a business that depends on you, you don't have a business, you have a job.",
+    "You have to know what you want out of life in general in order to be able to answer that."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Clockwork by Mike McAllemanns",
+      "context": "Provided a key insight about business dependency and growth."
+    },
+    {
+      "type": "website",
+      "name": "CoreOps Collective",
+      "context": "Offers free resources like a pipeline tracker and financial tracker."
+    }
+  ],
+  "episode_summary": "In this episode, Lauren Duke discusses the importance of systems and operations in scaling a real estate business. She emphasizes the need for time audits and hiring for cultural fit when building a team. Lauren also highlights the role of coaching in achieving business success and offers insights into integrating systems across business pillars.",
+  "_metadata": {
+    "source_file": "2025-08-29_item38_Lauren-Duke",
+    "analyzed_at": "2026-01-29T19:41:46.198235",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

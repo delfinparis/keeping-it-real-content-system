@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Connie Mahan",
+    "title": "Broker Owner",
+    "company": "Connie Mahan Real Estate Group",
+    "production_level": "REALTOR of the Year",
+    "specialty": "Full-service brokerage",
+    "location": "Central Florida"
+  },
+  "main_topics": [
+    "Agent recruitment and retention",
+    "Community involvement for lead generation",
+    "Balancing personal and professional life",
+    "Importance of gratitude and mindset",
+    "Building client relationships over transactions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding clients as a new agent",
+      "solution_summary": "Attend community events and engage in floor duty to build relationships.",
+      "timestamp": "04:38"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining motivation during slow periods",
+      "solution_summary": "Cultivate a mindset of gratitude and feeling lucky to be in the profession.",
+      "timestamp": "21:15"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Over-reliance on buying leads",
+      "solution_summary": "Focus on building relationships and working by referral instead of transactional lead buying.",
+      "timestamp": "05:52"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Provides actionable steps for new agents to integrate into their community and start generating leads.",
+      "key_takeaway": "Engage in community events and floor duty to build a client base."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights on how to transition from transactional to relationship-based business.",
+      "key_takeaway": "Focus on long-term relationships and community involvement for sustainable success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:38",
+      "end_timestamp": "05:08",
+      "quote": "The best advice was literally to get in and do and the rest will figure itself out.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages proactive engagement and dispels the myth of needing everything figured out before starting.",
+      "suggested_hook": "Struggling to find your footing in real estate? Here's the best advice for new agents."
+    },
+    {
+      "timestamp": "21:15",
+      "end_timestamp": "21:54",
+      "quote": "We are so lucky to get to do what we do, which is help people right, honestly and ethically.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the emotional and ethical fulfillment of being a REALTOR.",
+      "suggested_hook": "Feeling burnt out? Remember why being a REALTOR is a privilege."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Attend community events regularly",
+      "context": "To build relationships and establish presence in the community.",
+      "timestamp": "04:38"
+    },
+    {
+      "tactic": "Conduct a 'Walmart walk around'",
+      "context": "Walk around local stores to engage with the community and spark real estate conversations.",
+      "timestamp": "18:59"
+    }
+  ],
+  "quotable_insights": [
+    "Someone else is happy with less than what you have.",
+    "Help everybody get what they want, and you'll get what you want."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for lead generation and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Connie Mahan shares her journey from restaurant management to becoming a top REALTOR in Central Florida. She emphasizes the importance of community involvement and relationship-building over transactional lead buying. Connie also discusses maintaining a mindset of gratitude and how it can positively impact an agent's career.",
+  "_metadata": {
+    "source_file": "2025-12-30_item9_Connie-Mahan",
+    "analyzed_at": "2026-01-30T11:13:48.413160",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Owner",
+    "company": "Content Club",
+    "production_level": "Top producing team",
+    "specialty": "Real estate content creation",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Incremental improvement in real estate skills",
+    "Social media strategies for real estate agents",
+    "The importance of consistency in content creation",
+    "Leveraging YouTube for real estate marketing",
+    "Understanding social media algorithms"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Difficulty in gaining social media traction",
+      "solution_summary": "Focus on the first three seconds to hook viewers and maintain engagement to increase viewership.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through video content",
+      "solution_summary": "Use both short-form and long-form content to capture different audience needs and leverage YouTube's search engine capabilities.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining consistency in skill development",
+      "solution_summary": "Encourage agents to improve by 1% daily, focusing on small, manageable improvements.",
+      "timestamp": "05:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to enhance personal branding and lead generation through social media.",
+      "key_takeaway": "Consistency and strategic content creation can significantly enhance your visibility and lead generation."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on how to coach team members to improve incrementally and effectively use social media.",
+      "key_takeaway": "Encourage your team to focus on small daily improvements and leverage social media algorithms for better reach."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "11:00",
+      "end_timestamp": "12:00",
+      "quote": "If your content isn't getting over 1,500 views, it's not good enough.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that content quality is subjective and emphasizes the importance of metrics.",
+      "suggested_hook": "Is your content really good enough? Here's how to tell."
+    },
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "Become 1% better at your craft every day.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a manageable approach to skill development that can resonate with many agents.",
+      "suggested_hook": "Want to improve your real estate skills? Start with just 1%."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hook viewers in the first three seconds of a video.",
+      "context": "Use engaging visuals or questions to capture attention immediately.",
+      "timestamp": "11:00"
+    },
+    {
+      "tactic": "Use YouTube for evergreen content.",
+      "context": "Create content that answers common questions about local real estate markets.",
+      "timestamp": "25:00"
+    }
+  ],
+  "quotable_insights": [
+    "The algorithm is the audience.",
+    "Consistency is the key to building a successful real estate brand."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Used for recruiting and retention with AI insights."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the importance of incremental improvement in real estate skills and the power of consistency in content creation. He shares insights on leveraging social media algorithms, particularly on Instagram and TikTok, and emphasizes the value of YouTube as a search engine for real estate marketing. The conversation provides actionable strategies for agents to enhance their personal brand and lead generation efforts.",
+  "_metadata": {
+    "source_file": "2026-04-17_item6_Ben-Lalez",
+    "analyzed_at": "2026-04-29T02:50:22.580615",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

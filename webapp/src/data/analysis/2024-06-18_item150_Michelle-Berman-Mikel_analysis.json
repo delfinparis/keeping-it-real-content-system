@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Michelle Berman Mikel",
+    "title": null,
+    "company": null,
+    "production_level": null,
+    "specialty": "Building community through content",
+    "location": null
+  },
+  "main_topics": [
+    "Cultivating customer loyalty",
+    "Building community through unique content",
+    "Importance of storytelling in content",
+    "Using passions and expertise to create content",
+    "Leveraging ChatGPT for content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of loyalty in the real estate community",
+      "solution_summary": "Build community through unique content and storytelling.",
+      "timestamp": "00:02:02"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Content not leading to conversions",
+      "solution_summary": "Create content that connects on a personal level to foster conversations.",
+      "timestamp": "00:13:39"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to stand out in a crowded market.",
+      "key_takeaway": "Focus on creating unique content that builds community and fosters loyalty."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:38",
+      "end_timestamp": "00:06:11",
+      "quote": "63% of people remember stories over data, while only 5% remember specific statistics.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of storytelling over data in content creation.",
+      "suggested_hook": "Did you know that stories are remembered far more than statistics?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use ChatGPT to create content analogies between passions and client pain points.",
+      "context": "Generate unique content ideas by combining personal interests with client challenges.",
+      "timestamp": "00:10:24"
+    }
+  ],
+  "quotable_insights": [
+    "Our only goal in content is to create connection."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Used to generate content ideas by creating analogies between passions and client pain points."
+    }
+  ],
+  "episode_summary": "Michelle Berman Mikel discusses the importance of building community through unique content and storytelling to cultivate customer loyalty in the real estate industry. She emphasizes using personal passions and expertise to create content that connects with audiences, leveraging tools like ChatGPT to generate creative ideas.",
+  "_metadata": {
+    "source_file": "2024-06-18_item150_Michelle-Berman-Mikel",
+    "analyzed_at": "2026-01-29T18:37:39.382876",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

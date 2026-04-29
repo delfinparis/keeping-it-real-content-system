@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Susan Santoro",
+    "title": "Real Estate Agent",
+    "company": "William Pitt Sotheby's International Realty",
+    "production_level": "$73M+ in transactions last year",
+    "specialty": "REALTOR to the Docs",
+    "location": "New Haven County, Connecticut"
+  },
+  "main_topics": [
+    "Real estate career longevity and motivation",
+    "Building and maintaining client relationships",
+    "Effective listing presentation strategies",
+    "Niche marketing in real estate",
+    "Leveraging statistics for competitive offers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated after decades in real estate",
+      "solution_summary": "Susan emphasizes waking up unemployed every day to maintain urgency and motivation.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Building long-term client relationships",
+      "solution_summary": "Susan advises treating every client as if they are your only client and maintaining contact through personalized notes and follow-ups.",
+      "timestamp": "40:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Crafting competitive offers",
+      "solution_summary": "Susan uses local market statistics to guide clients on how much over asking price to offer.",
+      "timestamp": "13:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Susan's strategies for maintaining a high level of production and client satisfaction are crucial for agents aiming to reach top producer status.",
+      "key_takeaway": "Consistent client care and leveraging market data are key to sustained success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Susan discusses building a small, effective team and leveraging each member's strengths.",
+      "key_takeaway": "A small, focused team with clear roles can outperform larger teams."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "You wake up unemployed every single day in our business.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement challenges agents to maintain a proactive mindset.",
+      "suggested_hook": "Why waking up unemployed might be the best motivation for real estate agents."
+    },
+    {
+      "timestamp": "40:00",
+      "end_timestamp": "40:45",
+      "quote": "Treat every client as if they are your only client.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of personalized client care.",
+      "suggested_hook": "The secret to client loyalty? Treat them like they're your only one."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use local market statistics to guide offer strategies.",
+      "context": "When advising clients on how much to offer over asking price.",
+      "timestamp": "13:00"
+    },
+    {
+      "tactic": "Conduct a two-step listing presentation.",
+      "context": "First visit for fact-finding, second visit for presenting a detailed plan.",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "You wake up unemployed every single day in our business.",
+    "Treat every client as if they are your only client."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Pilot Your Life",
+      "context": "Written by Susan's father, it serves as her motivational guide."
+    },
+    {
+      "type": "website",
+      "name": "greatschools.org",
+      "context": "Recommended for clients to research school districts."
+    }
+  ],
+  "episode_summary": "In this episode, Susan Santoro shares her insights from nearly 40 years in real estate, emphasizing the importance of waking up with a proactive mindset and treating every client as if they are your only one. She discusses her strategies for crafting competitive offers using local market data and the benefits of a two-step listing presentation approach. Susan also highlights the value of niche marketing and building strong client relationships.",
+  "_metadata": {
+    "source_file": "2023-09-07_item221_Susan-Santoro",
+    "analyzed_at": "2026-01-29T17:51:27.953260",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

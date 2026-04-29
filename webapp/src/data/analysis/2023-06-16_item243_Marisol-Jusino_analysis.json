@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Marisol Jusino",
+    "title": "REALTOR",
+    "company": "Coldwell Banker",
+    "production_level": "Top REALTOR in Florida",
+    "specialty": "Hispanic/Latino Market",
+    "location": "Central Florida"
+  },
+  "main_topics": [
+    "Attracting Hispanic clients",
+    "Building trust in real estate",
+    "Overcoming personal challenges",
+    "Sales training and development",
+    "Referral-based business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Attracting Hispanic, Latino, or Latin X clients",
+      "solution_summary": "Engage with the community, learn basic Spanish, and build trust through honesty and transparency.",
+      "timestamp": "19:01"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming personal and professional challenges",
+      "solution_summary": "Persevere through difficulties and leverage community support and personal resilience.",
+      "timestamp": "16:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into tapping into the growing Hispanic market and building a referral-based business.",
+      "key_takeaway": "Building trust and community relationships can lead to sustained business growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:48",
+      "end_timestamp": "09:29",
+      "quote": "My very first listing was from my son who was seven years old... and that was my first listing.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This story highlights the importance of family support and unexpected opportunities.",
+      "suggested_hook": "How a seven-year-old helped his mom land her first real estate listing!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Attend Hispanic cultural events to build relationships.",
+      "context": "Immerse yourself in the community to understand their needs and build trust.",
+      "timestamp": "23:10"
+    }
+  ],
+  "quotable_insights": [
+    "Show me how much you care, and then we can talk."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Marisol Jusino shares her journey of overcoming personal challenges and building a successful real estate business by focusing on the Hispanic market. She emphasizes the importance of community engagement, trust-building, and leveraging referrals to grow her business. Her story offers valuable insights for agents looking to expand into diverse markets and build lasting client relationships.",
+  "_metadata": {
+    "source_file": "2023-06-16_item243_Marisol-Jusino",
+    "analyzed_at": "2026-01-29T17:36:04.689195",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

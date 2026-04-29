@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning Creative Executive Producer",
+    "company": "Henry Street Media",
+    "production_level": "Top 1% podcast host",
+    "specialty": "Video and social media strategy for real estate agents",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Video strategy for real estate agents",
+    "Social media engagement and lead generation",
+    "Building confidence on camera",
+    "Content creation systems",
+    "Personal branding through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not getting leads from social media",
+      "solution_summary": "Develop a strategic approach to video content that highlights expertise and engages the audience.",
+      "timestamp": "00:08:05"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling self-conscious on camera",
+      "solution_summary": "Shift from 'supermodel mode' to 'teacher mode' to focus on delivering valuable information.",
+      "timestamp": "00:20:32"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured content creation process",
+      "solution_summary": "Implement a system to organize and generate video content ideas consistently.",
+      "timestamp": "00:23:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with where to start in video marketing.",
+      "key_takeaway": "Focus on building confidence and a simple strategy to start generating leads through video."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may have some video content but lack a cohesive strategy.",
+      "key_takeaway": "Develop a clear strategy that combines expertise and personal branding to convert followers into clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:20:32",
+      "end_timestamp": "00:21:06",
+      "quote": "Shift out of supermodel mode and into teacher mode. Focus on your message, not how you look.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This advice helps agents overcome a common barrier to using video effectively.",
+      "suggested_hook": "Feeling self-conscious on camera? Here's how to shift your mindset."
+    },
+    {
+      "timestamp": "00:35:04",
+      "end_timestamp": "00:35:47",
+      "quote": "Jessica closed $5 million in sales this year from video, by showing her real self and expertise.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "A powerful success story that illustrates the potential impact of video marketing.",
+      "suggested_hook": "Want to know how video can transform your real estate business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video to answer common client questions.",
+      "context": "Create content that addresses FAQs to establish expertise and engage potential clients.",
+      "timestamp": "00:56:06"
+    },
+    {
+      "tactic": "Engage with your audience by sharing personal stories.",
+      "context": "Incorporate personal anecdotes to build a connection with your audience.",
+      "timestamp": "00:35:11"
+    }
+  ],
+  "quotable_insights": [
+    "Hiding from the camera means hiding from clients.",
+    "Content can convert into cash when you have the right strategy and confidence."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Bootcamp",
+      "context": "A program to help agents build confidence and strategy in video marketing."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares actionable insights on how real estate agents can leverage video to generate leads and build their personal brand. She emphasizes the importance of confidence on camera and having a strategic approach to content creation. Kim provides practical tips for overcoming common barriers to video marketing, such as self-consciousness and lack of a structured system.",
+  "_metadata": {
+    "source_file": "2025-01-30_item95_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T19:50:41.636809",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

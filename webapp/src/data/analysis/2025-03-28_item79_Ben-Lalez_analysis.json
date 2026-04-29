@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Real Estate Agent",
+    "company": "Compass",
+    "production_level": "Top real estate agent in Chicago",
+    "specialty": "Scaling business and team",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Recognizing hidden opportunities in real estate",
+    "Effective questioning techniques for uncovering opportunities",
+    "Leveraging referrals and networking",
+    "Maximizing client interactions for future business",
+    "Utilizing technology and tools in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents missing out on obvious opportunities",
+      "solution_summary": "Ask more questions to uncover hidden opportunities and leverage existing client interactions.",
+      "timestamp": "04:35"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Not maximizing referral opportunities",
+      "solution_summary": "Actively seek and manage referral relationships, including out-of-market referrals.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Limited client base expansion",
+      "solution_summary": "Use client profiling and targeted questioning to duplicate ideal clients.",
+      "timestamp": "22:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to uncover and leverage opportunities that are often overlooked.",
+      "key_takeaway": "By asking the right questions and leveraging existing relationships, you can significantly increase your business opportunities."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers advanced techniques for scaling business through strategic questioning and referrals.",
+      "key_takeaway": "Focus on maximizing each client interaction to build a sustainable pipeline of business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:50",
+      "end_timestamp": "06:30",
+      "quote": "The opportunity is staring at people right in the face and they just don't see it.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a common oversight in real estate that can lead to missed opportunities.",
+      "suggested_hook": "Are you missing the opportunities right in front of you?"
+    },
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Referral income is like really low hanging fruit that people don't recognize.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the ease and profitability of leveraging referrals.",
+      "suggested_hook": "Unlock the power of referrals with this simple strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Ask triple the amount of questions to uncover hidden opportunities.",
+      "context": "When interacting with clients, always dig deeper to find additional business opportunities.",
+      "timestamp": "07:00"
+    },
+    {
+      "tactic": "Use client profiling to duplicate ideal clients.",
+      "context": "Identify characteristics of your best clients and seek to replicate them in new prospects.",
+      "timestamp": "22:30"
+    }
+  ],
+  "quotable_insights": [
+    "The elusive obvious is the opportunity staring you in the face that you just don't see.",
+    "Referral income is low hanging fruit that many agents overlook."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses how real estate agents can uncover hidden opportunities by asking more questions and leveraging existing relationships. He emphasizes the importance of referrals and provides strategies for duplicating ideal clients. The episode also highlights the use of technology and tools to enhance business operations.",
+  "_metadata": {
+    "source_file": "2025-03-28_item79_Ben-Lalez",
+    "analyzed_at": "2026-01-30T11:10:52.751405",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

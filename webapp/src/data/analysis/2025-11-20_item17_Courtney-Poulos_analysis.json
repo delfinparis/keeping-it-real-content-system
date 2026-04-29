@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Courtney Poulos",
+    "title": "Founder and Broker Owner",
+    "company": "Acme Real Estate",
+    "production_level": "N/A",
+    "specialty": "Renovation Resale",
+    "location": "Los Angeles"
+  },
+  "main_topics": [
+    "AI tools in real estate",
+    "Challenges with MLS and NAR policies",
+    "Importance of client experience",
+    "50-year mortgage discussion",
+    "Industry reform and transparency"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Inequity in MLS and clear cooperation policy",
+      "solution_summary": "Advocating for a nationwide open-source MLS and private listing network to ensure fair access for all agents.",
+      "timestamp": "54:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not creating a memorable open house experience",
+      "solution_summary": "Focus on crafting a human connection and memorable experience during open houses to stand out.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses advanced strategies for leveraging AI and improving client experiences.",
+      "key_takeaway": "Use AI tools to enhance marketing efforts, but maintain a personal touch to build trust with clients."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on industry reform and managing a brokerage with a unique niche.",
+      "key_takeaway": "Consider specializing in a niche market to differentiate your brokerage and attract specific clientele."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:05",
+      "end_timestamp": "06:33",
+      "quote": "Auto real app takes static images and turns them into viral video... It brings it to life.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific AI tool that can enhance real estate marketing.",
+      "suggested_hook": "Transform your real estate photos into captivating videos with this AI tool!"
+    },
+    {
+      "timestamp": "36:00",
+      "end_timestamp": "37:10",
+      "quote": "If you're renting, we know that's 100% loss... owning a home improves culture, society, civilization writ large.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the notion that renting is a better financial decision than owning.",
+      "suggested_hook": "Why renting might be costing you more than you think!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI tools like Auto Real App to create engaging video content from static images.",
+      "context": "Enhance property listings and social media presence.",
+      "timestamp": "05:05"
+    },
+    {
+      "tactic": "Conduct secret shopper experiments to evaluate open house experiences.",
+      "context": "Improve agent performance and client interactions.",
+      "timestamp": "21:00"
+    }
+  ],
+  "quotable_insights": [
+    "Crafting an experience is what we're known for. It's about the client experience, not just the sale.",
+    "The art of sales is not in my ability to sell. It's in the client's ability to trust me."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Auto Real App",
+      "context": "Recommended for turning static images into dynamic videos for real estate marketing."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Courtney Poulos discusses the importance of leveraging AI tools like Auto Real App to enhance real estate marketing while maintaining a personal touch to build trust with clients. She also addresses industry challenges, advocating for an open-source MLS to ensure fair access for all agents. Courtney emphasizes the value of crafting memorable client experiences and the potential benefits of creative financing options like a 50-year mortgage.",
+  "_metadata": {
+    "source_file": "2025-11-20_item17_Courtney-Poulos",
+    "analyzed_at": "2026-01-29T19:56:23.872953",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

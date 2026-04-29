@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ryan Rodenbeck",
+    "title": "Team Leader",
+    "company": "Spyglass Realty",
+    "production_level": "Grown brokerage to 150 agents",
+    "specialty": "Agent recruitment and production growth",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Agent recruitment strategies",
+    "Leveraging technology in real estate",
+    "Handling changes in commission structures",
+    "Effective use of CRM and AI",
+    "Building a real estate brand"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Converting leads into clients",
+      "solution_summary": "Utilizing Real Geeks and other tech tools for better lead conversion and tracking.",
+      "timestamp": "00:00:17"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a real estate team",
+      "solution_summary": "Implementing systems and processes to grow from a few agents to 150 agents.",
+      "timestamp": "00:04:13"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in commission structures",
+      "solution_summary": "Training agents to explain commission structures clearly to clients.",
+      "timestamp": "00:28:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies on doubling and tripling production.",
+      "key_takeaway": "Focus on leveraging technology and systems to increase efficiency and production."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on growing a real estate team and recruiting effectively.",
+      "key_takeaway": "Implement systems and processes to support agent growth and productivity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:02",
+      "end_timestamp": "00:06:20",
+      "quote": "Arrogance can be a roadblock to success, especially when you're trying to learn new things.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges listeners to remain open and coachable.",
+      "suggested_hook": "Is arrogance holding you back in your real estate career?"
+    },
+    {
+      "timestamp": "00:24:27",
+      "end_timestamp": "00:24:45",
+      "quote": "A robot's never going to show a house, but it can make us more productive.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the role of AI in enhancing productivity without replacing agents.",
+      "suggested_hook": "How can AI boost your real estate productivity?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Automate farming processes for agents",
+      "context": "For agents focusing on farming as a lead source, automate the process to save time.",
+      "timestamp": "00:20:08"
+    },
+    {
+      "tactic": "Use AI for role-playing client interactions",
+      "context": "Train agents by using AI to simulate client conversations and improve their skills.",
+      "timestamp": "00:24:09"
+    }
+  ],
+  "quotable_insights": [
+    "We make good agents into great agents.",
+    "You cannot fight change; you need to embrace it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Maverick",
+      "context": "Used for measuring agent productivity and efficiency."
+    }
+  ],
+  "episode_summary": "In this episode, Ryan Rodenbeck discusses strategies for doubling and tripling agent production through effective recruitment, leveraging technology, and implementing systems and processes. He shares insights on adapting to changes in commission structures and highlights the importance of being coachable and embracing change in the real estate industry.",
+  "_metadata": {
+    "source_file": "2024-06-14_item151_Ryan-Rodenbeck",
+    "analyzed_at": "2026-01-29T18:37:29.025862",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

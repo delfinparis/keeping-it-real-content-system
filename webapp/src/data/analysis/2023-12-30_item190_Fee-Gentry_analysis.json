@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Fee Gentry",
+    "title": "CEO",
+    "company": "Live Better Ventures",
+    "production_level": "Top 1%",
+    "specialty": "Entrepreneurship and financial independence through real estate",
+    "location": "Georgetown, Texas"
+  },
+  "main_topics": [
+    "Future-proofing real estate business",
+    "Leveraging strategic partnerships",
+    "Mindset and motivation for REALTORS",
+    "Additional revenue streams for agents",
+    "Impact of technology and AI on real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling overwhelmed by market changes and technology",
+      "solution_summary": "Focus on mindset, make a decision to thrive, and create a simple action plan.",
+      "timestamp": "09:30"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Agents leaving money on the table by not leveraging partnerships",
+      "solution_summary": "Identify and create strategic partnerships with vendors to earn additional revenue streams.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Concerns about the future of real estate with AI and market changes",
+      "solution_summary": "Adapt by focusing on collaborative capitalism and building strong networks.",
+      "timestamp": "10:40"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to elevate business practices and increase revenue streams.",
+      "key_takeaway": "Focus on building strategic partnerships to create additional income and future-proof your business."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to rejuvenate their business model and adapt to industry changes.",
+      "key_takeaway": "Shift from a transactional mindset to a business owner mindset by leveraging existing relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "Most real estate professionals are renting their careers... up to 41 people get paid off of one transaction.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a common oversight in the industry and suggests a shift in perspective.",
+      "suggested_hook": "Are you renting your real estate career? Discover how to own it!"
+    },
+    {
+      "timestamp": "10:40",
+      "end_timestamp": "11:20",
+      "quote": "Real estate is going to substantially change in the next 24 to 48 months.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to think about the future and prepare for significant industry shifts.",
+      "suggested_hook": "The real estate industry is on the brink of major change. Are you ready?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create strategic partnerships with vendors",
+      "context": "Identify vendors you frequently work with and establish mutually beneficial relationships.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Focus on daily conversations to drive business",
+      "context": "Set a goal for the number of new people you add to your database each day.",
+      "timestamp": "13:00"
+    }
+  ],
+  "quotable_insights": [
+    "Most real estate professionals are renting their careers.",
+    "Everything we need is already inside of us."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Rich Dad Poor Dad",
+      "context": "Inspired Fee Gentry to pursue real estate as a path to wealth."
+    },
+    {
+      "type": "book",
+      "name": "Atomic Habits",
+      "context": "Recommended for developing effective habits."
+    }
+  ],
+  "episode_summary": "Fee Gentry discusses how real estate agents can future-proof their businesses by focusing on mindset, creating strategic partnerships, and leveraging additional revenue streams. She emphasizes the importance of adapting to industry changes and building strong networks to thrive in a rapidly evolving market.",
+  "_metadata": {
+    "source_file": "2023-12-30_item190_Fee-Gentry",
+    "analyzed_at": "2026-01-29T18:14:23.738167",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

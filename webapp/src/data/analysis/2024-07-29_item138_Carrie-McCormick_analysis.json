@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "Top 1% Producer, $113M year-to-date",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Hospitality in real estate",
+    "AI tools for real estate agents",
+    "Social media strategies",
+    "Market challenges in 2024",
+    "Client management and communication"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Clients being more on edge due to market challenges",
+      "solution_summary": "Focus on exceptional hospitality and client service, taking care of all details for them.",
+      "timestamp": "07:26"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Creating engaging property descriptions",
+      "solution_summary": "Use AI tools like ChatGPT to generate and refine property descriptions.",
+      "timestamp": "11:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating content ideas for social media",
+      "solution_summary": "Use ChatGPT to generate content ideas and scripts for short-form videos.",
+      "timestamp": "14:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Carrie's insights on using AI and social media can help agents looking to scale their business.",
+      "key_takeaway": "Embrace AI tools to enhance efficiency and focus on exceptional client service to stand out."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Understanding how a top producer manages a support team can offer valuable insights.",
+      "key_takeaway": "A dedicated support team and leveraging technology can significantly boost productivity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "11:02",
+      "end_timestamp": "12:06",
+      "quote": "You can actually now put in pictures of a property... and it will look at the pictures and write a description of it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical application of AI in real estate.",
+      "suggested_hook": "Struggling with property descriptions? Here's how AI can help!"
+    },
+    {
+      "timestamp": "09:58",
+      "end_timestamp": "10:11",
+      "quote": "You will always remember how they made you feel.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of client experience in real estate.",
+      "suggested_hook": "Want to leave a lasting impression on your clients?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI for property descriptions and client communication.",
+      "context": "Leverage AI tools like ChatGPT to enhance writing and communication tasks.",
+      "timestamp": "11:02"
+    },
+    {
+      "tactic": "Develop a content calendar using AI.",
+      "context": "Use AI to plan and schedule social media content effectively.",
+      "timestamp": "16:04"
+    }
+  ],
+  "quotable_insights": [
+    "You will always remember how they made you feel.",
+    "AI is such an incredible tool to help us in our daily lives in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Unreasonable Hospitality",
+      "context": "Recommended for insights on providing exceptional client service."
+    },
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Used for generating property descriptions and content ideas."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her insights on the importance of hospitality in client management and how AI tools can enhance real estate operations. She discusses the challenges faced in the 2024 market and offers practical advice on using social media effectively. Carrie's approach to maintaining a high level of client service and leveraging technology provides valuable lessons for real estate professionals aiming to scale their business.",
+  "_metadata": {
+    "source_file": "2024-07-29_item138_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T18:42:21.472293",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

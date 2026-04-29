@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Nick Harris",
+    "title": "Licensed REALTOR",
+    "company": "eXp, Best Life and Company Metro Detroit",
+    "production_level": "Top 1% producer",
+    "specialty": "Real estate investing and primary home buyers/sellers",
+    "location": "Metro Detroit, Michigan"
+  },
+  "main_topics": [
+    "Real estate investing",
+    "Sphere of influence marketing",
+    "Circle prospecting",
+    "Client management and retention",
+    "Social media strategy"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding clients as a new agent",
+      "solution_summary": "Utilize sphere of influence and social media to build relationships and generate leads.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Transitioning from investor clients to primary home buyers",
+      "solution_summary": "Focus on the emotional aspects of buying and selling homes to connect with primary home buyers.",
+      "timestamp": "00:19:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable brand in the real estate market",
+      "solution_summary": "Engage with the community through social media and provide value through educational content.",
+      "timestamp": "00:44:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode provides strategies for new agents to generate leads and build a client base.",
+      "key_takeaway": "Focus on building relationships through sphere of influence and social media engagement."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Nick shares insights on achieving high transaction volumes and transitioning client types.",
+      "key_takeaway": "Diversify your client base and leverage circle prospecting to increase sales."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:19:00",
+      "end_timestamp": "00:20:00",
+      "quote": "I cut my transactions in almost half, but the total sales volume went up north of 2 million.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the effectiveness of focusing on higher value transactions.",
+      "suggested_hook": "Want to increase your sales volume without doubling your workload?"
+    },
+    {
+      "timestamp": "00:57:00",
+      "end_timestamp": "00:58:00",
+      "quote": "I call around for your buyer in a specific neighborhood... curious if you've had any thought of potentially making a move.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic for generating leads through circle prospecting.",
+      "suggested_hook": "Here's a unique way to find sellers in your target neighborhood."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Social 3333 strategy",
+      "context": "Engage with your sphere of influence daily by following, commenting, and messaging.",
+      "timestamp": "00:26:00"
+    },
+    {
+      "tactic": "Circle prospecting calls",
+      "context": "Call homeowners around listings to generate interest and potential leads.",
+      "timestamp": "00:56:00"
+    },
+    {
+      "tactic": "Monthly client touchpoints",
+      "context": "Plan monthly interactions with clients to maintain relationships and provide value.",
+      "timestamp": "00:49:00"
+    }
+  ],
+  "quotable_insights": [
+    "Everybody wants to talk about themselves and what they're doing and what's working. Give them an opportunity to do it.",
+    "Be really clear on what your message is and what you want to be known for."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "Used for organizing client interactions and follow-ups."
+    }
+  ],
+  "episode_summary": "In this episode, Nick Harris shares his journey from real estate investing to becoming a top 1% producer in Metro Detroit. He discusses effective lead generation strategies, including sphere of influence marketing and circle prospecting. Nick also emphasizes the importance of social media engagement and maintaining client relationships through personalized touchpoints.",
+  "_metadata": {
+    "source_file": "2025-02-14_item92_Nick-Harris",
+    "analyzed_at": "2026-01-29T19:09:12.699612",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

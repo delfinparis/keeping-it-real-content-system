@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "11:00",
+      "end_timestamp": "12:00",
+      "quote": "If your content isn't getting over 1,500 views, it's not good enough.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that content quality is subjective and emphasizes the importance of metrics.",
+      "suggested_hook": "Is your content really good enough? Here's how to tell."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your content really good enough?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez challenges the idea that content quality is subjective. You're posting regularly, but your views are stuck under 1,500. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'If your content isn't getting over 1,500 views, it's not good enough.' [ON-SCREEN: 1,500 views] Most agents think posting is enough. Top producers know it's about engagement. [ON-SCREEN: Engagement over Quantity] Focus on metrics, not just aesthetics. [ON-SCREEN: Metrics Matter]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can tweak your strategy today. Analyze your past posts, see what worked, and replicate. [ON-SCREEN: Analyze & Replicate] This approach helped Ben's team close 47 deals last year.\",\n    \"CTA\": \"Are you tracking your views — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your content really reaching its potential? Here's how to find out. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ContentStrategy\",\n    \"#SocialMediaSuccess\",\n    \"#AgentGrowth\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If your content isn't getting over 1,500 views, it's not good enough.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "Become 1% better at your craft every day.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a manageable approach to skill development that can resonate with many agents.",
+      "suggested_hook": "Want to improve your real estate skills? Start with just 1%."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to improve your real estate skills? Start with just 1%.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a powerful mindset shift on our podcast. You're hustling every day, juggling listings, clients, and endless tasks. It feels overwhelming, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'Become 1% better at your craft every day.' [ON-SCREEN: 1% better daily] It's not about massive leaps. Most agents try to overhaul everything at once. Top producers focus on small, consistent improvements. [ON-SCREEN: Consistency over overhaul]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Focus on one skill, one area to improve by just 1%. This approach helped Ben close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Small steps lead to big results. Improve by 1% daily. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MindsetShift\", \"#AgentGrowth\", \"#TopProducer\", \"#Consistency\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Become 1% better at your craft every day.\"\n}\n```"
+  }
+]

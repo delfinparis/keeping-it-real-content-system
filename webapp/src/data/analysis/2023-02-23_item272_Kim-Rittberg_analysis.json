@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Marketing and Media Specialist",
+    "company": null,
+    "production_level": null,
+    "specialty": "Digital Content Strategy and On-Camera Coaching",
+    "location": "Brooklyn"
+  },
+  "main_topics": [
+    "Video content strategy for REALTORS",
+    "Overcoming fear of being on camera",
+    "Creating engaging and authentic content",
+    "Using social media for lead generation",
+    "Developing a personal brand through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Fear of being on camera and not liking one's own voice or appearance",
+      "solution_summary": "Prepare your mindset, be authentic, and focus on the message rather than perfection.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective social media strategies focusing only on 'just listed' and 'just sold' posts",
+      "solution_summary": "Create educational and entertaining content that showcases your expertise and personality.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Feeling overwhelmed by the time and cost of producing video content",
+      "solution_summary": "Use simple tools like an iPhone and batch-create content to save time and resources.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with building a personal brand and generating leads.",
+      "key_takeaway": "Focus on creating authentic video content that educates and entertains to build your brand and attract clients."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may find their growth plateauing due to ineffective marketing strategies.",
+      "key_takeaway": "Revamp your social media strategy by incorporating video content that highlights your unique expertise and personality."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "You plus your iPhone with a really solid strategy and messaging can supercharge your business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a simple, actionable tip that demystifies video content creation.",
+      "suggested_hook": "Want to supercharge your real estate business with just your iPhone?"
+    },
+    {
+      "timestamp": "20:00",
+      "end_timestamp": "20:45",
+      "quote": "Just listed and just closed is not a social media strategy.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges a common practice among REALTORS, encouraging them to think differently.",
+      "suggested_hook": "Think 'just listed' posts are enough? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use the PATCH method to improve on-camera presence.",
+      "context": "Prepare your mindset, be authentic, turn off distractions, show confidence, and harness your energy.",
+      "timestamp": "25:00"
+    },
+    {
+      "tactic": "Leverage Q&A sessions to create engaging video content.",
+      "context": "Answer common client questions on camera to provide value and demonstrate expertise.",
+      "timestamp": "50:00"
+    }
+  ],
+  "quotable_insights": [
+    "Video is the biggest growth tactic for marketing.",
+    "You're not making one video to sell a house; you're building relationships."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for REALTORS to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares insights on how REALTORS can leverage video content to build their personal brand and generate leads. She provides practical tips on overcoming the fear of being on camera and creating engaging, authentic content that resonates with potential clients. By focusing on educational and entertaining videos, agents can differentiate themselves and grow their business effectively.",
+  "_metadata": {
+    "source_file": "2023-02-23_item272_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:11:01.290856",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

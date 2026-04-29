@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Shahar Plinner",
+    "title": "Tax Expert",
+    "company": "Formations Corp",
+    "production_level": null,
+    "specialty": "Real Estate Tax Solutions for 1099 Employees",
+    "location": "Seattle, Silicon Valley, Tel Aviv"
+  },
+  "main_topics": [
+    "Tax savings for real estate agents",
+    "Benefits of S Corporation structure",
+    "Financial planning and entity structure",
+    "Retirement savings strategies",
+    "Importance of separating business and personal finances"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "High tax liabilities for 1099 real estate agents",
+      "solution_summary": "Incorporating as an S Corporation to reduce self-employment taxes and increase take-home pay.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Co-mingling of personal and business finances",
+      "solution_summary": "Set up separate business accounts and use accounting software to track expenses accurately.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Lack of retirement savings among real estate agents",
+      "solution_summary": "Utilize tax-deferred retirement accounts like solo 401(k)s to save on taxes and prepare for the future.",
+      "timestamp": "20:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to maximize income retention through tax savings, crucial for those looking to scale their business.",
+      "key_takeaway": "Incorporating as an S Corporation can significantly reduce tax burdens and increase profitability."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers insights into financial structuring that can help move past income plateaus.",
+      "key_takeaway": "Proper financial planning and entity structuring are essential for sustainable growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:30",
+      "end_timestamp": "18:15",
+      "quote": "Just moving into an S Corporation structure can save you 15% in self-employment taxes.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights a significant financial benefit that many agents are unaware of.",
+      "suggested_hook": "Are you leaving money on the table with your current tax setup?"
+    },
+    {
+      "timestamp": "25:30",
+      "end_timestamp": "26:00",
+      "quote": "The number one mistake we see real estate agents making is co-mingling of funds.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Addresses a common issue with a clear solution, making it actionable.",
+      "suggested_hook": "Is mixing your personal and business finances costing you?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Incorporate as an S Corporation",
+      "context": "For agents earning over $80,000 annually to save on self-employment taxes.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Use accounting software to track expenses",
+      "context": "To maintain clear financial records and avoid IRS scrutiny.",
+      "timestamp": "26:00"
+    },
+    {
+      "tactic": "Contribute to a solo 401(k)",
+      "context": "To maximize tax savings and prepare for retirement.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "Treat your real estate business like a business, not a hobby.",
+    "The tax code is designed to benefit those who understand it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Formations Corp",
+      "context": "Recommended for real estate agents to explore tax-saving strategies."
+    },
+    {
+      "type": "tool",
+      "name": "Zero Accounting Software",
+      "context": "Suggested for managing business finances efficiently."
+    }
+  ],
+  "episode_summary": "In this episode, tax expert Shahar Plinner discusses how real estate agents can save thousands annually by incorporating as an S Corporation. He emphasizes the importance of separating personal and business finances and highlights the benefits of using tax-deferred retirement accounts. Shahar provides actionable insights into financial planning and entity structuring, making this a must-listen for agents looking to maximize their income retention.",
+  "_metadata": {
+    "source_file": "2024-02-26_item179_Shahar-Plinner",
+    "analyzed_at": "2026-01-26T22:28:39.064647",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

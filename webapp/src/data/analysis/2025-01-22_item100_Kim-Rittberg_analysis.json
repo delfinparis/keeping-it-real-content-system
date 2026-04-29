@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Real Estate Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content creation for real estate",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of video in real estate",
+    "Mindset shift for content creation",
+    "Strategies for staying consistent on camera",
+    "Video Boot Camp program",
+    "Converting content to leads and sales"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling camera shy or silly on camera",
+      "solution_summary": "Shift mindset to focus on the message and practice regularly to build confidence.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Content not converting to leads",
+      "solution_summary": "Adopt a strategy that emphasizes consistent video content to engage potential leads.",
+      "timestamp": "04:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often feel overwhelmed by the need to create content and lack confidence on camera.",
+      "key_takeaway": "Start with simple videos about your daily activities to build confidence and gradually develop a content strategy."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "03:10",
+      "end_timestamp": "03:30",
+      "quote": "Content converts to cash. That's the number one mindset shift that agents need to have.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement challenges agents to rethink the value of content creation.",
+      "suggested_hook": "Are you still doubting the power of video in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Record simple videos about your daily activities to get comfortable on camera.",
+      "context": "When starting out with video content creation.",
+      "timestamp": "08:00"
+    }
+  ],
+  "quotable_insights": [
+    "Content converts to cash. That's the number one mindset shift that agents need to have."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Boot Camp",
+      "context": "A program to help agents gain confidence on camera and create effective video content."
+    }
+  ],
+  "episode_summary": "Kim Rittberg emphasizes the importance of video content in real estate, advocating for a mindset shift where agents view content as a tool for generating leads and sales. She introduces her Video Boot Camp program, which helps agents build confidence on camera and develop a strategic approach to video content creation.",
+  "_metadata": {
+    "source_file": "2025-01-22_item100_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T19:04:03.726308",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

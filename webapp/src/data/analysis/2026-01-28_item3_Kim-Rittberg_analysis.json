@@ -1,0 +1,92 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning video coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Social media first impressions and video content",
+    "location": "New York"
+  },
+  "main_topics": [
+    "Improving social media presence for real estate agents",
+    "Creating effective video content",
+    "Optimizing social media bios for searchability",
+    "Building trust and credibility through content",
+    "Using video to showcase expertise"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Real estate agents' social media pages not reflecting their expertise",
+      "solution_summary": "Kim advises agents to optimize their social media bios with searchable terms and to create videos that showcase their expertise and personal brand.",
+      "timestamp": "00:03:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents creating content but not generating leads",
+      "solution_summary": "Kim suggests creating specific types of videos, such as 'about me' and 'expertise' videos, to attract and convert leads.",
+      "timestamp": "00:06:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode is relevant for agents who have a social media presence but are not effectively leveraging it to showcase their expertise and generate leads.",
+      "key_takeaway": "Optimizing your social media bio and creating targeted video content can significantly enhance your personal brand and lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:41",
+      "end_timestamp": "00:09:05",
+      "quote": "Everyone has Google. Everyone has to add to you. Don't just take the phone to the internet and say it. Really think about what is your opinion, what is your take?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This emphasizes the importance of having a unique perspective in content creation, which is crucial for standing out in a crowded market.",
+      "suggested_hook": "Are you just another voice on the internet, or do you have something unique to say?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Optimize your social media bio with searchable terms",
+      "context": "Include your full name, location, and specific areas of expertise to enhance discoverability.",
+      "timestamp": "00:04:08"
+    },
+    {
+      "tactic": "Create an 'About Me' video",
+      "context": "Introduce yourself, your expertise, and how you can help potential clients.",
+      "timestamp": "00:06:21"
+    },
+    {
+      "tactic": "Produce an 'Expertise' video",
+      "context": "Showcase your knowledge by answering common client questions or providing advice.",
+      "timestamp": "00:07:10"
+    }
+  ],
+  "quotable_insights": [
+    "Your social media page is like your storefront; make sure it reflects your expertise and credibility."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting tool for identifying agents looking to move."
+    },
+    {
+      "type": "course",
+      "name": "Video Bootcamp",
+      "context": "Kim's program for helping agents create effective video content."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares insights on optimizing social media presence for real estate agents. She emphasizes the importance of a well-crafted bio and strategic video content to enhance personal branding and lead generation. Kim also introduces tools and tactics for agents to effectively showcase their expertise and connect with potential clients.",
+  "_metadata": {
+    "source_file": "2026-01-28_item3_Kim-Rittberg",
+    "analyzed_at": "2026-01-30T11:17:26.644182",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

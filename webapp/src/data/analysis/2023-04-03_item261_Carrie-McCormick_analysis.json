@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time homebuyers, veteran investors, luxury properties, developers",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Real estate market inventory challenges",
+    "Creative strategies for increasing listings",
+    "Impact of interest rates on buying and selling",
+    "Networking and relationship building",
+    "Social media and personal branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Lack of inventory in the real estate market",
+      "solution_summary": "Identify potential sellers among landlords, connect with agents in other cities, and act as a matchmaker for clients.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Clients hesitant to move due to higher interest rates",
+      "solution_summary": "Focus on clients' long-term goals and lifestyle needs, and educate them on market dynamics and refinancing options.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building an authentic social media presence",
+      "solution_summary": "Be your own brand ambassador by creating organic content that reflects your true self.",
+      "timestamp": "29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for increasing listings and building a personal brand, which are crucial for growth.",
+      "key_takeaway": "Get creative with sourcing inventory and leverage your network to find new opportunities."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on overcoming market challenges and improving client relationships.",
+      "key_takeaway": "Focus on understanding client needs and use that knowledge to create opportunities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:00",
+      "end_timestamp": "05:30",
+      "quote": "Find those landlords. Maybe they want to sell. Maybe they want to do a 1031 exchange.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic for finding new listings.",
+      "suggested_hook": "Struggling with low inventory? Here's a creative way to find new listings!"
+    },
+    {
+      "timestamp": "15:00",
+      "end_timestamp": "16:00",
+      "quote": "Don't stop your life just because the rate's at 6%.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common fear of high interest rates and encourages action.",
+      "suggested_hook": "Worried about high interest rates? Here's why you shouldn't be!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify potential sellers among landlords",
+      "context": "Look for landlords who might be interested in selling or doing a 1031 exchange.",
+      "timestamp": "04:00"
+    },
+    {
+      "tactic": "Network with agents in other cities",
+      "context": "Connect with agents in areas where people are moving from to find potential sellers.",
+      "timestamp": "07:00"
+    },
+    {
+      "tactic": "Be a matchmaker for clients",
+      "context": "Understand client needs and present them with opportunities that fit their lifestyle.",
+      "timestamp": "13:00"
+    }
+  ],
+  "quotable_insights": [
+    "Listening to people is one of my biggest strengths in being successful in the business.",
+    "Be your own brand ambassador and be organic with your content."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares creative strategies to tackle the lack of inventory in the real estate market by identifying potential sellers among landlords and networking with agents in other cities. She emphasizes the importance of understanding client needs and acting as a matchmaker. Additionally, Carrie highlights the value of being authentic on social media to build a personal brand.",
+  "_metadata": {
+    "source_file": "2023-04-03_item261_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T17:22:56.684797",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

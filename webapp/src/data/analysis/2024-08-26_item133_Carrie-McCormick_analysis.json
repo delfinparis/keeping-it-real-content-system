@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group at Properties Christie's International",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Adapting to industry changes",
+    "Strengthening personal brand",
+    "Role of buyer presentations",
+    "Impact of interest rates on market",
+    "Agent commission models"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in the real estate industry due to NAR settlement",
+      "solution_summary": "Shift focus to buyer presentations, strengthen personal brand, and add value-added services.",
+      "timestamp": "04:46"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Need to build trust with buyers in a changing market",
+      "solution_summary": "Strengthen personal brand through content marketing, social media, and client testimonials.",
+      "timestamp": "05:37"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Communicating value to justify commission rates",
+      "solution_summary": "Create detailed buyer packets and explain the transaction process to clients.",
+      "timestamp": "07:29"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on adapting to industry changes and enhancing personal branding.",
+      "key_takeaway": "Strengthening your personal brand and adapting to new commission models are crucial for staying competitive."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to improve client communication and justify commission rates.",
+      "key_takeaway": "Developing comprehensive buyer presentations can differentiate you in a competitive market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:37",
+      "end_timestamp": "06:05",
+      "quote": "Strengthen your personal brand through content marketing, social media, and client testimonials.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear strategy for agents to enhance their market presence.",
+      "suggested_hook": "Want to stand out in a crowded real estate market? Here's how to strengthen your personal brand."
+    },
+    {
+      "timestamp": "08:16",
+      "end_timestamp": "08:45",
+      "quote": "Show them the paperwork that goes on in the background to justify your commission.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical tip for agents to communicate their value to clients.",
+      "suggested_hook": "Struggling to justify your commission? Here's a tactic that can help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create detailed buyer packets to explain the transaction process.",
+      "context": "Use these packets during buyer presentations to justify commission rates.",
+      "timestamp": "07:29"
+    },
+    {
+      "tactic": "Role play different scenarios with peers to prepare for client interactions.",
+      "context": "Helps in adapting to new commission models and client questions.",
+      "timestamp": "06:49"
+    }
+  ],
+  "quotable_insights": [
+    "Resistance to change doesn't change reality.",
+    "Strengthen your personal brand through content marketing, social media, and client testimonials."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "course",
+      "name": "Beyond the Method",
+      "context": "Instagram strategies course offered with a discount for listeners."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses adapting to industry changes due to the NAR settlement, emphasizing the importance of buyer presentations and personal branding. She provides actionable strategies for agents to communicate their value, including creating detailed buyer packets and role-playing scenarios with peers. The episode also touches on the impact of interest rates on the market and the evolving commission models.",
+  "_metadata": {
+    "source_file": "2024-08-26_item133_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T18:45:04.974353",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

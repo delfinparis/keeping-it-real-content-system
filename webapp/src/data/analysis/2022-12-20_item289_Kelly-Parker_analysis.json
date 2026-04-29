@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Kelly Parker",
+    "title": "Top Producer",
+    "company": "Chicago Home Collective with Compass",
+    "production_level": "Top 1% team",
+    "specialty": "Residential real estate and mentorship",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Goal setting and personal growth",
+    "Building a relationship-based business",
+    "Navigating market challenges",
+    "The importance of celebrating success",
+    "Developing personal power and skills"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Stress and anxiety about market conditions in 2023",
+      "solution_summary": "Focus on personal growth and skill development rather than external circumstances.",
+      "timestamp": "31:14"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of differentiation in a crowded market",
+      "solution_summary": "Share your 'why' to connect with clients on a deeper level.",
+      "timestamp": "24:17"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses strategies to maintain and grow success in challenging markets.",
+      "key_takeaway": "Focus on personal development and relationship-building rather than just production goals."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on building and managing a successful team with a unique approach.",
+      "key_takeaway": "Create a collaborative team environment that focuses on client relationships and personal growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:04",
+      "end_timestamp": "16:38",
+      "quote": "I do have parameters and I do have standards. And I think this is what's important is like I do set out the year thinking how do I want to grow.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the traditional goal-setting approach and emphasizes personal growth.",
+      "suggested_hook": "Why traditional goal-setting might be holding you back."
+    },
+    {
+      "timestamp": "24:17",
+      "end_timestamp": "24:53",
+      "quote": "Share your why. Why do you do this? Because people want to know.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the power of personal storytelling in building client relationships.",
+      "suggested_hook": "The secret to connecting with your clients on a deeper level."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on personal development and skill enhancement.",
+      "context": "Use personal growth as a foundation for business success.",
+      "timestamp": "18:04"
+    },
+    {
+      "tactic": "Celebrate small wins and personal achievements regularly.",
+      "context": "Helps maintain motivation and acknowledges progress.",
+      "timestamp": "46:33"
+    }
+  ],
+  "quotable_insights": [
+    "The journey is just as dear as the destination.",
+    "Your success is not predicated on the circumstances."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Chicago Home Collective",
+      "context": "To learn more about Kelly and her team."
+    }
+  ],
+  "episode_summary": "In this episode, Kelly Parker shares her unique approach to real estate success by focusing on personal growth and relationship-building rather than traditional goal-setting. She emphasizes the importance of understanding one's 'why' to connect with clients and discusses strategies to navigate market challenges with confidence. Listeners will gain insights into building a successful team and the power of celebrating achievements.",
+  "_metadata": {
+    "source_file": "2022-12-20_item289_Kelly-Parker",
+    "analyzed_at": "2026-01-26T20:35:56.061300",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

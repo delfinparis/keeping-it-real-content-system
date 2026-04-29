@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Caira Button",
+    "title": "Real Estate Agent",
+    "company": "Compass",
+    "production_level": "NAR 30 under 30 winner",
+    "specialty": "Social media-based lead generation",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Social media marketing for real estate",
+    "Building a YouTube channel",
+    "Lead generation through content creation",
+    "Work-life integration",
+    "Team building in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without spending money",
+      "solution_summary": "Utilize social media platforms like YouTube to create engaging and educational content that attracts potential clients.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a saturated market",
+      "solution_summary": "Focus on creating genuine content that reflects your personality and provides value to your audience.",
+      "timestamp": "09:12"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing a high volume of leads",
+      "solution_summary": "Build a team to handle the overflow of leads and ensure quality service.",
+      "timestamp": "41:07"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging social media for significant lead generation.",
+      "key_takeaway": "Consistency and authenticity in content creation can lead to substantial business growth."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses building a team to manage increased business from social media leads.",
+      "key_takeaway": "Creating a supportive team environment can enhance service quality and business scalability."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:30",
+      "quote": "Today we're gonna talk to an agent who generates 300 leads a month by spending $0.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic immediately grabs attention and sets the stage for the episode.",
+      "suggested_hook": "Discover how one agent generates 300 leads a month without spending a dime!"
+    },
+    {
+      "timestamp": "09:12",
+      "end_timestamp": "09:40",
+      "quote": "If you don't care about what you're talking about, then why is somebody else going to care?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of passion in content creation.",
+      "suggested_hook": "Why passion is the secret ingredient to successful content creation."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Start creating content even if it's not perfect.",
+      "context": "Overcome perfection paralysis by focusing on starting rather than perfecting.",
+      "timestamp": "13:09"
+    },
+    {
+      "tactic": "Use YouTube as a search engine for content ideas.",
+      "context": "Identify what potential clients are searching for and create content around those topics.",
+      "timestamp": "20:48"
+    }
+  ],
+  "quotable_insights": [
+    "Your first videos are going to be garbage. They are always going to be so bad compared to what you end up doing.",
+    "YouTube is a slow roll, but the following you get is significantly more genuine."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Apply Design",
+      "context": "A virtual staging solution for real estate presentations."
+    }
+  ],
+  "episode_summary": "Caira Button shares her journey of building a successful real estate business through social media, particularly YouTube. She discusses the importance of authenticity, consistency, and passion in content creation, and how these elements have helped her generate 300 leads a month without spending money. The episode also covers her approach to team building and managing a high volume of leads.",
+  "_metadata": {
+    "source_file": "2024-02-27_item178_Caira-Button",
+    "analyzed_at": "2026-01-26T22:29:20.731818",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

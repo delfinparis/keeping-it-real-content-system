@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Referrals and networking",
+    "Effective use of LinkedIn",
+    "In-person networking strategies",
+    "Backup agent strategy",
+    "Upcoming live property showcase"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective referrals wasting time",
+      "solution_summary": "Ensure referrals are valuable by understanding both parties' needs before making introductions.",
+      "timestamp": "05:02"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic LinkedIn outreach",
+      "solution_summary": "Avoid copy-pasting messages; personalize outreach by understanding the recipient's business needs.",
+      "timestamp": "11:38"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Losing potential clients to existing agents",
+      "solution_summary": "Offer to be the 'backup agent' to stay in consideration for future opportunities.",
+      "timestamp": "20:12"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for improving referral quality and maintaining client relationships.",
+      "key_takeaway": "Being a valuable connector and offering to be a backup agent can lead to future business opportunities."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical networking tips and strategies to enhance business connections.",
+      "key_takeaway": "Personalized networking and understanding client needs can significantly improve referral success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:12",
+      "end_timestamp": "21:53",
+      "quote": "I would like to be your backup agent if anything changes.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This strategy is simple yet effective for staying in a potential client's consideration.",
+      "suggested_hook": "What if you could turn a 'no' into a future 'yes'? Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Offer to be a 'backup agent' when a prospect already has an agent.",
+      "context": "Use this approach to maintain a relationship with potential clients who are currently committed elsewhere.",
+      "timestamp": "20:12"
+    },
+    {
+      "tactic": "Personalize LinkedIn outreach by understanding the recipient's needs.",
+      "context": "Before reaching out, research the person's business to tailor your message.",
+      "timestamp": "11:38"
+    }
+  ],
+  "quotable_insights": [
+    "If you do present a good referral and it's something that's going to further their business, you will love me."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to improve lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "Modwell",
+      "context": "Used for virtually renovating listings to enhance buyer interest."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares insights on improving referral quality by ensuring mutual value and understanding client needs. She introduces the 'backup agent' strategy to maintain relationships with potential clients who have existing agents. Additionally, Carrie discusses effective networking techniques, including personalized LinkedIn outreach and in-person networking strategies.",
+  "_metadata": {
+    "source_file": "2023-07-24_item234_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T21:10:21.064435",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

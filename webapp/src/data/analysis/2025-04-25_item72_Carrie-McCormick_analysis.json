@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top REALTOR",
+    "company": "At Properties, Christie's International",
+    "production_level": "$200M producer in 2024",
+    "specialty": "Luxury real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Breaking into real estate development",
+    "Winning listings in competitive markets",
+    "Maintaining client relationships",
+    "Work-life balance for top producers",
+    "Effective communication with developers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to get started with zero clients",
+      "solution_summary": "Build a strong network and use a CRM for follow-ups; leverage past experiences and contacts.",
+      "timestamp": "16:08"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in luxury real estate",
+      "solution_summary": "Focus on client needs, avoid bad-mouthing competitors, and provide high-level service.",
+      "timestamp": "25:39"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Getting chosen by developers",
+      "solution_summary": "Have a wide network, be an advocate for the development, and bring business to developers.",
+      "timestamp": "19:35"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Carrie shares insights on becoming a top producer in a competitive market.",
+      "key_takeaway": "Building and leveraging a strong network is crucial for success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Carrie discusses the importance of having a support team and maintaining client relationships.",
+      "key_takeaway": "Effective delegation and personal client interaction can coexist for better service."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:35",
+      "end_timestamp": "20:06",
+      "quote": "What developers want is someone that does have a wide network... and be able to articulate the development and why it's so great.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear strategy for agents looking to break into development.",
+      "suggested_hook": "Want to work with top developers? Here's what they really want from you."
+    },
+    {
+      "timestamp": "25:39",
+      "end_timestamp": "26:19",
+      "quote": "I try to stay focused on the client through the presentation and what their needs are... and provide a high level of service.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes client-centric approach in real estate.",
+      "suggested_hook": "The secret to winning listings? It's simpler than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Bring developers business to build relationships.",
+      "context": "When trying to break into real estate development.",
+      "timestamp": "23:28"
+    },
+    {
+      "tactic": "Use a CRM to maintain client relationships.",
+      "context": "For ongoing client engagement and retention.",
+      "timestamp": "34:30"
+    }
+  ],
+  "quotable_insights": [
+    "Kindness takes you a long way in this industry.",
+    "Developers want someone who can be the brand and face of their development."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "For lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For recruiting and retention of agents using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her journey from marketing to becoming a top REALTOR in Chicago's luxury market. She provides actionable insights on breaking into real estate development, maintaining client relationships, and winning listings in competitive environments. Carrie's focus on kindness and client-centric service offers valuable lessons for aspiring top producers.",
+  "_metadata": {
+    "source_file": "2025-04-25_item72_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T19:20:20.964219",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kelly Carlson",
+    "title": "Award-winning Broker",
+    "company": "At Properties, Christie's International Real Estate",
+    "production_level": "National Association of REALTORS 30 under 30",
+    "specialty": "Interior design, historical homes, DIY updates",
+    "location": "Western Springs, Chicago"
+  },
+  "main_topics": [
+    "Transition from consulting to real estate",
+    "Building a real estate business as a young agent",
+    "Utilizing open houses for lead generation",
+    "Effective social media strategies for REALTORS",
+    "Navigating a slower real estate market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads as a new agent",
+      "solution_summary": "Offer to host open houses for other agents to meet potential clients.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a personal brand on social media",
+      "solution_summary": "Focus on storytelling and client experiences rather than just listed/sold posts.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to a slower market",
+      "solution_summary": "Use the downtime to strengthen client relationships and refine business plans.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start building their business from scratch.",
+      "key_takeaway": "Focus on open houses and personal connections to build your client base."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can learn how to leverage past experiences in new ways.",
+      "key_takeaway": "Utilize your unique background to differentiate yourself in the market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "My first buyer client was from the first open house I held.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical, actionable step for new agents.",
+      "suggested_hook": "Want to know how to land your first client as a new agent?"
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "20:00",
+      "quote": "Is this adding value to the consumer?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges agents to rethink their social media strategy.",
+      "suggested_hook": "Is your social media strategy truly adding value?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host open houses for other agents.",
+      "context": "To meet potential clients and start building your business.",
+      "timestamp": "14:00"
+    },
+    {
+      "tactic": "Focus on storytelling in social media posts.",
+      "context": "To engage your audience and provide value beyond just listings.",
+      "timestamp": "19:00"
+    }
+  ],
+  "quotable_insights": [
+    "Don't be a secret agent; make sure your sphere knows you're in real estate.",
+    "Think about how you can leverage your past experiences to stand out."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and CRM."
+    }
+  ],
+  "episode_summary": "In this episode, Kelly Carlson shares her journey from consulting to becoming a top real estate producer. She discusses effective strategies for new agents, including leveraging open houses and focusing on storytelling in social media. Kelly also offers insights into adapting to slower markets by strengthening client relationships and refining business plans.",
+  "_metadata": {
+    "source_file": "2023-12-20_item193_Kelly-Carlson",
+    "analyzed_at": "2026-01-29T18:12:18.721040",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

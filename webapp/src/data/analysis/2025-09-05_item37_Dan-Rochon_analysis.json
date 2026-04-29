@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Dan Rochon",
+    "title": "Creator of the Teach to Sell system",
+    "company": "CPI Community",
+    "production_level": "Consistently profitable business builder",
+    "specialty": "Influence, neural linguistic programming, and story-driven sales",
+    "location": "Washington DC, Northern Virginia"
+  },
+  "main_topics": [
+    "Communication and connection in sales",
+    "Teach to Sell system",
+    "Real estate agent mindset and productivity",
+    "Building a consistently profitable business",
+    "Navigating diverse client backgrounds"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Clients overwhelmed by home inspection issues",
+      "solution_summary": "Set expectations upfront about the home inspection process to build trust and manage client emotions.",
+      "timestamp": "34:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overwhelm from following multiple strategies",
+      "solution_summary": "Focus on one strategy until it's 80% complete before moving to another.",
+      "timestamp": "06:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with managing client expectations and communication.",
+      "key_takeaway": "Set clear expectations with clients to build trust and manage the emotional aspects of transactions."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers need to refine their communication skills to connect with diverse clients.",
+      "key_takeaway": "Understanding and connecting with clients on an emotional level can significantly enhance sales effectiveness."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:00",
+      "end_timestamp": "04:45",
+      "quote": "Never, ever, ever, ever, ever leave an appointment without the next appointment set.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It's a simple, actionable tactic that can immediately improve follow-up processes.",
+      "suggested_hook": "Are you missing out on potential sales? Here's a simple tactic to ensure consistent follow-ups."
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "Communication is the response you get.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This shifts the responsibility of communication outcomes to the agent, encouraging proactive improvement.",
+      "suggested_hook": "Want to improve your communication skills? Start by understanding this key principle."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set expectations about home inspection outcomes upfront.",
+      "context": "Use this tactic when initially consulting with buyers to prevent overwhelm during the inspection phase.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Focus on one strategy until it's 80% complete.",
+      "context": "Apply this to avoid overwhelm and improve efficiency in business operations.",
+      "timestamp": "06:00"
+    }
+  ],
+  "quotable_insights": [
+    "Sales isn't about pushing; it's about leading.",
+    "If you're struggling in sales, you're probably doing it wrong."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Teach to Sell",
+      "context": "Dan's book provides a comprehensive guide on building a profitable real estate business through effective communication."
+    }
+  ],
+  "episode_summary": "In this episode, Dan Rochon shares insights on building a consistently profitable real estate business by mastering communication and connection. He introduces the Teach to Sell system, emphasizing the importance of setting client expectations and focusing on one strategy at a time to avoid overwhelm. Dan's approach is particularly valuable for agents looking to enhance their client management skills and navigate diverse client backgrounds.",
+  "_metadata": {
+    "source_file": "2025-09-05_item37_Dan-Rochon",
+    "analyzed_at": "2026-01-29T19:42:28.692095",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

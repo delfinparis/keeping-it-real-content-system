@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Joel Schaub",
+    "title": "Vice President of Lending",
+    "company": "Guaranteed Rate",
+    "production_level": "Top 1% of loan officers nationwide",
+    "specialty": "Creative lending solutions and client appreciation",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Changes in loan limits for jumbo and conventional loans",
+    "Creative financing strategies in high interest rate environments",
+    "Market predictions for the upcoming spring",
+    "Client appreciation strategies",
+    "Leveraging lender partnerships for business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding new loan limits and their implications",
+      "solution_summary": "Discussed how the increase in Fannie Mae and Freddie Mac loan limits allows more buyers to qualify for non-jumbo loans, reducing down payment requirements and interest rates.",
+      "timestamp": "03:29"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High interest rates deterring buyers",
+      "solution_summary": "Suggested using a 2-1 buy down strategy to lower initial interest rates, making homes more affordable for buyers.",
+      "timestamp": "09:53"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out with client appreciation",
+      "solution_summary": "Recommended sending gifts on non-traditional holidays to stand out and maintain client relationships.",
+      "timestamp": "20:58"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to leverage market changes and lender partnerships to increase production.",
+      "key_takeaway": "Understanding and utilizing new loan limits and creative financing can significantly boost your business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on how to guide team members in a high interest rate market and maximize lender relationships.",
+      "key_takeaway": "Educate your team on creative financing options and build strong lender partnerships to enhance team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:53",
+      "end_timestamp": "10:46",
+      "quote": "If you don't ask, you're not going to get. So if you're not familiar with the way to do it, if you're an agent, connect with your lender, ask them, do you facilitate 2-1 buy downs?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable tactic that agents can implement immediately to help clients in a high-rate environment.",
+      "suggested_hook": "Unlock affordable home buying with this simple question to your lender!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a 2-1 buy down strategy to lower interest rates for buyers.",
+      "context": "When negotiating offers in a high interest rate market.",
+      "timestamp": "09:53"
+    },
+    {
+      "tactic": "Price homes strategically to avoid jumbo loan categories.",
+      "context": "When listing homes near the new loan limit thresholds.",
+      "timestamp": "05:39"
+    }
+  ],
+  "quotable_insights": [
+    "Why wouldn't we try to go out and buy now when there is less competition?",
+    "The sky is not falling. Rates have already come down."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads and increase business."
+    }
+  ],
+  "episode_summary": "In this episode, Joel Schaub discusses the recent changes in loan limits and how they benefit first-time homebuyers by reducing the need for jumbo loans. He shares creative financing strategies like the 2-1 buy down to navigate high interest rates and emphasizes the importance of strategic pricing and lender partnerships. Joel also provides insights into client appreciation tactics and market predictions for an early spring surge in home buying activity.",
+  "_metadata": {
+    "source_file": "2023-12-08_item196_Joel-Schaub",
+    "analyzed_at": "2026-01-26T22:15:57.499553",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Austin Cheviron",
+    "title": "Coach, Trainer, Speaker",
+    "company": "Cheviron Coaching",
+    "production_level": "Top REALTOR in Indiana",
+    "specialty": "Real Estate Coaching and Team Leadership",
+    "location": "Indiana"
+  },
+  "main_topics": [
+    "Vision and Goal Setting",
+    "Time Management and Productivity",
+    "Financial Planning and Wealth Building",
+    "Real Estate Team Building",
+    "Personal Development and Mindset"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of vision leading to stagnation",
+      "solution_summary": "Develop a clear vision and defend it to guide decisions and actions.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing work and family life",
+      "solution_summary": "Set strict boundaries for work hours to prioritize family time.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Ineffective financial management",
+      "solution_summary": "Implement a 'wealth machine' to automate financial decisions and focus on wealth building.",
+      "timestamp": "46:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for breaking through plateaus by focusing on vision and financial management.",
+      "key_takeaway": "Creating and defending a clear vision can accelerate your career growth and ensure long-term success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights into building a high-performing team with low expenses.",
+      "key_takeaway": "Focus on training agents to be self-sufficient and productive without relying heavily on purchased leads."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "If you do what is easy, life will be hard. If you do what is hard, life will become easy.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This quote encapsulates the essence of taking the hard but rewarding path in business and life.",
+      "suggested_hook": "Why doing the hard things now can make your life easier later."
+    },
+    {
+      "timestamp": "46:00",
+      "end_timestamp": "46:45",
+      "quote": "Spend 15 minutes every morning looking at your bank accounts and credit card statements.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a simple, actionable tactic to improve financial awareness and management.",
+      "suggested_hook": "A 15-minute daily habit that can transform your financial life."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set work boundaries to protect family time.",
+      "context": "Decide on specific work hours and communicate them clearly to clients.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Implement a 'wealth machine' for financial management.",
+      "context": "Automate the distribution of income into different financial buckets to ensure savings and investments.",
+      "timestamp": "46:00"
+    }
+  ],
+  "quotable_insights": [
+    "Success is never linear; it's about managing the ups and downs effectively.",
+    "Business is easy; life is hard. Focus on managing your life to improve your business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Getting Things Done",
+      "context": "Recommended for improving productivity and managing tasks effectively."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Cheviron shares his journey from welfare to becoming a top REALTOR, emphasizing the importance of having a clear vision and setting boundaries. He provides actionable insights on time management, financial planning, and building a successful real estate team. Austin's approach focuses on personal development and creating systems that allow agents to thrive both professionally and personally.",
+  "_metadata": {
+    "source_file": "2024-10-16_item120_Austin-Cheviron",
+    "analyzed_at": "2026-01-26T12:04:16.752997",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

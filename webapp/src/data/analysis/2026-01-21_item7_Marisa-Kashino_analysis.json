@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Marisa Kashino",
+    "title": "Author",
+    "company": null,
+    "production_level": "Best-selling author",
+    "specialty": "Fiction writing",
+    "location": "DC area"
+  },
+  "main_topics": [
+    "Writing process and editing",
+    "Real estate market challenges",
+    "Emotional aspects of home buying",
+    "Role of social media in real estate",
+    "Women's experiences in professional settings"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Emotional stress during home buying",
+      "solution_summary": "Understanding the emotional stakes and personal baggage that come with buying a home.",
+      "timestamp": "38:48"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Competitive housing market challenges",
+      "solution_summary": "Exploring the lengths buyers might go to secure a home in a competitive market.",
+      "timestamp": "16:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding client emotions can improve service and client satisfaction.",
+      "key_takeaway": "Recognize the emotional journey of clients during the home buying process."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers a fresh perspective on the emotional aspects of real estate.",
+      "key_takeaway": "Even experienced agents can benefit from understanding the deeper emotional needs of clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "32:35",
+      "end_timestamp": "33:05",
+      "quote": "Margo has this like really like kind of constantly simmering rage within her that propels her to do a lot of these horrible things.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the emotional intensity and personal stakes involved in real estate transactions.",
+      "suggested_hook": "Ever felt the pressure of buying a home? You're not alone."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use humor to connect with clients",
+      "context": "Incorporate humor in client interactions to ease stress and build rapport.",
+      "timestamp": "21:30"
+    }
+  ],
+  "quotable_insights": [
+    "Buying a house feels like the most important thing in the whole universe."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Best Offer Wins",
+      "context": "A novel exploring the emotional and psychological aspects of buying a home."
+    }
+  ],
+  "episode_summary": "In this episode, Marisa Kashino discusses her novel 'Best Offer Wins,' which delves into the emotional and psychological challenges of buying a home in a competitive market. The conversation explores the role of social media in shaping perceptions of homeownership and the emotional stakes involved in real estate transactions. REALTORS can gain insights into client emotions and the importance of humor and empathy in their practice.",
+  "_metadata": {
+    "source_file": "2026-01-21_item7_Marisa-Kashino",
+    "analyzed_at": "2026-01-30T11:14:48.566565",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

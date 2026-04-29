@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Real Estate Video Coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Video content for real estate agents",
+    "Building credibility and connection through video",
+    "Mindset shift towards video marketing",
+    "Practical video creation tips",
+    "Success stories from video marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents relying too much on 'just listed' and 'just sold' content",
+      "solution_summary": "Focus on creating videos that build connection and credibility by sharing personal stories and expertise.",
+      "timestamp": "00:04:10"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not using their phones effectively for lead generation",
+      "solution_summary": "Shift mindset to view phone as a money-making tool and create strategic video content.",
+      "timestamp": "00:06:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to enhance personal branding and lead generation through video.",
+      "key_takeaway": "Use video to build a personal connection and establish credibility to attract more clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:07:02",
+      "end_timestamp": "00:07:27",
+      "quote": "Your phone can be a money maker. If you understand that it can be a money maker, but also that it is a strategy.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement challenges the conventional view of phones as mere communication tools.",
+      "suggested_hook": "Is your phone just a phone, or is it your next big money maker?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create videos answering specific questions to build connection and credibility.",
+      "context": "Use questions like 'What's something you're excited about this week?' or 'Why did you become a real estate agent?'",
+      "timestamp": "00:08:03"
+    }
+  ],
+  "quotable_insights": [
+    "Connection and credibility are the two C's that should guide your video content strategy."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered recruiting and retention tool for identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of video content for real estate agents, focusing on building connection and credibility. She provides actionable strategies for using video to enhance personal branding and lead generation, encouraging agents to shift their mindset towards viewing their phones as powerful marketing tools.",
+  "_metadata": {
+    "source_file": "2024-10-08_item122_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:50:55.986756",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

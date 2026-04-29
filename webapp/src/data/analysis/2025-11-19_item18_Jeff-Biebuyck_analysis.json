@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jeff Biebuyck",
+    "title": "Founding Member",
+    "company": "Frontgate Real Estate",
+    "production_level": "Top 1%",
+    "specialty": "Luxury properties",
+    "location": "Calabasas, Hidden Hills, Greater LA"
+  },
+  "main_topics": [
+    "Real estate technology and AI",
+    "Mindfulness and personal growth",
+    "Building and managing a real estate team",
+    "Market dynamics and challenges",
+    "Networking and relationship building"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with failure and mistakes",
+      "solution_summary": "View failures as learning opportunities and practice mindfulness to gain perspective.",
+      "timestamp": "04:28"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "High insurance costs affecting market dynamics",
+      "solution_summary": "Diversify into different markets and leverage tools like Zillow to maintain business.",
+      "timestamp": "28:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Building a reliable referral network",
+      "solution_summary": "Develop a local business directory to create reciprocal referral relationships.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jeff shares insights on leveraging technology and building a strong team.",
+      "key_takeaway": "Utilize AI and technology to enhance your business operations and focus on building strong relationships."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Jeff discusses team management and maintaining high service standards.",
+      "key_takeaway": "Focus on individual strengths and create a supportive environment for team members to thrive."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:28",
+      "end_timestamp": "06:30",
+      "quote": "Honestly, I think the best advice I've gotten is from the mistakes I've learned.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the fear of failure and encourages learning from mistakes.",
+      "suggested_hook": "Why your biggest failures might be your best teachers."
+    },
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "29:00",
+      "quote": "Insurability became an issue with affordability... we've seen a massive shift in our market.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a significant market challenge and the need for adaptability.",
+      "suggested_hook": "How high insurance costs are reshaping the real estate market."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop a local business directory for referrals.",
+      "context": "Use it to build reciprocal relationships with local businesses.",
+      "timestamp": "50:00"
+    },
+    {
+      "tactic": "Utilize AI tools for efficiency.",
+      "context": "Incorporate AI to streamline operations and enhance client interactions.",
+      "timestamp": "33:00"
+    }
+  ],
+  "quotable_insights": [
+    "I fail up. Every mistake is a stepping stone to success.",
+    "The best agent is the one that shows up."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Jeff Biebuyck shares his journey from the entertainment industry to becoming a top real estate agent specializing in luxury properties. He discusses the importance of leveraging technology and AI to future-proof your business, the value of learning from failures, and building strong referral networks. Jeff also provides insights into current market challenges and the strategies he's using to adapt and thrive.",
+  "_metadata": {
+    "source_file": "2025-11-19_item18_Jeff-Biebuyck",
+    "analyzed_at": "2026-01-29T19:54:38.301078",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

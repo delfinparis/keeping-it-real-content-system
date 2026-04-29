@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Cameron Buening",
+    "title": "Assistant Team Leader",
+    "company": "KW Indie Metro North",
+    "production_level": "30 under 30 award winner",
+    "specialty": "Mentoring and growing real estate agents",
+    "location": "Central Indiana"
+  },
+  "main_topics": [
+    "Transition from part-time to full-time real estate",
+    "Strategies for new agents",
+    "Importance of open houses and first-time homebuyer seminars",
+    "Handling low inventory and high interest rates",
+    "Value of tracking market data"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding clients as a new agent",
+      "solution_summary": "Utilize open houses, social media, and first-time homebuyer seminars to build credibility and attract clients.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Transitioning from part-time to full-time real estate",
+      "solution_summary": "Maintain a part-time job until real estate income is sufficient to cover expenses, then transition fully.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Dealing with low inventory and high interest rates",
+      "solution_summary": "Focus on finding off-market properties and educating clients about the cost of waiting.",
+      "timestamp": "38:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode provides a roadmap for new agents to transition into full-time real estate.",
+      "key_takeaway": "Focus on building credibility through consistent effort and strategic use of open houses and seminars."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into scaling a real estate business and mentoring other agents.",
+      "key_takeaway": "Leverage your strengths and focus on activities that bring you joy to achieve success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "20:00",
+      "quote": "If I tell you to go do an open house and you want to claw your eyes out, then open houses probably aren't going to be your thing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of choosing strategies that align with personal strengths.",
+      "suggested_hook": "Not every real estate strategy is for you. Here's how to find what works best."
+    },
+    {
+      "timestamp": "38:30",
+      "end_timestamp": "39:30",
+      "quote": "What is waiting costing you? If you can afford the payment now, buy now and refinance later.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common hesitation of waiting for lower interest rates.",
+      "suggested_hook": "Waiting for interest rates to drop? Here's why that might cost you more."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host first-time homebuyer seminars",
+      "context": "To educate and attract new clients, especially those unfamiliar with the buying process.",
+      "timestamp": "22:30"
+    },
+    {
+      "tactic": "Track weekly market data",
+      "context": "Use this data to educate clients and make informed decisions about buying and selling.",
+      "timestamp": "36:00"
+    }
+  ],
+  "quotable_insights": [
+    "You have to figure out what works for you. If you love it, you'll wake up every day motivated to do it.",
+    "The cost of waiting can be higher than the cost of buying now."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Millionaire Real Estate Agent by Gary Keller",
+      "context": "Referenced for its concept of capturing mind share."
+    }
+  ],
+  "episode_summary": "In this episode, Cameron Buening shares his journey from part-time to full-time real estate, emphasizing the importance of finding strategies that align with personal strengths. He offers actionable insights on using open houses, social media, and seminars to build credibility and attract clients, while also discussing how to navigate challenges like low inventory and high interest rates.",
+  "_metadata": {
+    "source_file": "2024-03-18_item175_Cameron-Buening",
+    "analyzed_at": "2026-01-29T18:24:13.929962",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

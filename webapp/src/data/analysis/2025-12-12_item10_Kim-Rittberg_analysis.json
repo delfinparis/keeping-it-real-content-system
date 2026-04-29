@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Kim Ritberg",
+    "title": "Video Expert and Coach",
+    "company": "Not mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Video and podcast coaching for real estate agents",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Creating an 'About Me' video",
+    "Using the ABC method for personal branding",
+    "Predictions for 2026 in real estate",
+    "Importance of video content for agents",
+    "Confidence in personal branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not effectively communicating their unique value",
+      "solution_summary": "Use the ABC method to highlight accomplishments, business focus, and confidence in an 'About Me' video.",
+      "timestamp": "00:03:38"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in attracting clients through traditional content",
+      "solution_summary": "Leverage video content as it is more effective and shareable than text or photos.",
+      "timestamp": "00:07:36"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding and client attraction through video.",
+      "key_takeaway": "Create a compelling 'About Me' video using the ABC method to stand out in the market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:38",
+      "end_timestamp": "00:04:18",
+      "quote": "One really great thing to do is to build that about me video... What makes you different than the people around the corner?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable strategy for agents to differentiate themselves.",
+      "suggested_hook": "Want to stand out in real estate? Here's how an 'About Me' video can set you apart."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create an 'About Me' video using the ABC method.",
+      "context": "Use this video to communicate your unique value and connect with potential clients.",
+      "timestamp": "00:03:38"
+    }
+  ],
+  "quotable_insights": [
+    "Video is the fastest, most effective way to get clients. It beats every other piece of content, photos, texts."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Kimrickberg.com",
+      "context": "For accessing free resources and a low-cost video course for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Ritberg emphasizes the importance of video content for real estate agents, introducing the ABC method for creating an impactful 'About Me' video. She highlights how video can effectively differentiate agents and attract clients, offering practical tips for personal branding and confidence on camera.",
+  "_metadata": {
+    "source_file": "2025-12-12_item10_Kim-Rittberg",
+    "analyzed_at": "2026-01-27T10:18:37.760607",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

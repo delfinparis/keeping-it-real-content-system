@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Jeremy Hurewitz",
+    "title": "Author",
+    "company": "Interfore International",
+    "production_level": null,
+    "specialty": "Corporate Security and Intelligence",
+    "location": "New York"
+  },
+  "main_topics": [
+    "Communication skills in espionage",
+    "Mirroring and empathy in sales",
+    "Active listening techniques",
+    "Elicitation methods",
+    "Body language and non-verbal cues"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Building rapport with clients",
+      "solution_summary": "Use mirroring and radical empathy to connect with clients on a deeper level.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Understanding client needs without direct questioning",
+      "solution_summary": "Employ elicitation techniques to subtly gather information.",
+      "timestamp": "37:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced communication techniques to enhance client interactions.",
+      "key_takeaway": "Mastering non-verbal cues and active listening can significantly improve client relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:30",
+      "end_timestamp": "11:15",
+      "quote": "Spies are the world's best salespeople because there is no harder sale to make.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional view of espionage, linking it to sales skills.",
+      "suggested_hook": "What can spies teach us about sales? More than you might think!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use verbal mirroring to build rapport.",
+      "context": "In conversations, subtly use the same language and phrases as the client.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Employ elicitation by making statements instead of asking questions.",
+      "context": "When trying to understand client needs without making them defensive.",
+      "timestamp": "38:00"
+    }
+  ],
+  "quotable_insights": [
+    "Every good intelligence officer has a real bond with their target on some level."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Sell Like a Spy",
+      "context": "Jeremy Hurewitz's book on applying espionage techniques to business communication."
+    }
+  ],
+  "episode_summary": "In this episode, Jeremy Hurewitz shares insights from the world of espionage to enhance sales and communication skills. He discusses the importance of mirroring, empathy, and active listening in building client relationships. The episode provides practical tactics like verbal mirroring and elicitation to improve client interactions and gather information subtly.",
+  "_metadata": {
+    "source_file": "2025-09-10_item36_Jeremy-Hurewitz",
+    "analyzed_at": "2026-01-29T19:43:43.063748",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "David Neagle",
+    "title": "Founder",
+    "company": "Life is Now, Inc.",
+    "production_level": "Multi-million dollar global consulting company",
+    "specialty": "Mindset and personal development",
+    "location": "Not specifically mentioned"
+  },
+  "main_topics": [
+    "Mindset shifts for real estate success",
+    "Overcoming personal and professional obstacles",
+    "The power of attitude change",
+    "Delegation and business growth",
+    "Identifying and seizing opportunities"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling stuck and unable to progress in career",
+      "solution_summary": "Change your attitude and treat every job as an opportunity to learn and grow.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Inability to see opportunities in front of you",
+      "solution_summary": "Shift your mindset to recognize disguised opportunities and act on them.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Overwhelmed by wearing too many hats in business",
+      "solution_summary": "Focus on 'who not how' to delegate tasks and grow your business.",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for breaking through plateaus by changing mindset and recognizing opportunities.",
+      "key_takeaway": "Your current mindset may be limiting your ability to see and seize opportunities."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to approach their business with the right mindset to accelerate growth.",
+      "key_takeaway": "Adopting a proactive attitude can lead to unexpected opportunities and success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "In 30 days, I tripled my income by changing my attitude.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Demonstrates the power of mindset change with a concrete result.",
+      "suggested_hook": "Discover how a simple mindset shift can triple your income."
+    },
+    {
+      "timestamp": "42:00",
+      "end_timestamp": "43:00",
+      "quote": "Ask 'who not how' to delegate effectively and grow your business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for overcoming overwhelm and scaling a business.",
+      "suggested_hook": "Feeling overwhelmed? Here's a simple question to transform your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Change your attitude towards your current job.",
+      "context": "Approach every task with enthusiasm and respect to uncover hidden opportunities.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Focus on 'who not how' for delegation.",
+      "context": "Identify tasks that can be delegated to free up time for growth-focused activities.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your current mindset may be limiting your ability to see and seize opportunities.",
+    "In 30 days, I tripled my income by changing my attitude."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Think and Grow Rich by Napoleon Hill",
+      "context": "Referenced for its concept of 'Sly Disguises of Opportunity'."
+    }
+  ],
+  "episode_summary": "David Neagle shares his journey from financial struggle to success by changing his mindset and recognizing opportunities. He emphasizes the importance of attitude shifts, effective delegation, and seeing beyond immediate challenges to achieve business growth. This episode provides actionable insights for real estate agents looking to double their revenue without doubling their workload.",
+  "_metadata": {
+    "source_file": "2022-11-16_item298_David-Neagle",
+    "analyzed_at": "2026-01-26T20:28:49.370689",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

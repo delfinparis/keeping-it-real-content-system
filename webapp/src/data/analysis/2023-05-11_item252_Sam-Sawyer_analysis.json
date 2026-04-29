@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Sam Sawyer",
+    "title": "VP of Real Estate Operations",
+    "company": "Pinnacle Realty Advisors",
+    "production_level": "NAR 30 under 30",
+    "specialty": "Brokerage as a Service",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Brokerage as a Service Model",
+    "Agent Recruitment Strategies",
+    "Real Estate Market Trends",
+    "Agent Tools and Resources",
+    "Industry Disruption"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Traditional brokerage models are outdated and costly.",
+      "solution_summary": "Pinnacle Realty Advisors offers a subscription-based model that reduces costs and provides flexibility for agents.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggling to generate leads in a slow market.",
+      "solution_summary": "Reach out to past clients and offer updated CMAs to stay top-of-mind and generate referrals.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can benefit from joining a team to gain experience and mentorship.",
+      "key_takeaway": "Joining a team can accelerate learning and provide valuable support early in your career."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may find value in switching to a brokerage model that maximizes their commission.",
+      "key_takeaway": "Consider a subscription-based brokerage to keep more of your earnings and choose your own tools."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:30",
+      "end_timestamp": "11:15",
+      "quote": "We're really trying to build a platform where the agents can pick the brokerage plan they want.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the flexibility and agent-centric approach of the Pinnacle model.",
+      "suggested_hook": "Are you tired of one-size-fits-all brokerage models?"
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "There's always people moving and selling houses, even if there's less transactions.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to stay proactive and find opportunities in any market.",
+      "suggested_hook": "Worried about a slow market? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Offer free CMAs to past clients to generate leads.",
+      "context": "Use this tactic during slow periods to stay engaged with your network.",
+      "timestamp": "24:00"
+    },
+    {
+      "tactic": "Write 15 handwritten notes a week to past clients.",
+      "context": "Use this to maintain relationships and encourage referrals.",
+      "timestamp": "25:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate is the only job where every person you meet needs somewhere to live.",
+    "The agent's name is now more important than the brokerage name."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Pinnacle Realty Advisors",
+      "context": "To learn more about their subscription-based brokerage model."
+    }
+  ],
+  "episode_summary": "In this episode, Sam Sawyer discusses the innovative 'Brokerage as a Service' model offered by Pinnacle Realty Advisors, which allows agents to choose their own plans and tools, maximizing their earnings. He shares strategies for lead generation in a slow market, emphasizing the importance of maintaining client relationships and leveraging past contacts for referrals.",
+  "_metadata": {
+    "source_file": "2023-05-11_item252_Sam-Sawyer",
+    "analyzed_at": "2026-01-29T17:29:07.091204",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

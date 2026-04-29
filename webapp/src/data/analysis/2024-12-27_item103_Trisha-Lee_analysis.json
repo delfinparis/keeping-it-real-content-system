@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Trisha Lee",
+    "title": "Home Staging Expert",
+    "company": "Lovely Homes",
+    "production_level": "N/A",
+    "specialty": "Home Staging",
+    "location": "Kansas"
+  },
+  "main_topics": [
+    "Importance of Home Staging",
+    "Home Staging Tips for Different Rooms",
+    "Overcoming Objections to Home Staging",
+    "Consulting Services for Home Staging",
+    "Return on Investment for Home Staging"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Agents believe home staging is too expensive.",
+      "solution_summary": "Home staging offers a 300% return on investment and helps sell homes faster and for more money.",
+      "timestamp": "13:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Lack of awareness about the benefits of home staging.",
+      "solution_summary": "Educate agents on the statistics and benefits of home staging, including increased perceived value and reduced days on market.",
+      "timestamp": "15:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into how top producers use home staging to sell homes faster and for more money.",
+      "key_takeaway": "Incorporating home staging into your service offering can significantly enhance your professional image and sales success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:30",
+      "end_timestamp": "13:15",
+      "quote": "Hiring a home stager has a 300% return on investment on average for the home seller.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic challenges the perception that staging is an unnecessary expense.",
+      "suggested_hook": "Did you know home staging could triple your investment?"
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "Remove anything that says you don't have enough storage, like hall trees or extra hooks.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tip that agents can immediately apply.",
+      "suggested_hook": "Here's a quick staging tip to make your home look more spacious."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Remove personal items and clutter to create a neutral, inviting space.",
+      "context": "When preparing a home for sale to appeal to a broad range of buyers.",
+      "timestamp": "38:00"
+    },
+    {
+      "tactic": "Use white bedding to create a clean, hotel-like feel in the primary bedroom.",
+      "context": "To make the bedroom feel like a restful, inviting space.",
+      "timestamp": "37:00"
+    }
+  ],
+  "quotable_insights": [
+    "How we live is totally different than how we stage.",
+    "A fresh set of eyes can reveal what you might be blind to in your own home."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "lovelyhomes.com",
+      "context": "To access Trisha's home staging consulting services and resources."
+    },
+    {
+      "type": "guide",
+      "name": "REALTORS Guidebook to Home Staging",
+      "context": "Contains statistics and tips for making the case for home staging."
+    }
+  ],
+  "episode_summary": "This episode features Trisha Lee, a home staging expert, who discusses the significant impact of home staging on selling homes faster and for more money. She provides actionable tips for staging different rooms and addresses common objections from REALTORS about the cost of staging. Trisha also offers a unique consulting service that allows agents to leverage her expertise regardless of their location.",
+  "_metadata": {
+    "source_file": "2024-12-27_item103_Trisha-Lee",
+    "analyzed_at": "2026-01-29T19:02:42.856556",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

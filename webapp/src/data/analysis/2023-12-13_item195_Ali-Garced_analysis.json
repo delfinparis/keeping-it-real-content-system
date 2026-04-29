@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Ali Garced",
+    "title": "Top Agent",
+    "company": "eXp Realty",
+    "production_level": "Six figures in six months",
+    "specialty": "Seller Checklists",
+    "location": "Tucson, Arizona"
+  },
+  "main_topics": [
+    "Seller Checklists",
+    "Photography and Staging Tips",
+    "Open House Strategies",
+    "Pricing Adjustments",
+    "Client Communication"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inconsistent processes for handling listings",
+      "solution_summary": "Implement a standardized seller checklist to ensure consistency and efficiency in handling listings.",
+      "timestamp": "01:01"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Difficulty in converting leads into clients",
+      "solution_summary": "Use a detailed seller checklist to guide clients through the process, ensuring all aspects are covered and increasing trust and conversion.",
+      "timestamp": "00:01"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client expectations during the listing process",
+      "solution_summary": "Regularly update clients with feedback from showings and market conditions to manage expectations and facilitate price adjustments if necessary.",
+      "timestamp": "44:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides a detailed checklist that can streamline operations and boost productivity.",
+      "key_takeaway": "Having a structured checklist can significantly improve client conversion and satisfaction."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode offers insights into creating a scalable process that team members can follow.",
+      "key_takeaway": "Standardizing processes ensures consistency and efficiency across the team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:04",
+      "end_timestamp": "05:45",
+      "quote": "Consistency always wins. Do the same thing every time.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Emphasizes the importance of consistency in real estate processes.",
+      "suggested_hook": "Why consistency is the secret weapon in real estate success."
+    },
+    {
+      "timestamp": "22:05",
+      "end_timestamp": "22:45",
+      "quote": "Non-refundable earnest money is unheard of in Arizona. That's why you get my offers accepted.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges conventional practices and offers a unique tactic for offer acceptance.",
+      "suggested_hook": "The unconventional tactic that gets offers accepted in Arizona."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a CBS code for added security during showings.",
+      "context": "To prevent unauthorized access during occupied home showings.",
+      "timestamp": "11:05"
+    },
+    {
+      "tactic": "Create a single property squeeze page for listings.",
+      "context": "To capture leads and track interest from potential buyers.",
+      "timestamp": "18:06"
+    },
+    {
+      "tactic": "Send a 'forward to a friend' email before listing goes live.",
+      "context": "To generate buzz and potential interest before the property hits the market.",
+      "timestamp": "33:45"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency always wins. Do the same thing every time.",
+    "Non-refundable earnest money is unheard of in Arizona. That's why you get my offers accepted."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive sales and marketing solution for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "BombBomb",
+      "context": "Used for sending personalized video messages to clients and leads."
+    },
+    {
+      "type": "tool",
+      "name": "TPMCO",
+      "context": "Used for creating and sending postcards for property listings."
+    }
+  ],
+  "episode_summary": "In this episode, Ali Garced shares her comprehensive seller checklist that has helped her team achieve six-figure earnings in six months. She emphasizes the importance of consistency, client communication, and innovative tactics like non-refundable earnest money to enhance offer acceptance. Ali also discusses the value of using technology for marketing and lead generation, providing actionable insights for agents looking to improve their listing processes.",
+  "_metadata": {
+    "source_file": "2023-12-13_item195_Ali-Garced",
+    "analyzed_at": "2026-01-26T22:16:37.123343",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

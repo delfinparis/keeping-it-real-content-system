@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 0.001% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Preparing homes for the market",
+    "Understanding buyer expectations",
+    "Networking with agents in other markets",
+    "The impact of social media on real estate",
+    "Virtual staging and technology in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Sellers resisting updates to their homes",
+      "solution_summary": "Educate sellers with data and case studies to show the value of updates and manage the process for them.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding and adapting to changing buyer expectations",
+      "solution_summary": "Stay informed about trends and use tools like virtual staging to meet buyer expectations.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building strong referral networks in other markets",
+      "solution_summary": "Visit key feeder markets to meet agents face-to-face and understand their markets.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how top producers manage client expectations and build networks.",
+      "key_takeaway": "Invest in client relationships and market knowledge to enhance your real estate business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can learn about managing seller expectations and expanding market reach.",
+      "key_takeaway": "Create a network of reliable service providers and build strong inter-market relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:00",
+      "end_timestamp": "06:45",
+      "quote": "It's the hard truth that we've got to tell sellers. Put that investment in, educate them with stats and success stories.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear strategy for managing seller expectations with data-driven insights.",
+      "suggested_hook": "How do you convince sellers to update their homes? Here's the strategy top agents use."
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "There's nothing better than sitting down with somebody and having lunch or dinner, talking about their business.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of personal connections in building a successful referral network.",
+      "suggested_hook": "Want to strengthen your referral network? Here's why face-to-face meetings matter."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use case studies and data to persuade sellers to update their homes.",
+      "context": "When sellers are resistant to making necessary updates for market readiness.",
+      "timestamp": "06:00"
+    },
+    {
+      "tactic": "Visit key feeder markets to meet agents and understand their local real estate dynamics.",
+      "context": "To build a strong referral network and gain insights into other markets.",
+      "timestamp": "19:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your success story starts now. Remember, your first impression is the only impression.",
+    "Investing in your business by having an incredible network makes a big difference."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Curbio",
+      "context": "A service that handles home updates and renovations to prepare homes for sale."
+    },
+    {
+      "type": "tool",
+      "name": "Apply Design",
+      "context": "A virtual staging solution to enhance real estate presentations."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares strategies for preparing homes for the market, emphasizing the importance of updates and staging to meet modern buyer expectations. She discusses the value of building strong referral networks by visiting key feeder markets and highlights the role of technology and social media in enhancing real estate presentations. The episode provides actionable insights for agents looking to improve client management and expand their market reach.",
+  "_metadata": {
+    "source_file": "2024-03-11_item176_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T22:30:57.016319",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

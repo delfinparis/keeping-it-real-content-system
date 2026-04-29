@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Melanie Miller",
+    "title": "Top Producing REALTOR",
+    "company": "Keller Williams One Chicago",
+    "production_level": "National Association of REALTORS 30 under 30",
+    "specialty": "Multi-family investment properties",
+    "location": "Chicago, IL"
+  },
+  "main_topics": [
+    "Agent Wheel Assessment",
+    "Time Management",
+    "Lead Generation Systems",
+    "Referral Systems",
+    "Personal Growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Filtering and following up with leads effectively",
+      "solution_summary": "Implement a more refined system to filter leads and ensure consistent follow-up.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Lack of boundaries and calendar use",
+      "solution_summary": "Establish hard boundaries and utilize a calendar to manage appointments and tasks.",
+      "timestamp": "17:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Hands-on transaction management without leverage",
+      "solution_summary": "Consider leveraging transaction coordinators to free up time for other tasks.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode addresses common mid-level agent challenges like systematizing lead generation and improving time management.",
+      "key_takeaway": "Prioritizing tasks and setting boundaries can significantly enhance productivity and growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:30",
+      "end_timestamp": "18:15",
+      "quote": "I managed to get everything done, but I am inherently a people pleaser, which makes it hard to put up hard boundaries.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This moment captures the struggle many agents face with time management and boundary setting.",
+      "suggested_hook": "Are you a people pleaser struggling to manage your time effectively?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media for daily database interaction.",
+      "context": "Engage with your database by interacting with their social media posts to maintain relationships.",
+      "timestamp": "22:30"
+    },
+    {
+      "tactic": "Implement appointment slots for client meetings.",
+      "context": "Set specific times for client meetings to better manage your schedule and maintain boundaries.",
+      "timestamp": "19:00"
+    }
+  ],
+  "quotable_insights": [
+    "You don't have to sell yourself when somebody else has sold you and referred you to an opportunity."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Agent Wheel",
+      "context": "Used to assess and identify gaps in an agent's business operations."
+    }
+  ],
+  "episode_summary": "In this episode, Melanie Miller undergoes an Agent Wheel assessment with coach Brent Scott, revealing key areas for improvement in her real estate business. The discussion highlights the importance of setting boundaries, leveraging systems, and maintaining strong referral networks to enhance productivity and growth.",
+  "_metadata": {
+    "source_file": "2025-03-19_item82_The-Agent-Wheel",
+    "analyzed_at": "2026-01-29T19:13:56.215030",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Expert",
+    "company": "Not mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Video marketing for real estate agents",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Importance of video content in real estate",
+    "The two Cs: Connection and Credibility",
+    "Creating personal and expert content",
+    "Using ChatGPT for content ideas",
+    "Engagement strategies on social media"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of balanced content that builds both connection and credibility",
+      "solution_summary": "Create content that showcases personal stories for connection and expert advice for credibility.",
+      "timestamp": "00:02:49"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in creating engaging expert content",
+      "solution_summary": "Use frequently asked questions and tools like ChatGPT to generate content ideas.",
+      "timestamp": "00:08:54"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding through video content.",
+      "key_takeaway": "Balance personal and expert content to build a strong personal brand and increase engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:49",
+      "end_timestamp": "00:03:25",
+      "quote": "The two Cs you need for video content: Connection and Credibility.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear framework for creating effective video content.",
+      "suggested_hook": "Are you missing the two Cs in your video strategy?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use personal stories and hobbies to create connection content.",
+      "context": "To make your audience feel like they know and trust you.",
+      "timestamp": "00:04:02"
+    },
+    {
+      "tactic": "Leverage frequently asked questions to create expert content.",
+      "context": "To establish credibility and showcase expertise.",
+      "timestamp": "00:09:03"
+    }
+  ],
+  "quotable_insights": [
+    "Connection and credibility are the key to growing your videos and social media content."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "For generating content ideas by providing questions and answers relevant to your audience."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of balancing connection and credibility in video content for real estate agents. She provides actionable strategies for creating engaging personal and expert content, leveraging tools like ChatGPT for content ideas, and enhancing social media engagement.",
+  "_metadata": {
+    "source_file": "2024-06-26_item147_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:39:23.734281",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

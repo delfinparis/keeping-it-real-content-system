@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Marketing Expert",
+    "company": null,
+    "production_level": "Award-winning",
+    "specialty": "Video content creation for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Creating non-cringey video content",
+    "Understanding your audience and strategy",
+    "Leveraging personal stories in content",
+    "Practicing and improving video skills",
+    "Bringing value through educational content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Feeling cringey on video",
+      "solution_summary": "Identify content styles that feel authentic to you and practice delivering your message confidently.",
+      "timestamp": "03:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Not knowing how to engage potential clients",
+      "solution_summary": "Use video to bring people into your life and showcase your expertise, making them more likely to trust and choose you.",
+      "timestamp": "04:39"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with creating video content that feels authentic.",
+      "key_takeaway": "Focus on what feels natural to you and practice regularly to build confidence."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Agents aiming for the top need to leverage video to expand their influence.",
+      "key_takeaway": "Use video to differentiate yourself and connect with a wider audience."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:19",
+      "end_timestamp": "07:45",
+      "quote": "You will feel cringey if you're doing something that is cringey for you.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It addresses a common fear and offers a mindset shift to overcome it.",
+      "suggested_hook": "Are you worried about feeling cringey on camera? Here's the mindset shift you need."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use bullet points instead of scripts",
+      "context": "When preparing for video content, use bullet points to guide your message rather than memorizing a script.",
+      "timestamp": "13:43"
+    },
+    {
+      "tactic": "Practice on Instagram Stories",
+      "context": "Use Instagram Stories as a low-pressure way to get comfortable on camera.",
+      "timestamp": "15:45"
+    }
+  ],
+  "quotable_insights": [
+    "It's never cringey to help; it's never cringey to teach someone something."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Bootcamp",
+      "context": "Kim Rittberg's signature course for real estate agents to improve their video content skills."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares insights on creating engaging and authentic video content for real estate agents. She emphasizes the importance of understanding your audience, practicing regularly, and bringing personal stories into your content to build trust and expand your influence. With practical tips and mindset shifts, agents can overcome the fear of being cringey and leverage video to grow their business.",
+  "_metadata": {
+    "source_file": "2024-01-10_item188_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:15:24.133683",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

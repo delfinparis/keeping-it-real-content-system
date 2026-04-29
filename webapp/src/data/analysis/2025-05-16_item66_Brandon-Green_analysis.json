@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Brandon Green",
+    "title": "Financial Strategist",
+    "company": "Alchemy of Money",
+    "production_level": "Top 0.2% of brokerages",
+    "specialty": "Financial services for real estate professionals",
+    "location": "Washington, DC"
+  },
+  "main_topics": [
+    "Financial management for real estate agents",
+    "Importance of profit and loss statements",
+    "Real estate investing as a retirement vehicle",
+    "Fractional CFO services",
+    "Tax strategies for real estate professionals"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Agents not treating their business like a business",
+      "solution_summary": "Start using profit and loss statements and consider hiring a fractional CFO to manage finances.",
+      "timestamp": "04:30"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Agents not investing in real estate themselves",
+      "solution_summary": "Encourage agents to reinvest their earnings into real estate as a means of building wealth.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Agents not managing tax liabilities effectively",
+      "solution_summary": "Implement strategic tax planning and ensure accurate bookkeeping to leverage tax benefits.",
+      "timestamp": "23:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on scaling a real estate business through financial management.",
+      "key_takeaway": "Use profit and loss statements to make informed decisions and consider hiring a fractional CFO as your business grows."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can learn about the importance of financial oversight and strategic hiring.",
+      "key_takeaway": "Ensure your business is financially ready before making key hires."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:30",
+      "end_timestamp": "05:15",
+      "quote": "You as soon as possible need to begin to treat your business like a business.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It encapsulates the core message of the episode about business management.",
+      "suggested_hook": "Are you treating your real estate career like a true business?"
+    },
+    {
+      "timestamp": "23:00",
+      "end_timestamp": "23:45",
+      "quote": "Most people need to start with better data. The data takes the form of good bookkeeping.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the actionable step of improving financial data management.",
+      "suggested_hook": "Is your bookkeeping up to par? Here's why it matters."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a profit and loss statement for your business.",
+      "context": "To gain clarity on your financial health and make informed decisions.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Consider hiring a fractional CFO as your business grows.",
+      "context": "When your revenue reaches around $3 million, to manage complex financial operations.",
+      "timestamp": "47:00"
+    }
+  ],
+  "quotable_insights": [
+    "Treat your business like a business, even if you never plan to sell it.",
+    "Start today thinking as if you would sell your real estate business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Alchemy of Money",
+      "context": "Brandon Green's company providing financial services for real estate professionals."
+    }
+  ],
+  "episode_summary": "In this episode, Brandon Green discusses the importance of treating a real estate business like a true business by implementing financial management strategies such as profit and loss statements and considering fractional CFO services. He emphasizes the value of real estate investing as a retirement vehicle and offers insights into strategic tax planning for agents.",
+  "_metadata": {
+    "source_file": "2025-05-16_item66_Brandon-Green",
+    "analyzed_at": "2026-01-24T20:08:41.677585",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

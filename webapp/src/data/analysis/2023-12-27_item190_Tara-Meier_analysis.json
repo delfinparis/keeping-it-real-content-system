@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Tara Meier",
+    "title": "Real Estate Marketing Technology Expert",
+    "company": "My Home",
+    "production_level": "150 transactions between 2012 to 2019",
+    "specialty": "Brand and identity development, online presence, AI and automation",
+    "location": "Chandler, Arizona"
+  },
+  "main_topics": [
+    "Utilizing AI in real estate",
+    "Building an online presence",
+    "Social media strategy for REALTORS",
+    "Digital advertising",
+    "Content creation and batching"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Lack of online presence among REALTORS",
+      "solution_summary": "Ensure consistent and updated profiles across platforms like Zillow, Realtor.com, and Google Business. Engage consistently on chosen social media platforms.",
+      "timestamp": "13:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective content strategy",
+      "solution_summary": "Identify your audience and create content that addresses their specific questions and needs using tools like Chat GPT.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Time management in content creation",
+      "solution_summary": "Batch content creation by setting aside dedicated time for planning and recording to reduce stress and improve consistency.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with establishing an online presence and creating content.",
+      "key_takeaway": "Focus on building a consistent online presence and leverage AI tools to streamline content creation."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may have plateaued in their marketing efforts.",
+      "key_takeaway": "Use AI to identify audience needs and create targeted content to engage and expand your reach."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:00",
+      "end_timestamp": "21:00",
+      "quote": "You have to identify your audience and create content that speaks directly to their needs.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This advice is actionable and can immediately impact an agent's content strategy.",
+      "suggested_hook": "Struggling to connect with your audience? Here's the secret to creating engaging content."
+    },
+    {
+      "timestamp": "23:00",
+      "end_timestamp": "24:00",
+      "quote": "AI can help you craft compelling bios, build your brand, and draft copy for your website and social media.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates practical uses of AI that agents can implement immediately.",
+      "suggested_hook": "Want to save time and boost your brand? Here's how AI can transform your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to generate listing descriptions and content ideas.",
+      "context": "Before listing a property, use AI to gather information and create compelling descriptions.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Batch content creation to save time.",
+      "context": "Set aside specific times each week for planning and recording content.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "People want to be entertained, informed, and inspired. Identify your audience's needs and create content that speaks to them."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Chat GPT",
+      "context": "Used to identify audience needs and generate content ideas."
+    },
+    {
+      "type": "tool",
+      "name": "Google Business",
+      "context": "Recommended for driving reviews and optimizing local search presence."
+    }
+  ],
+  "episode_summary": "In this episode, Tara Meier shares insights on leveraging AI and building a strong online presence to enhance real estate marketing efforts. She discusses the importance of identifying your audience, creating engaging content, and utilizing digital advertising strategically. Tara also offers practical tips on batching content creation to improve efficiency and consistency.",
+  "_metadata": {
+    "source_file": "2023-12-27_item190_Tara-Meier",
+    "analyzed_at": "2026-01-26T22:20:24.353176",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

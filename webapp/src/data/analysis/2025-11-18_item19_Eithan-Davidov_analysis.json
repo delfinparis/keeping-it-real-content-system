@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Eithan Davidov",
+    "title": "Team Leader",
+    "company": "Compass",
+    "production_level": "Over 100 transactions a year",
+    "specialty": "Residential and Investment Sales",
+    "location": "Queens, New York City"
+  },
+  "main_topics": [
+    "Building a successful real estate team",
+    "Cold prospecting and lead generation",
+    "The impact of AI on real estate",
+    "Navigating rental market changes",
+    "Providing high-touch client service"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating business in a competitive market",
+      "solution_summary": "Focus on cold prospecting and follow-up, leveraging local knowledge and providing high-touch service.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating changes in rental commission structures",
+      "solution_summary": "Adapt to market changes by understanding the impact on pricing and maintaining strong client relationships.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing a high volume of transactions",
+      "solution_summary": "Utilize a CRM for tracking and managing client interactions and deal flow efficiently.",
+      "timestamp": "28:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Eithan shares strategies for achieving high transaction volumes in a competitive market.",
+      "key_takeaway": "Cold prospecting and consistent follow-up are key to building a successful real estate business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Eithan discusses team management and the importance of training new agents.",
+      "key_takeaway": "Invest in training and systems to support your team's growth and efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "20:00",
+      "quote": "The fortune is in the follow-up, and as much as I wish it wasn't, it's the hardest part.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the critical importance of follow-up in sales success.",
+      "suggested_hook": "Why follow-up is the secret weapon in real estate success."
+    },
+    {
+      "timestamp": "34:00",
+      "end_timestamp": "35:00",
+      "quote": "I use AI to clean up my thoughts instead of generate them.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a unique perspective on using AI as a tool for clarity.",
+      "suggested_hook": "How AI can help you organize your thoughts and boost productivity."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Cold prospecting with a focus on adding value",
+      "context": "Use postcards, emails, and personal touches to engage potential clients.",
+      "timestamp": "20:00"
+    },
+    {
+      "tactic": "Utilizing AI for email drafting and organization",
+      "context": "Use AI to draft emails based on bullet points to save time and maintain clarity.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "Don't grow too fast. You don't want to bite off more than you can chew.",
+    "The fortune is in the follow-up."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI tool for recruiting and retention, identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Eithan Davidov shares his journey from a finance graduate to leading a top-performing real estate team in New York City. He emphasizes the importance of cold prospecting, consistent follow-up, and leveraging AI for efficiency. Eithan also discusses navigating changes in the rental market and the value of providing high-touch client service.",
+  "_metadata": {
+    "source_file": "2025-11-18_item19_Eithan-Davidov",
+    "analyzed_at": "2026-01-29T19:54:01.449679",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "02:16",
+      "end_timestamp": "03:00",
+      "quote": "88% of clients say they'd use their agent again, but only 12% actually do.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights a significant gap in client retention that can be addressed with proper follow-up.",
+      "suggested_hook": "Are you losing clients without even knowing it?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you losing clients without even knowing it?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a shocking stat: 88% of clients say they'd use their agent again, but only 12% actually do. If you're reaching out to your database and hearing crickets, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim explains that most agents fail at consistent follow-up. [ON-SCREEN: 88% say they'd return] [ON-SCREEN: Only 12% do] Top producers, however, use a CRM to automate touchpoints and personalize communication. [ON-SCREEN: CRM Utilization] This simple system keeps you top of mind and turns past clients into repeat business.\",\n    \"REFRAME/APPLICATION\": \"This matters because your next deal could be sitting in your database. Implement a CRM system today to start seeing results. Tim closed 47 deals last year using this exact approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"88% would return, but only 12% do. Are you missing out? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRetention\",\n    \"#AgentSuccess\",\n    \"#FollowUp\",\n    \"#CRM\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Your next deal could be sitting in your database.\"\n}\n```"
+  }
+]

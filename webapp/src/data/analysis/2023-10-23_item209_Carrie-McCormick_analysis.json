@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 0.001% Producer",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 0.001% producer in Chicago",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Negotiation strategies in real estate",
+    "Understanding client needs and leverage",
+    "Building rapport with other agents",
+    "Setting a positive tone in negotiations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Understanding what drives the other party in negotiations",
+      "solution_summary": "Ask questions during showings to learn about the buyer's or seller's motivations and needs.",
+      "timestamp": "05:12"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Setting a positive tone for negotiations",
+      "solution_summary": "Agree on easy items first to establish goodwill and set a positive tone.",
+      "timestamp": "10:56"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Dealing with unfamiliar agents in a market",
+      "solution_summary": "Provide educational materials to agents unfamiliar with the market to facilitate smoother negotiations.",
+      "timestamp": "06:54"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced negotiation tactics and insights into high-level client management.",
+      "key_takeaway": "Understanding and leveraging client motivations can lead to more successful negotiations."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can learn strategies to train their agents in effective negotiation and client relationship management.",
+      "key_takeaway": "Setting a positive negotiation tone can lead to better outcomes and client satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:00",
+      "end_timestamp": "12:45",
+      "quote": "Agree on the easy stuff at the beginning to set the tone for a nice negotiation.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This advice is practical and can be immediately implemented by agents to improve negotiation outcomes.",
+      "suggested_hook": "Want to close deals more smoothly? Start by agreeing on the easy stuff."
+    },
+    {
+      "timestamp": "15:20",
+      "end_timestamp": "15:45",
+      "quote": "Sometimes putting decision makers in a room together can lead to a successful outcome.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This approach challenges the conventional wisdom of keeping parties separate during negotiations.",
+      "suggested_hook": "Could bringing buyers and sellers together actually help close deals faster?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify and leverage unique property features during showings.",
+      "context": "Highlight features that set the property apart from others to strengthen your negotiation position.",
+      "timestamp": "09:46"
+    },
+    {
+      "tactic": "Offer small gestures of goodwill, like including a desired piece of furniture.",
+      "context": "Use these gestures to build rapport and set a positive negotiation tone.",
+      "timestamp": "13:12"
+    }
+  ],
+  "quotable_insights": [
+    "Understanding what drives the other side is key to successful negotiations.",
+    "Agree on the easy stuff first to set a positive tone for negotiations."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares advanced negotiation strategies for real estate agents, emphasizing the importance of understanding client motivations and leveraging unique property features. She discusses setting a positive tone in negotiations by agreeing on easy items first and using small gestures of goodwill. These insights are particularly valuable for aspiring top producers and team leaders looking to enhance their negotiation skills.",
+  "_metadata": {
+    "source_file": "2023-10-23_item209_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T18:02:09.198357",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Scott Harris",
+    "title": "Team Leader",
+    "company": "Harris Residential Team, Brown Harris Stevens",
+    "production_level": "Billion dollar producer",
+    "specialty": "Residential real estate",
+    "location": "New York City, covering Manhattan and Brooklyn"
+  },
+  "main_topics": [
+    "Building client relationships",
+    "Mindset and emotional management",
+    "Providing value beyond transactions",
+    "Storytelling in real estate",
+    "Handling competition in the market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Managing stress and emotions during transactions",
+      "solution_summary": "Create a calm environment and manage emotions to better serve clients.",
+      "timestamp": "23:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Celebrate milestones and stay in touch with personalized gestures.",
+      "timestamp": "56:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a competitive market",
+      "solution_summary": "Focus on caring for clients and creating win-win situations.",
+      "timestamp": "40:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a successful real estate business through client care and mindset.",
+      "key_takeaway": "Success is built on caring for clients and managing your mindset effectively."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Scott shares strategies for leading a team and maintaining high performance.",
+      "key_takeaway": "Foster a supportive team environment and celebrate successes to maintain motivation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "Sometimes doing nothing today is doing something.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that immediate action is always necessary, highlighting the power of patience.",
+      "suggested_hook": "Why sometimes the best action is no action at all."
+    },
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "50:45",
+      "quote": "Tell a story. Just tell the story about something.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the power of storytelling in engaging clients and differentiating yourself.",
+      "suggested_hook": "How storytelling can transform your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Reach out to clients with no expectation of immediate business.",
+      "context": "Build long-term relationships by offering value and staying in touch.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Use gratitude exercises in team meetings.",
+      "context": "Start meetings with expressions of gratitude to shift energy and focus.",
+      "timestamp": "33:00"
+    }
+  ],
+  "quotable_insights": [
+    "You can't be afraid and curious at the same time.",
+    "A rising tide lifts all boats."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Ed Mylett Show",
+      "context": "Scott mentioned it as a source of inspiration for believing in clients."
+    }
+  ],
+  "episode_summary": "In this episode, Scott Harris shares insights on building a successful real estate business by focusing on client care, emotional management, and storytelling. He emphasizes the importance of creating a calm environment for clients, celebrating milestones, and maintaining long-term relationships. The discussion also highlights strategies for standing out in a competitive market and fostering a supportive team culture.",
+  "_metadata": {
+    "source_file": "2023-09-29_item213_Scott-Harris",
+    "analyzed_at": "2026-01-26T21:26:43.450267",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

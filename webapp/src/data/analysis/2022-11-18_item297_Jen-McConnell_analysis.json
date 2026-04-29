@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jen McConnell",
+    "title": "Broker in Charge",
+    "company": "McConnell Real Estate Partners",
+    "production_level": "Top 2% of agents in Charleston",
+    "specialty": "Luxury real estate and custom home building",
+    "location": "Charleston, South Carolina"
+  },
+  "main_topics": [
+    "Systems and processes in real estate",
+    "Transition from buying leads to referral-based business",
+    "Work-life balance and leveraging support",
+    "Building a client-focused business model",
+    "Philanthropy and finding a true north in business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing all aspects of the business alone",
+      "solution_summary": "Identify and leverage systems and people to handle tasks outside your top 20% strengths.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Relying heavily on purchased leads",
+      "solution_summary": "Shift focus to enhancing client experience to increase referrals.",
+      "timestamp": "29:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Finding motivation and purpose in business",
+      "solution_summary": "Align business goals with personal values and philanthropic efforts.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jen's journey from managing everything herself to building a top-producing team is inspiring.",
+      "key_takeaway": "Focus on systems and leverage to scale your business efficiently."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on transitioning from lead buying to a referral-based model can help team leaders improve ROI.",
+      "key_takeaway": "Invest in client experience to naturally increase referrals and business growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you're really stressed and running on fumes, there's either leverage or a system missing.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures a key insight about business efficiency.",
+      "suggested_hook": "Feeling overwhelmed in your real estate business? Here's why..."
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "Our northern star is to give back to pediatric cancer research, which motivates our business growth.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Shows the power of aligning business with personal values.",
+      "suggested_hook": "Looking for a deeper purpose in your business? Listen to this."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a moving truck as a client service and branding tool.",
+      "context": "Offer clients a branded moving truck to enhance their moving experience.",
+      "timestamp": "31:00"
+    },
+    {
+      "tactic": "Segment clients into pods for targeted engagement.",
+      "context": "Group clients by life stage to tailor events and communications.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you're really stressed and running on fumes, there's either leverage or a system missing.",
+    "Our northern star is to give back to pediatric cancer research, which motivates our business growth."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "Recommended CRM for managing client relationships and follow-ups."
+    },
+    {
+      "type": "book",
+      "name": "Profit First",
+      "context": "Advised for new agents to manage finances effectively."
+    }
+  ],
+  "episode_summary": "In this episode, Jen McConnell shares her journey from handling all aspects of her real estate business alone to building a top-producing team through systems and leverage. She discusses the importance of transitioning from buying leads to focusing on client experience to drive referrals. Jen also highlights the significance of aligning business with personal values, as demonstrated by her philanthropic efforts in pediatric cancer research.",
+  "_metadata": {
+    "source_file": "2022-11-18_item297_Jen-McConnell",
+    "analyzed_at": "2026-01-26T20:29:19.707782",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

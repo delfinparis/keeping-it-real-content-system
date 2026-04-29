@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jerry Wolking",
+    "title": "Real Estate Agent",
+    "company": "Keller Williams Greater Quad Cities",
+    "production_level": "30+ years in the industry",
+    "specialty": "Residential and Commercial Real Estate",
+    "location": "Quad Cities, Illinois and Iowa"
+  },
+  "main_topics": [
+    "Importance of Reputation in Real Estate",
+    "Transitioning from Part-Time to Full-Time Real Estate",
+    "Educational Paths for REALTORS (GRI, CRS)",
+    "Adapting to Market Changes",
+    "Balancing Residential and Commercial Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Balancing multiple careers and maintaining a professional image",
+      "solution_summary": "Jerry transitioned from landscaping to full-time real estate after realizing the importance of being fully committed to one profession.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating high interest rates and low inventory",
+      "solution_summary": "Jerry advises learning about financing options like buy downs and understanding market cycles to better serve clients.",
+      "timestamp": "15:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of training and mentorship in fragmented brokerages",
+      "solution_summary": "Jerry recommends pursuing additional education through GRI and CRS to gain comprehensive industry knowledge.",
+      "timestamp": "12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights on transitioning to full-time real estate and adapting to market changes.",
+      "key_takeaway": "Commit fully to your real estate career and continuously seek education to thrive in changing markets."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jerry shares strategies for balancing residential and commercial real estate, which can help agents looking to expand their expertise.",
+      "key_takeaway": "Diversify your skills and market knowledge to become a versatile agent capable of handling various client needs."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "I'm not interested in a part-time agent.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This moment captures the pivotal decision that led Jerry to commit fully to real estate, highlighting the importance of dedication.",
+      "suggested_hook": "Why being a part-time agent might be holding you back."
+    },
+    {
+      "timestamp": "15:30",
+      "end_timestamp": "16:30",
+      "quote": "There's always somebody buying something. There's always somebody selling something.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote challenges the scarcity mindset and encourages agents to find opportunities in any market condition.",
+      "suggested_hook": "How to thrive in any real estate market."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Learn about financing options like buy downs to assist clients in high interest rate environments.",
+      "context": "Use this knowledge to offer creative solutions to clients hesitant to buy due to current rates.",
+      "timestamp": "15:30"
+    },
+    {
+      "tactic": "Pursue GRI and CRS certifications for comprehensive industry knowledge.",
+      "context": "Especially beneficial for agents in brokerages with limited training resources.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "It's far too easy to get a real estate license. There are so many people in this industry who shouldn't be in it.",
+    "Be the chaste, not the chaser."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "GRI (Graduate REALTOR Institute)",
+      "context": "Recommended for gaining a broad understanding of the real estate industry."
+    },
+    {
+      "type": "course",
+      "name": "CRS (Certified Residential Specialist)",
+      "context": "Suggested for residential agents to gain advanced training and expertise."
+    }
+  ],
+  "episode_summary": "In this episode, Jerry Wolking shares his journey from part-time landscaper to full-time real estate agent, emphasizing the importance of reputation and dedication. He discusses the value of continuous education through GRI and CRS certifications and offers strategies for navigating current market challenges. Jerry also highlights the benefits of balancing residential and commercial real estate to adapt to changing market conditions.",
+  "_metadata": {
+    "source_file": "2023-11-29_item199_Jerry-Wolking",
+    "analyzed_at": "2026-01-29T18:08:52.059531",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

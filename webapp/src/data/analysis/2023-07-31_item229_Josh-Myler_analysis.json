@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Josh Myler",
+    "title": "Top Producer",
+    "company": "The Agency",
+    "production_level": "Top 1% producer",
+    "specialty": "High net worth individuals",
+    "location": "Beverly Hills, California"
+  },
+  "main_topics": [
+    "Emotional management in real estate transactions",
+    "Transition from technology to real estate",
+    "Working with high net worth clients",
+    "Importance of market knowledge",
+    "Client relationship building"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client emotions during transactions",
+      "solution_summary": "Act as a guide and keep clients focused on the end goal, using a calm and reassuring approach.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a competitive real estate market",
+      "solution_summary": "Understand the inventory and market trends to provide clients with informed advice.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into managing high net worth clients and maintaining emotional balance in transactions.",
+      "key_takeaway": "Focus on the client's emotional journey and provide a calming presence to facilitate successful transactions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:01",
+      "end_timestamp": "17:45",
+      "quote": "Seeing the look on that person's face when they find it... this is the one. How do we make this work?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the emotional impact of finding the perfect home for a client.",
+      "suggested_hook": "Ever witnessed the magic moment when a client finds their dream home?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Take the backup offer position in competitive markets.",
+      "context": "When your client's offer isn't initially accepted, encourage them to accept the backup position to increase their chances.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on the human part of the transaction, not just the deal."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Untethered Soul",
+      "context": "Recommended for understanding the pursuit of happiness and being of service."
+    }
+  ],
+  "episode_summary": "In this episode, Josh Myler shares his journey from technology to becoming a top real estate producer in Beverly Hills. He emphasizes the importance of managing client emotions and maintaining a calm presence during transactions. Myler also discusses the significance of market knowledge and building strong client relationships to succeed in the competitive real estate industry.",
+  "_metadata": {
+    "source_file": "2023-07-31_item229_Josh-Myler",
+    "analyzed_at": "2026-01-26T21:14:00.591130",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Nick Harris",
+    "title": "Licensed REALTOR",
+    "company": "eXp, Best Life and Company Metro Detroit",
+    "production_level": "Top 1% producer, 103 homes per year",
+    "specialty": "Real estate investing, primary home buyers and sellers",
+    "location": "Metro Detroit, Michigan"
+  },
+  "main_topics": [
+    "Real estate investing strategies",
+    "Transitioning from investors to primary home buyers",
+    "Sphere of influence and client engagement",
+    "Circle prospecting techniques",
+    "Social media strategies for REALTORS"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding and engaging with potential sellers in a specific neighborhood",
+      "solution_summary": "Use circle prospecting by calling homeowners around a listing to inform them about the sale and gauge interest in selling their own homes.",
+      "timestamp": "56:01"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining relationships with past clients",
+      "solution_summary": "Implement a monthly touchpoint strategy with client events, seasonal checklists, and personalized messages.",
+      "timestamp": "48:47"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Staying top of mind with sphere of influence",
+      "solution_summary": "Use a social 333 strategy: follow, comment, and direct message three people daily to maintain engagement.",
+      "timestamp": "25:47"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into scaling production and diversifying client types.",
+      "key_takeaway": "Implementing structured outreach and engagement strategies can significantly increase transaction volume."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical tactics for expanding business beyond initial client types.",
+      "key_takeaway": "Transitioning focus from investors to primary buyers can lead to higher transaction value and efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "56:01",
+      "end_timestamp": "57:03",
+      "quote": "If you have a buyer who is looking in a specific neighborhood, it's a really good reason to call.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This moment provides a specific, actionable tactic for REALTORS to generate leads.",
+      "suggested_hook": "Struggling to find sellers? Here's a powerful tactic to uncover hidden opportunities in any neighborhood."
+    },
+    {
+      "timestamp": "25:47",
+      "end_timestamp": "26:14",
+      "quote": "I do what I call a social 333: three new follows, three comments, and three direct messages each day.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This provides a simple, actionable strategy for maintaining engagement with your network.",
+      "suggested_hook": "Want to stay top of mind with your clients? Try this simple daily social media strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Circle prospecting around a listing",
+      "context": "Call homeowners in a neighborhood where you have a listing to inform them of the sale and assess their interest in selling.",
+      "timestamp": "56:01"
+    },
+    {
+      "tactic": "Social 333 strategy",
+      "context": "Daily engagement on social media by following, commenting, and messaging to maintain visibility and relationships.",
+      "timestamp": "25:47"
+    },
+    {
+      "tactic": "Monthly client touchpoints",
+      "context": "Plan monthly engagements with past clients through events, seasonal tips, and personalized messages.",
+      "timestamp": "48:47"
+    }
+  ],
+  "quotable_insights": [
+    "Everybody wants to know what their equity stake in their home is.",
+    "It's about being top of mind and being relevant."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "Used for organizing client relationships and outreach strategies."
+    }
+  ],
+  "episode_summary": "In this episode, Nick Harris shares his journey from focusing on real estate investing to becoming a top producer in primary home sales. He discusses actionable strategies for maintaining client relationships, leveraging social media, and using circle prospecting to generate leads. Nick's insights offer valuable lessons for REALTORS looking to scale their business and diversify their client base.",
+  "_metadata": {
+    "source_file": "2025-02-14_item91_Nick-Harris",
+    "analyzed_at": "2026-01-24T19:52:21.664870",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

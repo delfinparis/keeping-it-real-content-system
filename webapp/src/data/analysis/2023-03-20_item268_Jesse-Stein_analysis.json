@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Jesse Stein",
+    "title": "Founder",
+    "company": "audience.co",
+    "production_level": null,
+    "specialty": "Digital Marketing and Handwritten Notes",
+    "location": null
+  },
+  "main_topics": [
+    "The power of handwritten notes in digital marketing",
+    "Integration of AI with traditional marketing methods",
+    "Strategies for effective real estate marketing",
+    "Leveraging digital tools for lead generation",
+    "Importance of adding value in marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Low response rates from traditional direct mail",
+      "solution_summary": "Use handwritten notes with personalized QR codes and follow-up digital marketing to increase engagement and response rates.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time-consuming marketing processes for REALTORS",
+      "solution_summary": "Automate marketing sequences with audience.co's platform to save time and focus on client interactions.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a recognizable and trusted personal brand",
+      "solution_summary": "Use consistent, value-driven content across multiple platforms, including handwritten notes and digital follow-ups.",
+      "timestamp": "32:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced marketing strategies that can help ambitious agents increase their listings and sales.",
+      "key_takeaway": "Integrate traditional and digital marketing to create a comprehensive strategy that maximizes reach and engagement."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers insights into overcoming stagnant growth by adopting innovative marketing techniques.",
+      "key_takeaway": "Leverage handwritten notes as a unique touchpoint to differentiate yourself in a crowded market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:00",
+      "end_timestamp": "08:00",
+      "quote": "Handwritten notes defy the time-space continuum by staying on the kitchen counter, creating lasting impressions.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It highlights the unique and lasting impact of handwritten notes in a digital age.",
+      "suggested_hook": "Discover why handwritten notes are your secret weapon in real estate marketing!"
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "25:00",
+      "quote": "Automate your marketing to save time and focus on what you do best: building relationships.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for REALTORS to enhance productivity.",
+      "suggested_hook": "Want to save time and boost your real estate business? Here's how!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send handwritten notes with a QR code linking to a personalized video.",
+      "context": "Use after a sale to engage the neighborhood and generate new leads.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Use vertical video for social media marketing.",
+      "context": "Create engaging content for Instagram, Facebook, and TikTok.",
+      "timestamp": "42:00"
+    },
+    {
+      "tactic": "Write 800-1000 word articles on LinkedIn to establish authority.",
+      "context": "Share market insights and personal experiences to build credibility.",
+      "timestamp": "44:00"
+    }
+  ],
+  "quotable_insights": [
+    "You can get your money back, but you can't get your time back.",
+    "The fortune is in the follow-up."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "audience.co",
+      "context": "Platform for integrating handwritten notes with digital marketing."
+    },
+    {
+      "type": "tool",
+      "name": "Hootsuite",
+      "context": "Used for distributing vertical video content across social media platforms."
+    },
+    {
+      "type": "tool",
+      "name": "Octopus CRM",
+      "context": "Chrome extension for automating LinkedIn connections."
+    }
+  ],
+  "episode_summary": "In this episode, Jesse Stein discusses the innovative use of handwritten notes combined with digital marketing to enhance real estate lead generation. He shares insights on leveraging AI, vertical video, and LinkedIn articles to build a strong personal brand and increase engagement. REALTORS can learn how to automate marketing processes to save time and focus on client relationships.",
+  "_metadata": {
+    "source_file": "2023-03-20_item268_Jesse-Stein",
+    "analyzed_at": "2026-01-29T17:17:20.315450",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

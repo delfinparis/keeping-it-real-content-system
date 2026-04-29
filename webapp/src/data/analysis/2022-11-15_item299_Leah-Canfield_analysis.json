@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Leah Canfield",
+    "title": "Real Estate Agent",
+    "company": "Coldwell Banker Mountain Properties",
+    "production_level": "Top 0.4% of Coldwell Banker agents worldwide",
+    "specialty": "Luxury real estate and new developments",
+    "location": "Breckenridge, Colorado"
+  },
+  "main_topics": [
+    "Transition from sports to real estate",
+    "Building a personal brand in luxury real estate",
+    "Importance of work-life balance",
+    "Leveraging media for credibility",
+    "Trusting instincts in client interactions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing credibility as a young agent",
+      "solution_summary": "Leverage local media by providing valuable market insights to become a quoted expert.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the stigma of being a salesperson",
+      "solution_summary": "Shift mindset from 'selling' to 'helping' by focusing on being a resource for clients.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing work and personal life in a demanding career",
+      "solution_summary": "Hire assistants to manage tasks and maintain a high level of service while preserving personal time.",
+      "timestamp": "35:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with credibility and establishing themselves in a competitive market.",
+      "key_takeaway": "Use local media and strategic partnerships to build a reputation as an expert."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Agents looking to scale their business while maintaining personal well-being.",
+      "key_takeaway": "Building a team can enhance service quality and allow for personal time, leading to sustainable success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "21:30",
+      "end_timestamp": "22:15",
+      "quote": "Reach out to your local newspaper. These people are overworked and need content. If you help them, they will call you back.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for gaining media exposure.",
+      "suggested_hook": "Want to be the go-to real estate expert in your area? Here's how to get the media to call you!"
+    },
+    {
+      "timestamp": "34:00",
+      "end_timestamp": "34:45",
+      "quote": "If you want to go fast, go alone. If you want to go far, go as a team.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the importance of teamwork in achieving long-term success.",
+      "suggested_hook": "Are you trying to do it all alone? Here's why building a team is crucial for lasting success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Leverage local media for credibility",
+      "context": "Provide reporters with interesting market data and insights to become a quoted expert.",
+      "timestamp": "21:30"
+    },
+    {
+      "tactic": "Hire an assistant to manage tasks",
+      "context": "Free up personal time and maintain service quality by delegating administrative tasks.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you want to go fast, go alone. If you want to go far, go as a team.",
+    "A salesperson is not a parasite, but a resource for clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Rich Dad Poor Dad",
+      "context": "Recommended for understanding financial freedom and personal finance."
+    },
+    {
+      "type": "book",
+      "name": "The E-Myth",
+      "context": "Recommended for understanding the importance of building a business structure."
+    },
+    {
+      "type": "book",
+      "name": "Blue Ocean Strategy",
+      "context": "Recommended for finding less competitive markets or niches."
+    }
+  ],
+  "episode_summary": "In this episode, Leah Canfield shares her journey from competitive skiing to becoming a top luxury real estate agent. She discusses the importance of building credibility through local media, maintaining work-life balance by hiring a team, and trusting instincts in client interactions. Leah provides actionable insights for new and aspiring agents looking to establish themselves in the real estate industry.",
+  "_metadata": {
+    "source_file": "2022-11-15_item299_Leah-Canfield",
+    "analyzed_at": "2026-01-26T22:13:04.941047",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

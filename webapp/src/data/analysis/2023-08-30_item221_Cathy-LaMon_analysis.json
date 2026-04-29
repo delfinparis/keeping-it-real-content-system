@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Cathy LaMon",
+    "title": "Real Estate Agent",
+    "company": "Keller Williams",
+    "production_level": "Top Producer",
+    "specialty": "Referral-based business",
+    "location": "Atlanta, Georgia"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Importance of communication",
+    "Networking with trusted advisors",
+    "Client appreciation events",
+    "Adapting to market changes"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Transitioning from cold calls to a referral-based business",
+      "solution_summary": "Focus on building relationships and networking with past clients and trusted advisors.",
+      "timestamp": "18:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Communicating effectively with clients during slow periods",
+      "solution_summary": "Maintain regular communication and set expectations about market feedback and potential pricing adjustments.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a unique and memorable presence in the market",
+      "solution_summary": "Host themed client appreciation events and create a strong professional network.",
+      "timestamp": "38:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for building a sustainable, referral-based business.",
+      "key_takeaway": "Consistent relationship-building and communication are key to long-term success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on delegating roles based on strengths and weaknesses within a team.",
+      "key_takeaway": "Identify and leverage team members' strengths to enhance client service."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:10",
+      "end_timestamp": "19:45",
+      "quote": "I have lunch with someone almost every day of the week, coffees, just being in relationship with people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific and actionable networking strategy.",
+      "suggested_hook": "Want to know how top agents build lasting relationships?"
+    },
+    {
+      "timestamp": "44:00",
+      "end_timestamp": "44:30",
+      "quote": "We love having dinner parties. We love having six people around the table and just breaking bread.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the personal touch in client relationships.",
+      "suggested_hook": "Here's how breaking bread can boost your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host small, intimate gatherings to strengthen client relationships.",
+      "context": "Use dinner parties to mix clients and create deeper connections.",
+      "timestamp": "38:00"
+    },
+    {
+      "tactic": "Regularly meet with trusted advisors to expand referral network.",
+      "context": "Focus on professionals like estate attorneys and financial advisors.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "When someone knows and trusts another person, they will recommend you to their friends.",
+    "The market will talk back if we're not getting showings or offers."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "system",
+      "name": "Brian Buffini's Referral System",
+      "context": "Used as a core strategy for building a referral-based business."
+    }
+  ],
+  "episode_summary": "In this episode, Cathy LaMon shares her journey from IBM sales to becoming a top real estate producer by focusing on building a referral-based business. She emphasizes the importance of consistent communication, hosting client appreciation events, and networking with trusted advisors to sustain long-term success. Cathy also provides actionable insights into leveraging personal strengths within a team and adapting to market changes.",
+  "_metadata": {
+    "source_file": "2023-08-30_item221_Cathy-LaMon",
+    "analyzed_at": "2026-01-26T21:21:30.377387",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

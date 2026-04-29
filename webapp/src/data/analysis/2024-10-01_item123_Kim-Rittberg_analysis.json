@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video marketing for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Leveraging video for real estate business",
+    "Success stories of agents using video",
+    "Video Bootcamp program",
+    "Building confidence on camera",
+    "Social media strategy for real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads and commissions from video content",
+      "solution_summary": "Use video content strategically to convert social media presence into business opportunities.",
+      "timestamp": "00:00:12"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of confidence in appearing on camera",
+      "solution_summary": "Build confidence gradually by starting with small group videos and progressing to public content.",
+      "timestamp": "00:04:28"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating a compelling personal brand on social media",
+      "solution_summary": "Blend professional expertise with personal interests to engage and attract clients.",
+      "timestamp": "00:05:26"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with how to start using video effectively.",
+      "key_takeaway": "Start small, build confidence, and use video to establish your brand and generate leads."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can use video to attract and retain top talent.",
+      "key_takeaway": "Showcase your expertise and company culture through video to impress potential recruits."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:09",
+      "end_timestamp": "00:06:27",
+      "quote": "In 2024, year to date, she has made $60,000 in commissions directly through social media.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the tangible financial benefits of using video effectively.",
+      "suggested_hook": "Want to make $60,000 from social media? Here's how one agent did it!"
+    },
+    {
+      "timestamp": "00:10:24",
+      "end_timestamp": "00:10:30",
+      "quote": "She locked in a client through social media... someone she hadn't seen in over a decade.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the power of social media to reconnect and convert old acquaintances into clients.",
+      "suggested_hook": "Reconnect and convert: How social media can revive old connections into new clients."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Blend personal interests with professional expertise in video content.",
+      "context": "Use this approach to engage viewers and build a relatable personal brand.",
+      "timestamp": "00:05:26"
+    },
+    {
+      "tactic": "Gradually build on-camera confidence by starting with small, private videos.",
+      "context": "For agents who are camera shy, this method helps ease into public video content.",
+      "timestamp": "00:04:28"
+    }
+  ],
+  "quotable_insights": [
+    "Your phone can convert your content into cash.",
+    "It's not about being on camera every single day; it's about showing up with a strategy."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Video Bootcamp with Kim Rittberg",
+      "context": "A program to help real estate agents learn how to effectively use video for lead generation."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses how real estate agents can leverage video content to generate leads and commissions. She shares success stories from her Video Bootcamp program, emphasizing the importance of building confidence on camera and creating a strategic social media presence. The episode offers actionable insights for agents looking to enhance their personal brand and grow their business through video marketing.",
+  "_metadata": {
+    "source_file": "2024-10-01_item123_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:50:40.369378",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

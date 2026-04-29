@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Julia Boland",
+    "title": "Team Leader",
+    "company": "The Corcoran Group",
+    "production_level": "Top Producer",
+    "specialty": "Manhattan Real Estate",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "New York City real estate market",
+    "First-time home buying process",
+    "Agent recruitment and team building",
+    "Importance of community involvement",
+    "Handling co-op transactions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Complexity of buying co-ops in NYC",
+      "solution_summary": "Understand building-specific policies and financial requirements beyond typical mortgage qualifications.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into the NYC real estate market as a new agent",
+      "solution_summary": "Join a team to leverage experience and build a network, focus on a specific geographic area.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client expectations in a competitive market",
+      "solution_summary": "Provide honest, strategic advice based on market conditions and client goals.",
+      "timestamp": "18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Julia shares insights on how to leverage team dynamics and market expertise to excel.",
+      "key_takeaway": "Focus on building a strong team and leveraging collective experience to gain market share."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn the importance of joining a team and specializing in a niche market.",
+      "key_takeaway": "Start as an assistant or join a team to gain experience and build a client base."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:30",
+      "end_timestamp": "21:15",
+      "quote": "Video, video, video, and when you're done, do more video.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of video marketing in real estate.",
+      "suggested_hook": "Why video is non-negotiable for real estate agents today."
+    },
+    {
+      "timestamp": "43:00",
+      "end_timestamp": "44:00",
+      "quote": "Givers get. When you focus on helping others, opportunities come your way.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the power of giving back to the community.",
+      "suggested_hook": "The secret to success in real estate? Giving back."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Leverage team experience in pitches",
+      "context": "New agents should use the team's track record to build credibility.",
+      "timestamp": "09:30"
+    },
+    {
+      "tactic": "Stay in touch with clients using personalized outreach",
+      "context": "Send market updates and personal notes to maintain relationships.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "Givers get. When you focus on helping others, opportunities come your way.",
+    "Video, video, video, and when you're done, do more video."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "CitySnap",
+      "context": "A new resource for NYC agents to access market data."
+    }
+  ],
+  "episode_summary": "Julia Boland shares her journey from fashion to real estate, emphasizing the importance of team dynamics, community involvement, and strategic client management. She provides insights into the complexities of the NYC market, particularly co-op transactions, and offers actionable advice for new agents looking to break into the industry.",
+  "_metadata": {
+    "source_file": "2023-07-21_item236_Julia-Boland",
+    "analyzed_at": "2026-01-29T17:41:11.461592",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

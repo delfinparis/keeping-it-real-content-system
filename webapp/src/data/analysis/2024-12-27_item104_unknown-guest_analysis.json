@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Mary Ann Gillespie",
+    "title": "CEO",
+    "company": "Red Apple Coaching",
+    "production_level": "Top female business coach in North America",
+    "specialty": "Real estate and leadership development",
+    "location": "Toronto"
+  },
+  "main_topics": [
+    "Importance of relationship-based business",
+    "Physical health and its impact on business",
+    "Trends in real estate for 2025",
+    "Building trust with clients",
+    "Using social media effectively"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Low consumer trust in real estate agents",
+      "solution_summary": "Focus on building strong, personal relationships with clients to increase trust.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Over-reliance on transactional business models",
+      "solution_summary": "Shift to a relationship-based model to improve net profit and client retention.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents not prioritizing physical health",
+      "solution_summary": "Encourage agents to focus on physical health to boost energy and business performance.",
+      "timestamp": "06:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how to transition from a transactional to a relationship-based business model.",
+      "key_takeaway": "Building strong relationships can lead to higher net profits and more sustainable business growth."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to improve client trust and engagement through personal connections.",
+      "key_takeaway": "Focus on personal touches and consistent communication to stand out in a competitive market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:00",
+      "end_timestamp": "08:00",
+      "quote": "Never say never. I was 300 pounds five years ago, and now I'm a world champion Iron Man athlete.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Inspires listeners with a story of personal transformation and resilience.",
+      "suggested_hook": "From 300 pounds to Iron Man champion: Mary Ann Gillespie's incredible journey."
+    },
+    {
+      "timestamp": "15:00",
+      "end_timestamp": "16:00",
+      "quote": "Trust is built by relationships. If you have a transactional-based business, you're not going to succeed.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional focus on transactions over relationships in real estate.",
+      "suggested_hook": "Why your transactional business model might be holding you back."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call your database four times a year.",
+      "context": "To maintain and build relationships with clients.",
+      "timestamp": "29:00"
+    },
+    {
+      "tactic": "Send personalized gifts based on social media activity.",
+      "context": "Use a VA to track client activities and send thoughtful gifts.",
+      "timestamp": "41:00"
+    }
+  ],
+  "quotable_insights": [
+    "Strong mind, strong body: Discipline in physical fitness translates to business success.",
+    "In a time where consumer trust is low, relationships need to be even higher."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Swim with the Sharks Without Being Eaten Alive",
+      "context": "Recommended for learning how to build strong business relationships."
+    }
+  ],
+  "episode_summary": "In this episode, Mary Ann Gillespie discusses the importance of shifting from a transactional to a relationship-based business model in real estate. She emphasizes the role of personal connections in building trust and improving net profits. Additionally, Mary Ann shares her personal journey of physical transformation, highlighting the impact of physical health on business success.",
+  "_metadata": {
+    "source_file": "2024-12-27_item104_unknown-guest",
+    "analyzed_at": "2026-01-30T11:09:25.900787",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

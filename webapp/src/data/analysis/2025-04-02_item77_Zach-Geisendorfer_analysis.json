@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Zach Geisendorfer",
+    "title": "Sales Manager and Partner",
+    "company": "Fam Realty Group",
+    "production_level": "Top 1% Producer",
+    "specialty": "Mega Open Houses",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Mega Open House Strategy",
+    "Lead Generation through Open Houses",
+    "Effective Follow-Up Techniques",
+    "Cold Calling for Real Estate",
+    "Agent Productivity Systems"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Open houses not generating enough leads",
+      "solution_summary": "Implement a mega open house strategy with extensive signage, neighbor outreach, and a structured follow-up plan.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Difficulty in converting open house visitors into clients",
+      "solution_summary": "Use a specific script to engage visitors, provide value first, and ask for a favor to ensure follow-up.",
+      "timestamp": "36:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient use of CRM and tech tools",
+      "solution_summary": "Utilize a CRM like Lofty for tracking leads and implement a structured follow-up system with 21 touches in 7 days.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn a structured approach to open houses that can quickly generate leads.",
+      "key_takeaway": "Start with a mega open house strategy to stand out and build your database quickly."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Agents looking to increase their production can adopt Zach's proven open house tactics.",
+      "key_takeaway": "Implementing a detailed open house and follow-up system can significantly boost your sales."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "18:00",
+      "end_timestamp": "19:00",
+      "quote": "The reason open houses don't work is because you're not hosting open houses; you're just hanging out in the house on a Saturday afternoon.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that open houses are ineffective.",
+      "suggested_hook": "Think open houses don't work? Think again!"
+    },
+    {
+      "timestamp": "36:00",
+      "end_timestamp": "37:00",
+      "quote": "I just asked one favor though. Can you meet me by the kitchen counter before you leave?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific script that agents can use immediately.",
+      "suggested_hook": "Here's the script that turns open house visitors into clients."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call neighbors around the open house to inform them and invite them.",
+      "context": "Start on Wednesday before a weekend open house.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Use a follow-up system with 21 touches in 7 days.",
+      "context": "After the open house to ensure engagement and conversion.",
+      "timestamp": "50:00"
+    }
+  ],
+  "quotable_insights": [
+    "The work works as long as you work the work.",
+    "An impressive agent is focused on selling the house, not just collecting leads."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Lofty CRM",
+      "context": "Used for managing leads and follow-up after open houses."
+    },
+    {
+      "type": "tool",
+      "name": "Fello",
+      "context": "For sending market reports to potential sellers."
+    }
+  ],
+  "episode_summary": "Zach Geisendorfer shares his mega open house strategy that turns a traditional open house into a lead-generating machine. By using extensive signage, engaging scripts, and a rigorous follow-up system, agents can significantly increase their lead conversion rates and boost their sales.",
+  "_metadata": {
+    "source_file": "2025-04-02_item77_Zach-Geisendorfer",
+    "analyzed_at": "2026-01-24T22:38:54.338517",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

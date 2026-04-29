@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Pieter Hanson",
+    "title": "Real Estate Agent",
+    "company": "Real Broker",
+    "production_level": "Experienced in both commercial and residential real estate",
+    "specialty": "Commercial and Residential Real Estate",
+    "location": "Quad Cities, Illinois and Iowa"
+  },
+  "main_topics": [
+    "Balancing commercial and residential real estate",
+    "Transitioning from part-time to full-time real estate",
+    "Importance of commitment and support network",
+    "Leveraging technology and digital marketing",
+    "Maintaining client relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a down market",
+      "solution_summary": "Focus on digital marketing and leveraging social media to stay top of mind.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Handling market downturns",
+      "solution_summary": "View downturns as opportunities to gain market share as others exit the industry.",
+      "timestamp": "21:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Staying connected with past clients",
+      "solution_summary": "Use personal touches like handwritten cards and regular check-ins to maintain relationships.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for agents looking to transition from part-time to full-time.",
+      "key_takeaway": "Commitment and leveraging your existing network are crucial for success."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into balancing multiple real estate sectors and increasing production.",
+      "key_takeaway": "Diversifying your real estate practice can lead to greater stability and success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:01",
+      "end_timestamp": "08:45",
+      "quote": "If I can survive in 2007 and 2008 going forward in real estate, I am going to be positioned perfectly to survive when times are good.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of resilience and viewing challenges as opportunities.",
+      "suggested_hook": "Why starting in a tough market can be your biggest advantage."
+    },
+    {
+      "timestamp": "16:01",
+      "end_timestamp": "16:45",
+      "quote": "Commitment is key. The more transactions I had, the less time I spent at the bar.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the direct impact of commitment on success.",
+      "suggested_hook": "How commitment can transform your real estate career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use handwritten cards to maintain client relationships.",
+      "context": "Send cards periodically to stay top of mind with past clients.",
+      "timestamp": "36:00"
+    },
+    {
+      "tactic": "Leverage social media for digital marketing.",
+      "context": "Create engaging content that provides value to your audience.",
+      "timestamp": "25:00"
+    }
+  ],
+  "quotable_insights": [
+    "Never worry about stuff you have no control over because it's not worth your sweat equity.",
+    "Live every moment like it was your last and take chances."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive CRM and marketing solution for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Pieter Hanson shares his journey of balancing commercial and residential real estate, emphasizing the importance of commitment and leveraging one's network. He discusses strategies for thriving in a down market, maintaining client relationships through personal touches, and the power of digital marketing. Pieter's insights offer valuable lessons for agents at various stages of their careers.",
+  "_metadata": {
+    "source_file": "2023-12-14_item195_Pieter-Hanson",
+    "analyzed_at": "2026-01-29T18:10:59.595474",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

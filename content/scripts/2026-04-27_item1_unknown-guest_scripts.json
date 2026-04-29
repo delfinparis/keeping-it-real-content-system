@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:00",
+      "end_timestamp": "00:05:30",
+      "quote": "The referral doesn't close the deal. Google does.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the traditional belief that referrals are enough to secure business.",
+      "suggested_hook": "Think referrals are enough? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think referrals are enough? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton dropped a bombshell on our latest episode: 'The referral doesn't close the deal. Google does.' You're counting on referrals, but clients are Googling you first. Frustrated when a referral doesn't convert? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim says, 'Your Google business profile is your digital handshake.' [ON-SCREEN: Google business profile = digital handshake] Most agents rely on word-of-mouth. Top producers optimize their online presence. [ON-SCREEN: Optimize your Google profile] Start by updating your profile, encouraging reviews, and using reputation management tools. [ON-SCREEN: Use reputation management tools] This isn't just theory—it's how agents are closing more deals.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can update your Google profile today and start seeing results immediately. [ON-SCREEN: Update today, see results] Tim's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you optimizing your Google profile — yes or no? Drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Referrals aren't enough. Optimize your Google profile to close more deals. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleProfile\", \"#AgentSuccess\", \"#DigitalMarketing\", \"#ReputationManagement\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Your Google business profile is your digital handshake.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:30",
+      "quote": "Incomplete profiles actually signal lower credibility to Google's algorithm.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This highlights the technical impact of incomplete profiles on search rankings.",
+      "suggested_hook": "Is your Google profile hurting your credibility?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your Google profile hurting your credibility?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton recently shared a surprising insight on our podcast. If you're a real estate agent with an incomplete Google profile, you might be unknowingly signaling lower credibility to Google's algorithm. Imagine potential clients searching for you and finding a half-finished profile. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim explained that incomplete profiles can actually harm your search rankings. [ON-SCREEN: Incomplete profiles = Lower credibility] Most agents overlook this, but top producers ensure their profiles are fully optimized. [ON-SCREEN: Top producers optimize profiles] This not only boosts visibility but also builds trust with potential clients.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start optimizing your profile today. [ON-SCREEN: Optimize today] This simple step can enhance your online presence and credibility. Tim's approach helped him close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Incomplete Google profiles can hurt your credibility. Are you fully optimized?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleProfile\", \"#AgentSuccess\", \"#DigitalPresence\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Incomplete profiles actually signal lower credibility to Google's algorithm.\"\n}\n```"
+  }
+]

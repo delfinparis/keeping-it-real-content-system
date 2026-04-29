@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ali Garced",
+    "title": "Real Estate Agent",
+    "company": "Kale Realty",
+    "production_level": "Six-figure earner",
+    "specialty": "Real estate checklists and systems",
+    "location": "Tucson, Arizona"
+  },
+  "main_topics": [
+    "Seller checklist and preparation",
+    "Importance of Google Business for lead generation",
+    "Handling listing appointments and client expectations",
+    "Creating a tiered pricing structure for listings",
+    "Using technology and tools like Trello and Calendly"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without paid ads",
+      "solution_summary": "Utilize a Google Business page to rank high in local searches and generate organic leads.",
+      "timestamp": "05:57"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Setting client expectations for communication",
+      "solution_summary": "Ask clients how often they expect to hear from you and set realistic boundaries for response times.",
+      "timestamp": "19:01"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing multiple client interactions efficiently",
+      "solution_summary": "Use Trello and Calendly to organize client information and automate appointment scheduling.",
+      "timestamp": "02:12"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides detailed checklists and systems to streamline operations and increase productivity.",
+      "key_takeaway": "Implement structured checklists and leverage digital tools to manage client interactions effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:57",
+      "end_timestamp": "06:20",
+      "quote": "If you do not have your Google Business page, you are missing out on the number one website in the world, which is free.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a free and effective tool for lead generation.",
+      "suggested_hook": "Are you using the most powerful free tool for real estate leads?"
+    },
+    {
+      "timestamp": "27:55",
+      "end_timestamp": "28:38",
+      "quote": "I now have a $3,000 cancellation fee...because we are professionals.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the norm of working without upfront security.",
+      "suggested_hook": "Why you should consider a cancellation fee in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a Google Business page for organic lead generation.",
+      "context": "Set up and verify your Google Business page to rank high in local searches.",
+      "timestamp": "05:57"
+    },
+    {
+      "tactic": "Implement a $3,000 cancellation fee for listings.",
+      "context": "Protect your upfront investment in marketing and staging by including a cancellation fee in your contract.",
+      "timestamp": "27:55"
+    }
+  ],
+  "quotable_insights": [
+    "The more you have in the pipeline, the less emotion you're going to have if you end up losing a listing.",
+    "Always try to be adding photos to your Google Business page; it's free and powerful."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Trello",
+      "context": "Used for organizing seller checklists and client information."
+    },
+    {
+      "type": "tool",
+      "name": "Calendly",
+      "context": "Automates appointment scheduling and gathers client information efficiently."
+    },
+    {
+      "type": "website",
+      "name": "Google Business",
+      "context": "Recommended for organic lead generation and local search ranking."
+    }
+  ],
+  "episode_summary": "In this episode, Ali Garced shares her comprehensive seller checklist and emphasizes the importance of using a Google Business page for organic lead generation. She discusses setting client expectations, creating a tiered pricing structure for listings, and leveraging tools like Trello and Calendly to streamline operations. Ali also highlights the significance of a cancellation fee to protect upfront investments in listings.",
+  "_metadata": {
+    "source_file": "2023-11-17_item203_Ali-Garced",
+    "analyzed_at": "2026-01-29T18:07:18.659935",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

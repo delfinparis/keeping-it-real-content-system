@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Real Estate Technology Analyst",
+    "company": "Luxury Presence",
+    "production_level": null,
+    "specialty": "Real Estate Technology and Content",
+    "location": "Michigan"
+  },
+  "main_topics": [
+    "Compass vs Zillow Lawsuit",
+    "Clear Cooperation Policy",
+    "Real Estate Market Transparency",
+    "Role of MLS and IDX Agreements",
+    "Future of Real Estate Listings"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Fragmentation of real estate listings and market transparency",
+      "solution_summary": "Discussed the potential for a national MLS controlled by the National Association of REALTORS to centralize listings and improve transparency.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses strategic industry shifts that could impact team operations and market positioning.",
+      "key_takeaway": "Understanding the implications of the Compass vs Zillow lawsuit can help team leaders navigate potential changes in listing practices and market transparency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "Compass says they're defending consumer choice. Well, you know, you can also interpret this to say Compass wants to wall off inventory to drive agent loyalty and buyer dependence.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the narrative presented by Compass and highlights the strategic business motives.",
+      "suggested_hook": "Is Compass really defending consumer choice, or is there more to the story?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Become the local expert in your specific community.",
+      "context": "Focus on knowing all the inventory and market dynamics in your area to provide unmatched service.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate agents were the original influencers because nobody knew their community better than they did."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Realtor.com",
+      "context": "Discussed as a potential platform for a national MLS to centralize real estate listings."
+    }
+  ],
+  "episode_summary": "This episode of Keeping It Real dives into the Compass vs Zillow lawsuit, exploring its implications for the real estate industry. Chris Linsell discusses the clear cooperation policy, the role of MLS and IDX agreements, and the potential for a national MLS to improve market transparency. The conversation emphasizes the importance of local expertise in navigating these industry shifts.",
+  "_metadata": {
+    "source_file": "2025-06-27_item54_Chris-Linsell",
+    "analyzed_at": "2026-01-29T19:31:14.339694",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

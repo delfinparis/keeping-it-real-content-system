@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Greg Pekarski",
+    "title": "Top Producer",
+    "company": "Unknown",
+    "production_level": "$220M annual producer",
+    "specialty": "Lead Generation",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Upcoming live webinar for real estate agents",
+    "Lead generation techniques from top producers",
+    "Social media video strategies for lead generation",
+    "Coaching and training for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating consistent leads",
+      "solution_summary": "Greg Pekarski shares lead generation secrets from his experience as a $220M producer.",
+      "timestamp": "03:06"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Utilizing video for brand awareness",
+      "solution_summary": "Kim Rettberg provides strategies for mastering social media video to generate leads.",
+      "timestamp": "04:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Identifying business opportunities and areas for improvement",
+      "solution_summary": "Brett Scott conducts a live coaching session to help agents identify and improve their business strategies.",
+      "timestamp": "05:50"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights from top producers and experts on how to elevate your real estate business.",
+      "key_takeaway": "Learn proven lead generation and video marketing strategies to become a top agent."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses training and coaching techniques that can be applied to teams.",
+      "key_takeaway": "Implement coaching strategies to identify and capitalize on business opportunities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "03:06",
+      "end_timestamp": "03:35",
+      "quote": "Greg Pekarski is going to be teaching you lead generation secrets from a $220 million annual producer.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights actionable insights from a top producer that can attract viewers interested in improving their lead generation.",
+      "suggested_hook": "Want to learn lead generation secrets from a $220M producer?"
+    },
+    {
+      "timestamp": "04:09",
+      "end_timestamp": "04:52",
+      "quote": "Kim Rettberg's session, Social Media Video Mastery, how to generate leads while you sleep.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers practical video marketing strategies that can be immediately implemented.",
+      "suggested_hook": "Discover how to generate leads while you sleep with video marketing!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video marketing to generate leads",
+      "context": "Apply Kim Rettberg's social media video strategies to attract leads effortlessly.",
+      "timestamp": "04:09"
+    },
+    {
+      "tactic": "Identify business opportunities using the agent wheel",
+      "context": "Participate in Brett Scott's live coaching session to pinpoint areas for improvement.",
+      "timestamp": "05:50"
+    }
+  ],
+  "quotable_insights": [
+    "Lead generation secrets from a $220 million annual producer.",
+    "Social media video mastery: how to generate leads while you sleep."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KeepingItRealWebinar.com",
+      "context": "Website to sign up for the live webinar sessions."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "This episode of Keeping It Real announces a live webinar event featuring top real estate experts sharing strategies on lead generation, video marketing, and business improvement. Listeners will gain insights from Greg Pekarski, a $220M producer, and learn video mastery from Kim Rettberg, along with coaching from Brett Scott to identify business opportunities.",
+  "_metadata": {
+    "source_file": "2024-12-11_item106_D.J.-Paris",
+    "analyzed_at": "2026-01-26T19:49:46.492012",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

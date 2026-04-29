@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Kiki Palmer",
+    "title": "Real Estate Agent",
+    "company": "Kale Realty",
+    "production_level": "$2.3M in closed sales this year",
+    "specialty": "Transitioning from dual career to full-time real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Transitioning from dual career to full-time real estate",
+    "Lead generation strategies",
+    "Time management and productivity",
+    "Building and managing a real estate database",
+    "Client care and follow-up systems"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Limited lead sources primarily from SOI and referrals",
+      "solution_summary": "Expand lead sources by leveraging virtual assistants for cold calling and developing drip campaigns.",
+      "timestamp": "18:51"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient database management",
+      "solution_summary": "Segment database into categories like buyers, sellers, and set up automated drip campaigns.",
+      "timestamp": "24:25"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Inconsistent adherence to time blocks",
+      "solution_summary": "Aim for 90% adherence to scheduled activities to avoid lost business opportunities.",
+      "timestamp": "21:18"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Kiki is transitioning from part-time to full-time, a common challenge for intermediates.",
+      "key_takeaway": "Focus on diversifying lead sources and improving database management for growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "39:09",
+      "end_timestamp": "39:24",
+      "quote": "I have a net worth goal, which is very different than an income goal.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of focusing on net worth rather than just income.",
+      "suggested_hook": "Are you setting the right financial goals in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a virtual assistant for cold calling",
+      "context": "To handle tasks you dislike and expand lead generation efforts.",
+      "timestamp": "19:13"
+    },
+    {
+      "tactic": "Implement a 'red light, green light' budget strategy",
+      "context": "Test new lead sources for three months and stop if no ROI is seen.",
+      "timestamp": "40:22"
+    }
+  ],
+  "quotable_insights": [
+    "Become your client's dream maker by understanding and fulfilling their dreams."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Ninja Selling",
+      "context": "Recommended for personal growth and improving sales skills."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "For agent websites and CRM to improve lead conversion."
+    }
+  ],
+  "episode_summary": "In this episode, Kiki Palmer shares her journey from a dual career to full-time real estate, highlighting the importance of diversifying lead sources and improving database management. Coach Brent Scott provides actionable insights on enhancing productivity and client care, offering strategies to help agents transition smoothly and grow their business effectively.",
+  "_metadata": {
+    "source_file": "2025-04-23_item73_The-Agent-Wheel",
+    "analyzed_at": "2026-01-24T20:04:04.896481",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video and Podcast Consultant",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents get clients and leads through video and podcast",
+    "location": null
+  },
+  "main_topics": [
+    "Merging personal and professional content",
+    "Using discomfort for growth",
+    "Engagement through personal stories",
+    "Content strategy for real estate agents",
+    "Social media presence"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents' social media feeds being too personal or too professional",
+      "solution_summary": "Merge personal and professional content to create a balanced feed that showcases both personal life and professional credibility.",
+      "timestamp": "04:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode is relevant because it provides strategies for enhancing social media presence to attract more clients.",
+      "key_takeaway": "Integrate personal stories with professional achievements to create engaging content that resonates with potential clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:13",
+      "end_timestamp": "08:47",
+      "quote": "If it's uncomfortable, it means your brain is growing.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement encourages agents to embrace discomfort as a growth opportunity, which is a powerful mindset shift.",
+      "suggested_hook": "Why feeling uncomfortable is the key to your growth in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Capture and share personal experiences that align with your professional message.",
+      "context": "Use personal stories that metaphorically connect to your business to engage your audience.",
+      "timestamp": "07:00"
+    }
+  ],
+  "quotable_insights": [
+    "You can turn your content into cash."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Apply Design",
+      "context": "Suggested for virtual staging solutions to enhance real estate listings."
+    }
+  ],
+  "episode_summary": "Kim Rittberg discusses the importance of merging personal and professional content for real estate agents to enhance their social media presence. She emphasizes using personal stories that align with professional goals to engage audiences and drive business growth. The episode provides actionable insights on content strategy and encourages agents to embrace discomfort as a catalyst for growth.",
+  "_metadata": {
+    "source_file": "2024-02-20_item182_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:19:38.925578",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

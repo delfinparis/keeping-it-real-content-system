@@ -1,0 +1,78 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video and Podcast Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents grow their leads, income, and credibility with video and podcasts",
+    "location": null
+  },
+  "main_topics": [
+    "Overcoming camera shyness",
+    "Using video for lead generation",
+    "Building personal brand through social media",
+    "Engaging with audience on social platforms",
+    "Practicing public speaking and presentation skills"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Camera shyness preventing agents from using video effectively",
+      "solution_summary": "Transition from 'supermodel mode' to 'teacher mode' and practice consistently to build confidence on camera.",
+      "timestamp": "03:39"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Inconsistent video content leading to poor lead engagement",
+      "solution_summary": "Create a strategic plan for consistent video content to engage dormant leads and attract new clients.",
+      "timestamp": "04:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with confidence on camera and need guidance to effectively use video for lead generation.",
+      "key_takeaway": "Start small with Instagram Stories and gradually build your presence by consistently practicing and posting video content."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:42",
+      "end_timestamp": "07:10",
+      "quote": "Hiding from the camera means hiding from clients.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement succinctly captures the importance of overcoming camera shyness for business growth.",
+      "suggested_hook": "Are you hiding from your clients by avoiding the camera?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Instagram Stories to practice being on camera",
+      "context": "Start by sharing casual, daily updates to engage your audience and build confidence.",
+      "timestamp": "12:04"
+    },
+    {
+      "tactic": "Engage with your audience using Instagram poll stickers",
+      "context": "Use polls to interact with viewers and understand who is engaging with your content.",
+      "timestamp": "13:20"
+    }
+  ],
+  "quotable_insights": [
+    "You are your unique special sauce.",
+    "The more you show up, the more you can be competitive."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "kimritberg.com",
+      "context": "Offers free downloads and information on a video boot camp to help agents improve their video content."
+    }
+  ],
+  "episode_summary": "Kim Rittberg shares her expertise on overcoming camera shyness and leveraging video to grow a real estate business. She emphasizes the importance of consistent video content and engaging with audiences on social media to generate leads and build a personal brand. Practical tips are provided to help agents transition from being camera shy to camera confident.",
+  "_metadata": {
+    "source_file": "2023-04-07_item259_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T20:56:29.361787",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

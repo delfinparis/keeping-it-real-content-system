@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Kelly Carlson",
+    "title": "Award Winning Broker",
+    "company": "At Properties, Christie's International Real Estate",
+    "production_level": "National Association of REALTORS 30 under 30",
+    "specialty": "Interior design, historical homes, DIY updates",
+    "location": "Western Springs, Chicago"
+  },
+  "main_topics": [
+    "Transition from consulting to real estate",
+    "Building a real estate business in your 20s",
+    "Effective use of social media for real estate",
+    "Navigating a slower real estate market",
+    "Providing value through unique services"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to build a client base as a new agent",
+      "solution_summary": "Leverage open houses and personal connections to build a referral-based business.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating engaging content on social media",
+      "solution_summary": "Focus on storytelling and sharing personal renovation projects instead of just listed/sold posts.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to a hyper-local market",
+      "solution_summary": "Join a brokerage with strong local presence and focus on off-market opportunities.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to effectively start their career in real estate.",
+      "key_takeaway": "Focus on building relationships and providing value to clients through unique services."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Agents aiming for high production can benefit from Kelly's strategic approach to business growth.",
+      "key_takeaway": "Leverage personal strengths and market knowledge to differentiate yourself in the industry."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "29:00",
+      "quote": "I offer suburb tours to help clients decide where to live before they even start looking at houses.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a unique service that adds value and differentiates the agent.",
+      "suggested_hook": "Struggling to decide where to live? Here's a unique service that could change the game."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Offer suburb tours to potential buyers.",
+      "context": "Help clients decide on a location before house hunting.",
+      "timestamp": "28:00"
+    },
+    {
+      "tactic": "Use CRM to organize and prioritize client interactions.",
+      "context": "Set reminders for regular follow-ups with different client categories.",
+      "timestamp": "38:00"
+    }
+  ],
+  "quotable_insights": [
+    "Don't be a secret agent; make sure your sphere knows you're in real estate.",
+    "It's not about being on every platform; it's about being where your audience is."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "A tool for lead generation and CRM management."
+    }
+  ],
+  "episode_summary": "In this episode, Kelly Carlson shares her journey from consulting to becoming a top-producing real estate agent in her 20s. She discusses the importance of leveraging open houses, building a referral-based business, and using social media effectively. Kelly also introduces her unique suburb tours, providing exceptional value to clients by helping them choose the right area before house hunting.",
+  "_metadata": {
+    "source_file": "2023-12-20_item192_Kelly-Carlson",
+    "analyzed_at": "2026-01-26T22:18:56.994868",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

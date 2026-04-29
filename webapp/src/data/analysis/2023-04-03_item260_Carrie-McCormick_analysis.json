@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Real Estate Group with @properties",
+    "production_level": "Top 1% producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, developers",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Inventory challenges in the real estate market",
+    "Creative strategies for generating listings",
+    "Impact of interest rates on buyer and seller decisions",
+    "Networking and relationship-building for real estate success",
+    "Role of real estate agents as consultants and coaches"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Lack of inventory in the real estate market",
+      "solution_summary": "Identify rental properties with landlords who may want to sell and connect with agents in other cities to find potential sellers.",
+      "timestamp": "04:41"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High interest rates deterring buyers and sellers",
+      "solution_summary": "Advise clients on the long-term benefits of moving despite current rates and focus on their personal 'why' for moving.",
+      "timestamp": "15:57"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for increasing listings and market share.",
+      "key_takeaway": "Get creative with finding inventory and focus on building relationships with other agents and property owners."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on overcoming common market challenges like inventory shortages and interest rate concerns.",
+      "key_takeaway": "Use networking and creative thinking to find new opportunities in a tight market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:41",
+      "end_timestamp": "06:11",
+      "quote": "Find those landlords. Maybe they want to sell. Maybe they want to do a 1031 exchange.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic for generating listings in a low-inventory market.",
+      "suggested_hook": "Struggling to find listings in a tight market? Here's a creative strategy you might not have considered."
+    },
+    {
+      "timestamp": "15:57",
+      "end_timestamp": "17:02",
+      "quote": "A house is so important of where you live. Don't stop your life just because the rate's at 6%.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the focus on interest rates and emphasizes the importance of personal needs.",
+      "suggested_hook": "Are interest rates holding you back? Here's why they shouldn't."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Identify landlords of rental properties as potential sellers.",
+      "context": "Use MLS and tax records to find landlords who may be interested in selling.",
+      "timestamp": "04:41"
+    },
+    {
+      "tactic": "Network with agents in other cities to find clients with properties in your area.",
+      "context": "Connect with agents in popular relocation destinations to uncover potential listings.",
+      "timestamp": "09:51"
+    }
+  ],
+  "quotable_insights": [
+    "Listening to people is one of my biggest strengths in the business.",
+    "Don't stop your life just because the rate's at 6%."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Advertised as a solution for lead generation and conversion."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares creative strategies for overcoming inventory challenges in the real estate market. She emphasizes the importance of networking and relationship-building, and offers insights into how agents can position themselves as consultants and coaches to better serve their clients. The discussion also covers the impact of interest rates on buyer and seller decisions, encouraging agents to focus on clients' personal motivations for moving.",
+  "_metadata": {
+    "source_file": "2023-04-03_item260_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T20:56:07.464256",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

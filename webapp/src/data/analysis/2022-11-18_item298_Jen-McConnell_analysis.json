@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Jen McConnell",
+    "title": "Broker in Charge",
+    "company": "McConnell Real Estate Partners",
+    "production_level": "Top 2% of agents in Charleston",
+    "specialty": "Luxury real estate and custom home building",
+    "location": "Charleston, South Carolina"
+  },
+  "main_topics": [
+    "Systems and processes in real estate",
+    "Transition from buying leads to referral-based business",
+    "Balancing work and personal life",
+    "Community involvement and charitable work",
+    "Marketing and client engagement strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Running on fumes due to lack of systems and leverage",
+      "solution_summary": "Identify missing systems or personnel and focus on top 20% activities.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Dependence on purchased leads",
+      "solution_summary": "Shift focus to client experience and referral-based business.",
+      "timestamp": "29:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Finding motivation and purpose in real estate",
+      "solution_summary": "Align business goals with personal values and charitable causes.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights on transitioning from transactional to relational business.",
+      "key_takeaway": "Focus on building systems and leveraging your strengths to enhance client experience."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jen shares her journey of scaling her business through strategic changes.",
+      "key_takeaway": "Invest in systems and community involvement to drive sustainable growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:10",
+      "end_timestamp": "15:00",
+      "quote": "If you're really stressed and running on fumes, there's either leverage or a system missing.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a concise insight that highlights the importance of systems in business.",
+      "suggested_hook": "Feeling overwhelmed in your real estate business? Here's what might be missing."
+    },
+    {
+      "timestamp": "25:40",
+      "end_timestamp": "26:30",
+      "quote": "We realized we needed a Northern Star, and for us, that's giving back to pediatric cancer research.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It connects personal values with business goals, inspiring others to find their purpose.",
+      "suggested_hook": "Discover how aligning your business with a cause can transform your motivation."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a branded moving truck for client use and community events.",
+      "context": "Enhance client experience and increase brand visibility.",
+      "timestamp": "31:00"
+    },
+    {
+      "tactic": "Segment clients into pods based on life stages for targeted events.",
+      "context": "Create personalized client engagement strategies.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on your top 20% activities and leverage the rest.",
+    "Align your business with a cause bigger than yourself to find true motivation."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Profit First",
+      "context": "Recommended for financial management and sustainable business growth."
+    },
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "CRM used for managing client relationships and automating follow-ups."
+    }
+  ],
+  "episode_summary": "In this episode, Jen McConnell shares her journey from a new agent to a top producer by focusing on systems and client experience. She discusses the importance of aligning business with personal values, particularly through her foundation supporting pediatric cancer research. Jen offers practical advice on leveraging social media, segmenting clients, and using innovative marketing strategies to build a referral-based business.",
+  "_metadata": {
+    "source_file": "2022-11-18_item298_Jen-McConnell",
+    "analyzed_at": "2026-01-29T16:32:34.102482",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

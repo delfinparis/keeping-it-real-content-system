@@ -1,0 +1,106 @@
+{
+  "guest_info": {
+    "name": "Shawn Kunkler",
+    "title": "Top Producing Agent",
+    "company": "Compass",
+    "production_level": "Top Producer",
+    "specialty": "Real Estate Sales",
+    "location": "San Francisco, Bay Area"
+  },
+  "main_topics": [
+    "Avoiding common traps in real estate",
+    "The importance of having a business plan",
+    "Consistent follow-up and lead conversion",
+    "Staying focused and avoiding distractions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents lacking a structured business plan",
+      "solution_summary": "Develop a concise one-page business plan and review it weekly to ensure alignment with goals.",
+      "timestamp": "28:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Inconsistent follow-up leading to lost opportunities",
+      "solution_summary": "Implement a system for consistent follow-up, aiming for 7-9 touches per lead to increase conversion rates.",
+      "timestamp": "40:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Getting distracted by new strategies and losing focus",
+      "solution_summary": "Use 'blinders' to stay focused on proven strategies and avoid the temptation of constantly changing tactics.",
+      "timestamp": "49:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into the habits and systems top producers use to maintain success.",
+      "key_takeaway": "Consistency in follow-up and having a clear business plan are crucial for sustained success."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on how to break out of a plateau by refining systems and focusing efforts.",
+      "key_takeaway": "Focus on improving your business by 1% each day through disciplined habits and structured plans."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "29:00",
+      "quote": "If you have no plan, that is your plan.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a powerful statement that highlights the importance of having a structured approach in business.",
+      "suggested_hook": "Are you operating without a plan? Here's why that's a plan for failure."
+    },
+    {
+      "timestamp": "40:00",
+      "end_timestamp": "41:00",
+      "quote": "Marketing statistically requires 7-9 touches before engagement.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic emphasizes the need for persistent follow-up in lead conversion.",
+      "suggested_hook": "Think one follow-up is enough? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop a one-page business plan",
+      "context": "To maintain focus and direction in your real estate business.",
+      "timestamp": "28:00"
+    },
+    {
+      "tactic": "Implement a follow-up system with 7-9 touches",
+      "context": "To increase lead conversion rates and maintain a full pipeline.",
+      "timestamp": "40:00"
+    },
+    {
+      "tactic": "Use 'blinders' to avoid distractions",
+      "context": "To stay focused on your primary goals and avoid chasing every new trend.",
+      "timestamp": "49:00"
+    }
+  ],
+  "quotable_insights": [
+    "Surround yourself with highly successful people and ask them what they specifically did at that specific threshold.",
+    "Consider the source when receiving advice; not all advice is created equal."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents looking to convert leads and manage client relationships effectively."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for real estate recruiters to identify agents looking to move brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Shawn Kunkler shares insights on avoiding common traps in real estate by having a structured business plan, consistent follow-up systems, and maintaining focus amidst distractions. He emphasizes the importance of learning from top producers and consistently improving by 1% each day to achieve long-term success.",
+  "_metadata": {
+    "source_file": "2025-05-15_item68_Shawn-Kunkler",
+    "analyzed_at": "2026-01-29T19:22:57.696767",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

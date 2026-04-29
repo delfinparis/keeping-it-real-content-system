@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Debbie DeGrote",
+    "title": "Founder and CEO",
+    "company": "Forward Coaching",
+    "production_level": "Top 1% coach",
+    "specialty": "Custom high-level coaching",
+    "location": "North America"
+  },
+  "main_topics": [
+    "Custom coaching approach",
+    "Prospecting and lead generation",
+    "Navigating the NAR settlement",
+    "Importance of community involvement",
+    "Role of experience in coaching"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents avoiding prospecting",
+      "solution_summary": "Identify what you do well and find gaps to improve; add more lead generation strategies.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Affording a coach",
+      "solution_summary": "Consider it a business investment and explore free resources until you can afford coaching.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adjusting to NAR settlement changes",
+      "solution_summary": "Understand commission options and communicate them clearly to clients.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to identify gaps in current practices and improve.",
+      "key_takeaway": "Focus on what you do well, identify gaps, and expand your lead generation strategies."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses the importance of custom coaching and prospecting.",
+      "key_takeaway": "Invest in a coach to help you reach the top 1% by developing personalized strategies."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Prospecting solves all problems.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It encapsulates the importance of consistent prospecting in real estate success.",
+      "suggested_hook": "Why prospecting might be the solution to all your real estate challenges."
+    },
+    {
+      "timestamp": "21:00",
+      "end_timestamp": "22:00",
+      "quote": "Most top listing agents tell me they're actually earning more now.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the belief that the NAR settlement negatively impacted earnings.",
+      "suggested_hook": "How agents are thriving post-NAR settlement."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use open houses as a primary lead generation tool.",
+      "context": "For agents starting fresh or looking to increase face-to-face interactions.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Identify and fill gaps in your current lead generation strategies.",
+      "context": "Analyze what you do well and where you can improve.",
+      "timestamp": "17:00"
+    }
+  ],
+  "quotable_insights": [
+    "Prospecting solves all problems.",
+    "Everyone fears prospecting until your brain gets used to it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Negotiations Course",
+      "context": "Offered for free to the audience as a valuable resource."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for lead generation and CRM."
+    }
+  ],
+  "episode_summary": "Debbie DeGrote discusses the importance of custom coaching and consistent prospecting to achieve success in real estate. She offers insights into navigating industry changes like the NAR settlement and emphasizes the value of community involvement. The episode provides actionable strategies for agents at all levels to identify and fill gaps in their business practices.",
+  "_metadata": {
+    "source_file": "2026-03-31_item10_Debbie-De-Grote",
+    "analyzed_at": "2026-04-29T02:47:59.468227",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

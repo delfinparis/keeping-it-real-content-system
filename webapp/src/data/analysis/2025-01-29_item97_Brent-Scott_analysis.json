@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Brent Scott",
+    "title": "National Coach and Trainer",
+    "company": "The Locker Room",
+    "production_level": "N/A",
+    "specialty": "Real Estate Coaching",
+    "location": "Nationwide"
+  },
+  "main_topics": [
+    "Real Estate Coaching",
+    "Lead Generation",
+    "Time Management",
+    "Referral Systems",
+    "Personal Growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of leverage in lead generation efforts",
+      "solution_summary": "Focus on creating a systematized approach with consistent scheduling and multiple lead sources.",
+      "timestamp": "16:15"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Overworking beyond scheduled hours",
+      "solution_summary": "Stick to a well-organized calendar with clear boundaries for work and personal time.",
+      "timestamp": "19:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Ineffective referral system",
+      "solution_summary": "Develop a structured referral system with scheduled follow-ups and clear asks.",
+      "timestamp": "21:15"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Lack of net worth tracking",
+      "solution_summary": "Implement a system for regular net worth evaluation and financial goal setting.",
+      "timestamp": "36:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Nick Harris shares his journey to becoming a top producer with actionable insights.",
+      "key_takeaway": "Focus on systematizing lead generation and referrals to scale your business."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides a framework for evaluating and improving business operations.",
+      "key_takeaway": "Regularly assess your business using the agent wheel to identify growth opportunities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:15",
+      "end_timestamp": "17:00",
+      "quote": "Right now, my schedule consists of a minimum of two hours specifically set towards lead generation.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a disciplined approach to lead generation that others can emulate.",
+      "suggested_hook": "Want to boost your real estate sales? Here's how top agents schedule their lead generation."
+    },
+    {
+      "timestamp": "21:15",
+      "end_timestamp": "22:00",
+      "quote": "I get a lot of natural or organic referrals, but there's no outbound action towards that.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the need for proactive referral systems.",
+      "suggested_hook": "Are you missing out on referrals? Here's a simple shift to increase them."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Schedule consistent lead generation time",
+      "context": "Allocate specific hours daily for lead generation activities.",
+      "timestamp": "16:15"
+    },
+    {
+      "tactic": "Implement a structured referral follow-up system",
+      "context": "Create a schedule for reaching out to past clients and asking for referrals.",
+      "timestamp": "21:15"
+    }
+  ],
+  "quotable_insights": [
+    "Success leaves clues. If you want to be successful, look at what successful people are doing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The 12 Week Year",
+      "context": "Recommended for chunking goals into 90-day increments for better focus and results."
+    },
+    {
+      "type": "book",
+      "name": "The Miracle Morning",
+      "context": "Suggested for developing a morning routine that enhances personal growth and productivity."
+    }
+  ],
+  "episode_summary": "In this episode, Brent Scott coaches top agent Nick Harris through the 'agent wheel' process, identifying key areas for business growth. The discussion focuses on systematizing lead generation, improving referral systems, and maintaining work-life balance, offering actionable insights for real estate professionals at all levels.",
+  "_metadata": {
+    "source_file": "2025-01-29_item97_Brent-Scott",
+    "analyzed_at": "2026-01-29T19:06:31.839069",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

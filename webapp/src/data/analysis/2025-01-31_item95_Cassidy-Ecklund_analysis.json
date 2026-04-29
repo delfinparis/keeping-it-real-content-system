@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Cassidy Ecklund",
+    "title": "Real Estate Agent",
+    "company": "RE/MAX, New Horizons Realty",
+    "production_level": "Top 1%",
+    "specialty": "Leveraging title knowledge in real estate",
+    "location": "Central and Northern Wisconsin"
+  },
+  "main_topics": [
+    "Transitioning from title work to real estate",
+    "Lead generation through local businesses",
+    "Understanding title processes to enhance client service",
+    "Building relationships with lenders and title companies",
+    "Strategies for increasing sales in a small market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a small market",
+      "solution_summary": "Utilize local business partnerships and creative marketing strategies like themed photo shoots.",
+      "timestamp": "14:47"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting Facebook interactions into clients",
+      "solution_summary": "Engage with potential clients by offering access to a broader range of properties.",
+      "timestamp": "15:59"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating title complexities in transactions",
+      "solution_summary": "Use prior title experience to foresee potential issues and guide clients smoothly through the process.",
+      "timestamp": "23:47"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Cassidy's journey from title work to successful real estate agent offers a roadmap for new agents.",
+      "key_takeaway": "Leverage existing industry knowledge and relationships to build a successful real estate career."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Cassidy's rapid success in a small market demonstrates effective strategies for increasing sales.",
+      "key_takeaway": "Innovative marketing and deep industry knowledge can significantly boost sales performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:18",
+      "end_timestamp": "11:01",
+      "quote": "I can apply this knowledge to become a REALTOR because now I know things that most REALTORS don't know.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the advantage of leveraging unique industry knowledge.",
+      "suggested_hook": "Discover how insider knowledge can set you apart in real estate."
+    },
+    {
+      "timestamp": "27:23",
+      "end_timestamp": "28:01",
+      "quote": "I'm going to guide you through every step... you're not going to be surprised by anything at the last moment.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the value of thorough client service.",
+      "suggested_hook": "How to ensure your clients feel secure and informed throughout the transaction."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Partner with local businesses for lead generation.",
+      "context": "Leave business cards and small gifts at local shops to increase visibility.",
+      "timestamp": "18:19"
+    },
+    {
+      "tactic": "Use Facebook for client engagement.",
+      "context": "Post listings and interact with potential buyers to convert interest into sales.",
+      "timestamp": "15:59"
+    },
+    {
+      "tactic": "Anticipate and address potential transaction issues.",
+      "context": "Use title knowledge to foresee and mitigate problems before they arise.",
+      "timestamp": "23:47"
+    }
+  ],
+  "quotable_insights": [
+    "Treat everybody like they're your grandma; keep in touch and stay in the back of their mind.",
+    "Think out of the box and try to find things that most agents don't typically do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Cassidy Ecklund shares her journey from the title industry to becoming a top-performing real estate agent. She discusses leveraging her title knowledge to anticipate transaction issues and enhance client service. Cassidy also reveals innovative lead generation strategies, including partnering with local businesses and utilizing Facebook for client engagement, offering valuable insights for agents in small markets.",
+  "_metadata": {
+    "source_file": "2025-01-31_item95_Cassidy-Ecklund",
+    "analyzed_at": "2026-01-29T19:08:29.771400",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

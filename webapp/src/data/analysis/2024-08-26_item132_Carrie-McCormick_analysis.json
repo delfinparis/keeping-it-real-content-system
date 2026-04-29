@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Real Estate Group at Properties Christie's International",
+    "production_level": "Top 1% Producer",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Adapting to industry changes",
+    "Strengthening personal brand",
+    "New commission models",
+    "Role-playing and collaboration",
+    "Market inventory and interest rates"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Need to strengthen personal brand as a buyer's broker",
+      "solution_summary": "Focus on content marketing, social media, and local events to position yourself as a trusted expert.",
+      "timestamp": "05:37"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in commission structures post-NAR settlement",
+      "solution_summary": "Prepare buyer presentations, practice different commission models, and explain the value of your services.",
+      "timestamp": "09:47"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Communicating value to clients amidst scrutiny on commissions",
+      "solution_summary": "Develop detailed buyer packets and showcase the behind-the-scenes work involved in transactions.",
+      "timestamp": "08:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for strengthening personal brand and adapting to industry changes.",
+      "key_takeaway": "Adapt to changes by enhancing your personal brand and preparing for new commission models."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:01",
+      "end_timestamp": "08:45",
+      "quote": "Put a packet together of what a buy side transaction looks like and all the paperwork that goes on in our background.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable tactic for agents to differentiate themselves.",
+      "suggested_hook": "Want to stand out as a buyer's agent? Here's a tactic you can implement today."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Develop a comprehensive buyer packet",
+      "context": "Use it during buyer presentations to showcase the value and work involved in transactions.",
+      "timestamp": "08:01"
+    },
+    {
+      "tactic": "Role-play different commission scenarios",
+      "context": "Practice with peers to prepare for various client questions and commission models.",
+      "timestamp": "07:12"
+    }
+  ],
+  "quotable_insights": [
+    "Resistance to change doesn't change reality."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM."
+    },
+    {
+      "type": "course",
+      "name": "Beyond the Method by Michelle Burman",
+      "context": "Teaches Instagram strategies for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses adapting to industry changes, particularly the NAR settlement's impact on commission structures. She emphasizes the importance of strengthening personal branding and preparing comprehensive buyer presentations. The episode offers actionable tactics like developing detailed buyer packets and role-playing commission scenarios to better communicate value to clients.",
+  "_metadata": {
+    "source_file": "2024-08-26_item132_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T19:34:19.150775",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

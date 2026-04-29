@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Julia Stauffer",
+    "title": "Award-winning Agent",
+    "company": "McDonald Realty",
+    "production_level": "Top Producer",
+    "specialty": "Building connections and relationships",
+    "location": "Vancouver, British Columbia, Canada"
+  },
+  "main_topics": [
+    "Transitioning to real estate as a second career",
+    "Building a business through referrals",
+    "The importance of personal branding",
+    "Utilizing social media for real estate",
+    "Navigating industry changes and regulations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding clients as a new agent in a saturated market",
+      "solution_summary": "Focus on building relationships and leveraging referrals from existing connections.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a strong personal brand",
+      "solution_summary": "Create a consistent and authentic look and feel for your brand, leveraging personal connections for initial branding support.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining motivation and energy",
+      "solution_summary": "Engage in regular physical activity and maintain a structured routine to keep energy levels high.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on building a successful real estate career later in life.",
+      "key_takeaway": "Focus on relationship-building and personal branding to grow your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Transitioning at 50 is a difficult time to use your sphere because most people that you know are already in their forever home.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the unique challenges and opportunities of starting a real estate career later in life.",
+      "suggested_hook": "Starting a real estate career at 50? Here's what you need to know."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Leverage personal connections for referrals",
+      "context": "Use your existing network to build initial client base, especially when starting later in life.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Utilize social media for brand building",
+      "context": "Engage in platforms like Instagram and LinkedIn to stay top of mind and establish credibility.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you want to double your income, double your leads."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM for real estate agents."
+    },
+    {
+      "type": "course",
+      "name": "Beyond the Method",
+      "context": "Teaches how to prospect using Instagram effectively."
+    }
+  ],
+  "episode_summary": "Julia Stauffer shares her journey of transitioning into real estate at 50, emphasizing the importance of building relationships and a strong personal brand. She discusses leveraging social media and referrals to grow her business and offers insights into maintaining motivation and energy through structured routines and physical activity.",
+  "_metadata": {
+    "source_file": "2024-09-13_item128_Julia-Stauffer",
+    "analyzed_at": "2026-01-29T18:47:40.603030",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "guest_info": {
+    "name": "Eirik Davy Gislason",
+    "title": "Master Certified Negotiation Expert",
+    "company": "Brown Harris Stevens",
+    "production_level": "Top 1% producer",
+    "specialty": "Collaborative negotiation, value proposition, persuasion",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Importance of negotiation skills",
+    "Collaborative negotiation strategies",
+    "Value proposition development",
+    "Coaching and mentorship in real estate",
+    "Adapting to market challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Agents not effectively negotiating deals",
+      "solution_summary": "Develop skills in collaborative negotiation to understand the other side's needs and create win-win scenarios.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling demotivated in a tough market",
+      "solution_summary": "Focus on skill development and doing more of what you love to stay engaged and motivated.",
+      "timestamp": "22:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to improve negotiation skills and increase deal success rates.",
+      "key_takeaway": "Understanding and adapting to the client's decision-making style can significantly enhance negotiation outcomes."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on how to coach team members in negotiation and value proposition.",
+      "key_takeaway": "Leverage team strengths and focus on skill-based training to navigate market challenges."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:20",
+      "end_timestamp": "20:10",
+      "quote": "If you can identify what the other side wants and needs, you can actually grow a bigger pie.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional view of negotiation as a zero-sum game.",
+      "suggested_hook": "Want to win more deals? Stop thinking of negotiation as a battle."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Tailor your value proposition to the decision maker's style.",
+      "context": "When preparing for a listing or buyer presentation.",
+      "timestamp": "33:00"
+    },
+    {
+      "tactic": "Role-play negotiation scenarios to improve real-time decision-making.",
+      "context": "Practice with a partner to prepare for client interactions.",
+      "timestamp": "47:00"
+    }
+  ],
+  "quotable_insights": [
+    "Negotiation skills are more important to our clients than marketing or market analysis."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Certified Negotiation Expert (CNE)",
+      "context": "Recommended for agents to improve negotiation skills and differentiate themselves in the market."
+    },
+    {
+      "type": "book",
+      "name": "Getting to Yes",
+      "context": "Referenced for its collaborative negotiation strategies."
+    }
+  ],
+  "episode_summary": "In this episode, Eirik Davy Gislason discusses the critical importance of negotiation skills in real estate, emphasizing collaborative strategies and value proposition development. He shares insights on how agents can adapt to market challenges by focusing on skill enhancement and doing more of what they love. The episode offers actionable tactics for improving negotiation outcomes and maintaining motivation in a tough market.",
+  "_metadata": {
+    "source_file": "2023-07-28_item232_Eirik-Gislason",
+    "analyzed_at": "2026-01-29T17:44:15.623070",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

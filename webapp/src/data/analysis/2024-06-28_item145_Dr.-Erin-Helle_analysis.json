@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Dr. Erin Helle",
+    "title": "Host of Grow With Me segment",
+    "company": "Not mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Real estate financing",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Seller Financing",
+    "Loan Assumptions",
+    "Importance of Lean Positions",
+    "Educating Buyers and Sellers",
+    "Mortgage Market Conditions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Understanding and managing lean positions in seller financing",
+      "solution_summary": "Ensure the seller's loan is in the first lean position to protect their financial interests.",
+      "timestamp": "06:14"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "High mortgage rates affecting buyer interest",
+      "solution_summary": "Utilize assumable mortgages to offer buyers lower interest rates than current market conditions.",
+      "timestamp": "12:36"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into advanced financing options that can differentiate an agent in a competitive market.",
+      "key_takeaway": "Mastering seller financing and loan assumptions can expand your client base and close deals in high-interest environments."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:52",
+      "end_timestamp": "08:40",
+      "quote": "Seller financing is basically when the seller of the property provides financing to the buyer, so they basically become the bank.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, concise explanation of seller financing, a complex topic.",
+      "suggested_hook": "Ever thought about becoming the bank in your real estate deals?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Educate buyers about assumable mortgages to leverage lower interest rates.",
+      "context": "When mortgage rates are high, this can be a compelling option for buyers.",
+      "timestamp": "16:44"
+    }
+  ],
+  "quotable_insights": [
+    "Lean positions matter, and if I'm not taking first lean position, I'm not selling this property to this buyer."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Amortization Calculator",
+      "context": "Used to help buyers and sellers understand monthly payments in seller financing."
+    }
+  ],
+  "episode_summary": "In this episode, Dr. Erin Helle discusses the intricacies of seller financing and loan assumptions, emphasizing the importance of lean positions and how these financing options can be leveraged in a high-interest market. She provides actionable insights for REALTORS to educate their clients, thereby expanding their business opportunities and closing more deals.",
+  "_metadata": {
+    "source_file": "2024-06-28_item145_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-26T19:28:23.859928",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

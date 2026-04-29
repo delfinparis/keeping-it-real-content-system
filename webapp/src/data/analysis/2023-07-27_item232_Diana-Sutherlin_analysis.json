@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Diana Sutherlin",
+    "title": "Real Estate Agent",
+    "company": "Sutherlin Group",
+    "production_level": "Top 1% producer",
+    "specialty": "New construction and waterfront properties",
+    "location": "Jersey City, Hoboken, and Gold Coast, New Jersey"
+  },
+  "main_topics": [
+    "Building deep client connections",
+    "Transitioning from sales training to real estate",
+    "Working with developers",
+    "Navigating market challenges",
+    "The importance of authenticity in sales"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Understanding client motivations and fears",
+      "solution_summary": "Focus on listening and asking the right questions to understand their motivations and fears.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Handling high interest rates and low inventory",
+      "solution_summary": "Collaborate with loan officers for creative financing solutions like 2-1 buy downs.",
+      "timestamp": "49:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Diana shares her journey from sales training to becoming a top producer, offering insights into building a successful real estate career.",
+      "key_takeaway": "Authenticity and deep client connections are crucial for long-term success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Diana discusses team dynamics and the importance of training agents to focus on client needs.",
+      "key_takeaway": "Invest in your team's ability to listen and connect with clients to drive success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:05",
+      "end_timestamp": "11:00",
+      "quote": "I studied an acting technique that forces you to focus on the other person, to listen to the other person, to react to them, hyper-focused.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of listening in sales, a skill often overlooked.",
+      "suggested_hook": "Want to know the secret to connecting with clients? It's all about listening."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Conduct open houses as mini buyer consultations.",
+      "context": "Use open houses to engage visitors by asking questions and understanding their needs.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Leverage your team for knowledge gaps.",
+      "context": "When unsure, consult with your team to provide clients with accurate and complete information.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "People want to work with who they connect with. You don't have to sit there and go, I sold X amount last year. That's not what does it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "Diana Sutherlin shares her journey from sales training to becoming a top 1% real estate producer, emphasizing the importance of deep client connections and authenticity. She offers insights into working with developers, navigating market challenges, and the critical role of listening in sales. Her approach combines sales skills with a passion for design, making her a standout in the New Jersey real estate market.",
+  "_metadata": {
+    "source_file": "2023-07-27_item232_Diana-Sutherlin",
+    "analyzed_at": "2026-01-26T21:12:04.308758",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Erica Campos",
+    "title": "REALTOR",
+    "company": "Coldwell Banker",
+    "production_level": "Closed 4 transactions in first 6 months",
+    "specialty": "New agent success, education-focused",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Transition from insurance to real estate",
+    "Strategies for new agents",
+    "Importance of continuous education",
+    "Building a strong sphere of influence",
+    "Effective use of open houses"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to generate leads as a new agent",
+      "solution_summary": "Utilize open houses and leverage a strong sphere of influence by consistently communicating your new role as a REALTOR.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-transaction",
+      "solution_summary": "Stay in touch with clients through personalized follow-ups and provide value with market updates and home maintenance tips.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of video content",
+      "solution_summary": "Focus on authenticity and sharing both successes and struggles to build a genuine connection with the audience.",
+      "timestamp": "38:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Erica's journey from a new agent to closing multiple deals in a short time is inspiring and provides a roadmap for new agents.",
+      "key_takeaway": "Consistency in communication and leveraging your past experiences can accelerate your success in real estate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:01",
+      "end_timestamp": "07:30",
+      "quote": "I told my husband, give me six months. If I don't sell one thing, I'll go work for somebody else.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Shows determination and the leap of faith Erica took, which is relatable for many new agents.",
+      "suggested_hook": "What would you do if you had just six months to prove yourself in a new career?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Personalize follow-ups with clients by referencing specific details from past interactions.",
+      "context": "Use notes taken during open houses to tailor follow-up messages.",
+      "timestamp": "28:00"
+    },
+    {
+      "tactic": "Create a vendor list with trusted professionals to offer additional value to clients.",
+      "context": "Ensure vendors reflect your professionalism as they represent your brand.",
+      "timestamp": "49:00"
+    }
+  ],
+  "quotable_insights": [
+    "I'm not afraid of rejection. Being in sales, rejection is nothing anymore."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Remine",
+      "context": "Used for looking up property details and exemptions."
+    },
+    {
+      "type": "course",
+      "name": "Coldwell Banker University",
+      "context": "Provided training that helped Erica hit the ground running."
+    }
+  ],
+  "episode_summary": "In this episode, Erica Campos shares her journey from insurance to becoming a successful REALTOR in just six months. She discusses the importance of leveraging past experiences, building a strong sphere of influence, and the role of continuous education in her success. Erica also provides actionable insights on using open houses for lead generation and maintaining client relationships through personalized follow-ups.",
+  "_metadata": {
+    "source_file": "2024-01-24_item186_Erica-Campos",
+    "analyzed_at": "2026-01-29T18:17:25.916656",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award-winning marketer",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate agents get better on camera and message themselves better",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Importance of speaking on camera for real estate agents",
+    "Building trustworthiness and credibility through video",
+    "Using social media effectively for business growth",
+    "Overcoming discomfort with being on camera",
+    "Creating content that showcases expertise and relatability"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not showing up on video in an open way",
+      "solution_summary": "Encourage agents to use their voice on camera to build trust and credibility.",
+      "timestamp": "00:02:04"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Agents not leveraging their expertise on social media",
+      "solution_summary": "Show up on social media as an expert by teaching and highlighting client wins.",
+      "timestamp": "00:06:28"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding and client engagement.",
+      "key_takeaway": "Using your voice on camera can significantly boost your credibility and relatability."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers practical steps to start using video content effectively.",
+      "key_takeaway": "Start recording simple videos to build confidence and connect with your audience."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:16:25",
+      "end_timestamp": "00:16:42",
+      "quote": "The truth is you need to show up on camera, talking to people and letting them see who you are.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the necessity of personal presence in video content for business growth.",
+      "suggested_hook": "Why showing up on camera is non-negotiable for real estate success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Pop your phone up and start recording yourself in the field.",
+      "context": "When you're out working, record a short video about what you're doing and seeing.",
+      "timestamp": "00:14:18"
+    }
+  ],
+  "quotable_insights": [
+    "Everyone hates their own voice, but showing up on camera is crucial for building trust."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "Kim Rittberg discusses the importance of real estate agents using their voice on camera to build trust and credibility. She provides actionable tips for overcoming discomfort with video and emphasizes the role of social media in showcasing expertise and relatability. The episode offers practical advice for agents to enhance their personal brand and client engagement through video content.",
+  "_metadata": {
+    "source_file": "2024-03-28_item170_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T22:33:30.262582",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

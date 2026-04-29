@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Cindy Rainey",
+    "title": "Team Lead",
+    "company": "Coldwell Banker",
+    "production_level": "Top 1% Producer",
+    "specialty": "Luxury Properties",
+    "location": "Westport, Connecticut"
+  },
+  "main_topics": [
+    "Breaking into the luxury real estate market",
+    "The importance of coaching and personal development",
+    "Leveraging social media for real estate success",
+    "Balancing work and family life",
+    "Community involvement and giving back"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into the luxury real estate market",
+      "solution_summary": "Become an expert in the area, know every detail about the properties, and leverage a vast network for global reach.",
+      "timestamp": "09:07"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining consistency in business operations",
+      "solution_summary": "Develop a structured schedule and utilize a team to handle different aspects of the business.",
+      "timestamp": "21:21"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a strong personal brand through social media",
+      "solution_summary": "Post consistently with a planned theme for each day, and maintain high-quality content.",
+      "timestamp": "23:56"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Cindy shares insights on how to break into and succeed in the competitive luxury market.",
+      "key_takeaway": "Focus on becoming an expert in your niche and leverage your network for success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Cindy discusses the importance of having a team and structured operations.",
+      "key_takeaway": "Delegate tasks to team members to maintain consistency and focus on high-value activities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:48",
+      "end_timestamp": "14:30",
+      "quote": "Coaching is like one of the number one things that's really helped me especially the last five years grow tremendously.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of investing in personal development for business growth.",
+      "suggested_hook": "Why every top producer swears by coaching."
+    },
+    {
+      "timestamp": "23:56",
+      "end_timestamp": "24:33",
+      "quote": "We post every day, once a day on our posts, and then, you know, on stories, it's a different approach.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for social media consistency.",
+      "suggested_hook": "The secret to mastering social media as a REALTOR."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Post daily on social media with a themed schedule.",
+      "context": "To build and maintain a strong personal brand.",
+      "timestamp": "23:56"
+    },
+    {
+      "tactic": "Leverage a vast network for luxury property sales.",
+      "context": "When handling high-end listings that require a global reach.",
+      "timestamp": "26:22"
+    }
+  ],
+  "quotable_insights": [
+    "To be great, you've got to be consistent.",
+    "If you want to get something done, give it to a busy mother."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "CindyRainey.com",
+      "context": "For inspiration on building a luxury real estate website."
+    },
+    {
+      "type": "coaching",
+      "name": "Tom Ferry Coaching",
+      "context": "Cindy uses this coaching service to enhance her business."
+    }
+  ],
+  "episode_summary": "In this episode, Cindy Rainey shares her journey to becoming a top 1% luxury real estate producer. She discusses the importance of coaching, maintaining consistency in business operations, and leveraging social media to build a strong personal brand. Cindy also emphasizes the value of community involvement and balancing work with family life.",
+  "_metadata": {
+    "source_file": "2024-10-31_item116_Cindy-Raney",
+    "analyzed_at": "2026-01-29T18:54:52.630645",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

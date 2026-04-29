@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Mike Opid",
+    "title": "Real Estate Coach",
+    "company": "RE/MAX Next",
+    "production_level": "Top Producer",
+    "specialty": "Coaching agents who feel stuck",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Agent recruitment and retention",
+    "Real estate coaching and mentorship",
+    "Overcoming career stagnation",
+    "Building systems for success",
+    "Real estate technology tools"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling stuck and not knowing what they're doing wrong",
+      "solution_summary": "Introducing a monthly coaching segment with Mike Opid to provide real-time solutions and strategies.",
+      "timestamp": "03:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode introduces a coaching opportunity for agents who feel stuck in their careers.",
+      "key_takeaway": "Participating in real-time coaching can provide actionable strategies to overcome stagnation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:09",
+      "end_timestamp": "04:45",
+      "quote": "Mike Opid, one of the best real estate coaches in the business, is going to coach that person live in real time right here on the podcast.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the unique opportunity for agents to receive live coaching, resonating with those who feel isolated in their struggles.",
+      "suggested_hook": "Feeling stuck in your real estate career? Get coached live by one of the best in the business!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Apply for live coaching on the podcast",
+      "context": "Agents can submit their challenges to be coached live by Mike Opid.",
+      "timestamp": "05:53"
+    }
+  ],
+  "quotable_insights": [
+    "Time doesn't fix this stuff. Coaches do, mentors do, honest conversations do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for identifying agents likely to move and tailoring recruitment strategies."
+    }
+  ],
+  "episode_summary": "This episode of Keeping It Real introduces a new segment called 'Breakthrough with Michael,' where real estate coach Mike Opid will provide live coaching to agents feeling stuck in their careers. The episode emphasizes the importance of mentorship and honest conversations in overcoming career stagnation. Additionally, it highlights tools like Corded.io for effective agent recruitment and retention.",
+  "_metadata": {
+    "source_file": "2026-04-21_item4_unknown-guest",
+    "analyzed_at": "2026-04-29T02:51:07.755013",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Trisha Lee",
+    "title": "Home Staging Expert",
+    "company": "Lovely Homes",
+    "production_level": "Not specified",
+    "specialty": "Home Staging",
+    "location": "Kansas"
+  },
+  "main_topics": [
+    "Importance of home staging",
+    "Return on investment for home staging",
+    "Common staging mistakes and solutions",
+    "Consulting services for home staging",
+    "Differentiating as a real estate agent through staging"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Homes not selling due to poor presentation",
+      "solution_summary": "Implement home staging to create emotional connections and highlight home features, leading to faster sales and higher prices.",
+      "timestamp": "06:01"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Perception that home staging is too expensive",
+      "solution_summary": "Staging offers a 300% return on investment, costing less than a price reduction and increasing perceived home value.",
+      "timestamp": "13:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on using home staging to increase sales price and decrease time on market.",
+      "key_takeaway": "Home staging is a critical tool for achieving higher sales prices and faster transactions."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can differentiate themselves by offering home staging consultations.",
+      "key_takeaway": "Learning home staging can set you apart and provide significant value to clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:05",
+      "end_timestamp": "14:30",
+      "quote": "Home staging has a 300% return on investment, costing way less than a price reduction.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights the financial benefits of staging, which can be a compelling argument for skeptical clients.",
+      "suggested_hook": "Think home staging is too expensive? Think again!"
+    },
+    {
+      "timestamp": "28:18",
+      "end_timestamp": "28:45",
+      "quote": "Remove anything that says you don't have enough storage, like hall trees or extra hooks.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tip that agents can immediately apply.",
+      "suggested_hook": "Here's a quick tip to make your home feel more spacious!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Remove personal items and clutter to create a neutral, inviting space.",
+      "context": "When preparing a home for sale, focus on depersonalization and decluttering.",
+      "timestamp": "39:19"
+    },
+    {
+      "tactic": "Use white bedding in the primary bedroom to create a clean, hotel-like feel.",
+      "context": "Enhances the perception of cleanliness and comfort in the bedroom.",
+      "timestamp": "37:30"
+    }
+  ],
+  "quotable_insights": [
+    "How we live is totally different than how we stage.",
+    "Staging is not just decorating; it's marketing your home to sell."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "lovelyhomes.com",
+      "context": "Trisha Lee's website offering home staging consultations and resources."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "A recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Trisha Lee discusses the significant impact of home staging on real estate sales, emphasizing a 300% return on investment. She provides actionable tips for staging different rooms and offers consulting services to help agents differentiate themselves in the market. By leveraging staging, agents can achieve faster sales and higher prices, setting themselves apart as knowledgeable professionals.",
+  "_metadata": {
+    "source_file": "2024-12-27_item102_Trisha-Lee",
+    "analyzed_at": "2026-01-24T19:45:23.592012",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

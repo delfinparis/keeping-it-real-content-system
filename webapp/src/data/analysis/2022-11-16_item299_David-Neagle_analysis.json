@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "David Neagle",
+    "title": "Founder",
+    "company": "Life is Now, Inc.",
+    "production_level": "Multi-million dollar consulting company",
+    "specialty": "Mindset and personal development",
+    "location": "Global"
+  },
+  "main_topics": [
+    "Mindset shifts for real estate success",
+    "Overcoming personal and professional challenges",
+    "The importance of attitude and perception",
+    "Delegating and scaling in business",
+    "Identifying and seizing opportunities"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling stuck and unable to progress",
+      "solution_summary": "Change your attitude and perception to see opportunities that were previously invisible.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Overwhelmed by handling all aspects of the business alone",
+      "solution_summary": "Focus on 'who, not how' to delegate tasks and free up time for growth activities.",
+      "timestamp": "42:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Struggling with sales due to market changes",
+      "solution_summary": "Shift focus to clients with different value sets who are still buying.",
+      "timestamp": "27:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to overcome stagnation and identify new opportunities.",
+      "key_takeaway": "Changing your mindset can reveal hidden opportunities and pathways to success."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn the importance of mindset and delegation early in their careers.",
+      "key_takeaway": "Adopting a positive attitude and learning to delegate can accelerate your growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:00",
+      "end_timestamp": "17:00",
+      "quote": "In 30 days, I tripled my income just by changing my attitude.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This moment highlights the power of mindset in achieving rapid financial growth.",
+      "suggested_hook": "Could a simple mindset shift triple your income?"
+    },
+    {
+      "timestamp": "42:00",
+      "end_timestamp": "43:00",
+      "quote": "The question should be 'who, not how' when you're overwhelmed.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical approach to scaling a business by focusing on delegation.",
+      "suggested_hook": "Feeling overwhelmed? Here's the question you should be asking."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Change your attitude to see opportunities",
+      "context": "When feeling stuck or unable to progress in your career.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Focus on 'who, not how' for task delegation",
+      "context": "When overwhelmed with handling all aspects of your business.",
+      "timestamp": "42:00"
+    },
+    {
+      "tactic": "Identify clients with different value sets",
+      "context": "When struggling to make sales in a changing market.",
+      "timestamp": "27:00"
+    }
+  ],
+  "quotable_insights": [
+    "Fear is just a suggestion to pay attention, not a directive to stop.",
+    "Every entrepreneur fails their way to success."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Think and Grow Rich",
+      "context": "Referenced as a source of inspiration for identifying opportunities."
+    }
+  ],
+  "episode_summary": "In this episode, David Neagle discusses the power of mindset shifts in transforming real estate careers. He shares personal stories of overcoming adversity and provides actionable strategies for identifying opportunities, delegating tasks, and adjusting to market changes. Listeners will learn how to leverage attitude and perception to unlock new levels of success.",
+  "_metadata": {
+    "source_file": "2022-11-16_item299_David-Neagle",
+    "analyzed_at": "2026-01-29T16:32:05.985310",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

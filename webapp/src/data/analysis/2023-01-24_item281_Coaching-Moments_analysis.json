@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Ryan Diapral",
+    "title": "Progressive Thought Leader",
+    "company": "Diapral Properties",
+    "production_level": "Top 1%",
+    "specialty": "Coaching and Training",
+    "location": "Chicago, Wisconsin, Indiana, Michigan, Florida"
+  },
+  "main_topics": [
+    "Agent Recruitment and Retention",
+    "Effective Use of Social Media",
+    "Building and Maintaining Client Relationships",
+    "Market Conditions and Agent Mindset",
+    "Coaching and Personal Development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling scared or nervous about market conditions",
+      "solution_summary": "Focus on building relationships and maintaining a positive mindset rather than succumbing to fear.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective use of social media for lead generation",
+      "solution_summary": "Use social media for research and development to understand clients' lives and build deeper connections.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Difficulty in maintaining client relationships",
+      "solution_summary": "Implement consistent outreach and personal touches to nurture relationships.",
+      "timestamp": "20:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who have plateaued and need to revitalize their approach.",
+      "key_takeaway": "Consistent relationship-building efforts can lead to increased business, even in a challenging market."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into the mindset and activities of top producers.",
+      "key_takeaway": "Focus on personal development and intentional relationship management to achieve top producer status."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Some of us are so busy being busy. Very few of us are busy being productive.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It captures the essence of focusing on productivity over mere activity.",
+      "suggested_hook": "Are you truly productive or just busy?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media for research and development",
+      "context": "Instead of passively scrolling, actively seek out information about your clients to build deeper connections.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Consistent personal outreach",
+      "context": "Make 15 personal touches a day to maintain and grow your network.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you want different results, you need to change. That doesn't mean you need to change companies; it means you personally have got to change."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive CRM and marketing tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Ryan Diapral shares insights on maintaining a positive mindset and focusing on relationship-building amidst challenging market conditions. He emphasizes the importance of using social media for research and development to deepen client connections and provides actionable tactics for consistent personal outreach. The episode is a valuable resource for agents looking to improve productivity and achieve top producer status.",
+  "_metadata": {
+    "source_file": "2023-01-24_item281_Coaching-Moments",
+    "analyzed_at": "2026-01-29T16:44:46.929308",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

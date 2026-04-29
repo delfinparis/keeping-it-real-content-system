@@ -1,0 +1,118 @@
+{
+  "guest_info": {
+    "name": "Crystal Tran",
+    "title": "Team Leader",
+    "company": "At Properties Christie's International",
+    "production_level": "Top 50 Team at At Properties",
+    "specialty": "Luxury Real Estate and Tech-Driven Marketing",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Building a Real Estate Brand",
+    "Agent Recruitment and Team Building",
+    "Lead Generation and Conversion",
+    "Technology and Tools in Real Estate",
+    "Balancing Work and Personal Life"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a consistent real estate brand",
+      "solution_summary": "Put your name on everything, make it a brand and logo, and keep it consistent.",
+      "timestamp": "04:10"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads beyond personal sphere",
+      "solution_summary": "Utilize online presence and AI tools to attract strangers and convert them into clients.",
+      "timestamp": "05:01"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing multiple leads effectively",
+      "solution_summary": "Implement tech tools like Follow Up Boss and YLOPO for systematic lead management.",
+      "timestamp": "23:06"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agent burnout from handling too many leads",
+      "solution_summary": "Pace yourself by taking a manageable number of leads and knowing when to take breaks.",
+      "timestamp": "56:14"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode offers insights into building a successful team and brand.",
+      "key_takeaway": "Focus on building a consistent brand and leverage technology to manage leads effectively."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Crystal shares strategies for recruiting and managing a high-performing team.",
+      "key_takeaway": "Invest in tech tools and provide comprehensive training to empower your team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:04",
+      "end_timestamp": "04:32",
+      "quote": "Put your name on everything. Make it a brand and make it a logo.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a succinct piece of advice on personal branding.",
+      "suggested_hook": "Want to stand out in real estate? Here's a branding tip you can't ignore."
+    },
+    {
+      "timestamp": "05:01",
+      "end_timestamp": "05:18",
+      "quote": "80% of the buyers we work with are complete strangers.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Challenges the notion that real estate is only about personal networks.",
+      "suggested_hook": "Think you can only sell to your friends? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI tools for lead generation",
+      "context": "To identify and convert leads outside of your personal network.",
+      "timestamp": "05:17"
+    },
+    {
+      "tactic": "Practice objection handling with AI",
+      "context": "Use Maverick to simulate real client interactions and improve skills.",
+      "timestamp": "35:57"
+    },
+    {
+      "tactic": "Call people who like your social media posts",
+      "context": "Use it as a reason to engage and start a conversation.",
+      "timestamp": "49:02"
+    }
+  ],
+  "quotable_insights": [
+    "Don't be a secret REALTOR. Brand and market yourself consistently.",
+    "The fortune is in the follow-up; don't let leads go cold."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Follow Up Boss",
+      "context": "For managing and tracking leads effectively."
+    },
+    {
+      "type": "tool",
+      "name": "YLOPO",
+      "context": "For creating a user-friendly, forced registration website."
+    },
+    {
+      "type": "tool",
+      "name": "Maverick",
+      "context": "For practicing calls and improving objection handling skills."
+    }
+  ],
+  "episode_summary": "In this episode, Crystal Tran shares her journey from a solo agent to leading a top-producing team. She emphasizes the importance of building a consistent brand and leveraging technology for lead generation and management. Crystal also discusses strategies for preventing agent burnout and maintaining a healthy work-life balance.",
+  "_metadata": {
+    "source_file": "2025-10-10_item30_Crystal-Tran",
+    "analyzed_at": "2026-01-29T19:47:02.177181",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

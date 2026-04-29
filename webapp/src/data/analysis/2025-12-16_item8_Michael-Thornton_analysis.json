@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Michael Thornton",
+    "title": "Team Lead",
+    "company": "The Thornton Team at Keller Williams Premier Properties",
+    "production_level": "$30M+ annual volume",
+    "specialty": "Real estate investing and brokerage",
+    "location": "Wheaton, Illinois"
+  },
+  "main_topics": [
+    "Transitioning from corporate to real estate",
+    "Building a referral-based business",
+    "Leveraging AI for real estate marketing",
+    "Team structure and management",
+    "Work-life balance with a family"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads as a new agent",
+      "solution_summary": "Utilize open houses, Facebook leads, and home valuation leads to kickstart lead generation.",
+      "timestamp": "21:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining consistency and professionalism",
+      "solution_summary": "Develop systematic processes and standards to ensure a consistent client experience.",
+      "timestamp": "28:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a trusted brand",
+      "solution_summary": "Focus on being the 'mayor' of your local area by providing valuable community insights and maintaining a strong online presence.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode provides strategies for generating leads and building a business from scratch.",
+      "key_takeaway": "Focus on open houses and leveraging social media to build your initial client base."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on structuring a real estate team to maximize efficiency and work-life balance.",
+      "key_takeaway": "Create a shared infrastructure team to leverage each member's strengths and maintain a balanced workload."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "28:45",
+      "quote": "When people don't say, 'Hey, we're so fun to work with,' but say, 'Thank you for your professionalism,' that's when you know you're doing it right.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It emphasizes the importance of professionalism over personality in building a successful business.",
+      "suggested_hook": "Why professionalism beats personality in real estate success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to create SEO-rich content for your website.",
+      "context": "To improve search rankings and visibility in AI-driven search results.",
+      "timestamp": "47:00"
+    },
+    {
+      "tactic": "Host open houses strategically.",
+      "context": "Focus on high-traffic areas and new listings to maximize lead generation.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "You can't get too high or too low in this business; it's about maintaining consistency and focus.",
+    "Being the 'mayor' of your local area can set you apart as a REALTOR."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "Michael Thornton shares his journey from corporate America to leading a successful real estate team. He discusses the importance of building a referral-based business through professionalism and community engagement. Michael also highlights the role of AI in enhancing marketing efforts and offers insights into effective team management and work-life balance.",
+  "_metadata": {
+    "source_file": "2025-12-16_item8_Michael-Thornton",
+    "analyzed_at": "2026-01-27T10:21:16.111295",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

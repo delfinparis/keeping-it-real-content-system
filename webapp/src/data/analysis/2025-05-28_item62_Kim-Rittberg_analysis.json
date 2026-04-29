@@ -1,0 +1,76 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content creation for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Video content strategies during market uncertainty",
+    "Building connection and credibility through social media",
+    "Using personal stories to enhance engagement",
+    "Leveraging AI tools for content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to create engaging video content during uncertain market conditions",
+      "solution_summary": "Focus on building connection and credibility by sharing personal stories and professional insights.",
+      "timestamp": "00:03:02"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through video content",
+      "solution_summary": "Use personal and professional content to build trust and attract clients.",
+      "timestamp": "00:11:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding and client engagement through video.",
+      "key_takeaway": "Building a personal connection and establishing credibility are key to converting video content into leads."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:02",
+      "end_timestamp": "00:05:13",
+      "quote": "If someone really likes you but they don't trust you, they are not going to give you their biggest investment of their life.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of trust in client relationships, resonating with agents' core challenges.",
+      "suggested_hook": "Why trust is more important than ever in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use personal stories to build connection",
+      "context": "Share relatable aspects of your life to engage your audience.",
+      "timestamp": "00:06:01"
+    },
+    {
+      "tactic": "Leverage AI tools like ChatGPT for content scripting",
+      "context": "Use AI to draft video scripts and social media content.",
+      "timestamp": "00:09:29"
+    }
+  ],
+  "quotable_insights": [
+    "You can convert your content into cash once you know how to use your phone."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for creating social media scripts and video content."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses strategies for creating effective video content during uncertain market conditions. She emphasizes the importance of building connection and credibility with clients through personal stories and professional insights. Kim also highlights the use of AI tools like ChatGPT to streamline content creation, helping agents convert their video efforts into tangible business results.",
+  "_metadata": {
+    "source_file": "2025-05-28_item62_Kim-Rittberg",
+    "analyzed_at": "2026-01-24T20:10:16.741098",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

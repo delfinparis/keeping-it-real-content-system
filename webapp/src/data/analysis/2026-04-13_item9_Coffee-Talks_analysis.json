@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Client Retention",
+    "Follow-up Systems",
+    "Agent Productivity",
+    "Referral Generation",
+    "CRM Utilization"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents fail to follow up with past clients, resulting in lost business.",
+      "solution_summary": "Implement a '4-4-4' system: four touches per year, using four categories of communication, each taking less than four minutes.",
+      "timestamp": "02:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode addresses the common issue of losing touch with past clients, which is prevalent among mid-level agents.",
+      "key_takeaway": "Consistent follow-up with past clients can significantly increase repeat business and referrals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "02:16",
+      "end_timestamp": "03:00",
+      "quote": "88% of clients say they'd use their agent again, but only 12% actually do.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights a significant gap in client retention that can be addressed with proper follow-up.",
+      "suggested_hook": "Are you losing clients without even knowing it?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a '4-4-4' system for client follow-up.",
+      "context": "Contact past clients four times a year using four different types of communication.",
+      "timestamp": "08:20"
+    }
+  ],
+  "quotable_insights": [
+    "The fortune is really in the follow-up."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "CRM",
+      "context": "Recommended for setting up reminders and managing client follow-ups."
+    }
+  ],
+  "episode_summary": "This episode of Coffee Talk with Tim and DJ Paris focuses on the importance of client retention through consistent follow-up. They introduce a '4-4-4' system to help agents stay in touch with past clients, increasing the likelihood of repeat business and referrals. The episode provides actionable steps to implement this system using minimal time and effort.",
+  "_metadata": {
+    "source_file": "2026-04-13_item9_Coffee-Talks",
+    "analyzed_at": "2026-04-29T02:48:19.467576",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

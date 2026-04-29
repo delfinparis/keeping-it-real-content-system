@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Devon Higgins",
+    "title": "Digital Marketing Expert",
+    "company": "PhotoUp",
+    "production_level": null,
+    "specialty": "Real Estate Marketing",
+    "location": "Grand Rapids, Michigan"
+  },
+  "main_topics": [
+    "Real Estate Marketing Strategies",
+    "Use of Professional Photography",
+    "Leveraging AI in Real Estate",
+    "Video Marketing for REALTORS",
+    "Virtual Staging and Tours"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Only 35% of listings use professional photography, impacting sales.",
+      "solution_summary": "Use professional marketing to increase listings' appeal and potentially double commissions.",
+      "timestamp": "10:15"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time-consuming process of creating and managing marketing content.",
+      "solution_summary": "Utilize virtual assistants and AI tools to manage and create content efficiently.",
+      "timestamp": "21:30"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to rapid technological changes in real estate marketing.",
+      "solution_summary": "Embrace new technologies like AI for faster and more effective marketing solutions.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging advanced marketing techniques to stand out.",
+      "key_takeaway": "Invest in professional marketing and utilize AI tools to enhance your listings and personal brand."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn about essential marketing strategies to boost their business.",
+      "key_takeaway": "Start using professional photos and short-form video content to increase engagement and attract clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:10",
+      "end_timestamp": "17:50",
+      "quote": "Listings with video get about a 400% increase in engagement than those without.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the significant impact of video marketing on property engagement.",
+      "suggested_hook": "Want to boost your listing's engagement by 400%? Here's how!"
+    },
+    {
+      "timestamp": "25:30",
+      "end_timestamp": "26:10",
+      "quote": "To have professional grade marketing material at your fingertips within five to 10 minutes is pretty unheard of.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the power and speed of AI in real estate marketing.",
+      "suggested_hook": "Imagine getting professional marketing materials in just minutes. Here's the future of real estate marketing!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create short-form video content for each listing.",
+      "context": "Use your phone to capture unique features of the property and post on social media.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Use AI tools for quick photo editing.",
+      "context": "Upload photos from your phone to get them edited and returned within minutes.",
+      "timestamp": "25:00"
+    }
+  ],
+  "quotable_insights": [
+    "Professional marketing can double your commission over time.",
+    "The more marketing material you can put online, the better."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "PhotoUp",
+      "context": "Provides a suite of real estate marketing services including photo editing and virtual tours."
+    },
+    {
+      "type": "tool",
+      "name": "Agent Up",
+      "context": "An app by PhotoUp that offers AI editing capabilities for REALTORS."
+    }
+  ],
+  "episode_summary": "In this episode, Devon Higgins discusses the importance of professional marketing in real estate, highlighting how tools like AI and video content can significantly boost engagement and sales. He emphasizes the need for REALTORS to adapt to technological advancements to stay competitive and maximize their marketing efforts.",
+  "_metadata": {
+    "source_file": "2023-06-12_item245_Devon-Higgins",
+    "analyzed_at": "2026-01-29T17:34:52.602056",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

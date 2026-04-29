@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Marisa Kashino",
+    "title": "Author",
+    "company": null,
+    "production_level": "Best Selling Author",
+    "specialty": "Fiction Writing",
+    "location": "DC area"
+  },
+  "main_topics": [
+    "Writing and Publishing a Novel",
+    "Real Estate Market Dynamics",
+    "Character Development in Fiction",
+    "The Role of Editors in Writing",
+    "Emotional Aspects of Home Buying"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Competitive housing market post-pandemic",
+      "solution_summary": "Exploring the emotional and psychological aspects of buyers through fiction to highlight the extremes of the market.",
+      "timestamp": "16:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding client emotions and motivations can help agents better serve their clients.",
+      "key_takeaway": "Recognizing the emotional stakes in home buying can improve client relationships and sales strategies."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "18:42",
+      "end_timestamp": "19:10",
+      "quote": "The stakes feel so high when you're in it. So I thought it would make sort of the perfect context for a thriller.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the intense emotions involved in real estate transactions.",
+      "suggested_hook": "Ever felt the pressure of a competitive housing market? Here's how it inspired a thrilling novel."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Using fiction to explore and understand real estate market dynamics.",
+      "context": "By creating a narrative around the emotional journey of home buying, agents can gain insights into client behavior.",
+      "timestamp": "19:00"
+    }
+  ],
+  "quotable_insights": [
+    "Buying a house is so emotionally fraught. It's the biggest investment most will ever make."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Best Offer Wins",
+      "context": "A novel that explores the emotional and psychological aspects of buying a home in a competitive market."
+    }
+  ],
+  "episode_summary": "In this episode, Marisa Kashino discusses her debut novel, 'Best Offer Wins,' which explores the emotional and psychological aspects of buying a home in a competitive market. The conversation delves into the role of editors in writing, the dynamics of the real estate market post-pandemic, and the importance of understanding client emotions for real estate agents.",
+  "_metadata": {
+    "source_file": "2026-01-21_item3_Marisa-Kashino",
+    "analyzed_at": "2026-01-27T10:27:23.708092",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

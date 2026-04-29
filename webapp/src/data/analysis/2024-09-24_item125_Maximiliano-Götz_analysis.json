@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Maximiliano Guadalupe",
+    "title": "International Real Estate Agent",
+    "company": "MGNI",
+    "production_level": null,
+    "specialty": "International real estate investments",
+    "location": "Buenos Aires, Argentina"
+  },
+  "main_topics": [
+    "Real estate market in Argentina",
+    "International property investment",
+    "Cultural and economic factors in Argentina",
+    "Tourism and rental market dynamics",
+    "Navigating real estate transactions in Argentina"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the Argentine real estate market",
+      "solution_summary": "Maximiliano explains the current buyer's market in Argentina and the potential for capital gains due to low property prices compared to other world-class cities.",
+      "timestamp": "12:52"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Complexity of real estate transactions in Argentina",
+      "solution_summary": "Transactions are primarily cash-based, and a notary public ensures due diligence, making it crucial to understand the local process.",
+      "timestamp": "31:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into expanding investment opportunities internationally, offering a new avenue for client growth.",
+      "key_takeaway": "Argentina offers a unique opportunity for real estate investment with its low property prices and potential for high returns."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:12",
+      "end_timestamp": "16:45",
+      "quote": "Transactions are done 90% of the time, if not more, cash on the barrel head.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This highlights a unique aspect of the Argentine real estate market that is crucial for investors to understand.",
+      "suggested_hook": "Did you know that most real estate deals in Argentina are cash-only?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage with local experts for navigating real estate transactions.",
+      "context": "Due to the complexity and cash-based nature of transactions, working with local agents who understand the process is essential.",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "Argentina offers world-class city living at a fraction of the cost of places like New York or Paris."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "MGOTZ.com",
+      "context": "Maximiliano's website for more information on real estate opportunities in Argentina."
+    },
+    {
+      "type": "tool",
+      "name": "NAR's CIPS Course",
+      "context": "A course that provides insights into international property transactions."
+    }
+  ],
+  "episode_summary": "In this episode, Maximiliano Guadalupe discusses the unique opportunities in the Argentine real estate market, emphasizing the current buyer's market and the potential for high returns due to low property prices. He explains the cash-based nature of transactions and the importance of engaging with local experts to navigate the complexities of buying property in Argentina.",
+  "_metadata": {
+    "source_file": "2024-09-24_item125_Maximiliano-Götz",
+    "analyzed_at": "2026-01-29T18:49:31.160394",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

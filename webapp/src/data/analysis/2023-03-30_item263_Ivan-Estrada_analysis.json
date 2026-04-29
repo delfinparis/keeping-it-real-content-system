@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Ivan Estrada",
+    "title": "Top REALTOR, Author",
+    "company": "Not specified",
+    "production_level": "Top 1%, $600M+ in sales",
+    "specialty": "Luxury real estate, branding expert",
+    "location": "Los Angeles, Beverly Hills"
+  },
+  "main_topics": [
+    "Branding and marketing strategies for REALTORS",
+    "Creating effective video content",
+    "Differences in marketing luxury vs. average-priced properties",
+    "Overcoming fear and mindset blocks in creating video",
+    "Using technology and tools like ChatGPT for content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating a strong personal brand as a REALTOR",
+      "solution_summary": "Develop brand pillars and ensure all content aligns with these pillars to maintain consistency and clarity.",
+      "timestamp": "35:10"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Keeping clients informed and satisfied during the selling process",
+      "solution_summary": "Provide weekly reports detailing marketing efforts and results to maintain transparency and client confidence.",
+      "timestamp": "23:35"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of creating video content",
+      "solution_summary": "Shift focus from self-criticism to providing value to clients; use accountability partners to ensure content creation.",
+      "timestamp": "48:42"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced branding and marketing strategies tailored for high-end real estate.",
+      "key_takeaway": "Develop a strong personal brand and consistent marketing strategy to stand out in the luxury market."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to leverage video content and branding from the start.",
+      "key_takeaway": "Start creating video content early, focus on value, and use simple tools like your phone and ChatGPT for content ideas."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:07",
+      "end_timestamp": "09:45",
+      "quote": "There's literally no excuse for not creating content. Buyers and sellers are googling and looking for videos.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges agents to embrace video content as a necessity, not an option.",
+      "suggested_hook": "Are you missing out on potential clients because you're not creating video content?"
+    },
+    {
+      "timestamp": "26:02",
+      "end_timestamp": "26:30",
+      "quote": "Imagine if every REALTOR contacted their client every week with a report of what they've done.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a simple yet effective strategy to improve client satisfaction and retention.",
+      "suggested_hook": "Want to keep your clients happy and informed? Try this simple weekly strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create separate introductory videos for buyers and sellers.",
+      "context": "Tailor content to address specific needs and concerns of each group.",
+      "timestamp": "13:32"
+    },
+    {
+      "tactic": "Use ChatGPT to generate content ideas.",
+      "context": "When unsure of what to create, use AI tools to brainstorm topics.",
+      "timestamp": "11:12"
+    },
+    {
+      "tactic": "Develop a marketing calendar for all listings.",
+      "context": "Provide clients with a detailed plan of daily, weekly, and monthly marketing activities.",
+      "timestamp": "22:15"
+    }
+  ],
+  "quotable_insights": [
+    "Your brand is what people say about you when you're not in the room.",
+    "Consistency in the video game is key."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Brand With Video",
+      "context": "A comprehensive course to help REALTORS create effective video content and build their brand."
+    },
+    {
+      "type": "book",
+      "name": "Brand With Purpose",
+      "context": "Ivan Estrada's book on building a purposeful brand in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Ivan Estrada shares his expertise on building a strong personal brand and leveraging video content to stand out in the real estate market. He discusses the importance of consistency, transparency with clients, and using tools like ChatGPT for content creation. Ivan also highlights the differences in marketing strategies for luxury versus average-priced properties and offers actionable advice for overcoming common barriers to video content creation.",
+  "_metadata": {
+    "source_file": "2023-03-30_item263_Ivan-Estrada",
+    "analyzed_at": "2026-01-29T17:58:20.805411",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

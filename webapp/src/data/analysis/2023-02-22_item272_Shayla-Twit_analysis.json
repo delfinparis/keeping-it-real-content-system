@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Shayla Twitt",
+    "title": "Luxury Agent",
+    "company": "Coldwell Banker",
+    "production_level": "Top Producer",
+    "specialty": "Luxury and Waterfront Real Estate",
+    "location": "Sarasota, Florida"
+  },
+  "main_topics": [
+    "Breaking into the luxury real estate market",
+    "Importance of value proposition and branding",
+    "Lead generation and client retention strategies",
+    "Navigating a competitive real estate market",
+    "Utilizing video content for marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a high competition market",
+      "solution_summary": "Focus on building a strong database and staying in touch with past clients through personalized communication.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Differentiating yourself from other agents",
+      "solution_summary": "Develop a unique value proposition and consistently update your marketing materials to reflect your services.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships between transactions",
+      "solution_summary": "Send personalized annual equity updates and home anniversary messages to keep in touch.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for breaking into the luxury market and maintaining a high level of service.",
+      "key_takeaway": "Consistently update your value proposition and leverage video content to stand out in a competitive market."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on how to generate leads and maintain client relationships.",
+      "key_takeaway": "Focus on personalized communication and leveraging your existing database for referrals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you can't fix it, feature it.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a catchy phrase that encapsulates a smart marketing strategy.",
+      "suggested_hook": "Turn property challenges into selling points with this simple strategy."
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "Send personalized video messages on home anniversaries.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic for maintaining client relationships.",
+      "suggested_hook": "Here's a unique way to stay top-of-mind with your clients."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send personalized video messages for home anniversaries.",
+      "context": "Use this tactic to maintain relationships and provide annual equity updates.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Develop a unique value proposition and update it annually.",
+      "context": "Ensure your marketing materials reflect your current services and differentiate you from competitors.",
+      "timestamp": "12:30"
+    }
+  ],
+  "quotable_insights": [
+    "Your network is your net worth.",
+    "Communication is my reputation."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM management."
+    },
+    {
+      "type": "system",
+      "name": "Bafini and Company",
+      "context": "Used for referral and repeat business strategies."
+    }
+  ],
+  "episode_summary": "In this episode, Shayla Twitt shares her journey into the luxury real estate market and offers actionable strategies for lead generation and client retention. She emphasizes the importance of a strong value proposition and personalized communication, particularly through video content. The episode provides insights into navigating a competitive market and maintaining a high level of service.",
+  "_metadata": {
+    "source_file": "2023-02-22_item272_Shayla-Twit",
+    "analyzed_at": "2026-01-26T20:47:40.188135",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

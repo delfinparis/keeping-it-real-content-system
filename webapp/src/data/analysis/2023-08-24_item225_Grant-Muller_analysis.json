@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Grant Muller",
+    "title": "Top 1% Producer, Coach, and Author",
+    "company": "Compass",
+    "production_level": "Consistent seven-figure earner",
+    "specialty": "Heart-centered real estate approach",
+    "location": "Denver, Colorado"
+  },
+  "main_topics": [
+    "From top of mind to top of heart",
+    "Personal resilience and overcoming adversity",
+    "Building genuine client relationships",
+    "High-performance coaching",
+    "Adapting to market challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling unfulfilled after achieving major goals",
+      "solution_summary": "Focus on fulfillment and joy in the journey rather than the end goal.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Creating genuine connections with clients",
+      "solution_summary": "Develop real, emotional connections by being authentic and allowing clients to be seen.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a challenging real estate market",
+      "solution_summary": "Double down on what works, reduce unnecessary expenses, and take massive action.",
+      "timestamp": "44:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Grant's story of resilience and his approach to building a successful real estate career is inspiring.",
+      "key_takeaway": "Focus on building genuine relationships and personal fulfillment to achieve success."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode offers strategies for maintaining balance and fulfillment in a demanding career.",
+      "key_takeaway": "Shift focus from hustle to heart-centered service to avoid burnout."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:30",
+      "end_timestamp": "17:30",
+      "quote": "Achievement comes from fulfillment, not the other way around.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional wisdom of chasing goals for happiness.",
+      "suggested_hook": "Are you chasing goals for the wrong reasons?"
+    },
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:00",
+      "quote": "Take it out of social media and put it in the real world.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic to deepen client relationships.",
+      "suggested_hook": "Want to make a lasting impression on your clients?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send handwritten notes to clients celebrating their personal achievements.",
+      "context": "To deepen relationships and move from top of mind to top of heart.",
+      "timestamp": "51:00"
+    },
+    {
+      "tactic": "Reduce unnecessary expenses to alleviate financial pressure.",
+      "context": "To avoid commission breath and maintain negotiation power.",
+      "timestamp": "45:00"
+    }
+  ],
+  "quotable_insights": [
+    "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "When we improve ourselves, we improve our product and our business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Top of Heart",
+      "context": "Grant's book on building genuine client relationships."
+    },
+    {
+      "type": "book",
+      "name": "The Go-Giver",
+      "context": "Recommended by Bob Burg, who wrote a blurb for Grant's book."
+    }
+  ],
+  "episode_summary": "In this episode, Grant Muller shares his journey from homelessness to becoming a top 1% real estate producer. He emphasizes the importance of building genuine, heart-centered relationships with clients and offers strategies for maintaining fulfillment and balance in a challenging market. Grant also discusses his coaching approach, focusing on helping agents find their own truths and achieve high performance without burnout.",
+  "_metadata": {
+    "source_file": "2023-08-24_item225_Grant-Muller",
+    "analyzed_at": "2026-01-26T21:19:30.833293",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

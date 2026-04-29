@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:02:00",
+      "end_timestamp": "00:02:22",
+      "quote": "Most of you already have more business hiding in your phone right now than you'll find at the next six networking events combined.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Challenges the conventional wisdom of constant networking as the only way to find new business.",
+      "suggested_hook": "Are you overlooking potential clients already in your phone?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you overlooking potential clients already in your phone?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Most agents think they need to attend endless networking events to find new clients. But what if the goldmine is already in your pocket? You're scrolling through your contacts, but no one's responding. Sound familiar?\",\n    \"INSIGHT\": \"Our guest revealed, 'Most of you already have more business hiding in your phone right now than you'll find at the next six networking events combined.' [ON-SCREEN: More business in your phone] Instead of chasing new leads, focus on re-engaging your existing contacts. [ON-SCREEN: Re-engage existing contacts] Use AI tools to personalize your outreach and improve communication. [ON-SCREEN: AI for personalized outreach]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Imagine closing three more deals this month just by leveraging your current network. [ON-SCREEN: Close 3 more deals this month] Agents are doing it right now with this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock hidden business in your phone with this simple strategy. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Networking\", \"#AIinRealEstate\", \"#ClientCommunication\", \"#TimeManagement\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most of you already have more business hiding in your phone right now than you'll find at the next six networking events combined.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:03:00",
+      "end_timestamp": "00:03:08",
+      "quote": "Real business from people who already knew her name.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the power of leveraging existing relationships for business growth.",
+      "suggested_hook": "Unlock hidden business opportunities with people you already know."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Unlock hidden business opportunities with people you already know.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ever feel like you're reaching out to your database but nobody's responding? You're not alone. Many agents struggle with this, but it doesn't have to be that way.\",\n    \"INSIGHT\": \"Our guest shared a powerful story about how she generated real business from people who already knew her name. She focused on leveraging existing relationships, turning them into genuine opportunities. [ON-SCREEN: Leverage existing relationships] Most agents cold call strangers. Top producers tap into their network. [ON-SCREEN: Network over cold calls]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by reaching out to just three people in your network. This agent closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock business opportunities with people you already know. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#Networking\",\n    \"#BusinessGrowth\",\n    \"#AgentTips\",\n    \"#RealEstatePodcast\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents cold call strangers. Top producers tap into their network.\"\n}\n```"
+  }
+]

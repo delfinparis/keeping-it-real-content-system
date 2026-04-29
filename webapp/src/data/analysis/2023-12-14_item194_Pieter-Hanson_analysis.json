@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Pieter Hanson",
+    "title": "Real Estate Agent",
+    "company": "Real Broker",
+    "production_level": "N/A",
+    "specialty": "Residential and Commercial Real Estate",
+    "location": "Quad Cities, Illinois and Iowa"
+  },
+  "main_topics": [
+    "Transition from Commercial to Residential Real Estate",
+    "Navigating Real Estate in Economic Downturns",
+    "Balancing Multiple Businesses",
+    "Importance of Customer Care and Follow-up",
+    "Leveraging Technology and Social Media in Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Entering the real estate market during an economic downturn",
+      "solution_summary": "Embrace the challenge as an opportunity to learn and position yourself for future success when the market improves.",
+      "timestamp": "08:01"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships between transactions",
+      "solution_summary": "Use personal touches like handwritten notes and regular check-ins to stay top of mind.",
+      "timestamp": "34:44"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a competitive market",
+      "solution_summary": "Utilize social media and digital marketing to provide valuable content and stay visible to potential clients.",
+      "timestamp": "26:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Pieter's experience entering the market during a downturn and balancing multiple roles.",
+      "key_takeaway": "Commitment and leveraging your existing network can help you succeed even in tough markets."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veteran agents can gain insights into balancing multiple business ventures and staying motivated.",
+      "key_takeaway": "Diversifying your skills and maintaining a strong support network can sustain long-term success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:01",
+      "end_timestamp": "09:02",
+      "quote": "If I can survive in 2007 and 2008 going forward in real estate, I am going to be positioned perfectly to survive when times are good.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote encapsulates a powerful mindset for thriving in challenging markets.",
+      "suggested_hook": "How to turn a market downturn into your greatest opportunity."
+    },
+    {
+      "timestamp": "34:44",
+      "end_timestamp": "35:30",
+      "quote": "If you think about something, call them. I pick up that phone and I make that call.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This advice is a simple yet effective tactic for maintaining client relationships.",
+      "suggested_hook": "The simplest way to stay top of mind with your clients."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Handwritten notes and personal calls",
+      "context": "Use these to maintain relationships and stay top of mind with clients.",
+      "timestamp": "34:44"
+    },
+    {
+      "tactic": "Leveraging social media for visibility",
+      "context": "Create valuable content and engage with your audience to generate leads.",
+      "timestamp": "26:00"
+    }
+  ],
+  "quotable_insights": [
+    "Commitment is the biggest thing. Dedicate yourself to it, and the results will follow.",
+    "Live every moment like it was your last and take chances."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Pieter Hanson shares his journey from the Navy to becoming a successful real estate agent in both residential and commercial sectors. He discusses the importance of commitment, leveraging personal networks, and maintaining client relationships. Pieter also highlights the role of technology and social media in staying competitive in today's market.",
+  "_metadata": {
+    "source_file": "2023-12-14_item194_Pieter-Hanson",
+    "analyzed_at": "2026-01-26T22:18:17.690173",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

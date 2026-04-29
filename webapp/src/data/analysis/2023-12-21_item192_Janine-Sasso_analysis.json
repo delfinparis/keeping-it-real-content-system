@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Janine Sasso",
+    "title": "Author and Top Producer",
+    "company": "Coldwell Banker",
+    "production_level": "Top Producer",
+    "specialty": "Geographic Farming and Mailer Marketing",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "The effectiveness of mailers in real estate",
+    "Geographic farming strategies",
+    "Balancing real estate career with parenting",
+    "Lead generation through community events",
+    "Tracking and measuring marketing efforts"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without a large sphere of influence",
+      "solution_summary": "Utilize geographic farming and mailers to establish presence and generate leads.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing real estate work with parenting responsibilities",
+      "solution_summary": "Use mailers and automated marketing to free up time for family commitments.",
+      "timestamp": "45:01"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Standing out in a saturated digital marketing space",
+      "solution_summary": "Focus on direct mail marketing where competition is less intense.",
+      "timestamp": "36:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start generating leads without a large network.",
+      "key_takeaway": "Geographic farming and mailers can effectively build your business from scratch."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents looking to scale their business can benefit from proven mailer strategies.",
+      "key_takeaway": "Consistent mailers can yield a 10x ROI, making it a valuable investment."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veteran agents can find a more efficient way to manage their time and marketing efforts.",
+      "key_takeaway": "Automated mailers allow for effective marketing without the constant need for personal involvement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:15",
+      "end_timestamp": "20:00",
+      "quote": "By me getting you the very best price on your home, that's actually going to help everyone in the community, including me, because I'm in your community.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a unique selling proposition for agents living in their farm area.",
+      "suggested_hook": "Here's why selling homes in your own neighborhood can be a win-win!"
+    },
+    {
+      "timestamp": "25:47",
+      "end_timestamp": "26:30",
+      "quote": "People have garage sales might be moving. Brilliant.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a clever insight into identifying potential sellers.",
+      "suggested_hook": "Want to know a secret about garage sales and real estate leads?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Organize neighborhood garage sales to identify potential sellers.",
+      "context": "Use this tactic to engage with the community and find leads.",
+      "timestamp": "24:00"
+    },
+    {
+      "tactic": "Use every door direct mail (EDDM) for cost-effective geographic farming.",
+      "context": "Apply this to reach a large audience in a specific area without high costs.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Incorporate QR codes in mailers to track engagement.",
+      "context": "Use QR codes to measure the effectiveness of your mailers and gather data.",
+      "timestamp": "51:00"
+    }
+  ],
+  "quotable_insights": [
+    "Mailers are not dead; they're a quiet space where you can really stand out.",
+    "The ROI on mailers is 10X, making it a powerful tool for real estate agents."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Success with Real Estate Mailers",
+      "context": "Janine's book on how to effectively use mailers in real estate."
+    },
+    {
+      "type": "website",
+      "name": "The Hyper Local Agent",
+      "context": "Janine's platform offering courses and resources for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Janine Sasso shares her expertise on using mailers and geographic farming to generate leads and build a successful real estate business. She discusses how mailers can yield a 10x ROI and offers practical tips for agents to balance work and family life. Janine also provides insights into tracking marketing efforts with QR codes and organizing community events to engage potential clients.",
+  "_metadata": {
+    "source_file": "2023-12-21_item192_Janine-Sasso",
+    "analyzed_at": "2026-01-29T18:13:15.582447",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

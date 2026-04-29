@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Cassidy Ecklund",
+    "title": "Real Estate Agent",
+    "company": "RE/MAX New Horizons Realty",
+    "production_level": "Top 1%",
+    "specialty": "Real Estate Transactions with Title Knowledge",
+    "location": "Central and Northern Wisconsin"
+  },
+  "main_topics": [
+    "Transition from Title to Real Estate",
+    "Lead Generation Strategies",
+    "Leveraging Title Knowledge in Real Estate",
+    "Building Client Relationships",
+    "Handling Transaction Challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a small market",
+      "solution_summary": "Utilize local business partnerships and creative social media marketing to generate leads.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting leads into clients",
+      "solution_summary": "Engage with potential clients through personalized follow-ups and leveraging title knowledge to build trust.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding transaction pitfalls",
+      "solution_summary": "Use title experience to anticipate and mitigate transaction issues before they arise.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Cassidy's story of transitioning into real estate and quickly achieving success is inspiring for new agents.",
+      "key_takeaway": "Building relationships and leveraging unique knowledge can accelerate your success in real estate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I did a photo shoot with my children showing them a little plastic playhouse... and got a lot of feedback.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a creative and personal approach to marketing that resonates with audiences.",
+      "suggested_hook": "Want a unique way to stand out as a REALTOR?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Partner with local businesses to distribute marketing materials.",
+      "context": "Drop off business cards or small gifts at local stores to reach potential clients.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Use title knowledge to guide clients through potential transaction issues.",
+      "context": "Anticipate and address issues like easements and capital gains to reassure clients.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Treat everybody like they're your grandma.",
+    "Think out of the box and try to find things that most agents don't typically do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for lead generation and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "Cassidy Ecklund shares her journey from working in title to becoming a top-performing real estate agent. She discusses how her title knowledge gives her an edge in transactions and offers practical advice on lead generation through local partnerships and creative marketing. Cassidy emphasizes the importance of building strong client relationships and anticipating transaction challenges.",
+  "_metadata": {
+    "source_file": "2025-01-31_item94_Cassidy-Ecklund",
+    "analyzed_at": "2026-01-24T19:51:24.577696",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

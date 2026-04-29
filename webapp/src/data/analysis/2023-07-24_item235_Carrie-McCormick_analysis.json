@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "At Properties, Christie's International",
+    "production_level": "Top 15 out of 46,000 real estate agents in Chicago",
+    "specialty": "First-time home buyers, veteran investors, luxury properties, high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Referrals and networking",
+    "Effective use of LinkedIn",
+    "Live property showcasing",
+    "Backup agent strategy",
+    "In-person networking"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective referrals wasting time",
+      "solution_summary": "Ensure referrals are valuable by understanding both parties' needs before making introductions.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Getting lost in LinkedIn spam",
+      "solution_summary": "Personalize messages and do due diligence before reaching out to ensure relevance.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Losing potential clients to existing agents",
+      "solution_summary": "Offer to be a backup agent, maintaining contact without being intrusive.",
+      "timestamp": "20:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for networking and referrals, crucial for scaling a real estate business.",
+      "key_takeaway": "Being a connector and offering to be a backup agent can significantly increase your client base."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on improving referral quality and leveraging LinkedIn effectively.",
+      "key_takeaway": "Focus on quality over quantity in referrals and personalize your LinkedIn outreach."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:54",
+      "end_timestamp": "21:54",
+      "quote": "I would like to be your backup agent if anything changes.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a simple yet effective strategy to stay in the running for potential clients.",
+      "suggested_hook": "What to say when a client already has an agent."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Offer to be a backup agent when a client already has a REALTOR.",
+      "context": "Use this approach to maintain a relationship and potentially win business if the current agent relationship falters.",
+      "timestamp": "20:54"
+    },
+    {
+      "tactic": "Personalize LinkedIn outreach to avoid being ignored.",
+      "context": "Research the recipient and tailor your message to their specific needs.",
+      "timestamp": "11:00"
+    }
+  ],
+  "quotable_insights": [
+    "You get what you give in the world of referrals.",
+    "Being a connector can make you a trusted referral source."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Modwell",
+      "context": "Used for virtually renovating listings to show potential buyers what's possible."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares insights on maximizing referrals and networking, emphasizing the importance of quality over quantity. She introduces the concept of being a 'backup agent' to maintain potential client relationships and discusses effective LinkedIn strategies to avoid spam pitfalls. The episode also teases a new format where Carrie will showcase properties live, offering a unique perspective on real estate marketing.",
+  "_metadata": {
+    "source_file": "2023-07-24_item235_Carrie-McCormick",
+    "analyzed_at": "2026-01-29T17:41:37.994959",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

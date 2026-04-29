@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Amy Stockburger",
+    "title": "Broker Owner",
+    "company": "Amy Stockburger Real Estate",
+    "production_level": "Top 1% Producer",
+    "specialty": "Lifetime Home Support System",
+    "location": "Sioux Falls, South Dakota"
+  },
+  "main_topics": [
+    "VIP Club for Real Estate Clients",
+    "Lifetime Home Support System",
+    "Monetizing Real Estate Services",
+    "Client Referral Strategies",
+    "Agent Recruitment and Support"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating consistent referrals from past clients",
+      "solution_summary": "Implement a VIP club offering lifetime benefits to clients, turning them into referral partners.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of structured client engagement post-transaction",
+      "solution_summary": "Create a systemized approach with a VIP club that includes tools, party supplies, and a moving truck for client use.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Monetizing non-transactional aspects of real estate",
+      "solution_summary": "Sell advertising space on moving trucks and charge vendors to be part of a preferred list.",
+      "timestamp": "12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides a blueprint for creating a referral-based business model.",
+      "key_takeaway": "Building a VIP club can significantly increase client retention and referral rates."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights into creating additional revenue streams and supporting agents.",
+      "key_takeaway": "Monetizing various aspects of your business can provide financial stability and growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:15",
+      "end_timestamp": "11:00",
+      "quote": "I created a unique and all-inclusive lifetime home support system that turns clients into referral machines.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a specific, successful strategy for client retention.",
+      "suggested_hook": "Want to turn your clients into referral machines? Here's how!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a VIP club with lifetime benefits for clients.",
+      "context": "Use it to maintain client relationships and generate referrals.",
+      "timestamp": "05:30"
+    },
+    {
+      "tactic": "Monetize moving trucks by selling advertising space.",
+      "context": "Generate additional revenue while providing a service to clients.",
+      "timestamp": "12:30"
+    }
+  ],
+  "quotable_insights": [
+    "The best real estate business you can build is a relationship-based business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Start Your VIP Club",
+      "context": "A program to help agents implement and monetize a VIP club."
+    }
+  ],
+  "episode_summary": "In this episode, Amy Stockburger discusses her innovative VIP club and lifetime home support system, which transforms clients into referral partners. She shares strategies for monetizing various aspects of the real estate business, providing agents with additional revenue streams and a structured approach to client engagement. Listeners will gain insights into building a relationship-based business model that enhances client retention and referral rates.",
+  "_metadata": {
+    "source_file": "2023-03-15_item268_Amy-Stockberger",
+    "analyzed_at": "2026-01-26T20:50:43.643813",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

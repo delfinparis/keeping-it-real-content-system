@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "Jessica Burton",
+    "title": "Award-winning REALTOR and continuous top producer",
+    "company": "Indie Quest Properties",
+    "production_level": "Top 20 under 40 real estate agents in Houston",
+    "specialty": "Client care, negotiation, and dedication",
+    "location": "Houston, Texas"
+  },
+  "main_topics": [
+    "Lead generation strategies",
+    "Transitioning to full-time real estate",
+    "Importance of social media in real estate",
+    "Delegation and team building",
+    "Staying motivated in a challenging market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding effective lead generation sources",
+      "solution_summary": "Focus on open houses, advertising, and social media as main lead sources.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting leads into clients",
+      "solution_summary": "Use a CRM to track and follow up with leads consistently.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing tasks and time effectively",
+      "solution_summary": "Implement time blocking and delegate tasks to virtual assistants.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated during market downturns",
+      "solution_summary": "Focus on community, personal well-being, and consistent client engagement.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Jessica shares her journey from part-time to top producer status.",
+      "key_takeaway": "Consistent lead generation and effective delegation can significantly grow your business."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Jessica discusses starting out in real estate while managing another job.",
+      "key_takeaway": "Focus on building strong relationships and leveraging existing networks for leads."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:00",
+      "end_timestamp": "20:45",
+      "quote": "I realized how much I loved real estate... I was working honestly two full-time jobs.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the passion and dedication needed to succeed in real estate.",
+      "suggested_hook": "Ever wonder what it takes to transition to a full-time real estate career?"
+    },
+    {
+      "timestamp": "45:00",
+      "end_timestamp": "45:45",
+      "quote": "When I implemented both the social media manager and the VA assistant, I grew my business about 30%.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Shows the tangible benefits of delegation in business growth.",
+      "suggested_hook": "Could hiring an assistant boost your real estate business by 30%?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a CRM to track client interactions and follow-ups.",
+      "context": "Ensures no leads fall through the cracks and maintains consistent communication.",
+      "timestamp": "31:00"
+    },
+    {
+      "tactic": "Batch content creation for social media.",
+      "context": "Set aside time to create multiple pieces of content at once to ensure consistent posting.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "I realized how much I loved real estate... I was working honestly two full-time jobs.",
+    "When I implemented both the social media manager and the VA assistant, I grew my business about 30%."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Follow-up Boss",
+      "context": "Recommended CRM for managing client relationships and follow-ups."
+    },
+    {
+      "type": "course",
+      "name": "Kim Rittberg's Video Boot Camp",
+      "context": "Helped Jessica become more comfortable and effective with video content."
+    }
+  ],
+  "episode_summary": "In this episode, Jessica Burton shares her journey from working two full-time jobs to becoming a top-producing REALTOR in Houston. She discusses her lead generation strategies, the importance of social media, and how delegation has significantly grown her business. Jessica also provides insights into staying motivated during challenging market conditions and the processes that keep her on track.",
+  "_metadata": {
+    "source_file": "2023-10-27_item207_Jessica-Burton",
+    "analyzed_at": "2026-01-26T21:30:21.069111",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Greg Pekarsky",
+    "title": "Driving Force",
+    "company": "Vesta Preferred",
+    "production_level": "Top 1.5% of brokers nationwide",
+    "specialty": "Lead generation and first-time home buyers",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Lead generation strategies",
+    "Consistency in business practices",
+    "Understanding and leveraging numbers",
+    "Attitude and mindset in real estate",
+    "Building and managing a successful team"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Determining if a lead source is worth pursuing",
+      "solution_summary": "Ask for proven closing ratios and referrals from successful users of the lead source.",
+      "timestamp": "10:15"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Improving closing ratios",
+      "solution_summary": "Implement exclusive contracts to quickly identify serious clients and focus energy effectively.",
+      "timestamp": "18:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Maintaining consistency in work habits",
+      "solution_summary": "Focus on consistent execution of money-making activities and track performance metrics.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for significantly increasing sales volume.",
+      "key_takeaway": "Consistency and understanding your numbers are key to dominating lead generation."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into building a high-performing team and leveraging lead generation.",
+      "key_takeaway": "Focus on hiring for attitude and work ethic to maximize team productivity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:45",
+      "end_timestamp": "14:30",
+      "quote": "Consistency is the main principle of success. It's about executing every single day on the correct activities.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of consistency in achieving success.",
+      "suggested_hook": "Want to know the secret to success in real estate?"
+    },
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "28:45",
+      "quote": "70% of your success comes from attitude. Invest in what makes you happy and keeps you motivated.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the critical role of attitude in achieving success.",
+      "suggested_hook": "Is your attitude holding you back in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use exclusive contracts to filter serious clients",
+      "context": "Implement early in the client engagement process to save time and focus efforts.",
+      "timestamp": "18:00"
+    },
+    {
+      "tactic": "Track and analyze lead source performance",
+      "context": "Use a CRM to monitor calls, texts, and emails to understand lead conversion rates.",
+      "timestamp": "15:00"
+    }
+  ],
+  "quotable_insights": [
+    "Whether you think you can or you can't, you're probably right.",
+    "Consistency is the main principle of success."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Follow-Up Boss",
+      "context": "Recommended CRM for tracking lead interactions and performance metrics."
+    }
+  ],
+  "episode_summary": "In this episode, Greg Pekarsky shares his insights on achieving record-breaking sales through consistent lead generation strategies and a focus on attitude. He emphasizes the importance of understanding your numbers and maintaining a positive mindset, while also providing actionable tactics for improving lead conversion and building a successful real estate team.",
+  "_metadata": {
+    "source_file": "2025-01-28_item97_Greg-Pekarsky",
+    "analyzed_at": "2026-01-24T19:49:16.808862",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

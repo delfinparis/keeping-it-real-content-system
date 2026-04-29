@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Award Winning Video Marketer",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video marketing for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of video marketing for real estate agents",
+    "Leveraging AI in content creation",
+    "Building personal brand through video",
+    "Consistency in professional development",
+    "Humanizing content in the age of AI"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not standing out in a crowded market",
+      "solution_summary": "Show up on video to convey passion, intelligence, and care, which are not captured by static images or text.",
+      "timestamp": "00:04:50"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a competitive environment",
+      "solution_summary": "Use video to activate and engage your existing network, leading to more referrals and client retention.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Competing with AI-generated content",
+      "solution_summary": "Differentiate by adding personal voice and human elements to content, making it unique and relatable.",
+      "timestamp": "00:08:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance visibility and client engagement through video.",
+      "key_takeaway": "Showing up on video can significantly boost your personal brand and lead generation efforts."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on integrating video into existing marketing strategies to break through plateaus.",
+      "key_takeaway": "Consistency in video marketing can set you apart from competitors who rely on static content."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:30",
+      "end_timestamp": "00:07:10",
+      "quote": "When you show up on video, people can hear your passion, they can hear your intelligence, they can hear how much you care about them.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This emphasizes the emotional connection video can create, which is crucial for personal branding.",
+      "suggested_hook": "Want to stand out in real estate? Here's why video is your secret weapon."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Record and post short videos on social media platforms.",
+      "context": "Use Instagram Stories or similar features to engage your audience without the pressure of permanence.",
+      "timestamp": "00:11:20"
+    },
+    {
+      "tactic": "Highlight unique skills and success stories in video content.",
+      "context": "Create videos that showcase your negotiation skills or client success stories to build credibility.",
+      "timestamp": "00:06:00"
+    }
+  ],
+  "quotable_insights": [
+    "Video gets shared more than photos or text content, making it a powerful tool for visibility."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "KimRitburg.com",
+      "context": "Offers free downloads and information on upcoming webinars for further learning."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses the critical role of video marketing in real estate, especially in the wake of AI-generated content. She emphasizes the importance of showing up on camera to build a personal brand, engage networks, and differentiate from competitors. Kim provides actionable advice on integrating video into existing marketing strategies to enhance visibility and client engagement.",
+  "_metadata": {
+    "source_file": "2024-09-20_item126_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T18:49:10.063094",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

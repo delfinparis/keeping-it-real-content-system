@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Skye Michiels",
+    "title": "National Head of Agent Development",
+    "company": "Compass",
+    "production_level": "Award-winning real estate professional",
+    "specialty": "Agent training and development",
+    "location": "Philadelphia, National"
+  },
+  "main_topics": [
+    "Deepening relationships with clients",
+    "Agent development and training",
+    "Navigating the current real estate market",
+    "Building personal connections",
+    "Maintaining authenticity in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents losing touch with past clients",
+      "solution_summary": "Use personal stories and vulnerability to maintain connections; update CRM with personal details for meaningful follow-ups.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Anxiety about shifting market conditions",
+      "solution_summary": "Focus on action to combat anxiety; understand that real estate is driven by life events, not just financial conditions.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling overwhelmed by market changes",
+      "solution_summary": "Adopt a solutions-driven mindset and focus on life goals over financial goals.",
+      "timestamp": "39:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for maintaining client relationships and navigating market changes.",
+      "key_takeaway": "Focus on deepening personal connections and being proactive in client management to thrive in a shifting market."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into leveraging personal stories for client engagement and market share growth.",
+      "key_takeaway": "Use personal authenticity and strategic client engagement to capture market share during challenging times."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:00",
+      "end_timestamp": "08:00",
+      "quote": "Real estate is about people, and the best REALTORS are authentic.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of authenticity in real estate, a key differentiator.",
+      "suggested_hook": "Are you showing up authentically in your real estate business?"
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "The solution to anxiety is action.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Provides a simple yet powerful strategy for dealing with market anxiety.",
+      "suggested_hook": "Feeling anxious about the market? Here's the antidote."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to research client life events for personalized follow-ups.",
+      "context": "When looking for reasons to connect with past clients.",
+      "timestamp": "31:00"
+    },
+    {
+      "tactic": "Create a digital recipe book by asking clients for their favorite recipes.",
+      "context": "As a unique way to engage clients and provide value.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "Authenticity is the most powerful thing we have in real estate.",
+    "The best REALTORS are those who own their story."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "skymichiels.com",
+      "context": "To learn more about Skye Michiels and his approach to real estate."
+    },
+    {
+      "type": "podcast",
+      "name": "6AMers",
+      "context": "A motivational and accountability group for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Skye Michiels discusses the importance of deepening client relationships through authenticity and personal connection. He emphasizes the need for agents to focus on action to combat market anxiety and to leverage personal stories to maintain client engagement. Skye also shares innovative strategies for client interaction, such as creating a digital recipe book, to stand out in a competitive market.",
+  "_metadata": {
+    "source_file": "2022-12-15_item292_Skye-Michiels",
+    "analyzed_at": "2026-01-29T16:36:37.597530",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Chase Craig",
+    "title": "Licensed Real Estate Agent and Coach",
+    "company": "City of Trees Real Estate and Real Estate Growth Network",
+    "production_level": "Over 6000 transactions, $2 billion in sales volume",
+    "specialty": "Building systems for scalable income and time protection",
+    "location": "Boise, Idaho"
+  },
+  "main_topics": [
+    "Importance of focusing on controllable factors",
+    "Building and leveraging a database",
+    "Speed of response in client interactions",
+    "Role of mentorship and coaching in real estate",
+    "Creating a community for real estate growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents focusing on uncontrollable factors like interest rates",
+      "solution_summary": "Focus on what you can control and influence, and allocate time accordingly.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not effectively using their database",
+      "solution_summary": "Segment your database and provide value through regular, meaningful interactions.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Call reluctance due to fear of rejection",
+      "solution_summary": "Approach calls by offering value (gold bars) instead of asking for business (asking for $10).",
+      "timestamp": "33:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents need guidance on what activities to focus on for growth.",
+      "key_takeaway": "Focus on building a database and responding quickly to inquiries."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents often struggle with maintaining and leveraging their database.",
+      "key_takeaway": "Segment your database and ensure each interaction provides value."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Focus on what you can control. There's so many things we deal with as real estate professionals, and it's easy to get caught up in the muck.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It provides a clear mindset shift that can help agents reduce stress and focus on productive activities.",
+      "suggested_hook": "Are you wasting time on things you can't control? Here's how to refocus your energy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a Memory Jogger to build your database.",
+      "context": "When starting or expanding your database, use tools to ensure you don't miss potential contacts.",
+      "timestamp": "26:00"
+    },
+    {
+      "tactic": "Respond quickly to all client inquiries.",
+      "context": "Immediately acknowledge receipt of a message to increase the likelihood of client engagement.",
+      "timestamp": "38:00"
+    }
+  ],
+  "quotable_insights": [
+    "People don't need to be taken care of right away, but they need to know they're being taken care of right away."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "real estate growth.network",
+      "context": "A community platform for daily growth and learning in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Chase Craig shares insights on focusing on controllable factors, leveraging a database for growth, and the importance of quick client response. He emphasizes the role of mentorship and community in achieving real estate success, offering practical advice for agents at all levels.",
+  "_metadata": {
+    "source_file": "2025-10-24_item25_Chase-Craig",
+    "analyzed_at": "2026-01-29T19:50:56.397457",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

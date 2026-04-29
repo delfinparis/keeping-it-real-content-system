@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kristee Leonard",
+    "title": "Top-Producing Real Estate Broker",
+    "company": "The Leaders Realty",
+    "production_level": "$50M+ producer",
+    "specialty": "Luxury Real Estate",
+    "location": "Austin, Texas"
+  },
+  "main_topics": [
+    "Work Ethic and Success",
+    "Real Estate Marketing Strategies",
+    "Client Management and Standards",
+    "Social Media for Real Estate",
+    "Balancing Personal and Professional Life"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Balancing personal life with a demanding real estate career",
+      "solution_summary": "Embrace the honor of serving clients and maintain a flexible schedule to meet their needs.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market",
+      "solution_summary": "Focus on open houses and leveraging social media to connect with other REALTORS for referrals.",
+      "timestamp": "36:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a luxury brand",
+      "solution_summary": "Maintain high standards in marketing and presentation, ensuring all listings are showcased with professional photography and videography.",
+      "timestamp": "29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on achieving high production levels through hard work and strategic marketing.",
+      "key_takeaway": "Outworking competition and maintaining high standards can lead to significant success in real estate."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Kristee discusses managing a brokerage and the decision to focus on personal sales rather than team expansion.",
+      "key_takeaway": "Understanding your strengths and focusing on them can be more beneficial than following industry norms."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:41",
+      "end_timestamp": "05:05",
+      "quote": "You don't have to be the smartest person in the room. You just have to outwork the smartest person in the room.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a motivational statement that resonates with many striving for success.",
+      "suggested_hook": "Want to know the secret to success in real estate?"
+    },
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "27:30",
+      "quote": "If you choose to take on that client, then you need to represent them just like if they were a multimillion dollar deal.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of treating all clients with high standards.",
+      "suggested_hook": "How should you treat every client in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use open houses to generate leads",
+      "context": "Even if the listing isn't yours, open houses can be a powerful lead generation tool.",
+      "timestamp": "36:00"
+    },
+    {
+      "tactic": "Target other REALTORS on social media for referrals",
+      "context": "Build a strong online presence to attract referrals from other agents.",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "Failure was not an option, which I feel like was the greatest blessing.",
+    "I consider myself a real estate advisor, not just another REALTOR."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Kristee Leonard shares her journey to becoming a top-producing real estate broker in Austin, Texas. She emphasizes the importance of hard work, maintaining high standards, and leveraging social media to build a luxury brand. Kristee also discusses her approach to client management and the value of treating every client with the same level of dedication, regardless of the transaction size.",
+  "_metadata": {
+    "source_file": "2026-01-22_item6_Kristee-Leonard",
+    "analyzed_at": "2026-01-30T11:15:30.348349",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

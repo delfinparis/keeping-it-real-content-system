@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Erin Helle",
+    "title": "Investor Coach",
+    "company": "eXp Realty",
+    "production_level": null,
+    "specialty": "Real Estate Investment and Coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Calculating Monthly Income Goals",
+    "Goal Setting and Accountability",
+    "Financial Freedom",
+    "Motivation for REALTORS",
+    "Backward Planning for Success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Setting and achieving realistic income goals",
+      "solution_summary": "Define financial freedom, calculate monthly needs and wants, and backward plan to determine necessary closings and client interactions.",
+      "timestamp": "03:24"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated as a self-employed REALTOR",
+      "solution_summary": "Utilize goal setting and accountability by surrounding yourself with like-minded individuals and communities.",
+      "timestamp": "03:32"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides a structured approach to setting and achieving income goals, crucial for those aiming to increase their production.",
+      "key_takeaway": "Backward planning from a defined financial freedom number can help you achieve consistent monthly income."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode breaks down the process of setting financial goals into manageable steps, which is helpful for new agents.",
+      "key_takeaway": "Start with your needs and wants to set a realistic income goal, and plan your activities to achieve it."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:01",
+      "end_timestamp": "05:30",
+      "quote": "If it doesn't light your soul on fire, you got to go back and do it again.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This quote emphasizes the importance of passion in goal setting, which can resonate with many listeners.",
+      "suggested_hook": "Is your income goal truly motivating you?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Backward planning from income goals",
+      "context": "Calculate monthly needs and wants, then determine necessary closings and client interactions to meet those goals.",
+      "timestamp": "12:03"
+    }
+  ],
+  "quotable_insights": [
+    "Define financial freedom for yourself, put a number to that and then make that your income goal."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and conversion."
+    },
+    {
+      "type": "course",
+      "name": "Buyer Agency Professional Course",
+      "context": "Offered by Kaplan Real Estate Education to help agents secure professional fees."
+    }
+  ],
+  "episode_summary": "In this episode, Erin Helle discusses how REALTORS can calculate their monthly income goals by defining financial freedom and backward planning from that number. She emphasizes the importance of goal setting and accountability, providing actionable steps for agents to stay motivated and achieve consistent income. The episode also highlights the significance of surrounding oneself with a supportive community.",
+  "_metadata": {
+    "source_file": "2024-06-13_item151_Dr.-Erin-Helle",
+    "analyzed_at": "2026-01-26T11:46:52.717150",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

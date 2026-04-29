@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Karina Chavez",
+    "title": "Real Estate Professional",
+    "company": "Keller Williams",
+    "production_level": "Top 1% Producer",
+    "specialty": "Helping investors and first-time home buyers",
+    "location": "Albuquerque"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Working with Hispanic clients",
+    "Converting motels into affordable housing",
+    "Client relationship management",
+    "The importance of community involvement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships over time",
+      "solution_summary": "Karina maintains relationships by spoiling clients with gifts and staying in touch regularly, ensuring they feel valued and remembered.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Predatory loans affecting Hispanic communities",
+      "solution_summary": "Karina emphasizes transparency and education about loan documents to build trust and ensure clients understand their commitments.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating a strong personal brand in real estate",
+      "solution_summary": "Karina builds her brand around authenticity, community, and education, focusing on empowering clients and being actively involved in her community.",
+      "timestamp": "10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode demonstrates how to build a successful real estate business through referrals and community involvement.",
+      "key_takeaway": "Focus on building genuine relationships and providing value to your community to create a sustainable business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:05",
+      "end_timestamp": "06:45",
+      "quote": "Best advice has been always answered your phone. I think a lot of people take that for granted and it's such an easy one.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a simple yet effective tactic for improving client relationships.",
+      "suggested_hook": "Are you missing out on business by not answering your phone?"
+    },
+    {
+      "timestamp": "20:04",
+      "end_timestamp": "21:02",
+      "quote": "This is what your house is for. This is what all the sacrifices have been for.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Illustrates the emotional and financial security homeownership can provide.",
+      "suggested_hook": "How can owning a home save you in times of crisis?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Spoil clients with gifts and regular check-ins",
+      "context": "Maintain strong client relationships and ensure they feel valued.",
+      "timestamp": "14:00"
+    },
+    {
+      "tactic": "Educate clients thoroughly on loan documents",
+      "context": "Build trust and prevent misunderstandings, especially in communities affected by predatory lending.",
+      "timestamp": "17:00"
+    }
+  ],
+  "quotable_insights": [
+    "Treat your clients like family, and they will become your family.",
+    "Change is inevitable in real estate; adapt or get left behind."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Karina Chavez shares her journey of building a successful referral-based real estate business by focusing on community involvement and client relationships. She discusses the importance of educating clients, especially in the Hispanic community, and her innovative approach to converting motels into affordable housing. Karina's story is a testament to the power of authenticity and service in real estate.",
+  "_metadata": {
+    "source_file": "2025-12-09_item12_Karina-Chavez",
+    "analyzed_at": "2026-01-27T10:16:41.732106",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

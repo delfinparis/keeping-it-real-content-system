@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Matt Kierkegaard",
+    "title": "Top Producer",
+    "company": "Movement Property Group",
+    "production_level": "Multi-million dollar team",
+    "specialty": "Real estate investment and team leadership",
+    "location": "Nashville"
+  },
+  "main_topics": [
+    "Transition from music to real estate",
+    "Navigating financial adversity",
+    "Market shifts and opportunities",
+    "Team leadership and mentorship",
+    "Creative real estate investment strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming financial adversity and homelessness",
+      "solution_summary": "Matt emphasized the importance of determination and necessity-driven action to recover from financial setbacks.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a shifting real estate market",
+      "solution_summary": "Matt discussed leveraging market shifts to capture market share and emphasized the importance of data-driven decision-making.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Building a network from scratch",
+      "solution_summary": "Matt shared his tactic of buying coffee for patrons at a coffee shop to initiate conversations and build relationships.",
+      "timestamp": "46:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Matt's story of starting from scratch and building a successful career is inspiring for new agents.",
+      "key_takeaway": "Necessity can drive innovation and success; don't be afraid to take risks and network aggressively."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Matt's approach to team leadership and empathy provides a model for effective team management.",
+      "key_takeaway": "Empathy and recognizing the unique talents of team members can drive team success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "05:45",
+      "quote": "When you don't have another option, but for it to work, it has to work. And you figure out how to make it work.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement captures the essence of resilience and determination.",
+      "suggested_hook": "What would you do if you had no other option but to succeed?"
+    },
+    {
+      "timestamp": "46:00",
+      "end_timestamp": "47:00",
+      "quote": "I would go to a coffee shop and buy everyone's coffee for two hours. They'd come introduce themselves to me.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This is a unique and actionable networking strategy.",
+      "suggested_hook": "Want to build your network fast? Try this unconventional tactic."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Buy coffee for patrons at a coffee shop to initiate conversations.",
+      "context": "Use this tactic to build your network and meet new potential clients.",
+      "timestamp": "46:00"
+    },
+    {
+      "tactic": "Leverage market shifts to capture market share.",
+      "context": "Focus on data-driven decision-making and creative solutions during market downturns.",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "Necessity is the mother of invention, especially in real estate.",
+    "Empathy and recognizing the unique talents of your team can drive success."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Shift by Gary Keller",
+      "context": "Recommended for understanding market shifts and opportunities."
+    }
+  ],
+  "episode_summary": "In this episode, Matt Kierkegaard shares his journey from a struggling musician to a top real estate producer in Nashville. He discusses overcoming financial adversity, leveraging market shifts, and the importance of empathy in team leadership. Matt also offers unique networking strategies and insights into creative real estate investment opportunities.",
+  "_metadata": {
+    "source_file": "2023-02-01_item278_Matt-Kirkkegaard",
+    "analyzed_at": "2026-01-29T17:08:59.054157",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

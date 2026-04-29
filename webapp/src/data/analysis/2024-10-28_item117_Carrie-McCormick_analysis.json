@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top Producer",
+    "company": "Carrie McCormick Real Estate Group, at properties, Christie's International",
+    "production_level": "Top 1% producer, $160M+ in production",
+    "specialty": "Luxury properties, first-time home buyers, veteran investors",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Listing presentations",
+    "Importance of social media and video in real estate",
+    "Building and maintaining relationships with buyer's agents",
+    "Differentiating in a competitive market",
+    "Communicating truthfully with clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Differentiating in listing presentations",
+      "solution_summary": "Focus on personal uniqueness and storytelling through video to stand out.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing a high volume of listings as a solo agent",
+      "solution_summary": "Build a strong support system and efficient processes to handle multiple listings.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Communicating difficult truths to clients",
+      "solution_summary": "Provide honest, data-backed information to help clients make informed decisions.",
+      "timestamp": "23:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into how a top producer manages a high volume of listings and differentiates herself.",
+      "key_takeaway": "Success comes from hard work, strong personal branding, and effective use of video marketing."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to improve listing presentations and client communication.",
+      "key_takeaway": "Focus on storytelling and personal connections to enhance your real estate practice."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "What no other agent can compete with is you as a person, how hard you're going to work.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of personal branding and work ethic in real estate.",
+      "suggested_hook": "Why your unique personality is your biggest asset in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use video to tell the story of a home.",
+      "context": "In listing presentations, focus on creating engaging videos that highlight the unique aspects of a property.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Maintain strong relationships with buyer's agents.",
+      "context": "Ensure smooth transactions by collaborating effectively with buyer's agents.",
+      "timestamp": "15:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on what is really important, which is doing an incredible job and providing service."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and conversion."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her strategies for managing a high volume of listings and differentiating herself in a competitive market. She emphasizes the importance of personal branding, storytelling through video, and maintaining strong relationships with buyer's agents. Carrie also discusses the necessity of honest communication with clients to ensure successful transactions.",
+  "_metadata": {
+    "source_file": "2024-10-28_item117_Carrie-McCormick",
+    "analyzed_at": "2026-01-26T19:42:44.360225",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

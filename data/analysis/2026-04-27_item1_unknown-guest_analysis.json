@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Coffee Talk",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Importance of Google business profiles for real estate agents",
+    "Impact of online reviews on client referrals",
+    "Steps to optimize Google business profiles",
+    "Use of reputation management tools",
+    "Agent recruitment and brokerage support"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents losing referrals due to poor or non-existent Google profiles",
+      "solution_summary": "Optimize Google business profiles by claiming and completing them, and actively requesting reviews.",
+      "timestamp": "00:01:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not realizing the impact of Google reviews on lead conversion",
+      "solution_summary": "Understand that Google reviews are the final check before clients decide to contact you.",
+      "timestamp": "00:02:20"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents not asking for reviews systematically",
+      "solution_summary": "Implement a system to request reviews within 72 hours of closing a deal.",
+      "timestamp": "00:10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode highlights the importance of maintaining a strong online presence, which is often overlooked by agents who rely solely on referrals.",
+      "key_takeaway": "Optimize your Google business profile to ensure you capture all potential referrals."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "For agents aiming to increase their business, understanding the digital footprint's impact is crucial.",
+      "key_takeaway": "A well-maintained Google profile can significantly boost your referral conversion rate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:00",
+      "end_timestamp": "00:05:30",
+      "quote": "The referral doesn't close the deal. Google does.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the traditional belief that referrals are enough to secure business.",
+      "suggested_hook": "Think referrals are enough? Think again."
+    },
+    {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:30",
+      "quote": "Incomplete profiles actually signal lower credibility to Google's algorithm.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This highlights the technical impact of incomplete profiles on search rankings.",
+      "suggested_hook": "Is your Google profile hurting your credibility?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Claim and complete your Google business profile.",
+      "context": "Ensure all information is accurate and up-to-date to improve search visibility.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "tactic": "Send a review request within 72 hours of closing.",
+      "context": "Prompt clients while the experience is fresh to increase the likelihood of receiving a review.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "tactic": "Use Gatherup for automated review requests.",
+      "context": "Integrate with your CRM to streamline the process and ensure consistency.",
+      "timestamp": "00:14:00"
+    }
+  ],
+  "quotable_insights": [
+    "The referral gives you the warm introduction. Google is where they decide whether to show up for the introduction.",
+    "Your reputation is being built every day. Let's get it digitally solidified."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Gatherup",
+      "context": "Recommended for automating the process of requesting and managing online reviews."
+    }
+  ],
+  "episode_summary": "This episode of Coffee Talk emphasizes the critical role of Google business profiles in the real estate industry. It provides actionable steps for agents to optimize their profiles and systematically request reviews, thereby enhancing their online presence and increasing referral conversion rates. The discussion also highlights the importance of treating one's name as a brand and leveraging digital tools to support business growth.",
+  "_metadata": {
+    "source_file": "2026-04-27_item1_unknown-guest",
+    "analyzed_at": "2026-04-29T02:52:47.769544",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

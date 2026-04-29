@@ -1,0 +1,87 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Digital Content Strategist and On-Camera Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video and Social Media Content for Real Estate Professionals",
+    "location": "Brooklyn, New York"
+  },
+  "main_topics": [
+    "Video Content Creation for Real Estate",
+    "Social Media Strategies",
+    "SEO Optimization for Videos",
+    "Timely and Trending Content",
+    "Building Personal Brand through Video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Difficulty in creating engaging video content",
+      "solution_summary": "Kim provides five specific video ideas that real estate agents can create to engage their audience and build their brand.",
+      "timestamp": "06:11"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through video content",
+      "solution_summary": "Use SEO-driven videos and trending sounds to increase discoverability and attract new leads.",
+      "timestamp": "10:23"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with creating effective video content.",
+      "key_takeaway": "Start with simple video ideas like neighborhood tours and commonly asked questions to build confidence and engagement."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers need to leverage video to expand their reach.",
+      "key_takeaway": "Utilize SEO and trending topics to increase your visibility and position yourself as a thought leader."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:02",
+      "end_timestamp": "09:30",
+      "quote": "Video has this amazing ability to reach your existing clients, find new leads, and reignite old contacts.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the multifaceted benefits of video content in real estate.",
+      "suggested_hook": "Discover how video can transform your real estate business!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Position yourself as a neighborhood expert through video.",
+      "context": "Create videos showcasing local neighborhoods and businesses to establish authority.",
+      "timestamp": "08:31"
+    },
+    {
+      "tactic": "Use SEO-driven video titles and descriptions.",
+      "context": "Research what people are searching for in your area and create videos that answer those queries.",
+      "timestamp": "10:23"
+    }
+  ],
+  "quotable_insights": [
+    "Entertaining, educational, or emotional content is key to engaging video."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Quora",
+      "context": "Used for researching commonly asked questions for SEO-driven video content."
+    },
+    {
+      "type": "website",
+      "name": "Reddit",
+      "context": "Used for researching trending topics and questions for video content."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares five actionable video ideas for real estate agents to enhance their social media presence and generate leads. She emphasizes the importance of SEO, trending content, and personal branding through video. Listeners will learn how to position themselves as neighborhood experts and leverage timely topics to increase their discoverability.",
+  "_metadata": {
+    "source_file": "2023-03-27_item265_Kim-Rittberg",
+    "analyzed_at": "2026-01-26T20:52:26.908182",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Digital Content Strategist and On-Camera Coach",
+    "company": "Not specifically mentioned",
+    "production_level": "Award-winning",
+    "specialty": "Video and social media content for real estate professionals",
+    "location": "Brooklyn, New York"
+  },
+  "main_topics": [
+    "Video content creation for real estate",
+    "Social media strategy",
+    "SEO for video content",
+    "Engagement through trending sounds",
+    "Timely video content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Struggling to create engaging video content",
+      "solution_summary": "Create videos that are entertaining, educational, or emotional to engage viewers and build relationships.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Not reaching potential clients through video",
+      "solution_summary": "Use SEO-driven videos to increase discoverability and attract new leads.",
+      "timestamp": "10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance visibility and engagement through video content.",
+      "key_takeaway": "Focus on creating SEO-driven and timely videos to attract and engage potential clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "SEO-driven videos can be a game-changer for discoverability.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable tactic for increasing video reach.",
+      "suggested_hook": "Want your videos to reach more people? Here's how SEO can help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Position yourself as a neighborhood expert through video.",
+      "context": "Create videos showcasing your knowledge of the local area to establish authority.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Use trending sounds to increase discoverability.",
+      "context": "Incorporate popular sounds in your videos to enhance reach on platforms like Instagram and TikTok.",
+      "timestamp": "14:00"
+    }
+  ],
+  "quotable_insights": [
+    "Video has the power to reach existing clients, find new leads, and reignite old contacts."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Quora",
+      "context": "Recommended for researching commonly asked questions to create relevant video content."
+    },
+    {
+      "type": "website",
+      "name": "Reddit",
+      "context": "Suggested for finding trending topics and questions for video ideas."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares five actionable video ideas for real estate agents to enhance their social media presence. She emphasizes the importance of creating SEO-driven and timely content to increase discoverability and engagement. Kim also provides tips on using trending sounds and positioning oneself as a neighborhood expert to attract potential clients.",
+  "_metadata": {
+    "source_file": "2023-03-27_item266_Kim-Rittberg",
+    "analyzed_at": "2026-01-29T17:18:29.590592",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Ryan Young",
+    "title": "CEO",
+    "company": "The Young Team and Fellow",
+    "production_level": "Number 1 large team in Ohio, Number 18 in the U.S.",
+    "specialty": "Seller lead generation",
+    "location": "Cleveland, Akron, Canton, Ohio"
+  },
+  "main_topics": [
+    "Transition from culinary arts to real estate",
+    "Building a successful real estate team",
+    "Seller lead generation strategies",
+    "Importance of work ethic and discipline",
+    "Leveraging technology for real estate growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating seller leads from existing databases",
+      "solution_summary": "Use Fellow to incubate and convert existing database contacts into seller leads.",
+      "timestamp": "29:03"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting expired listings and FSBOs",
+      "solution_summary": "Focus on listening and understanding client needs rather than just following scripts.",
+      "timestamp": "25:07"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming industry challenges and competition",
+      "solution_summary": "Adopt a strong work ethic and discipline learned from previous careers.",
+      "timestamp": "10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Ryan's journey from a chef to leading a top real estate team is inspirational.",
+      "key_takeaway": "Success comes from hard work, discipline, and leveraging existing resources effectively."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into building and managing a successful real estate team.",
+      "key_takeaway": "Empower your team with the right tools and maintain a strong culture of excellence."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "The work ethic and discipline from the culinary world propelled my real estate career.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Shows the transferable skills from different careers to real estate.",
+      "suggested_hook": "How a chef's discipline can transform your real estate career."
+    },
+    {
+      "timestamp": "29:03",
+      "end_timestamp": "30:00",
+      "quote": "Fellow helps you incubate and convert existing database contacts into seller leads.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tool for agents to enhance their lead generation.",
+      "suggested_hook": "Unlock the power of your database with this seller lead tool."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Fellow to nurture your existing database for seller leads.",
+      "context": "Apply this to convert old contacts into new opportunities.",
+      "timestamp": "29:03"
+    },
+    {
+      "tactic": "Focus on listening and understanding during cold calls.",
+      "context": "When calling expired listings and FSBOs.",
+      "timestamp": "25:07"
+    }
+  ],
+  "quotable_insights": [
+    "The bar is set pretty low for our industry, which is a shame because it's such an important experience in people's lives.",
+    "Success in real estate comes from applying a strong work ethic and discipline."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "highfellow.com",
+      "context": "Platform for seller lead generation and nurturing existing databases."
+    }
+  ],
+  "episode_summary": "Ryan Young shares his journey from a professional chef to leading Ohio's top real estate team. He emphasizes the importance of discipline and work ethic learned from the culinary world. Ryan introduces Fellow, a tool designed to convert existing database contacts into seller leads, offering a unique approach to lead generation.",
+  "_metadata": {
+    "source_file": "2023-06-13_item244_Ryan-Young",
+    "analyzed_at": "2026-01-29T17:35:48.809247",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

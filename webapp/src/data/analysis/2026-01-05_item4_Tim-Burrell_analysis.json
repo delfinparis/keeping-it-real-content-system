@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Tim Burrell",
+    "title": "Licensed REALTOR, Attorney, General Contractor",
+    "company": "RE/MAX United",
+    "production_level": "Top Producer",
+    "specialty": "Negotiation and AI in Real Estate",
+    "location": "Raleigh, North Carolina"
+  },
+  "main_topics": [
+    "Leveraging AI in Real Estate Negotiations",
+    "Building Rapport through AI",
+    "Using AI for Real-Time Coaching in Negotiations",
+    "Conflict Resolution Strategies",
+    "Prompt Engineering for Effective AI Use"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Establishing rapport in negotiations",
+      "solution_summary": "Use AI to gather information about the other party to find common ground and build rapport.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Handling conflict during negotiations",
+      "solution_summary": "AI can flag changes in tone and provide suggestions for de-escalating conflict.",
+      "timestamp": "39:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the other party's position",
+      "solution_summary": "Use AI to research the other party's situation and anticipate their needs and responses.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced strategies for using AI to enhance negotiation skills.",
+      "key_takeaway": "AI can be a powerful tool in understanding and anticipating the needs of the other party in a negotiation."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can use AI to train their agents in advanced negotiation tactics.",
+      "key_takeaway": "Implementing AI-driven negotiation strategies can improve team performance and client satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "One of the things that AI does particularly well is to give you information about the other person.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical use of AI in negotiations.",
+      "suggested_hook": "Discover how AI can give you the upper hand in negotiations."
+    },
+    {
+      "timestamp": "39:00",
+      "end_timestamp": "39:45",
+      "quote": "AI can flag changes in tone and make the change in the attitude and flag that these people are getting mad.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights AI's role in managing emotions during negotiations.",
+      "suggested_hook": "Learn how AI can help you navigate tricky negotiations."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to research the other party's background and interests.",
+      "context": "Before entering negotiations to build rapport.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Employ AI to simulate negotiation scenarios and predict responses.",
+      "context": "To prepare for potential outcomes and adjust strategies.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "Negotiating is collaborating and is working together.",
+    "The biggest factor in negotiating is empathy."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The AI Negotiator",
+      "context": "Tim Burrell's book on using AI to dominate real estate deals."
+    },
+    {
+      "type": "tool",
+      "name": "Clawed",
+      "context": "Preferred AI tool for negotiation assistance."
+    }
+  ],
+  "episode_summary": "In this episode, Tim Burrell discusses how AI can revolutionize real estate negotiations by providing insights into the other party's background, predicting negotiation outcomes, and managing conflict. He emphasizes the importance of empathy and rapport in successful negotiations and offers practical tactics for leveraging AI to gain a competitive edge.",
+  "_metadata": {
+    "source_file": "2026-01-05_item4_Tim-Burrell",
+    "analyzed_at": "2026-01-27T10:26:39.724052",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

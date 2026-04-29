@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Debbi DiMaggio",
+    "title": "Real Estate Coach and Top Producer",
+    "company": "Corcoran",
+    "production_level": "Top 1.5% producer nationwide",
+    "specialty": "Real Estate Coaching and Sales",
+    "location": "San Francisco and Los Angeles"
+  },
+  "main_topics": [
+    "Agent Recruitment and Retention",
+    "Effective Communication in Real Estate",
+    "Importance of Open Houses",
+    "Marketing Strategies for Real Estate",
+    "Building Relationships and Networking"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggling to find leads in a slow market",
+      "solution_summary": "Encourage agents to hold open houses frequently to meet potential buyers and sellers.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "communication",
+      "specific_problem": "Lack of effective communication between agents during transactions",
+      "solution_summary": "Advocate for voice-to-voice communication to resolve issues and build rapport.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not staying top of mind in their sphere",
+      "solution_summary": "Utilize social media, newsletters, and postcards to maintain visibility.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn foundational strategies to generate leads and build their business.",
+      "key_takeaway": "Show up consistently and leverage open houses to build your network and gain experience."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can refine their communication and marketing strategies.",
+      "key_takeaway": "Effective communication and diversified marketing are key to overcoming market challenges."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "You have to be present, be kind, communicate. It's not about you, it's about your clients.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of client-focused service and effective communication.",
+      "suggested_hook": "Are you truly present for your clients?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "22:45",
+      "quote": "Open houses are a great opportunity to meet potential buyers and sellers. Don't miss out!",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes a practical tactic for lead generation.",
+      "suggested_hook": "Think open houses are outdated? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hold open houses regularly to meet potential clients.",
+      "context": "Especially useful in a slow market to generate leads.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Use voice-to-voice communication to resolve transaction issues.",
+      "context": "When dealing with complex or frustrating situations.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Diversify marketing efforts with social media, newsletters, and postcards.",
+      "context": "To maintain visibility across different demographics.",
+      "timestamp": "25:00"
+    }
+  ],
+  "quotable_insights": [
+    "Follow your passion, live your purpose.",
+    "Be present, be kind, communicate. It's not about you, it's about your clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Art of Real Estate",
+      "context": "Recommended for new agents to learn foundational real estate strategies."
+    },
+    {
+      "type": "website",
+      "name": "RealGeeks.com",
+      "context": "Suggested as a technology partner for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Debbi DiMaggio shares her insights on building a successful real estate career through effective communication, consistent presence, and diversified marketing strategies. She emphasizes the importance of open houses for lead generation and the value of building strong relationships within the industry. Debbi's advice is practical and actionable, offering real estate agents the tools they need to thrive in a competitive market.",
+  "_metadata": {
+    "source_file": "2023-09-28_item215_Debbi-DiMaggio",
+    "analyzed_at": "2026-01-29T17:54:04.424082",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

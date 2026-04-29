@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "George Doulamis",
+    "title": "Top Producer",
+    "company": "The Blankenship Group, Engel & Völkers",
+    "production_level": "Top 1%",
+    "specialty": "Luxury Real Estate",
+    "location": "Destin and the 30A corridor, Florida"
+  },
+  "main_topics": [
+    "Differences in selling high-value properties",
+    "Importance of service and client experience",
+    "Phone prospecting techniques",
+    "Building a strong real estate network",
+    "Handling high net worth clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Fear of cold calling and phone prospecting",
+      "solution_summary": "George emphasizes the importance of tonality and energy in calls, using scripts and practicing to overcome fear and improve effectiveness.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Lack of communication with clients",
+      "solution_summary": "Implementing standard operating procedures for regular communication, even when there is no new activity, to maintain client trust.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into mastering high-value transactions and building a robust client experience.",
+      "key_takeaway": "Developing strong communication skills and a service-oriented mindset is crucial for success in luxury real estate."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on overcoming common hurdles like phone prospecting and client communication.",
+      "key_takeaway": "Consistent practice and refining your approach can significantly improve your prospecting success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "How in the world did this thing not sell?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This question is a powerful opener for engaging with potential clients about expired listings.",
+      "suggested_hook": "Unlock the secret to converting expired listings with one simple question."
+    },
+    {
+      "timestamp": "10:30",
+      "end_timestamp": "11:30",
+      "quote": "Create a business where your clients literally cannot transact in real estate without you.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote encapsulates the importance of building irreplaceable client relationships.",
+      "suggested_hook": "Want to become indispensable to your clients? Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use tonality and energy to improve phone prospecting success.",
+      "context": "When calling potential clients, especially for expired listings.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Implement standard operating procedures for client communication.",
+      "context": "Ensure regular updates to clients to maintain trust and transparency.",
+      "timestamp": "14:30"
+    }
+  ],
+  "quotable_insights": [
+    "Create a business where your clients literally cannot transact in real estate without you.",
+    "Energy over the phone can make all the difference in winning a client."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "training",
+      "name": "Jordan Belfort's Sales Training",
+      "context": "Used to improve tonality and sales techniques."
+    }
+  ],
+  "episode_summary": "In this episode, George Doulamis shares his journey from working in hospitality to becoming a top producer in luxury real estate. He discusses the importance of service and client experience, offers insights into effective phone prospecting, and emphasizes the need for strong communication and a robust network to succeed in high-value transactions.",
+  "_metadata": {
+    "source_file": "2023-04-28_item255_George-Doulamis",
+    "analyzed_at": "2026-01-29T17:27:01.739577",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

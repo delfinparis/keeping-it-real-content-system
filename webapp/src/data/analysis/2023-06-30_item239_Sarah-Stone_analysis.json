@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Sarah Stone",
+    "title": "Top Producer",
+    "company": "Douglas Elliman",
+    "production_level": "Top Producer",
+    "specialty": "Luxury Real Estate",
+    "location": "Fairfield County, Connecticut and New York"
+  },
+  "main_topics": [
+    "Building a Real Estate Business",
+    "Transitioning Markets",
+    "Networking and Relationships",
+    "Market Challenges",
+    "Social Media and Branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory and high competition in the current real estate market",
+      "solution_summary": "Focus on building relationships with other agents and exploring off-market opportunities.",
+      "timestamp": "32:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Staying top of mind with past clients",
+      "solution_summary": "Regularly engage with clients through social media and personalized touches.",
+      "timestamp": "51:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to build a successful real estate business in competitive markets.",
+      "key_takeaway": "Building strong relationships and leveraging social media are key to sustaining and growing a real estate business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "If you have a loved one that died and owns a Manhattan apartment, of course, you're going to go with who your attorney recommends you use.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a strategic approach to gaining listings through estate attorneys.",
+      "suggested_hook": "Want more real estate listings? Here's a strategy you might be overlooking."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Target estate attorneys for potential listings.",
+      "context": "Develop relationships with estate attorneys to receive referrals for properties that need to be sold.",
+      "timestamp": "23:00"
+    },
+    {
+      "tactic": "Use social media to stay top of mind with clients.",
+      "context": "Regularly post content related to real estate and personal interests to engage your audience.",
+      "timestamp": "52:00"
+    }
+  ],
+  "quotable_insights": [
+    "You never know when a relationship is going to be important."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Stone shares her journey from Wall Street to becoming a top real estate producer in New York and Connecticut. She discusses the importance of building relationships, especially with estate attorneys, to gain listings and the role of social media in maintaining client relationships. The episode provides actionable insights for REALTORS looking to thrive in competitive markets.",
+  "_metadata": {
+    "source_file": "2023-06-30_item239_Sarah-Stone",
+    "analyzed_at": "2026-01-29T17:39:03.789095",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
