@@ -38,14 +38,15 @@ INDEX_DIR = DATA_DIR / "index"
 ANALYSIS_DIR = DATA_DIR / "analysis"
 TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
 
-# Ensure we're using the project's venv
-VENV_PYTHON = PROJECT_ROOT / "venv" / "bin" / "python"
+# Use the local venv when present (dev), otherwise the current interpreter (CI).
+_VENV_PYTHON = PROJECT_ROOT / "venv" / "bin" / "python"
+PYTHON_EXE = str(_VENV_PYTHON) if _VENV_PYTHON.exists() else sys.executable
 
 
 def run_script(script_name: str, args: list = None, env: dict = None) -> tuple[bool, str]:
     """Run a Python script from the scripts directory."""
     script_path = SCRIPTS_DIR / script_name
-    cmd = [str(VENV_PYTHON), str(script_path)]
+    cmd = [PYTHON_EXE, str(script_path)]
     if args:
         cmd.extend(args)
 
