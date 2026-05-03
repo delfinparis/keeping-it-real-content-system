@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "02:00",
+      "end_timestamp": "02:59",
+      "quote": "Most of you already have more business hiding in your phone right now that you'll find at the next six networking events combined.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Challenges the conventional wisdom of constant networking by revealing hidden opportunities.",
+      "suggested_hook": "Are you overlooking the goldmine in your phone contacts?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you overlooking the goldmine in your phone contacts?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Most agents are constantly chasing new leads at networking events, but feel like they're spinning their wheels. You're reaching out to your database, but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Our guest revealed, 'Most of you already have more business hiding in your phone right now than you'll find at the next six networking events combined.' [ON-SCREEN: More business in your phone] Instead of chasing new contacts, focus on leveraging existing ones. [ON-SCREEN: Leverage existing contacts] AI tools can help identify these hidden opportunities. [ON-SCREEN: AI tools for prospecting]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Imagine closing 3 more deals this month just by reaching out to your existing contacts. [ON-SCREEN: 3 more deals this month] This agent closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock hidden business in your phone contacts with AI. Are you ready?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#Networking\", \"#RealEstateAgent\", \"#BusinessGrowth\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most of you already have more business hiding in your phone right now than you'll find at the next six networking events combined.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "03:00",
+      "end_timestamp": "03:59",
+      "quote": "Jane texted 42 of those people on a Sunday afternoon. Personal messages, specific, not a mass blast.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic that led to immediate results.",
+      "suggested_hook": "How a simple text message strategy led to a new client."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Ever closed a deal just by texting?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database but nobody's responding. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Jane texted 42 of those people on a Sunday afternoon. Personal messages, specific, not a mass blast. [ON-SCREEN: 42 personal texts] Most agents send generic emails. Top producers make it personal. [ON-SCREEN: Personal over generic]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can do this today. Imagine closing a deal from a simple text. [ON-SCREEN: Close a deal today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Turn your database into clients with a simple text strategy. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#TextStrategy\", \"#ClientCommunication\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents send generic emails. Top producers make it personal.\"\n}\n```"
+  }
+]

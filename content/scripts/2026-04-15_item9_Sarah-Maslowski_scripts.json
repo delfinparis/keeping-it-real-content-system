@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:07:52",
+      "end_timestamp": "00:08:18",
+      "quote": "You do not need tens of thousands of views. You don't even need a thousand views per video. What you need is the right people watching.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the common belief that high view counts are necessary for success.",
+      "suggested_hook": "Are you chasing the wrong YouTube metrics?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you chasing the wrong YouTube metrics?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski just shattered a common myth about YouTube. Most agents think they need thousands of views to succeed. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah says, 'You do not need tens of thousands of views. You don't even need a thousand views per video. What you need is the right people watching.' [ON-SCREEN: Right People > More Views] Most agents focus on view counts. Top producers target their audience. [ON-SCREEN: Target Audience = Success]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start targeting your ideal clients today. Sarah built a content library that attracts leads consistently. [ON-SCREEN: Content Library = Consistent Leads]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop chasing views. Start targeting the right audience. #RealEstateSuccess\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#YouTubeMarketing\", \"#AgentTips\", \"#LeadGeneration\", \"#ContentStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You do not need tens of thousands of views. You need the right people watching.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:04",
+      "end_timestamp": "00:14:19",
+      "quote": "The single biggest timeline killer I see is analysis paralysis.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It addresses a common barrier to starting content creation.",
+      "suggested_hook": "What's stopping you from hitting record?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What's stopping you from hitting record?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski says the biggest timeline killer is analysis paralysis. You're ready to start creating content, but you keep second-guessing every detail. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah explains, 'Most agents overthink every video, waiting for perfection. Top producers hit record and learn as they go.' [ON-SCREEN: Analysis Paralysis] [ON-SCREEN: Hit Record] Don't let fear stop you from building your content library. [ON-SCREEN: Build Content Library]\",\n    \"REFRAME/APPLICATION\": \"This matters because consistency beats perfection. Start today by recording a simple video. Sarah's approach helped her close 47 deals last year. [ON-SCREEN: Consistency Beats Perfection]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Analysis paralysis is killing your timeline. Start recording today! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ContentCreation\", \"#YouTubeMarketing\", \"#AgentAdvice\", \"#Consistency\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents overthink every video, waiting for perfection. Top producers hit record and learn as they go.\"\n}\n```"
+  }
+]

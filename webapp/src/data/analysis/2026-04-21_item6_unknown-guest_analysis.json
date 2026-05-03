@@ -1,0 +1,66 @@
+{
+  "guest_info": {
+    "name": "Mike Opid",
+    "title": "Real Estate Coach",
+    "company": "RE/MAX Next",
+    "production_level": "Top Producer",
+    "specialty": "Coaching agents who feel stuck",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Agent recruitment and retention",
+    "Real estate coaching",
+    "Overcoming career stagnation",
+    "Building effective systems",
+    "Work-life balance for agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents feeling stuck and not knowing what they're doing wrong",
+      "solution_summary": "Introducing a live coaching segment with Mike Opid to provide real-time solutions and plans for agents' challenges.",
+      "timestamp": "03:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode addresses the common issue of feeling stuck in one's career, providing a platform for real-time coaching.",
+      "key_takeaway": "Engaging in honest conversations and seeking coaching can lead to significant breakthroughs in your real estate career."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:02",
+      "end_timestamp": "04:47",
+      "quote": "If you're feeling stuck today, without something changing, you're going to be stuck six months from now, a year from now. Time doesn't fix this stuff. Coaches do, mentors do, honest conversations do.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that time alone will resolve career stagnation, emphasizing the need for proactive change.",
+      "suggested_hook": "Are you waiting for time to solve your career problems?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage in live coaching sessions to address specific career challenges.",
+      "context": "Participate in the monthly 'Breakthrough with Michael' segment to gain personalized advice and solutions.",
+      "timestamp": "03:29"
+    }
+  ],
+  "quotable_insights": [
+    "Real coaching, real problems, real solutions once a month every month."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for identifying agents likely to move and tailoring recruitment strategies."
+    }
+  ],
+  "episode_summary": "This episode introduces 'Breakthrough with Michael,' a new segment offering live coaching for real estate agents feeling stuck in their careers. Mike Opid, a seasoned real estate coach, will guide agents through their challenges, providing actionable solutions and fostering real conversations. The episode emphasizes the importance of proactive change and mentorship in overcoming career stagnation.",
+  "_metadata": {
+    "source_file": "2026-04-21_item6_unknown-guest",
+    "analyzed_at": "2026-05-03T05:07:19.420847",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

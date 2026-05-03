@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Danny Brown",
+    "title": "Luxury Real Estate Advisor",
+    "company": "Compass",
+    "production_level": "$1.2B in volume",
+    "specialty": "Ultra high net worth individuals and family offices",
+    "location": "Beverly Hills, Los Angeles"
+  },
+  "main_topics": [
+    "Building and maintaining a reputation in luxury real estate",
+    "The importance of agent relationships",
+    "Navigating the complexities of working with ultra high net worth clients",
+    "Transitioning from the music industry to real estate",
+    "The role of ethics and honesty in long-term success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Managing multiple stakeholders in ultra high net worth transactions",
+      "solution_summary": "Focus on building long-term relationships and understanding the needs of all parties involved.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing a personal brand in a competitive market",
+      "solution_summary": "Leverage past successes and maintain a consistent, ethical approach to build trust.",
+      "timestamp": "05:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into scaling up to luxury markets and maintaining high ethical standards.",
+      "key_takeaway": "Focus on long-term relationships and ethical practices to succeed in luxury real estate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:08",
+      "end_timestamp": "06:09",
+      "quote": "Doing the right thing is always where I start from. That's the North Star.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of ethics over immediate gains.",
+      "suggested_hook": "Why doing the right thing is your best long-term strategy in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Block scheduling for prospecting",
+      "context": "Set aside a specific time each day for client outreach and agent networking.",
+      "timestamp": "09:20"
+    }
+  ],
+  "quotable_insights": [
+    "Your reputation takes a lifetime to build and can be blown in 30 seconds."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating leads and managing client relationships."
+    }
+  ],
+  "episode_summary": "In this episode, Danny Brown shares his insights on building a successful luxury real estate practice by focusing on long-term relationships and ethical practices. He discusses the importance of agent relationships and managing complex transactions with ultra high net worth clients. Danny also reflects on his transition from the music industry to real estate and the lessons learned along the way.",
+  "_metadata": {
+    "source_file": "2026-04-22_item5_Danny-Brown",
+    "analyzed_at": "2026-05-03T05:08:06.642710",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

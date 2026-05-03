@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:47",
+      "end_timestamp": "00:05:05",
+      "quote": "Short form video is still the biggest thing... it gets more attention, more eyes, more engagement.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of video in gaining engagement, a key metric for agents.",
+      "suggested_hook": "Want to capture more eyes on your listings? Here's the secret weapon."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to capture more eyes on your listings? Here's the secret weapon.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg says short form video is still the biggest thing. You're posting listings, but engagement is low. You're thinking, 'Why aren't more people seeing this?'\",\n    \"INSIGHT\": \"Kim highlights, 'Short form video gets more attention, more eyes, more engagement.' [ON-SCREEN: Short form video = More engagement] Most agents post static images. Top producers leverage video to stand out. [ON-SCREEN: Top producers use video]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start using short form video today. Kim's approach helped agents close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you using short form video yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock more engagement with short form video! Are you using it yet?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#VideoMarketing\", \"#AgentSuccess\", \"#ShortFormVideo\", \"#EngagementBoost\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Short form video gets more attention, more eyes, more engagement.\"\n}\n```"
+  }
+]

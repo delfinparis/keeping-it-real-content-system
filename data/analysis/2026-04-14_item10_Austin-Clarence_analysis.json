@@ -1,0 +1,106 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexa Mortgage",
+    "production_level": "Top producing",
+    "specialty": "Complex financing scenarios, investor strategies",
+    "location": "United States"
+  },
+  "main_topics": [
+    "New Fannie Mae and Freddie Mac condo financing rules",
+    "Bridge loans and HELOCs",
+    "Impact of geopolitical events on mortgage rates",
+    "Opportunities for real estate agents in current market conditions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "New reserve fund requirements for condos",
+      "solution_summary": "Agents should inform condo owners about the new 15% reserve requirement and assist them in preparing for potential HOA fee increases.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Challenges with contingent offers in a competitive market",
+      "solution_summary": "Utilize bridge loans to tap into home equity and make non-contingent offers, strengthening the buyer's position.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Rising interest rates due to geopolitical tensions",
+      "solution_summary": "Educate buyers on the current rate environment and leverage strategies like the 2-1 buy down to manage payments.",
+      "timestamp": "29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging financial tools to close more deals and navigate market challenges.",
+      "key_takeaway": "Understanding and utilizing financial products like bridge loans can significantly enhance your competitive edge in the market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can use this information to train their agents on new market conditions and financial tools.",
+      "key_takeaway": "Educating your team about new financing rules and tools can position your brokerage as a knowledgeable leader in the market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:45",
+      "end_timestamp": "07:30",
+      "quote": "If a condo complex cannot get conventional financing, what do you think is going to happen to demand and home values?",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the potential impact of new financing rules on the condo market.",
+      "suggested_hook": "What happens when a condo complex can't secure conventional financing?"
+    },
+    {
+      "timestamp": "17:30",
+      "end_timestamp": "18:15",
+      "quote": "Bridge loans are huge because you can tap into that equity typically up to 75% of that property's value.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear explanation of how bridge loans can be used strategically.",
+      "suggested_hook": "Unlock your home's equity with bridge loans to make stronger offers."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Inform condo owners about new reserve requirements",
+      "context": "Use this information to engage with condo owners and potentially secure listings.",
+      "timestamp": "05:00"
+    },
+    {
+      "tactic": "Utilize bridge loans for non-contingent offers",
+      "context": "Apply when clients have significant equity in their current home and need to buy before selling.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Educate buyers on the 2-1 buy down strategy",
+      "context": "Use this to help buyers manage higher payments in the first few years of their mortgage.",
+      "timestamp": "32:00"
+    }
+  ],
+  "quotable_insights": [
+    "Educate your clients about the new condo financing rules to help them prepare and potentially save money.",
+    "Bridge loans can be a game-changer for buyers looking to make strong offers without contingencies."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to generate more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Used for recruiting and retention by identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the new Fannie Mae and Freddie Mac condo financing rules and their implications for real estate agents. He also explores the strategic use of bridge loans and HELOCs to strengthen offers in a competitive market. Additionally, the episode covers the impact of geopolitical events on mortgage rates and how agents can leverage these insights to better serve their clients.",
+  "_metadata": {
+    "source_file": "2026-04-14_item10_Austin-Clarence",
+    "analyzed_at": "2026-05-03T05:05:28.409971",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

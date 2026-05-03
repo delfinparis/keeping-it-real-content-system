@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "At Properties, Christie's International Real Estate",
+    "production_level": "Top 1%, $3.5 billion in sales",
+    "specialty": "Luxury properties",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Handling client hesitation in volatile markets",
+    "Importance of answering client calls",
+    "Leveraging multiple interested buyers",
+    "Empathy in client communication",
+    "Strategic decision-making in real estate deals"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Buyer's hesitation due to market volatility",
+      "solution_summary": "Engage in empathetic and logical discussion to separate market noise from the value of the property.",
+      "timestamp": "09:07"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into handling high-stakes negotiations and client management.",
+      "key_takeaway": "Empathy and strategic communication can turn a hesitant buyer into a committed client."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:07",
+      "end_timestamp": "10:14",
+      "quote": "Let's separate the noise of the market from the asset of the home, because the noise in the market to me is very temporary. The house is forever.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the importance of focusing on long-term value over short-term market fluctuations.",
+      "suggested_hook": "Worried about market volatility? Here's why your dream home is still a smart investment."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Schedule a direct call with hesitant buyers to address concerns empathetically.",
+      "context": "When a buyer is reconsidering due to external market factors.",
+      "timestamp": "10:14"
+    }
+  ],
+  "quotable_insights": [
+    "You always win if you do the right thing."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective sales and marketing solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares a compelling story of how empathy and strategic communication helped save a high-value real estate deal. She emphasizes the importance of answering client calls and understanding their needs, especially in volatile markets. The episode provides actionable insights for real estate agents on managing client relationships and leveraging multiple interested buyers.",
+  "_metadata": {
+    "source_file": "2026-04-20_item7_Carrie-McCormick",
+    "analyzed_at": "2026-05-03T05:07:08.246883",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

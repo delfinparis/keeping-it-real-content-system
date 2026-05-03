@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "06:45",
+      "end_timestamp": "07:30",
+      "quote": "If a condo complex cannot get conventional financing, what do you think is going to happen to demand and home values?",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the potential impact of new financing rules on the condo market.",
+      "suggested_hook": "What happens when a condo complex can't secure conventional financing?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What happens when a condo complex can't secure conventional financing?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence highlighted a critical issue: new Fannie Mae and Freddie Mac rules are shaking up condo financing. If you're dealing with condos, this could mean trouble. Imagine trying to sell a unit, but buyers can't get a conventional loan. It's a nightmare scenario.\",\n    \"INSIGHT\": \"Austin says, 'If a condo complex cannot get conventional financing, what do you think is going to happen to demand and home values?' [ON-SCREEN: Demand drops, values plummet] Most agents overlook this, but top producers are already strategizing with bridge loans and HELOCs. [ON-SCREEN: Bridge loans, HELOCs] They know the market impact and are ready to pivot.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start exploring alternative financing options today. Austin's approach helped him navigate 15 complex deals last year. [ON-SCREEN: 15 complex deals closed]\",\n    \"CTA\": \"Are you prepared for these changes — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"New condo financing rules could change everything. Are you ready? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#CondoMarket\",\n    \"#Financing\",\n    \"#AgentTips\",\n    \"#MarketIntelligence\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If a condo complex cannot get conventional financing, what do you think is going to happen to demand and home values?\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "17:30",
+      "end_timestamp": "18:15",
+      "quote": "Bridge loans are huge because you can tap into that equity typically up to 75% of that property's value.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear explanation of how bridge loans can be used strategically.",
+      "suggested_hook": "Unlock your home's equity with bridge loans to make stronger offers."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Unlock your home's equity with bridge loans today!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changing strategy on our latest episode. You're eyeing that dream property, but your current home's equity is tied up. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Bridge loans are huge because you can tap into that equity typically up to 75% of that property's value. [ON-SCREEN: Bridge loans up to 75% equity] This means you can make stronger offers without waiting to sell your current home. [ON-SCREEN: Make stronger offers now]\",\n    \"REFRAME/APPLICATION\": \"Why wait? You can leverage this tactic today to stand out in a competitive market. [ON-SCREEN: Stand out today] This approach helped Austin close 47 deals last year.\",\n    \"CTA\": \"Are you using bridge loans in your strategy — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock your home's equity with bridge loans and make stronger offers today!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#BridgeLoans\", \"#HomeBuying\", \"#Equity\", \"#RealEstateAgent\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Bridge loans are huge because you can tap into that equity typically up to 75% of that property's value.\"\n}\n```"
+  }
+]

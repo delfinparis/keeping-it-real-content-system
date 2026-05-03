@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:07",
+      "end_timestamp": "10:14",
+      "quote": "Let's separate the noise of the market from the asset of the home, because the noise in the market to me is very temporary. The house is forever.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the importance of focusing on long-term value over short-term market fluctuations.",
+      "suggested_hook": "Worried about market volatility? Here's why your dream home is still a smart investment."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Worried about market volatility? Here's why your dream home is still a smart investment.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick said it best on our latest episode. You're seeing headlines about market volatility, and your clients are hesitating. They're worried about making a bad investment. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Let's separate the noise of the market from the asset of the home, because the noise in the market to me is very temporary. The house is forever. [ON-SCREEN: Market noise is temporary] Most agents focus on short-term trends. Top producers emphasize long-term value. [ON-SCREEN: Focus on long-term value]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can reassure clients today by focusing on the enduring value of their dream home. Carrie McCormick, who closed 47 deals last year, uses this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you focusing on long-term value with your clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Market noise is temporary. Your dream home is forever. #RealEstateAdvice\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#MarketTrends\", \"#HomeInvestment\", \"#LongTermValue\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"The noise in the market is temporary. The house is forever.\"\n}\n```"
+  }
+]

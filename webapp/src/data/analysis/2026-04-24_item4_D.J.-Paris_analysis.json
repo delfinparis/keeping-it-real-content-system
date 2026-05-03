@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Unknown Guest",
+    "title": "N/A",
+    "company": "N/A",
+    "production_level": "N/A",
+    "specialty": "N/A",
+    "location": "N/A"
+  },
+  "main_topics": [
+    "AI in real estate prospecting",
+    "Leveraging existing contacts for business",
+    "AI strategies for real estate agents",
+    "Improving client communication",
+    "Time management and productivity"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in identifying potential clients within existing contacts",
+      "solution_summary": "Use AI to rank contacts by decay risk and identify potential clients.",
+      "timestamp": "01:29"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Inefficient follow-ups and CRM management",
+      "solution_summary": "Implement AI-driven strategies to automate follow-ups and CRM entries.",
+      "timestamp": "03:42"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Lack of personal touch in client communications",
+      "solution_summary": "Use AI to craft personalized messages for life events and milestones.",
+      "timestamp": "04:47"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to leverage AI to gain a competitive edge.",
+      "key_takeaway": "AI can help you prospect more effectively by using your existing contacts."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can improve their follow-up efficiency and client engagement.",
+      "key_takeaway": "Automating follow-ups can free up time and improve client relationships."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Top producers can maintain their edge by adopting new AI strategies.",
+      "key_takeaway": "Adopting AI strategies now can prevent competitors from overtaking you."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "02:00",
+      "end_timestamp": "02:59",
+      "quote": "Most of you already have more business hiding in your phone right now that you'll find at the next six networking events combined.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Challenges the conventional wisdom of constant networking by revealing hidden opportunities.",
+      "suggested_hook": "Are you overlooking the goldmine in your phone contacts?"
+    },
+    {
+      "timestamp": "03:00",
+      "end_timestamp": "03:59",
+      "quote": "Jane texted 42 of those people on a Sunday afternoon. Personal messages, specific, not a mass blast.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic that led to immediate results.",
+      "suggested_hook": "How a simple text message strategy led to a new client."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "90-day sphere audit",
+      "context": "Use AI to rank contacts by decay risk and identify potential clients.",
+      "timestamp": "04:27"
+    },
+    {
+      "tactic": "Life event listener",
+      "context": "Send personalized messages for life events to strengthen relationships.",
+      "timestamp": "04:47"
+    },
+    {
+      "tactic": "Your voice in a box",
+      "context": "Create a custom AI model to maintain your personal voice in communications.",
+      "timestamp": "05:06"
+    }
+  ],
+  "quotable_insights": [
+    "The business is already in your sphere; you just can't see it yet.",
+    "You don't have an effort problem; you have a leverage problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "keepingitrealwebinar.com",
+      "context": "Platform for registering for the AI strategies webinar."
+    }
+  ],
+  "episode_summary": "In this episode, D.J. Paris discusses how real estate agents can leverage AI to uncover hidden business opportunities within their existing contacts. He introduces five actionable AI strategies that improve prospecting, client communication, and time management. The episode emphasizes the importance of using AI to gain a competitive edge and enhance productivity.",
+  "_metadata": {
+    "source_file": "2026-04-24_item4_D.J.-Paris",
+    "analyzed_at": "2026-05-03T05:08:21.903815",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Not mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Not mentioned",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Importance of Google business profiles for real estate agents",
+    "Impact of online reviews on client decisions",
+    "Steps to optimize Google business profiles",
+    "Strategies for requesting client reviews",
+    "Using reviews for content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents losing referrals due to poor or non-existent Google profiles",
+      "solution_summary": "Optimize Google business profiles by claiming and updating them, and actively request reviews from clients.",
+      "timestamp": "00:03:08"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Agents not asking for reviews and missing out on potential business",
+      "solution_summary": "Implement a system to request reviews within 72 hours of closing a deal.",
+      "timestamp": "00:09:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode highlights how intermediate agents can enhance their online presence to secure more referrals.",
+      "key_takeaway": "Regularly update and optimize your Google business profile and actively seek client reviews to boost credibility."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:18",
+      "end_timestamp": "00:02:40",
+      "quote": "The referral doesn't close the deal. Google does.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the traditional reliance on word-of-mouth referrals.",
+      "suggested_hook": "Think referrals are enough? Think again."
+    },
+    {
+      "timestamp": "00:15:45",
+      "end_timestamp": "00:16:03",
+      "quote": "If you do this for five years, not fix the profile, you've already quietly donated six figures to other agents.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the financial impact of neglecting online profiles.",
+      "suggested_hook": "Are you unknowingly donating thousands to your competitors?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Claim and complete your Google business profile",
+      "context": "Ensure all information is accurate and up-to-date to improve visibility and credibility.",
+      "timestamp": "00:08:16"
+    },
+    {
+      "tactic": "Send review requests within 72 hours of closing",
+      "context": "Prompt clients to leave reviews while the experience is fresh.",
+      "timestamp": "00:10:57"
+    }
+  ],
+  "quotable_insights": [
+    "The referral gives you the warm introduction. Google is where they decide whether to show up for the introduction.",
+    "Incomplete profiles actually signal lower credibility to Google's algorithm."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Gatherup",
+      "context": "Recommended for automating the process of requesting and managing client reviews."
+    }
+  ],
+  "episode_summary": "This episode emphasizes the critical role of Google business profiles in securing client referrals for real estate agents. D.J. Paris and Tim Littleton discuss the high percentage of agents lacking optimized profiles and provide actionable steps to claim, update, and leverage these profiles for increased credibility and business growth. They also highlight the importance of requesting client reviews and suggest using tools like Gatherup to streamline the process.",
+  "_metadata": {
+    "source_file": "2026-04-27_item3_unknown-guest",
+    "analyzed_at": "2026-05-03T05:08:55.286271",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
