@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Kristy Nakamura",
+    "title": "Team Leader",
+    "company": "Your Oahu Home Team with eXp",
+    "production_level": "Top Producing REALTOR",
+    "specialty": "VA loans and military families",
+    "location": "Oahu, Hawaii"
+  },
+  "main_topics": [
+    "Building a niche in VA loans",
+    "Leveraging existing databases for business",
+    "AI in real estate operations",
+    "Multi-generational housing solutions",
+    "Effective use of seller credits"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Chasing every shiny new lead source",
+      "solution_summary": "Focus on existing database and referrals for more meaningful and less stressful transactions.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding military family needs",
+      "solution_summary": "Provide comprehensive relocation support and community insights to military families.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High interest rates affecting affordability",
+      "solution_summary": "Use seller credits to pay off debts and reduce interest rates for buyers.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who are struggling to grow beyond their current level by leveraging their existing network.",
+      "key_takeaway": "Focus on your sphere of influence and provide exceptional value to generate referrals and repeat business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "I said, you know what, we're gonna go with you, but I need you to show me what you're doing every step of the way, because I wanna learn what you're doing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of learning and understanding the process to improve one's own skills.",
+      "suggested_hook": "Want to learn the secrets of top agents? Here's how Kristy Nakamura did it."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller credits to pay off buyer's debts.",
+      "context": "When working with VA loans to make homes more affordable.",
+      "timestamp": "30:00"
+    },
+    {
+      "tactic": "Create detailed video walkthroughs for sight-unseen buyers.",
+      "context": "To ensure buyers have a clear understanding of the property.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Why are we not taking more time to really dig into these relationships and not be transactional at all?"
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Kristy Nakamura shares her journey of building a successful real estate business by focusing on VA loans and military families. She emphasizes the importance of leveraging existing relationships over chasing new leads and discusses how AI tools can enhance real estate operations. Kristy also provides insights into multi-generational housing solutions and the strategic use of seller credits to make homes more affordable.",
+  "_metadata": {
+    "source_file": "2026-05-07_item1_Kristy-Nakamura",
+    "analyzed_at": "2026-05-10T05:09:30.115472",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

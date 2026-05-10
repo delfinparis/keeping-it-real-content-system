@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "I said, you know what, we're gonna go with you, but I need you to show me what you're doing every step of the way, because I wanna learn what you're doing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of learning and understanding the process to improve one's own skills.",
+      "suggested_hook": "Want to learn the secrets of top agents? Here's how Kristy Nakamura did it."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to learn the secrets of top agents?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kristy Nakamura faced a challenge we all know too well. You're eager to learn, but the process feels like a mystery. You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Kristy said, 'I said, you know what, we're gonna go with you, but I need you to show me what you're doing every step of the way, because I wanna learn what you're doing.' [ON-SCREEN: Show me every step] Most agents wait for results. Top producers dive into the process. [ON-SCREEN: Dive into the process]\",\n    \"REFRAME/APPLICATION\": \"Why this matters? Understanding the process means you can replicate success. You can do this today. Kristy built her niche in VA loans using this exact approach. [ON-SCREEN: Replicate success]\",\n    \"CTA\": \"Are you asking to learn the process — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock the secrets of top agents by learning every step of the process. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSecrets\", \"#TopProducer\", \"#LearnAndGrow\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for results. Top producers dive into the process.\"\n}\n```"
+  }
+]

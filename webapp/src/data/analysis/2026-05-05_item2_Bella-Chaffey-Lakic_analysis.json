@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Bella Chaffey Lakic",
+    "title": "REALTOR",
+    "company": "JP Real Estate",
+    "production_level": "NAR 30 under 30",
+    "specialty": "Marketing and YouTube Content Creation",
+    "location": "Seattle, Washington"
+  },
+  "main_topics": [
+    "Using YouTube for Real Estate Marketing",
+    "Challenges of Young Agents in Real Estate",
+    "Importance of Sphere of Influence",
+    "Creating Evergreen Content",
+    "Community Involvement and Industry Service"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Young agents lack a sphere of influence",
+      "solution_summary": "Focus on creating YouTube content to reach a broader audience and establish credibility.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Utilize high-quality video content and neighborhood tours to differentiate from other agents.",
+      "timestamp": "00:06:32"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Agents not utilizing YouTube effectively",
+      "solution_summary": "Create evergreen content that answers common relocation questions and showcases local neighborhoods.",
+      "timestamp": "00:07:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with building a client base and can benefit from alternative marketing strategies.",
+      "key_takeaway": "Focus on creating valuable content on platforms like YouTube to build credibility and reach potential clients."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Agents who have plateaued can learn to leverage video content for better engagement.",
+      "key_takeaway": "Experiment with neighborhood tours and market updates to attract a wider audience."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:32",
+      "end_timestamp": "00:07:08",
+      "quote": "YouTube is a search engine, not just a social media platform.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common perception of YouTube and highlights its potential for real estate marketing.",
+      "suggested_hook": "Are you using YouTube the right way for your real estate business?"
+    },
+    {
+      "timestamp": "00:12:23",
+      "end_timestamp": "00:12:50",
+      "quote": "The phone can take you a long way these days.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Encourages agents to start creating content without needing expensive equipment.",
+      "suggested_hook": "Think you need fancy gear to start video marketing? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create neighborhood tour videos",
+      "context": "To attract clients interested in relocating and searching for local information.",
+      "timestamp": "00:16:36"
+    },
+    {
+      "tactic": "Use short-form videos to increase reach",
+      "context": "Post on platforms like Instagram and YouTube Shorts to quickly grow your audience.",
+      "timestamp": "00:15:52"
+    }
+  ],
+  "quotable_insights": [
+    "Your sphere is always important, but it evolves as your career grows.",
+    "Focus on creating valuable content that answers questions and provides insights."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "DJI Osmo",
+      "context": "Recommended for affordable and easy-to-use video stabilization."
+    },
+    {
+      "type": "tool",
+      "name": "teleprompter.com",
+      "context": "Suggested for creating scripts and improving video delivery."
+    }
+  ],
+  "episode_summary": "In this episode, Bella Chaffey Lakic shares her journey from a young real estate agent with no sphere of influence to becoming an NAR 30 under 30 honoree. She discusses the power of YouTube as a marketing tool, the importance of creating evergreen content, and how agents can stand out by focusing on valuable, localized video content. Bella also emphasizes the significance of community involvement and industry service in building a successful real estate career.",
+  "_metadata": {
+    "source_file": "2026-05-05_item2_Bella-Chaffey-Lakic",
+    "analyzed_at": "2026-05-10T05:08:40.493776",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

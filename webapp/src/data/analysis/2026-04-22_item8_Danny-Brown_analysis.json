@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Danny Brown",
+    "title": "Luxury Real Estate Advisor",
+    "company": "Compass",
+    "production_level": "$1.2 billion in volume",
+    "specialty": "Luxury real estate for ultra high net worth individuals",
+    "location": "Beverly Hills, Los Angeles"
+  },
+  "main_topics": [
+    "Building and maintaining a reputation in luxury real estate",
+    "The importance of agent relationships",
+    "Navigating the complexities of working with ultra high net worth clients",
+    "The impact of the NAR settlement on buyer agreements",
+    "Strategies for moving upmarket in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Maintaining reputation in a competitive market",
+      "solution_summary": "Focus on doing the right thing for clients and maintaining long-term relationships.",
+      "timestamp": "00:05:08"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling multiple stakeholders in high net worth transactions",
+      "solution_summary": "Build rapport with all parties involved and prioritize the client's best interests.",
+      "timestamp": "00:12:01"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Getting burned by not having buyer representation agreements",
+      "solution_summary": "Always secure a buyer representation agreement, even if it feels unnecessary.",
+      "timestamp": "00:24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a luxury real estate practice.",
+      "key_takeaway": "Focus on building strong relationships and maintaining a reputation for integrity."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses the benefits and challenges of running a lean operation versus a large team.",
+      "key_takeaway": "A lean operation can be just as profitable as a large team if managed correctly."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:08",
+      "end_timestamp": "00:06:09",
+      "quote": "Doing the right thing is always where I start from. That's the North Star.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of integrity in building a long-term career.",
+      "suggested_hook": "What's the secret to a successful real estate career? Start with integrity."
+    },
+    {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:25:06",
+      "quote": "I made the mistake of not getting a buyer-broker representation signed.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a common mistake and the importance of securing agreements.",
+      "suggested_hook": "Avoid this costly mistake in real estate deals."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Secure buyer representation agreements",
+      "context": "To protect your commission and ensure client commitment.",
+      "timestamp": "00:24:00"
+    },
+    {
+      "tactic": "Invest in relationships with other agents",
+      "context": "To ensure smooth transactions and access to off-market opportunities.",
+      "timestamp": "00:08:21"
+    }
+  ],
+  "quotable_insights": [
+    "Your reputation takes a lifetime to build and you can blow it all in 30 seconds."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For recruiting and retention using AI insights."
+    }
+  ],
+  "episode_summary": "In this episode, Danny Brown shares insights into building a successful luxury real estate practice by focusing on integrity and strong relationships. He discusses the importance of securing buyer representation agreements and the nuances of working with ultra high net worth clients. The episode also covers strategies for moving upmarket and maintaining a lean yet profitable operation.",
+  "_metadata": {
+    "source_file": "2026-04-22_item8_Danny-Brown",
+    "analyzed_at": "2026-05-10T05:05:45.836780",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

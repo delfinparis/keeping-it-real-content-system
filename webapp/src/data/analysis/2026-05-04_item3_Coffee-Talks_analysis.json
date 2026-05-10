@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Coffee Talks",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Changing demographics of home buyers",
+    "Marketing strategies for real estate agents",
+    "The importance of targeting the right audience",
+    "Building relationships with key referral sources",
+    "Adapting to market changes"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Agents are marketing to the wrong demographic.",
+      "solution_summary": "Shift focus to older buyers, specifically those aged 55 and above, who hold significant equity.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of content for cash buyers and older demographics.",
+      "solution_summary": "Create content that speaks to equity-rich sellers and all-cash buyers.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents don't have relationships with key referral sources.",
+      "solution_summary": "Build relationships with CPAs, estate planning attorneys, financial advisors, and downsizing consultants.",
+      "timestamp": "00:09:35"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode highlights the need to pivot marketing strategies to align with current market demographics.",
+      "key_takeaway": "Focus on building relationships with older, equity-rich clients and their advisors."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:01",
+      "end_timestamp": "00:03:12",
+      "quote": "The typical buyer in this country is right now nearly 60 years old.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It challenges the common perception of the average home buyer's age.",
+      "suggested_hook": "Are you marketing to the wrong age group?"
+    },
+    {
+      "timestamp": "00:10:01",
+      "end_timestamp": "00:10:14",
+      "quote": "I specialize in equity rich sellers and all cash buyers. Most agents don't.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear differentiator for agents to use in their marketing.",
+      "suggested_hook": "Stand out from the competition with this niche focus."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Content Pivot",
+      "context": "Focus content on downsizing tradeoffs, equity repositioning, and reverse mortgage myths.",
+      "timestamp": "00:08:15"
+    },
+    {
+      "tactic": "Referral Pivot",
+      "context": "Build relationships with CPAs, estate planning attorneys, financial advisors, and downsizing consultants.",
+      "timestamp": "00:09:35"
+    },
+    {
+      "tactic": "Listing Presentation Pivot",
+      "context": "Identify and describe the typical buyer for the seller's home during presentations.",
+      "timestamp": "00:11:02"
+    }
+  ],
+  "quotable_insights": [
+    "You're not losing to other agents; you're losing to the wrong audience.",
+    "Equity doesn't retire; agents who chase it don't either."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode of Coffee Talks highlights the shift in the real estate market towards older, equity-rich buyers and sellers. It provides actionable strategies for agents to pivot their marketing efforts, build key referral relationships, and adapt their listing presentations to better align with current market demographics.",
+  "_metadata": {
+    "source_file": "2026-05-04_item3_Coffee-Talks",
+    "analyzed_at": "2026-05-10T05:07:47.194870",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video content creation for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of short form video",
+    "Leveraging AI for content creation",
+    "Building personal brand through video",
+    "Social media strategies for real estate agents",
+    "Searchability and online presence"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not utilizing video effectively",
+      "solution_summary": "Use short form videos on social media to increase engagement and visibility.",
+      "timestamp": "00:03:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Time-consuming video editing",
+      "solution_summary": "Utilize AI editing tools to efficiently cut and edit video content.",
+      "timestamp": "00:07:52"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in staying top of mind with clients",
+      "solution_summary": "Consistently post videos to activate sphere of influence and generate repeat clients.",
+      "timestamp": "00:09:16"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode highlights advanced video strategies to enhance personal branding and client engagement.",
+      "key_takeaway": "Leverage short form video and AI tools to boost visibility and efficiency."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Provides foundational advice on starting with video content and using AI to simplify processes.",
+      "key_takeaway": "Start with short form videos and use AI to streamline content creation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:47",
+      "end_timestamp": "00:05:05",
+      "quote": "The agents that I work with are doing video are doing great.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the success of agents using video, encouraging others to adopt the strategy.",
+      "suggested_hook": "Want to know why video is a game-changer for real estate agents?"
+    },
+    {
+      "timestamp": "00:09:16",
+      "end_timestamp": "00:09:29",
+      "quote": "When you're top of mind, they're remembering you and they're like, oh, yeah, actually, let me reach out.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of staying visible to clients.",
+      "suggested_hook": "Are you staying top of mind with your clients?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create short form, vertical videos for social media platforms.",
+      "context": "Use for home tours and personal branding to maximize engagement.",
+      "timestamp": "00:03:58"
+    },
+    {
+      "tactic": "Use AI to generate content calendars and scripts.",
+      "context": "Plan monthly content and streamline scriptwriting.",
+      "timestamp": "00:05:09"
+    }
+  ],
+  "quotable_insights": [
+    "You're not just selling one home, you're selling yourself.",
+    "Hiding from the camera is hiding from clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the power of short form video and AI tools in enhancing real estate agents' online presence and efficiency. She provides actionable insights on creating engaging video content and leveraging AI for content planning and editing. The discussion highlights the importance of personal branding and staying top of mind with clients through consistent video engagement.",
+  "_metadata": {
+    "source_file": "2026-04-29_item5_Kim-Rittberg",
+    "analyzed_at": "2026-05-10T05:06:54.205862",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

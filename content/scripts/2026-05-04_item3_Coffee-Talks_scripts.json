@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:01",
+      "end_timestamp": "00:03:12",
+      "quote": "The typical buyer in this country is right now nearly 60 years old.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It challenges the common perception of the average home buyer's age.",
+      "suggested_hook": "Are you marketing to the wrong age group?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you marketing to the wrong age group?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton just revealed something that might shock you. The typical buyer in this country is now nearly 60 years old. If you're targeting millennials, you might be missing out on a huge market. You're sending out those emails, but the response isn't what you expected. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim shared that most agents focus on younger buyers, but the data shows the average buyer is much older. [ON-SCREEN: Average Buyer Age: 60] He suggests shifting your marketing to cater to this demographic. [ON-SCREEN: Target Older Buyers] Build relationships with key referral sources like financial planners who work with retirees. [ON-SCREEN: Referral Sources] This can open doors to more opportunities.\",\n    \"REFRAME/APPLICATION\": \"This matters because the market is changing fast. You can adjust your strategy today by reaching out to older buyers. [ON-SCREEN: Market Shift] Tim's approach helped him close 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you marketing to the wrong age group? The average buyer is nearly 60!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MarketingStrategy\", \"#HomeBuyers\", \"#RealEstateAgents\", \"#MarketTrends\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"The typical buyer in this country is now nearly 60 years old.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:10:01",
+      "end_timestamp": "00:10:14",
+      "quote": "I specialize in equity rich sellers and all cash buyers. Most agents don't.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear differentiator for agents to use in their marketing.",
+      "suggested_hook": "Stand out from the competition with this niche focus."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to dominate with equity-rich sellers and cash buyers?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton says most agents miss this niche. You're hustling for leads, but nothing sticks. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim specializes in equity-rich sellers and all-cash buyers. [ON-SCREEN: Equity-rich sellers] Most agents don't. [ON-SCREEN: All-cash buyers] This focus sets him apart in a crowded market. [ON-SCREEN: Stand out]\",\n    \"REFRAME/APPLICATION\": \"Why now? The market's shifting. Targeting these groups can boost your closings. [ON-SCREEN: Market shift] You can start today.\",\n    \"CTA\": \"Are you targeting these niches — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stand out by focusing on equity-rich sellers and cash buyers. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#AgentAdvice\",\n    \"#MarketStrategy\",\n    \"#HomeSelling\",\n    \"#RealEstateMarketing\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Tim specializes in equity-rich sellers and all-cash buyers. Most agents don't.\"\n}\n```"
+  }
+]

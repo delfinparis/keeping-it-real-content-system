@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:02:39",
+      "end_timestamp": "00:02:59",
+      "quote": "150 relationships on ice because she couldn't figure out the first sentence.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a common struggle and the emotional barrier in client communication.",
+      "suggested_hook": "Are you losing business because you don't know what to say?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are 150 relationships on ice because of one sentence?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"An agent had 150 potential clients but couldn't start the conversation. Sound familiar? You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Our guest shared how AI can craft that perfect first sentence. [ON-SCREEN: AI crafts perfect openers] Most agents freeze up. [ON-SCREEN: Most agents freeze] Top producers use AI to break the ice. [ON-SCREEN: Top producers use AI] Imagine turning those 150 cold leads into warm conversations. [ON-SCREEN: 150 cold leads → warm conversations]\",\n    \"REFRAME/APPLICATION\": \"Why wait? You can start using AI today to unlock hidden opportunities. This agent transformed her approach and closed 47 deals last year. [ON-SCREEN: Closed 47 deals]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock hidden opportunities with AI. Are you ready to transform your approach?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#ClientCommunication\", \"#AgentTips\", \"#AIProspecting\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Imagine turning those 150 cold leads into warm conversations.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:03:04",
+      "end_timestamp": "00:03:08",
+      "quote": "Real business from people who already knew her name.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the effectiveness of a simple AI strategy in generating business.",
+      "suggested_hook": "Unlock hidden business opportunities in your contact list!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Your contact list is a goldmine waiting to be tapped!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ever feel like you're reaching out to your database, but nobody's responding? You're not alone. An agent on our show shared a simple AI strategy that turned her contact list into real business from people who already knew her name.\",\n    \"INSIGHT\": \"She used AI to analyze her contact list, identifying who was most likely to engage. [ON-SCREEN: AI Strategy] By focusing on these warm leads, she generated new business effortlessly. [ON-SCREEN: Warm Leads] Most agents send generic messages. She personalized her outreach, and it paid off. [ON-SCREEN: Personalized Outreach]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Imagine closing deals with people who already trust you. [ON-SCREEN: Trust Equals Deals] This agent closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you using AI to unlock your contact list — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock the hidden potential in your contact list with AI! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#ClientEngagement\", \"#BusinessGrowth\", \"#RealEstateAgent\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Imagine closing deals with people who already trust you.\"\n}\n```"
+  }
+]

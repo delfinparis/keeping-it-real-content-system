@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Unknown Guest",
+    "title": null,
+    "company": null,
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Using AI for business prospecting",
+    "Identifying hidden business opportunities",
+    "AI strategies for real estate agents",
+    "Leveraging existing contacts",
+    "Improving client communication"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to get more business with AI",
+      "solution_summary": "Implement AI strategies to identify and leverage existing contacts for business opportunities.",
+      "timestamp": "00:00:55"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Difficulty in reaching out to past contacts",
+      "solution_summary": "Use AI to craft personalized messages to re-engage with past contacts.",
+      "timestamp": "00:02:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents struggling with traditional prospecting methods can learn to leverage AI for better results.",
+      "key_takeaway": "AI can provide leverage in prospecting, making it easier to connect with potential clients."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Agents doing 5-15 deals a year can streamline follow-ups and improve efficiency.",
+      "key_takeaway": "AI strategies can help reclaim time and improve follow-up processes."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Top producers can maintain their edge by adopting AI strategies before competitors do.",
+      "key_takeaway": "Learning new AI strategies while successful can prevent losing market share."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:39",
+      "end_timestamp": "00:02:59",
+      "quote": "150 relationships on ice because she couldn't figure out the first sentence.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a common struggle and the emotional barrier in client communication.",
+      "suggested_hook": "Are you losing business because you don't know what to say?"
+    },
+    {
+      "timestamp": "00:03:04",
+      "end_timestamp": "00:03:08",
+      "quote": "Real business from people who already knew her name.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the effectiveness of a simple AI strategy in generating business.",
+      "suggested_hook": "Unlock hidden business opportunities in your contact list!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "90-day sphere audit",
+      "context": "Use AI to rank contacts by decay risk to identify potential clients.",
+      "timestamp": "00:04:27"
+    },
+    {
+      "tactic": "Life event listener",
+      "context": "Send personalized messages for life milestones to build stronger relationships.",
+      "timestamp": "00:04:47"
+    },
+    {
+      "tactic": "Your voice in a box",
+      "context": "Create a custom AI model to maintain consistent communication style.",
+      "timestamp": "00:05:06"
+    }
+  ],
+  "quotable_insights": [
+    "The business is already in your sphere; you just can't see it yet.",
+    "You don't have an effort problem; you have a leverage problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "keepingitrealwebinar.com",
+      "context": "Platform for registering for the AI strategies webinar."
+    }
+  ],
+  "episode_summary": "This episode of 'Keeping It Real' with DJ Paris focuses on leveraging AI to uncover hidden business opportunities within existing contacts. By implementing specific AI strategies, real estate agents can improve their prospecting efforts, streamline client communication, and ultimately increase their business. The episode provides actionable insights and a preview of an upcoming webinar designed to teach these AI techniques.",
+  "_metadata": {
+    "source_file": "2026-04-24_item7_D.J.-Paris",
+    "analyzed_at": "2026-05-10T05:05:57.501587",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

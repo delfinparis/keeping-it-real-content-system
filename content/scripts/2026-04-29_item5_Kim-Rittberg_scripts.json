@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:47",
+      "end_timestamp": "00:05:05",
+      "quote": "The agents that I work with are doing video are doing great.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the success of agents using video, encouraging others to adopt the strategy.",
+      "suggested_hook": "Want to know why video is a game-changer for real estate agents?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to know why video is a game-changer for real estate agents?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg says the agents she works with who use video are thriving. You're posting listings, but engagement is low. You're wondering why your efforts aren't translating into leads. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Kim highlights that video content is key. 'The agents that I work with are doing video are doing great.' [ON-SCREEN: Video is Key] Most agents post static images. Top producers leverage video to build a personal brand and increase visibility. [ON-SCREEN: Build Your Brand with Video]\",\n    \"REFRAME/APPLICATION\": \"This matters because video boosts your online presence and searchability. You can start today by creating a short video tour of a listing. Kim's agents have seen significant growth using this approach. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you using video in your strategy — yes or no? Drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover why video is essential for real estate success. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#VideoMarketing\", \"#AgentSuccess\", \"#SocialMediaStrategy\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents post static images. Top producers leverage video to build a personal brand.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:16",
+      "end_timestamp": "00:09:29",
+      "quote": "When you're top of mind, they're remembering you and they're like, oh, yeah, actually, let me reach out.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of staying visible to clients.",
+      "suggested_hook": "Are you staying top of mind with your clients?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you staying top of mind with your clients?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg shared something crucial on our podcast. You're reaching out to your database, but nobody's responding. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"When you're top of mind, they're remembering you and they're like, oh, yeah, actually, let me reach out. [ON-SCREEN: Stay Top of Mind] Most agents send generic emails. Top producers use personalized short-form videos. [ON-SCREEN: Use Video] This creates a connection and keeps you visible. [ON-SCREEN: Be Visible]\",\n    \"REFRAME/APPLICATION\": \"This matters because visibility leads to opportunities. You can do this today by creating a quick video update for your clients. [ON-SCREEN: Quick Video Update]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stay top of mind with your clients using short-form video. Are you doing this?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientEngagement\", \"#VideoMarketing\", \"#TopProducer\", \"#StayVisible\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents send generic emails. Top producers use personalized short-form videos.\"\n}\n```"
+  }
+]

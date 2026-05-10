@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "06:30",
+      "end_timestamp": "07:30",
+      "quote": "He asked ChatGPT who the top real estate agent in Chicago was, and it recommended me.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the modern ways clients are finding agents and the importance of maintaining a strong online presence.",
+      "suggested_hook": "Ever wondered how AI is changing real estate referrals?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Ever wondered how AI is changing real estate referrals?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick shared a surprising story: a client asked ChatGPT for the top real estate agent in Chicago, and it recommended her. Imagine you're trying to stand out in a crowded market, but your online presence isn't up to par. You're missing calls, and potential clients are slipping through the cracks.\",\n    \"INSIGHT\": \"Carrie said, 'He asked ChatGPT who the top real estate agent in Chicago was, and it recommended me.' [ON-SCREEN: AI recommends top agent] This highlights the modern ways clients are finding agents. Most agents rely on traditional referrals. Top producers leverage AI and maintain a strong online presence. [ON-SCREEN: Strong online presence] It's not just about being good at your job; it's about being visible.\",\n    \"REFRAME/APPLICATION\": \"This matters because AI is reshaping client discovery. Update your online profiles today. Carrie closed 47 deals last year using exactly this approach. [ON-SCREEN: Update profiles today]\",\n    \"CTA\": \"Are you leveraging AI in your business — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI is changing how clients find agents. Are you ready? #RealEstate #AI\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#RealEstateAgent\", \"#TechInRealEstate\", \"#AgentTips\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on traditional referrals. Top producers leverage AI and maintain a strong online presence.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "Let's separate the noise of the market from the asset of the home.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on the intrinsic value of properties rather than market fluctuations.",
+      "suggested_hook": "How to keep your clients focused on what truly matters in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are your clients distracted by market noise?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick shared a game-changing mindset shift on our podcast. Many agents struggle when clients hesitate in volatile markets. You're trying to reassure them, but the market's chaos is all they see. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie says, 'Let's separate the noise of the market from the asset of the home.' [ON-SCREEN: Separate Market Noise] Focus on the home's intrinsic value. Most agents get caught up in market trends. Top producers remind clients why they fell in love with the property in the first place. [ON-SCREEN: Focus on Intrinsic Value]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can apply this today by reframing your conversations. Carrie closed 47 deals last year using this approach. [ON-SCREEN: Reframe Conversations]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Separate market noise from the home's value. Are you doing this already?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MarketMindset\", \"#AgentAdvice\", \"#HomeValue\", \"#ClientFocus\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Let's separate the noise of the market from the asset of the home.\"\n}\n```"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top Real Estate Agent",
+    "company": "At Properties, Christie's International Real Estate",
+    "production_level": "Top 1%, $3.5B in sales",
+    "specialty": "Luxury properties",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Handling client hesitation in volatile markets",
+    "Importance of answering phone calls",
+    "Leveraging multiple interested buyers",
+    "Empathetic communication in real estate",
+    "Strategic decision-making in deals"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Buyer's hesitation due to market volatility",
+      "solution_summary": "Engage in empathetic and logical discussions to separate market noise from property value.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Missed opportunities from not answering calls",
+      "solution_summary": "Always answer phone calls to capture potential high-value leads.",
+      "timestamp": "05:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on handling high-stakes deals and client management.",
+      "key_takeaway": "Empathetic communication and strategic thinking can save deals and enhance client trust."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Demonstrates the importance of direct client interaction and decision-making.",
+      "key_takeaway": "Even at high levels, personal involvement in client interactions is crucial for success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:30",
+      "end_timestamp": "07:30",
+      "quote": "He asked ChatGPT who the top real estate agent in Chicago was, and it recommended me.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the modern ways clients are finding agents and the importance of maintaining a strong online presence.",
+      "suggested_hook": "Ever wondered how AI is changing real estate referrals?"
+    },
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "Let's separate the noise of the market from the asset of the home.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on the intrinsic value of properties rather than market fluctuations.",
+      "suggested_hook": "How to keep your clients focused on what truly matters in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Engage directly with hesitant buyers to address concerns.",
+      "context": "When a buyer shows hesitation due to external market factors.",
+      "timestamp": "10:30"
+    },
+    {
+      "tactic": "Maintain a backup plan with other interested buyers.",
+      "context": "When dealing with high-value properties and potential deal fall-throughs.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "You always win if you do the right thing.",
+    "The noise in the market is temporary; the house is forever."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick shares her strategies for managing client hesitation in volatile markets and the importance of direct communication. She emphasizes the value of answering calls and maintaining backup plans with multiple buyers. Her empathetic and strategic approach to client management provides actionable insights for agents looking to excel in high-stakes real estate transactions.",
+  "_metadata": {
+    "source_file": "2026-04-20_item10_Carrie-McCormick",
+    "analyzed_at": "2026-05-10T05:05:15.782826",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
