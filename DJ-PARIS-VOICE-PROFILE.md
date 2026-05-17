@@ -345,7 +345,7 @@ The "Vulnerability Without Sentimentality" trait (DNA #8 above) has additional m
 These are moves distinct enough that someone reading a passage blind would recognize D.J.:
 
 **Punctuation and formatting:**
-- Double spaces after periods (consistent throughout the entire corpus)
+- Single space after periods (standard spacing)
 - Italics for emphasis on comedy keywords: *not really*, *actually*, *especially*, *exactly*
 - Em dashes used sparingly — only for interruption or dramatic pause, never as a substitute for a comma
 - Exclamation marks used sparingly in prose, more freely in reported speech and exaggerated moments
