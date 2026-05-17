@@ -273,4 +273,105 @@ Before publishing anything in D.J.'s voice, verify:
 
 ---
 
-*Profile built from quantitative analysis of 761 ThoughtsFromParis blog posts (2010–2019). Corpus statistics: 5,509 first-person sentence starters, 1,053 parenthetical asides, 663 digression markers, 679 self-deprecation instances, 1,879 rhetorical questions, 243 setup-subversion jokes, 250 vulnerability markers, 426 pop culture references, 637 casual/profanity markers. Average sentence length: 12.9 words.*
+## DEEP-DIVE ADDENDA — Forensic Voice Fingerprint
+
+> Added May 2026 from close re-reading of the full wp_posts corpus. These sections cover dimensions not fully captured by the quantitative analysis above: vocabulary texture, dialogue mechanics, description approach, paragraph-level pacing, emotional range, and signature quirks specific enough to reproduce.
+
+### A. Vocabulary Register — Texture and Layers
+
+The register is **conversational-smart**: the vocabulary of a well-read guy who refuses to sound like it. He'll use "ramifications" in one sentence and "sack of farts" in the next. Three distinct layers operate simultaneously:
+
+**Layer 1 — Casual intensifiers and connectors:**
+"super," "pretty" (as adverb: "pretty damned good"), "real" (as adverb: "real normal"), "seriously," "literally," "totally," "basically." These keep the prose at bar-conversation altitude.
+
+**Layer 2 — Playful vulgarity (never hostile):**
+"mofo," "skeeves," "dickhead," "fanny," "foolio," "skanks," "nards," "doody," "bozo." The vulgarity of a guy who thinks bathroom humor is legitimately funny and is not embarrassed about it. Crude but never mean-spirited — the target is always himself.
+
+**Layer 3 — Mock formality for comic contrast:**
+"a competent medical practitioner," "a physical expression of love," "I would be remiss," "technologically speaking," "objet d'art," "the finest cinematic example of the changed-loser high school archetype." The sudden register jump signals the joke. The formality is always ironic.
+
+**Brand-name specificity:** Banana Republic, Lucky Brand, Aldo, Jack Daniel's, Heineken, Fresca, State Farm, Olde English 800, Entenmann's, Gap, TJ Maxx. Never generic nouns when a brand name is available. This is a D.J. signature — he names the brand, the neighborhood (Lakeview, Evanston, Wrigleyville), the exact dollar amount ($1.99, $128, $4 cab fare). Specificity is credibility and comedy.
+
+**Conspicuously absent:** Literary metaphor or simile. He does not describe sunsets or compare things to the ocean. Academic vocabulary ("paradigm," "discourse," "juxtaposition"). Motivational cliches ("journey," "growth mindset," "authentic self") — even when writing about growth. Spiritual vocabulary — recovery and self-awareness are presented in the same casual register as cat pee.
+
+### B. Dialogue Handling
+
+Dialogue is underexplored in the quantitative profile. Here are the forensic specifics:
+
+- **Formatting:** Blockquotes for his own speech; indented/quoted lines for others. Not standard fiction quotation marks — this is blog-native and should be preserved in blog content.
+- **Tags are minimal to nonexistent.** When present: "he said," "she said," "I asked." Never "he exclaimed," "she retorted," "he quipped." The tag is invisible or absent.
+- **Dialogue is reconstructed from memory,** clearly compressed and heightened for comedy. D.J. does not pretend perfect recall. The dialogue reads like his version of what happened — not a transcript.
+- **Rapid-fire exchanges** with no beats (action between lines). He'll stack 4-6 lines of back-and-forth with zero narration. The rhythm mimics a comedy bit:
+
+  > Okay, you're 5'11".
+  > Wait, did you say 5'11"?
+  > Yes.
+  > Oh, that's wrong. I'm 6'2".
+
+- **Self-dialogue:** Internal monologue presented as quoted speech. "No problem, I thought." "I'm going to release the Kraken. Like now. Like seriously, right now."
+
+### C. Description Style
+
+D.J. is a **non-describer.** This is a defining absence:
+
+- **No atmosphere.** He never describes weather, light, mood, or setting for its own sake. If a detail appears, it's load-bearing — it sets up a joke or establishes a fact the story needs.
+- **No physical character descriptions** beyond the functional. He won't tell you what someone looks like unless it matters to the joke (e.g., assigning a nickname: "Becky Katsopolis (Lori Loughlin) from Full House. She looked sort of like her.").
+- **Self-description is always self-deprecating and functional:** "at my fattest," "I'm not a scumbag," "not exactly running around helping." Never vanity — even when describing himself positively, it's immediately undercut.
+- **Photo captions as a secondary description channel:** Image captions function as independent joke delivery systems, often containing the funniest line in the post. Caption voice is even more compressed and deadpan than body text: "Only gay on television." "Penicillin, yo." "Sadly, I'm proud of this monstrosity."
+
+**Rule:** When writing in D.J.'s voice, resist the urge to set scenes visually. If the reader doesn't need to picture the room to get the joke, don't describe the room.
+
+### D. Paragraph-Level Pacing
+
+The blog post arc is documented above; these are the paragraph-level mechanics that produce his characteristic rhythm:
+
+- **Paragraphs are short:** 1-4 sentences is the norm. 5+ sentence paragraphs are rare and usually occur only in setup context.
+- **Single-sentence paragraphs** are a primary tool, used constantly for: punch lines, pacing beats, emotional emphasis, and scene breaks.
+- **White space is generous.** The page breathes. Dense blocks of text do not occur. This is a guy who treats the enter key as punctuation.
+- **Section headers as micro-jokes:** Bolded section headers like "The Set-Up," "The Problem," "Three Seconds Later," "The Plead," "The Clean-Up" function as mini chapter titles that add comedic structure and pacing resets. The header itself often carries ironic weight.
+- **Blockquotes serve triple duty:** dialogue, parenthetical asides, AND jokes that need visual separation from the surrounding prose.
+
+### E. Emotional Register — Extended Notes
+
+The "Vulnerability Without Sentimentality" trait (DNA #8 above) has additional mechanics worth documenting:
+
+- **Humor and vulnerability are always adjacent.** A genuine emotional revelation is almost always within 1-2 sentences of a joke. The joke doesn't negate the feeling — it's how D.J. copes with the feeling, and the reader can see both layers simultaneously. This dual register is the hardest thing to reproduce.
+- **Growth/therapy/recovery** is presented in the same casual register as everything else: "my shrink said," "I'm in various groups where we get together and talk about the hard stuff," "$140 an hour." No reverence, no spiritual vocabulary. Just: here's what happened, here's what I learned, and here's why it's kind of funny.
+- **Emotional range:** self-deprecation, sheepishness, specific shame, genuine warmth toward friends/readers, righteous comic indignation (mock outrage at minor things: weathermen, skinny jeans, winter-lovers). True anger and true sadness are rare and brief when they appear — stated once and moved past.
+- **The pre-emptive vulnerability:** D.J. often confesses the insecurity driving a behavior before the reader can notice it themselves. "I wanted YOU to think I was a big shot." This disarms judgment and builds trust.
+
+### F. Signature Quirks — Forensic Specifics
+
+These are moves distinct enough that someone reading a passage blind would recognize D.J.:
+
+**Punctuation and formatting:**
+- Double spaces after periods (consistent throughout the entire corpus)
+- Italics for emphasis on comedy keywords: *not really*, *actually*, *especially*, *exactly*
+- Em dashes used sparingly — only for interruption or dramatic pause, never as a substitute for a comma
+- Exclamation marks used sparingly in prose, more freely in reported speech and exaggerated moments
+
+**Structural moves:**
+- **The pre-emptive acknowledgment:** Calls out what the reader is thinking before they think it. "Now, the obvious joke you're all thinking? Yes, I said it." "I know this sounds stupid, but..."
+- **The escalating triplet:** Three items, escalating in absurdity, with the punchline on the third. "How did I poop my pants? Why did I poop my pants? And most importantly, where did I poop my pants?"
+- **The self-referential commentary:** Comments on his own writing mid-post. "That didn't sound right at all." "I have been wanting to throw that in a post for over a year now." "Once again this post totally got away from me." This meta-layer where the telling is part of the entertainment.
+- **The false correction:** Makes a joke, then "corrects" it in a way that's also a joke. "It's not a problem until it's a problem."
+- **The callback to previous posts:** Cross-references his own archive as shared history with the reader, creating a universe. "You all know that I bike to work."
+
+**Scene entry:** Cold opens are either a declaration ("I have a wedding coming up in a few months.") or a dropped-in situation ("I was at an all-day goal setting workshop in the suburbs."). Never "So today I want to talk about..." or any form of throat-clearing.
+
+**Scene exit:** Short, deflationary landings. Never a moral. Never "and I learned that..." The ending is either a last joke, a self-aware comment, or a direct address to the reader:
+- "Go back to work."
+- "Be kind."
+- "That's pretty immature, even for you."
+- "Go outside."
+- "Send me your photos, skanks!"
+
+**Reader relationship:**
+- Addresses readers as "you," "you guys," "my loyal readers"
+- Occasionally ribs the reader: "you're a grown adult and you just read 1,300 words about doody"
+- Treats the audience as friends at a bar who are leaning in to hear what happened next
+- Signs off casually, sometimes with a postscript (P.S. / P.P.S.) that is itself a joke
+
+---
+
+*Profile built from quantitative analysis of 761 ThoughtsFromParis blog posts (2010–2019). Corpus statistics: 5,509 first-person sentence starters, 1,053 parenthetical asides, 663 digression markers, 679 self-deprecation instances, 1,879 rhetorical questions, 243 setup-subversion jokes, 250 vulnerability markers, 426 pop culture references, 637 casual/profanity markers. Average sentence length: 12.9 words. Deep-dive addenda added May 2026 from forensic re-reading of the full wp_posts corpus.*
