@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "High Performance Hypnotherapist and Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping high performers unlearn destructive patterns",
+    "location": null
+  },
+  "main_topics": [
+    "The pitfalls of the 'grinder' mentality",
+    "The importance of identity in achieving success",
+    "Balancing work ethic with personal well-being",
+    "The role of mindset in real estate success",
+    "Strategies for achieving sustainable growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "The addiction to busyness and struggle",
+      "solution_summary": "Shift focus from constant hustle to strategic rest and reflection to achieve sustainable success.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Feeling stuck despite hard work",
+      "solution_summary": "Identify and eliminate low-value tasks; focus on high-impact activities.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of success and unfamiliarity with peace",
+      "solution_summary": "Create a sense of safety in success and redefine personal value beyond hustle.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode addresses the dangers of overworking and the need for balance.",
+      "key_takeaway": "Success doesn't require constant hustle; strategic rest and reflection are crucial."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "It highlights the importance of mindset and identity in reaching the next level.",
+      "key_takeaway": "Your current identity might be holding you back from achieving greater success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:00",
+      "end_timestamp": "04:45",
+      "quote": "The identity of being the grinder can become more familiar than the identity of the producer.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that hard work alone leads to success.",
+      "suggested_hook": "Are you grinding yourself into a rut?"
+    },
+    {
+      "timestamp": "16:00",
+      "end_timestamp": "16:45",
+      "quote": "Your brain would rather maintain a familiar struggle than adapt to an unfamiliar level of success.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals why people often sabotage their own success.",
+      "suggested_hook": "Is your brain keeping you from success?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Block 10 minutes a day for silence and reflection",
+      "context": "To break the cycle of constant busyness and foster creativity.",
+      "timestamp": "28:59"
+    }
+  ],
+  "quotable_insights": [
+    "Grinding has a season. There's a time to sprint, a time to push, a time to outwork. But if grinding is the only gear you have, you will eventually drive yourself into the ground."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Scratch Golfers Mindset Podcast",
+      "context": "Episode 149 discusses the power of silence, relevant for those seeking personal development."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter challenges the traditional 'grinder' mentality, emphasizing the importance of balancing hard work with strategic rest and reflection. He explores how identity and mindset play crucial roles in achieving sustainable success, offering actionable insights for real estate professionals looking to break free from the cycle of constant busyness.",
+  "_metadata": {
+    "source_file": "2026-04-30_item6_Paul-Salter",
+    "analyzed_at": "2026-05-17T05:20:16.218953",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

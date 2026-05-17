@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Kristy Nakamura",
+    "title": "Team Leader",
+    "company": "Your Oahu Home Team with eXp",
+    "production_level": "Top Producing REALTOR",
+    "specialty": "VA Loan Benefits and Military Market",
+    "location": "Oahu, Hawaii"
+  },
+  "main_topics": [
+    "Building a business through niche specialization",
+    "Leveraging AI in real estate",
+    "The importance of relationships and referrals",
+    "Working with military families",
+    "Multi-generational housing solutions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Chasing every shiny new lead source",
+      "solution_summary": "Focus on existing database and referrals for sustainable growth.",
+      "timestamp": "07:28"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Understanding military family needs",
+      "solution_summary": "Provide comprehensive relocation packages and personalized service.",
+      "timestamp": "20:16"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High cost of living in Hawaii",
+      "solution_summary": "Utilize seller credits creatively to reduce buyer's financial burden.",
+      "timestamp": "29:28"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how to build a niche-focused business and leverage relationships.",
+      "key_takeaway": "Focusing on a niche and building strong client relationships can lead to sustainable business growth."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Kristy discusses team dynamics and division of labor, which is crucial for team leaders.",
+      "key_takeaway": "Clear division of tasks and leveraging each team member's strengths can enhance productivity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:02",
+      "end_timestamp": "06:47",
+      "quote": "I finally met one guy, he was big on marketing... and that was my beginning into learning, really learning about real estate.",
+      "clip_type": "personal_story",
+      "why_clipworthy": "Shows the importance of learning from others and personal growth.",
+      "suggested_hook": "How a simple request to learn transformed Kristy's real estate career."
+    },
+    {
+      "timestamp": "20:16",
+      "end_timestamp": "22:02",
+      "quote": "They don't understand how hard it is to be a military family... understanding the mindset of them that are coming in.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the empathy and understanding needed to serve military families effectively.",
+      "suggested_hook": "Why understanding your client's unique challenges can set you apart in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller credits to pay off buyer's consumer debt.",
+      "context": "Helps military families manage finances when purchasing a home.",
+      "timestamp": "29:28"
+    },
+    {
+      "tactic": "Create detailed video walkthroughs for sight-unseen buyers.",
+      "context": "Ensures buyers have a comprehensive understanding of the property.",
+      "timestamp": "24:33"
+    }
+  ],
+  "quotable_insights": [
+    "Why are we not taking more time to really dig into these relationships and not be transactional at all?"
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Used for lead generation and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Kristy Nakamura shares her journey of building a successful real estate business by focusing on niche markets, particularly military families in Hawaii. She emphasizes the importance of leveraging relationships and referrals, using AI for efficiency, and understanding the unique needs of her clients. Kristy also discusses creative financial strategies like seller credits to help clients manage high living costs.",
+  "_metadata": {
+    "source_file": "2026-05-07_item3_Kristy-Nakamura",
+    "analyzed_at": "2026-05-17T05:22:22.962406",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

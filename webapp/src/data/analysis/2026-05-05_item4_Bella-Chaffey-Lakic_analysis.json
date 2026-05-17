@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Bella Chaffey Lakic",
+    "title": "REALTOR",
+    "company": "Not specified",
+    "production_level": "NAR 30 under 30",
+    "specialty": "Marketing, YouTube content creation",
+    "location": "Seattle, Washington"
+  },
+  "main_topics": [
+    "YouTube as a marketing tool for real estate",
+    "Importance of sphere of influence",
+    "Creating engaging video content",
+    "Community involvement and industry service",
+    "Navigating challenges in real estate transactions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of sphere of influence for young agents",
+      "solution_summary": "Focus on creating YouTube content to reach a broader audience and establish credibility.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating unique video content",
+      "solution_summary": "Use simple tools like smartphones and DJI Osmo cameras to create engaging content.",
+      "timestamp": "00:13:01"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling low appraisals in transactions",
+      "solution_summary": "Request a second appraisal and advocate for the property's value.",
+      "timestamp": "00:24:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with lead generation and establishing a sphere of influence.",
+      "key_takeaway": "Leverage YouTube and social media to build an audience and establish credibility."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Agents looking to scale their business can benefit from advanced marketing strategies.",
+      "key_takeaway": "Consistent, high-quality video content can differentiate you in a crowded market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:05",
+      "end_timestamp": "00:05:45",
+      "quote": "At 22, there's no way I would have known how to do... I was barely functioning as an adult.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Relatable moment for young professionals feeling overwhelmed.",
+      "suggested_hook": "Feeling lost in your early 20s? You're not alone."
+    },
+    {
+      "timestamp": "00:24:30",
+      "end_timestamp": "00:25:37",
+      "quote": "I ordered a second appraisal and we closed at the original number.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a concrete example of problem-solving in real estate.",
+      "suggested_hook": "What to do when an appraisal comes in low."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create neighborhood tour videos for YouTube",
+      "context": "To attract potential buyers relocating to the area.",
+      "timestamp": "00:16:36"
+    },
+    {
+      "tactic": "Use short-form videos on Instagram and YouTube Shorts",
+      "context": "To quickly reach a broader audience and gain subscribers.",
+      "timestamp": "00:15:52"
+    }
+  ],
+  "quotable_insights": [
+    "Your sphere is always important, even when you're 22 years old."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "DJI Osmo",
+      "context": "Recommended for creating stable, high-quality video content."
+    },
+    {
+      "type": "tool",
+      "name": "teleprompter.com",
+      "context": "Suggested for creating scripted videos easily."
+    }
+  ],
+  "episode_summary": "In this episode, Bella Chaffey Lakic shares her journey from a young REALTOR with no sphere of influence to becoming an NAR 30 under 30 honoree. She discusses the power of YouTube for real estate marketing, the importance of creating engaging video content, and how community involvement can enhance your professional reputation. Bella also provides actionable insights on handling challenging real estate transactions and building a personal brand through consistent, high-quality content.",
+  "_metadata": {
+    "source_file": "2026-05-05_item4_Bella-Chaffey-Lakic",
+    "analyzed_at": "2026-05-17T05:21:30.531575",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

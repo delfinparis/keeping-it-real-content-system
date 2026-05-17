@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": null,
+    "production_level": "Top 1% producer",
+    "specialty": "Real estate agent coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Dealing with personal loss and its impact on business",
+    "Maintaining consistency in routines",
+    "Understanding personal motivations and 'why'",
+    "The importance of mindset in real estate success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling stuck and unmotivated after personal loss",
+      "solution_summary": "Re-establishing routines, focusing on personal 'why', and recognizing ongoing support from loved ones.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Negative self-talk and comparison with other agents",
+      "solution_summary": "Shift language from 'I think' to 'I will' to change mindset and focus on personal growth.",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Emma's story of feeling stuck after initial success is relatable to agents who have hit a plateau.",
+      "key_takeaway": "Consistency in routines and focusing on personal motivations can help overcome periods of feeling stuck."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "42:00",
+      "end_timestamp": "43:15",
+      "quote": "Instead of saying 'I think', say 'I will'. It's a simple shift, but it changes your mindset.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This advice provides a practical and immediate way to change one's mindset.",
+      "suggested_hook": "Struggling with motivation? Here's a simple language shift that can transform your mindset."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Establish a consistent morning and evening routine.",
+      "context": "To maintain productivity and mental clarity, especially after experiencing personal setbacks.",
+      "timestamp": "29:00"
+    },
+    {
+      "tactic": "Write letters to loved ones who have passed as a form of journaling.",
+      "context": "To process grief and maintain a sense of connection.",
+      "timestamp": "20:30"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem. It has a you problem.",
+    "People pass, but they never really leave."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for real estate recruiters to identify agents likely to move."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A solution for agents to convert leads more effectively."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches Emma Noon, a young real estate agent dealing with personal loss, on how to regain motivation and consistency in her business. The discussion highlights the importance of maintaining routines, understanding personal motivations, and using language shifts to change mindset. Emma's story offers relatable insights for agents feeling stuck or overwhelmed.",
+  "_metadata": {
+    "source_file": "2026-05-14_item1_Michael-Opyd",
+    "analyzed_at": "2026-05-17T05:24:06.101968",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

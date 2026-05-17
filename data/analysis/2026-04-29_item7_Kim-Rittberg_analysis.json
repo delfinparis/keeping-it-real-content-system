@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Short form video and AI for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of short form video in real estate",
+    "Leveraging AI for content creation",
+    "Building personal brand through video",
+    "Social media strategies for agents",
+    "Searchability and online presence"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not utilizing video effectively",
+      "solution_summary": "Use short form videos on social media to increase engagement and visibility.",
+      "timestamp": "00:03:22"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Time-consuming video editing",
+      "solution_summary": "Utilize AI tools for editing to save time and enhance video content.",
+      "timestamp": "00:07:52"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in staying top of mind with clients",
+      "solution_summary": "Regularly post videos showcasing expertise and personal brand to maintain client engagement.",
+      "timestamp": "00:09:16"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to enhance visibility and client engagement through video.",
+      "key_takeaway": "Consistently using short form video can significantly boost your presence and client base."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers simple, actionable steps to start using video and AI effectively.",
+      "key_takeaway": "Start with short form videos and use AI tools to streamline content creation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:22",
+      "end_timestamp": "00:03:45",
+      "quote": "If you're not using video, use it. If you are using video, use more of it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Encourages immediate action to leverage video for better engagement.",
+      "suggested_hook": "Are you maximizing your social media presence with video?"
+    },
+    {
+      "timestamp": "00:09:16",
+      "end_timestamp": "00:09:34",
+      "quote": "You're not just selling a house, you're selling yourself.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Shifts focus from product to personal branding, crucial for real estate success.",
+      "suggested_hook": "Why your personal brand is your biggest asset in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create vertical short form videos for home tours.",
+      "context": "These formats perform well across social media platforms.",
+      "timestamp": "00:03:58"
+    },
+    {
+      "tactic": "Use AI tools to generate content calendars and scripts.",
+      "context": "Helps in planning and creating consistent content.",
+      "timestamp": "00:05:09"
+    }
+  ],
+  "quotable_insights": [
+    "Hiding from the camera is hiding from clients.",
+    "Connection and credibility build the connection, make them like you, know you, trust you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive sales and marketing solution for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting tool for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg emphasizes the importance of short form video and AI in enhancing real estate agents' social media presence and personal branding. She provides actionable strategies for leveraging video content and AI tools to increase engagement, streamline content creation, and maintain client relationships. The discussion highlights the significance of being visible and active on social media to stay top of mind with clients.",
+  "_metadata": {
+    "source_file": "2026-04-29_item7_Kim-Rittberg",
+    "analyzed_at": "2026-05-17T05:19:42.265032",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

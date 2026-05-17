@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:26",
+      "end_timestamp": "00:03:41",
+      "quote": "Studies show that 83% of clients will avoid an agent with a rating below four stars.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the critical importance of maintaining a high online rating.",
+      "suggested_hook": "Are your online reviews silently killing your referrals?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are your online reviews silently killing your referrals?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Studies show that 83% of clients will avoid an agent with a rating below four stars. Tim Littleton shared this on our latest episode, and it’s a wake-up call. If you’re wondering why your phone isn’t ringing, this might be why.\",\n    \"INSIGHT\": \"Tim Littleton says, 'Your Google Business Profile is your digital storefront. Most agents ignore it, but top producers optimize it.' [ON-SCREEN: 83% avoid agents <4 stars] He suggests asking every satisfied client for a review immediately after closing. [ON-SCREEN: Ask for reviews post-closing] This simple step can elevate your profile and boost referrals. [ON-SCREEN: Boost referrals with reviews]\",\n    \"REFRAME/APPLICATION\": \"In today's competitive market, maintaining a high rating is crucial. You can start requesting reviews today and watch your referrals grow. Tim closed 47 deals last year using this exact approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"83% of clients avoid agents with ratings under 4 stars. Are your reviews costing you?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#OnlineReviews\", \"#GoogleBusiness\", \"#ClientReferrals\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Your Google Business Profile is your digital storefront.\"\n}\n```"
+  }
+]

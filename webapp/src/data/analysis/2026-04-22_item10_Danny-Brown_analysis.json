@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Danny Brown",
+    "title": "Luxury Real Estate Advisor",
+    "company": "Compass",
+    "production_level": "Over $1.2 billion in volume",
+    "specialty": "Luxury real estate, ultra high net worth clients",
+    "location": "Beverly Hills, Los Angeles"
+  },
+  "main_topics": [
+    "Building and maintaining reputation",
+    "Agent relationships and networking",
+    "Working with ultra high net worth clients",
+    "Transitioning between brokerages",
+    "Mindset and motivation in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "How to maintain integrity and reputation in high-stakes deals",
+      "solution_summary": "Always prioritize the client's best interest and provide honest advice, even if it means losing a deal.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing relationships with multiple stakeholders in ultra high net worth transactions",
+      "solution_summary": "Develop interpersonal skills to manage diverse personalities and maintain clear communication with all parties involved.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Growing a luxury real estate practice from scratch",
+      "solution_summary": "Focus on building relationships, understanding the market, and leveraging open houses to establish presence.",
+      "timestamp": "37:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a high-level real estate practice and maintaining a strong reputation.",
+      "key_takeaway": "Focus on long-term relationship building and integrity to succeed in luxury real estate."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Danny discusses the benefits of running a lean operation versus a large team, which is valuable for team leaders considering structure.",
+      "key_takeaway": "A lean operation can be as profitable as a large team if managed effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "Your reputation takes a lifetime to build and you can blow it all in 30 seconds or one conversation or one transaction.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It emphasizes the importance of integrity in real estate.",
+      "suggested_hook": "Why your reputation is your most valuable asset in real estate."
+    },
+    {
+      "timestamp": "37:00",
+      "end_timestamp": "38:00",
+      "quote": "I started with going to parts of LA that I didn't know and worked my way up brick by brick.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a practical approach to entering the luxury market.",
+      "suggested_hook": "How to break into the luxury real estate market from scratch."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Block out an hour each morning for prospecting.",
+      "context": "Use this time to set up meetings and maintain client relationships.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Leverage open houses to build presence in a new market.",
+      "context": "Target specific high-end areas and offer to host open houses for established agents.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "Doing the right thing is always where I start from. That's the North Star.",
+    "It's equally important to have really strong trusted relationships with agents."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Danny Brown shares insights on building a luxury real estate practice through reputation and relationships. He emphasizes the importance of maintaining integrity, managing complex client relationships, and leveraging networking opportunities. Danny also discusses the benefits of running a lean operation and offers practical advice for agents looking to move up market.",
+  "_metadata": {
+    "source_file": "2026-04-22_item10_Danny-Brown",
+    "analyzed_at": "2026-05-17T05:18:54.308686",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

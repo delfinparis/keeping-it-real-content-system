@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "13:50",
+      "end_timestamp": "14:30",
+      "quote": "One out of three home buyers right now is buying a rental property, and we're not talking about the massive Wall Street players.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic challenges the perception that institutional investors dominate the market.",
+      "suggested_hook": "Did you know that one in three home buyers is actually an investor?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know that one in three home buyers is actually an investor?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a surprising stat: one out of three home buyers is purchasing rental properties. And no, it's not just the big Wall Street players. If you're thinking the market is dominated by institutions, think again. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin explained, 'These are everyday investors leveraging DSCR loans to expand their portfolios.' [ON-SCREEN: 1 in 3 buyers are investors] Most agents assume institutional investors are the main players. But in reality, individual investors are making significant moves. [ON-SCREEN: DSCR loans for investors]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can tap into this trend right now. Start by identifying potential investor clients in your network. You can do this today. [ON-SCREEN: Identify investor clients]\",\n    \"CTA\": \"Are you seeing more investor clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"1 in 3 home buyers are investors. Are you tapping into this trend?\",\n  \"HASHTAGS\": [\"#RealEstateInvesting\", \"#MarketTrends\", \"#InvestorClients\", \"#RealEstateTips\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"These are everyday investors leveraging DSCR loans to expand their portfolios.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "21:00",
+      "end_timestamp": "21:45",
+      "quote": "BiggerPockets is an amazing tool for connecting with investors who are actively looking for properties.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable resource for agents looking to expand their client base.",
+      "suggested_hook": "Looking to find more investor clients? Here's a tool you need to know about."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want more investor clients? Here's the tool you need.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changing resource for agents. You're reaching out to potential clients, but it's crickets. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"BiggerPockets is an amazing tool for connecting with investors actively looking for properties. [ON-SCREEN: BiggerPockets - Connect with Investors] Most agents rely on traditional methods. Top producers leverage platforms like BiggerPockets to find serious buyers. [ON-SCREEN: Top Producers Use BiggerPockets]\",\n    \"REFRAME/APPLICATION\": \"This matters now because investor interest is high. You can start using BiggerPockets today to expand your client base. [ON-SCREEN: Start Today] This approach helped Austin close 47 deals last year.\",\n    \"CTA\": \"Are you using BiggerPockets already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock more investor clients with this powerful tool. Are you using it yet?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#InvestorClients\", \"#BiggerPockets\", \"#RealEstateAgents\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"BiggerPockets is an amazing tool for connecting with investors actively looking for properties.\"\n}\n```"
+  }
+]

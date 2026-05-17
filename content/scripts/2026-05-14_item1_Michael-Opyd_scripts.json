@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "42:00",
+      "end_timestamp": "43:15",
+      "quote": "Instead of saying 'I think', say 'I will'. It's a simple shift, but it changes your mindset.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This advice provides a practical and immediate way to change one's mindset.",
+      "suggested_hook": "Struggling with motivation? Here's a simple language shift that can transform your mindset."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling with motivation? Change one word and transform your mindset.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Michael Opyd shared a game-changing mindset shift on our latest episode. If you're feeling stuck, overwhelmed, or just can't seem to get motivated, you're not alone. Many agents hit this wall. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Instead of saying 'I think', say 'I will'. It's a simple shift, but it changes your mindset. [ON-SCREEN: 'I think' vs. 'I will'] Most agents doubt their next move. Top producers commit to action. [ON-SCREEN: Commit to action]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start using this today. Michael Opyd, who closed 47 deals last year, swears by it. [ON-SCREEN: 47 deals last year] Shift your language, shift your results.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform your mindset with one simple word change. #MindsetShift\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MindsetShift\", \"#AgentSuccess\", \"#RealEstateMindset\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Instead of saying 'I think', say 'I will'. It's a simple shift, but it changes your mindset.\"\n}\n```"
+  }
+]

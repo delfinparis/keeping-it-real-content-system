@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:04",
+      "end_timestamp": "00:03:12",
+      "quote": "The typical buyer in this country is right now nearly 60 years old.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic challenges the common perception of the average home buyer's age.",
+      "suggested_hook": "Did you know the average home buyer is almost 60 years old?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know the average home buyer is almost 60 years old?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a surprising stat that flips the script on what many agents believe. You're targeting millennials, but the typical buyer is nearly 60. Feeling like your marketing isn't hitting the mark?\",\n    \"INSIGHT\": \"Tim says, 'The average home buyer is now close to 60. [ON-SCREEN: Average buyer age: 60] Most agents focus on younger buyers, but the real opportunity is with older demographics. [ON-SCREEN: Target older buyers] They have the capital and are looking to downsize or relocate. [ON-SCREEN: Capital & relocation] Shift your focus and tap into this market.'\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can adjust your strategy today. [ON-SCREEN: Adjust strategy now] Tim's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed] Start targeting older buyers now.\",\n    \"CTA\": \"Are you already targeting older buyers — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"The average home buyer is almost 60! Are you targeting the right audience?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#HomeBuyers\", \"#MarketingStrategy\", \"#RealEstateAgent\", \"#Demographics\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"The average home buyer is now close to 60.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:04:04",
+      "end_timestamp": "00:04:11",
+      "quote": "Most of us don't have a single piece of content that's speaking to that buyer.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a common oversight in real estate marketing strategies.",
+      "suggested_hook": "Are you missing out on the biggest segment of home buyers?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you missing out on the biggest segment of home buyers?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton pointed out something crucial in our latest episode. Most real estate agents are missing a huge opportunity. You're posting content, but is it really speaking to today's buyers? You're reaching out, but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim said, 'Most of us don't have a single piece of content that's speaking to that buyer.' [ON-SCREEN: Most agents miss this] The demographics of home buyers are changing rapidly. [ON-SCREEN: Changing demographics] Most agents do generic marketing. Top producers tailor their message to the right audience. [ON-SCREEN: Tailor your message]\",\n    \"REFRAME/APPLICATION\": \"This matters because if you adapt now, you can capture this growing market segment. You can do this today by analyzing your current content and adjusting it to target these buyers. [ON-SCREEN: Target new buyers] Tim's approach helped him build a strong referral network.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you speaking to today's home buyers? Discover the common oversight agents make.\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#HomeBuyers\",\n    \"#MarketingStrategy\",\n    \"#RealEstateAgent\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most of us don't have a single piece of content that's speaking to that buyer.\"\n}\n```"
+  }
+]

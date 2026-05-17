@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:02:44",
+      "end_timestamp": "00:03:04",
+      "quote": "Jane texted 42 of those people on a Sunday afternoon. Personal messages, specific, not a mass blast. 17 replies came back within 48 hours for real conversations.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific, actionable tactic with measurable results.",
+      "suggested_hook": "Discover how one agent turned 42 texts into 17 conversations and a new client!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to turn 42 texts into 17 real conversations?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're texting your contacts, hoping for replies, but it's crickets. Sound familiar? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Jane texted 42 people on a Sunday afternoon. Personal messages, specific, not a mass blast. [ON-SCREEN: 42 texts] 17 replies came back within 48 hours for real conversations. [ON-SCREEN: 17 replies in 48 hours] Most agents send generic blasts. Top producers craft personal messages.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can do this today. This agent's approach led to a new client. [ON-SCREEN: New client from texts] Imagine what it could do for you.\",\n    \"CTA\": \"Are you personalizing your outreach — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Turn 42 texts into 17 conversations and a new client! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#AgentSuccess\", \"#LeadGeneration\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents send generic blasts. Top producers craft personal messages.\"\n}\n```"
+  }
+]

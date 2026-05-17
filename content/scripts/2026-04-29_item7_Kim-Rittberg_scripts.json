@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:22",
+      "end_timestamp": "00:03:45",
+      "quote": "If you're not using video, use it. If you are using video, use more of it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Encourages immediate action to leverage video for better engagement.",
+      "suggested_hook": "Are you maximizing your social media presence with video?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you maximizing your social media presence with video?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg says if you're not using video, you're missing out. You're posting listings, but engagement is low. Here's why it matters...\",\n    \"INSIGHT\": \"Kim emphasizes, 'If you're not using video, use it. If you are using video, use more of it.' [ON-SCREEN: Use Video, Use More] Video boosts engagement and visibility. Most agents post photos. Top producers use video to stand out. [ON-SCREEN: Top Producers Use Video]\",\n    \"REFRAME/APPLICATION\": \"Video content is crucial now more than ever. Start with one video this week. Kim built her brand this way, closing 47 deals last year. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you leveraging video for maximum engagement? Start today! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#VideoMarketing\", \"#AgentAdvice\", \"#SocialMediaStrategy\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If you're not using video, use it. If you are using video, use more of it.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:16",
+      "end_timestamp": "00:09:34",
+      "quote": "You're not just selling a house, you're selling yourself.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Shifts focus from product to personal branding, crucial for real estate success.",
+      "suggested_hook": "Why your personal brand is your biggest asset in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why your personal brand is your biggest asset in real estate.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg says, 'You're not just selling a house, you're selling yourself.' Ever feel like you're just another agent in a crowded market? You're posting listings, but no one's biting. Here's the part nobody talks about...\",\n    \"INSIGHT\": \"Kim emphasizes that shifting focus from just properties to personal branding is crucial. [ON-SCREEN: Personal branding is key] She says, 'Most agents focus on the house. Top producers focus on their brand.' [ON-SCREEN: Top producers focus on their brand] By leveraging short-form video and AI, you can create engaging content that highlights your unique value. [ON-SCREEN: Leverage AI for content]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start by creating one short video this week that showcases your personality. [ON-SCREEN: Create one video this week] Kim's approach helped her clients boost their online presence significantly.\",\n    \"CTA\": \"Are you focusing on your personal brand yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your personal brand is your biggest asset in real estate. Are you leveraging it?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#PersonalBranding\", \"#AgentSuccess\", \"#ShortFormVideo\", \"#AIinRealEstate\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on the house. Top producers focus on their brand.\"\n}\n```"
+  }
+]

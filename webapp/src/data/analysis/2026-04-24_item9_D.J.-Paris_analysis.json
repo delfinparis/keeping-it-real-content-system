@@ -1,0 +1,99 @@
+{
+  "guest_info": {
+    "name": "Unknown Guest",
+    "title": null,
+    "company": null,
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "AI strategies for real estate agents",
+    "Leveraging existing contacts for business",
+    "Prospecting with AI",
+    "AI tools for personalized communication",
+    "Webinar announcement for AI strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggle to find new business despite having potential clients in their existing contacts.",
+      "solution_summary": "Use AI to identify and reach out to potential clients within existing contacts.",
+      "timestamp": "00:01:29"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Agents don't know how to start conversations with past contacts.",
+      "solution_summary": "AI-generated personalized messages can help re-engage contacts.",
+      "timestamp": "00:02:26"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Agents spend too much time on follow-ups and CRM updates.",
+      "solution_summary": "AI tools can automate follow-up processes and CRM entries.",
+      "timestamp": "00:03:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can use AI to gain leverage and prospect more effectively.",
+      "key_takeaway": "AI can help new agents identify and reach out to potential clients within their existing network."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can improve their follow-up and client engagement using AI.",
+      "key_takeaway": "AI tools can streamline follow-up processes, freeing up time for more productive activities."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Top producers can maintain their edge by adopting new AI strategies.",
+      "key_takeaway": "Learning AI strategies now can prevent competitors from gaining an advantage."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:44",
+      "end_timestamp": "00:03:04",
+      "quote": "Jane texted 42 of those people on a Sunday afternoon. Personal messages, specific, not a mass blast. 17 replies came back within 48 hours for real conversations.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific, actionable tactic with measurable results.",
+      "suggested_hook": "Discover how one agent turned 42 texts into 17 conversations and a new client!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "90-day sphere audit",
+      "context": "Use AI to rank contacts by decay risk and identify potential clients.",
+      "timestamp": "00:04:27"
+    },
+    {
+      "tactic": "Life event listener",
+      "context": "Send personalized messages for life milestones to build relationships.",
+      "timestamp": "00:04:47"
+    },
+    {
+      "tactic": "Your voice in a box",
+      "context": "Create a custom AI model to mimic your communication style.",
+      "timestamp": "00:05:06"
+    }
+  ],
+  "quotable_insights": [
+    "The business is already in your sphere; you just can't see it yet.",
+    "You don't have an effort problem; you have a leverage problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "keepingitrealwebinar.com",
+      "context": "Platform for registering for the AI strategies webinar."
+    }
+  ],
+  "episode_summary": "In this episode, DJ Paris discusses how real estate agents can leverage AI to uncover hidden business opportunities within their existing contacts. He introduces five actionable AI strategies that can help agents improve their prospecting, communication, and follow-up processes. The episode also promotes an upcoming webinar where these strategies will be demonstrated live.",
+  "_metadata": {
+    "source_file": "2026-04-24_item9_D.J.-Paris",
+    "analyzed_at": "2026-05-17T05:19:04.348388",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

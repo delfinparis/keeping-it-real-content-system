@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Changing demographics of home buyers",
+    "Marketing strategies for real estate agents",
+    "Importance of targeting the right audience",
+    "Building referral networks",
+    "Adapting to market changes"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Agents are marketing to the wrong buyer demographic.",
+      "solution_summary": "Shift marketing focus to older buyers, specifically those aged 55 and over, who are now the majority in the market.",
+      "timestamp": "00:01:05"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents lack relationships with vendors who can refer boomer buyers.",
+      "solution_summary": "Build relationships with CPAs, estate planning attorneys, financial advisors, and elder care consultants.",
+      "timestamp": "00:06:18"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents are not adapting their listing presentations to current market realities.",
+      "solution_summary": "Tailor listing presentations to specifically address the needs and characteristics of boomer buyers.",
+      "timestamp": "00:10:39"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode highlights the need to pivot marketing strategies to align with current market demographics.",
+      "key_takeaway": "Focus on marketing to older buyers who represent a significant portion of the market."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veteran agents may be stuck using outdated marketing tactics that no longer align with the current buyer demographics.",
+      "key_takeaway": "Adapting to market changes can rejuvenate your business and increase success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:04",
+      "end_timestamp": "00:03:12",
+      "quote": "The typical buyer in this country is right now nearly 60 years old.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic challenges the common perception of the average home buyer's age.",
+      "suggested_hook": "Did you know the average home buyer is almost 60 years old?"
+    },
+    {
+      "timestamp": "00:04:04",
+      "end_timestamp": "00:04:11",
+      "quote": "Most of us don't have a single piece of content that's speaking to that buyer.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a common oversight in real estate marketing strategies.",
+      "suggested_hook": "Are you missing out on the biggest segment of home buyers?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Content pivot to target older buyers.",
+      "context": "Shift social media and marketing content to address the needs of homeowners over 55.",
+      "timestamp": "00:08:15"
+    },
+    {
+      "tactic": "Build referral relationships with key professionals.",
+      "context": "Develop connections with CPAs, estate planning attorneys, and financial advisors to reach older buyers.",
+      "timestamp": "00:09:35"
+    },
+    {
+      "tactic": "Revise listing presentations to focus on boomer buyers.",
+      "context": "Clearly identify and communicate the target buyer profile to sellers.",
+      "timestamp": "00:10:39"
+    }
+  ],
+  "quotable_insights": [
+    "You're not losing to other agents; you're losing to the wrong audience.",
+    "Equity doesn't retire, and agents who chase it don't either."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode of Coffee Talks with DJ Paris and Tim Littleton highlights the shift in the real estate market towards older buyers, particularly those over 55. It provides actionable strategies for agents to pivot their marketing efforts, build referral networks, and adapt listing presentations to better serve this demographic, ultimately increasing their success in the current market.",
+  "_metadata": {
+    "source_file": "2026-05-04_item5_Coffee-Talks",
+    "analyzed_at": "2026-05-17T05:20:40.215409",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

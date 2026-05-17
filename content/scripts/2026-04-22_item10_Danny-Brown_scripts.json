@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "Your reputation takes a lifetime to build and you can blow it all in 30 seconds or one conversation or one transaction.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It emphasizes the importance of integrity in real estate.",
+      "suggested_hook": "Why your reputation is your most valuable asset in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Can one conversation ruin your entire real estate career?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Danny Brown said it best: 'Your reputation takes a lifetime to build.' If you're an agent, you know how crucial your reputation is. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"He warns, 'You can blow it all in 30 seconds or one transaction.' [ON-SCREEN: Reputation is fragile] Most agents think a single mistake won't hurt. Top producers know every interaction counts. [ON-SCREEN: Integrity in every deal]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by ensuring every client interaction reflects your integrity. Danny works with ultra high net worth clients using this exact mindset.\",\n    \"CTA\": \"Have you ever seen a reputation crumble? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your reputation is your most valuable asset in real estate. Protect it fiercely.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#ReputationMatters\", \"#IntegrityFirst\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You can blow it all in 30 seconds or one transaction.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "37:00",
+      "end_timestamp": "38:00",
+      "quote": "I started with going to parts of LA that I didn't know and worked my way up brick by brick.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a practical approach to entering the luxury market.",
+      "suggested_hook": "How to break into the luxury real estate market from scratch."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to crack the luxury real estate market from zero?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Danny Brown started with nothing in LA's luxury market. Sound familiar? You're hustling, trying to get noticed, but feel stuck at the entry level. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Danny said, 'I started with going to parts of LA that I didn't know and worked my way up brick by brick.' [ON-SCREEN: Start small, think big] Most agents wait for opportunities. Top producers create them. [ON-SCREEN: Create your own opportunity]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Explore new neighborhoods, build relationships, and lay your own foundation. Danny's approach led to working with ultra high net worth clients.\",\n    \"CTA\": \"Have you tried exploring new areas yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Break into luxury real estate with this simple strategy. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LuxuryMarket\", \"#AgentAdvice\", \"#Networking\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for opportunities. Top producers create them.\"\n}\n```"
+  }
+]

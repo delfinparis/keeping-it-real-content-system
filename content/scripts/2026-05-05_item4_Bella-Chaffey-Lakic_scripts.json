@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:05",
+      "end_timestamp": "00:05:45",
+      "quote": "At 22, there's no way I would have known how to do... I was barely functioning as an adult.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Relatable moment for young professionals feeling overwhelmed.",
+      "suggested_hook": "Feeling lost in your early 20s? You're not alone."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Feeling lost in your early 20s? You're not alone.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bella Chaffey Lakic shared a moment we all relate to. At 22, she felt overwhelmed, barely functioning as an adult. Sound familiar? You're trying to navigate real estate, but it feels like you're drowning.\",\n    \"INSIGHT\": \"Bella said, 'At 22, there's no way I would have known how to do... I was barely functioning as an adult.' [ON-SCREEN: Barely functioning as an adult] But she found her footing with YouTube as a marketing tool, leveraging her sphere of influence. [ON-SCREEN: Leverage your sphere] Most agents struggle alone. Bella connected with her community and thrived. [ON-SCREEN: Connect and thrive]\",\n    \"REFRAME_APPLICATION\": \"Why wait? Start using YouTube to engage your sphere today. Bella's approach helped her navigate challenges and close deals. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you using YouTube to connect with your sphere — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Feeling lost in your 20s? Discover how Bella found her path in real estate.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YoungProfessionals\", \"#YouTubeMarketing\", \"#AgentAdvice\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents struggle alone. Bella connected with her community and thrived.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:24:30",
+      "end_timestamp": "00:25:37",
+      "quote": "I ordered a second appraisal and we closed at the original number.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a concrete example of problem-solving in real estate.",
+      "suggested_hook": "What to do when an appraisal comes in low."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What if your appraisal comes in too low?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Picture this: You're at the closing table, but the appraisal just came in lower than expected. Panic sets in. Bella Chaffey Lakic faced this exact scenario. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Bella didn't accept the low appraisal. Instead, she ordered a second one. [ON-SCREEN: Order a second appraisal] And guess what? They closed at the original number. [ON-SCREEN: Closed at original number] Most agents might panic and accept the low value. Top producers like Bella take control and find solutions.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can apply this tactic today. Don't let a low appraisal derail your deal. Bella's approach helped her close more transactions successfully.\",\n    \"CTA\": \"Have you ever challenged an appraisal — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Low appraisal? Here's how to handle it like a pro. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Appraisal\", \"#RealEstateAgent\", \"#ClosingDeals\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents might panic and accept the low value. Top producers take control and find solutions.\"\n}\n```"
+  }
+]
