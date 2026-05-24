@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Bella Chaffey Lakic",
+    "title": "REALTOR",
+    "company": null,
+    "production_level": "NAR 30 under 30",
+    "specialty": "YouTube marketing",
+    "location": "Seattle, King County"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Challenges of starting real estate at a young age",
+    "Importance of community involvement",
+    "Creating evergreen content",
+    "Effective video marketing strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Young agents struggle with having a sphere of influence",
+      "solution_summary": "Focus on YouTube and creating valuable content to reach a broader audience.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Utilize YouTube for evergreen content and neighborhood tours to establish expertise.",
+      "timestamp": "00:07:08"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships post-closing",
+      "solution_summary": "Stay in touch with clients by remembering personal details and engaging with them on shared interests.",
+      "timestamp": "00:32:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often lack a sphere and need alternative lead generation strategies.",
+      "key_takeaway": "Utilize YouTube and social media to build a presence and attract clients."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Agents looking to grow their business can benefit from advanced marketing techniques.",
+      "key_takeaway": "Focus on creating evergreen content that continues to generate leads over time."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:56",
+      "end_timestamp": "00:06:32",
+      "quote": "My sphere is definitely more important today than it was when I was 22. My friends are buying houses and homeowners now.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the evolving importance of a sphere of influence over time.",
+      "suggested_hook": "Why your sphere of influence grows with you in real estate."
+    },
+    {
+      "timestamp": "00:14:18",
+      "end_timestamp": "00:15:04",
+      "quote": "When it's really useful content paired with good editing, it's tough to beat that.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the power of combining quality content with professional editing.",
+      "suggested_hook": "The secret to creating unbeatable real estate videos."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create neighborhood tour videos on YouTube.",
+      "context": "These videos attract potential buyers interested in relocating and provide evergreen content.",
+      "timestamp": "00:16:36"
+    },
+    {
+      "tactic": "Use short-form videos to engage with a wider audience quickly.",
+      "context": "Post these on Instagram and YouTube Shorts to increase visibility.",
+      "timestamp": "00:15:41"
+    }
+  ],
+  "quotable_insights": [
+    "Your sphere is always important, even when you're 22 years old.",
+    "YouTube is a search engine, not just a social media platform."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "DJI Osmo",
+      "context": "Recommended for creating stable, high-quality video content without needing a large camera."
+    },
+    {
+      "type": "tool",
+      "name": "teleprompter.com",
+      "context": "Suggested for scripting videos to ensure smooth delivery and professional appearance."
+    }
+  ],
+  "episode_summary": "In this episode, Bella Chaffey Lakic shares her journey from a young REALTOR with no sphere to a successful agent leveraging YouTube for lead generation. She discusses the importance of creating evergreen content, staying connected with clients, and the value of community involvement. Bella provides actionable insights on using video marketing effectively, even without a large budget or professional equipment.",
+  "_metadata": {
+    "source_file": "2026-05-05_item6_Bella-Chaffey-Lakic",
+    "analyzed_at": "2026-05-24T05:22:30.833793",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

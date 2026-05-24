@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "By the time somebody calls you from watching your YouTube videos, they're going to feel like they know you already.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the personal connection and trust built through video content.",
+      "suggested_hook": "Want clients to feel like they already know you? Here's how YouTube can help."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want clients to feel like they already know you?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gina DiAngelo shared a game-changing insight on our latest episode. Ever feel like you're reaching out, but clients just don't connect? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"By the time somebody calls you from watching your YouTube videos, they're going to feel like they know you already. [ON-SCREEN: Personal Connection] Most agents rely on cold calls. Top producers use video to build trust. [ON-SCREEN: Build Trust with Video]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start building that connection today. Gina closed 47 deals last year using this exact approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you using video to connect with clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"caption\": \"Build trust before the first call. Here's how YouTube can transform your client relationships.\",\n  \"hashtags\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#LeadGeneration\", \"#VideoContent\", \"#AgentAdvice\"],\n  \"content_pillar\": \"top_producer_secrets\",\n  \"shareable_moment\": \"By the time somebody calls you from watching your YouTube videos, they're going to feel like they know you already.\"\n}\n```"
+  }
+]

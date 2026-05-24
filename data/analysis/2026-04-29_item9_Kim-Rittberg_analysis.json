@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Short form video and AI for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Short form video importance",
+    "AI tools for content creation",
+    "Social media strategies for real estate agents",
+    "Building personal brand through video",
+    "Leveraging AI for productivity"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not utilizing video effectively",
+      "solution_summary": "Use short form videos on social media to increase engagement and visibility.",
+      "timestamp": "00:03:22"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time-consuming video editing",
+      "solution_summary": "Leverage AI editing tools to cut and edit videos quickly.",
+      "timestamp": "00:07:52"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance visibility and client engagement through video.",
+      "key_takeaway": "Consistently use short form videos and AI tools to stay top of mind and build your personal brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:28",
+      "end_timestamp": "00:03:45",
+      "quote": "If you're not using video, use it. If you are using video, use more of it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It emphasizes the importance of video in a straightforward manner.",
+      "suggested_hook": "Are you using video to its full potential?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create short, vertical home tour videos.",
+      "context": "These perform well across all social media platforms.",
+      "timestamp": "00:03:58"
+    },
+    {
+      "tactic": "Use AI to generate content calendars and scripts.",
+      "context": "AI can help streamline content creation, saving time and effort.",
+      "timestamp": "00:05:09"
+    }
+  ],
+  "quotable_insights": [
+    "Hiding from the camera is hiding from clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "Kim Rittberg emphasizes the critical role of short form videos and AI in enhancing real estate agents' social media presence. She provides actionable insights on leveraging video content to build personal brands and increase client engagement. The episode also highlights AI tools that can streamline content creation and improve productivity.",
+  "_metadata": {
+    "source_file": "2026-04-29_item9_Kim-Rittberg",
+    "analyzed_at": "2026-05-24T05:21:08.961997",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

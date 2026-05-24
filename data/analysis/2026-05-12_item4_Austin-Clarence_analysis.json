@@ -1,0 +1,100 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexon Mortgage",
+    "production_level": "Top producing",
+    "specialty": "Advanced investor strategies, including DSCR loans",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Federal Reserve leadership change",
+    "DSCR loans for investors",
+    "Current mortgage rates and their impact"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of Federal Reserve changes on mortgage rates",
+      "solution_summary": "Discussed the implications of Kevin Warsh replacing Jerome Powell and how it might affect interest rates.",
+      "timestamp": "05:40"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Financing options for mom-and-pop investors",
+      "solution_summary": "Explained DSCR loans as a simpler alternative to conventional loans for investors.",
+      "timestamp": "13:30"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High mortgage rates affecting buyer decisions",
+      "solution_summary": "Suggested using buy-down strategies to temporarily lower interest rates.",
+      "timestamp": "41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into advanced financing strategies and market trends.",
+      "key_takeaway": "Understanding DSCR loans can open new opportunities with investor clients."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies to educate team members on current market conditions and financing options.",
+      "key_takeaway": "Leverage DSCR loans and buy-down strategies to assist clients in high-rate environments."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:30",
+      "end_timestamp": "14:15",
+      "quote": "One out of three home buyers right now is buying a rental property.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the significant role of investors in the current market.",
+      "suggested_hook": "Did you know that a third of home buyers are investors?"
+    },
+    {
+      "timestamp": "41:00",
+      "end_timestamp": "41:45",
+      "quote": "It's not timing the market, it's time in the market.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This phrase encapsulates a key investment philosophy.",
+      "suggested_hook": "Why waiting for the perfect rate might be a mistake."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use DSCR loans for investor clients",
+      "context": "When working with clients interested in rental properties without traditional income documentation.",
+      "timestamp": "14:30"
+    },
+    {
+      "tactic": "Implement buy-down strategies",
+      "context": "To make high interest rates more palatable for buyers.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "The number one driver for mortgage rates is what's happening with the mortgage bond market.",
+    "Investors are looking for tax benefits, not just cash flow."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "BiggerPockets",
+      "context": "Recommended for finding and networking with real estate investors."
+    },
+    {
+      "type": "website",
+      "name": "Rabu",
+      "context": "Suggested for short-term rental leads."
+    }
+  ],
+  "episode_summary": "This episode of Keeping It Real features Austin Clarence discussing the implications of the Federal Reserve's leadership change, the benefits of DSCR loans for investors, and current mortgage rate trends. Listeners will gain insights into leveraging these strategies to better serve investor clients and navigate the current market landscape.",
+  "_metadata": {
+    "source_file": "2026-05-12_item4_Austin-Clarence",
+    "analyzed_at": "2026-05-24T05:24:14.078864",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

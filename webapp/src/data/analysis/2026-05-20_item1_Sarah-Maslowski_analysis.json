@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Gina DiAngelo",
+    "title": "Coach",
+    "company": "Glover U",
+    "production_level": null,
+    "specialty": "YouTube content for real estate",
+    "location": "Northern Michigan"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Overcoming fear of video content",
+    "Cost-effective video production",
+    "Lead conversion from YouTube",
+    "Building a personal brand through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents unsure about which platform to focus on for video content",
+      "solution_summary": "Focus on YouTube instead of Instagram for long-term lead generation.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of being on camera and judgment from peers",
+      "solution_summary": "Ignore potential criticism and focus on creating content consistently.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High initial costs of professional video production",
+      "solution_summary": "Start with low-cost equipment like smartphones and gradually invest as you see returns.",
+      "timestamp": "12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start video marketing with minimal investment.",
+      "key_takeaway": "You don't need expensive equipment to start generating leads through YouTube."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can learn how to leverage YouTube for better lead conversion.",
+      "key_takeaway": "Consistent video content can lead to a steady stream of high-quality leads."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "By the time somebody calls you from watching your YouTube videos, they're going to feel like they know you already.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the personal connection and trust built through video content.",
+      "suggested_hook": "Want clients to feel like they already know you? Here's how YouTube can help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use low-cost equipment to start creating YouTube videos.",
+      "context": "Begin with a smartphone and simple lighting to reduce initial costs.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Batch record videos to maintain consistency.",
+      "context": "Record multiple videos in one session to ensure weekly content release.",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "The worst videos often bring the best leads because only serious clients will reach out."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for identifying agents looking to move brokerages."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Used for converting leads through a specialized CRM."
+    }
+  ],
+  "episode_summary": "In this episode, Gina DiAngelo discusses the power of YouTube as a lead generation tool for real estate agents, particularly in smaller markets. He shares insights on overcoming the fear of video content, starting with low-cost production, and the importance of consistency in building a personal brand. The episode provides actionable tactics for agents to leverage YouTube effectively and improve lead conversion rates.",
+  "_metadata": {
+    "source_file": "2026-05-20_item1_Sarah-Maslowski",
+    "analyzed_at": "2026-05-24T05:26:20.323279",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

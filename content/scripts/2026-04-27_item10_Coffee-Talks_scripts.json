@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:19",
+      "end_timestamp": "00:03:41",
+      "quote": "83% of clients will avoid an agent with a rating below four stars, not prefer not to will avoid.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the critical importance of maintaining a high online rating.",
+      "suggested_hook": "Are your online reviews silently killing your referrals?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are your online reviews silently killing your referrals?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a shocking stat: 83% of clients will avoid agents with ratings below four stars. Imagine you're reaching out to potential clients, but they never respond. That's because your online reviews might be turning them away.\",\n    \"INSIGHT\": \"Tim explained, 'Most agents overlook their Google business profiles, but top producers know it's crucial.' [ON-SCREEN: 83% avoid <4 stars] He suggests, 'Focus on getting consistent, positive reviews to boost your rating.' [ON-SCREEN: Consistent, positive reviews]\",\n    \"REFRAME/APPLICATION\": \"This matters because a simple review strategy can transform your client referrals. You can start today by asking satisfied clients for reviews. Tim's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"83% of clients avoid agents with low ratings. Are your reviews hurting you?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#OnlineReviews\", \"#GoogleBusiness\", \"#ClientReferrals\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"83% of clients will avoid agents with ratings below four stars.\"\n}\n```"
+  }
+]

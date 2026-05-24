@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Kristy Nakamura",
+    "title": "Team Leader",
+    "company": "Your Oahu Home Team with eXp",
+    "production_level": "Top producing REALTOR",
+    "specialty": "VA loan benefits and military families",
+    "location": "Oahu, Hawaii"
+  },
+  "main_topics": [
+    "Niche marketing in real estate",
+    "Building a database-first business",
+    "Leveraging AI in real estate",
+    "Working with military families",
+    "Multi-generational housing solutions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Chasing every shiny new lead source",
+      "solution_summary": "Focus on existing database and referrals for sustainable growth.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Understanding military family needs",
+      "solution_summary": "Provide comprehensive relocation packets and personalized service.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "High-interest rates affecting affordability",
+      "solution_summary": "Use seller credits to pay off debts and reduce monthly payments.",
+      "timestamp": "30:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into building a niche-focused business and leveraging relationships.",
+      "key_takeaway": "Focusing on a niche and building strong relationships can lead to sustainable business growth."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Kristy discusses team dynamics and division of labor, which is crucial for team leaders.",
+      "key_takeaway": "Clear division of labor and leveraging each team member's strengths are key to effective team management."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:02",
+      "end_timestamp": "06:00",
+      "quote": "We bought it sight unseen, went in, and then we needed all new appliances. We needed a new AC and at 23, we were like, woo, okay, this was like a lot, right?",
+      "clip_type": "personal_story",
+      "why_clipworthy": "This story highlights the importance of vetting real estate agents and the learning curve in real estate.",
+      "suggested_hook": "Ever bought a house sight unseen? Here's what happened to Kristy Nakamura."
+    },
+    {
+      "timestamp": "10:05",
+      "end_timestamp": "10:45",
+      "quote": "Why are we not taking more time to really dig into these relationships and not be transactional at all?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional focus on transactional relationships in real estate.",
+      "suggested_hook": "Are you focusing too much on transactions and not enough on relationships?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller credits to pay off consumer debt for VA buyers.",
+      "context": "Helps military families afford homes by reducing monthly payments.",
+      "timestamp": "30:00"
+    },
+    {
+      "tactic": "Create detailed relocation packets for military families.",
+      "context": "Provides value and eases the transition for families moving to new areas.",
+      "timestamp": "20:00"
+    },
+    {
+      "tactic": "Leverage AI for daily briefings and task management.",
+      "context": "Keeps the team organized and informed with minimal manual effort.",
+      "timestamp": "43:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focusing on your existing database and referrals can lead to exponential growth.",
+    "Understanding the unique needs of military families can set you apart in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate brokers."
+    }
+  ],
+  "episode_summary": "Kristy Nakamura shares her journey from a military spouse to a top-producing REALTOR specializing in VA loans and military families. She emphasizes the importance of focusing on a niche, leveraging relationships, and using AI to streamline operations. Kristy also discusses innovative strategies like using seller credits to help military families afford homes and the value of creating detailed relocation packets.",
+  "_metadata": {
+    "source_file": "2026-05-07_item5_Kristy-Nakamura",
+    "analyzed_at": "2026-05-24T05:23:23.399997",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

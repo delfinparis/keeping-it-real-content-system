@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Coffee Talk",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Importance of Google business profiles for real estate agents",
+    "Impact of online reviews on client referrals",
+    "Steps to optimize Google business profiles",
+    "Common misconceptions about Google profiles",
+    "Strategies for increasing client reviews"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents losing referrals due to poor or non-existent Google profiles",
+      "solution_summary": "Optimize Google business profiles by claiming and updating them, and actively requesting client reviews.",
+      "timestamp": "00:01:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode addresses the gap in converting referrals to actual clients due to online presence issues.",
+      "key_takeaway": "Ensure your Google business profile is complete and actively request reviews to prevent losing potential clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:19",
+      "end_timestamp": "00:03:41",
+      "quote": "83% of clients will avoid an agent with a rating below four stars, not prefer not to will avoid.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the critical importance of maintaining a high online rating.",
+      "suggested_hook": "Are your online reviews silently killing your referrals?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Perform a self-search on Google to assess your online presence.",
+      "context": "Start by searching your name and city to see what potential clients see.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "tactic": "Claim and complete your Google business profile.",
+      "context": "Fill in all details accurately to improve credibility and search ranking.",
+      "timestamp": "00:08:16"
+    },
+    {
+      "tactic": "Send a review request to clients within 72 hours of closing.",
+      "context": "Use a direct link to make it easy for clients to leave a review.",
+      "timestamp": "00:11:04"
+    }
+  ],
+  "quotable_insights": [
+    "The referral gives you the warm introduction. Google is where they decide whether to show up for the introduction.",
+    "Your reputation is being built every day. Let's get it digitally solidified."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Gatherup",
+      "context": "Recommended for automating the process of requesting and managing client reviews."
+    }
+  ],
+  "episode_summary": "In this episode of Coffee Talk, D.J. Paris and Tim Littleton discuss the critical role of Google business profiles in converting referrals into clients. They outline practical steps for optimizing these profiles and emphasize the importance of actively managing online reviews. The hosts provide actionable tactics to enhance online presence, which can significantly impact an agent's referral success.",
+  "_metadata": {
+    "source_file": "2026-04-27_item10_Coffee-Talks",
+    "analyzed_at": "2026-05-24T05:20:59.447312",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

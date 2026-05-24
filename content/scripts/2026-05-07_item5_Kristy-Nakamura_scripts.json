@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:02",
+      "end_timestamp": "06:00",
+      "quote": "We bought it sight unseen, went in, and then we needed all new appliances. We needed a new AC and at 23, we were like, woo, okay, this was like a lot, right?",
+      "clip_type": "personal_story",
+      "why_clipworthy": "This story highlights the importance of vetting real estate agents and the learning curve in real estate.",
+      "suggested_hook": "Ever bought a house sight unseen? Here's what happened to Kristy Nakamura."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Ever bought a house sight unseen? Here's what happened to Kristy Nakamura.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine buying a home without ever stepping inside. Kristy Nakamura did just that. It's a bold move, but what happens when you discover you need all new appliances and a new AC? At 23, Kristy realized the importance of vetting real estate agents. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Kristy shared, 'We bought it sight unseen, went in, and then we needed all new appliances. We needed a new AC and at 23, we were like, woo, okay, this was like a lot, right?' [ON-SCREEN: sight unseen purchase] Most agents might overlook these details. Top producers ensure their clients are fully informed. [ON-SCREEN: vet your agent]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can avoid costly surprises by thoroughly vetting your agent. You can do this today. Kristy learned the hard way, but you don't have to. [ON-SCREEN: avoid costly surprises]\",\n    \"CTA\": \"Have you ever bought a property sight unseen? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Thinking of buying a home sight unseen? Here's why you should vet your agent first.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#HomeBuying\", \"#AgentAdvice\", \"#RealTalk\", \"#PropertyInvesting\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents might overlook these details. Top producers ensure their clients are fully informed.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "10:05",
+      "end_timestamp": "10:45",
+      "quote": "Why are we not taking more time to really dig into these relationships and not be transactional at all?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional focus on transactional relationships in real estate.",
+      "suggested_hook": "Are you focusing too much on transactions and not enough on relationships?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you focusing too much on transactions and not enough on relationships?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kristy Nakamura challenges us to rethink how we build our real estate business. You're reaching out to your database, but nobody's responding. Why? Because it's all about transactions, not relationships.\",\n    \"INSIGHT\": \"Kristy says, 'Why are we not taking more time to really dig into these relationships and not be transactional at all?' [ON-SCREEN: Dig into relationships] Most agents focus on closing deals. Top producers focus on building trust. [ON-SCREEN: Build trust, not transactions]\",\n    \"REFRAME/APPLICATION\": \"This matters because genuine relationships lead to repeat business. You can start today by reaching out to a client just to check in, no sales pitch. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Shift from transactions to relationships for lasting success in real estate.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#RelationshipBuilding\", \"#AgentSuccess\", \"#RealEstateMindset\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on closing deals. Top producers focus on building trust.\"\n}\n```"
+  }
+]

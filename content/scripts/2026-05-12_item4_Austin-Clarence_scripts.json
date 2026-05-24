@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "13:30",
+      "end_timestamp": "14:15",
+      "quote": "One out of three home buyers right now is buying a rental property.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the significant role of investors in the current market.",
+      "suggested_hook": "Did you know that a third of home buyers are investors?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know that a third of home buyers are investors?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just revealed that one out of three home buyers is purchasing a rental property. If you're an agent wondering why your listings are getting scooped up fast, this might be why. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Investors are seizing opportunities with DSCR loans, which allow them to qualify based on rental income rather than personal income. [ON-SCREEN: 1 in 3 buyers are investors] This means they're not as impacted by current mortgage rates. [ON-SCREEN: DSCR loans for investors] Austin says, 'Most agents overlook this, but savvy ones leverage it to attract investor clients.'\",\n    \"REFRAME/APPLICATION\": \"This matters because you can tap into this investor trend today. Start by understanding DSCR loans and reaching out to potential investor clients. [ON-SCREEN: Tap into investor trend now] Imagine closing more deals by simply shifting your focus.\",\n    \"CTA\": \"Are you working with investor clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"1 in 3 home buyers are investors. Are you tapping into this trend?\",\n  \"HASHTAGS\": [\"#RealEstateInvesting\", \"#DSCRLoans\", \"#InvestorClients\", \"#MarketTrends\", \"#RealEstateTips\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Investors are seizing opportunities with DSCR loans, qualifying based on rental income.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "41:00",
+      "end_timestamp": "41:45",
+      "quote": "It's not timing the market, it's time in the market.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This phrase encapsulates a key investment philosophy.",
+      "suggested_hook": "Why waiting for the perfect rate might be a mistake."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why waiting for the perfect rate might be a mistake.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently shared a game-changing insight on our podcast. You're waiting for the perfect mortgage rate, but the market keeps shifting. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin said, 'It's not timing the market, it's time in the market.' [ON-SCREEN: It's time in the market] Most investors hesitate, waiting for rates to drop. But top investors dive in, knowing long-term gains matter more. [ON-SCREEN: Long-term gains matter more]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start investing today, even if rates aren't ideal. You can do this today. Austin's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you investing now, or waiting for rates? Comment 'investing' or 'waiting' below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Timing isn't everything. It's about time IN the market. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#InvestmentStrategy\", \"#MarketTiming\", \"#MortgageRates\", \"#RealEstatePodcast\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"It's not timing the market, it's time in the market.\"\n}\n```"
+  }
+]
