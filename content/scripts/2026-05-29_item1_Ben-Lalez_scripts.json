@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "36:02",
+      "end_timestamp": "38:00",
+      "quote": "Every seller is the same. They want certainty that the offer they select is actually going to get to the closing table.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a unique solution to a common problem in real estate transactions.",
+      "suggested_hook": "What if you could guarantee your real estate deals close every time?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"What if you could guarantee your real estate deals close every time?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing insight on our podcast. Imagine this: you've got a seller who's anxious about whether their chosen offer will actually close. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'Every seller is the same. They want certainty that the offer they select is actually going to get to the closing table.' [ON-SCREEN: Certainty in Closing] Most agents hope for the best. Top producers ensure it with innovative insurance products that guarantee closing. [ON-SCREEN: Innovative Insurance Products]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start using these insurance products today to give your sellers the peace of mind they crave. Ben closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you using this strategy already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Guarantee your deals close every time with this innovative strategy. #RealEstateSuccess\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#ClosingDeals\", \"#InnovativeSolutions\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents hope for the best. Top producers ensure it with innovative insurance products.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:05",
+      "end_timestamp": "27:10",
+      "quote": "I dumped it all into Gemini... It spits out one listing. That's amazing.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Demonstrates the power of AI in solving complex real estate problems.",
+      "suggested_hook": "Discover how AI found the perfect home for an NBA player in seconds!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"AI found an NBA player's dream home in seconds!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine you're searching for the perfect home for a high-profile client, and nothing seems to fit. You're overwhelmed with options, but none are right. Sound familiar?\",\n    \"INSIGHT\": \"Ben Lalez shared how he used AI to solve this. 'I dumped it all into Gemini... It spits out one listing. That's amazing.' [ON-SCREEN: AI found the perfect home] Most agents sift through endless listings. Top producers leverage AI for precision.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? AI can streamline your search process. You can do this today. Ben's approach helped him close deals faster.\",\n    \"CTA\": \"Have you tried AI in your searches yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how AI can transform your real estate searches! #AIinRealEstate\",\n  \"HASHTAGS\": [\"#AIinRealEstate\", \"#RealEstateTips\", \"#AgentSuccess\", \"#TechInRealEstate\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI found an NBA player's dream home in seconds!\"\n}\n```"
+  }
+]

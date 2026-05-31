@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Kristy Nakamura",
+    "title": "Team Leader",
+    "company": "Your Oahu Home Team with eXp",
+    "production_level": "Top producing REALTOR",
+    "specialty": "VA financing and military families",
+    "location": "Oahu, Hawaii"
+  },
+  "main_topics": [
+    "Building a niche-focused business",
+    "Leveraging VA loans and military market",
+    "Importance of relationships and referrals",
+    "Using AI in real estate",
+    "Multi-generational housing solutions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Chasing every shiny new lead source",
+      "solution_summary": "Focus on existing database and referrals for sustainable growth.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Understanding military families' needs",
+      "solution_summary": "Provide comprehensive relocation support and local insights.",
+      "timestamp": "20:16"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "High interest rates affecting affordability",
+      "solution_summary": "Utilize seller credits to pay off debts and reduce monthly payments.",
+      "timestamp": "29:38"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on building a niche business and leveraging relationships for growth.",
+      "key_takeaway": "Focus on your existing sphere and provide exceptional value to generate referrals."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Kristy discusses team dynamics and division of labor, which is crucial for team leaders.",
+      "key_takeaway": "Clearly define roles and responsibilities within your team to maximize efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:02",
+      "end_timestamp": "06:50",
+      "quote": "I said, you know what, we're gonna go with you, but I need you to show me what you're doing every step of the way, because I wanna learn what you're doing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of learning from experts and being proactive in understanding the process.",
+      "suggested_hook": "Ever wondered how to truly learn the ropes in real estate? Here's a strategy you might not have considered."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller credits to pay off buyers' debts.",
+      "context": "In high-rate markets, this can make homes more affordable for buyers.",
+      "timestamp": "30:02"
+    },
+    {
+      "tactic": "Create a relocation packet for military families.",
+      "context": "Provide detailed information about the area and logistics to ease their transition.",
+      "timestamp": "21:05"
+    }
+  ],
+  "quotable_insights": [
+    "Why are we not taking more time to really dig into these relationships and not be transactional at all?"
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Kristy Nakamura shares her journey of building a successful real estate business by focusing on niche markets, particularly military families. She emphasizes the importance of leveraging existing relationships and using AI tools to enhance efficiency. Kristy also discusses strategies like using seller credits to make homes more affordable in high-rate markets.",
+  "_metadata": {
+    "source_file": "2026-05-07_item8_Kristy-Nakamura",
+    "analyzed_at": "2026-05-31T05:30:47.905259",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "13:30",
+      "end_timestamp": "14:15",
+      "quote": "One out of three home buyers right now is buying a rental property, and most are not large institutional players.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It challenges the common perception that institutional investors dominate the market.",
+      "suggested_hook": "Did you know that everyday investors make up a significant portion of the real estate market?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know everyday investors are reshaping the real estate market?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just shared a surprising stat: one out of three home buyers is purchasing rental properties, and they're not big institutions. You're working hard, reaching out to potential buyers, but it feels like the big players dominate. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin says, 'Most people think institutional investors are buying up everything, but it's actually everyday investors making these moves.' [ON-SCREEN: 1 in 3 buyers] This means there's a huge opportunity for agents to connect with these individual buyers. [ON-SCREEN: Everyday investors] They're looking for guidance, and you can be their go-to expert.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can tap into this market today. Start by identifying potential rental property buyers in your network. [ON-SCREEN: Connect with investors] This approach helped an agent I know close 15 deals last year.\",\n    \"CTA\": \"Are you already working with everyday investors — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Surprised by who's buying rental properties? It's not who you think! #RealEstate\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#Investors\", \"#MarketTrends\", \"#RealEstateTips\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most people think institutional investors are buying up everything, but it's actually everyday investors making these moves.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "21:00",
+      "end_timestamp": "21:45",
+      "quote": "BiggerPockets is a goldmine for connecting with real estate investors looking for opportunities.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tool that agents can use to generate leads.",
+      "suggested_hook": "Looking to connect with real estate investors? Here's a tool you can't ignore."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to unlock a goldmine of real estate investors?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently shared a game-changing tip on our podcast. If you're struggling to connect with serious real estate investors, you're not alone. Many agents feel stuck trying to find quality leads. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"BiggerPockets is a goldmine for connecting with real estate investors looking for opportunities. [ON-SCREEN: BiggerPockets = Investor Goldmine] Most agents overlook this platform, but top producers use it to generate consistent leads. [ON-SCREEN: Top Producers Leverage BiggerPockets]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start engaging with investors on BiggerPockets today. Austin Clarence, who closed 47 deals last year, swears by this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you using BiggerPockets already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock a goldmine of real estate investors with this overlooked tool! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#InvestorLeads\", \"#BiggerPockets\", \"#AgentSuccess\", \"#LeadGeneration\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"BiggerPockets is a goldmine for connecting with real estate investors looking for opportunities.\"\n}\n```"
+  }
+]

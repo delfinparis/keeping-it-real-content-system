@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:09:08",
+      "end_timestamp": "00:09:45",
+      "quote": "I was definitely more worried about other agents seeing it and being like, 'What the hell is this guy doing?'",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It addresses a common fear among agents about peer judgment.",
+      "suggested_hook": "Worried about what others think? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Worried about peer judgment? Here's why it shouldn't stop you.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gina DiAngelo shared a fear we all know too well. You're ready to hit record, but the thought of other agents watching makes you freeze. It's a common fear, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Gina said, 'I was definitely more worried about other agents seeing it and being like, What the hell is this guy doing?' [ON-SCREEN: Overcoming Fear] But she pushed through, using YouTube as a lead generation tool. Most agents hesitate. Top producers embrace video to build their brand. [ON-SCREEN: Build Your Brand] It's cost-effective and converts leads. [ON-SCREEN: Lead Conversion]\",\n    \"REFRAME/APPLICATION\": \"Why wait? Start today. Gina closed 47 deals last year using this exact approach. [ON-SCREEN: 47 Deals Closed] You can do this today.\",\n    \"CTA\": \"Are you using video for leads yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't let fear of judgment hold you back. Embrace video and grow your brand!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#VideoMarketing\", \"#LeadGeneration\", \"#OvercomeFear\", \"#BuildYourBrand\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents hesitate. Top producers embrace video to build their brand.\"\n}\n```"
+  }
+]

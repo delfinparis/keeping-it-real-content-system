@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "High Performance Hypnotherapist and Mindset Coach",
+    "company": "",
+    "production_level": "",
+    "specialty": "Helping real estate and financial services professionals get unstuck",
+    "location": ""
+  },
+  "main_topics": [
+    "The dangers of constant availability in real estate",
+    "The importance of recalibrating and setting boundaries",
+    "Balancing intensity and consistency for sustainable success",
+    "The impact of neglecting self-care and personal relationships",
+    "Strategies for prioritizing personal time and values"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Constant availability leading to burnout and inefficiency",
+      "solution_summary": "Recalibrate by returning to fundamentals and setting boundaries to maintain personal well-being and professional efficiency.",
+      "timestamp": "03:11"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Neglecting personal time and self-care for work commitments",
+      "solution_summary": "Audit and prioritize your calendar to include self-care and family time first, then build work around it.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the common issue of burnout among experienced agents who have been sprinting without recalibration.",
+      "key_takeaway": "Burnout can be mitigated by returning to personal fundamentals and setting intentional boundaries."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers often feel the need to be constantly available, which this episode challenges.",
+      "key_takeaway": "Success is not just about intensity but also about maintaining consistency through personal well-being."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:03",
+      "end_timestamp": "07:34",
+      "quote": "If you're feeling off track, disconnected, like your head is barely above water, you don't need another productivity hack. You need to return to the fundamentals that made you effective before success made you reactive.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This moment challenges the common belief that more productivity tools are the solution, emphasizing a return to basics.",
+      "suggested_hook": "Feeling overwhelmed? The solution isn't another productivity hack."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Audit your calendar to prioritize self-care and family time.",
+      "context": "Use this tactic to ensure that personal values and well-being are not sacrificed for work.",
+      "timestamp": "20:01"
+    }
+  ],
+  "quotable_insights": [
+    "Intensity is necessary to get ahead, but it's what you achieve through intensity that is maintained by consistency.",
+    "Your calendar is a direct reflection of what's most important to you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Unstuck High Performer Podcast",
+      "context": "Recommended for those who feel stuck and want to perform at their potential."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the dangers of constant availability in real estate and the importance of recalibrating to maintain personal and professional well-being. He emphasizes the need to balance intensity with consistency and provides strategies for prioritizing personal time and values to avoid burnout.",
+  "_metadata": {
+    "source_file": "2026-05-28_item2_Paul-Salter",
+    "analyzed_at": "2026-05-31T05:34:36.466674",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

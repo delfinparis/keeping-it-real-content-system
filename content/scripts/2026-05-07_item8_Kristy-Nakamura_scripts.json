@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:02",
+      "end_timestamp": "06:50",
+      "quote": "I said, you know what, we're gonna go with you, but I need you to show me what you're doing every step of the way, because I wanna learn what you're doing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of learning from experts and being proactive in understanding the process.",
+      "suggested_hook": "Ever wondered how to truly learn the ropes in real estate? Here's a strategy you might not have considered."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to master real estate without a textbook?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kristy Nakamura shared a game-changing insight on our latest episode. You're working with experts, but feel left out of the loop, right? You're eager to learn, but the process seems hidden.\",\n    \"INSIGHT\": \"Kristy said, 'I told them, we're going with you, but I need you to show me what you're doing every step of the way, because I want to learn.' [ON-SCREEN: Show me every step] Most agents follow blindly. Top producers ask to be shown the ropes. [ON-SCREEN: Learn from experts]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start applying it today. Ask your mentors to walk you through their process. Kristy built a niche-focused business using this exact approach. [ON-SCREEN: Apply it today]\",\n    \"CTA\": \"Are you asking to learn every step — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Learn from the best by asking the right questions. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#LearnFromExperts\",\n    \"#TopProducerSecrets\",\n    \"#AgentSuccess\",\n    \"#RealEstateAdvice\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents follow blindly. Top producers ask to be shown the ropes.\"\n}\n```"
+  }
+]

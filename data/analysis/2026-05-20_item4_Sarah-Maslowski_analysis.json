@@ -1,0 +1,78 @@
+{
+  "guest_info": {
+    "name": "Gina DiAngelo",
+    "title": "Coach",
+    "company": "Glover U",
+    "production_level": null,
+    "specialty": "YouTube-based real estate marketing",
+    "location": "Northern Michigan"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Overcoming fears of being on camera",
+    "Cost-effective video production",
+    "Lead conversion from YouTube",
+    "Building a personal brand through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents unsure whether to focus on Instagram or YouTube for video content",
+      "solution_summary": "Focus on YouTube for long-term lead generation and personal branding.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of being on camera and judgment from peers",
+      "solution_summary": "Ignore comments and focus on creating content consistently.",
+      "timestamp": "00:09:08"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High initial costs of video production",
+      "solution_summary": "Start with low-cost options like smartphones and basic editing before investing in high-end equipment.",
+      "timestamp": "00:12:09"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights on using YouTube to generate leads and build a personal brand.",
+      "key_takeaway": "Start with simple video setups and focus on consistency to leverage YouTube effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:08",
+      "end_timestamp": "00:09:45",
+      "quote": "I was definitely more worried about other agents seeing it and being like, 'What the hell is this guy doing?'",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It addresses a common fear among agents about peer judgment.",
+      "suggested_hook": "Worried about what others think? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use YouTube for lead generation by creating content about living in your area.",
+      "context": "Focus on relocation and lifestyle content to attract potential buyers.",
+      "timestamp": "00:16:00"
+    }
+  ],
+  "quotable_insights": [
+    "The worst videos might bring the best leads because only serious clients will reach out."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for real estate recruiters to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Gina DiAngelo discusses the power of YouTube as a lead generation tool for real estate agents. He shares his journey of overcoming the fear of being on camera and emphasizes starting with low-cost video production. The episode highlights the importance of consistency and personal branding in attracting quality leads.",
+  "_metadata": {
+    "source_file": "2026-05-20_item4_Sarah-Maslowski",
+    "analyzed_at": "2026-05-31T05:33:22.094981",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

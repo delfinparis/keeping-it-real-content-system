@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": null,
+    "specialty": "Real estate industry, technology, AI",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "AI visibility and citation density",
+    "Impact of mergers and acquisitions in real estate",
+    "Building a personal brand independent of brokerage",
+    "Content creation for real estate agents",
+    "The future of indie brokerages"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of mergers and acquisitions on individual agents",
+      "solution_summary": "Agents should focus on building their personal brand and not rely solely on their brokerage's brand.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents are invisible to AI-generated answers",
+      "solution_summary": "Increase citation density by getting content published on authoritative sites like .edu and .gov, and in local newspapers.",
+      "timestamp": "06:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how to leverage AI and content creation to stand out in a competitive market.",
+      "key_takeaway": "Focus on creating content that answers common buyer and seller questions to improve AI visibility."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The discussion on mergers and acquisitions is crucial for team leaders considering the future of their brokerage.",
+      "key_takeaway": "Ensure your team's brand is strong and independent of the brokerage's brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:43",
+      "end_timestamp": "06:13",
+      "quote": "Agents are asking how do I rank in AI, but they should be asking why in the world would AI ever cite them in the first place.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges agents to rethink their approach to AI and content creation.",
+      "suggested_hook": "Are you asking the wrong questions about AI in real estate?"
+    },
+    {
+      "timestamp": "27:05",
+      "end_timestamp": "27:33",
+      "quote": "If you are upset about being acquired, you likely have too much of your brand identity tied to the brokerage.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It provides a bold perspective on the importance of personal branding.",
+      "suggested_hook": "Is your brand too dependent on your brokerage?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Publish content on .edu and .gov websites to increase AI visibility.",
+      "context": "Partner with educational institutions or local government for speaking engagements or articles.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Create a voice guide for AI content creation.",
+      "context": "Ensure AI-generated content aligns with your personal brand and communication style.",
+      "timestamp": "48:45"
+    }
+  ],
+  "quotable_insights": [
+    "Content is lead generation in this business.",
+    "Your brand should be able to operate regardless of the brokerage logo on your letterhead."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the importance of building a personal brand independent of brokerage affiliations, especially in light of recent mergers and acquisitions in the real estate industry. He emphasizes the need for agents to enhance their AI visibility through strategic content publication and provides actionable tips for leveraging AI tools effectively.",
+  "_metadata": {
+    "source_file": "2026-05-25_item3_Chris-Linsell",
+    "analyzed_at": "2026-05-31T05:34:07.951263",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

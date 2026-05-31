@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Ben Lalez Group",
+    "production_level": "$200M+ producer",
+    "specialty": "Real Estate Residential",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Compass, Zillow, and MLS conflict",
+    "AI solutions in real estate",
+    "Agent advocacy and industry changes",
+    "Innovative insurance products for real estate",
+    "AI-driven content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Conflict over listing data control between Compass, Zillow, and MLS",
+      "solution_summary": "Discussion on the need for agent advocacy and potential industry changes.",
+      "timestamp": "04:20"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "High cancellation rate of real estate deals",
+      "solution_summary": "Development of a cancellation insurance product to assure sellers.",
+      "timestamp": "36:02"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Staying informed and creating engaging content",
+      "solution_summary": "Using AI to automate content curation and creation for social media.",
+      "timestamp": "53:13"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode discusses cutting-edge strategies and technologies that can elevate an agent's business.",
+      "key_takeaway": "Leveraging AI for innovative solutions can provide a competitive edge in the real estate market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into managing a high-performing team and implementing new tools.",
+      "key_takeaway": "Integrating AI-driven processes can streamline operations and improve team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "36:02",
+      "end_timestamp": "38:00",
+      "quote": "Every seller is the same. They want certainty that the offer they select is actually going to get to the closing table.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a unique solution to a common problem in real estate transactions.",
+      "suggested_hook": "What if you could guarantee your real estate deals close every time?"
+    },
+    {
+      "timestamp": "25:05",
+      "end_timestamp": "27:10",
+      "quote": "I dumped it all into Gemini... It spits out one listing. That's amazing.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Demonstrates the power of AI in solving complex real estate problems.",
+      "suggested_hook": "Discover how AI found the perfect home for an NBA player in seconds!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to analyze transaction data for insights on deal cancellations.",
+      "context": "To reduce deal cancellations and offer sellers assurance.",
+      "timestamp": "38:00"
+    },
+    {
+      "tactic": "Automate content curation and creation with AI.",
+      "context": "To stay informed and produce engaging social media content.",
+      "timestamp": "53:13"
+    }
+  ],
+  "quotable_insights": [
+    "Nobody is actually looking out for the best interest of the agent.",
+    "AI can replace mundane tasks, allowing agents to focus on high-value activities."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for scheduling tasks and automating processes."
+    },
+    {
+      "type": "tool",
+      "name": "Gemini",
+      "context": "AI used to solve complex real estate problems."
+    }
+  ],
+  "episode_summary": "This episode dives into the ongoing conflict between Compass, Zillow, and MLS over listing data control, highlighting the lack of agent advocacy in the industry. Ben Lalez shares innovative solutions using AI, including a cancellation insurance product and automated content creation, providing valuable insights for agents looking to stay ahead in a rapidly evolving market.",
+  "_metadata": {
+    "source_file": "2026-05-29_item1_Ben-Lalez",
+    "analyzed_at": "2026-05-31T05:35:19.979355",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

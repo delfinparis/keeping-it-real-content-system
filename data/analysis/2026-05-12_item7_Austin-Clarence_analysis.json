@@ -1,0 +1,99 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexon Mortgage",
+    "production_level": "Top producing",
+    "specialty": "Advanced investor strategies and complex financial scenarios",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Federal Reserve leadership change",
+    "DSCR loans for investors",
+    "Current mortgage rates and their implications"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of Federal Reserve changes on mortgage rates",
+      "solution_summary": "Discussed the implications of Kevin Warsh's appointment and potential interest rate cuts.",
+      "timestamp": "05:40"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Financing options for mom-and-pop investors",
+      "solution_summary": "Introduced DSCR loans as a hassle-free financing option focusing on rental income rather than personal income documentation.",
+      "timestamp": "13:30"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding and working with real estate investors",
+      "solution_summary": "Suggested using platforms like BiggerPockets and Rabu to connect with potential investor clients.",
+      "timestamp": "21:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into advanced lending strategies and market trends that can help agents close more deals.",
+      "key_takeaway": "Understanding DSCR loans can open up new opportunities with investor clients."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies for recruiting agents and understanding market shifts that affect team performance.",
+      "key_takeaway": "Keeping informed about Federal Reserve changes can help guide team strategy and client advice."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:30",
+      "end_timestamp": "14:15",
+      "quote": "One out of three home buyers right now is buying a rental property, and most are not large institutional players.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It challenges the common perception that institutional investors dominate the market.",
+      "suggested_hook": "Did you know that everyday investors make up a significant portion of the real estate market?"
+    },
+    {
+      "timestamp": "21:00",
+      "end_timestamp": "21:45",
+      "quote": "BiggerPockets is a goldmine for connecting with real estate investors looking for opportunities.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tool that agents can use to generate leads.",
+      "suggested_hook": "Looking to connect with real estate investors? Here's a tool you can't ignore."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use BiggerPockets to find investor clients by setting up keyword alerts.",
+      "context": "Engage with potential clients by responding to forum posts in your local market.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Leverage DSCR loans for investor clients who want hassle-free financing.",
+      "context": "Focus on the property's rental income rather than the buyer's personal income documentation.",
+      "timestamp": "13:30"
+    }
+  ],
+  "quotable_insights": [
+    "It's not about timing the market, it's about time in the market."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "BiggerPockets",
+      "context": "Recommended for connecting with real estate investors and generating leads."
+    },
+    {
+      "type": "website",
+      "name": "Rabu",
+      "context": "Suggested for finding short-term rental leads."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the implications of the Federal Reserve's leadership change on mortgage rates, introduces DSCR loans as a key financing option for investors, and provides strategies for agents to connect with investor clients using platforms like BiggerPockets. These insights offer actionable tactics for agents looking to expand their client base and navigate current market conditions.",
+  "_metadata": {
+    "source_file": "2026-05-12_item7_Austin-Clarence",
+    "analyzed_at": "2026-05-31T05:31:23.244973",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

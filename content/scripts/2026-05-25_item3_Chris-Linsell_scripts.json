@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:43",
+      "end_timestamp": "06:13",
+      "quote": "Agents are asking how do I rank in AI, but they should be asking why in the world would AI ever cite them in the first place.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges agents to rethink their approach to AI and content creation.",
+      "suggested_hook": "Are you asking the wrong questions about AI in real estate?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you asking the wrong questions about AI in real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell recently pointed out that agents are obsessed with ranking in AI. But here's the real issue: why would AI even cite you? If you're constantly creating content but not seeing results, this is for you.\",\n    \"INSIGHT\": \"Chris says, 'Agents are asking how do I rank in AI, but they should be asking why in the world would AI ever cite them in the first place.' [ON-SCREEN: Why would AI cite you?] Most agents focus on gaming the system. Top producers focus on creating valuable, unique content that AI can't ignore. [ON-SCREEN: Create content AI can't ignore]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI is shaping real estate visibility. Start by creating content that answers real client questions. You can do this today and see a shift in your AI visibility.\",\n    \"CTA\": \"Are you creating content AI would cite — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you asking the wrong AI questions in real estate? Let's shift your focus.\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#ContentCreation\", \"#AIVisibility\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on gaming the system. Top producers focus on creating valuable, unique content that AI can't ignore.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "27:05",
+      "end_timestamp": "27:33",
+      "quote": "If you are upset about being acquired, you likely have too much of your brand identity tied to the brokerage.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It provides a bold perspective on the importance of personal branding.",
+      "suggested_hook": "Is your brand too dependent on your brokerage?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your brand too dependent on your brokerage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell shares a bold perspective: If you're upset about being acquired, your brand might be too tied to your brokerage. Imagine feeling lost every time your brokerage changes hands. That's a sign your personal brand needs work.\",\n    \"INSIGHT\": \"Chris says, 'If you are upset about being acquired, you likely have too much of your brand identity tied to the brokerage.' [ON-SCREEN: Personal brand independence] Most agents rely heavily on their brokerage's identity. Top producers build their own brand that stands strong, no matter where they hang their license.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start building your personal brand today. You can do this by creating content that reflects your unique style and expertise. Remember, Chris Linsell says, 'Your brand should be yours, not your brokerage's.'\",\n    \"CTA\": \"Is your brand independent of your brokerage — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your brand too tied to your brokerage? Build your identity today! #RealEstateBranding\",\n  \"HASHTAGS\": [\"#RealEstateBranding\", \"#PersonalBrand\", \"#AgentTips\", \"#RealEstateAdvice\", \"#Brokerage\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Your brand should be yours, not your brokerage's.\"\n}\n```"
+  }
+]

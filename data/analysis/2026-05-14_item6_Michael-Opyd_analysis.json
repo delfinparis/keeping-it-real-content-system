@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": null,
+    "production_level": "Top 1% producer",
+    "specialty": "Real estate agent coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Overcoming personal loss",
+    "Maintaining consistency in routines",
+    "Finding motivation through personal 'why'",
+    "Impact of mindset on real estate success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling stuck and unmotivated after personal loss",
+      "solution_summary": "Reconnect with your personal 'why' and establish consistent routines to regain momentum.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Negative self-talk and comparison to other agents",
+      "solution_summary": "Focus on personal growth and the unique journey rather than comparing to others.",
+      "timestamp": "20:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode addresses feeling stuck after initial success and personal challenges.",
+      "key_takeaway": "Re-establishing routines and focusing on personal 'why' can help overcome periods of stagnation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "35:15",
+      "end_timestamp": "36:00",
+      "quote": "When you have a big enough why, you're not pushed, you're pulled.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It encapsulates a powerful mindset shift that can motivate agents.",
+      "suggested_hook": "Are you feeling stuck in your real estate career? Here's how to find your motivation."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Establish a consistent morning and evening routine.",
+      "context": "Use routines to maintain productivity and mental clarity.",
+      "timestamp": "28:00"
+    },
+    {
+      "tactic": "Write letters to loved ones as a form of journaling.",
+      "context": "Use this technique to process emotions and maintain a connection with lost loved ones.",
+      "timestamp": "21:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a you problem.",
+    "People pass, but they never really leave."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for recruiting and retention, powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches a young real estate agent through personal loss and professional stagnation. The discussion focuses on regaining motivation by reconnecting with personal 'why' and establishing consistent routines. Listeners gain insights into overcoming negative self-talk and the importance of mindset in achieving real estate success.",
+  "_metadata": {
+    "source_file": "2026-05-14_item6_Michael-Opyd",
+    "analyzed_at": "2026-05-31T05:32:11.569141",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
