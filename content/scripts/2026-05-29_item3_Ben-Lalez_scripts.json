@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "39:00",
+      "end_timestamp": "40:00",
+      "quote": "We offer cancellation insurance for our buyers to give sellers peace of mind.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It presents a unique, actionable solution that can be adopted by other agents.",
+      "suggested_hook": "What if you could guarantee your offers and stand out in a crowded market?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What if you could guarantee your offers and stand out in a crowded market?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing tactic for agents. Imagine you're making offers, but sellers are hesitant. You need a way to reassure them and close the deal. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'We offer cancellation insurance for our buyers to give sellers peace of mind.' [ON-SCREEN: Cancellation Insurance] This unique approach ensures your offer stands out. Most agents rely on standard offers. Top producers use this strategy to differentiate themselves. [ON-SCREEN: Stand Out in Offers]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? In today's competitive market, you can implement this tactic immediately. Ben closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stand out in a crowded market with this unique strategy. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#HomeBuying\", \"#MarketStrategy\", \"#RealEstateInnovation\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"We offer cancellation insurance for our buyers to give sellers peace of mind.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "53:30",
+      "end_timestamp": "54:30",
+      "quote": "I use AI to automate my news gathering, which has quadrupled my reach in just three months.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Demonstrates the power of AI in transforming personal branding and market knowledge.",
+      "suggested_hook": "Want to stay ahead in real estate? Here's how AI can transform your business."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to stay ahead in real estate? AI is your secret weapon.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing strategy on our podcast. Imagine automating your news gathering and seeing your reach quadruple in just three months. You're hustling hard, but still feel like you're missing out on the latest market trends.\",\n    \"INSIGHT\": \"Ben said, 'I use AI to automate my news gathering, which has quadrupled my reach in just three months.' [ON-SCREEN: Quadrupled reach in 3 months] Most agents rely on manual updates. Top producers leverage AI for real-time insights. [ON-SCREEN: Real-time insights with AI]\",\n    \"REFRAME/APPLICATION\": \"This matters because staying informed is crucial to your success. You can start using AI tools today to transform your market knowledge. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you using AI in your business yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can transform your real estate business. Are you ready to leverage it?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#MarketIntelligence\", \"#RealEstateSuccess\", \"#AIinRealEstate\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on manual updates. Top producers leverage AI for real-time insights.\"\n}\n```"
+  }
+]

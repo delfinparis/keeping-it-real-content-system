@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "One out of three home buyers right now is buying a rental property, and we're not talking about the massive Wall Street players.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the significant role of everyday investors in the current market.",
+      "suggested_hook": "Did you know that 30% of home buyers are investors? Here's what that means for you."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know that 30% of home buyers are investors?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just revealed a game-changer: one in three home buyers is purchasing rental properties. And it's not the big Wall Street players. It's everyday investors like your neighbor or even you. Feeling the pressure to compete in this market?\",\n    \"INSIGHT\": \"Austin explains, 'These investors are leveraging DSCR loans to maximize their buying power.' [ON-SCREEN: 30% of buyers are investors] Most agents overlook these buyers. Top producers target them with tailored strategies. [ON-SCREEN: DSCR loans for investors]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can tap into this trend today. Start by identifying potential investors in your network. [ON-SCREEN: Identify investors in your network] Austin closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you targeting investors already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"30% of home buyers are investors! Are you tapping into this market?\",\n  \"HASHTAGS\": [\"#RealEstateInvesting\", \"#MarketTrends\", \"#AgentTips\", \"#InvestorStrategies\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"These investors are leveraging DSCR loans to maximize their buying power.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "38:00",
+      "end_timestamp": "38:45",
+      "quote": "Depreciation is so simple that it's almost more confusing because you're literally taking a paper loss.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Clarifies a complex concept in a straightforward manner.",
+      "suggested_hook": "Confused about depreciation? Let's break it down simply."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Depreciation is a paper loss that saves you money!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence explained this on our latest episode. If you're an investor, you might feel lost in tax jargon. Depreciation sounds complex, but it's actually simple and crucial for your strategy.\",\n    \"INSIGHT\": \"Austin said, 'Depreciation is so simple that it's almost more confusing because you're literally taking a paper loss.' [ON-SCREEN: Depreciation = Paper Loss] This means you can reduce taxable income without losing actual cash. [ON-SCREEN: Reduce Taxable Income] Most investors overlook this, but savvy ones use it to maximize returns. [ON-SCREEN: Maximize Returns]\",\n    \"REFRAME/APPLICATION\": \"Understanding this can transform your investment strategy today. Austin's clients have saved thousands by applying this concept. [ON-SCREEN: Save Thousands]\",\n    \"CTA\": \"Are you leveraging depreciation in your investments — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Confused about depreciation? Learn how a paper loss can save you money! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Depreciation\", \"#InvestmentStrategy\", \"#TaxBenefits\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Depreciation is so simple that it's almost more confusing because you're literally taking a paper loss.\"\n}\n```"
+  }
+]

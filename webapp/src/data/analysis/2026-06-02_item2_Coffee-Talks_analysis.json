@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "N/A",
+    "production_level": "N/A",
+    "specialty": "N/A",
+    "location": "N/A"
+  },
+  "main_topics": [
+    "Three-week listing strategy",
+    "Median time on market",
+    "Price reduction strategies",
+    "Importance of launch preparation",
+    "Data-driven decision making"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Listings sitting on the market too long",
+      "solution_summary": "Implement a three-week system with specific actions each weekend to ensure faster sales.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of structured launch for listings",
+      "solution_summary": "Create a structured launch plan with a 72-hour focus on listing exposure.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Loss of seller equity due to delayed sales",
+      "solution_summary": "Avoid price reductions by acting on data collected in the first two weekends.",
+      "timestamp": "00:12:52"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides a structured system to improve listing sales efficiency.",
+      "key_takeaway": "Implement the three-week system to ensure listings sell quickly and at full price."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers actionable steps to overcome common listing pitfalls.",
+      "key_takeaway": "Focus on launch preparation and data analysis to avoid price reductions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:01",
+      "end_timestamp": "00:03:19",
+      "quote": "The truth is the first two weeks decide it. The seller who is still listing in week four is in a different market than they were in week one.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the critical importance of the initial listing period.",
+      "suggested_hook": "Why the first two weeks are make-or-break for your listing."
+    },
+    {
+      "timestamp": "00:09:21",
+      "end_timestamp": "00:09:31",
+      "quote": "You tell the buyer pool that the listing is fresh because well structurally it is.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic for refreshing a stale listing.",
+      "suggested_hook": "How to make your stale listing feel brand new."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a three-week system for listings.",
+      "context": "Apply this system to ensure listings sell quickly and at full price.",
+      "timestamp": "00:06:38"
+    },
+    {
+      "tactic": "Conduct a structured launch with a 72-hour focus.",
+      "context": "Ensure maximum exposure during the first weekend of listing.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "tactic": "Use data from the first weekend to make informed decisions.",
+      "context": "Analyze showings, online views, and saves to determine necessary adjustments.",
+      "timestamp": "00:08:02"
+    }
+  ],
+  "quotable_insights": [
+    "Weekend one is about collecting data and offers are a bonus. Data is the requirement.",
+    "A listing agent hopes the right buyer shows up, but a listing manager checks the day count, sends the text and blocks Saturday."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode introduces a three-week system for real estate listings, emphasizing the importance of a structured launch and data-driven decision-making. By focusing on the first two weeks, agents can avoid price reductions and ensure faster sales, maximizing seller equity and agent commissions.",
+  "_metadata": {
+    "source_file": "2026-06-02_item2_Coffee-Talks",
+    "analyzed_at": "2026-06-07T05:34:55.137838",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

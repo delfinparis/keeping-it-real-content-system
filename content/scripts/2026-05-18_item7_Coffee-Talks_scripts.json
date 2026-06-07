@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:12:34",
+      "end_timestamp": "00:13:02",
+      "quote": "The buyer you lose to silence is gone. The buyer you bring an off-market home to is yours for life.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the importance of proactive strategies in client retention.",
+      "suggested_hook": "Want to keep your clients for life? Here's the secret."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to keep your clients for life? Here's the secret.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a game-changing insight on our latest episode. You're working hard, reaching out to clients, but they’re slipping away. Sound familiar? It’s frustrating when you lose a buyer to silence.\",\n    \"INSIGHT\": \"Tim says, 'The buyer you lose to silence is gone. The buyer you bring an off-market home to is yours for life.' [ON-SCREEN: Off-market homes = lifelong clients] Most agents wait for listings. Top producers find off-market opportunities. [ON-SCREEN: Proactive approach wins]\",\n    \"REFRAME/APPLICATION\": \"In a low inventory market, this matters more than ever. Start reaching out to homeowners today. [ON-SCREEN: Act now, retain clients] Tim closed 47 deals last year using this exact strategy.\",\n    \"CTA\": \"Are you bringing off-market homes to your clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want lifelong clients? Discover the secret to client retention. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRetention\", \"#OffMarketListings\", \"#TopProducer\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The buyer you bring an off-market home to is yours for life.\"\n}\n```"
+  }
+]

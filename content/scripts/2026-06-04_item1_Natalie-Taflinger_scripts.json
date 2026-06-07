@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "06:05",
+      "end_timestamp": "07:06",
+      "quote": "I always tell people, if I just go into a listing and I just tell them what they want to hear, no one wins in that situation.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of honesty and transparency in client relationships, which is crucial for long-term success.",
+      "suggested_hook": "Are you telling your clients what they need to hear or what they want to hear?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you telling your clients what they need to hear or what they want?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a crucial insight on our latest episode. Picture this: You're in a listing presentation, and the temptation is to agree with everything the client says. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie says, 'I always tell people, if I just go into a listing and I just tell them what they want to hear, no one wins in that situation.' [ON-SCREEN: Honesty is Key] Most agents sugarcoat. Top producers set realistic expectations. [ON-SCREEN: Realistic Expectations Win]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because honesty builds trust, and trust leads to long-term success. You can start applying this today by having transparent conversations with your clients. Natalie closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Honesty in real estate builds trust and long-term success. Are you being transparent?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#ClientTrust\", \"#HonestyMatters\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Honesty builds trust, and trust leads to long-term success.\"\n}\n```"
+  }
+]

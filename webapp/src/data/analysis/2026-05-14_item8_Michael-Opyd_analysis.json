@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "Real Estate Agent Coach",
+    "company": "Not mentioned",
+    "production_level": "Top 1% producer",
+    "specialty": "Real estate coaching",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Overcoming personal loss",
+    "Maintaining motivation and consistency",
+    "Importance of having a strong 'why'",
+    "Role of routines in professional success",
+    "Mindset shifts for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling stuck after a personal loss",
+      "solution_summary": "Re-establish routines and focus on the 'why' to regain motivation.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Negative self-talk and loss of confidence",
+      "solution_summary": "Shift language from 'I think' to 'I will' to change mindset.",
+      "timestamp": "41:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Emma's experience with feeling stuck after initial success is relatable.",
+      "key_takeaway": "Consistency in routines and focusing on your 'why' can help overcome feeling stuck."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "35:03",
+      "end_timestamp": "35:42",
+      "quote": "When you have a big enough 'why', you're not pushed, you're pulled.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights a powerful mindset shift that can transform motivation.",
+      "suggested_hook": "Are you pushing yourself too hard? Here's why you should let your 'why' pull you instead."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Establish a consistent morning and evening routine.",
+      "context": "To maintain motivation and productivity in real estate.",
+      "timestamp": "28:01"
+    },
+    {
+      "tactic": "Shift language from 'I think' to 'I will'.",
+      "context": "To change mindset and increase commitment to goals.",
+      "timestamp": "41:02"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem. It has a 'you' problem.",
+    "People pass, but they never really leave."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for agent recruitment using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches Emma Noon through overcoming personal loss and regaining her motivation in real estate. They discuss the importance of maintaining consistent routines, focusing on a strong 'why', and making mindset shifts to improve performance. Listeners will gain actionable insights into how to navigate personal challenges while sustaining professional success.",
+  "_metadata": {
+    "source_file": "2026-05-14_item8_Michael-Opyd",
+    "analyzed_at": "2026-06-07T05:31:19.060419",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

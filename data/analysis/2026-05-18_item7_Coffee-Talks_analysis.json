@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago land area"
+  },
+  "main_topics": [
+    "The role of real estate agents in finding homes",
+    "The Four Doors system for finding inventory",
+    "Challenges in a low inventory market",
+    "Strategies to prevent buyer drift",
+    "Importance of off-market listings"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents losing clients because buyers find homes themselves",
+      "solution_summary": "Implement the Four Doors system to find off-market listings and provide unique inventory to clients.",
+      "timestamp": "00:01:09"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Low inventory in the market leading to buyer drift",
+      "solution_summary": "Use strategies like contacting expired listings, FSBOs, sending personalized letters, and leveraging agent networks.",
+      "timestamp": "00:03:35"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to differentiate from competitors by finding unique inventory.",
+      "key_takeaway": "Utilize the Four Doors system to access hidden inventory and retain clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:12:34",
+      "end_timestamp": "00:13:02",
+      "quote": "The buyer you lose to silence is gone. The buyer you bring an off-market home to is yours for life.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the importance of proactive strategies in client retention.",
+      "suggested_hook": "Want to keep your clients for life? Here's the secret."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Contact expired and withdrawn listings with a specific buyer in mind.",
+      "context": "Use this tactic to find potential homes that are not actively listed.",
+      "timestamp": "00:06:46"
+    },
+    {
+      "tactic": "Send handwritten letters to homeowners in target neighborhoods.",
+      "context": "Personalize letters to specific homeowners to find off-market opportunities.",
+      "timestamp": "00:09:04"
+    }
+  ],
+  "quotable_insights": [
+    "Buyers don't drift from brokers who bring them homes."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "In this episode, D.J. Paris and Tim Littleton discuss the challenges real estate agents face in a low inventory market where buyers often find homes themselves. They introduce the Four Doors system, a strategy to uncover off-market listings and prevent buyer drift by accessing hidden inventory. This approach not only helps agents retain clients but also positions them as invaluable resources in the home-buying process.",
+  "_metadata": {
+    "source_file": "2026-05-18_item7_Coffee-Talks",
+    "analyzed_at": "2026-06-07T05:31:40.614505",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

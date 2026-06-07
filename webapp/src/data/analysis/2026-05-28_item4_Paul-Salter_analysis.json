@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "High Performance Hypnotherapist and Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping real estate and financial professionals get unstuck and level up",
+    "location": null
+  },
+  "main_topics": [
+    "The dangers of constant availability in real estate",
+    "Balancing intensity and consistency for sustainable success",
+    "The importance of returning to fundamentals and self-care",
+    "Using intentional limitations to drive innovation",
+    "Auditing and prioritizing your calendar for personal and professional alignment"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling overwhelmed and disconnected due to constant work demands",
+      "solution_summary": "Return to the fundamentals and prioritize self-care and personal values over constant work demands.",
+      "timestamp": "07:03"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Lack of boundaries leading to burnout",
+      "solution_summary": "Audit your calendar to ensure personal time and self-care are prioritized before work commitments.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the burnout experienced by veterans in the industry due to constant availability and lack of personal boundaries.",
+      "key_takeaway": "Recalibrate your work-life balance by prioritizing self-care and personal values to sustain long-term success."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can learn the importance of balancing intensity with consistency to avoid burnout.",
+      "key_takeaway": "Success requires periods of intense work but must be balanced with consistent self-care and personal time."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:03",
+      "end_timestamp": "10:45",
+      "quote": "The things that grow your business in the beginning can and will quietly destroy your life later if you never learn how to recalibrate.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement challenges the conventional wisdom of constant hustle and highlights the need for recalibration.",
+      "suggested_hook": "Are your success habits silently sabotaging your life?"
+    },
+    {
+      "timestamp": "24:09",
+      "end_timestamp": "24:50",
+      "quote": "Intentional limitation drives innovation and creativity.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the idea that more work equals more success, suggesting that limits can foster creativity.",
+      "suggested_hook": "Could working less actually make you more successful?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Audit your calendar to prioritize personal time and self-care.",
+      "context": "Regularly review and adjust your schedule to ensure it reflects your true priorities.",
+      "timestamp": "19:00"
+    },
+    {
+      "tactic": "Use intentional limitations to foster creativity and efficiency.",
+      "context": "Limit your working hours to force innovation in how you manage tasks and responsibilities.",
+      "timestamp": "24:09"
+    }
+  ],
+  "quotable_insights": [
+    "Success requires intensity, but it's maintained by consistency.",
+    "Your calendar is a direct reflection of what's most important to you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered recruiting and retention tool for identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the dangers of constant availability in real estate and the importance of balancing intensity with consistency for sustainable success. He emphasizes the need to return to fundamentals and prioritize self-care, using intentional limitations to drive innovation and creativity. Salter provides actionable advice on auditing your calendar to align personal and professional priorities, ensuring long-term success without burnout.",
+  "_metadata": {
+    "source_file": "2026-05-28_item4_Paul-Salter",
+    "analyzed_at": "2026-06-07T05:33:42.471240",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

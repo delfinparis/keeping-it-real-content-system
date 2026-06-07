@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexon Mortgage",
+    "production_level": "Top producing",
+    "specialty": "Advanced investor strategies and complex financial scenarios",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Federal Reserve leadership change",
+    "DSCR loans for investors",
+    "Current mortgage rates and market impact",
+    "Investor lead generation strategies",
+    "Tax benefits of real estate investments"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of Federal Reserve changes on mortgage rates",
+      "solution_summary": "Discussed the potential effects of new Fed chair Kevin Warsh on interest rates and the housing market.",
+      "timestamp": "05:40"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding and working with real estate investors",
+      "solution_summary": "Utilize platforms like BiggerPockets and Rabu to connect with investors and leverage DSCR loans for easier financing.",
+      "timestamp": "13:30"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Maximizing tax benefits from real estate investments",
+      "solution_summary": "Explained the advantages of depreciation and cost segregation for reducing taxable income.",
+      "timestamp": "31:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into advanced financing strategies and market trends that can help agents elevate their business.",
+      "key_takeaway": "Understanding DSCR loans and leveraging investor networks can significantly boost your real estate business."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers new strategies for lead generation and client management, especially in the investor market.",
+      "key_takeaway": "Utilize platforms like BiggerPockets to find investor clients and explore DSCR loans to facilitate their transactions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "One out of three home buyers right now is buying a rental property, and we're not talking about the massive Wall Street players.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the significant role of everyday investors in the current market.",
+      "suggested_hook": "Did you know that 30% of home buyers are investors? Here's what that means for you."
+    },
+    {
+      "timestamp": "38:00",
+      "end_timestamp": "38:45",
+      "quote": "Depreciation is so simple that it's almost more confusing because you're literally taking a paper loss.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Clarifies a complex concept in a straightforward manner.",
+      "suggested_hook": "Confused about depreciation? Let's break it down simply."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set up keyword alerts on BiggerPockets for local real estate discussions.",
+      "context": "To connect with potential investor clients in your area.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Utilize DSCR loans for investor clients to simplify financing.",
+      "context": "When working with clients who are purchasing rental properties.",
+      "timestamp": "17:00"
+    }
+  ],
+  "quotable_insights": [
+    "It's not about timing the market, it's about time in the market.",
+    "Depreciation allows you to take a paper loss that doesn't actually exist, reducing your taxable income."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "BiggerPockets",
+      "context": "Recommended for connecting with real estate investors and generating leads."
+    },
+    {
+      "type": "website",
+      "name": "Rabu",
+      "context": "Suggested for finding short-term rental leads."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the impact of the Federal Reserve's leadership change on mortgage rates, the benefits of DSCR loans for real estate investors, and strategies for generating investor leads through platforms like BiggerPockets. He also highlights the tax advantages of real estate investments, emphasizing the importance of depreciation and cost segregation.",
+  "_metadata": {
+    "source_file": "2026-05-12_item9_Austin-Clarence",
+    "analyzed_at": "2026-06-07T05:30:45.165964",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

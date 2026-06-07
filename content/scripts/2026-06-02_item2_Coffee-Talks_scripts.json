@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:01",
+      "end_timestamp": "00:03:19",
+      "quote": "The truth is the first two weeks decide it. The seller who is still listing in week four is in a different market than they were in week one.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the critical importance of the initial listing period.",
+      "suggested_hook": "Why the first two weeks are make-or-break for your listing."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why the first two weeks are make-or-break for your listing.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton reveals a crucial insight: the first two weeks of a listing are pivotal. If you're still on the market in week four, you're in a different game. Ever felt that panic when your listing lingers? You're not alone.\",\n    \"INSIGHT\": \"Tim says, 'The truth is the first two weeks decide it.' [ON-SCREEN: First two weeks decide it] Most agents wait to adjust. Top producers prepare meticulously before launch. [ON-SCREEN: Launch preparation is key] They analyze data, set the right price, and create a buzz. [ON-SCREEN: Data-driven decisions]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can apply it today. Start prepping your next listing with this strategy. Tim closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you prepping your listings like this — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"The first two weeks of your listing can make or break the sale. Are you ready?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ListingStrategy\", \"#TopProducer\", \"#RealEstateAgent\", \"#MarketInsights\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The truth is the first two weeks decide it.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:21",
+      "end_timestamp": "00:09:31",
+      "quote": "You tell the buyer pool that the listing is fresh because well structurally it is.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic for refreshing a stale listing.",
+      "suggested_hook": "How to make your stale listing feel brand new."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your listing stuck? Make it feel brand new instantly.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a tactic for when your listing sits too long. Frustrated because your property isn't moving? It's time to refresh.\",\n    \"INSIGHT\": \"Tim says, 'You tell the buyer pool that the listing is fresh because well structurally it is.' [ON-SCREEN: Fresh Listing Tactic] Most agents just wait. Top producers reframe the narrative. [ON-SCREEN: Reframe the Narrative]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can apply this today to re-energize interest. Tim closed 47 deals last year using this approach.\",\n    \"CTA\": \"Have you tried this tactic yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Revitalize your stale listing with this simple tactic from Tim Littleton. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ListingStrategy\", \"#TopProducerSecrets\", \"#RealEstateAdvice\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents just wait. Top producers reframe the narrative.\"\n}\n```"
+  }
+]

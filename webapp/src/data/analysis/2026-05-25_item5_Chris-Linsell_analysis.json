@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": null,
+    "specialty": "Real estate industry technology and AI",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "AI visibility and citation density",
+    "Real estate mergers and acquisitions",
+    "Building a personal brand in real estate",
+    "Content creation for lead generation",
+    "Impact of industry consolidation on agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of real estate mergers on individual agents",
+      "solution_summary": "Agents should focus on building their personal brand independent of their brokerage's brand.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents being invisible to AI-generated answers",
+      "solution_summary": "Create content that answers specific questions and ensure it appears across diverse platforms.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents relying too much on brokerage branding",
+      "solution_summary": "Develop a personal brand that stands out regardless of brokerage affiliation.",
+      "timestamp": "26:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging AI for visibility and building a strong personal brand.",
+      "key_takeaway": "Focus on creating diverse content that answers client questions to stand out in AI searches."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses the impact of mergers and how to maintain team identity amidst industry consolidation.",
+      "key_takeaway": "Ensure your team's brand is strong and independent of any brokerage affiliations."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "10:00",
+      "quote": "Agents should be asking why AI would ever cite them in the first place.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their approach to AI visibility.",
+      "suggested_hook": "Are you asking the wrong questions about AI in real estate?"
+    },
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "28:00",
+      "quote": "If your brand is tied to your brokerage logo, you're operating in a model that ended 20 years ago.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Provokes thought on the importance of personal branding over brokerage branding.",
+      "suggested_hook": "Is your real estate brand stuck in the past?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Get content published on authoritative sites like .edu and .gov domains.",
+      "context": "Boosts credibility and visibility in AI searches.",
+      "timestamp": "11:00"
+    },
+    {
+      "tactic": "Develop a voice guide for AI content creation.",
+      "context": "Ensures AI-generated content aligns with your personal brand.",
+      "timestamp": "49:00"
+    }
+  ],
+  "quotable_insights": [
+    "Content is lead generation in this business.",
+    "Your brand should operate regardless of the brokerage logo on your letterhead."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "This episode explores the impact of AI and industry consolidation on real estate agents. Chris Linsell emphasizes the importance of building a personal brand independent of brokerage affiliations and offers strategies for increasing visibility in AI-generated searches. The discussion also covers the implications of recent mergers and acquisitions in the real estate industry.",
+  "_metadata": {
+    "source_file": "2026-05-25_item5_Chris-Linsell",
+    "analyzed_at": "2026-06-07T05:33:15.875066",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
