@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "DJ Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Three-week listing strategy",
+    "Importance of launch preparation",
+    "Data-driven decision making",
+    "Market median and its impact on listings",
+    "Common mistakes in pricing and launching"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Listings sitting longer than three weeks and losing value",
+      "solution_summary": "Implement a three-weekend system with specific actions for each weekend to ensure quick sales.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured launch process for listings",
+      "solution_summary": "Create a launch plan that includes a teaser, open house, and social media push to generate early interest.",
+      "timestamp": "00:04:03"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Loss of seller equity due to delayed sales",
+      "solution_summary": "Act on data by weekend two to adjust pricing or address issues, preventing loss of equity.",
+      "timestamp": "00:08:07"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides a structured system to improve listing sales and maximize seller equity.",
+      "key_takeaway": "Implement the three-weekend system to ensure listings sell quickly and at full price."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers actionable steps to overcome common listing pitfalls and improve sales performance.",
+      "key_takeaway": "Focus on launch preparation and early data analysis to prevent listings from stalling."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:03",
+      "end_timestamp": "00:04:45",
+      "quote": "The listing exists. It's just not launched. And there's a difference.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of a strategic launch, not just listing a property.",
+      "suggested_hook": "Are you just listing properties, or are you launching them?"
+    },
+    {
+      "timestamp": "00:08:07",
+      "end_timestamp": "00:08:58",
+      "quote": "Weekend two is when you act on one of those three. So not weekend three, not week four, weekend two.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the urgency of acting on data early to prevent losses.",
+      "suggested_hook": "Why waiting until week three could cost you thousands."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a three-weekend system for listings",
+      "context": "Use this system to ensure listings sell quickly and at full price by assigning specific actions for each weekend.",
+      "timestamp": "00:06:27"
+    },
+    {
+      "tactic": "Conduct a launch with a teaser, open house, and social push",
+      "context": "Prepare a comprehensive launch plan to generate interest and data in the first weekend.",
+      "timestamp": "00:07:00"
+    }
+  ],
+  "quotable_insights": [
+    "A listing exists. But a launch happens.",
+    "Weekend one is about collecting data and offers are a bonus. Data is the requirement."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "In this episode, DJ Paris discusses a structured three-weekend system to ensure listings sell quickly and at full price. He emphasizes the importance of a strategic launch and early data-driven decision-making to prevent listings from stalling and losing value. This approach helps agents maximize seller equity and maintain strong client relationships.",
+  "_metadata": {
+    "source_file": "2026-06-02_item3_Coffee-Talks",
+    "analyzed_at": "2026-06-14T05:34:47.969306",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

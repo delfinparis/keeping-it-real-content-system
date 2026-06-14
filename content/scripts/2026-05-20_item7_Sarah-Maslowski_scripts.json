@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:17:03",
+      "end_timestamp": "00:17:30",
+      "quote": "By the time somebody calls you from watching your YouTube videos, they're going to want to feel like they know you already.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the personal connection and trust built through video content.",
+      "suggested_hook": "Want leads that already trust you? Here's how YouTube can make that happen."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want leads that already trust you? YouTube makes it happen.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gina DiAngelo shared something powerful on our podcast. You're creating videos, but it feels like nobody's watching. You're putting yourself out there, but the phone's not ringing. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"By the time somebody calls you from watching your YouTube videos, they're going to want to feel like they know you already. [ON-SCREEN: Personal Connection] Most agents hesitate with video. Top producers use it to build trust. [ON-SCREEN: Trust Factor] Gina emphasizes that video content creates a personal connection that text can't match. [ON-SCREEN: Know You Already]\",\n    \"REFRAME/APPLICATION\": \"This matters now because you can start building that trust today. You don't need fancy equipment—just your phone. [ON-SCREEN: Start Today] Gina closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you using YouTube for leads yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"caption\": \"Build trust before the first call. YouTube is your secret weapon. #RealEstateTips\",\n  \"hashtags\": [\n    \"#RealEstateTips\",\n    \"#YouTubeMarketing\",\n    \"#LeadGeneration\",\n    \"#AgentAdvice\",\n    \"#PersonalBranding\"\n  ],\n  \"content_pillar\": \"top_producer_secrets\",\n  \"shareable_moment\": \"By the time somebody calls you from watching your YouTube videos, they're going to want to feel like they know you already.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:24:28",
+      "end_timestamp": "00:24:40",
+      "quote": "I think YouTube saved our year last year because our market was very, very hard.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Shows the impact of YouTube on business sustainability during tough market conditions.",
+      "suggested_hook": "In a tough market? Discover how YouTube can save your business."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"In a tough market? YouTube might just save your business.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gina DiAngelo shared a game-changing insight on our podcast. Last year, when the market was brutal, she found a lifeline. Sound familiar? You're hustling, but leads are drying up. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Gina said, 'I think YouTube saved our year last year because our market was very, very hard.' [ON-SCREEN: YouTube saved our year] She leveraged YouTube as a lead generation tool, overcoming her fears of video content creation. Most agents hesitate to hit record, but top producers use video to build personal brands. [ON-SCREEN: Overcome video fears] It's cost-effective and converts leads efficiently. [ON-SCREEN: Cost-effective lead conversion]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start today. Create a simple video, share your expertise, and watch the leads roll in. Gina closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no? Drop your answer below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Struggling in a tough market? Discover how YouTube can transform your business.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#LeadGeneration\", \"#VideoContent\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Gina said, 'I think YouTube saved our year last year because our market was very, very hard.'\"\n}\n```"
+  }
+]

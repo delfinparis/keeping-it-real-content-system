@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": "Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Challenges in buyer's agent roles",
+    "The Four Doors system for finding inventory",
+    "Strategies to prevent client drift",
+    "Off-market property acquisition",
+    "Agent productivity in low inventory markets"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Buyers finding homes without agents",
+      "solution_summary": "Implement the Four Doors system to find off-market properties.",
+      "timestamp": "00:01:09"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Buyers drifting away due to lack of inventory",
+      "solution_summary": "Engage with clients through off-market opportunities and personalized communication.",
+      "timestamp": "00:03:28"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents relying solely on MLS for inventory",
+      "solution_summary": "Explore expired listings, FSBOs, and agent networks for additional inventory.",
+      "timestamp": "00:03:35"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to expand inventory options and engage clients.",
+      "key_takeaway": "Use the Four Doors system to access hidden inventory and retain clients."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers advanced tactics for finding off-market properties and boosting sales.",
+      "key_takeaway": "Implement off-market strategies to differentiate yourself and increase closings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:12:34",
+      "end_timestamp": "00:13:02",
+      "quote": "The buyer you lose to silence is gone. The buyer you bring an off-market home to is yours for life.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of proactive engagement with clients.",
+      "suggested_hook": "Are you losing clients to silence? Here's how to keep them for life."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Contact expired listings",
+      "context": "Reach out to homeowners whose listings expired in the last six months.",
+      "timestamp": "00:06:46"
+    },
+    {
+      "tactic": "Send personalized letters",
+      "context": "Send handwritten letters to specific homeowners in your buyer's target area.",
+      "timestamp": "00:08:49"
+    },
+    {
+      "tactic": "Leverage agent networks",
+      "context": "Text local agents for upcoming listings or expired properties.",
+      "timestamp": "00:10:11"
+    }
+  ],
+  "quotable_insights": [
+    "Buyers don't drift from brokers who bring them homes.",
+    "You didn't show inventory; you created it."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode discusses the challenges buyer's agents face in a market where clients often find homes independently. It introduces the Four Doors system, offering strategies to access off-market properties and retain clients. The episode emphasizes proactive engagement and leveraging non-traditional inventory sources to increase closings.",
+  "_metadata": {
+    "source_file": "2026-05-18_item8_Coffee-Talks",
+    "analyzed_at": "2026-06-14T05:31:48.091081",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

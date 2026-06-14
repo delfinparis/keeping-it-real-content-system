@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:35",
+      "end_timestamp": "00:06:10",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It introduces a significant change in mortgage approval processes.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know your credit karma score can now help you get a mortgage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just dropped a bombshell on our latest episode. If you're self-employed or a young buyer struggling to build credit, this could change everything. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You can now use that credit karma score to get approved for a mortgage. This is huge. [ON-SCREEN: Credit Karma for Mortgages] Austin explained that with the introduction of Vantage Score, lenders are opening doors for those who previously couldn't qualify. [ON-SCREEN: Vantage Score Introduction] Most agents overlook this, but top producers are already leveraging it to help clients secure loans. [ON-SCREEN: Top Producers Leverage]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start using this strategy today to help clients who thought they were stuck. [ON-SCREEN: Start Today] Imagine closing more deals by tapping into this new opportunity.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your credit karma score can now get you a mortgage! Are you ready to leverage this?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageApproval\", \"#CreditKarma\", \"#VantageScore\", \"#RealEstateAgent\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"You can now use that credit karma score to get approved for a mortgage. This is huge.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:34:12",
+      "end_timestamp": "00:34:45",
+      "quote": "There's a 3.5% down profit and loss loan for self-employed individuals.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific solution for a common problem among self-employed individuals.",
+      "suggested_hook": "Self-employed and struggling to get a mortgage? Here's a new solution."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Self-employed and struggling to get a mortgage? Here's a new solution.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changer for self-employed individuals on our podcast. If you've ever felt the sting of being denied a mortgage because of inconsistent income, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"There's a 3.5% down profit and loss loan specifically for self-employed individuals. [ON-SCREEN: 3.5% Down Loan] This means you can leverage your business's profit and loss statement to secure a mortgage. [ON-SCREEN: Self-Employed Solution] Most lenders overlook this, but it's a powerful tool in your arsenal.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever with current interest rates. You can start this process today and potentially secure your dream home. [ON-SCREEN: Act Now] Austin Clarence has seen countless clients succeed with this approach.\",\n    \"CTA\": \"Would you consider this loan option — yes or no? Drop your answer below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Self-employed? Discover a new mortgage solution with just 3.5% down! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SelfEmployed\", \"#MortgageSolutions\", \"#HomeBuying\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"There's a 3.5% down profit and loss loan specifically for self-employed individuals.\"\n}\n```"
+  }
+]

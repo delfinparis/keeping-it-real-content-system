@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:05",
+      "end_timestamp": "00:07:06",
+      "quote": "Don't just come to them with recommendations. I come to them with solutions.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a specific approach to client service that can differentiate an agent in the market.",
+      "suggested_hook": "Are you offering solutions or just recommendations to your clients?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you offering solutions or just recommendations to your clients?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a game-changing approach on our podcast. You're prepping a home for listing, setting pricing expectations, but it feels like clients aren't fully trusting your advice. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie says, 'Don't just come to them with recommendations. I come to them with solutions.' [ON-SCREEN: Solutions, not recommendations] Most agents suggest ideas. Top producers provide actionable solutions that clients can implement immediately. [ON-SCREEN: Actionable solutions] This approach builds trust and sets you apart in the market.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start offering solutions today. Natalie closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed] Implement it this week and watch your client relationships transform.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you just recommending or providing solutions? Discover the difference. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientSolutions\", \"#TopProducer\", \"#AgentAdvice\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents suggest ideas. Top producers provide actionable solutions.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:03",
+      "end_timestamp": "00:14:47",
+      "quote": "If we sell your house at this price in the first week it hits the market, are you going to be okay with that?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This question helps set realistic expectations and prevents seller's remorse.",
+      "suggested_hook": "Avoid seller's remorse with this simple question."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Avoid seller's remorse with this one question.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a game-changing question on our podcast. Imagine listing a home, setting the price, and then... it sells instantly. Exciting, right? But what if your client regrets it? Here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie asks, 'If we sell your house at this price in the first week it hits the market, are you going to be okay with that?' [ON-SCREEN: Prevent Seller's Remorse] This question sets clear expectations and avoids future regret. Most agents skip this step. Top producers make it a priority.\",\n    \"REFRAME/APPLICATION\": \"This matters because clear expectations lead to happy clients. You can ask this question today. Natalie closed 47 deals last year using this approach. [ON-SCREEN: Ask Before Listing]\",\n    \"CTA\": \"Would you ask this question — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Prevent seller's remorse with this simple question. #RealEstateTips #SellerAdvice\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#SellerAdvice\",\n    \"#AgentSuccess\",\n    \"#HomeSelling\",\n    \"#RealEstatePodcast\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If we sell your house at this price in the first week it hits the market, are you going to be okay with that?\"\n}\n```"
+  }
+]

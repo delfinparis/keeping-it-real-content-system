@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Top Producing Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexa Lending",
+    "production_level": "Top Producer",
+    "specialty": "Solving complex financial scenarios and investor financing",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Introduction of Vantage Score for mortgage approval",
+    "Opportunities for self-employed borrowers",
+    "Current interest rate trends and their implications",
+    "Strategies for young buyers to build credit",
+    "Opportunities with older home buyers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Traditional FICO scores limiting mortgage approvals",
+      "solution_summary": "Use Vantage Score, which often trends higher and includes more modern data points.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Challenges for self-employed individuals in qualifying for loans",
+      "solution_summary": "Utilize profit and loss loans and bank statement loans to bypass traditional tax return requirements.",
+      "timestamp": "00:34:12"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Rising average age of first-time home buyers",
+      "solution_summary": "Focus on older buyers who may have significant equity and are experiencing life changes.",
+      "timestamp": "00:21:06"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights into new credit scoring models and loan products that can help close more deals.",
+      "key_takeaway": "Explore alternative credit scoring and loan options to assist clients who may not qualify through traditional means."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding new lending products and market trends can help in capturing a larger market share.",
+      "key_takeaway": "Leverage new mortgage products and focus on untapped demographics like older home buyers."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:35",
+      "end_timestamp": "00:06:10",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It introduces a significant change in mortgage approval processes.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    {
+      "timestamp": "00:34:12",
+      "end_timestamp": "00:34:45",
+      "quote": "There's a 3.5% down profit and loss loan for self-employed individuals.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific solution for a common problem among self-employed individuals.",
+      "suggested_hook": "Self-employed and struggling to get a mortgage? Here's a new solution."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Encourage clients to use Credit Karma to track their Vantage Score.",
+      "context": "Helps clients potentially qualify for better mortgage terms.",
+      "timestamp": "00:07:30"
+    },
+    {
+      "tactic": "Utilize profit and loss statements for self-employed mortgage applicants.",
+      "context": "Allows self-employed individuals to qualify without traditional tax returns.",
+      "timestamp": "00:34:12"
+    }
+  ],
+  "quotable_insights": [
+    "The Vantage Score is a more modern way of assessing credit, often coming in higher than FICO."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Credit Karma",
+      "context": "Recommended for tracking Vantage Scores, which can now be used for mortgage approvals."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the introduction of the Vantage Score for mortgage approvals, offering a modern alternative to the traditional FICO score. He also highlights new opportunities for self-employed borrowers through profit and loss loans and explores the current interest rate trends. Additionally, the episode provides strategies for young buyers to build credit and emphasizes the potential in targeting older home buyers who are experiencing life changes.",
+  "_metadata": {
+    "source_file": "2026-06-09_item1_Austin-Clarence",
+    "analyzed_at": "2026-06-14T05:36:25.292991",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

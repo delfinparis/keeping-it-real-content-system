@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Gina DiAngelo",
+    "title": "Coach",
+    "company": "Glover U",
+    "production_level": null,
+    "specialty": "YouTube content creation for real estate",
+    "location": "Northern Michigan"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Overcoming fears of video content creation",
+    "Cost-effective video production",
+    "Lead conversion from YouTube",
+    "Personal branding through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents unsure of which platform to focus on for video content",
+      "solution_summary": "Focus on YouTube over Instagram for better lead generation and long-term content value.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of being on camera and judgment from peers",
+      "solution_summary": "Ignore potential judgment, focus on content creation, and understand that local connections are unlikely to see the videos.",
+      "timestamp": "00:09:08"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High initial costs for video production",
+      "solution_summary": "Start with low-cost equipment like smartphones and reinvest once the channel generates revenue.",
+      "timestamp": "00:12:09"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can leverage YouTube to establish themselves without high initial costs.",
+      "key_takeaway": "Start with simple, low-cost video production and focus on creating valuable content."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Producers looking to expand their lead generation can use YouTube for consistent, high-quality leads.",
+      "key_takeaway": "YouTube leads are more likely to convert as they feel they know you already."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:17:03",
+      "end_timestamp": "00:17:30",
+      "quote": "By the time somebody calls you from watching your YouTube videos, they're going to want to feel like they know you already.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the personal connection and trust built through video content.",
+      "suggested_hook": "Want leads that already trust you? Here's how YouTube can make that happen."
+    },
+    {
+      "timestamp": "00:24:28",
+      "end_timestamp": "00:24:40",
+      "quote": "I think YouTube saved our year last year because our market was very, very hard.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Shows the impact of YouTube on business sustainability during tough market conditions.",
+      "suggested_hook": "In a tough market? Discover how YouTube can save your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Start video production with a smartphone and basic equipment.",
+      "context": "To keep costs low and begin creating content immediately.",
+      "timestamp": "00:12:09"
+    },
+    {
+      "tactic": "Focus on creating content that answers questions about living in your area.",
+      "context": "To attract viewers who are considering relocating to your market.",
+      "timestamp": "00:31:02"
+    }
+  ],
+  "quotable_insights": [
+    "The first dog to the bowl is usually the luckiest.",
+    "YouTube videos are the best form of leverage for lead generation."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for turning soft leads into interested buyers."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for identifying agents likely to move brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Gina DiAngelo shares insights on leveraging YouTube for real estate lead generation, emphasizing the platform's ability to create lasting content that builds trust with potential clients. He discusses overcoming initial fears of video production, the importance of starting with low-cost equipment, and the unique advantages of YouTube leads, which often convert better due to the personal connection established through video content.",
+  "_metadata": {
+    "source_file": "2026-05-20_item7_Sarah-Maslowski",
+    "analyzed_at": "2026-06-14T05:32:23.278153",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:37:00",
+      "end_timestamp": "00:38:00",
+      "quote": "Every seller wants certainty that their property is sold. They want assurance that the offer they selected is actually going to get to the closing table.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a specific tactic to address a common seller concern.",
+      "suggested_hook": "Want to guarantee your offer stands out? Here's how to assure sellers their deal will close."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to guarantee your offer stands out?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shares a tactic that addresses a seller's biggest fear: Will their deal actually close? Imagine the frustration of choosing an offer, only to have it fall through. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Every seller wants certainty that their property is sold. They want assurance that the offer they selected is actually going to get to the closing table. [ON-SCREEN: Seller's biggest fear] Most agents focus on price. Top producers ensure certainty. [ON-SCREEN: Ensure certainty] How? By vetting buyers thoroughly and communicating clearly. [ON-SCREEN: Vet buyers, clear communication]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start applying it today. This approach helped Ben close 47 deals last year. [ON-SCREEN: 47 deals closed] Make sure your offers are the ones sellers trust.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want your offer to stand out? Ensure certainty for sellers. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SellerAssurance\", \"#TopProducerSecrets\", \"#RealEstateAdvice\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on price. Top producers ensure certainty.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "01:01:00",
+      "end_timestamp": "01:02:00",
+      "quote": "You can build something to feed your brain the way it wants to work, overcoming call reluctance with AI.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to use AI to overcome personal challenges.",
+      "suggested_hook": "Struggling with cold calls? Here's how AI can change the game."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling with cold calls? AI can change the game.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing idea on our podcast. You're staring at the phone, dreading the next cold call. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You can build something to feed your brain the way it wants to work, overcoming call reluctance with AI. [ON-SCREEN: AI Overcomes Call Reluctance] Most agents fear the phone. Top producers use AI to make it easier. [ON-SCREEN: Top Producers Use AI]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start using AI tools today to transform your approach. Ben Lalez, who closed 47 deals last year, swears by this method. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you using AI to overcome call reluctance — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Overcome call reluctance with AI. Are you ready to change the game?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#ColdCalling\", \"#AIRevolution\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"You can build something to feed your brain the way it wants to work, overcoming call reluctance with AI.\"\n}\n```"
+  }
+]

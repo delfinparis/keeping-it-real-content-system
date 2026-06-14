@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": null,
+    "production_level": "Top 1% producer",
+    "specialty": "Real estate agent coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Overcoming personal loss",
+    "Maintaining motivation and consistency",
+    "Importance of having a strong 'why'",
+    "Building routines for success",
+    "Mindset shifts for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with personal loss and its impact on business motivation",
+      "solution_summary": "Focus on the positive influence and legacy of the lost loved one, and use it as a driving force to continue achieving personal and professional goals.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Negative self-talk and lack of motivation",
+      "solution_summary": "Reframe thoughts from 'I think' to 'I will' to create a mindset of action and commitment.",
+      "timestamp": "41:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode discusses overcoming feelings of being stuck and regaining motivation after personal setbacks.",
+      "key_takeaway": "Consistency in routines and focusing on your 'why' can help overcome periods of stagnation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "41:02",
+      "end_timestamp": "41:30",
+      "quote": "Instead of saying 'I think', say 'I will'. It's a simple shift, but now your mind goes into a completely different mode.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This mindset shift is actionable and can immediately impact how listeners approach their daily tasks.",
+      "suggested_hook": "Transform your mindset with this simple language shift."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Establish a consistent morning and evening routine",
+      "context": "To maintain productivity and motivation, even during challenging times.",
+      "timestamp": "29:01"
+    },
+    {
+      "tactic": "Use visual reminders of your 'why'",
+      "context": "To stay motivated and focused on long-term goals.",
+      "timestamp": "38:21"
+    }
+  ],
+  "quotable_insights": [
+    "Your grandfather is there the whole time, and he wants you to live your life.",
+    "When you have a big enough 'why', you're not pushed, you're pulled."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents likely to move."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches Emma Noon, a young real estate agent dealing with personal loss and its impact on her business. The discussion focuses on maintaining motivation through consistency, understanding the importance of having a strong 'why', and making mindset shifts to overcome challenges. Listeners will gain insights into actionable strategies for personal and professional growth.",
+  "_metadata": {
+    "source_file": "2026-05-14_item9_Michael-Opyd",
+    "analyzed_at": "2026-06-14T05:31:38.816690",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

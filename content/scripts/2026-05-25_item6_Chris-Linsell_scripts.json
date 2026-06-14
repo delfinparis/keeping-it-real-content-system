@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "07:13",
+      "end_timestamp": "08:00",
+      "quote": "Agents are asking how do I rank in AI; what they should be asking is why in the world would AI ever cite them in the first place.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges agents to rethink their approach to AI and visibility.",
+      "suggested_hook": "Are you asking the wrong questions about AI in real estate?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you asking the wrong questions about AI in real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell recently pointed out something crucial. Many agents are fixated on ranking in AI. But here's the real issue: why would AI ever cite you? If you're struggling to stand out, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'Agents are asking how do I rank in AI; what they should be asking is why in the world would AI ever cite them in the first place.' [ON-SCREEN: Why would AI cite you?] Most agents focus on algorithms. Top producers focus on creating valuable content that AI can't ignore. [ON-SCREEN: Content AI can't ignore]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI is shaping real estate visibility. Start creating content that showcases your unique expertise. You can do this today. Remember, Chris has helped agents build brands that AI loves.\",\n    \"CTA\": \"Are you creating content AI can't ignore — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you asking the right questions about AI in real estate? 🤔 #RealEstateAI\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#AIVisibility\", \"#ContentCreation\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on algorithms. Top producers focus on creating valuable content that AI can't ignore.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "27:05",
+      "end_timestamp": "27:45",
+      "quote": "If you are upset about being acquired, you likely have too much of your brand identity tied to the brokerage.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Provokes thought on the importance of personal branding over brokerage identity.",
+      "suggested_hook": "Is your real estate brand too tied to your brokerage?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your real estate brand too tied to your brokerage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell says if you're upset about being acquired, your brand identity might be too tied to your brokerage. Imagine feeling lost when your brokerage merges. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris explains, 'If you are upset about being acquired, you likely have too much of your brand identity tied to the brokerage.' [ON-SCREEN: Personal Branding Over Brokerage] Most agents rely on their brokerage's name. Top producers build their own identity. [ON-SCREEN: Build Your Identity]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start building your personal brand today. Chris Linsell emphasizes, 'Your brand should stand alone.' [ON-SCREEN: Stand Alone Brand] This week, focus on showcasing your unique value.\",\n    \"CTA\": \"Is your brand independent of your brokerage — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your real estate brand too tied to your brokerage? Let's talk personal branding.\",\n  \"HASHTAGS\": [\n    \"#RealEstateBranding\",\n    \"#PersonalBrand\",\n    \"#Brokerage\",\n    \"#RealEstateTips\",\n    \"#AgentSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"If you are upset about being acquired, you likely have too much of your brand identity tied to the brokerage.\"\n}\n```"
+  }
+]
