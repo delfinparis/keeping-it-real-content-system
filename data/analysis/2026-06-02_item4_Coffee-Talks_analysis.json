@@ -1,0 +1,85 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": "Not mentioned",
+    "specialty": "Real estate strategy",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Three-week median for home sales",
+    "Reasons for price cuts in listings",
+    "Three-weekend system for listing management",
+    "Importance of launch preparation",
+    "Adapting strategies to market conditions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Listings sitting longer than three weeks leading to price cuts",
+      "solution_summary": "Implement a three-weekend system focusing on launch, verdict, and reset to ensure listings sell quickly.",
+      "timestamp": "00:01:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of launch preparation for listings",
+      "solution_summary": "Prepare a launch plan including a buyer queue and pre-approved seller actions to ensure effective listing management.",
+      "timestamp": "00:11:33"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides a structured system to improve listing sales performance.",
+      "key_takeaway": "Adopt the three-weekend system to maximize listing success and avoid price cuts."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode offers a replicable system that can be taught to team members.",
+      "key_takeaway": "Implement and train your team on the three-weekend system to enhance overall team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:03",
+      "end_timestamp": "00:04:08",
+      "quote": "The first weekend tells the truth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This phrase succinctly captures the importance of early data in listing management.",
+      "suggested_hook": "Why the first weekend is crucial for your real estate listing success."
+    },
+    {
+      "timestamp": "00:09:21",
+      "end_timestamp": "00:09:26",
+      "quote": "Most agents in week three just let the listing keep sitting in hope.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of passive listing management.",
+      "suggested_hook": "Stop hoping your listing will sell—take action instead!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a three-weekend system for listings",
+      "context": "Use this system to manage listings effectively and avoid price cuts.",
+      "timestamp": "00:06:38"
+    },
+    {
+      "tactic": "Prepare a launch plan with a buyer queue",
+      "context": "Ensure a strong start for your listing by preparing in advance.",
+      "timestamp": "00:12:08"
+    }
+  ],
+  "quotable_insights": [
+    "Weekend one is about collecting data and offers are a bonus. Data is the requirement.",
+    "The longer it sits, the worse the offers get."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode introduces a three-weekend system to optimize real estate listings, focusing on launch, verdict, and reset phases. It emphasizes the importance of early data collection and preparation to avoid price cuts and ensure quick sales. The discussion also highlights adapting strategies to different market conditions.",
+  "_metadata": {
+    "source_file": "2026-06-02_item4_Coffee-Talks",
+    "analyzed_at": "2026-06-16T22:14:07.690696",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:30",
+      "end_timestamp": "06:15",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Reveals a significant change in mortgage approval processes that agents need to know.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know your credit karma score can now help you get a mortgage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just dropped a bombshell on our latest episode. If you're like most agents, you're advising clients to focus solely on FICO scores for mortgage approval. But what if I told you there's a new player in town?\",\n    \"INSIGHT\": \"Austin revealed that you can now use your Credit Karma score to get approved for a mortgage. This is huge. [ON-SCREEN: Credit Karma Score for Mortgages] It's called the Vantage Score, and it's opening doors for self-employed individuals and young buyers who struggle with traditional credit metrics. [ON-SCREEN: Vantage Score Opportunity]\",\n    \"REFRAME/APPLICATION\": \"This matters because it expands your client's options right now. You can start advising them on this today. Imagine closing more deals by tapping into this new opportunity. [ON-SCREEN: New Mortgage Approval Path]\",\n    \"CTA\": \"Are you ready to leverage this new tool — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your Credit Karma score can now help you get a mortgage! Are you ready? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#MortgageApproval\",\n    \"#CreditKarma\",\n    \"#VantageScore\",\n    \"#RealEstateAgents\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"You can now use your Credit Karma score to get approved for a mortgage. This is huge.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "34:00",
+      "end_timestamp": "34:45",
+      "quote": "A three and a half percent down profit and loss loan can be a game changer for self-employed buyers.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable solution for a common problem faced by self-employed individuals.",
+      "suggested_hook": "Self-employed and struggling to get a mortgage? Here's a new solution."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Self-employed and struggling to get a mortgage? Here's a new solution.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changing tip for self-employed buyers. If you've ever felt the sting of mortgage rejection because of your unique income situation, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"A three and a half percent down profit and loss loan can be a game changer for self-employed buyers. [ON-SCREEN: 3.5% Down Loan] Most lenders need traditional income proof, but this loan focuses on your profit and loss statements instead. [ON-SCREEN: Profit & Loss Focus] It's a fresh opportunity to secure a mortgage without the usual hurdles. [ON-SCREEN: New Opportunity]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can apply this strategy today and potentially secure your dream home. [ON-SCREEN: Apply Today] Austin Clarence has seen self-employed clients succeed with this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Self-employed? This 3.5% down loan could be your mortgage game changer. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#SelfEmployed\",\n    \"#MortgageSolutions\",\n    \"#HomeBuying\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"A three and a half percent down profit and loss loan can be a game changer for self-employed buyers.\"\n}\n```"
+  }
+]

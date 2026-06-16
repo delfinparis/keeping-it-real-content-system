@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexel Lending",
+    "production_level": "Top producing",
+    "specialty": "Solving complex financial scenarios and investor financing",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Introduction of Vantage Score for mortgage approval",
+    "Opportunities for self-employed individuals in mortgage lending",
+    "Current trends in mortgage interest rates",
+    "Strategies for young buyers to build credit",
+    "Opportunities with older home buyers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Traditional FICO scores limiting mortgage approvals",
+      "solution_summary": "Use Vantage Score, which often trends higher and includes more modern data points like utility payments.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Self-employed individuals struggling to qualify for mortgages",
+      "solution_summary": "Use a profit and loss statement or bank statement loans instead of traditional tax returns.",
+      "timestamp": "34:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Uncertainty around mortgage interest rates",
+      "solution_summary": "Focus on payment affordability rather than chasing rates; consider buy-downs and seller credits.",
+      "timestamp": "29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides new tools and strategies for agents to help clients who face traditional lending barriers.",
+      "key_takeaway": "Leverage new credit scoring models and flexible lending options to assist clients in securing mortgages."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into expanding clientele by targeting older buyers and self-employed individuals.",
+      "key_takeaway": "Identify and capitalize on the growing market of older home buyers and self-employed individuals with unique lending needs."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:30",
+      "end_timestamp": "06:15",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Reveals a significant change in mortgage approval processes that agents need to know.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    {
+      "timestamp": "34:00",
+      "end_timestamp": "34:45",
+      "quote": "A three and a half percent down profit and loss loan can be a game changer for self-employed buyers.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable solution for a common problem faced by self-employed individuals.",
+      "suggested_hook": "Self-employed and struggling to get a mortgage? Here's a new solution."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Encourage clients to use Credit Karma to track their Vantage Score.",
+      "context": "This score can often be higher than FICO and is now accepted by some lenders for mortgage approval.",
+      "timestamp": "06:00"
+    },
+    {
+      "tactic": "Utilize profit and loss statements for self-employed clients seeking mortgages.",
+      "context": "Allows self-employed individuals to qualify without traditional tax returns.",
+      "timestamp": "34:00"
+    },
+    {
+      "tactic": "Focus on payment affordability rather than interest rates when advising clients.",
+      "context": "Helps clients understand the real impact of interest rates on their monthly payments.",
+      "timestamp": "29:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on the payment, not the rate. It's the number you write on the check that matters."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Credit Karma",
+      "context": "Recommended for tracking Vantage Scores which can now be used for mortgage approvals."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the introduction of Vantage Scores for mortgage approvals, offering a modern alternative to traditional FICO scores. He highlights new opportunities for self-employed individuals to qualify for loans using profit and loss statements. The episode also covers current trends in interest rates and strategies for young buyers to build credit, as well as the growing market of older home buyers.",
+  "_metadata": {
+    "source_file": "2026-06-09_item2_Austin-Clarence",
+    "analyzed_at": "2026-06-16T22:15:51.736762",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

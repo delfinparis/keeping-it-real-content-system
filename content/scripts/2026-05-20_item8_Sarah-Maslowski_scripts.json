@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "I was spending $8,000 a month on Zillow leads, and I got sick of being treated like an Uber driver.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional reliance on paid leads by highlighting the potential of organic YouTube leads.",
+      "suggested_hook": "Tired of paying for leads that don't convert?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Tired of paying for leads that don't convert?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gina DiAngelo was spending $8,000 a month on Zillow leads, feeling like an Uber driver. Sound familiar? You're investing heavily in leads, but they just don't convert.\",\n    \"INSIGHT\": \"Gina switched to YouTube, generating organic leads without the hefty price tag. She says, 'I got sick of being treated like an Uber driver.' [ON-SCREEN: $8,000/month on Zillow] Most agents pay for leads. Top producers leverage free platforms like YouTube. [ON-SCREEN: Organic YouTube leads] You can build a personal brand and attract clients who already trust you. [ON-SCREEN: Build trust with video]\",\n    \"REFRAME/APPLICATION\": \"Why wait? Start creating simple videos today. Gina closed 47 deals last year using this approach. [ON-SCREEN: 47 deals closed] You can do this today.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop paying for leads that don't convert. Try YouTube for organic growth! 📈\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#YouTubeMarketing\", \"#AgentSuccess\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents pay for leads. Top producers leverage free platforms like YouTube.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "The little girl sees me and just starts going crazy like I was Justin Bieber.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the unexpected impact and reach of YouTube content.",
+      "suggested_hook": "Want to be a local celebrity in real estate?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to be a local celebrity in real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gina DiAngelo shared a story that might sound familiar. You're posting videos, but it feels like nobody's watching. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Gina was at a local event when a little girl saw her and went crazy like she was Justin Bieber. That's the power of YouTube. [ON-SCREEN: YouTube's Unexpected Reach] Most agents fear video, but top producers embrace it. [ON-SCREEN: Embrace Video, Embrace Success]\",\n    \"REFRAME/APPLICATION\": \"You can start today. Post one video this week. Gina's approach helped her convert leads and build her brand. [ON-SCREEN: Convert Leads, Build Brand]\",\n    \"CTA\": \"Have you tried YouTube for leads — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover the unexpected impact of YouTube in real estate. #LocalCelebrity\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#YouTubeMarketing\",\n    \"#LeadGeneration\",\n    \"#VideoContent\",\n    \"#PersonalBranding\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Gina was at a local event when a little girl saw her and went crazy like she was Justin Bieber.\"\n}\n```"
+  }
+]

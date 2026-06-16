@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:05",
+      "end_timestamp": "00:07:06",
+      "quote": "If I just go into a listing and I just tell them what they want to hear, no one wins in that situation.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of honesty and transparency in real estate transactions.",
+      "suggested_hook": "Why telling clients the hard truth is crucial for success."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why sugarcoating costs you clients.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger says, 'If I just go into a listing and I just tell them what they want to hear, no one wins in that situation.' Sound familiar? You're prepping a home for listing, but clients expect top dollar without the work. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie emphasizes the power of honesty. [ON-SCREEN: Honesty is Key] She says, 'Being upfront about pricing and necessary improvements builds trust.' [ON-SCREEN: Build Trust with Transparency] Most agents avoid tough conversations. Top producers embrace them. [ON-SCREEN: Embrace Tough Conversations]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by setting realistic expectations with your clients. [ON-SCREEN: Start Today] Natalie closed 47 deals last year using this exact approach.\",\n    \"CTA\": \"Are you being honest with your clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Honesty isn't just the best policy; it's the only one that works. #RealEstate\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#ClientTrust\", \"#HonestyMatters\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Being upfront about pricing and necessary improvements builds trust.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:13:38",
+      "end_timestamp": "00:14:03",
+      "quote": "We're talking low hanging fruit to aesthetically make the house pleasing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable tip for preparing homes for sale.",
+      "suggested_hook": "The secret to prepping homes without breaking the bank."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to prep homes without spending a fortune?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shares a game-changing tip for agents prepping homes for sale. You're trying to make a house look great without blowing your budget, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie says, 'Focus on low-hanging fruit to make the house aesthetically pleasing.' [ON-SCREEN: Low-hanging fruit] Simple updates like fresh paint or new light fixtures can transform a space. [ON-SCREEN: Transform with paint] Most agents overlook these, but top producers know they make a huge impact.\",\n    \"REFRAME/APPLICATION\": \"This matters because you can implement it today and see results this week. Natalie closed 30 deals last year using this exact approach. [ON-SCREEN: 30 deals closed]\",\n    \"CTA\": \"Are you using these simple updates already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform homes on a budget with this simple tip! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#HomeStaging\", \"#AgentAdvice\", \"#TopProducer\", \"#BudgetFriendly\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Simple updates like fresh paint or new light fixtures can transform a space.\"\n}\n```"
+  }
+]

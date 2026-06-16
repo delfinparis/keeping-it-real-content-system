@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Gina DiAngelo",
+    "title": "Coach",
+    "company": "Glover U",
+    "production_level": null,
+    "specialty": "YouTube content for real estate",
+    "location": "Northern Michigan"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Overcoming fears of video content creation",
+    "Cost-effective video production",
+    "Lead conversion from YouTube",
+    "Building a personal brand through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a small market",
+      "solution_summary": "Utilize YouTube to create content that attracts potential clients by showcasing the lifestyle and benefits of the area.",
+      "timestamp": "05:03"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of being on camera",
+      "solution_summary": "Focus on the content value rather than perfection; your audience is more interested in the information you provide.",
+      "timestamp": "09:02"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High cost of video production",
+      "solution_summary": "Start with low-cost equipment like smartphones and gradually invest in better tools as you see returns.",
+      "timestamp": "12:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can leverage YouTube to generate leads without a large budget.",
+      "key_takeaway": "Start creating YouTube content with minimal investment to build a client base."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can break through plateaus by adopting new lead generation strategies.",
+      "key_takeaway": "YouTube offers a scalable way to attract and convert leads with consistent content."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "I was spending $8,000 a month on Zillow leads, and I got sick of being treated like an Uber driver.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional reliance on paid leads by highlighting the potential of organic YouTube leads.",
+      "suggested_hook": "Tired of paying for leads that don't convert?"
+    },
+    {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "The little girl sees me and just starts going crazy like I was Justin Bieber.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the unexpected impact and reach of YouTube content.",
+      "suggested_hook": "Want to be a local celebrity in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Start with low-cost video production",
+      "context": "Use your smartphone and basic lighting to create your first videos.",
+      "timestamp": "12:04"
+    },
+    {
+      "tactic": "Focus on lifestyle content",
+      "context": "Create videos that highlight the lifestyle benefits of your area to attract potential buyers.",
+      "timestamp": "05:03"
+    }
+  ],
+  "quotable_insights": [
+    "Your audience is more interested in the information you provide than in your video production quality."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for real estate recruiters to identify agents looking to move."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Suggested as a technology partner for real estate agents to convert leads."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski and Gina DiAngelo discuss the power of YouTube as a lead generation tool for real estate agents, especially in smaller markets. They cover the importance of overcoming the fear of being on camera, starting with low-cost production, and the benefits of building a personal brand through consistent video content. Gina shares personal stories and tactical advice, emphasizing that YouTube can significantly enhance lead conversion and business growth.",
+  "_metadata": {
+    "source_file": "2026-05-20_item8_Sarah-Maslowski",
+    "analyzed_at": "2026-06-16T22:12:02.383618",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

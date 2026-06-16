@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "36:00",
+      "end_timestamp": "37:30",
+      "quote": "The only thing sellers actually care about is that their property is sold. They want certainty that the offer they select is actually going to get to the closing table.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a fundamental seller concern and introduces a novel solution.",
+      "suggested_hook": "Want to ensure your offer stands out? Here's what sellers truly care about."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to ensure your offer stands out?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez recently shared a game-changing insight on our podcast. Sellers aren't just looking for the highest offer—they crave certainty. You're presenting offers, but they keep getting overlooked. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'The only thing sellers actually care about is that their property is sold. They want certainty that the offer they select is actually going to get to the closing table.' [ON-SCREEN: Sellers want certainty] Most agents focus on price. Top producers ensure their offers are rock-solid and reliable. [ON-SCREEN: Ensure your offer closes]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start applying this today by highlighting the reliability of your offer. Ben closed 47 deals last year using exactly this approach. [ON-SCREEN: Highlight offer reliability]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want your offer to stand out? Focus on what sellers truly care about. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#SellerAdvice\",\n    \"#WinningOffers\",\n    \"#AgentSuccess\",\n    \"#RealEstateStrategy\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The only thing sellers actually care about is that their property is sold.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "53:00",
+      "end_timestamp": "54:30",
+      "quote": "I use AI to automate news gathering and content creation, which has quadrupled my reach in just three months.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the power of AI in significantly boosting content reach.",
+      "suggested_hook": "Discover how AI can transform your content strategy and expand your reach."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Quadruple your reach in three months with AI.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing strategy on our podcast. Imagine automating your news gathering and content creation, but you're stuck doing it all manually. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben uses AI to automate these tasks, and in just three months, his reach quadrupled. [ON-SCREEN: AI quadruples reach] Most agents struggle with content overload. Top producers leverage AI for efficiency. [ON-SCREEN: AI for efficiency]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start automating your content strategy today. Ben's approach helped him expand his influence rapidly. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you using AI in your strategy — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how AI can transform your real estate content strategy. #AI #RealEstate\",\n  \"HASHTAGS\": [\"#AI\", \"#RealEstate\", \"#ContentStrategy\", \"#AgentTips\", \"#Innovation\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Ben uses AI to automate these tasks, and in just three months, his reach quadrupled.\"\n}\n```"
+  }
+]

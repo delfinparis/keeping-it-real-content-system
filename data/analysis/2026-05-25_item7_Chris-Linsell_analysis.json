@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": null,
+    "specialty": "AI and real estate technology",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "AI visibility and citation density",
+    "Real estate mergers and acquisitions",
+    "Building a personal brand in real estate",
+    "Content creation for real estate agents",
+    "Impact of large brokerage consolidations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of real estate mergers on individual agents",
+      "solution_summary": "Agents should focus on building their personal brand independent of the brokerage to remain resilient.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents being invisible to AI-generated answers",
+      "solution_summary": "Create diverse and authoritative content across multiple platforms to improve AI visibility.",
+      "timestamp": "06:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses how to leverage AI and content creation to stand out in a crowded market.",
+      "key_takeaway": "Focus on creating content that answers specific questions potential clients might have to improve AI visibility."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The discussion on mergers and acquisitions provides insights into how industry changes might affect their business.",
+      "key_takeaway": "Adapt by building a strong personal brand that is not reliant on the brokerage's identity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:43",
+      "end_timestamp": "06:13",
+      "quote": "Agents are asking how do I rank in AI. What they should be asking is why in the world would AI ever cite them in the first place.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the conventional approach to AI and SEO, prompting agents to rethink their strategy.",
+      "suggested_hook": "Are you asking the wrong question about AI in real estate?"
+    },
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "27:33",
+      "quote": "If you are upset about being acquired by real, you likely have too much of your brand identity tied to the red, white, and blue hot air balloon.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It highlights the importance of personal branding over brokerage branding.",
+      "suggested_hook": "Is your real estate brand too tied to your brokerage?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Publish content on dot edu and dot gov websites to improve AI visibility.",
+      "context": "Partner with local educational institutions and government bodies to appear on authoritative sites.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Create a voice guide for AI content creation.",
+      "context": "Ensure your AI-generated content reflects your personal style and brand.",
+      "timestamp": "48:45"
+    }
+  ],
+  "quotable_insights": [
+    "Content is lead generation in this business.",
+    "Your brand should be able to operate whichever brokerage logo is at the top of your letterhead."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to improve lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the importance of building a personal brand independent of brokerage identity, especially in light of recent mergers and acquisitions in the real estate industry. He emphasizes the need for agents to improve their AI visibility through diverse content creation and offers actionable strategies to achieve this, such as publishing on authoritative websites and creating a personalized voice guide for AI content.",
+  "_metadata": {
+    "source_file": "2026-05-25_item7_Chris-Linsell",
+    "analyzed_at": "2026-06-16T22:12:31.615295",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
