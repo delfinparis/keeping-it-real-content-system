@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": null,
+    "production_level": "Top 1% producer",
+    "specialty": "Real estate agent coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Mindset and motivation",
+    "Overcoming personal challenges",
+    "Consistency in routines",
+    "Importance of having a 'why'",
+    "Impact of personal loss on professional life"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling stuck and unmotivated after personal loss",
+      "solution_summary": "Focus on consistency in daily routines and reconnect with personal 'why' to regain motivation.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Negative self-talk and comparison to others",
+      "solution_summary": "Shift language from 'I think' to 'I will' to foster a more proactive mindset.",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode addresses feeling stuck due to personal challenges and offers strategies to regain momentum.",
+      "key_takeaway": "Consistency in routines and focusing on your 'why' can help overcome feelings of being stuck."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "35:00",
+      "end_timestamp": "36:00",
+      "quote": "When you have a big enough 'why', you're not pushed, you're pulled.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote encapsulates a powerful mindset shift that can inspire agents to find deeper motivation.",
+      "suggested_hook": "Are you feeling stuck in your real estate career? Discover the power of being pulled by your 'why'."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use consistent morning and evening routines to maintain productivity.",
+      "context": "Apply this tactic to create stability and focus in your daily life.",
+      "timestamp": "28:00"
+    },
+    {
+      "tactic": "Shift language from 'I think' to 'I will' to change mindset.",
+      "context": "Use this tactic to foster a more proactive and confident approach to challenges.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "People pass, but they never really leave.",
+    "Successful people are consistent in their routines."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for identifying agents looking to move brokerages using AI."
+    }
+  ],
+  "episode_summary": "This episode features a live coaching session with Michael Opyd, focusing on overcoming personal challenges and regaining motivation in real estate. Michael emphasizes the importance of consistency in routines and connecting with one's 'why' to pull through difficult times. The session provides actionable insights for agents feeling stuck, particularly after personal loss.",
+  "_metadata": {
+    "source_file": "2026-05-14_item10_Michael-Opyd",
+    "analyzed_at": "2026-06-17T05:30:15.106892",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
