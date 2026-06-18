@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:04",
+      "end_timestamp": "05:37",
+      "quote": "They're not buying the mega mansions anymore. They're buying lifestyle optimization.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a shift in luxury buyer preferences, which is crucial for agents to understand.",
+      "suggested_hook": "Why luxury buyers are ditching mega mansions for lifestyle optimization."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why are luxury buyers ditching mega mansions?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick reveals a crucial shift in luxury real estate: buyers now prioritize lifestyle optimization over mega mansions. If you're an agent wondering why your high-end listings aren't moving, this might be why.\",\n    \"INSIGHT\": \"Carrie says, 'They're not buying the mega mansions anymore. They're buying lifestyle optimization.' [ON-SCREEN: Lifestyle Optimization] Most agents focus on square footage. Top producers focus on lifestyle features. [ON-SCREEN: Focus on Lifestyle]\",\n    \"REFRAME/APPLICATION\": \"This trend matters now more than ever. You can start highlighting lifestyle benefits in your listings today. Carrie, who closed 47 luxury deals last year, swears by this approach.\",\n    \"CTA\": \"Are you highlighting lifestyle in your listings — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers want lifestyle, not just space. Are you adapting? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#LuxuryRealEstate\",\n    \"#AgentTips\",\n    \"#RealEstateTrends\",\n    \"#LifestyleOptimization\",\n    \"#RealEstatePodcast\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"They're not buying the mega mansions anymore. They're buying lifestyle optimization.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "24:24",
+      "end_timestamp": "25:00",
+      "quote": "She had AI turn it into a watercolor... and said, we love your home.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates a creative and personal approach to winning offers.",
+      "suggested_hook": "How a simple watercolor painting helped win a competitive offer."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"How did a watercolor painting win a bidding war?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick shared a story that might sound familiar. You're in a bidding war, and your offer isn't standing out. You're thinking, 'How can I make my offer irresistible?'\",\n    \"INSIGHT\": \"Carrie had AI transform a home's photo into a beautiful watercolor. She sent it to the sellers with a note: 'We love your home.' [ON-SCREEN: AI Watercolor Strategy] This personal touch made her client's offer unforgettable. Most agents send generic offers. Top producers add a personal touch. [ON-SCREEN: Personal Touch Wins]\",\n    \"REFRAME/APPLICATION\": \"In today's market, creativity wins. Try this approach in your next offer. Carrie closed 47 deals last year using strategies like this. [ON-SCREEN: Try This Today]\",\n    \"CTA\": \"Have you tried a creative offer strategy before — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"How a simple watercolor painting helped win a competitive offer. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AIinRealEstate\",\n    \"#HomeBuying\",\n    \"#CreativeOffers\",\n    \"#RealEstateAdvice\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents send generic offers. Top producers add a personal touch.\"\n}\n```"
+  }
+]

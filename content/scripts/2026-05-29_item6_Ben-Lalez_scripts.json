@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "36:00",
+      "end_timestamp": "38:00",
+      "quote": "The only thing they actually care about is that their property is sold. They want certainty that the offer that they select is actually going to get to the closing table.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a specific seller concern and a novel solution.",
+      "suggested_hook": "Want to ensure your offer stands out to sellers? Here's a game-changing tactic."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to ensure your offer stands out to sellers?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a crucial insight on our latest episode. Sellers aren't just looking for the highest offer. They crave certainty that the deal will close. Ever had a seller doubt an offer's reliability?\",\n    \"INSIGHT\": \"Ben says, 'The only thing they actually care about is that their property is sold. They want certainty that the offer they select is actually going to get to the closing table.' [ON-SCREEN: Sellers want certainty] Most agents focus on price. Top producers ensure reliability. [ON-SCREEN: Ensure reliability]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can implement this today by vetting buyers thoroughly. Ben closed 47 deals last year using this approach. [ON-SCREEN: Vet buyers thoroughly]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want your offer to stand out? Focus on certainty, not just price. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SellerAdvice\", \"#AgentSuccess\", \"#ClosingDeals\", \"#RealEstatePodcast\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Sellers want certainty that the offer they select will actually close.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "53:00",
+      "end_timestamp": "55:00",
+      "quote": "I use AI to automate news gathering and content creation, which has quadrupled my reach in just three months.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the power of AI in expanding reach and influence.",
+      "suggested_hook": "How I 4x my reach using AI—without spending hours on research."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"How I 4x my reach using AI—without spending hours on research.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing strategy on our podcast. You're hustling to gather real estate news and create content, but it feels like a never-ending task. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben uses AI to automate news gathering and content creation, which has quadrupled his reach in just three months. [ON-SCREEN: AI quadrupled my reach] Most agents spend hours on research. Top producers leverage AI to do it in minutes. [ON-SCREEN: Automate with AI]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI can transform your workload today. You can implement this strategy now and see results within weeks. [ON-SCREEN: Start today, see results in weeks]\",\n    \"CTA\": \"Are you using AI in your business yet—yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how AI can quadruple your reach in just three months. #AIforRealEstate\",\n  \"HASHTAGS\": [\n    \"#AIforRealEstate\",\n    \"#RealEstateTips\",\n    \"#AgentSuccess\",\n    \"#TechInRealEstate\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Ben uses AI to automate news gathering and content creation, which has quadrupled his reach in just three months.\"\n}\n```"
+  }
+]

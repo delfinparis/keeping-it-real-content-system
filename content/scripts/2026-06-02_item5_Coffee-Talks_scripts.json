@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:03",
+      "end_timestamp": "00:04:08",
+      "quote": "The fix is not to lower the price faster, but to implement a structured system.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that price cuts are the only solution.",
+      "suggested_hook": "Think price cuts are the only way to sell a stale listing? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think price cuts are the only way to sell a stale listing? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton challenges the common belief that lowering prices is the only solution for stale listings. You're watching your listing sit on the market, wondering if a price cut is your only option. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim says, 'The fix is not to lower the price faster, but to implement a structured system.' [ON-SCREEN: Implement a structured system] Most agents drop the price. Top producers prepare a data-driven launch. [ON-SCREEN: Data-driven launch] It's about pre-listing strategies and understanding the three-week median market time. [ON-SCREEN: Three-week median market time]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can apply it today. Start by analyzing your market data before listing. Tim closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Price cuts aren't the only answer. Implement a structured system instead. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#AgentAdvice\",\n    \"#ListingStrategy\",\n    \"#MarketData\",\n    \"#RealEstatePodcast\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"The fix is not to lower the price faster, but to implement a structured system.\"\n}\n```"
+  }
+]

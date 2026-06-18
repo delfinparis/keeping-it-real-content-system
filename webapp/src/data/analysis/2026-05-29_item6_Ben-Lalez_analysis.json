@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Ben Lalez Group",
+    "production_level": "Top grossing real estate residential team",
+    "specialty": "Real estate technology and AI",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Compass, Zillow, and MLS listing data conflict",
+    "AI solutions for real estate problems",
+    "Agent advocacy and industry dynamics",
+    "Innovative insurance products for real estate transactions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Conflict over listing data between Compass, Zillow, and MLS",
+      "solution_summary": "Understanding the dynamics and potential outcomes of the conflict",
+      "timestamp": "04:20"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "High cancellation rates in real estate transactions",
+      "solution_summary": "Developing an insurance product to offer sellers assurance against cancellations",
+      "timestamp": "36:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Keeping up with industry news for better agent credibility",
+      "solution_summary": "Using AI to automate news gathering and content creation",
+      "timestamp": "53:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses innovative team strategies and AI solutions",
+      "key_takeaway": "Leverage AI to solve team-specific problems and differentiate your offerings"
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Insights into cutting-edge practices and industry dynamics",
+      "key_takeaway": "Stay ahead by understanding industry conflicts and using AI for strategic advantage"
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "36:00",
+      "end_timestamp": "38:00",
+      "quote": "The only thing they actually care about is that their property is sold. They want certainty that the offer that they select is actually going to get to the closing table.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a specific seller concern and a novel solution.",
+      "suggested_hook": "Want to ensure your offer stands out to sellers? Here's a game-changing tactic."
+    },
+    {
+      "timestamp": "53:00",
+      "end_timestamp": "55:00",
+      "quote": "I use AI to automate news gathering and content creation, which has quadrupled my reach in just three months.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the power of AI in expanding reach and influence.",
+      "suggested_hook": "How I 4x my reach using AI—without spending hours on research."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Offer cancellation insurance to sellers to make your buyer's offer more attractive.",
+      "context": "Use when competing in a multiple-offer situation to provide sellers with assurance.",
+      "timestamp": "39:00"
+    },
+    {
+      "tactic": "Automate industry news gathering using AI to stay informed and create content.",
+      "context": "Set up scheduled tasks in AI tools to receive daily news summaries.",
+      "timestamp": "53:00"
+    }
+  ],
+  "quotable_insights": [
+    "Every problem that us real estate agents are having, there is a creative solution.",
+    "AI can replace mundane tasks, allowing agents to focus on strategic growth."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for AI-driven problem-solving and task automation."
+    },
+    {
+      "type": "tool",
+      "name": "CapCut",
+      "context": "For quick video edits to enhance content creation."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the ongoing conflict between Compass, Zillow, and MLS over listing data and its implications for agents. He shares innovative AI-driven solutions for common real estate challenges, including a novel insurance product to reduce transaction cancellations. The conversation also covers how agents can leverage AI to stay informed and enhance their personal brand.",
+  "_metadata": {
+    "source_file": "2026-05-29_item6_Ben-Lalez",
+    "analyzed_at": "2026-06-18T05:39:55.740495",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

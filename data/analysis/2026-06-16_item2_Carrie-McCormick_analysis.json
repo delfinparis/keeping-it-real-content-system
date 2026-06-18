@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Luxury Real Estate Agent",
+    "company": "Carrie McCormick Group",
+    "production_level": "Top 1% producer",
+    "specialty": "Luxury properties and high-end developments",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "AI's impact on luxury real estate",
+    "The evolving preferences of luxury buyers",
+    "Building relationships in real estate",
+    "Leveraging social media and AI for branding",
+    "Strategies for winning multiple offer situations"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the new luxury buyer driven by AI wealth",
+      "solution_summary": "Focus on lifestyle optimization and wellness features in properties to attract AI-driven buyers.",
+      "timestamp": "04:34"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a competitive market",
+      "solution_summary": "Enhance digital presence through AI optimization and consistent social media engagement.",
+      "timestamp": "10:25"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Winning in multiple offer scenarios",
+      "solution_summary": "Build rapport with seller's agents and personalize offers to align with seller preferences.",
+      "timestamp": "22:26"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how to cater to luxury clients and leverage AI for business growth.",
+      "key_takeaway": "Focus on lifestyle optimization and use AI to enhance your market presence."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Understanding market trends and AI's role can help in guiding team strategies.",
+      "key_takeaway": "Embrace new technologies and market trends to stay competitive and attract high-end clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:04",
+      "end_timestamp": "05:37",
+      "quote": "They're not buying the mega mansions anymore. They're buying lifestyle optimization.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a shift in luxury buyer preferences, which is crucial for agents to understand.",
+      "suggested_hook": "Why luxury buyers are ditching mega mansions for lifestyle optimization."
+    },
+    {
+      "timestamp": "24:24",
+      "end_timestamp": "25:00",
+      "quote": "She had AI turn it into a watercolor... and said, we love your home.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates a creative and personal approach to winning offers.",
+      "suggested_hook": "How a simple watercolor painting helped win a competitive offer."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to enhance property searches and client engagement.",
+      "context": "Incorporate AI tools to identify potential buyers and tailor communication.",
+      "timestamp": "08:25"
+    },
+    {
+      "tactic": "Personalize offers with thoughtful gestures.",
+      "context": "Create memorable experiences for sellers to stand out in multiple offer situations.",
+      "timestamp": "24:24"
+    }
+  ],
+  "quotable_insights": [
+    "Being nice to people is an undervalued currency in real estate.",
+    "Luxury buyers today are driven by lifestyle optimization, not just square footage."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "Recommended for lead generation and conversion optimization."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the evolving landscape of luxury real estate, driven by AI wealth and lifestyle optimization. She shares insights on leveraging AI for branding and client engagement, and offers strategies for winning in competitive offer situations. The conversation highlights the importance of personal relationships and adapting to new market trends.",
+  "_metadata": {
+    "source_file": "2026-06-16_item2_Carrie-McCormick",
+    "analyzed_at": "2026-06-18T05:42:40.930619",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:12",
+      "end_timestamp": "00:04:00",
+      "quote": "YouTube is only half of the equation. Getting the lead is one thing, converting that lead into a signed contract requires a system.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the need for a structured approach to lead conversion, a key insight for agents.",
+      "suggested_hook": "Are you struggling to convert your YouTube leads into clients?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you struggling to convert your YouTube leads into clients?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changing insight on our podcast. You're generating leads from YouTube, but they're not turning into clients. Sound familiar? You're not alone.\",\n    \"INSIGHT\": \"Sarah said, 'YouTube is only half of the equation. Getting the lead is one thing, converting that lead into a signed contract requires a system.' [ON-SCREEN: 'YouTube is only half of the equation'] Most agents stop at lead generation. Top producers build systems for conversion. [ON-SCREEN: 'Systems for conversion']\",\n    \"REFRAME/APPLICATION\": \"This matters because without a system, leads slip through the cracks. Implement a structured follow-up process today. Sarah's approach helped her close 47 deals last year. [ON-SCREEN: 'Close 47 deals']\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Turning YouTube leads into clients requires more than just views. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadConversion\", \"#YouTubeMarketing\", \"#AgentAdvice\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"YouTube is only half of the equation. Converting leads requires a system.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:15:08",
+      "end_timestamp": "00:16:00",
+      "quote": "The showing agent model solves this problem. It's something I would encourage every agent serious about YouTube to start thinking about early.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the traditional solo agent model and offers a scalable solution.",
+      "suggested_hook": "Is your business ready for the showing agent model?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your business ready for the showing agent model?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski challenges the solo agent model. You're juggling showings, leads, and YouTube content, but nothing's sticking. It's overwhelming. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The showing agent model solves this problem. [ON-SCREEN: Showing Agent Model] Sarah says, 'It's something I would encourage every agent serious about YouTube to start thinking about early.' [ON-SCREEN: Early Adoption] Most agents try to do it all. Top producers leverage a team. [ON-SCREEN: Leverage a Team]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can implement this today. Sarah closed 47 deals last year using this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is the showing agent model the key to scaling your real estate business?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#YouTubeLeads\", \"#ShowingAgentModel\", \"#RealEstateGrowth\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents try to do it all. Top producers leverage a team.\"\n}\n```"
+  }
+]

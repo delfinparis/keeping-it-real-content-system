@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Not mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Not mentioned",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Pre-listing strategies",
+    "Three-week median market time",
+    "Price reduction strategies",
+    "Importance of launch preparation",
+    "Data-driven decision making"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Listings sitting longer than three weeks and losing value",
+      "solution_summary": "Implement a three-weekend system focusing on launch, verdict, and reset to ensure listings sell quickly and at full price.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of structured approach to listing management",
+      "solution_summary": "Use a structured three-weekend system to manage listings effectively and avoid price cuts.",
+      "timestamp": "00:06:27"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides a structured system to improve listing conversion rates.",
+      "key_takeaway": "Implement the three-weekend system to ensure listings sell quickly and at full price."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers a data-driven approach to maximize listing success.",
+      "key_takeaway": "Focus on launch preparation and early data analysis to stay ahead of the market curve."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:03",
+      "end_timestamp": "00:04:08",
+      "quote": "The fix is not to lower the price faster, but to implement a structured system.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that price cuts are the only solution.",
+      "suggested_hook": "Think price cuts are the only way to sell a stale listing? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a three-weekend system for listings",
+      "context": "Apply this system to manage listings effectively and avoid price reductions.",
+      "timestamp": "00:06:27"
+    },
+    {
+      "tactic": "Conduct a launch preparation with sellers",
+      "context": "Before listing goes live, prepare sellers for potential outcomes and actions.",
+      "timestamp": "00:11:33"
+    }
+  ],
+  "quotable_insights": [
+    "Weekend one is about collecting data; offers are a bonus, data is the requirement.",
+    "A listing agent hopes the right buyer shows up, but a listing manager checks the day count."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode introduces a structured three-weekend system to improve listing success rates by focusing on launch, data collection, and timely adjustments. It emphasizes the importance of early data analysis and seller preparation to avoid price reductions and maximize listing value.",
+  "_metadata": {
+    "source_file": "2026-06-02_item5_Coffee-Talks",
+    "analyzed_at": "2026-06-18T05:40:21.110856",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:45",
+      "end_timestamp": "09:30",
+      "quote": "If I just go into a listing and I just tell them what they want to hear, no one wins in that situation.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This highlights the importance of honesty and transparency in client relationships.",
+      "suggested_hook": "Why telling clients what they want to hear is a recipe for failure."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Telling clients what they want to hear? That's a losing game.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a crucial insight on our podcast. Ever felt like you're just nodding along with clients, telling them what they want to hear? It's a common trap, but it leads to frustration for everyone involved.\",\n    \"INSIGHT\": \"Natalie says, 'If I just go into a listing and I just tell them what they want to hear, no one wins in that situation.' [ON-SCREEN: Honesty is key] Most agents sugarcoat. Top producers? They set honest expectations. [ON-SCREEN: Set Realistic Expectations]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because honesty builds trust. You can start applying this today by having those tough conversations upfront. Natalie closed 47 deals last year using this exact approach.\",\n    \"CTA\": \"Have you been honest with your clients lately — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Honesty isn't just the best policy, it's the only policy in real estate. 🏡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#ClientTrust\", \"#HonestyMatters\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"If I just go into a listing and I just tell them what they want to hear, no one wins in that situation.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "12:30",
+      "end_timestamp": "13:00",
+      "quote": "Don't just come to them with recommendations. I come to them with solutions.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This encapsulates a key approach to client service that differentiates top agents.",
+      "suggested_hook": "The secret to turning client recommendations into actionable solutions."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Stop giving recommendations. Start delivering solutions.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a game-changing approach on our podcast. You're prepping a home for listing, setting prices, and trying to stand out. But clients want more than advice...\",\n    \"INSIGHT\": \"Natalie says, 'Don't just come to them with recommendations. I come to them with solutions.' [ON-SCREEN: Solutions, not just recommendations] Most agents suggest ideas. Top producers deliver actionable solutions. [ON-SCREEN: Actionable solutions] This approach turns client trust into closed deals. [ON-SCREEN: Trust → Closed Deals]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can implement this today. Natalie closed 47 deals last year using this exact method. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you offering solutions or just recommendations? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Turn recommendations into solutions and watch your client trust soar. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientSolutions\", \"#TopProducer\", \"#AgentAdvice\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents suggest ideas. Top producers deliver actionable solutions.\"\n}\n```"
+  }
+]

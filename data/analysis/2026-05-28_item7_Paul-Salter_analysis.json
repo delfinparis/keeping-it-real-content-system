@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "High Performance Hypnotherapist and Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping professionals in real estate and financial services get unstuck",
+    "location": null
+  },
+  "main_topics": [
+    "Balancing intensity and consistency in real estate",
+    "The dangers of always being on",
+    "Recalibrating personal and professional priorities",
+    "The importance of self-care and family time",
+    "Using intentional limitations to drive innovation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling overwhelmed and disconnected due to constant availability",
+      "solution_summary": "Return to the fundamentals and recalibrate personal priorities to avoid burnout.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Neglecting self-care and family time for work commitments",
+      "solution_summary": "Prioritize self-care and family time in your calendar to maintain balance.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the challenges of maintaining work-life balance after achieving success.",
+      "key_takeaway": "Success should not come at the cost of personal well-being and relationships."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to achieve success without losing sight of personal values.",
+      "key_takeaway": "Learn to balance intensity with consistency to sustain long-term success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:03",
+      "end_timestamp": "08:03",
+      "quote": "If you're feeling off track, disconnected, like your head is barely above water, you don't need another productivity hack. You need to return to the fundamentals that made you effective before success made you reactive.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that more productivity tools are the solution to feeling overwhelmed.",
+      "suggested_hook": "Feeling overwhelmed? Here's why more tools aren't the answer."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Audit your calendar to prioritize self-care and family time.",
+      "context": "Use your calendar as a reflection of your true priorities and make adjustments to ensure personal time is scheduled first.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "Intensity is necessary to get ahead, but it's consistency that maintains what you achieve."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Unstuck High Performer Podcast",
+      "context": "Recommended for those who feel capable of more but are stuck underperforming."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the importance of balancing intensity and consistency in real estate. He emphasizes the need to recalibrate personal and professional priorities to avoid burnout and maintain well-being. Salter provides actionable advice on auditing one's calendar to prioritize self-care and family time, offering a mindset shift for those feeling overwhelmed.",
+  "_metadata": {
+    "source_file": "2026-05-28_item7_Paul-Salter",
+    "analyzed_at": "2026-06-18T05:39:08.875473",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

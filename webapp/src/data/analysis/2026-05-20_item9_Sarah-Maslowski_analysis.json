@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "Gina DiAngelo",
+    "title": "Coach",
+    "company": "Glover U",
+    "production_level": null,
+    "specialty": "YouTube-based real estate business",
+    "location": "Northern Michigan"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Overcoming fear of video content",
+    "Cost-effective video production",
+    "Lead conversion from YouTube",
+    "Building a personal brand through video"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a small market",
+      "solution_summary": "Use YouTube to create content that attracts leads by showcasing the lifestyle and unique aspects of the area.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of being on camera",
+      "solution_summary": "Focus on the value of the content rather than perfection; understand that most viewers are not local peers.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High cost of video production",
+      "solution_summary": "Start with low-cost options like smartphones and simple setups before investing in professional equipment.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting YouTube leads",
+      "solution_summary": "Leads from YouTube often feel like they know you already, making them more likely to convert.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can leverage YouTube to generate leads without a large budget.",
+      "key_takeaway": "Start creating content with what you have and focus on consistency over perfection."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Agents looking to expand their lead generation strategies can benefit from YouTube's reach.",
+      "key_takeaway": "YouTube offers a scalable way to build a personal brand and attract clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:30",
+      "end_timestamp": "09:10",
+      "quote": "Your local connections are not searching YouTube for that information because they're not moving there.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the fear that local peers will judge your content.",
+      "suggested_hook": "Worried about what your peers think of your videos? Here's why you shouldn't be."
+    },
+    {
+      "timestamp": "17:30",
+      "end_timestamp": "18:00",
+      "quote": "By the time somebody calls you from watching your YouTube videos, they're going to want to feel like they know you already.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the power of video in building trust and connection.",
+      "suggested_hook": "Want leads that already trust you? Here's how YouTube can help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Start with low-cost video production using a smartphone.",
+      "context": "Begin creating content without a large upfront investment.",
+      "timestamp": "12:00"
+    },
+    {
+      "tactic": "Focus on creating content about living in your area.",
+      "context": "Attract potential buyers interested in relocating.",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "YouTube videos as far as lead generation is concerned is the best form of leverage.",
+    "The worst the videos are, the better the leads will be because only people that are really going to do something will call."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for real estate recruiters to identify agents looking to move."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Suggested for agents to convert leads and manage client relationships."
+    }
+  ],
+  "episode_summary": "This episode explores the power of YouTube as a lead generation tool for real estate agents, particularly in smaller markets. Gina DiAngelo shares insights on overcoming the fear of video, starting with low-cost production, and the unique advantages of YouTube leads. The discussion emphasizes the importance of consistency and the potential for building a personal brand through video content.",
+  "_metadata": {
+    "source_file": "2026-05-20_item9_Sarah-Maslowski",
+    "analyzed_at": "2026-06-18T05:38:04.817466",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
