@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:09",
+      "end_timestamp": "00:03:20",
+      "quote": "I've closed over $150 million directly from YouTube with zero paid ads, no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential of YouTube as a lead generation tool without traditional methods.",
+      "suggested_hook": "Discover how to close millions in sales without spending a dime on ads!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Close millions in sales without spending a dime on ads!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine closing $150 million in sales directly from YouTube. No paid ads, no cold calling. Sounds impossible, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah Maslowski revealed she achieved this by leveraging YouTube as a powerful lead generation tool. [ON-SCREEN: $150 million from YouTube] She focused on creating content that spoke directly to serious buyers. [ON-SCREEN: No paid ads, no cold calling] Most agents chase leads. Top producers let leads come to them through strategic content.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start creating your own YouTube content today. Sarah's approach closed 47 deals last year alone. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover the secret to closing millions in sales without spending on ads!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#LeadGeneration\", \"#AgentSuccess\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents chase leads. Top producers let leads come to them through strategic content.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:16:00",
+      "end_timestamp": "00:16:15",
+      "quote": "A showing agent is a licensed real estate agent who works with you specifically to open up doors.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for managing multiple clients.",
+      "suggested_hook": "Struggling to manage multiple clients? Here's a game-changing solution!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling to manage multiple clients? Here's a game-changing solution!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a strategy for agents juggling too many clients. You're running from showing to showing, overwhelmed by the chaos. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"A showing agent is a licensed real estate agent who works with you specifically to open up doors. [ON-SCREEN: Showing Agent Model] Most agents try to do it all themselves. Top producers leverage showing agents to maximize efficiency. [ON-SCREEN: Maximize Efficiency]\",\n    \"REFRAME/APPLICATION\": \"This matters because it frees up your time to focus on serious buyers. You can implement this today and see immediate results. [ON-SCREEN: Immediate Results]\",\n    \"CTA\": \"Are you using showing agents already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Overwhelmed by client showings? Discover the showing agent model! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#ClientManagement\", \"#RealEstateStrategy\", \"#Showings\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents try to do it all themselves. Top producers leverage showing agents to maximize efficiency.\"\n}\n```"
+  }
+]

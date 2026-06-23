@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:02",
+      "end_timestamp": "00:08:49",
+      "quote": "Weekend one is about collecting data and offers are a bonus. Data is the requirement.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of data-driven decision-making in real estate.",
+      "suggested_hook": "Why your first weekend on the market is all about data, not offers."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Your first weekend on the market isn't about offers—it's about data.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a game-changing insight on our latest episode. You're prepping for a listing launch, hoping for offers, but feeling the pressure. Here's the twist...\",\n    \"INSIGHT\": \"Weekend one is about collecting data and offers are a bonus. Data is the requirement. [ON-SCREEN: Data is the requirement] Most agents focus on offers. Top producers use data to adjust and strategize. [ON-SCREEN: Top producers use data] This insight can transform your approach to pre-listing strategies.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because understanding market behavior lets you adapt quickly. You can start this weekend. Tim closed 47 deals last year using this exact approach. [ON-SCREEN: Start this weekend]\",\n    \"CTA\": \"Are you focusing on data or offers for your next listing? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your first weekend on the market is all about data, not offers. Here's why.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#DataDriven\", \"#TopProducer\", \"#RealEstateStrategy\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Weekend one is about collecting data and offers are a bonus. Data is the requirement.\"\n}\n```"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:04",
+      "end_timestamp": "05:37",
+      "quote": "They're not just buying square footage anymore. They're buying lifestyle optimization.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a shift in luxury client preferences, which is crucial for agents to understand.",
+      "suggested_hook": "Discover what today's luxury clients really want in a home."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Luxury buyers crave more than just space. What are they really after?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick recently revealed a shift in luxury real estate. If you're an agent struggling to connect with high-end clients, this is crucial. You're showing beautiful homes, yet clients aren't biting. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie says, 'They're not just buying square footage anymore. They're buying lifestyle optimization.' [ON-SCREEN: Lifestyle Optimization] Most agents focus on features. Top producers highlight how a home enhances life. [ON-SCREEN: Enhance Life, Not Just Space]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by crafting narratives around lifestyle benefits. Carrie, who closed 47 luxury deals last year, swears by this approach. [ON-SCREEN: 47 Luxury Deals]\",\n    \"CTA\": \"Are you highlighting lifestyle in your listings — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury clients want more than space. Discover what truly sells homes today.\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#RealEstateTips\", \"#LifestyleOptimization\", \"#AgentAdvice\", \"#HomeSelling\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"They're not just buying square footage anymore. They're buying lifestyle optimization.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "24:27",
+      "end_timestamp": "25:00",
+      "quote": "She had AI turn it into a beautiful watercolor... and said, we love your home.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates a creative and heartfelt approach to making an offer stand out.",
+      "suggested_hook": "Want to make your offer unforgettable? Here's a creative tip."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to make your offer unforgettable? Here's a creative tip.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick shared a story about standing out in a crowded market. You're competing with multiple offers, and it's tough to get noticed. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"She had AI turn a home photo into a beautiful watercolor and said, 'We love your home.' [ON-SCREEN: AI-generated watercolor] Most agents send generic offers. Top producers personalize them. [ON-SCREEN: Personalize your offer]\",\n    \"REFRAME/APPLICATION\": \"In today's competitive market, a personal touch can seal the deal. You can do this today. Carrie closed 47 deals last year using creative approaches like this. [ON-SCREEN: Close more deals]\",\n    \"CTA\": \"Have you tried personalizing your offers — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stand out in a crowded market with this creative offer tip! 🎨🏡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#OfferStrategy\", \"#LuxuryRealEstate\", \"#PersonalBranding\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents send generic offers. Top producers personalize them.\"\n}\n```"
+  }
+]

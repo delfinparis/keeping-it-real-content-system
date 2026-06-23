@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "The Empty Stage Method",
+    "Using TikTok for Real Estate",
+    "Overcoming Barriers to Social Media",
+    "Local Content Creation",
+    "Consistency in Posting"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents feel invisible despite being on crowded platforms.",
+      "solution_summary": "Utilize TikTok where competition is low to reach a large audience.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents believe TikTok is not for their audience.",
+      "solution_summary": "Data shows TikTok's audience includes a significant number of adults.",
+      "timestamp": "00:10:08"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of posting to an empty room.",
+      "solution_summary": "Focus on consistency and answering real client questions.",
+      "timestamp": "00:05:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can leverage TikTok to build a brand without competing against established agents on other platforms.",
+      "key_takeaway": "Start posting simple, local content on TikTok to gain visibility."
+    },
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "Agents who feel lost in the noise on other platforms can stand out on TikTok.",
+      "key_takeaway": "Use TikTok's low competition to become a trusted local expert."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:01",
+      "end_timestamp": "00:04:15",
+      "quote": "This is the best setup you will ever get. Most agents just can't see it yet.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges agents to see TikTok as an opportunity rather than a challenge.",
+      "suggested_hook": "Are you missing out on the biggest opportunity in real estate marketing?"
+    },
+    {
+      "timestamp": "00:10:27",
+      "end_timestamp": "00:10:39",
+      "quote": "TikTok's US monthly audience is somewhere around 136 million people.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the vast potential audience on TikTok.",
+      "suggested_hook": "Think TikTok is just for teens? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Answer client questions on TikTok.",
+      "context": "Use real client questions to create content.",
+      "timestamp": "00:06:02"
+    },
+    {
+      "tactic": "Plant the flag with local content.",
+      "context": "Mention specific local details to target local audiences.",
+      "timestamp": "00:07:43"
+    },
+    {
+      "tactic": "Post consistently without editing.",
+      "context": "Focus on regular posting rather than perfect content.",
+      "timestamp": "00:08:52"
+    }
+  ],
+  "quotable_insights": [
+    "A small audience with zero competition beats a huge audience where you're shouting over nine and 10 agents.",
+    "Perfect becomes the excuse for zero every time."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "captions.ai",
+      "context": "Used for video editing to enhance TikTok content."
+    }
+  ],
+  "episode_summary": "This episode introduces the 'Empty Stage Method,' encouraging real estate agents to leverage TikTok for lead generation. With low competition and a large audience, TikTok offers a unique opportunity for agents to stand out by posting consistent, local content. Overcoming common barriers and misconceptions about the platform can position agents as trusted local experts.",
+  "_metadata": {
+    "source_file": "2026-06-22_item1_Coffee-Talks",
+    "analyzed_at": "2026-06-23T05:35:26.450968",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

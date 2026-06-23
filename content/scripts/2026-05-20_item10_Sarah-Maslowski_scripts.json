@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:17:03",
+      "end_timestamp": "00:17:30",
+      "quote": "By the time somebody calls you from watching your YouTube videos, they're going to want to feel like they know you already.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the personal connection and trust built through video content.",
+      "suggested_hook": "Want clients to feel like they already know you before the first call?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want clients to feel like they already know you before the first call?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gina DiAngelo shared something powerful on our latest episode. You're posting videos, hoping for leads, but nobody's calling. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"By the time somebody calls you from watching your YouTube videos, they're going to want to feel like they know you already. [ON-SCREEN: Personal Connection] Most agents post generic content. Top producers build trust and familiarity. [ON-SCREEN: Build Trust] This connection turns viewers into clients.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start creating videos that showcase your personality. You can do this today. Gina closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Build trust before the first call. Your YouTube content can seal the deal! 📞\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#LeadGeneration\", \"#PersonalBrand\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"By the time somebody calls you from watching your YouTube videos, they're going to want to feel like they know you already.\"\n}\n```"
+  }
+]

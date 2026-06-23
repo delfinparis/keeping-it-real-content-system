@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "39:02",
+      "end_timestamp": "40:06",
+      "quote": "If Will's buyer cancels before day 5, I'll wire you $10,000. If he cancels between day 5 and 15, I'll wire you $15,000.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a novel approach to reducing deal cancellations and providing seller assurance.",
+      "suggested_hook": "Discover how one agent is guaranteeing offers to win more deals."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What if you could guarantee your offers with cash?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing tactic to stop deal cancellations. Imagine this: you're about to close, but the buyer backs out last minute. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'If Will's buyer cancels before day 5, I'll wire you $10,000. If he cancels between day 5 and 15, I'll wire you $15,000.' [ON-SCREEN: $10,000 guarantee] This tactic gives sellers confidence and keeps deals moving forward. Most agents hope for the best. Top producers guarantee it.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start offering this assurance today. Ben's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed] Imagine what it could do for you.\",\n    \"CTA\": \"Would you offer a guarantee like this — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Guarantee your offers and win more deals. Would you try this tactic? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#DealClosing\", \"#RealEstateHacks\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents hope for the best. Top producers guarantee it.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "54:00",
+      "end_timestamp": "55:00",
+      "quote": "In the last three months, I have 4xed my reach... and the National Association of REALTORS called me an influencer.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Shows the impact of using AI for content creation and personal branding.",
+      "suggested_hook": "How AI helped me become a real estate influencer in just three months."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"How AI turned me into a real estate influencer in 3 months.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez recently shared how he skyrocketed his reach using AI. Imagine posting content, but it feels like shouting into the void. That's where many agents find themselves.\",\n    \"INSIGHT\": \"In just three months, Ben 4xed his reach, and the National Association of REALTORS called him an influencer. [ON-SCREEN: 4x Reach] He leveraged AI to create engaging content that resonated with his audience. [ON-SCREEN: AI-Driven Content] Most agents post sporadically. Ben's consistent, AI-driven strategy made the difference. [ON-SCREEN: Consistent Strategy]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI can amplify your voice today. Start with one AI tool to streamline your content. Ben's approach led to massive recognition. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you using AI for your content — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how AI transformed Ben Lalez into a real estate influencer in just 3 months!\",\n  \"HASHTAGS\": [\"#RealEstateInfluencer\", \"#AIinRealEstate\", \"#ContentCreation\", \"#RealtorTips\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"In just three months, Ben 4xed his reach, and the National Association of REALTORS called him an influencer.\"\n}\n```"
+  }
+]

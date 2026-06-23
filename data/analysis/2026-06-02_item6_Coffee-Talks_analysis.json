@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Pre-listing strategies",
+    "Three-week median for home sales",
+    "Price reduction timing",
+    "Importance of launch preparation",
+    "Market behavior and adaptation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Listings sitting on the market too long and losing value",
+      "solution_summary": "Implement a three-weekend system to ensure listings are priced right, launched effectively, and evaluated promptly.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents not having a structured approach to listings",
+      "solution_summary": "Use a structured three-weekend system: launch, verdict, and reset to manage listings effectively.",
+      "timestamp": "00:06:27"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to different market conditions",
+      "solution_summary": "Adjust the three-weekend system to fit the local market median, whether it's three weeks or longer.",
+      "timestamp": "00:10:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents often struggle with listings that don't sell quickly.",
+      "key_takeaway": "Implementing a structured three-weekend system can significantly improve listing outcomes."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers need efficient systems to maximize their sales potential.",
+      "key_takeaway": "A disciplined approach to listing management can enhance sales performance and client satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:02",
+      "end_timestamp": "00:08:49",
+      "quote": "Weekend one is about collecting data and offers are a bonus. Data is the requirement.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of data-driven decision-making in real estate.",
+      "suggested_hook": "Why your first weekend on the market is all about data, not offers."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a three-weekend system for listings",
+      "context": "Use this system to ensure listings are priced right, launched effectively, and evaluated promptly.",
+      "timestamp": "00:06:27"
+    },
+    {
+      "tactic": "Conduct a 'launch' for every listing",
+      "context": "Ensure the listing is fully prepared with photos, open houses, and social media pushes.",
+      "timestamp": "00:07:00"
+    }
+  ],
+  "quotable_insights": [
+    "A listing agent hopes the right buyer shows up, but a listing manager checks the day count, sends the text, and blocks Saturday."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode provides a detailed strategy for managing real estate listings using a three-weekend system. It emphasizes the importance of a structured approach to pricing, launching, and evaluating listings to ensure quick sales and maximize seller equity. The discussion also covers adapting this system to different market conditions and the critical role of data in decision-making.",
+  "_metadata": {
+    "source_file": "2026-06-02_item6_Coffee-Talks",
+    "analyzed_at": "2026-06-23T05:31:55.685626",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

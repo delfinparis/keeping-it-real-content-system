@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Luxury Real Estate Agent",
+    "company": "Carrie McCormick Group",
+    "production_level": "Top 1% producer",
+    "specialty": "Luxury properties, first-time home buyers, veteran investors",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "AI's impact on luxury real estate",
+    "Building relationships in real estate",
+    "The importance of personal branding and digital presence",
+    "Navigating multiple offers in a competitive market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the evolving needs of luxury clients",
+      "solution_summary": "Luxury clients are now seeking lifestyle optimization, focusing on wellness and turnkey properties.",
+      "timestamp": "04:18"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded digital space",
+      "solution_summary": "Focus on AI optimization for branding and digital presence, including video content and social media.",
+      "timestamp": "10:25"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling multiple offers effectively",
+      "solution_summary": "Build rapport with the seller's agent and understand seller's needs to tailor offers accordingly.",
+      "timestamp": "22:26"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into the luxury market and how to cater to high-end clients.",
+      "key_takeaway": "Building strong relationships and understanding the unique needs of luxury clients are crucial for success."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies for enhancing digital presence and leveraging AI for personal branding.",
+      "key_takeaway": "Embrace AI and digital tools to improve your market visibility and client engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:04",
+      "end_timestamp": "05:37",
+      "quote": "They're not just buying square footage anymore. They're buying lifestyle optimization.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a shift in luxury client preferences, which is crucial for agents to understand.",
+      "suggested_hook": "Discover what today's luxury clients really want in a home."
+    },
+    {
+      "timestamp": "24:27",
+      "end_timestamp": "25:00",
+      "quote": "She had AI turn it into a beautiful watercolor... and said, we love your home.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates a creative and heartfelt approach to making an offer stand out.",
+      "suggested_hook": "Want to make your offer unforgettable? Here's a creative tip."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to create personalized gifts for sellers.",
+      "context": "To make an offer stand out in a competitive market.",
+      "timestamp": "24:27"
+    },
+    {
+      "tactic": "Build rapport with the seller's agent during showings.",
+      "context": "To increase the chances of your offer being accepted.",
+      "timestamp": "22:26"
+    }
+  ],
+  "quotable_insights": [
+    "Being nice to people is an undervalued currency in real estate.",
+    "Luxury buyers are now looking for lifestyle optimization, not just square footage."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the evolving landscape of luxury real estate, emphasizing the importance of lifestyle optimization for high-end clients. She also highlights the role of AI in personal branding and digital presence, offering strategies for standing out in a competitive market. Additionally, Carrie shares insights on building strong relationships and navigating multiple offers effectively.",
+  "_metadata": {
+    "source_file": "2026-06-16_item3_Carrie-McCormick",
+    "analyzed_at": "2026-06-23T05:34:23.508916",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

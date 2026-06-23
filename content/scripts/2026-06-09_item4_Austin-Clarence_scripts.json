@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:33",
+      "end_timestamp": "00:06:33",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights a significant change in the mortgage approval process that many are unaware of.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know your credit karma score can now help you get a mortgage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just revealed a game-changer in mortgage approvals. If you're self-employed or a first-time homebuyer, you know the struggle of getting approved. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You can now use that credit karma score to get approved for a mortgage. This is huge. [ON-SCREEN: Vantage Score for Mortgages] It opens up opportunities for those who previously struggled with traditional credit checks. [ON-SCREEN: Self-Employed Advantage] Most agents overlook this, but top producers are already leveraging it.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start using this today to help more clients secure their dream homes. [ON-SCREEN: Act Now] This insight is what helped Austin close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your Credit Karma score could be your ticket to a new home! 🏡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageApproval\", \"#CreditKarma\", \"#HomeBuying\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"You can now use that credit karma score to get approved for a mortgage. This is huge.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:34:12",
+      "end_timestamp": "00:35:17",
+      "quote": "A three and a half percent down profit and loss loan... you can use that to qualify for a loan instead of your actual tax return income.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a concrete solution for self-employed individuals struggling with traditional loan qualifications.",
+      "suggested_hook": "Self-employed? Here's a new way to qualify for a mortgage."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Self-employed? Here's a new way to qualify for a mortgage.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changing tip for self-employed individuals struggling to qualify for a mortgage. If you're tired of banks rejecting your loan applications due to inconsistent tax returns, this is for you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin revealed a three and a half percent down profit and loss loan. [ON-SCREEN: 3.5% Down P&L Loan] You can use this to qualify for a loan instead of your actual tax return income. [ON-SCREEN: Qualify Without Tax Returns] This means more flexibility and a better chance of approval. [ON-SCREEN: Better Approval Odds]\",\n    \"REFRAME/APPLICATION\": \"This matters now because it opens doors for self-employed buyers who felt stuck. You can explore this option today and potentially secure your dream home. [ON-SCREEN: Explore Today]\",\n    \"CTA\": \"Have you tried this method yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Self-employed? Discover a new way to qualify for a mortgage with just 3.5% down!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageAdvice\", \"#SelfEmployed\", \"#HomeBuying\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You can use a 3.5% down profit and loss loan to qualify instead of tax returns.\"\n}\n```"
+  }
+]

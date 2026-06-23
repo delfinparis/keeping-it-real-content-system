@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": null,
+    "specialty": "Real estate industry technology and AI",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "AI visibility and citation density",
+    "Real estate mergers and acquisitions",
+    "Building a personal brand in real estate",
+    "Content creation for real estate agents",
+    "Impact of industry consolidation on agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of mergers on individual agents",
+      "solution_summary": "Agents should focus on building their personal brand independent of brokerage identity.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents being invisible to AI-generated answers",
+      "solution_summary": "Create content that answers specific questions and diversify where that content appears.",
+      "timestamp": "06:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for increasing visibility and brand differentiation.",
+      "key_takeaway": "Focus on creating content that AI can cite and build a brand independent of your brokerage."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:00",
+      "end_timestamp": "07:30",
+      "quote": "Agents are asking how do I rank in AI, but what they should be asking is why in the world would AI ever cite them in the first place.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges agents to rethink their approach to AI and content creation.",
+      "suggested_hook": "Are you asking the wrong questions about AI in real estate?"
+    },
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "28:00",
+      "quote": "If your brand is tied too closely to your brokerage, you're operating in a business model that ended 20 years ago.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Provokes thought on the importance of personal branding over brokerage branding.",
+      "suggested_hook": "Is your real estate brand stuck in the past?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Get cited on authoritative sites like .edu and .gov",
+      "context": "Participate in local educational events or government meetings to increase citation density.",
+      "timestamp": "10:00"
+    },
+    {
+      "tactic": "Create content that answers specific questions",
+      "context": "Focus on providing valuable information that AI can use to cite you as an expert.",
+      "timestamp": "06:00"
+    }
+  ],
+  "quotable_insights": [
+    "Content is lead generation in this business.",
+    "Your brand should operate regardless of the brokerage logo on your letterhead."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to convert leads."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the importance of building a personal brand independent of brokerage identity, especially in light of recent real estate mergers. He emphasizes the need for agents to create content that AI can cite, focusing on answering specific questions to increase visibility. The conversation also covers the potential impact of industry consolidation on agents and the opportunities for independent brokerages.",
+  "_metadata": {
+    "source_file": "2026-05-25_item9_Chris-Linsell",
+    "analyzed_at": "2026-06-23T05:30:21.410515",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

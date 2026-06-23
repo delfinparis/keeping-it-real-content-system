@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "High Performance Hypnotherapist and Mindset Coach",
+    "company": "",
+    "production_level": "",
+    "specialty": "Helping real estate professionals get unstuck and level up",
+    "location": ""
+  },
+  "main_topics": [
+    "Balancing success and personal life",
+    "Importance of recalibrating routines",
+    "Avoiding burnout in real estate",
+    "Prioritizing self-care and family",
+    "Leveraging intentional limitations for innovation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling overwhelmed and disconnected due to constant availability",
+      "solution_summary": "Return to the fundamentals and recalibrate routines to maintain balance and effectiveness.",
+      "timestamp": "07:03"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Lack of time for personal care and family due to work commitments",
+      "solution_summary": "Audit your calendar to prioritize self-care and family time before work commitments.",
+      "timestamp": "19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the challenges of maintaining balance after achieving success.",
+      "key_takeaway": "Recalibrating routines and prioritizing personal time can prevent burnout and enhance long-term success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:02",
+      "end_timestamp": "13:45",
+      "quote": "You need to have an understanding between intensity and consistency. Both are vital for success.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that constant intensity is necessary for success, highlighting the importance of consistency.",
+      "suggested_hook": "Are you sprinting through your real estate career without a break? Here's why that might be holding you back."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Audit your calendar to prioritize self-care and family time.",
+      "context": "Use this tactic to ensure your personal life is not sacrificed for work commitments.",
+      "timestamp": "19:00"
+    }
+  ],
+  "quotable_insights": [
+    "Intensity is necessary to get ahead, but it's what you achieve through intensity that is maintained by consistency."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended as a recruiting and retention tool powered by AI to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the dangers of constant availability in real estate and the importance of recalibrating routines to maintain balance and effectiveness. He emphasizes the need to prioritize self-care and family time to prevent burnout and sustain long-term success. Salter provides actionable advice on auditing calendars and leveraging intentional limitations to drive innovation and creativity.",
+  "_metadata": {
+    "source_file": "2026-05-28_item8_Paul-Salter",
+    "analyzed_at": "2026-06-23T05:30:49.796536",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
