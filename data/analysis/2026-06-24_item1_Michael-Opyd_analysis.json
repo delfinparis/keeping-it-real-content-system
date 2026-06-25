@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "Real Estate Coach",
+    "company": "Not specified",
+    "production_level": "Top producer, $200M in annual sales as a brokerage owner",
+    "specialty": "Mental performance strategist",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Balancing real estate career with family life",
+    "Importance of systems and organization",
+    "Focusing on high-value clients",
+    "Managing stress and overwhelm",
+    "Consistency and compounding effects in business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Struggling to balance work and family life, leading to stress and lack of organization",
+      "solution_summary": "Focus on allocating lower-value tasks to others and setting clear boundaries for work to free up time for family and personal care.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems leading to chaotic work processes",
+      "solution_summary": "Implement systems for delegating tasks and focus on high-value clients to streamline operations.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling overwhelmed and unable to manage stress",
+      "solution_summary": "Adopt a daily routine that includes time for self-care and reflection to manage stress levels.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the challenges of maintaining high performance while managing personal life and stress.",
+      "key_takeaway": "Delegating tasks and focusing on high-value clients can help maintain balance and reduce stress."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into achieving high production levels through strategic client focus and personal management.",
+      "key_takeaway": "Consistency and focusing on the right clients are key to scaling your business effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "45:10",
+      "end_timestamp": "46:00",
+      "quote": "If you don't fix this today, what's it going to look like six months down the line?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges listeners to consider the long-term impact of their current habits.",
+      "suggested_hook": "Are your current habits setting you up for future success or failure?"
+    },
+    {
+      "timestamp": "56:30",
+      "end_timestamp": "57:15",
+      "quote": "Focus on what is going to take care of the life part of what you want to achieve.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the importance of aligning business goals with personal life goals.",
+      "suggested_hook": "Is your business supporting the life you want to live?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Delegate lower-value tasks to free up time for high-value activities.",
+      "context": "When feeling overwhelmed by workload and unable to focus on high-priority tasks.",
+      "timestamp": "31:00"
+    },
+    {
+      "tactic": "Set a price point threshold for personal involvement in transactions.",
+      "context": "To ensure focus remains on high-value clients and transactions.",
+      "timestamp": "44:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a 'you' problem.",
+    "Consistency is the biggest difference between successful and unsuccessful people."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for agent recruitment and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches Julia Linquist on balancing her real estate career with family life. They discuss the importance of implementing systems, focusing on high-value clients, and managing stress through consistent daily practices. Listeners will gain insights into achieving business success while maintaining personal well-being.",
+  "_metadata": {
+    "source_file": "2026-06-24_item1_Michael-Opyd",
+    "analyzed_at": "2026-06-25T05:38:30.674329",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "06:05",
+      "end_timestamp": "07:06",
+      "quote": "Don't just come to them with recommendations. I come to them with solutions.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This moment highlights a practical approach to client management that can be immediately implemented.",
+      "suggested_hook": "Struggling to get your listings ready? Here's a game-changing approach."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling to get your listings ready? Here's a game-changing approach.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a powerful strategy on our podcast. You're prepping a home for listing, but your clients are overwhelmed. They need more than just advice.\",\n    \"INSIGHT\": \"Natalie says, 'Don't just come to them with recommendations. I come to them with solutions.' [ON-SCREEN: Solutions, Not Just Recommendations] Most agents offer advice. Top producers deliver actionable solutions. [ON-SCREEN: Actionable Solutions] This approach transforms client trust and listing readiness.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can implement this today. Natalie closed 47 deals last year using this exact method. [ON-SCREEN: 47 Deals Closed] Start offering solutions, not just advice.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform your client interactions with solutions, not just recommendations. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientManagement\", \"#TopProducer\", \"#AgentAdvice\", \"#ListingSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents offer advice. Top producers deliver actionable solutions.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "11:09",
+      "end_timestamp": "12:00",
+      "quote": "Do what you love and organically spread your name and your services through what you love.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This advice encourages agents to leverage their passions for business growth.",
+      "suggested_hook": "Want to grow your real estate business without cold calling? Here's how."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to grow your real estate business without cold calling? Here's how.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a game-changing tip on our latest episode. If you're tired of endless cold calls and feeling like your efforts aren't paying off, this is for you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie says, 'Do what you love and organically spread your name and your services through what you love.' [ON-SCREEN: Do what you love] Most agents chase leads. Top producers leverage their passions. [ON-SCREEN: Leverage your passions] Imagine turning your hobbies into a lead generation machine.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by integrating your interests into your business strategy. Natalie closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals last year]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Turn your passions into your best lead generation tool. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#AgentSuccess\",\n    \"#LeadGeneration\",\n    \"#DoWhatYouLove\",\n    \"#TopProducer\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Do what you love and organically spread your name and your services through what you love.\"\n}\n```"
+  }
+]

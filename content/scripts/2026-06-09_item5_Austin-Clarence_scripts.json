@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:35",
+      "end_timestamp": "00:06:20",
+      "quote": "You can now use that Credit Karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Reveals a significant change in mortgage lending that could impact many potential buyers.",
+      "suggested_hook": "Did you know your Credit Karma score can now help you get a mortgage?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Did you know your Credit Karma score can now help you get a mortgage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just revealed a game-changer for home buyers. Imagine you're ready to buy, but your credit score is holding you back. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You can now use that Credit Karma score to get approved for a mortgage. This is huge. [ON-SCREEN: Credit Karma score for mortgage] Most lenders ignored these scores, but now they're a viable option. [ON-SCREEN: Lenders accept Credit Karma] This opens doors for many potential buyers who felt stuck. [ON-SCREEN: New opportunities]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter right now? Because you can leverage this today to help clients who thought they couldn't qualify. [ON-SCREEN: Act now] Austin Clarence, who helped 30 clients last year, says this is a game-changer.\",\n    \"CTA\": \"Are you using Credit Karma scores for your clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Credit Karma scores can now help you get a mortgage. Are you ready? #RealEstate\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#MortgageTips\", \"#CreditKarma\", \"#HomeBuying\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"You can now use that Credit Karma score to get approved for a mortgage. This is huge.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:34:12",
+      "end_timestamp": "00:35:17",
+      "quote": "There's a three and a half percent down profit and loss loan for self-employed individuals.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a specific solution for a common problem faced by self-employed individuals.",
+      "suggested_hook": "Self-employed? Here's a new loan option just for you."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Self-employed? Here's a loan option you didn't know existed.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changer for self-employed individuals on our podcast. If you're self-employed, you know the struggle of getting a mortgage. Traditional loans often require extensive documentation and higher down payments. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"There's a three and a half percent down profit and loss loan specifically for self-employed individuals. [ON-SCREEN: 3.5% Down Loan] This means you can leverage your profit and loss statements instead of traditional income verification. [ON-SCREEN: Use P&L Statements] It's a tailored solution that opens doors for many who felt stuck. [ON-SCREEN: New Loan Option]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? With current economic shifts, accessing this loan can be a game-changer. You can explore this option today and potentially secure your dream home. [ON-SCREEN: Act Now]\",\n    \"CTA\": \"Are you considering this loan option — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Self-employed? Discover a new loan option just for you. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#SelfEmployed\",\n    \"#MortgageTips\",\n    \"#HomeBuying\",\n    \"#LoanOptions\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"There's a three and a half percent down profit and loss loan specifically for self-employed individuals.\"\n}\n```"
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexel Lending",
+    "production_level": "Top producing",
+    "specialty": "Solving complex financial scenarios and investor financing",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Credit Karma and Vantage Score for Mortgages",
+    "Opportunities with Older Home Buyers",
+    "Current Mortgage Rates and Economic Factors",
+    "Self-Employed Borrowers and New Loan Options"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Traditional FICO scores not reflecting true creditworthiness",
+      "solution_summary": "Lenders are starting to accept Vantage scores, which often reflect higher credit scores.",
+      "timestamp": "00:05:06"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Challenges for self-employed individuals in qualifying for loans",
+      "solution_summary": "New loan options like profit and loss loans and bank statement loans are available.",
+      "timestamp": "00:34:12"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Rising age of first-time home buyers",
+      "solution_summary": "Focus on older buyers who have equity and may be looking to downsize or invest.",
+      "timestamp": "00:22:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights into new credit scoring models and loan products that can help close more deals.",
+      "key_takeaway": "Explore new credit scoring and loan options to better serve clients and close more deals."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Understanding new market trends and tools can help lead a team more effectively.",
+      "key_takeaway": "Educate your team on new credit and loan options to improve client service."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:35",
+      "end_timestamp": "00:06:20",
+      "quote": "You can now use that Credit Karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Reveals a significant change in mortgage lending that could impact many potential buyers.",
+      "suggested_hook": "Did you know your Credit Karma score can now help you get a mortgage?"
+    },
+    {
+      "timestamp": "00:34:12",
+      "end_timestamp": "00:35:17",
+      "quote": "There's a three and a half percent down profit and loss loan for self-employed individuals.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a specific solution for a common problem faced by self-employed individuals.",
+      "suggested_hook": "Self-employed? Here's a new loan option just for you."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Encourage clients to use Credit Karma to track their Vantage score.",
+      "context": "To potentially qualify for better mortgage terms.",
+      "timestamp": "00:06:20"
+    },
+    {
+      "tactic": "Focus on older buyers who may have equity and are looking to downsize or invest.",
+      "context": "To tap into a growing market segment.",
+      "timestamp": "00:22:01"
+    },
+    {
+      "tactic": "Use profit and loss statements for self-employed clients to qualify for loans.",
+      "context": "To help self-employed clients who can't qualify with traditional tax returns.",
+      "timestamp": "00:34:12"
+    }
+  ],
+  "quotable_insights": [
+    "The average age of home buyers is now 59, presenting a huge opportunity for agents."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Credit Karma",
+      "context": "To track Vantage scores that can now be used for mortgage qualification."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the significant shift in mortgage lending with the acceptance of Vantage scores, providing new opportunities for borrowers with higher scores. He also highlights the growing market of older home buyers and introduces innovative loan products for self-employed individuals, offering actionable insights for real estate agents to better serve their clients.",
+  "_metadata": {
+    "source_file": "2026-06-09_item5_Austin-Clarence",
+    "analyzed_at": "2026-06-25T05:35:50.545882",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

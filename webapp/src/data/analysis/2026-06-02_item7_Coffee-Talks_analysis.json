@@ -1,0 +1,90 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Pre-listing strategies",
+    "Three-week median market time",
+    "Price reduction tactics",
+    "Listing launch systems",
+    "Market adaptation strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Listings sitting too long on the market",
+      "solution_summary": "Implement a three-weekend system: launch, verdict, and reset to ensure listings sell quickly.",
+      "timestamp": "00:04:03"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of effective listing launch",
+      "solution_summary": "Create a structured launch with a 72-hour plan including MLS listing, open house, and social media push.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to different market conditions",
+      "solution_summary": "Adjust the three-weekend system to fit the local market median, whether it's three weeks or more.",
+      "timestamp": "00:10:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides a structured system to improve listing sales, which is crucial for agents struggling to close deals.",
+      "key_takeaway": "Implement the three-weekend system to ensure listings sell quickly and at the desired price."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode offers insights into optimizing listing strategies to maximize sales and client satisfaction.",
+      "key_takeaway": "Use data-driven decisions to adjust pricing and marketing strategies within the first two weeks of listing."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:07:00",
+      "end_timestamp": "00:07:38",
+      "quote": "Weekend one is about collecting data and offers are a bonus. Data is the requirement.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This emphasizes the importance of data-driven decision-making in real estate.",
+      "suggested_hook": "Are you relying on luck to sell your listings? Here's why data is your best friend."
+    },
+    {
+      "timestamp": "00:09:21",
+      "end_timestamp": "00:09:31",
+      "quote": "You don't just chip the price. You relist it as if it's day one.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of simply reducing prices without a strategic relaunch.",
+      "suggested_hook": "Think price cuts are the answer? Here's a better strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement a three-weekend system for listings",
+      "context": "Use a structured approach with specific tasks for each weekend to ensure listings sell quickly.",
+      "timestamp": "00:06:38"
+    },
+    {
+      "tactic": "Conduct a thorough launch preparation",
+      "context": "Prepare the seller and build a buyer queue before the listing goes live.",
+      "timestamp": "00:12:08"
+    }
+  ],
+  "quotable_insights": [
+    "A listing agent hopes the right buyer shows up, but a listing manager checks the day count, sends the text, and blocks Saturday."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode of Coffee Talks with DJ Paris and Tim Littleton focuses on a structured three-weekend system to optimize real estate listings. By emphasizing data collection, strategic launches, and timely adjustments, agents can ensure quicker sales and better client satisfaction. The discussion also highlights the importance of adapting strategies to fit varying market conditions.",
+  "_metadata": {
+    "source_file": "2026-06-02_item7_Coffee-Talks",
+    "analyzed_at": "2026-06-25T05:34:10.895142",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:07:00",
+      "end_timestamp": "00:07:38",
+      "quote": "Weekend one is about collecting data and offers are a bonus. Data is the requirement.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This emphasizes the importance of data-driven decision-making in real estate.",
+      "suggested_hook": "Are you relying on luck to sell your listings? Here's why data is your best friend."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you relying on luck to sell your listings?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a game-changing insight on our latest episode. You're launching a new listing, hoping for offers, but nothing's coming in. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Weekend one is about collecting data, and offers are a bonus. Data is the requirement. [ON-SCREEN: Collect Data First] Most agents hope for offers immediately. Top producers gather insights to adjust their strategy. [ON-SCREEN: Data-Driven Decisions]\",\n    \"REFRAME/APPLICATION\": \"This matters because adapting to market feedback can shorten your listing's market time. You can start applying this today by analyzing weekend traffic and feedback. Tim closed 47 deals last year using exactly this approach. [ON-SCREEN: Adapt and Succeed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop relying on luck. Use data to drive your real estate success! 📊 #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#DataDriven\",\n    \"#ListingSuccess\",\n    \"#MarketStrategy\",\n    \"#TopProducer\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Weekend one is about collecting data, and offers are a bonus. Data is the requirement.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:21",
+      "end_timestamp": "00:09:31",
+      "quote": "You don't just chip the price. You relist it as if it's day one.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of simply reducing prices without a strategic relaunch.",
+      "suggested_hook": "Think price cuts are the answer? Here's a better strategy."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think price cuts are the answer? Here's a better strategy.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton just dropped a bombshell on our latest episode. If you're like most agents, you've probably slashed prices hoping for a quick sale. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim says, 'You don't just chip the price. You relist it as if it's day one.' [ON-SCREEN: Relist as Day One] Most agents cut prices and wait. Top producers relaunch with a fresh strategy. [ON-SCREEN: Fresh Strategy] This isn't just a price drop; it's a market re-entry. [ON-SCREEN: Market Re-entry]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can do this today. Tim closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed] It's time to rethink your strategy.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop slashing prices. Start relaunching. Here's how to do it right. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ListingStrategy\", \"#AgentAdvice\", \"#MarketSavvy\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You don't just chip the price. You relist it as if it's day one.\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Group",
+    "production_level": "Top 1%",
+    "specialty": "Luxury Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "AI's impact on luxury real estate",
+    "The evolving needs of luxury buyers",
+    "The importance of personal branding and digital presence",
+    "Strategies for winning multiple offer situations",
+    "The significance of relationships in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the changing landscape of luxury real estate due to AI",
+      "solution_summary": "Luxury buyers are now driven by AI wealth, focusing on lifestyle optimization rather than traditional metrics like interest rates.",
+      "timestamp": "04:34"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Positioning oneself as an expert online",
+      "solution_summary": "Agents need to focus on AI optimization for branding and digital presence, moving beyond SEO to GEO.",
+      "timestamp": "11:03"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Winning in multiple offer situations",
+      "solution_summary": "Build rapport with the seller's agent and understand the seller's needs to tailor offers accordingly.",
+      "timestamp": "22:28"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into the luxury market and how to leverage AI for business growth.",
+      "key_takeaway": "Understanding AI-driven trends and focusing on personal branding can elevate your position in the luxury market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can learn how to guide their agents in adapting to new market dynamics and technology.",
+      "key_takeaway": "Encourage agents to build strong relationships and leverage AI tools for better market positioning."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:04",
+      "end_timestamp": "06:17",
+      "quote": "They're not just buying square footage anymore. They're buying lifestyle optimization.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights a shift in luxury buyer priorities, which is crucial for agents to understand.",
+      "suggested_hook": "Discover why luxury buyers are focusing on lifestyle optimization over square footage."
+    },
+    {
+      "timestamp": "24:27",
+      "end_timestamp": "25:00",
+      "quote": "They took a picture of the home, had AI turn it into a watercolor, and left it with a personal note.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This unique tactic for standing out in multiple offers is both creative and actionable.",
+      "suggested_hook": "Want to win a bidding war? Try this creative tactic!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to enhance personal branding and digital presence.",
+      "context": "Focus on creating content that feeds AI engines to improve search visibility.",
+      "timestamp": "11:03"
+    },
+    {
+      "tactic": "Build rapport with the seller's agent during showings.",
+      "context": "Engage in meaningful conversations to make your clients memorable.",
+      "timestamp": "22:28"
+    }
+  ],
+  "quotable_insights": [
+    "Being nice and building relationships is an undervalued currency in real estate.",
+    "Luxury real estate is behaving like its own economy, driven by AI wealth."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "Recommended for agents to generate more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the impact of AI on luxury real estate, emphasizing the shift towards lifestyle optimization among high-end buyers. She highlights the importance of personal branding and digital presence in the AI era, offering strategies for agents to stand out in competitive markets. The conversation also covers practical tips for winning multiple offer situations and the value of building strong relationships in the industry.",
+  "_metadata": {
+    "source_file": "2026-06-16_item4_Carrie-McCormick",
+    "analyzed_at": "2026-06-25T05:36:34.090339",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

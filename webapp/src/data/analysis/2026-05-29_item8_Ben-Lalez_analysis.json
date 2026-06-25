@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Ben Lalez Group",
+    "production_level": "$200M+ producer",
+    "specialty": "Residential Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Compass, Zillow, MLS dispute",
+    "AI in real estate",
+    "Agent advocacy",
+    "Market trends",
+    "Innovative solutions for real estate challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Control over listing data and its implications for agents",
+      "solution_summary": "Agents should advocate for their own interests and not align solely with large corporations.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "High cancellation rates in real estate deals",
+      "solution_summary": "Implement a cancellation insurance model using AI to predict and mitigate risks.",
+      "timestamp": "36:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Cold call reluctance",
+      "solution_summary": "Use AI to create a personalized dashboard that motivates and tracks call progress.",
+      "timestamp": "60:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging AI to gain a competitive edge.",
+      "key_takeaway": "AI can be used to create bespoke solutions that address specific business challenges."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses innovative strategies for team management and client acquisition.",
+      "key_takeaway": "Implementing unique value propositions like cancellation insurance can differentiate your team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "36:00",
+      "end_timestamp": "37:00",
+      "quote": "The only thing sellers actually care about is that their property is sold.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It challenges agents to rethink what truly matters to sellers.",
+      "suggested_hook": "Do you know what sellers really want?"
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "I DM'd a Chicago Bulls player and used AI to find the perfect rental for him.",
+      "clip_type": "personal_story",
+      "why_clipworthy": "Demonstrates a creative use of AI in real estate.",
+      "suggested_hook": "How AI helped me find the perfect home for an NBA player."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to predict deal cancellations.",
+      "context": "Analyze past transaction data to offer cancellation insurance.",
+      "timestamp": "38:00"
+    },
+    {
+      "tactic": "Automate daily news gathering with AI.",
+      "context": "Set up AI to deliver daily industry news summaries.",
+      "timestamp": "53:00"
+    }
+  ],
+  "quotable_insights": [
+    "Agents are the largest free content source on planet earth.",
+    "Every problem that real estate agents are having, there is a creative solution."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for AI-driven solutions in real estate."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the ongoing dispute between Compass, Zillow, and MLS, highlighting the need for agent advocacy. He shares innovative ways to use AI for solving real estate challenges, such as predicting deal cancellations and automating news gathering. The episode provides actionable insights for agents looking to leverage technology to gain a competitive edge.",
+  "_metadata": {
+    "source_file": "2026-05-29_item8_Ben-Lalez",
+    "analyzed_at": "2026-06-25T05:33:46.852357",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
