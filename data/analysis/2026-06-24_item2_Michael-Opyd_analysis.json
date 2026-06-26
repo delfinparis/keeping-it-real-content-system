@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "Real Estate Coach and Mental Performance Strategist",
+    "company": "Not specified",
+    "production_level": "Over $200 million in annual sales as a brokerage owner",
+    "specialty": "High-performance coaching and mental strategies",
+    "location": "Chicago, IL"
+  },
+  "main_topics": [
+    "Balancing work and family life as a real estate agent",
+    "Importance of systems and organization in real estate",
+    "Focusing on income goals rather than production volume",
+    "Delegating tasks to manage stress and workload",
+    "Creating consistent habits for long-term success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Struggling to balance family life and real estate business",
+      "solution_summary": "Delegate tasks and focus on higher income-producing activities to free up time for family.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems and organization in business operations",
+      "solution_summary": "Implement systems that allow for delegation and focus on core business activities.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling overwhelmed and stressed due to high expectations",
+      "solution_summary": "Focus on daily habits and small consistent actions to reduce stress and improve performance.",
+      "timestamp": "35:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the challenges of balancing a successful career with personal life.",
+      "key_takeaway": "Delegating tasks and focusing on high-value activities can reduce stress and improve work-life balance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "47:00",
+      "end_timestamp": "48:00",
+      "quote": "If you don't fix this today, your clients won't get the best version of you.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of self-care and delegation for providing quality service.",
+      "suggested_hook": "Are you giving your clients the best version of you?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Delegate lower-value tasks to free up time for high-value activities.",
+      "context": "When feeling overwhelmed by workload and unable to focus on important tasks.",
+      "timestamp": "50:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a you problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches Julia Linquist on balancing her successful real estate career with family life. They discuss the importance of delegating tasks, focusing on income goals, and creating consistent habits to reduce stress and improve productivity. Listeners will gain insights into managing workload and maintaining a healthy work-life balance.",
+  "_metadata": {
+    "source_file": "2026-06-24_item2_Michael-Opyd",
+    "analyzed_at": "2026-06-26T05:40:48.416036",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

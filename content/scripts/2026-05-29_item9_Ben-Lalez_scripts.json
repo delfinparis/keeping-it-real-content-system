@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "36:00",
+      "end_timestamp": "37:00",
+      "quote": "The only thing sellers actually care about is that their property is sold.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the core motivation of sellers, which can be a powerful insight for agents.",
+      "suggested_hook": "What do sellers really care about? It's simpler than you think."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"What do sellers really care about? It's simpler than you think.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a powerful insight on our latest episode. As an agent, you're juggling marketing, negotiations, and client relations, but what's the one thing sellers truly care about? It's not what you might expect. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben said, 'The only thing sellers actually care about is that their property is sold.' [ON-SCREEN: Property Sold] Most agents focus on flashy presentations. Top producers zero in on closing the deal. [ON-SCREEN: Close the Deal]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can shift your focus today. Prioritize closing strategies and see results. Ben closed 47 deals last year using this exact approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you focusing on the right thing — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Sellers only care about one thing: closing the deal. Are you focusing on it?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#CloseTheDeal\", \"#SellerFocus\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The only thing sellers actually care about is that their property is sold.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:05",
+      "end_timestamp": "25:50",
+      "quote": "I DM'd a Chicago Bulls player... and AI found the perfect rental for him.",
+      "clip_type": "personal_story",
+      "why_clipworthy": "Demonstrates the practical application of AI in real estate with a compelling story.",
+      "suggested_hook": "How AI helped me find a home for an NBA player in minutes."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"How AI helped me find a home for an NBA player in minutes.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine you’ve got a high-profile client, like a Chicago Bulls player, and you need to find them the perfect rental fast. You're scrolling through endless listings, feeling the pressure. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben Lalez shared how he DM'd a Chicago Bulls player and used AI to find the perfect rental in minutes. [ON-SCREEN: AI found perfect rental] Most agents manually sift through listings. Ben used AI to instantly match the player's needs. [ON-SCREEN: Instant match with AI] This isn't just a time-saver; it's a game-changer. [ON-SCREEN: Game-changer]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? You can leverage AI to streamline your process and impress clients today. [ON-SCREEN: Leverage AI today] Ben's approach closed 47 deals last year. You can start using AI tools this week.\",\n    \"CTA\": \"Are you using AI in your real estate process — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"How AI helped find a home for an NBA player in minutes. #RealEstate #AI\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#NBA\", \"#AgentTips\", \"#Innovation\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Ben used AI to instantly match the player's needs. This isn't just a time-saver; it's a game-changer.\"\n}\n```"
+  }
+]

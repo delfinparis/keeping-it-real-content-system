@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Ben Lalez Group",
+    "production_level": "$200M+ per year in volume",
+    "specialty": "Residential Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Compass, Zillow, and MLS dispute",
+    "AI in real estate",
+    "Agent advocacy and industry dynamics",
+    "Innovative solutions for real estate challenges",
+    "Future of real estate transactions"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Control over listing data between Compass, Zillow, and MLS",
+      "solution_summary": "Understanding the implications for agents and the need for an agent advocacy group.",
+      "timestamp": "04:20"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "High cancellation rates in real estate transactions",
+      "solution_summary": "Implemented a system to offer cancellation insurance to sellers to increase offer acceptance rates.",
+      "timestamp": "36:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Staying informed about industry trends and news",
+      "solution_summary": "Using AI to automate the collection and summarization of relevant industry news.",
+      "timestamp": "53:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses innovative solutions and industry dynamics that are crucial for team leaders.",
+      "key_takeaway": "Leverage AI to create bespoke solutions for team operations and client management."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Insights into how top producers are using technology to stay ahead.",
+      "key_takeaway": "Adopt AI tools to streamline processes and improve transaction success rates."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "36:00",
+      "end_timestamp": "37:00",
+      "quote": "The only thing sellers actually care about is that their property is sold.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the core motivation of sellers, which can be a powerful insight for agents.",
+      "suggested_hook": "What do sellers really care about? It's simpler than you think."
+    },
+    {
+      "timestamp": "25:05",
+      "end_timestamp": "25:50",
+      "quote": "I DM'd a Chicago Bulls player... and AI found the perfect rental for him.",
+      "clip_type": "personal_story",
+      "why_clipworthy": "Demonstrates the practical application of AI in real estate with a compelling story.",
+      "suggested_hook": "How AI helped me find a home for an NBA player in minutes."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to automate news gathering and analysis.",
+      "context": "Stay informed about industry trends without spending hours researching.",
+      "timestamp": "53:00"
+    },
+    {
+      "tactic": "Offer cancellation insurance to sellers.",
+      "context": "Increase the likelihood of offer acceptance in competitive markets.",
+      "timestamp": "36:00"
+    }
+  ],
+  "quotable_insights": [
+    "Agents are the largest free content source on planet earth.",
+    "AI can replace mundane tasks, allowing agents to focus on high-value activities."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for creating bespoke AI solutions for real estate challenges."
+    },
+    {
+      "type": "tool",
+      "name": "CapCut",
+      "context": "For quick video editing to enhance content creation."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the ongoing dispute between Compass, Zillow, and MLS, highlighting the implications for agents and the need for advocacy. He shares innovative uses of AI to solve real estate challenges, such as offering cancellation insurance to sellers and automating industry news gathering. The episode provides actionable insights for agents looking to leverage technology to improve their business operations.",
+  "_metadata": {
+    "source_file": "2026-05-29_item9_Ben-Lalez",
+    "analyzed_at": "2026-06-26T05:36:05.713132",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

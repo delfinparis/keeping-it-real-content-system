@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:05",
+      "end_timestamp": "00:07:06",
+      "quote": "Don't just come to them with recommendations. I come to them with solutions.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a practical approach to client service that can differentiate an agent in the market.",
+      "suggested_hook": "Are you offering solutions or just advice to your clients?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you offering solutions or just advice to your clients?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared an approach that could change how you connect with clients. You're giving advice, but are they listening? Here's why it matters...\",\n    \"INSIGHT\": \"Natalie says, 'Don't just come to them with recommendations. I come to them with solutions.' [ON-SCREEN: Solutions, not just advice] Most agents suggest ideas. Top producers solve problems. [ON-SCREEN: Solve problems, close deals]\",\n    \"REFRAME/APPLICATION\": \"In today's market, solutions build trust. Try this with your next client meeting. Natalie closed 47 deals last year using this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop giving advice. Start offering solutions. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientSolutions\", \"#TopProducer\", \"#AgentAdvice\", \"#MarketSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents suggest ideas. Top producers solve problems.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:24:44",
+      "end_timestamp": "00:25:00",
+      "quote": "Your strategy is just do such a good job that everybody talks about me.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Captures the essence of Natalie's approach to building her business through exceptional service.",
+      "suggested_hook": "Want to know the secret to organic lead generation?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to know the secret to organic lead generation?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a game-changing strategy on our podcast. Imagine doing such a stellar job that your clients can't stop talking about you. You're working hard, but leads aren't pouring in. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie's approach is simple yet powerful: 'Your strategy is just do such a good job that everybody talks about me.' [ON-SCREEN: Exceptional Service] Most agents rely on ads. Top producers like Natalie focus on service. [ON-SCREEN: Word of Mouth] This isn't just theory—it's how she built her business.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Focus on exceeding expectations and let your clients become your biggest advocates. [ON-SCREEN: Start Today] Natalie closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want leads to come to you? Focus on service that gets people talking. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#TopProducer\", \"#ClientService\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Your strategy is just do such a good job that everybody talks about me.\"\n}\n```"
+  }
+]

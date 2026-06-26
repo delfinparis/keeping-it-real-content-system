@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:01",
+      "end_timestamp": "00:04:09",
+      "quote": "The most expensive sentence in real estate right now.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It captures attention by hinting at a costly mistake agents make.",
+      "suggested_hook": "Are you making the most expensive mistake in real estate?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you making the most expensive mistake in real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton recently shared a game-changing insight on our podcast. Imagine spending hours on content creation, but your engagement is flat. You're posting, but nobody's watching.\",\n    \"INSIGHT\": \"Tim says, 'The most expensive sentence in real estate right now is: I don't need TikTok.' [ON-SCREEN: I don't need TikTok] Most agents ignore TikTok. Top producers leverage it with The Empty Stage Method to localize content and boost engagement. [ON-SCREEN: Empty Stage Method, Localize Content]\",\n    \"REFRAME/APPLICATION\": \"This matters because TikTok's reach is unparalleled. Start today by posting one localized video. Tim closed 47 deals last year using this approach. [ON-SCREEN: 47 deals]\",\n    \"CTA\": \"Are you on TikTok yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you ignoring TikTok? It might be costing you deals. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#TikTokForAgents\", \"#ContentCreation\", \"#AgentSuccess\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The most expensive sentence in real estate right now is: I don't need TikTok.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:05",
+      "end_timestamp": "00:09:10",
+      "quote": "Done beats perfect every time.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages action over perfection, a key mindset for success.",
+      "suggested_hook": "Why perfection is holding you back in real estate."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why perfection is holding you back in real estate.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton says, 'Done beats perfect every time.' Ever feel stuck planning the perfect TikTok post, only to never hit 'publish'? You're not alone.\",\n    \"INSIGHT\": \"Tim shares that 'most agents overthink content creation, but top producers take action.' [ON-SCREEN: Done beats perfect every time] Instead of waiting for perfection, start posting consistently. [ON-SCREEN: The Empty Stage Method] Use the Empty Stage Method to localize your content and engage your audience. [ON-SCREEN: Localize for engagement]\",\n    \"REFRAME/APPLICATION\": \"Why wait? Start today. This week, post one TikTok using Tim's method. [ON-SCREEN: Take action today] Remember, Tim's approach helped him close 47 deals last year.\",\n    \"CTA\": \"Are you ready to post your first TikTok today — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop overthinking your content. Done beats perfect every time. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ContentCreation\", \"#TikTokForAgents\", \"#MindsetShift\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents overthink content creation, but top producers take action.\"\n}\n```"
+  }
+]

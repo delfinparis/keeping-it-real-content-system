@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:28",
+      "end_timestamp": "06:16",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It reveals a new opportunity for mortgage approval that many are unaware of.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know your credit karma score can now help you get a mortgage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just revealed a game-changer. If you're struggling to get mortgage approval because of traditional credit checks, this matters. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You can now use that credit karma score to get approved for a mortgage. [ON-SCREEN: Credit Karma Score for Mortgage] This is huge because it opens doors for many who thought homeownership was out of reach. [ON-SCREEN: New Opportunity for Buyers]\",\n    \"REFRAME/APPLICATION\": \"This means you can start exploring mortgage options today, even if you thought you couldn't. Austin Clarence has seen clients succeed with this approach already. [ON-SCREEN: Apply Today]\",\n    \"CTA\": \"Have you checked your credit karma score for mortgage approval yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your Credit Karma score might just be your ticket to a new home! 🏠\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageApproval\", \"#CreditKarma\", \"#HomeBuying\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"You can now use that credit karma score to get approved for a mortgage.\"\n}\n```"
+  }
+]

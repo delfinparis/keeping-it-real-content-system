@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexa Lending",
+    "production_level": "Top producing",
+    "specialty": "Investor financing, complex financial scenarios",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Vantage Score for mortgage approval",
+    "Opportunities for older home buyers",
+    "Self-employed borrower loan options",
+    "Current interest rate trends",
+    "Credit building strategies for young buyers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Difficulty in mortgage approval due to low FICO scores",
+      "solution_summary": "Use Vantage Score, which often trends higher than FICO, for mortgage approval.",
+      "timestamp": "05:28"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Older home buyers not being targeted",
+      "solution_summary": "Focus on older buyers who have equity and potential life events prompting real estate decisions.",
+      "timestamp": "21:06"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Self-employed individuals struggling to qualify for loans",
+      "solution_summary": "Utilize profit and loss loans with as little as 3.5% down, avoiding traditional tax return requirements.",
+      "timestamp": "34:12"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights into leveraging new credit scoring models and targeting untapped buyer demographics.",
+      "key_takeaway": "Explore alternative credit options like Vantage Score and focus on older buyers with equity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:28",
+      "end_timestamp": "06:16",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It reveals a new opportunity for mortgage approval that many are unaware of.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Encourage clients to use Credit Karma for monitoring Vantage Scores.",
+      "context": "Helps clients potentially qualify for better mortgage terms.",
+      "timestamp": "12:29"
+    },
+    {
+      "tactic": "Target older home buyers with equity for investment opportunities.",
+      "context": "Older buyers may have more cash and equity to invest.",
+      "timestamp": "21:06"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on the payment, not the rate. That's the number that truly matters."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Credit Karma",
+      "context": "Recommended for tracking Vantage Scores which can now be used for mortgage approvals."
+    }
+  ],
+  "episode_summary": "This episode of Keeping It Real with Austin Clarence explores the new use of Vantage Scores for mortgage approvals, offering a modern alternative to FICO scores. It highlights opportunities in targeting older home buyers with equity and provides solutions for self-employed individuals seeking loans. The discussion also covers current interest rate trends and strategies for young buyers to build credit.",
+  "_metadata": {
+    "source_file": "2026-06-09_item6_Austin-Clarence",
+    "analyzed_at": "2026-06-26T05:38:08.227346",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

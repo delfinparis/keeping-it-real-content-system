@@ -1,0 +1,95 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": "Real Estate Marketing",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "TikTok as an underutilized platform for real estate agents",
+    "The Empty Stage Method for content creation",
+    "Overcoming barriers to using TikTok",
+    "Localizing content for better engagement",
+    "Consistency in posting content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents feel invisible in crowded online spaces",
+      "solution_summary": "Utilize TikTok, where competition is low, to reach a large audience with localized content.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents believe TikTok is not suitable for their audience",
+      "solution_summary": "TikTok's audience includes a significant number of adults, making it a viable platform for real estate.",
+      "timestamp": "00:10:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can quickly establish themselves on a less crowded platform.",
+      "key_takeaway": "Start using TikTok now to build a presence with minimal competition."
+    },
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "Agents feeling overlooked can stand out by adopting new platforms.",
+      "key_takeaway": "Leverage TikTok's low competition to become a recognized local expert."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:01",
+      "end_timestamp": "00:04:09",
+      "quote": "The most expensive sentence in real estate right now.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It captures attention by hinting at a costly mistake agents make.",
+      "suggested_hook": "Are you making the most expensive mistake in real estate?"
+    },
+    {
+      "timestamp": "00:09:05",
+      "end_timestamp": "00:09:10",
+      "quote": "Done beats perfect every time.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages action over perfection, a key mindset for success.",
+      "suggested_hook": "Why perfection is holding you back in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Answer client questions on TikTok",
+      "context": "Use real client questions to create authentic content.",
+      "timestamp": "00:06:02"
+    },
+    {
+      "tactic": "Localize content with specific details",
+      "context": "Mention local streets and neighborhoods to engage local audiences.",
+      "timestamp": "00:07:43"
+    },
+    {
+      "tactic": "Post consistently, at least three times a week",
+      "context": "Builds familiarity and trust over time.",
+      "timestamp": "00:08:52"
+    }
+  ],
+  "quotable_insights": [
+    "A small audience with zero competition beats a huge audience where you're shouting over nine in 10 agents."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "captions.ai",
+      "context": "Used for editing TikTok videos to make them look professional."
+    }
+  ],
+  "episode_summary": "This episode highlights the untapped potential of TikTok for real estate agents. By using the Empty Stage Method, agents can effectively reach a large audience with minimal competition. Key strategies include answering real client questions, localizing content, and maintaining consistency in posting.",
+  "_metadata": {
+    "source_file": "2026-06-22_item3_Coffee-Talks",
+    "analyzed_at": "2026-06-26T05:39:59.261817",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

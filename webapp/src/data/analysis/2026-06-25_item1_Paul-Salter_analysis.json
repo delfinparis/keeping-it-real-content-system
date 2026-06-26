@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Peak performance coaching for high-performing individuals",
+    "location": null
+  },
+  "main_topics": [
+    "Proving self-worth through success",
+    "Sustainable achievement versus burnout",
+    "Emotional impact of high performance",
+    "Recalibrating ambition and work ethic",
+    "Personal fulfillment and identity"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Relying on success to prove self-worth",
+      "solution_summary": "Shift focus from external validation to internal fulfillment and recalibrate ambition to avoid burnout.",
+      "timestamp": "08:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode addresses the emotional exhaustion and lack of fulfillment experienced by high achievers.",
+      "key_takeaway": "Success should be driven by purpose rather than the need for external validation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:00",
+      "end_timestamp": "12:45",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the core message of the episode.",
+      "suggested_hook": "Are you chasing success for the wrong reasons?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Measure success by hourly rate instead of total income.",
+      "context": "To achieve more personal time and balance while maintaining income.",
+      "timestamp": "16:20"
+    }
+  ],
+  "quotable_insights": [
+    "The most dangerous part about this prove it energy is that it works."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for real estate agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the pitfalls of building success on the need for external validation. He emphasizes the importance of recalibrating ambition to avoid burnout and achieve sustainable fulfillment. The conversation provides actionable insights for high performers to shift their focus from proving their worth to finding personal purpose.",
+  "_metadata": {
+    "source_file": "2026-06-25_item1_Paul-Salter",
+    "analyzed_at": "2026-06-26T05:41:18.595972",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

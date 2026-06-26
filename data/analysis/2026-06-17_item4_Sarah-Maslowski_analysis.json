@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "YouTube Lead Generation Expert",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube-based real estate lead generation",
+    "location": null
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Lead conversion systems",
+    "Identifying serious buyers",
+    "Showing agent model",
+    "Importance of buyer consults"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffectiveness of social media platforms like Facebook, Instagram, and TikTok for lead generation",
+      "solution_summary": "Focus on YouTube for lead generation as it builds trust and attracts serious buyers.",
+      "timestamp": "00:00:08"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting YouTube leads into signed contracts",
+      "solution_summary": "Implement a structured lead conversion system including Zoom consultations and thorough buyer consults.",
+      "timestamp": "00:03:31"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Wasting time on non-serious buyers",
+      "solution_summary": "Use Zoom consults and exploratory trips to filter out non-serious buyers.",
+      "timestamp": "00:08:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing multiple serious buyers simultaneously",
+      "solution_summary": "Adopt the showing agent model to ensure clients have access to homes without overburdening the agent.",
+      "timestamp": "00:15:15"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on scaling lead generation and conversion through YouTube.",
+      "key_takeaway": "Implement a YouTube-based lead generation strategy and a robust conversion system to handle increased business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses systems and models that can be adopted by teams to manage leads effectively.",
+      "key_takeaway": "Use the showing agent model to leverage team resources and manage client expectations."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:09",
+      "end_timestamp": "00:03:20",
+      "quote": "I've closed over $150 million directly from YouTube with zero paid ads, no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential of YouTube as a powerful lead generation tool.",
+      "suggested_hook": "Discover how YouTube can transform your real estate business without spending a dime on ads!"
+    },
+    {
+      "timestamp": "00:16:00",
+      "end_timestamp": "00:16:15",
+      "quote": "A showing agent is a licensed real estate agent who works with you specifically to open up doors.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable tactic for managing multiple clients.",
+      "suggested_hook": "Struggling to manage multiple clients? Here's a game-changing tactic!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Zoom consultations to build trust and filter serious buyers.",
+      "context": "Apply this when a YouTube lead reaches out to ensure they are serious and to build a personal connection.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "tactic": "Require exploratory trips for buyers unfamiliar with the area.",
+      "context": "Use this to ensure buyers are committed and to prevent wasted time on non-serious leads.",
+      "timestamp": "00:09:42"
+    },
+    {
+      "tactic": "Implement the showing agent model to manage multiple clients.",
+      "context": "Adopt this model when you have multiple serious buyers in town simultaneously.",
+      "timestamp": "00:15:15"
+    }
+  ],
+  "quotable_insights": [
+    "YouTube sends you leads who already trust you, already like you, already believe you know your market."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to convert leads into interested buyers."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested as a recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her insights on using YouTube as a powerful lead generation tool, having closed over $150 million without paid ads. She discusses the importance of a structured lead conversion system, including Zoom consultations and exploratory trips, to filter serious buyers. Additionally, she introduces the showing agent model as a solution for managing multiple clients effectively.",
+  "_metadata": {
+    "source_file": "2026-06-17_item4_Sarah-Maslowski",
+    "analyzed_at": "2026-06-26T05:39:32.095005",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

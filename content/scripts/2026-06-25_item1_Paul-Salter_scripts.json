@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "12:00",
+      "end_timestamp": "12:45",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the core message of the episode.",
+      "suggested_hook": "Are you chasing success for the wrong reasons?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you chasing success for the wrong reasons?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter shared a powerful truth on our latest episode: External achievement cannot solve an internal wound. If you're hustling for validation, feeling like every deal defines your worth, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Paul explained that sustainable achievement means aligning your goals with personal fulfillment, not just external success. [ON-SCREEN: External achievement ≠ Internal fulfillment] Most agents push for more sales, but top producers focus on meaningful growth. [ON-SCREEN: Meaningful growth > More sales] It's about recalibrating ambition to prevent burnout and truly enjoy your wins.\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start realigning your goals today. Reflect on why you chase success and adjust your approach. [ON-SCREEN: Start today] Paul Salter's approach helped him find balance and avoid burnout. You can do this too.\",\n    \"CTA\": \"Have you ever felt like success wasn't enough — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you chasing success for the wrong reasons? Let's recalibrate for true fulfillment.\",\n  \"HASHTAGS\": [\n    \"#RealEstateSuccess\",\n    \"#PersonalGrowth\",\n    \"#AgentTips\",\n    \"#BurnoutPrevention\",\n    \"#Fulfillment\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"External achievement cannot solve an internal wound.\"\n}\n```"
+  }
+]

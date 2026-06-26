@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Group",
+    "production_level": "Top 1%",
+    "specialty": "Luxury real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "AI's impact on luxury real estate",
+    "Building relationships in real estate",
+    "Importance of personal branding and digital presence",
+    "Strategies for winning multiple offer situations",
+    "Market trends in Chicago real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding what luxury clients look for in properties",
+      "solution_summary": "Luxury buyers are now focused on lifestyle optimization, including wellness and convenience features.",
+      "timestamp": "04:34"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a competitive market",
+      "solution_summary": "Agents should focus on building a strong digital presence and leveraging AI for branding.",
+      "timestamp": "10:10"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Winning in multiple offer situations",
+      "solution_summary": "Build rapport with the seller's agent and personalize offers to align with seller's needs.",
+      "timestamp": "22:26"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into the luxury market and how to leverage AI for personal branding.",
+      "key_takeaway": "Focus on lifestyle optimization for clients and enhance your digital presence to stand out."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses market trends and AI tools that can be leveraged for team growth.",
+      "key_takeaway": "Incorporate AI-driven strategies for recruitment and client engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:04",
+      "end_timestamp": "05:40",
+      "quote": "They're not just buying square footage anymore. They're buying lifestyle optimization.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This highlights a shift in luxury buyer priorities, which is crucial for agents to understand.",
+      "suggested_hook": "Are your clients buying square footage or a lifestyle?"
+    },
+    {
+      "timestamp": "22:26",
+      "end_timestamp": "23:08",
+      "quote": "It's about relationships... be on your best behavior during showings.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers practical advice on how to stand out in competitive situations.",
+      "suggested_hook": "Want to win that bidding war? Here's a simple tactic."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Build rapport with the seller's agent during showings.",
+      "context": "Use this tactic to stand out in multiple offer situations.",
+      "timestamp": "22:26"
+    },
+    {
+      "tactic": "Leverage AI for personal branding and digital presence.",
+      "context": "Enhance your visibility and reputation in the market.",
+      "timestamp": "10:10"
+    }
+  ],
+  "quotable_insights": [
+    "Being nice is an undervalued currency in real estate.",
+    "Luxury buyers are now focused on lifestyle optimization."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the evolving landscape of luxury real estate, highlighting the impact of AI and the importance of lifestyle optimization for buyers. She shares insights on building strong relationships and leveraging digital presence to stand out in a competitive market. The episode offers practical advice for agents looking to excel in luxury real estate and navigate multiple offer situations.",
+  "_metadata": {
+    "source_file": "2026-06-16_item5_Carrie-McCormick",
+    "analyzed_at": "2026-06-26T05:38:51.711104",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

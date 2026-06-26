@@ -1,0 +1,90 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": "top 1%",
+    "specialty": "Real Estate Sales",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Three-week median home sale strategy",
+    "Importance of launch preparation",
+    "Data-driven decision making in real estate",
+    "Challenges with price reductions",
+    "Market-specific strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Listings sitting too long on the market",
+      "solution_summary": "Implement a three-weekend system focusing on launch, verdict, and reset to ensure listings sell quickly.",
+      "timestamp": "00:04:03"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of structured launch for listings",
+      "solution_summary": "Create a launch plan involving a teaser, open house, and social media push to maximize initial interest.",
+      "timestamp": "00:04:45"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting strategies to different market conditions",
+      "solution_summary": "Adjust the three-weekend system to fit the median time homes spend on the market in different areas.",
+      "timestamp": "00:10:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides a structured system to improve listing sales performance.",
+      "key_takeaway": "Implementing a disciplined three-weekend system can significantly enhance sales outcomes."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical steps to overcome common listing challenges.",
+      "key_takeaway": "Understanding and acting on early data can prevent listings from becoming stale."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:01",
+      "end_timestamp": "00:03:30",
+      "quote": "The longer it sits, the worse the offers get.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights the critical nature of timing in real estate sales.",
+      "suggested_hook": "Why timing is everything in real estate listings."
+    },
+    {
+      "timestamp": "00:08:02",
+      "end_timestamp": "00:08:24",
+      "quote": "Weekend one is about collecting data and offers are a bonus.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of data-driven strategies.",
+      "suggested_hook": "Why your first weekend on the market is all about data."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Schedule the verdict and reset before the listing goes live.",
+      "context": "Ensures that adjustments are planned and executed promptly.",
+      "timestamp": "00:09:58"
+    },
+    {
+      "tactic": "Conduct a full relaunch if no contract by the third weekend.",
+      "context": "Refreshes the listing to attract new interest.",
+      "timestamp": "00:09:21"
+    }
+  ],
+  "quotable_insights": [
+    "A listing agent hopes the right buyer shows up, but a listing manager checks the day count, sends the text and blocks Saturday."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "This episode of Coffee Talks with DJ Paris and Tim Littleton explores a strategic three-weekend system for real estate listings, focusing on launch, verdict, and reset phases. By leveraging data and structured planning, agents can improve sales outcomes and avoid common pitfalls like price reductions and stale listings. The discussion also emphasizes adapting strategies to different market conditions.",
+  "_metadata": {
+    "source_file": "2026-06-02_item8_Coffee-Talks",
+    "analyzed_at": "2026-06-26T05:36:30.594648",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
