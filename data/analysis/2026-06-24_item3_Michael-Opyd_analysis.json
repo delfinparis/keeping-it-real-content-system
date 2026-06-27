@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Julia Linquist",
+    "title": "Real Estate Agent",
+    "company": "At Properties",
+    "production_level": "Top Producer",
+    "specialty": "Helping buyers and sellers across Chicago, the North Shore, and Northwest suburbs",
+    "location": "Chicagoland area"
+  },
+  "main_topics": [
+    "Balancing work and family life as a real estate agent",
+    "Setting realistic production goals",
+    "The importance of systems and organization",
+    "Allocating tasks to improve efficiency",
+    "Maintaining personal well-being"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Struggling to balance work with family responsibilities",
+      "solution_summary": "Focus on delegating tasks and setting clear boundaries for work and family time.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems and organization in business operations",
+      "solution_summary": "Implement systems for delegation and prioritize tasks that align with personal and professional goals.",
+      "timestamp": "20:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling overwhelmed and stressed",
+      "solution_summary": "Adopt a mindset of consistency and focus on daily habits that contribute to long-term success.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the challenges of maintaining high performance while balancing personal life.",
+      "key_takeaway": "Delegating tasks and focusing on high-value activities can reduce stress and improve work-life balance."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Julia shares insights on achieving high production levels while managing personal commitments.",
+      "key_takeaway": "Set realistic goals based on income needs rather than just production volume."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "44:30",
+      "end_timestamp": "45:30",
+      "quote": "If you don't fix this today, if we don't get through this and we don't organize this, we don't help you, what's that look like down the line for you and for your family?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the urgency and emotional impact of addressing work-life balance.",
+      "suggested_hook": "Are you sacrificing your well-being for your career? Here's why you need to fix it now."
+    },
+    {
+      "timestamp": "57:00",
+      "end_timestamp": "58:00",
+      "quote": "The biggest issue that agents have is a lack of consistency.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It reveals a common challenge that many agents face and offers a simple solution.",
+      "suggested_hook": "Consistency is the secret sauce to success in real estate. Here's why."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Delegate tasks to free up time for high-value activities.",
+      "context": "Identify tasks that can be handled by others to focus on strategic goals.",
+      "timestamp": "41:00"
+    },
+    {
+      "tactic": "Set a clear income goal instead of focusing solely on production volume.",
+      "context": "Align your business efforts with your financial needs and personal life goals.",
+      "timestamp": "33:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a you problem.",
+    "Consistency is the key to transforming your business and personal life."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for agent recruitment and retention using AI."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Suggested as a technology partner for lead conversion and CRM."
+    }
+  ],
+  "episode_summary": "In this episode, Julia Linquist discusses the challenges of balancing a high-performing real estate career with family life. Michael Opyd provides actionable insights on setting realistic goals, delegating tasks, and maintaining consistency to reduce stress and improve work-life balance. The conversation offers valuable strategies for agents looking to enhance their productivity while prioritizing personal well-being.",
+  "_metadata": {
+    "source_file": "2026-06-24_item3_Michael-Opyd",
+    "analyzed_at": "2026-06-27T05:24:50.979533",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

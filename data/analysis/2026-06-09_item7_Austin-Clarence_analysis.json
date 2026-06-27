@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Top Producing Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexel Lending",
+    "production_level": "Top Producer",
+    "specialty": "Solving complex financial scenarios and investor financing",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Introduction of Vantage Score for mortgage approval",
+    "Challenges and solutions for self-employed buyers",
+    "Current trends in interest rates",
+    "Opportunities with older home buyers",
+    "Credit building strategies for young buyers"
+  ],
+  "problems_addressed": [
+    {
+      "category": "money_business",
+      "specific_problem": "Traditional FICO scores limiting mortgage approvals",
+      "solution_summary": "Use Vantage Score, which often results in a higher score and better loan terms.",
+      "timestamp": "00:05:28"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "High interest rates due to international conflicts",
+      "solution_summary": "Focus on payment affordability and explore creative financing options like buy-downs.",
+      "timestamp": "00:29:56"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Difficulties for self-employed individuals in securing loans",
+      "solution_summary": "Utilize profit and loss loans or bank statement loans instead of traditional tax returns.",
+      "timestamp": "00:34:12"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides new tools and strategies for agents to help clients with credit and financing challenges.",
+      "key_takeaway": "Understand the new Vantage Score system and how it can benefit your clients."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into leveraging current market conditions for client acquisition.",
+      "key_takeaway": "Focus on older buyers who are currently the largest demographic of home buyers."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:28",
+      "end_timestamp": "00:06:27",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights a significant change in mortgage approval processes.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    {
+      "timestamp": "00:34:12",
+      "end_timestamp": "00:35:17",
+      "quote": "There's a new program for self-employed individuals: a three and a half percent down profit and loss loan.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific solution for a common problem among self-employed buyers.",
+      "suggested_hook": "Self-employed and struggling to get a mortgage? Here's a new solution."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Encourage clients to set up a Credit Karma account to track their Vantage Score.",
+      "context": "This score can now be used for mortgage approvals and may be higher than FICO.",
+      "timestamp": "00:13:02"
+    },
+    {
+      "tactic": "Focus on payment affordability rather than interest rates when discussing loans with clients.",
+      "context": "Helps clients understand the real impact of rates on their monthly budget.",
+      "timestamp": "00:29:56"
+    },
+    {
+      "tactic": "Use profit and loss statements for self-employed clients to qualify for loans.",
+      "context": "Allows them to leverage their actual income rather than tax returns.",
+      "timestamp": "00:34:12"
+    }
+  ],
+  "quotable_insights": [
+    "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+    "Focus on the payment, not the rate. That's the number that really matters."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Credit Karma",
+      "context": "Recommended for tracking Vantage Score, which can now be used for mortgage approvals."
+    }
+  ],
+  "episode_summary": "This episode of Keeping It Real features Austin Clarence discussing the introduction of Vantage Score for mortgage approvals, offering new opportunities for borrowers. He also addresses challenges faced by self-employed individuals and provides insights into current interest rate trends. Additionally, the episode highlights the growing market of older home buyers and strategies for young buyers to build credit.",
+  "_metadata": {
+    "source_file": "2026-06-09_item7_Austin-Clarence",
+    "analyzed_at": "2026-06-27T05:22:13.454015",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:28",
+      "end_timestamp": "00:06:27",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights a significant change in mortgage approval processes.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know your credit karma score can now help you get a mortgage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just dropped a game-changer. Imagine you're self-employed, struggling to get mortgage approval because traditional credit scores don't reflect your true financial health. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You can now use that credit karma score to get approved for a mortgage. This is huge. [ON-SCREEN: Credit Karma for Mortgages] Austin explains that the introduction of Vantage Score is leveling the playing field. Most agents rely on FICO scores, but top producers are already leveraging this new tool. [ON-SCREEN: Vantage Score Advantage]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start using this today to help clients who couldn't qualify before. [ON-SCREEN: Apply Vantage Score Now] Imagine closing more deals just by understanding this shift.\",\n    \"CTA\": \"Are you ready to use this strategy — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your credit karma score can now help you get a mortgage! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageApproval\", \"#CreditKarma\", \"#VantageScore\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"You can now use that credit karma score to get approved for a mortgage. This is huge.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:34:12",
+      "end_timestamp": "00:35:17",
+      "quote": "There's a new program for self-employed individuals: a three and a half percent down profit and loss loan.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific solution for a common problem among self-employed buyers.",
+      "suggested_hook": "Self-employed and struggling to get a mortgage? Here's a new solution."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Self-employed and struggling to get a mortgage? Here's a new solution.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just revealed a game-changer for self-employed buyers on our podcast. If you've ever faced the frustration of being denied a mortgage because of your self-employment status, this is for you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin introduced a new program: a three and a half percent down profit and loss loan. [ON-SCREEN: 3.5% Down P&L Loan] This is specifically designed for self-employed individuals who struggle with traditional mortgage requirements. [ON-SCREEN: Self-Employed Solution] It's a tactical move that can open doors for many. [ON-SCREEN: Open New Doors]\",\n    \"REFRAME/APPLICATION\": \"This matters now because interest rates are fluctuating, and securing a loan is more challenging than ever. You can apply this today by reaching out to lenders who offer this program. [ON-SCREEN: Act Now]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"caption\": \"Self-employed? Discover a new mortgage solution with just 3.5% down! #RealEstateTips\",\n  \"hashtags\": [\"#RealEstateTips\", \"#SelfEmployed\", \"#MortgageSolutions\", \"#KeepingItReal\", \"#HomeBuying\"],\n  \"content_pillar\": \"market_intelligence\",\n  \"shareable_moment\": \"Austin introduced a new program: a three and a half percent down profit and loss loan.\"\n}\n```"
+  }
+]

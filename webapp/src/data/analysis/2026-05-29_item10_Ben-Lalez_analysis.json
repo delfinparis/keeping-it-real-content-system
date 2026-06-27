@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Ben Lalez Group",
+    "production_level": "$200M+ producer",
+    "specialty": "Residential Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Compass, Zillow, and MLS listing data conflict",
+    "AI in real estate",
+    "Agent advocacy and industry changes",
+    "Innovative solutions for real estate challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Conflict over listing data control between Compass, Zillow, and MLS",
+      "solution_summary": "Discussion on the implications for agents and potential outcomes of ongoing litigation.",
+      "timestamp": "04:20"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "High cancellation rates of real estate deals",
+      "solution_summary": "Development of an 'offer shield' product to provide cancellation insurance to sellers.",
+      "timestamp": "37:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Cold call reluctance for agent recruitment",
+      "solution_summary": "Using AI to create a personalized dashboard to manage and incentivize call activities.",
+      "timestamp": "01:01:09"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses advanced strategies and innovations for managing a high-performing team.",
+      "key_takeaway": "Implementing AI-driven solutions can significantly enhance team operations and client offerings."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Insights into cutting-edge technology and market dynamics can help ambitious agents stay ahead.",
+      "key_takeaway": "Understanding industry shifts and leveraging AI can provide a competitive edge."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:55",
+      "end_timestamp": "25:33",
+      "quote": "I DM'd a Chicago Bulls player... It spits out one listing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a creative use of AI to solve a real-world problem.",
+      "suggested_hook": "How AI helped me find the perfect home for an NBA player in seconds."
+    },
+    {
+      "timestamp": "46:06",
+      "end_timestamp": "46:29",
+      "quote": "You find a problem and you can find a solution using this.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to view problems as opportunities for innovation.",
+      "suggested_hook": "Transforming real estate challenges into opportunities with AI."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to analyze transaction history and predict deal cancellations.",
+      "context": "To offer sellers a guarantee and increase offer acceptance rates.",
+      "timestamp": "38:15"
+    },
+    {
+      "tactic": "Schedule AI tasks to gather daily industry news and insights.",
+      "context": "To stay informed and create relevant content for your audience.",
+      "timestamp": "53:03"
+    }
+  ],
+  "quotable_insights": [
+    "Nobody is actually looking out for the best interest of the agent.",
+    "AI can help you solve problems you didn't even know you had."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for scheduling tasks and analyzing data to solve business problems."
+    },
+    {
+      "type": "tool",
+      "name": "CapCut",
+      "context": "For quick video editing to enhance social media content."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the ongoing conflict between Compass, Zillow, and MLS over listing data control and its implications for real estate agents. He shares innovative AI-driven solutions to common industry challenges, such as deal cancellations and cold call reluctance. The episode offers valuable insights into leveraging technology to stay competitive in the evolving real estate landscape.",
+  "_metadata": {
+    "source_file": "2026-05-29_item10_Ben-Lalez",
+    "analyzed_at": "2026-06-27T05:20:20.065029",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

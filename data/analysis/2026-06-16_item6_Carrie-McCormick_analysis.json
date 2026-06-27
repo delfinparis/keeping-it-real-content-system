@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Group",
+    "production_level": "Top 1%",
+    "specialty": "Luxury Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "AI's impact on luxury real estate",
+    "Building relationships in real estate",
+    "Importance of personal branding and social media",
+    "Navigating multiple offers in a competitive market",
+    "The evolving luxury buyer profile"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the changing demands of luxury buyers",
+      "solution_summary": "Luxury buyers are now driven by lifestyle optimization, seeking wellness and turnkey solutions rather than just square footage.",
+      "timestamp": "04:34"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Agents need to leverage AI and social media to enhance their digital presence and become recognized experts.",
+      "timestamp": "10:25"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling multiple offers effectively",
+      "solution_summary": "Build rapport with seller's agents and understand seller's needs to tailor offers accordingly.",
+      "timestamp": "22:26"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into the luxury market and how to cater to high-end clients.",
+      "key_takeaway": "Understanding and adapting to the evolving needs of luxury buyers can significantly enhance your market position."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode offers strategies to improve personal branding and client relationships.",
+      "key_takeaway": "Leveraging AI and social media effectively can elevate your brand and attract more clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:34",
+      "end_timestamp": "05:17",
+      "quote": "Luxury buyers are not just buying square footage anymore; they're buying lifestyle optimization.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights a shift in buyer behavior that agents need to understand.",
+      "suggested_hook": "Are your luxury clients looking for more than just a home?"
+    },
+    {
+      "timestamp": "22:26",
+      "end_timestamp": "23:08",
+      "quote": "The moment you walk in the house, it's your interview stage.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a practical tip for making a positive impression during showings.",
+      "suggested_hook": "Want to make your offer stand out? Start with the showing."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to enhance your digital presence and branding.",
+      "context": "Agents should focus on creating content that feeds AI engines to improve visibility.",
+      "timestamp": "10:25"
+    },
+    {
+      "tactic": "Build rapport with seller's agents during showings.",
+      "context": "Engage positively during showings to create a favorable impression.",
+      "timestamp": "22:26"
+    }
+  ],
+  "quotable_insights": [
+    "Being nice is an undervalued currency in real estate.",
+    "Luxury buyers are looking for lifestyle optimization, not just square footage."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the evolving landscape of luxury real estate, driven by AI wealth and lifestyle optimization. She emphasizes the importance of building strong relationships and leveraging AI and social media to enhance personal branding. The episode also provides practical tips for navigating multiple offers and standing out in a competitive market.",
+  "_metadata": {
+    "source_file": "2026-06-16_item6_Carrie-McCormick",
+    "analyzed_at": "2026-06-27T05:22:55.442447",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

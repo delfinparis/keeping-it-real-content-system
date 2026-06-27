@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "04:34",
+      "end_timestamp": "05:17",
+      "quote": "Luxury buyers are not just buying square footage anymore; they're buying lifestyle optimization.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights a shift in buyer behavior that agents need to understand.",
+      "suggested_hook": "Are your luxury clients looking for more than just a home?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are your luxury clients looking for more than just a home?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick reveals a game-changing insight on our latest episode. Luxury buyers are evolving. They're not just after square footage anymore. They're seeking something deeper. Ever felt like you're missing what your clients truly want?\",\n    \"INSIGHT\": \"Carrie says, 'Luxury buyers are not just buying square footage anymore; they're buying lifestyle optimization.' [ON-SCREEN: Luxury = Lifestyle] Most agents focus on features. Top producers understand the lifestyle their clients aspire to. [ON-SCREEN: Lifestyle > Features]\",\n    \"REFRAME/APPLICATION\": \"This shift matters now more than ever. You can start today by asking your clients about their lifestyle goals. Carrie has closed numerous high-end deals using this approach. [ON-SCREEN: Ask About Lifestyle]\",\n    \"CTA\": \"Is lifestyle part of your pitch — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers want more than space; they want a lifestyle. Are you ready? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LuxuryRealEstate\", \"#AgentAdvice\", \"#LifestyleOptimization\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Luxury buyers are not just buying square footage anymore; they're buying lifestyle optimization.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "22:26",
+      "end_timestamp": "23:08",
+      "quote": "The moment you walk in the house, it's your interview stage.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a practical tip for making a positive impression during showings.",
+      "suggested_hook": "Want to make your offer stand out? Start with the showing."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to make your offer stand out? Start with the showing.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're at a showing, hoping to impress your client and secure the deal. But the competition is fierce, and you're unsure how to make your offer shine.\",\n    \"INSIGHT\": \"Carrie McCormick says, 'The moment you walk in the house, it's your interview stage.' [ON-SCREEN: Your Interview Stage] Most agents just show the property. Top producers make it an experience. [ON-SCREEN: Make It an Experience]\",\n    \"REFRAME/APPLICATION\": \"This matters because first impressions set the tone. You can apply this today by preparing a unique walkthrough. [ON-SCREEN: First Impressions Matter]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Make your offer stand out by starting strong at the showing. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#HomeShowings\", \"#TopProducer\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The moment you walk in the house, it's your interview stage.\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Julia Hurley",
+    "title": "Owner",
+    "company": "Just Homes Group",
+    "production_level": "Closed over 2,000 deals",
+    "specialty": "Real estate, athlete management",
+    "location": "Knoxville, Tennessee"
+  },
+  "main_topics": [
+    "Resilience and rebuilding in real estate",
+    "Effective lead generation strategies",
+    "Providing value to high achievers",
+    "Athlete management and real estate",
+    "Overcoming personal and professional challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of leads and business",
+      "solution_summary": "Host open houses for top agents and door knock in neighborhoods to generate leads.",
+      "timestamp": "41:47"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Re-engaging past clients after losing touch",
+      "solution_summary": "Review past client list, check social media for life events, and call to reconnect.",
+      "timestamp": "34:02"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Dealing with negative public perception",
+      "solution_summary": "Embrace your history as a badge of honor and focus on providing value.",
+      "timestamp": "13:32"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode offers strategies to rebuild and generate leads when business is slow.",
+      "key_takeaway": "Focus on providing value and leveraging personal connections to generate business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Julia shares insights on how to scale and manage a successful real estate business.",
+      "key_takeaway": "Offer value to high achievers to learn from them and grow your own business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:02",
+      "end_timestamp": "09:05",
+      "quote": "The best thing out of that experience was this past year, that same company came and asked me to come back.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights resilience and the power of building something bigger after a setback.",
+      "suggested_hook": "Ever been voted out of your own company? Here's how Julia Hurley turned that into a comeback story."
+    },
+    {
+      "timestamp": "27:00",
+      "end_timestamp": "27:58",
+      "quote": "If you're not door knocking for your open house, you're losing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for generating leads.",
+      "suggested_hook": "Want more leads? Here's why door knocking is your secret weapon."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host open houses for top agents and door knock in neighborhoods.",
+      "context": "To generate leads and establish presence in a new market.",
+      "timestamp": "41:47"
+    },
+    {
+      "tactic": "Review past client list and reconnect based on social media events.",
+      "context": "To re-engage past clients and reignite business relationships.",
+      "timestamp": "34:02"
+    }
+  ],
+  "quotable_insights": [
+    "Nothing worth doing is ever easy.",
+    "If you're not seen, you will not have business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Panic to Profit",
+      "context": "Julia's book that all agents should check out for insights on building a successful business."
+    },
+    {
+      "type": "tool",
+      "name": "FourWarns",
+      "context": "A tool to verify lead information and avoid wasting time on non-serious inquiries."
+    }
+  ],
+  "episode_summary": "Julia Hurley shares her journey from being voted out of her own company to building a successful real estate brokerage. She provides actionable strategies for lead generation, such as hosting open houses and door knocking, and emphasizes the importance of providing value to high achievers. Julia also discusses her new venture into athlete management and how real estate skills translate into this field.",
+  "_metadata": {
+    "source_file": "2026-06-26_item1_Julia-Hurley",
+    "analyzed_at": "2026-06-27T05:26:15.520587",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

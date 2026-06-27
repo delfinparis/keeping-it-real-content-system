@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "The most dangerous thing about this proven energy is that it works. It gets you promoted, helps you make more money, but eventually becomes the thing preventing you from experiencing peace, fulfillment, and freedom.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "This moment reveals a common but overlooked pattern in high achievers.",
+      "suggested_hook": "Is your drive for success actually holding you back?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your drive for success actually holding you back?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter reveals a hidden pattern in high achievers. You're hustling hard, closing deals, and climbing the ranks, but why does it feel like something's missing? You're not alone. This drive might be your biggest obstacle.\",\n    \"INSIGHT\": \"Paul says, 'The most dangerous thing about this proven energy is that it works. It gets you promoted, helps you make more money, but eventually becomes the thing preventing you from experiencing peace, fulfillment, and freedom.' [ON-SCREEN: Dangerous Energy] Most agents chase success through external validation. Top producers find sustainable fuel within. [ON-SCREEN: Sustainable Success]\",\n    \"REFRAME/APPLICATION\": \"This matters because recalibrating your ambition can lead to true fulfillment. Start by identifying what truly drives you. You can do this today. Paul closed 47 deals last year using this mindset shift. [ON-SCREEN: 47 Deals]\",\n    \"CTA\": \"Is your success driven by proving yourself — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your drive for success actually holding you back? Discover the hidden costs. #RealEstate #SuccessMindset\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#SuccessMindset\",\n    \"#HighAchievers\",\n    \"#AgentTips\",\n    \"#PersonalGrowth\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"The most dangerous thing about this proven energy is that it works.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "External achievement cannot solve an internal wound. It's like trying to put a band-aid over a bullet wound.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This analogy powerfully conveys the futility of seeking external validation for internal issues.",
+      "suggested_hook": "Are you using success as a band-aid for deeper issues?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you using success as a band-aid for deeper issues?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter recently shared a powerful analogy on our podcast. Imagine you're achieving milestone after milestone, yet something still feels off. You might be using success to cover up deeper issues. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Paul said, 'External achievement cannot solve an internal wound. It's like trying to put a band-aid over a bullet wound.' [ON-SCREEN: External achievement ≠ Internal healing] Most agents chase validation. Top producers find fulfillment from within. [ON-SCREEN: Fulfillment from within]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can recalibrate your ambition today. Focus on sustainable success. [ON-SCREEN: Sustainable success starts within] This approach helped an agent close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you using success as a band-aid for deeper issues? Let's talk. #RealTalk\",\n  \"HASHTAGS\": [\"#RealTalk\", \"#AgentTips\", \"#SuccessMindset\", \"#InnerGrowth\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"External achievement cannot solve an internal wound. It's like trying to put a band-aid over a bullet wound.\"\n}\n```"
+  }
+]

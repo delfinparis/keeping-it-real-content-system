@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Peak performance coaching for high-performing individuals",
+    "location": null
+  },
+  "main_topics": [
+    "The dangers of success driven by the need to prove oneself",
+    "Sustainable versus unsustainable fuel for success",
+    "The impact of external validation on personal fulfillment",
+    "Recalibrating ambition and work ethic",
+    "The hidden costs of always being 'on'"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Success driven by a need to prove oneself is unsustainable and unfulfilling.",
+      "solution_summary": "Recalibrate ambition and work ethic to focus on fulfillment-driven achievement rather than external validation.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Confusing acceleration with sustainability in career growth.",
+      "solution_summary": "Measure success by hourly rate and reduce work hours to improve personal relationships and well-being.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Relying on external achievements for self-worth.",
+      "solution_summary": "Separate personal worth from business success to achieve true freedom and fulfillment.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode highlights the pitfalls of chasing success for external validation.",
+      "key_takeaway": "Focus on sustainable success and personal fulfillment rather than proving your worth through achievements."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veterans may find themselves stuck in a cycle of proving their worth through work.",
+      "key_takeaway": "Recalibrate your work ethic to balance success with personal well-being and relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "The most dangerous thing about this proven energy is that it works. It gets you promoted, helps you make more money, but eventually becomes the thing preventing you from experiencing peace, fulfillment, and freedom.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "This moment reveals a common but overlooked pattern in high achievers.",
+      "suggested_hook": "Is your drive for success actually holding you back?"
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "External achievement cannot solve an internal wound. It's like trying to put a band-aid over a bullet wound.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This analogy powerfully conveys the futility of seeking external validation for internal issues.",
+      "suggested_hook": "Are you using success as a band-aid for deeper issues?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Measure success by hourly rate instead of total earnings.",
+      "context": "To improve work-life balance and personal relationships.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Recalibrate ambition to focus on fulfillment-driven goals.",
+      "context": "To achieve sustainable success and personal peace.",
+      "timestamp": "07:00"
+    }
+  ],
+  "quotable_insights": [
+    "External achievement cannot solve an internal wound.",
+    "The most dangerous thing about this proven energy is that it works."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the dangers of building success on the need to prove oneself. He emphasizes the importance of recalibrating ambition and work ethic to focus on fulfillment-driven achievement. Salter offers actionable tactics for measuring success by hourly rate and separating personal worth from business success to achieve true freedom and fulfillment.",
+  "_metadata": {
+    "source_file": "2026-06-25_item2_Paul-Salter",
+    "analyzed_at": "2026-06-27T05:25:26.276680",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

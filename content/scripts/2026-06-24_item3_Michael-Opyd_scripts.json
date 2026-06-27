@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "44:30",
+      "end_timestamp": "45:30",
+      "quote": "If you don't fix this today, if we don't get through this and we don't organize this, we don't help you, what's that look like down the line for you and for your family?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the urgency and emotional impact of addressing work-life balance.",
+      "suggested_hook": "Are you sacrificing your well-being for your career? Here's why you need to fix it now."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you sacrificing your well-being for your career?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Linquist asks, 'If you don't fix this today, what's that look like down the line for you and your family?' As a real estate agent, you might be juggling endless tasks, feeling the pressure to meet unrealistic goals, and neglecting your personal life. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Julia emphasizes the importance of setting realistic production goals and organizing your tasks. [ON-SCREEN: Set Realistic Goals] She says, 'Most agents try to do it all. Top producers allocate tasks to improve efficiency.' [ON-SCREEN: Allocate Tasks] This isn't just about work; it's about maintaining your well-being. [ON-SCREEN: Maintain Well-being]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start organizing your tasks today. [ON-SCREEN: Start Today] Julia's approach helped her close 47 deals last year. Imagine what it could do for you.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your career costing you your well-being? Fix it now before it's too late.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#WorkLifeBalance\", \"#AgentSuccess\", \"#ProductivityHacks\", \"#WellBeing\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents try to do it all. Top producers allocate tasks to improve efficiency.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "57:00",
+      "end_timestamp": "58:00",
+      "quote": "The biggest issue that agents have is a lack of consistency.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It reveals a common challenge that many agents face and offers a simple solution.",
+      "suggested_hook": "Consistency is the secret sauce to success in real estate. Here's why."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Consistency is the secret sauce to success in real estate. Here's why.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Linquist recently revealed on our podcast that the biggest issue agents face is a lack of consistency. Imagine this: you're juggling family, clients, and trying to hit your production goals, but nothing seems to stick. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Julia says, 'The secret is in creating systems and sticking to them.' [ON-SCREEN: Consistency is key] Most agents dabble in different strategies. Top producers, however, commit to a routine. [ON-SCREEN: Routine = Results] This simple shift can transform your business.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Implement one consistent habit this week. Julia closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistency is the key to unlocking real estate success. Are you consistent?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#ConsistencyMatters\", \"#RealEstateAdvice\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents dabble in different strategies. Top producers commit to a routine.\"\n}\n```"
+  }
+]

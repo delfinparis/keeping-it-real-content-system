@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": null,
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "TikTok as an underutilized platform for real estate agents",
+    "The empty stage method for content creation",
+    "Overcoming misconceptions about TikTok",
+    "Consistency in posting content",
+    "Leveraging local content on TikTok"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents feel invisible despite being active on crowded platforms like Facebook.",
+      "solution_summary": "Utilize TikTok, where fewer agents are active, to stand out and reach a large audience.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents believe their clients aren't on TikTok.",
+      "solution_summary": "TikTok's audience includes a growing number of adults, making it a viable platform for reaching potential clients.",
+      "timestamp": "00:04:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents are hesitant to post due to fear of low engagement or looking silly.",
+      "solution_summary": "Focus on consistency and answering real client questions to build trust and visibility over time.",
+      "timestamp": "00:05:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode highlights TikTok as an untapped resource for agents who feel lost in the noise of traditional platforms.",
+      "key_takeaway": "By consistently posting local content on TikTok, agents can become trusted local experts."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides a strategy to dominate a less crowded platform, offering a competitive edge.",
+      "key_takeaway": "Starting now on TikTok can secure a strong local presence before others catch on."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:14",
+      "end_timestamp": "00:02:30",
+      "quote": "TikTok came in at 15%. So basically nobody.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the opportunity on TikTok due to low competition.",
+      "suggested_hook": "Are you missing out on the biggest opportunity in real estate marketing?"
+    },
+    {
+      "timestamp": "00:08:09",
+      "end_timestamp": "00:08:34",
+      "quote": "You're trying to be the one agent who keeps showing up when somebody in your zip code can't sleep at two in the morning.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the importance of being a trusted local expert.",
+      "suggested_hook": "How can you become the go-to agent in your area?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Answer client questions in 30-second videos.",
+      "context": "Use real questions from clients to create authentic content.",
+      "timestamp": "00:06:45"
+    },
+    {
+      "tactic": "Plant the flag by making content local.",
+      "context": "Mention specific local details to target local audiences effectively.",
+      "timestamp": "00:07:43"
+    },
+    {
+      "tactic": "Post consistently without focusing on perfection.",
+      "context": "Aim for three posts a week to build a presence over time.",
+      "timestamp": "00:09:52"
+    }
+  ],
+  "quotable_insights": [
+    "Perfect becomes the excuse for zero every time.",
+    "A small audience with zero competition beats a huge audience where you're shouting over nine and 10 agents."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "captions.ai",
+      "context": "Used for editing videos to make them look professional."
+    }
+  ],
+  "episode_summary": "This episode of Coffee Talks with DJ Paris and Tim Littleton explores the untapped potential of TikTok for real estate agents. They introduce the 'empty stage method,' emphasizing the importance of answering client questions and creating local content to stand out. By leveraging TikTok's large yet underutilized audience, agents can build a strong personal brand and become trusted local experts.",
+  "_metadata": {
+    "source_file": "2026-06-22_item4_Coffee-Talks",
+    "analyzed_at": "2026-06-27T05:24:02.909933",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

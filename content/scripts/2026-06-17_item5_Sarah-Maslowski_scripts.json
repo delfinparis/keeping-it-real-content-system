@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:12",
+      "end_timestamp": "00:04:00",
+      "quote": "YouTube is only half of the equation. Getting the lead is one thing, converting that lead into a signed contract requires a system.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of having a structured system for lead conversion, which is crucial for real estate success.",
+      "suggested_hook": "Are you struggling to convert your leads into sales? Here's the missing piece!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling to turn leads into sales? Here's the missing piece!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changing insight on our podcast. You might be generating leads through YouTube, but if you're not converting them into signed contracts, you're missing out. Does this sound familiar? You're getting calls, but no one signs on the dotted line.\",\n    \"INSIGHT\": \"Sarah says, 'YouTube is only half of the equation. Getting the lead is one thing, converting that lead into a signed contract requires a system.' [ON-SCREEN: Lead conversion system] Most agents rely on luck. Top producers have a system. [ON-SCREEN: System = Success]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Implement a structured system this week. Sarah's approach helped her close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Leads are just the start. Convert them with a system! #RealEstateSuccess\",\n  \"HASHTAGS\": [\n    \"#RealEstateSuccess\",\n    \"#LeadConversion\",\n    \"#YouTubeMarketing\",\n    \"#AgentTips\",\n    \"#RealEstateSystems\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"YouTube is only half of the equation. Converting leads requires a system.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:15:15",
+      "end_timestamp": "00:16:00",
+      "quote": "The showing agent model solves this problem. It's something that I would encourage every agent who is serious about YouTube to start thinking about early.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This offers a solution to a common problem of managing multiple clients, which many agents face.",
+      "suggested_hook": "Overwhelmed with clients? Here's a model that could save your business!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Overwhelmed with clients? Here's a model that could save your business!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changer for agents juggling too many clients. If you're constantly running from one showing to another and feel like you're drowning, this is for you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The showing agent model solves this problem. [ON-SCREEN: Showing Agent Model] It's something that I would encourage every agent who is serious about YouTube to start thinking about early. [ON-SCREEN: Early Adoption] Most agents try to do it all themselves. Top producers delegate showings to focus on serious buyers. [ON-SCREEN: Delegate to Elevate]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can implement this today and start focusing on what truly grows your business. [ON-SCREEN: Implement Today] Sarah closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Feeling overwhelmed? Discover the showing agent model to streamline your business!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#YouTubeLeads\", \"#ShowingAgent\", \"#RealEstateGrowth\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents try to do it all themselves. Top producers delegate showings to focus on serious buyers.\"\n}\n```"
+  }
+]

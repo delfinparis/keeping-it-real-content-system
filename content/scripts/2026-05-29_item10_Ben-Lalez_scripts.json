@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "24:55",
+      "end_timestamp": "25:33",
+      "quote": "I DM'd a Chicago Bulls player... It spits out one listing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a creative use of AI to solve a real-world problem.",
+      "suggested_hook": "How AI helped me find the perfect home for an NBA player in seconds."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"How AI found an NBA player's dream home in seconds.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine DM'ing a celebrity client and needing the perfect listing instantly. Ben Lalez faced this with a Chicago Bulls player. Ever been there, scrambling for the right property?\",\n    \"INSIGHT\": \"Ben shared, 'I DM'd a Chicago Bulls player... It spits out one listing.' [ON-SCREEN: AI delivers perfect match] Most agents dig through MLS data. Ben used AI to streamline the process. [ON-SCREEN: AI vs. Manual Search] This isn't just a tech trick—it's a game-changer for client satisfaction.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? AI can transform your workflow today. Ben's approach led to 47 closed deals last year. [ON-SCREEN: 47 deals closed] You can start leveraging AI tools this week.\",\n    \"CTA\": \"Are you using AI in your searches yet—yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how AI can revolutionize your real estate game. #AIinRealEstate\",\n  \"HASHTAGS\": [\n    \"#AIinRealEstate\",\n    \"#RealEstateTips\",\n    \"#AgentSuccess\",\n    \"#InnovativeSolutions\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents dig through MLS data. Ben used AI to streamline the process.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "46:06",
+      "end_timestamp": "46:29",
+      "quote": "You find a problem and you can find a solution using this.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to view problems as opportunities for innovation.",
+      "suggested_hook": "Transforming real estate challenges into opportunities with AI."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"What if your biggest real estate problem is actually your next opportunity?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a powerful mindset shift on our podcast. Ever feel stuck when Compass, Zillow, and MLS data don't align? You're not alone. Many agents hit a wall here, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'You find a problem and you can find a solution using this.' [ON-SCREEN: Transform challenges into opportunities] Most agents see data conflicts as roadblocks. Top producers view them as chances to innovate with AI. [ON-SCREEN: AI in real estate] Imagine turning a data mismatch into a new client solution.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Use AI to reframe challenges as opportunities. Ben's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed] You can do this today.\",\n    \"CTA\": \"Are you using AI to solve problems — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform real estate challenges into opportunities with AI. Are you ready? #RealEstateInnovation\",\n  \"HASHTAGS\": [\n    \"#RealEstateInnovation\",\n    \"#AIinRealEstate\",\n    \"#AgentMindset\",\n    \"#RealEstateTips\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents see data conflicts as roadblocks. Top producers view them as chances to innovate with AI.\"\n}\n```"
+  }
+]

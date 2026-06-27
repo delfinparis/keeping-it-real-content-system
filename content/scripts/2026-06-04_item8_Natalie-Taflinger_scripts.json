@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "06:05",
+      "end_timestamp": "07:06",
+      "quote": "Don't just come to them with recommendations. I come to them with solutions.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This emphasizes the importance of providing actionable solutions to clients, not just advice.",
+      "suggested_hook": "Are you offering your clients solutions or just advice?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you offering your clients solutions or just advice?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shared a game-changing approach on our podcast. You're prepping listings, analyzing markets, and advising clients, but are they really getting what they need? Most agents give advice, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie says, 'Don't just come to them with recommendations. I come to them with solutions.' [ON-SCREEN: Solutions, Not Just Advice] Most agents offer advice. Top producers deliver actionable solutions. [ON-SCREEN: Actionable Solutions] This shift transforms client relationships and boosts your credibility.\",\n    \"REFRAME/APPLICATION\": \"This matters because clients crave certainty. You can start applying this today by turning your advice into clear, actionable steps. Natalie closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform advice into solutions and watch your client relationships thrive. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientSolutions\", \"#TopProducer\", \"#AgentAdvice\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents offer advice. Top producers deliver actionable solutions.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:26",
+      "end_timestamp": "19:21",
+      "quote": "When you decide that I'm going to be the person to sell your home, I'm your gal, you're not going to hire me and talk to somebody else.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the personal touch and commitment Natalie offers to her clients.",
+      "suggested_hook": "Why personal connection is key in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why do personal connections make or break real estate deals?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Natalie Taflinger shares a crucial insight: You're not just selling homes, you're building trust. Ever felt like just another transaction in a client's eyes? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Natalie says, 'When you decide that I'm going to be the person to sell your home, I'm your gal, you're not going to hire me and talk to somebody else.' [ON-SCREEN: Personal Connection = Client Loyalty] Most agents focus on volume. Top producers focus on relationships.\",\n    \"REFRAME/APPLICATION\": \"This matters because personal touch equals client retention. Apply it this week by reaching out to clients personally. Natalie closed 47 deals last year using this approach.\",\n    \"CTA\": \"Do you prioritize personal connections — yes or no? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Personal connections in real estate aren't just nice—they're necessary. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRelationships\",\n    \"#TopProducer\",\n    \"#RealEstateSuccess\",\n    \"#AgentAdvice\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on volume. Top producers focus on relationships.\"\n}\n```"
+  }
+]
