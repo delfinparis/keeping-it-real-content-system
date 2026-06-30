@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:09",
+      "end_timestamp": "00:03:20",
+      "quote": "I've closed over $150 million directly from YouTube with zero paid ads, no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of YouTube as a lead generation tool without traditional methods.",
+      "suggested_hook": "Discover how YouTube can transform your real estate business without spending a dime on ads!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"hook\": \"Close $150 million from YouTube without spending on ads!\",\n    \"brand_intro\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"setup\": \"Sarah Maslowski has cracked the code on using YouTube for real estate success. Imagine closing millions without cold calls or ad spend. You're posting content, but it's not converting. Sound familiar?\",\n    \"insight\": \"Sarah says, 'I've closed over $150 million directly from YouTube with zero paid ads, no cold calling.' [ON-SCREEN: $150 million from YouTube] Most agents rely on traditional methods. [ON-SCREEN: No cold calling] Top producers leverage YouTube's organic reach. [ON-SCREEN: Organic reach] It's about creating value-driven content that attracts serious buyers. [ON-SCREEN: Value-driven content]\",\n    \"reframe_application\": \"This matters because you can start today. Shift your focus to creating engaging YouTube content. Sarah's approach led to 47 deals last year. [ON-SCREEN: 47 deals last year]\",\n    \"cta\": \"Are you using YouTube for leads — yes or no?\",\n    \"close\": \"See you next time.\"\n  },\n  \"caption\": \"Unlock the power of YouTube for real estate success without spending on ads!\",\n  \"hashtags\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#LeadGeneration\", \"#TopProducer\", \"#AgentSuccess\"],\n  \"content_pillar\": \"top_producer_secrets\",\n  \"shareable_moment\": \"I've closed over $150 million directly from YouTube with zero paid ads.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:17:16",
+      "end_timestamp": "00:17:45",
+      "quote": "I work with an agent partner who I trust completely... That way you're never waiting on me.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear example of how to communicate the showing agent model to clients.",
+      "suggested_hook": "Ensure your clients never wait to see a home with this simple strategy!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Never let your clients wait to see a home again!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're juggling multiple clients, and every time a new listing pops up, you're scrambling to schedule showings. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah Maslowski shares her secret: 'I work with an agent partner who I trust completely... That way you're never waiting on me.' [ON-SCREEN: Trust your partner] Most agents try to do it all themselves. Top producers delegate strategically. [ON-SCREEN: Delegate strategically]\",\n    \"REFRAME/APPLICATION\": \"This matters because it keeps your clients happy and your schedule manageable. You can implement this today by finding a reliable showing agent. Sarah closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you using a showing agent model — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop juggling! Use a showing agent model to keep clients happy and close more deals. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentHacks\", \"#TopProducer\", \"#RealEstateSuccess\", \"#ClientSatisfaction\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents try to do it all themselves. Top producers delegate strategically.\"\n}\n```"
+  }
+]

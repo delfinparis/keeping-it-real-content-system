@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Julia Hurley",
+    "title": "Owner",
+    "company": "Just Homes Group",
+    "production_level": "Closed over 2,000 deals",
+    "specialty": "Real estate, athlete management",
+    "location": "Knoxville, Tennessee"
+  },
+  "main_topics": [
+    "Resilience in real estate",
+    "Building a personal brand",
+    "Effective lead generation",
+    "Athlete management",
+    "Overcoming industry challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of quality leads",
+      "solution_summary": "Host open houses and door knock in high-end neighborhoods to generate leads.",
+      "timestamp": "41:47"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems for tracking leads and clients",
+      "solution_summary": "Use Google Docs and Sheets for free to track leads and manage client information.",
+      "timestamp": "42:56"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with setbacks and rejection",
+      "solution_summary": "Focus on resilience and rebuilding by leveraging past client relationships and offering value.",
+      "timestamp": "06:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for agents who have plateaued and need to reignite their business.",
+      "key_takeaway": "Re-engage past clients and leverage open houses to build momentum."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Julia shares insights on scaling a business and managing high-profile clients.",
+      "key_takeaway": "Focus on providing value and solving problems for high-net-worth clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:02",
+      "end_timestamp": "09:05",
+      "quote": "The best thing out of that experience was this past year, that same company came and asked me to come back.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights resilience and the power of building something bigger after a setback.",
+      "suggested_hook": "Ever been asked to return to a company that let you go? Here's how Julia Hurley handled it."
+    },
+    {
+      "timestamp": "41:47",
+      "end_timestamp": "42:56",
+      "quote": "Host open houses for other REALTORS in the high-end subdivisions, hands down open houses, door knocking, that's it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for generating leads.",
+      "suggested_hook": "Want to know the secret to generating quality leads? Julia Hurley shares her top tactic."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host open houses and door knock in high-end neighborhoods.",
+      "context": "To generate quality leads and build a presence in a new market.",
+      "timestamp": "41:47"
+    },
+    {
+      "tactic": "Use Google Docs and Sheets for client and lead management.",
+      "context": "For agents with limited budgets who need to track their business operations.",
+      "timestamp": "42:56"
+    }
+  ],
+  "quotable_insights": [
+    "Nothing worth doing is ever easy.",
+    "You always have something to offer; find out what it is and provide value."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Panic to Profit",
+      "context": "Julia Hurley's book for agents looking to transform their business mindset."
+    }
+  ],
+  "episode_summary": "Julia Hurley shares her journey from being voted out of a company to building a successful brokerage and athlete management firm. She provides actionable insights on lead generation through open houses and door knocking, emphasizes the importance of resilience, and offers strategies for re-engaging past clients. Her story is a testament to overcoming industry challenges and building a personal brand.",
+  "_metadata": {
+    "source_file": "2026-06-26_item2_Julia-Hurley",
+    "analyzed_at": "2026-06-30T05:37:57.031576",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

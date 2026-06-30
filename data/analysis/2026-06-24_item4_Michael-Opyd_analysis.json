@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Julia Linquist",
+    "title": "Real Estate Agent",
+    "company": "At Properties",
+    "production_level": "Top Producer",
+    "specialty": "Residential Real Estate",
+    "location": "Chicago, North Shore, Northwest Suburbs"
+  },
+  "main_topics": [
+    "Balancing family and real estate career",
+    "Effective time management for REALTORS",
+    "Importance of setting income goals over transaction volume",
+    "Delegation and team building in real estate",
+    "Stress management and personal well-being"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Struggling to manage time between family and business responsibilities",
+      "solution_summary": "Focus on delegating tasks and setting clear boundaries for work and family time.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems and organization in business operations",
+      "solution_summary": "Implement consistent daily routines and delegate tasks to free up time for strategic activities.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "High stress levels affecting personal and professional life",
+      "solution_summary": "Adopt daily practices for stress management and focus on long-term goals.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the challenges of balancing a high-stress career with personal life.",
+      "key_takeaway": "Delegating tasks and focusing on high-value activities can reduce stress and improve work-life balance."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into achieving high production levels while maintaining personal well-being.",
+      "key_takeaway": "Focus on income goals rather than transaction volume to achieve a sustainable business model."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "44:00",
+      "end_timestamp": "44:45",
+      "quote": "If you don't fix this today, what's it going to look like six months down the line?",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges listeners to consider the long-term impact of their current habits.",
+      "suggested_hook": "Are your current habits setting you up for future success or failure?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Delegate tasks to free up time for high-value activities.",
+      "context": "Identify tasks that can be handled by others to focus on strategic goals.",
+      "timestamp": "41:00"
+    },
+    {
+      "tactic": "Set clear income goals instead of focusing solely on transaction volume.",
+      "context": "Align business activities with income targets to ensure financial stability.",
+      "timestamp": "33:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a 'you' problem.",
+    "Focus on income goals rather than transaction volume to achieve a sustainable business model."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and client management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for agent recruitment and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Julia Linquist discusses the challenges of balancing a high-stress real estate career with family life. Michael Opyd provides actionable insights on time management, setting income goals, and the importance of delegation to achieve a sustainable business model. Listeners will learn how to reduce stress and improve work-life balance while maintaining high production levels.",
+  "_metadata": {
+    "source_file": "2026-06-24_item4_Michael-Opyd",
+    "analyzed_at": "2026-06-30T05:36:42.817752",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

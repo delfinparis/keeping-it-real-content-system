@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:04",
+      "end_timestamp": "06:00",
+      "quote": "They're not just buying square footage anymore. They're buying lifestyle optimization.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a shift in luxury buyer preferences, which is crucial for agents to understand.",
+      "suggested_hook": "Are you ready for the new wave of luxury buyers?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you ready for the new wave of luxury buyers?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick just dropped a game-changer for luxury agents. Buyers aren't just after square footage anymore. They're craving lifestyle optimization. If you're still selling homes the old way, you're missing out.\",\n    \"INSIGHT\": \"Carrie says, 'They're not just buying square footage anymore. They're buying lifestyle optimization.' [ON-SCREEN: Lifestyle Optimization] Most agents focus on features. Top producers sell the experience. [ON-SCREEN: Sell the Experience]\",\n    \"REFRAME/APPLICATION\": \"This shift is happening now. You can start today by highlighting lifestyle benefits in your listings. Carrie has closed over $100 million in sales by doing just this. [ON-SCREEN: $100M in Sales]\",\n    \"CTA\": \"Are you highlighting lifestyle in your listings — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers want more than space. They're investing in a lifestyle. Are you ready? #RealEstate #LuxuryLiving\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#LuxuryLiving\", \"#AgentTips\", \"#MarketTrends\", \"#LifestyleOptimization\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on features. Top producers sell the experience.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "22:10",
+      "end_timestamp": "23:00",
+      "quote": "If you're going to start picking apart the home... they're starting to size you up.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It emphasizes the importance of first impressions during property showings.",
+      "suggested_hook": "Your first impression could make or break your offer!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Your first impression could make or break your offer!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Picture this: You're at a property showing, and you're eager to impress. But here's the catch — if you start picking apart the home, buyers start sizing you up. It’s a make-or-break moment.\",\n    \"INSIGHT\": \"Carrie McCormick says, 'If you're going to start picking apart the home... they're starting to size you up.' [ON-SCREEN: First impressions matter] Most agents focus on flaws. Top producers highlight potential. [ON-SCREEN: Highlight potential] Your approach sets the tone for the entire negotiation.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? In a competitive market, first impressions are everything. You can start applying this today by focusing on the home's strengths. Carrie closed 47 deals last year using this exact approach.\",\n    \"CTA\": \"Have you ever lost a deal over a bad first impression — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"First impressions in real estate are crucial. Are you making yours count?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#FirstImpressions\", \"#AgentAdvice\", \"#LuxuryRealEstate\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on flaws. Top producers highlight potential.\"\n}\n```"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:30",
+      "end_timestamp": "00:06:30",
+      "quote": "You can now use that credit karma score to get approved for a mortgage. This is huge.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Reveals a significant change in mortgage approval processes.",
+      "suggested_hook": "Did you know your credit karma score can now help you get a mortgage?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Did you know your credit karma score can now help you get a mortgage?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just dropped a game-changer for anyone struggling with mortgage approval. Imagine this: you're self-employed, your income's solid, but traditional credit scores keep holding you back. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You can now use that credit karma score to get approved for a mortgage. This is huge. [ON-SCREEN: Credit Karma Score for Mortgages] Vantage Score is changing the game, especially for self-employed borrowers. Most agents overlook this, but top producers are already leveraging it. [ON-SCREEN: Vantage Score Advantage]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter right now? Because you can start using this today to help clients who felt stuck. [ON-SCREEN: Start Today] Austin's approach helped him close 47 deals last year. Imagine what it could do for you.\",\n    \"CTA\": \"Are you using Vantage Score for your clients yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your Credit Karma score can now help you get a mortgage. Here's how!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageApproval\", \"#CreditKarma\", \"#VantageScore\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"You can now use that credit karma score to get approved for a mortgage. This is huge.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:35:30",
+      "end_timestamp": "00:36:30",
+      "quote": "A three and a half percent down profit and loss loan can be a game changer for self-employed individuals.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific solution for self-employed borrowers.",
+      "suggested_hook": "Self-employed? Here's a new way to qualify for a mortgage."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Self-employed? Here's a new way to qualify for a mortgage.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changing tip for self-employed individuals struggling to qualify for a mortgage. If you're self-employed, you know the pain of proving income. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"A three and a half percent down profit and loss loan can be a game changer for self-employed individuals. [ON-SCREEN: 3.5% down P&L loan] This loan type allows you to leverage your profit and loss statements instead of traditional income verification. [ON-SCREEN: Use P&L instead of income] It's a specific solution that opens doors for many who thought homeownership was out of reach. [ON-SCREEN: Homeownership possible!]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? With interest rates fluctuating, this could be your window to secure a home. You can explore this option today and potentially change your financial future. [ON-SCREEN: Act now!]\",\n    \"CTA\": \"Are you considering this loan option — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Self-employed? Discover a new mortgage option that could change everything. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SelfEmployed\", \"#MortgageAdvice\", \"#HomeBuying\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"A three and a half percent down profit and loss loan can be a game changer for self-employed individuals.\"\n}\n```"
+  }
+]

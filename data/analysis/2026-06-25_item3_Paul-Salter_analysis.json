@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Peak Performance Coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Proving Self-Worth through Success",
+    "Sustainable Achievement vs. Prove-It Energy",
+    "Emotional and Relational Costs of High Achievement",
+    "Recalibrating Ambition for Fulfillment",
+    "Separating Self-Worth from Professional Success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Building success on the need to prove self-worth",
+      "solution_summary": "Shift focus from external validation to internal fulfillment to achieve sustainable success.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Inability to turn off work mode",
+      "solution_summary": "Recalibrate ambition to allow for rest and personal time, improving overall well-being.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Defining success solely by financial metrics",
+      "solution_summary": "Measure success by hourly rate and personal relationships rather than just income.",
+      "timestamp": "15:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veterans often feel the need to prove themselves continuously, leading to burnout.",
+      "key_takeaway": "Recalibrating ambition and focusing on internal fulfillment can lead to sustainable success and personal peace."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers may rely on prove-it energy, risking burnout.",
+      "key_takeaway": "Building success from a place of purpose rather than proof leads to better performance and personal satisfaction."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "07:00",
+      "end_timestamp": "07:45",
+      "quote": "Your superpower of tenacity and ambition will inevitably become your kryptonite.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This quote succinctly captures the paradox of high achievement.",
+      "suggested_hook": "Is your greatest strength also your biggest weakness?"
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that success leads to fulfillment.",
+      "suggested_hook": "Why your achievements might not bring you happiness."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Measure success by hourly rate instead of total income.",
+      "context": "Encourages a balance between work and personal life.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Recalibrate ambition to allow for rest and personal time.",
+      "context": "Helps prevent burnout and improve relationships.",
+      "timestamp": "09:00"
+    }
+  ],
+  "quotable_insights": [
+    "The most dangerous thing about this proven energy is that it works.",
+    "Fulfillment-driven achievement is a sustainable fuel source."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for agent recruitment and retention using AI."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Suggested for improving lead conversion and business generation."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the pitfalls of building success on the need to prove self-worth. He emphasizes the importance of shifting from external validation to internal fulfillment for sustainable achievement. Salter provides actionable insights on recalibrating ambition to balance work with personal life, ultimately leading to greater peace and satisfaction.",
+  "_metadata": {
+    "source_file": "2026-06-25_item3_Paul-Salter",
+    "analyzed_at": "2026-06-30T05:37:14.190447",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

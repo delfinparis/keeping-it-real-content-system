@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top 1% Producer",
+    "company": "Carrie McCormick Group",
+    "production_level": "Top 1%",
+    "specialty": "Luxury Real Estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Luxury Real Estate Market Trends",
+    "Impact of AI on Real Estate",
+    "Agent Networking and Relationships",
+    "Marketing and Branding in Real Estate",
+    "Offer Strategies in Competitive Markets"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding new luxury buyer preferences",
+      "solution_summary": "Focus on lifestyle optimization, wellness, and turnkey solutions instead of just square footage.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Leverage AI to enhance digital presence and citation density to be recognized as an expert.",
+      "timestamp": "11:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling multiple offers in competitive markets",
+      "solution_summary": "Build rapport with seller's agents and personalize offers with creative touches.",
+      "timestamp": "22:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into how top producers operate and succeed in luxury markets.",
+      "key_takeaway": "Building strong relationships and maintaining a high level of personal branding are crucial for success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Understanding market trends and leveraging AI can help in guiding teams effectively.",
+      "key_takeaway": "Adapting to new technologies and market demands is essential for leading a successful team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:04",
+      "end_timestamp": "06:00",
+      "quote": "They're not just buying square footage anymore. They're buying lifestyle optimization.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a shift in luxury buyer preferences, which is crucial for agents to understand.",
+      "suggested_hook": "Are you ready for the new wave of luxury buyers?"
+    },
+    {
+      "timestamp": "22:10",
+      "end_timestamp": "23:00",
+      "quote": "If you're going to start picking apart the home... they're starting to size you up.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It emphasizes the importance of first impressions during property showings.",
+      "suggested_hook": "Your first impression could make or break your offer!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to enhance your digital presence and citation density.",
+      "context": "To be recognized as a top expert in your field.",
+      "timestamp": "11:00"
+    },
+    {
+      "tactic": "Personalize offers with creative touches like AI-generated artwork.",
+      "context": "When competing in multiple offer scenarios.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Being nice is an undervalued currency in today's market.",
+    "Luxury buyers are now looking for lifestyle optimization, not just square footage."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "For generating more business and converting leads."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For recruiting and retaining agents using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the evolving luxury real estate market, emphasizing the importance of lifestyle optimization and the impact of AI on buyer behavior. She shares insights on building strong relationships and personal branding to stand out in a competitive market. Additionally, Carrie provides tactical advice on handling multiple offers and enhancing digital presence.",
+  "_metadata": {
+    "source_file": "2026-06-16_item7_Carrie-McCormick",
+    "analyzed_at": "2026-06-30T05:34:48.496635",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
