@@ -1,9 +1,9 @@
 {
   "source_file": "2026-06-09_item8_Austin-Clarence.mp3",
   "language": "en",
-  "duration_seconds": 2922.8,
-  "duration_formatted": "00:48:42",
-  "transcribed_at": "2026-06-30T05:30:15.093562",
+  "duration_seconds": 2943.26,
+  "duration_formatted": "00:49:03",
+  "transcribed_at": "2026-07-01T05:40:16.888430",
   "model_used": "whisper",
   "segments": [
     {
@@ -46367,7 +46367,7 @@
       "end": 2636.16,
       "start_formatted": "00:43:38",
       "end_formatted": "00:43:56",
-      "text": "And so I just see this so much opportunity right now and you know we focus so much on inventory and how tough it is for primary buyers right now and yes it is and rates are you know rates are always going to be higher than anyone ever once except you know from several years ago when they weren't.",
+      "text": "And so I just see that so much opportunity right now and you know we we focus so much on inventory and how tough it is for primary buyers right now and yes it is and rates are you know rates are always going to be higher than anyone ever once except you know from several years ago when they weren't.",
       "words": [
         {
           "word": " And",
@@ -46395,23 +46395,23 @@
           "end": 2619.74
         },
         {
-          "word": " this",
+          "word": " that",
           "start": 2619.74,
           "end": 2619.86
         },
         {
           "word": " so",
           "start": 2619.86,
-          "end": 2620.16
+          "end": 2620.14
         },
         {
           "word": " much",
-          "start": 2620.16,
-          "end": 2620.32
+          "start": 2620.14,
+          "end": 2620.34
         },
         {
           "word": " opportunity",
-          "start": 2620.32,
+          "start": 2620.34,
           "end": 2620.92
         },
         {
@@ -46445,8 +46445,13 @@
           "end": 2622.76
         },
         {
-          "word": " focus",
+          "word": " we",
           "start": 2622.76,
+          "end": 2622.94
+        },
+        {
+          "word": " focus",
+          "start": 2622.94,
           "end": 2623.2
         },
         {
@@ -46457,16 +46462,16 @@
         {
           "word": " much",
           "start": 2623.52,
-          "end": 2623.76
+          "end": 2623.78
         },
         {
           "word": " on",
-          "start": 2623.76,
-          "end": 2623.92
+          "start": 2623.78,
+          "end": 2623.9
         },
         {
           "word": " inventory",
-          "start": 2623.92,
+          "start": 2623.9,
           "end": 2624.42
         },
         {
@@ -46502,11 +46507,11 @@
         {
           "word": " primary",
           "start": 2625.68,
-          "end": 2626.12
+          "end": 2626.1
         },
         {
           "word": " buyers",
-          "start": 2626.12,
+          "start": 2626.1,
           "end": 2626.68
         },
         {
@@ -49357,7 +49362,7 @@
       "end": 2828.82,
       "start_formatted": "00:46:44",
       "end_formatted": "00:47:08",
-      "text": "Yeah Austin I have worked with a lot of different providers over the years on the show and in the brokerage that that I work for which is called Kale Realty here in Chicago and I will tell you I have had because we have 800 agents at our own firm here locally in Chicago we get a lot of calls from lenders that say I want to get in front of your agents and we are like oh you know I'm going to say I'm going to get in front of you.",
+      "text": "Yeah Austin I have worked with a lot of different providers over the years on the show and in the brokerage that I work for which is called Kale Realty here in Chicago and I will tell you I have had because we have 800 agents at our own firm here locally in Chicago we get a lot of calls from lenders that say I want to get in front of your agents and we are like oh you know I'm going to say I'm going to get in front of you.",
       "words": [
         {
           "word": " Yeah",
@@ -49470,28 +49475,23 @@
           "end": 2812.66
         },
         {
-          "word": " that",
-          "start": 2812.66,
-          "end": 2812.9
-        },
-        {
           "word": " I",
-          "start": 2812.9,
-          "end": 2812.98
+          "start": 2812.66,
+          "end": 2812.96
         },
         {
           "word": " work",
-          "start": 2812.98,
-          "end": 2813.18
+          "start": 2812.96,
+          "end": 2813.16
         },
         {
           "word": " for",
-          "start": 2813.18,
-          "end": 2813.6
+          "start": 2813.16,
+          "end": 2813.62
         },
         {
           "word": " which",
-          "start": 2813.6,
+          "start": 2813.62,
           "end": 2813.9
         },
         {
@@ -49532,11 +49532,11 @@
         {
           "word": " and",
           "start": 2815.36,
-          "end": 2816.12
+          "end": 2816.14
         },
         {
           "word": " I",
-          "start": 2816.12,
+          "start": 2816.14,
           "end": 2816.4
         },
         {
@@ -49562,16 +49562,16 @@
         {
           "word": " have",
           "start": 2817.32,
-          "end": 2817.46
+          "end": 2817.48
         },
         {
           "word": " had",
-          "start": 2817.46,
-          "end": 2817.74
+          "start": 2817.48,
+          "end": 2817.72
         },
         {
           "word": " because",
-          "start": 2817.74,
+          "start": 2817.72,
           "end": 2818.54
         },
         {
@@ -49612,11 +49612,11 @@
         {
           "word": " firm",
           "start": 2820.6,
-          "end": 2820.82
+          "end": 2820.8
         },
         {
           "word": " here",
-          "start": 2820.82,
+          "start": 2820.8,
           "end": 2821.0
         },
         {
@@ -49677,11 +49677,11 @@
         {
           "word": " that",
           "start": 2823.74,
-          "end": 2824.02
+          "end": 2824.0
         },
         {
           "word": " say",
-          "start": 2824.02,
+          "start": 2824.0,
           "end": 2824.22
         },
         {
@@ -49722,11 +49722,11 @@
         {
           "word": " your",
           "start": 2825.36,
-          "end": 2825.76
+          "end": 2825.74
         },
         {
           "word": " agents",
-          "start": 2825.76,
+          "start": 2825.74,
           "end": 2826.24
         },
         {
@@ -49828,15 +49828,20 @@
     },
     {
       "id": 513,
-      "start": 2828.84,
-      "end": 2848.84,
+      "start": 2828.82,
+      "end": 2848.86,
       "start_formatted": "00:47:08",
       "end_formatted": "00:47:28",
-      "text": "So it's so hard to know who's a good lender and who isn't I will tell you Austin is amazing he just is one we've chosen to represent keeping it real here on the podcast so please give him an opportunity on your next deal he would love to be that backup offer if you already have a good relationship with an L.O.",
+      "text": "You know it's so hard to know who's a good lender and who isn't I will tell you Austin is amazing he just is one we've chosen to represent keeping it real here on the podcast so please give him an opportunity on your next deal he would love to be that backup offer if you already have a good relationship with an L.O.",
       "words": [
         {
-          "word": " So",
-          "start": 2828.84,
+          "word": " You",
+          "start": 2828.82,
+          "end": 2828.88
+        },
+        {
+          "word": " know",
+          "start": 2828.88,
           "end": 2828.88
         },
         {
@@ -49852,41 +49857,41 @@
         {
           "word": " hard",
           "start": 2829.44,
-          "end": 2830.06
+          "end": 2830.04
         },
         {
           "word": " to",
-          "start": 2830.06,
-          "end": 2830.52
+          "start": 2830.04,
+          "end": 2830.54
         },
         {
           "word": " know",
-          "start": 2830.52,
-          "end": 2830.86
+          "start": 2830.54,
+          "end": 2830.84
         },
         {
           "word": " who's",
-          "start": 2830.86,
+          "start": 2830.84,
           "end": 2831.42
         },
         {
           "word": " a",
           "start": 2831.42,
-          "end": 2831.54
+          "end": 2831.52
         },
         {
           "word": " good",
-          "start": 2831.54,
+          "start": 2831.52,
           "end": 2831.72
         },
         {
           "word": " lender",
           "start": 2831.72,
-          "end": 2832.08
+          "end": 2832.06
         },
         {
           "word": " and",
-          "start": 2832.08,
+          "start": 2832.06,
           "end": 2832.32
         },
         {
@@ -49902,11 +49907,11 @@
         {
           "word": " I",
           "start": 2833.04,
-          "end": 2833.54
+          "end": 2833.52
         },
         {
           "word": " will",
-          "start": 2833.54,
+          "start": 2833.52,
           "end": 2833.68
         },
         {
@@ -49917,11 +49922,11 @@
         {
           "word": " you",
           "start": 2833.9,
-          "end": 2834.18
+          "end": 2834.2
         },
         {
           "word": " Austin",
-          "start": 2834.18,
+          "start": 2834.2,
           "end": 2834.86
         },
         {
@@ -49987,11 +49992,11 @@
         {
           "word": " real",
           "start": 2840.38,
-          "end": 2840.62
+          "end": 2840.6
         },
         {
           "word": " here",
-          "start": 2840.62,
+          "start": 2840.6,
           "end": 2840.88
         },
         {
@@ -50132,11 +50137,11 @@
         {
           "word": " relationship",
           "start": 2847.58,
-          "end": 2848.02
+          "end": 2848.04
         },
         {
           "word": " with",
-          "start": 2848.02,
+          "start": 2848.04,
           "end": 2848.38
         },
         {
@@ -50152,13 +50157,13 @@
         {
           "word": ".O.",
           "start": 2848.7,
-          "end": 2848.84
+          "end": 2848.86
         }
       ]
     },
     {
       "id": 514,
-      "start": 2848.84,
+      "start": 2848.86,
       "end": 2877.96,
       "start_formatted": "00:47:28",
       "end_formatted": "00:47:57",
@@ -50166,7 +50171,7 @@
       "words": [
         {
           "word": " He",
-          "start": 2848.84,
+          "start": 2848.86,
           "end": 2849.26
         },
         {
@@ -50237,21 +50242,21 @@
         {
           "word": " out",
           "start": 2852.02,
-          "end": 2852.2
+          "end": 2852.22
         },
         {
           "word": " to",
-          "start": 2852.2,
+          "start": 2852.22,
           "end": 2852.34
         },
         {
           "word": " him",
           "start": 2852.34,
-          "end": 2852.42
+          "end": 2852.44
         },
         {
           "word": " anyway",
-          "start": 2852.42,
+          "start": 2852.44,
           "end": 2852.76
         },
         {
@@ -50292,21 +50297,21 @@
         {
           "word": " primary",
           "start": 2854.0,
-          "end": 2854.44
+          "end": 2854.46
         },
         {
           "word": " but",
-          "start": 2854.44,
+          "start": 2854.46,
           "end": 2854.72
         },
         {
           "word": " give",
           "start": 2854.72,
-          "end": 2855.12
+          "end": 2855.14
         },
         {
           "word": " him",
-          "start": 2855.12,
+          "start": 2855.14,
           "end": 2855.28
         },
         {
@@ -50392,11 +50397,11 @@
         {
           "word": " to",
           "start": 2860.24,
-          "end": 2860.4
+          "end": 2860.38
         },
         {
           "word": " our",
-          "start": 2860.4,
+          "start": 2860.38,
           "end": 2860.54
         },
         {
@@ -50407,11 +50412,11 @@
         {
           "word": " and",
           "start": 2860.82,
-          "end": 2861.44
+          "end": 2861.46
         },
         {
           "word": " we",
-          "start": 2861.44,
+          "start": 2861.46,
           "end": 2861.7
         },
         {
@@ -50452,11 +50457,11 @@
         {
           "word": " improve",
           "start": 2863.22,
-          "end": 2863.72
+          "end": 2863.7
         },
         {
           "word": " because",
-          "start": 2863.72,
+          "start": 2863.7,
           "end": 2864.36
         },
         {
@@ -50592,11 +50597,11 @@
         {
           "word": " amazing",
           "start": 2870.68,
-          "end": 2871.16
+          "end": 2871.18
         },
         {
           "word": " conversation",
-          "start": 2871.16,
+          "start": 2871.18,
           "end": 2872.14
         },
         {
@@ -50617,11 +50622,11 @@
         {
           "word": " audience",
           "start": 2873.66,
-          "end": 2874.02
+          "end": 2874.04
         },
         {
           "word": " we",
-          "start": 2874.02,
+          "start": 2874.04,
           "end": 2874.22
         },
         {
@@ -50693,20 +50698,20 @@
     },
     {
       "id": 515,
-      "start": 2878.84,
-      "end": 2902.78,
-      "start_formatted": "00:47:58",
+      "start": 2877.96,
+      "end": 2902.74,
+      "start_formatted": "00:47:57",
       "end_formatted": "00:48:22",
-      "text": "Thank you to the audience as always the best way you can help us is not only by reaching out to Austin but by telling a friend about this podcast shoot a link let him know about keeping it real and we would always appreciate that and leave us a review if you're listening to us on iTunes or Spotify or wherever you're checking us out we love to hear how you're doing and shoot Austin a direct message asked to be on his",
+      "text": "Thank you to the audience as always the best way you can help us is not only by reaching out to Austin but by telling a friend about this podcast shoot a link let him know about keeping it real and we would always appreciate that and leave us a review if you're listening to us on iTunes or Spotify or wherever you're checking us out we love to hear how you're doing and shoot Austin a direct message asked to be on his.",
       "words": [
         {
           "word": " Thank",
-          "start": 2878.84,
-          "end": 2878.96
+          "start": 2877.96,
+          "end": 2878.62
         },
         {
           "word": " you",
-          "start": 2878.96,
+          "start": 2878.62,
           "end": 2878.96
         },
         {
@@ -50767,16 +50772,16 @@
         {
           "word": " us",
           "start": 2881.42,
-          "end": 2881.9
+          "end": 2881.92
         },
         {
           "word": " is",
-          "start": 2881.9,
-          "end": 2882.46
+          "start": 2881.92,
+          "end": 2882.44
         },
         {
           "word": " not",
-          "start": 2882.46,
+          "start": 2882.44,
           "end": 2882.82
         },
         {
@@ -50787,11 +50792,11 @@
         {
           "word": " by",
           "start": 2883.04,
-          "end": 2883.18
+          "end": 2883.2
         },
         {
           "word": " reaching",
-          "start": 2883.18,
+          "start": 2883.2,
           "end": 2883.44
         },
         {
@@ -50817,11 +50822,11 @@
         {
           "word": " by",
           "start": 2884.24,
-          "end": 2884.44
+          "end": 2884.46
         },
         {
           "word": " telling",
-          "start": 2884.44,
+          "start": 2884.46,
           "end": 2884.74
         },
         {
@@ -50837,21 +50842,21 @@
         {
           "word": " about",
           "start": 2885.2,
-          "end": 2885.62
+          "end": 2885.64
         },
         {
           "word": " this",
-          "start": 2885.62,
-          "end": 2886.08
+          "start": 2885.64,
+          "end": 2886.14
         },
         {
           "word": " podcast",
-          "start": 2886.08,
-          "end": 2886.74
+          "start": 2886.14,
+          "end": 2886.76
         },
         {
           "word": " shoot",
-          "start": 2886.74,
+          "start": 2886.76,
           "end": 2887.38
         },
         {
@@ -50887,36 +50892,36 @@
         {
           "word": " keeping",
           "start": 2888.82,
-          "end": 2889.08
+          "end": 2889.1
         },
         {
           "word": " it",
-          "start": 2889.08,
+          "start": 2889.1,
           "end": 2889.28
         },
         {
           "word": " real",
           "start": 2889.28,
-          "end": 2889.52
+          "end": 2889.54
         },
         {
           "word": " and",
-          "start": 2889.52,
-          "end": 2890.26
+          "start": 2889.54,
+          "end": 2890.24
         },
         {
           "word": " we",
-          "start": 2890.26,
+          "start": 2890.24,
           "end": 2890.64
         },
         {
           "word": " would",
           "start": 2890.64,
-          "end": 2891.24
+          "end": 2891.18
         },
         {
           "word": " always",
-          "start": 2891.24,
+          "start": 2891.18,
           "end": 2891.92
         },
         {
@@ -50972,21 +50977,21 @@
         {
           "word": " to",
           "start": 2894.32,
-          "end": 2894.52
+          "end": 2894.54
         },
         {
           "word": " us",
-          "start": 2894.52,
+          "start": 2894.54,
           "end": 2894.76
         },
         {
           "word": " on",
           "start": 2894.76,
-          "end": 2895.02
+          "end": 2895.0
         },
         {
           "word": " iTunes",
-          "start": 2895.02,
+          "start": 2895.0,
           "end": 2895.4
         },
         {
@@ -50997,11 +51002,11 @@
         {
           "word": " Spotify",
           "start": 2895.7,
-          "end": 2896.2
+          "end": 2896.22
         },
         {
           "word": " or",
-          "start": 2896.2,
+          "start": 2896.22,
           "end": 2896.5
         },
         {
@@ -51017,11 +51022,11 @@
         {
           "word": " checking",
           "start": 2897.24,
-          "end": 2897.74
+          "end": 2897.76
         },
         {
           "word": " us",
-          "start": 2897.74,
+          "start": 2897.76,
           "end": 2897.94
         },
         {
@@ -51047,11 +51052,11 @@
         {
           "word": " hear",
           "start": 2898.9,
-          "end": 2899.1
+          "end": 2899.08
         },
         {
           "word": " how",
-          "start": 2899.1,
+          "start": 2899.08,
           "end": 2899.42
         },
         {
@@ -51072,21 +51077,21 @@
         {
           "word": " shoot",
           "start": 2899.94,
-          "end": 2900.16
+          "end": 2900.14
         },
         {
           "word": " Austin",
-          "start": 2900.16,
+          "start": 2900.14,
           "end": 2900.56
         },
         {
           "word": " a",
           "start": 2900.56,
-          "end": 2900.68
+          "end": 2900.7
         },
         {
           "word": " direct",
-          "start": 2900.68,
+          "start": 2900.7,
           "end": 2900.9
         },
         {
@@ -51115,9 +51120,9 @@
           "end": 2902.48
         },
         {
-          "word": " his",
+          "word": " his.",
           "start": 2902.48,
-          "end": 2902.78
+          "end": 2902.74
         }
       ]
     },
@@ -51127,36 +51132,21 @@
       "end": 2918.98,
       "start_formatted": "00:48:25",
       "end_formatted": "00:48:38",
-      "text": "Instagram Instagram Instagram, he can find him Austin.morge Instagram tik tok YouTube he's all over the place or just messages we'll have all this stuff in the show notes so you can just click and Austin thank you once again we will see everybody on the next episode.",
+      "text": "He can find him Austin dot mortgage Instagram TikTok YouTube he's all over the place or just message us we'll have all this stuff in the show notes so you can just click and Austin thank you once again we will see everybody on the next episode.",
       "words": [
         {
-          "word": " Instagram",
+          "word": " He",
           "start": 2905.08,
-          "end": 2905.52
-        },
-        {
-          "word": " Instagram",
-          "start": 2905.52,
-          "end": 2905.52
-        },
-        {
-          "word": " Instagram,",
-          "start": 2905.52,
-          "end": 2905.52
-        },
-        {
-          "word": " he",
-          "start": 2905.52,
-          "end": 2905.62
+          "end": 2905.56
         },
         {
           "word": " can",
-          "start": 2905.62,
-          "end": 2905.74
+          "start": 2905.56,
+          "end": 2905.76
         },
         {
           "word": " find",
-          "start": 2905.74,
+          "start": 2905.76,
           "end": 2905.96
         },
         {
@@ -51170,33 +51160,33 @@
           "end": 2906.7
         },
         {
-          "word": ".morge",
+          "word": " dot",
           "start": 2906.7,
-          "end": 2907.28
+          "end": 2906.92
+        },
+        {
+          "word": " mortgage",
+          "start": 2906.92,
+          "end": 2907.3
         },
         {
           "word": " Instagram",
-          "start": 2907.28,
-          "end": 2907.98
+          "start": 2907.3,
+          "end": 2908.04
         },
         {
-          "word": " tik",
-          "start": 2907.98,
-          "end": 2908.36
-        },
-        {
-          "word": " tok",
-          "start": 2908.36,
-          "end": 2908.6
+          "word": " TikTok",
+          "start": 2908.04,
+          "end": 2908.46
         },
         {
           "word": " YouTube",
-          "start": 2908.6,
-          "end": 2909.18
+          "start": 2908.46,
+          "end": 2909.06
         },
         {
           "word": " he's",
-          "start": 2909.18,
+          "start": 2909.06,
           "end": 2909.42
         },
         {
@@ -51230,13 +51220,18 @@
           "end": 2910.38
         },
         {
-          "word": " messages",
+          "word": " message",
           "start": 2910.38,
           "end": 2910.64
         },
         {
-          "word": " we'll",
+          "word": " us",
           "start": 2910.64,
+          "end": 2910.94
+        },
+        {
+          "word": " we'll",
+          "start": 2910.94,
           "end": 2911.36
         },
         {
@@ -51247,11 +51242,11 @@
         {
           "word": " all",
           "start": 2911.5,
-          "end": 2911.64
+          "end": 2911.66
         },
         {
           "word": " this",
-          "start": 2911.64,
+          "start": 2911.66,
           "end": 2911.78
         },
         {
@@ -51297,21 +51292,21 @@
         {
           "word": " just",
           "start": 2913.18,
-          "end": 2913.3
+          "end": 2913.28
         },
         {
           "word": " click",
-          "start": 2913.3,
+          "start": 2913.28,
           "end": 2913.52
         },
         {
           "word": " and",
           "start": 2913.52,
-          "end": 2914.22
+          "end": 2914.2
         },
         {
           "word": " Austin",
-          "start": 2914.22,
+          "start": 2914.2,
           "end": 2914.7
         },
         {
@@ -51357,11 +51352,11 @@
         {
           "word": " on",
           "start": 2917.56,
-          "end": 2918.06
+          "end": 2918.04
         },
         {
           "word": " the",
-          "start": 2918.06,
+          "start": 2918.04,
           "end": 2918.3
         },
         {
@@ -51378,15 +51373,15 @@
     },
     {
       "id": 517,
-      "start": 2919.86,
-      "end": 2922.2,
+      "start": 2919.82,
+      "end": 2922.8,
       "start_formatted": "00:48:39",
       "end_formatted": "00:48:42",
-      "text": "DJ thank you for having me on see you next time.",
+      "text": "DJ thank you for having me on see you next time appreciate you.",
       "words": [
         {
           "word": " DJ",
-          "start": 2919.86,
+          "start": 2919.82,
           "end": 2920.3
         },
         {
@@ -51417,41 +51412,31 @@
         {
           "word": " on",
           "start": 2921.22,
-          "end": 2921.4
+          "end": 2921.42
         },
         {
           "word": " see",
-          "start": 2921.4,
+          "start": 2921.42,
           "end": 2921.76
         },
         {
           "word": " you",
           "start": 2921.76,
-          "end": 2921.82
+          "end": 2921.84
         },
         {
           "word": " next",
-          "start": 2921.82,
+          "start": 2921.84,
           "end": 2921.96
         },
         {
-          "word": " time.",
+          "word": " time",
           "start": 2921.96,
           "end": 2922.2
-        }
-      ]
-    },
-    {
-      "id": 518,
-      "start": 2922.44,
-      "end": 2922.8,
-      "start_formatted": "00:48:42",
-      "end_formatted": "00:48:42",
-      "text": "Appreciate you.",
-      "words": [
+        },
         {
-          "word": " Appreciate",
-          "start": 2922.44,
+          "word": " appreciate",
+          "start": 2922.2,
           "end": 2922.62
         },
         {
@@ -51460,7 +51445,22 @@
           "end": 2922.8
         }
       ]
+    },
+    {
+      "id": 518,
+      "start": 2941.86,
+      "end": 2943.26,
+      "start_formatted": "00:49:01",
+      "end_formatted": "00:49:03",
+      "text": "you",
+      "words": [
+        {
+          "word": " you",
+          "start": 2941.86,
+          "end": 2943.26
+        }
+      ]
     }
   ],
-  "full_text": " Did you know that there's a different credit score other than FICO that your clients can now use to qualify for mortgages? This is Breaking News. Stay tuned. This episode of Keeping It Real is brought to you by Real Geeks. How many homes are you going to sell this year? Do you have the right tools? Is your website turning soft leads in interested buyers? Are you spending money on leads that aren't converting? Well, Real Geeks is your solution. Find out why agents across the country choose Real Geeks as their technology partner. Real Geeks was created by an agent for agents. They pride themselves on delivering a sales and marketing solution so that you can easily generate more business. Their agent websites are fast and built for lead conversion with a smooth search experience for your visitors. Real Geeks also includes an easy to use agent CRM. So once a lead signs up on your website, you can track their interest and have great follow-up conversations. Real Geeks is loaded with a ton of marketing tools to nurture your leads and increase brand awareness. Visit RealGeeks.com forward slash Keeping It Real Pod and find out why REALTORS come to Real Geeks to generate more business. Again, visit RealGeeks.com forward slash Keeping It Real Pod. And now onto our show. Today's episode is brought to you by corded.io. Are you looking for agents to join your brokerage team? Now as a real estate recruiter, I can tell you the answer is always yes. But most agents aren't looking to move right now. So how do you know who to contact? Well, what if I were to tell you there's a recruiting and retention tool powered by artificial intelligence that shows you exactly which agents in your local market are looking to leave their brokerage right now and which agents at your own firm are also looking to leave you? Now, I've been recruiting REALTORS for 15 years and I've hired over 2000 agents. I can tell you with no exaggeration, this is the tool I've been waiting for. Corded's AI looks for trends across dozens of variables for each agent in your market and shows you which agents they believe are likely to move. Not only does it do that, but corded's AI went and visited my recruiting website and read everything I offer. So now when I'm recruiting, corded's AI tells me exactly what to say based on that agents needs and what my brokerage can offer. It even writes emails for me. I've never seen anything like it and I use it every single day. Now if you are looking to grow your brokerage, corded.io is the best tool out there. Visit corded.io to schedule a demo again. That's corded.io. And now onto the show. Welcome to Keeping It Real, the largest podcast made by real estate agents and four real estate agents. My name is DJ Paris. I am your guide and host through the show today is our monthly series Learn with a Lender with Austin Clarence from Nexel Lending. I am going to introduce Austin right now if you're new to the show. So Austin Clarence, he's a top producing mortgage loan officer and investor financing specialist. He offers loans through his company Nexel Mortgage, the largest mortgage brokerage platform in the United States, by the way, by leveraging access to over 280 lenders nationwide. He structures everything from conventional and FHA loans to advanced investor strategies, including DSCR, short term rentals, construction DSCR and 15% down investment property programs. So Austin is known for solving complex financial scenarios that traditional retail banks often pass at. He works closely with retail agents and investors to help them get more offers accepted, close more deals and grow their real estate portfolios strategically through his Learn with a Lender segment here on the Keeping It Real Podcast. He delivers practical up to date lending insights that agents can immediately apply in today's market. I want everybody to follow Austin on the social networks, including Instagram, TikTok and YouTube. He's got the same handle on all three, which is Austin dot mortgage. We will have a link to that in the show notes, Austin dot mortgage, Instagram, TikTok and YouTube and shoot him an email. Now get on his email list, a clearance at nexatnexat lending dot com. Austin, welcome to the show. DJ, thanks for having me again. Looking forward to the conversation. All right. So we're going to jump right into it. So there's, it's funny. I, for the last year, signed up for credit karma, you know, just for some whatever reason. And I, I do like it because I get this little notice every so often. I don't know if it's monthly where they tell me here's what my, where my credit score is. I feel like it's kind of a little report card of life, so to speak. So I, I get it. I never, I'm totally sure, you know, what to do with it. But obviously super important for, for buyers. So tell us what's changed in the credit carbon also. What's called a vantage score. So let's, let's talk about it. Pretty big update. You can now use that credit karma score that you were just referring to, DJ, to get approved for a mortgage. This is huge. How it works is the credit score is called the vantage score. That's like the technical credit score. I'm more like the actual platform and the vantage scores, the name of that scoring model for decades are pretty much all of time. Lenders have had to use the FICO scoring model. Right. As of really this past month, we've seen lenders start to roll out and accept that vantage score, which is awesome because vantage score is really a more modern way of assessing credit score, really assessing the picture of the actual background of the particular borrower. This is awesome because vantage score and the credit kind of score can often come in higher than the FICO score. So think about it, about higher score, is it going to be harder, easier to get approved? Is there interest rate going to be higher, lower? Now, typically it's going to be better terms and off it's a higher chance of approval with the vantage score models. We're already seeing some pretty massive discrepancies pulling credit boards looking at the FICO and still looking at the vantage score, just had a client who applied last month. And his middle score was a 676 with the traditional FICO model and they came back at 783. So in 83, that's an awesome. That's a top tier credit and thing above 780. We'll always put you in the top tier bracket. Yeah. 676 is okay at best. Really, it's honestly subpar. There's going to be a penalty with higher rates, higher fees with that score. In addition to having a lower chance of having the approval. So this really is a game changer. Again, this really just went into effect and is being rolled out now. That's why you probably haven't heard this update and so this podcast. No. One is if you'd lender the country going to roll this out. It could be by the end of the year, it could be next year, it could be a couple years. The efficient up and coming lenders that more modernized their role in this now. Eventually, everyone will have this. But this is an awesome update, DJ. Yeah, it's so interesting. I never really understood what my credit karma score represented. I always knew that it did trend higher than my FICO score. And you know, it's weird about FICO is and maybe it maybe credit karma doesn't fluctuate as much. I'm not sure. But I've, you know, I don't take on new credit cards. I have a pretty consistent, you know, sort of loan to value situation in my finances. And it's crazy. I think a couple months ago, I took a 50 point hit in my FICO score. And I was like, I have no idea why that happened. I literally did nothing different this month. And so I don't pay that much attention because I'm not taking on new loans. But it does feel like a little bit of a gut punch and I must have done something wrong, even though I didn't. So I'm never sure how to really, you know, even track FICO. But I imagine you were getting probably before this news, people were sending you credit karma scores and you were like, wow, we can't really use these. So now you can actually use them. Exactly. Every loan officer in history has had hundreds or thousands of clients who, why is your score different than mine? And here comes the screenshot of the credit karma score that's off by 80 points and over near what the lender is using. And it usually comes in a little bit higher on credit karma than the actual FICO model, which can be hard to even assess where your score is. You typically have to pay for that data if you're a consumer besides doing a soft or hard credit check on the lender level. So this is a game changer. You're going to help tons of borrowers. It's just a different formula. It's a different opinion and it's a more modernized version of that, right? So for example, the vantage score, you can have a credit score with only having credit for a month with typical FICO. You have to have a six month track record. Things like utility payments, rents, even like your phone bill can often, often pop up on the vantage score. So it's just, it's casting a wider net and compassing more data. It's just going to make it easier for more borrowers. It's going to open up eligibility for a lot of Americans who couldn't qualify off a traditional model and now they're going to qualify with the current model. It's funny to bring them up, you can't tell you how many clients I've had over the years, become frustrated and disappointed and sad they're not going to qualify because they've been checking their credit karma daily or weekly for years thinking that's going to be their goal ticket to get the approval and come to think of it. The lender has a different score model and they don't have the same score. They're for they're not going to have the same loan determination or approval that they thought they would get with that credit score. So now it's literally as simple as opening up a credit karma free gala. I feel like I'm a credit card credit card miss the Ellsman, but it's that easy to track your score now. The vantage score 4.0 is the same that's going to pop up on credit karma and it could be the same as what you might see under banking out. There's so many different websites out there that have scores and the vantage score is typically what pops up on there, not the FICO score. Interesting. Yeah, I know for some of my credit cards, it seems like they all send these now and some of them are FICO, some of them. I don't know what they are, but it is always confusing because you're right. There's some variance in the credit karma score and just not a curiosity, why is the credit karma score 10? Why does that tend to trend higher? It's just a different trending model that has different kinds of data that are traditional FICO model just doesn't have. For example, let's say you take out a $10,000 credit card and every month you pay it down and you're just chipping away at that. The new model, vantage score or even the credit karma score is going to give you credit for that. You've been chipping away, you've been making bigger payments, you took on a ton of debt and now you paid it off. We're going to reward you more FICO score because they hope you had this big credit card. You're going to be penalized. You might get a few points or paying it down, but you're not going to get that big reward, that big upside, that the vantage score has. A lot of people think FICO has really not made updates to their technology over the years with the way that we now have utility credit and rent payments being available. They just never decided to report that. I think this is a great idea that vantage score is rolling out all these new ways. Had new forms of credit onto the credit report. The best part about this is with the last credit check I did, I just sent you a text about that one the other day, DJ. You can actually pull a credit report and it's going to pull the vantage score and the FICO score. Let's say that FICO happens to be higher than vantage score, you can still use the higher of the two. Sure. Again, this is a newer technology, newer program. Most lenders don't have this. I have one lender. I can broker out to that does. Is this always going to be a game changer? Is this always going to be how you can make a deny loan approved? No, but it's just another good option to have in that back pocket because those smaller credit differences can sometimes make a difference between being approved and not being approved. Yeah, it's so cool. I guess the action step for our listeners is if you have, well, you should just do this with all your clients. I guess all the buyers who are taking on loans have them set up a credit card account and start utilizing their score. Seeing if it's higher, you can obviously apply that when you're getting your next loan or if it's lower than you can use the FICO score. Just another arrow in the quiver, I guess. That's really exciting. Exactly. If you guys, everyone listened to this podcast. If you've had a client who maybe had the income that had the cash, but it was just the score was too low. That was the reason they were not approved. This can literally be the difference between them being approved and not being approved. If you're already working with a mortgage broker who has a lot of options, reach out to them and have them check again if you had another loan officer that works at a retail platform that doesn't have the brokerage options. Again, this small little difference can sometimes be the difference between getting approval and not getting approval. Just listen when you speak with your loan officer or your client of why they were turned out or maybe why they weren't pre-called for that higher price one. If they mentioned credit score being one of the main factors for that lower approval or not getting that approval, then definitely take a second look. You can reach out to myself or any mortgage broker who works with these institutions. Have them do a check out the vantage score, check out the FICO score. In worst case, it's going to be another opinion of what they potentially could be qualifying for, another opinion from another loan officer to see what's showing up on that report. Yeah. I see no downside to this. If I were a buyer's agent, I would be asking all of my buyers regardless of even if the lender that they're choosing isn't utilizing the score now, I would say, you know, you never know what's going to happen. We might need to get a backup offer from a different lender. Go ahead and let's get this credit, Karma score, you know, in place for you. It's because let's see, it might be higher. It might not be. We don't have to use it if we don't want to. But it's just another value add that an agent can bring to the table. And again, maybe the lender uses it. Maybe they don't, but at least now you have this other opportunity. So this is huge. I did not know anything about this. So thank you. And I'm a credit karma user. And I didn't know. So that is pretty awesome. So thanks. So I imagine that's the action stuff, right? Just tell everyone to get their vantage score and credit karma score and see what happens. Yup. Now there's actually more credibility back into that credit karma score. So downloading the free app can hurt track your progress, see what's on there. And that score should be that score that lenders are now going to start using. Again, they're not going to all start using it overnight. It's going to be rolled out. I can do it. I've already had a client close with this program. Eventually, everyone's going to have it. But now you can finally lean on that credit karma score with more credibility and reliability, knowing it's not just some junk score where it's going to be off by 60 points. And disappoint your client. It's actually going to hold up and underwriting once that lender does that credit track. Of course, lender still has to complete that tri merge cutter report. You cannot just send a screenshot of your credit karma score. The point is we can now use that score in model. But we're still going to have to pull our own report, the experience, aquifax, transunion, look at the FICO, look at the venture score, and then use the higher of those two scores. Yeah, I just pulled mine up just because I was interested in it. What's cool about credit karma is it, by the way, if you're not familiar with credit karma, into it owns it into it is, is that turbo tax? Is that into it? I know, yeah, no, into it owns credit karma. I think you might be right. Turbo tax part of the thing. Yeah, massive legitimate financial institution. So this is not some wacky app that is an online bank or something like that. They have this app is really cool because it also shows me my transunion and aquifax. And I like it. It just all shows it to me at once. So yeah, tell all of your buyers, let's get their credit karma score and talk to the lender. And if you don't have a lender that is currently accepting credit karma or vantage point scores, then let's talk to Austin. And he can see about lenders that he has access to because he has access to almost 300 of them. And it's funny. Austin here in Chicago, there's a lender that has been making a lot of, a lot of waves over the last 10 years. And the reason is because they can shop rates around and very few loan officers really do have that opportunity. It's a really significant opportunity because most many loan officers work directly for the institution that they that they service. And that's the only rates, the only products that they have. And you know, maybe they're great, maybe they're not, but they don't have the opportunity to really go out in the marketplace. And see what's available. You have that. And with Nexa, I mean, you have the, like the largest selection I've ever heard of. So I know I'm going to you for all of my future lending because, you know, I, well, I'll hopefully be able to refinance at some point because I had to give up my, my 3% rate, which we all got back in the 2021, 2022, but got the place I wanted and got a little bit of a higher rate than I wanted to pay. But oh well, but I'm going to bring it to you because at some point you could probably find me something better. So I'm going to, I'm going to need you on this one. And by the way, if anyone out there is has clients, you know, that need lending opportunities, please reach out to Austin. He can, he'll find great stuff for you. All right. Let's, let's switch gears. Let's talk. I want to talk a little bit about sort of young buyers, right? So let's just get into this because there's a huge swath of young buyers right now who aren't really building credit. And I know our agents are running into this a lot. You know, these are people that they're paying their bills. You know, they're, they're, they're not necessarily taking on massive debt, but they've never had traditional credit accounts. And so if one of our agents runs into somebody like this, you know, it's going to be obviously hard to get alone. What would you recommend to some of these? And this is a massive amount of people's like 33 million people or something are not, do not have a traditional credit sort of history. Exactly. And if you have the means to pay cash, why should you be penalized for that? You should be rewarded for that. If anything is you don't need that credit that shows us you probably have cash income, the support in other areas. What I'd recommend it is someone's trying to build credit. The fastest thing you can do is open up a secured credit card with a local bank or a credit union. It's typically free. You can get a small credit line. That's the fastest way to build credit. What I'd also recommend is now that we have the Vantage score. This is rewarding those borrowers that are part of that 33 million figure that you just mentioned, DJ, that maybe they pay their phone bills, they pay their utilities on time. If they're rent, they just have it had a need to get a credit card or a personal loan or a car loan or they haven't qualified for a mortgage yet. So they don't have a mortgage on their credit report. These are people that were penalized with that FICO model that are now being rewarded with that Vantage score model. So overall best practices for credit. If you're speaking with someone, you as a REALTOR who wants to purchase a house, maybe there's six months out or a year out, maybe they aren't. Maybe there's just a couple months out now that we spoke about the Vantage score can populate a score. In as little as 30 days. But if they are looking further out, the best thing you can do at yourself as an author is user on a card that has a clean payment history that has a small or zero balance that gets paid off monthly. And the other best thing is opening up a secured credit card, which is free, typically local bank, credit unit, any kind of institution pretty much always offered. This is another fast way to build credit without taking on time that's going to lower your score of front. It's probably not going to have a credit inquiry. It will start building credit from day one. I'm going to give all of our audience a stat in Austin. This might be a stat that is new to you. You probably do know this, but just in case our audience doesn't. And this really speaks to what we're talking about. You know, a lot of what we've seen in first time home buyers is that the age has trended upward over the last 10 years in a way that it's it's trended upward into, you know, taking longer for the average American to purchase their first home. It used to be around 30, 31, 10, 15 years ago, I believe. Now it's up to almost 40 years old. It might even be above 40. And that's a real problem for Americans because, you know, I don't want to have the conversation about whether rent is throwing money away or not. But just building equity alone is something that tends to be often somebody's largest financial asset at retirement or certainly one of their largest financial assets. And if they don't start building equity in their 30s, it becomes really challenging. I mean, you can get lucky, but it can become really challenging to, you know, have that, that that wealth accumulate over time. And so what's interesting as a stat I was going to mention is what's interesting is yes, younger people are waiting longer. And look, there's a lot of reasons for that. It's not just because they don't want to or they're not aware of it. The pricing power has changed and middle class is shrinking and it's certainly tougher. What I will tell you that is an upper massive opportunity with the statistics. So 59 years of age is the current age of the average home buyer. 59 years. Now these are people that have had mortgages before. They have good credit, probably, and they've probably made a whole bunch of money in the last five years on the equity in their property. And they're probably nearing some sort of life event, right? So maybe they're downsizing, maybe mom and dad are moving in because they're elderly, maybe the kids are moving out because they're out of college. You know, now you have people in this really interesting place where the average homeowner or buyer rather the average home buyer is now almost 60 years old. And so we always think get the young people in and yeah, we should. But what's happening right now is older people are trying to figure out what to do. And this is a huge opportunity, I think, because they could take some of the equity and perhaps use it as a way to purchase an investment property or, you know, maybe they're downsizing. They don't need the big home anymore. So they take some of, you know, they sell the home, which is appreciated and use it, use the money for that and then have extra money left over for other opportunities. So I just wanted to share that with the audience because that blew me away. I did not know the average homeowner was a average home buyer was that old. I always think it's got to be the younger generation. Well, that currently it isn't. Well, yeah, that's almost 60 years old. That's not the number that we want to see when we want to see all kinds of ages get into home ownership. But the younger that the smaller that number is, I think the healthier of a sign of economy is for the cost of living, the cost of the average mortgage. So all we can do is help our buyers, let them know that there's programs out there that could help whether it be affordability, whether it be the credit components that we spoke about. There's different angles to get these buyers qualified that they probably didn't know existed. Yeah, so, you know, don't neglect the older generation. If even if you are a younger agent who tends to, you know, find their clients on TikTok, those 59 year olds are not on TikTok. They are on Facebook, maybe Instagram and they're maybe on LinkedIn. So anyway, let's go out and find the people that are actually buying right now. All right, let's talk about rates. So people always want to talk about rates and I don't ever get to caught up in rates because rate chasing is probably a dead end. It's like trying to time the stock market. Good luck. The top smartest people in the world can't seem to do it effectively. So I know that, you know, whatever the rate is, it is when you're ready to make a home purchase. However, we should talk about where it is currently and what's going on with the current sort of international situations that are going on in the world and how that's being affected because it is being affected. So give us an update on what you're seeing out there. For sure, DJ, I know as of today, this morning when I looked the average interest rate across the country for a strong scenario, 20% down, great credit was a 6.66 interest rate. So we're up a little bit more than a half of a percentage when we did our initial podcast with three and a half months back right before the Iran conflict. And that's really the main theme, the Iran conflicts, the straight or hormones specifically, this is where 25% of the world oil come from. So as long as that straight is shut down, oil prices are going to be up, mortgage rates are going to be up with that. Neither of us should really pretend to know when we think this war is going to be over, neither of us know when rates are going to come up or come down. I think that once the situation does finally dissolve, there's a mediation in play and there's a deal that's cut, we're going to see rates take a little bit of a drop off. Am I telling buyers this? No, I'm not because this is again just my personal projection and I don't want anyone to wait for rates to drop if it's really just kind of a guess, but that's the most likely scenario when this conflict does end. Oil prices are instantly going to drop the barrel of oil right now is right around $90 a barrel. We're going to see oil drop and we're going to see mortgage rates dropped with that is the number one factor for mortgage rates is always inflation the cost of living with rent and oil and gas being one of the main components of the feds preferred inflation index of PC and CPI. So as we see oil finally come back down to earth, we're going to see rates come back with that. I think it could be pretty sudden that there's a true deal that's finally cut and the best days in market expect the word of the White House actually hold up with the deal. I think we're going to see a lot of improvement with interest rates. We've seen rates really vastly up down down and up over the better a quarter of a rate over the past 45 days or a couple of months or so. Again, if we see worse inflation, if this conflict gets exacerbated, we could see rates take up. I think the most likely scenario just between us on a professional conversation is we're going to see rates come back down a little bit more when this conflict finally is resolved. Yeah, and we should also mention too, there's a new Fed chair, Kevin Warshies in and people think while he's a Trump appointee, so Trump once rates cut. So that's what's going to happen. But what and I have to acknowledge I just learned this about two or three months ago myself. So I imagine a lot of our listeners maybe don't know it. The Fed chair himself or herself, in this case, it's himself cannot cut rates on on their own, right. There's a 12 person committee. I don't think he's got the votes right now to do it. So that's I actually made a video about this just recently saying, you know, hey, you think maybe it could be a cut coming. I don't I think the opposite. I don't think there's cuts coming. But again, anything can happen. Nobody knows that literally I talk to the top analyst for the National Association of REALTORS who's largely considered one of the smartest minds in the country when it comes to interest rates. And he says, I have no idea. So it's one of those things that again, don't don't worry about chasing rates. What you really want to do is talk about the actual payment. Nobody really cares about the rate. They care about what the number is there writing on that check to the lender every month to be able to live in that home. And if you can get somebody to do it at 6.6%, by the way, my current rate is around there as well. And you know, I was able to do it thankfully. And you know, why what a great situation. I don't think 3% is coming back. I certainly that would be a wonderful day for me. But I don't think that's going to happen. And I think the 3% rates really caused a huge problem in this country because now we have people that are handcuffed with these sort of golden handcuffs of I don't want to give up that rate. Right. So it's been real problematic, I think, for people who are sitting on these amazing 30 year fixed in, you know, during the pandemic when we all refinanced. So yes, so is the Fed going to cut rates. We don't know there's a new chair. It's a Trump appointee. We hope there's some Fed cut rates coming, but don't expect that there's also the Iran situation is Austin said. So, you know, what do you say, Austin? I would love to hear, you know, what do you tell somebody about kind of what rates, what they should expect. And again, not with rates themselves, but how to think about rates. And I think the easiest way is always to bring it back to what that rate does. It brings your monthly payment up or down. That's the one thing that we really should be focused on. If you make it about the payments, then you can always find a different way to structure that loan creatively, where your payments can be within your comfort zone. If you just talk about rate, that's market, that's something that we cannot control. It's just going to cause you to be emotionally exhausted stressed out, make you feel like you're not getting a good deal when everyone else did because they purchased in 2020 when they got the three and a half or three and a quarter. Yeah, interesting that you just brought up DJ. So control what you can control. And that's try to focus on bringing that payment to a comfortable payment zone. How can you control that with negotiation to all my buyers agents, you guys are obviously well aware of getting seller credit to either do discount point or a permanent buy down to have the rate brought down on a permanent 30 or fixed basis when there's less buyers less by activity. What happens is less demand. There's more opportunity to get more aggressive with those offers. I think spinning it that way with your buyers when they're a little bit discouraged, they're bringing up waiting. You can remind them how many other people are probably waiting and how many other people when rates to drop in fall or winter who knows they're all going to be jumping in that pool at the same time making a big splash. It's going to be a lot of demand that's thrusting into that market at one given moment. And this market, you can get a little bit more aggressive with seller credit with those discount points having a 30 or fixed payment that's never going to change lots lower because you did a permanent buy down. Or, of course, another great option doing a seller credit to cover a temporary buy down we can have your rate dropped by 2% of a rate in year one, 1% of a rate in year two before permanently adjust and never changes for the remainder of alone. Just getting creative talking through these strategies with your lender having the loan officer and lender discuss what their payment goal is that's the best way to mitigate the conflict of the rates, the thing we can't control the thing we really have absolutely no control over other than the payment other than making sure you structure an offer that's going to make sense for yourself as a buyer. Yeah, and I just want to really encourage our audience to reach out to you directly you don't have to understand buy downs or where where where rates are currently trending although Austin does send a weekly email that you should be on a clearance at next lending.com is how you get on that list. We'll have a link to that in the show notes, but reach out to him. He knows not only does he have all this information he has access to almost 300 lenders like that is so unbelievably important. And he is going to find the best possible product for your clients, you know, needs and even if it's just a backup offer reach out to him. We have so many agents they come up to me, whether it's virtually or if they see me in person here in Chicago and they're so grateful that I've put this podcast together for the last eight years. And certainly that's that's very flattering and I'm appreciative that people find value in it and really is a labor of love. I do it is this is not how I earn my you know all of my income. I have a day job as well, but I do this because I really trying to help agents out there do better and learn from top agents and also learning from our amazing partners like Austin. And they often ask me like, Hey, thank you so much for doing this like how can I support you and I say, well, I don't sell anything. I'm not offering anything I probably should I be probably a smarter man if I had like a course or something to sell. So what I tell them is, you know, we have partners on the show like Austin. They are the ones that we really want you to reach out to because people like Austin help keep our show running. So even if you have a great relationship with your lender, give him an opportunity to be the backup offer reach out to him. But let's switch gears because I want to talk about something that is really can be very frustrating for agents when they have clients who are self employed. So let's talk about the news on what in somebody who's self employed should be thinking about in order to get themselves ready to be able to get some of these products more easily. I think the legacy way of qualifying for a home loan, if you are self employed from a lender standpoint is always two years of tax returns. It's the same for VA FHA conventional in some cases you can use one year. So technically it's not 100% correct. Again, tax return income is what you report to the IRS after all of your expenses losses right off home office. We as lenders and REALTORS, we obviously have a ton of ability to write off expenses. So the downside of that is it's going to mitigate your income on paper for the loan. Right. So there's so many programs out there that lenders have recently brought out that are a lot more flexible for our self employed borrowers that gig economy is massive. So there's tens of millions of Americans who are currently self employed working different self employed job self employment jobs and they don't have that W to income. The new program is that what just helped my first client close on is a three and a half percent down profit and loss loan. So you can make your own profit and loss and have to be created by a CPA or a tax repair. And you can use that to qualify for a loan instead of your actual tax return income from one or two sometimes your taxes can be two and a half almost three years old if you filed an extension. So there's so much more flexibility and this day and age for the self employed borrowers. So this is another one. If you guys as a REALTOR listening to this podcast, run into an issue for a self employed client, they can always exercise their option to find a three and a half percent profit and loss loan. Of course, the next best option is you can do a 10% down the three and a half is actually through F a J so it makes it much easier to refinance out of later on after you close and make six payments or you can do a 10% down bank statement loan. Again, these are both options where the lender is not going to ask you for your tax returns. You're not going to have to get your CPA or your tax repair involved. You can make a profit and loss showing your income for the past 12 months and that's what the lender is going to use to cover your income. So now you can get all the benefits of writing everything off on your actual taxes, lower your tax liability of a much smaller tax bill, let your CPA cook and do his job and then you're going to focus on call for that loan using that profit and loss. Yeah, that's such a great idea. I mean, so many of us have really embraced the gig economy, global gig economy that we we see now and we participate in it and we open our own micro business, whether we're, you know, driving for Uber or lift or we're delivering something or we're opening up our own Etsy shop. And what can be challenging is, you know, there's obviously when you go to pay yourself for some of these situations, you might not be paying yourself very much and might just be difficult to get loans. And so this is a huge deal for anyone that's self employed and I know I have an S corporation, which is a little bit different, but I own that and I'm an employee of that. So it makes it a little bit easier, but even when I go to get loans, I pay myself such a small salary that they look at that and go, how can you afford to buy this house and go, oh, no, no, I own the company and I have to show all the documents and then it usually goes through. But people who are self employed deal with these issues all the time when they're getting credit cards bank accounts, obviously loans. And this is huge news for self employed people. Exactly. And this is not a program that's like a down payment assistance loan, you can't really stack multiple unique factors on loans. This is a 3.5% down, ideally, typically a first time home buyer program, you can purchase using a profit and loss that you personally created without having a professional create the document, which typically costs hundreds or thousands of dollars to have a CPA on it. So great way to be able to write off all their taxes. It's a more flexible way to qualify for a loan in 2026. It's great to see lenders are finally easing up understanding the nature of how Americans are actually getting paid the nature of how they're receiving income and creating a mortgage products that actually resolves that issue that works to their needs understanding the nature of the income. So it's great to see tons of lenders are constantly rolling out new programs, bank statement loans have been around for years. That's a similar concept, looking at just the income going into the account, averaging all the deposits from the source, the actual business, the profit loss is a smaller down payment, just 3.5% regular FH alone. Again, the one difference is how that income is assessed by the underwriter with that profit and loss statement. Yeah, there's so many self-employed people who just run into these issues and now there's this really cool option to create. And if you don't know how to create a P&L and or you certainly as an agent, you might be self-employed, right? That's very common for agents. This could apply to you as well, but you know, I always think if you don't know how to, you know, if you don't have a CPA and you're, you know, new to owning your own business and, you know, you don't have those kind of skills, you know, chat GPT as your friend, right? It can do this certainly all the AI systems. So get a P&L together, bring it to Austin, he'll tell you what he needs for his lenders and now you have some opportunities that you didn't have before. Awesome. So I wanted to let's give our listeners some homework. What do you think sort of is the action steps for this month? I think in terms of finding your next deal that's going to close with the opportunities that you currently have in front of you, letting buyers know who you spoken with in the vast, maybe they were in a credit repair program, they weren't quite qualified, letting them know, how does your credit karma score look? Did you know some letters now accept that credit commerce score, getting some of those older buyers off the sideline, this can be a great touch point to rekindle that conversation with those buyers, just understanding what their hurdles are with their qualifications. If nothing else, it's a great touch point of worst case scenario, nothing comes of it, best case scenario, you identify a need or a concern that they had another lender gave them that might allow them to actually be qualified for a loan. When someone brings up their concern about where rates are remember bring a bread back to that payment, the one number that actually matters, not some percentage that you're seeing online. Bring a back to the payment so we can work up ways, tell you the loan officer what that payment goal is, you can remind them, and then you guys can work backwards, refers to near that, figure out how much seller credit you need, a what price point to make sure all the numbers play out. I think it can't hurt to just pick up the phone, talk with some older buyers, maybe someone that was thinking about purchasing a second property or a first time home buyer that you hadn't spoken with in years. What I've seen so far using this vented score touch point has been an amazing excuse to get in front of buyers that hadn't spoken front of and a little while and if nothing else, now they can download credit karma for each easy now they can check their score that a lender would actually use when they go to qualify for a house. Yeah, those are great and let's remember the statistic I mentioned, Austin briefly mentioned it that you know the average home buyer is trending older so there are 59 and these are people well it's actually one thing I didn't mention which is wealth transfer is also happening. So these are people whose parents are elderly and are starting to pass away and of course that income or sorry the the the assets of those elderly parents are most likely going to filter down to these older you know older children who are now you know nearing retirement themselves. So you have this huge influx of cash to the people that are buying homes right now so yeah maybe they can pay all cash for their next property because they just made a bunch of money on the home they've owned for the last 20 years but they also have friends that have made a lot of money in real estate investing and they've not yet done it. Austin by the way is a specialist specifically in investor financing now he deals traditional you know primary resident stuff like me I'm a primary residence holder so I would use him for that but they are everybody has friends that have made a really strong financial investments in real estate and they really just need a nudge and now you have these older people that have cash on hand possibly from their parents they have a huge amount of equity. So I think they built up in this home they've lived in for 20 years and they they have a life event that's happening you know like they might be downsizing or kids are moving out or parents are moving in whatever so this is a massive opportunity to either talk to them to get them in their next primary residence or to have the conversation about hey let's talk about investments I've got a great lender let me connect you with Austin let's see what we can do if you want to create some some good legacy wealth. And so I just see this so much opportunity right now and you know we focus so much on inventory and how tough it is for primary buyers right now and yes it is and rates are you know rates are always going to be higher than anyone ever once except you know from several years ago when they weren't. But this is an opportunity where you can really get into I think a good network of new revenue stream for you as an agent so if you're always thinking I got to get the first time home buyers you're neglecting this older demographic that really does need your help right now and these are people that don't do it on their own they use professionals they have CPAs they've had real tears in the past they have a they have a attorneys to for their state planning they. Meet you you know younger generation often feels maybe I don't need a REALTOR i'll do it on my own right they these are people that like paying for service and they don't have all the answers and they're not as tech savvy as you are so let's reach out to those older those older clients or those older people in our community make friends with them and a lot of them are really. The the the businesses up for grabs we often think well they have a REALTOR in the past that REALTOR probably is not stayed in touch with them that the numbers are staggering for it's it's like 85% of REALTORS do not touch base with their client after a sale or they touch base once in the next 12 months and then that's it that's 85% so trust me these relationships are that strong. Reach out to find these people bring them to Austin he will find great products and services for them and you know you will be seen as the hero so Austin what a great. The first time I was in the state episode today I learned a lot the credit karma vantage score thing was amazingly the P and L situation for for you know business owners is exciting and also just getting our you know grounded thoughts about rates so thank you so much as always tell us about the email that you send out weekly for agents. Every Wednesday we fire off a weekly intelligence newsletter you guys are more than welcome to ping me on social media or email me again all my social it's just Austin dot mortgage including my YouTube channel or mainly talk about DEC our rent allowance. Trying to give important updates to summarizing what's happening with rates and a new programs like to keep it short and sweet not a boring newsletter so ping me shoot me an email a clearance at next. And if you want to write down my email you can just remember Austin dot mortgage on pretty much every social media platform you can just shoot me your email let me know you want me to add you to that newsletter and if you ever want any other customized information or a marketing fire any other information on how these programs work on how this program can benefit a particular client even if it's a state. It happens not to be able to do business and please team you whenever don't ever feel like your bother me. Yeah Austin I have worked with a lot of different providers over the years on the show and in the brokerage that that I work for which is called Kale Realty here in Chicago and I will tell you I have had because we have 800 agents at our own firm here locally in Chicago we get a lot of calls from lenders that say I want to get in front of your agents and we are like oh you know I'm going to say I'm going to get in front of you. So it's so hard to know who's a good lender and who isn't I will tell you Austin is amazing he just is one we've chosen to represent keeping it real here on the podcast so please give him an opportunity on your next deal he would love to be that backup offer if you already have a good relationship with an L.O. He wants to be the backup and if you don't have a backup reach out to him anyway because he would love to be the primary but give him an opportunity see what he can do he's a great guy he brings so much value to our show and we want to see his business continue to improve because we want him on the show for the rest of the time that we're on the show so Austin thank you once again for bringing some amazing conversation value to our audience we appreciate you on behalf of the audience on behalf of Austin and myself. Thank you to the audience as always the best way you can help us is not only by reaching out to Austin but by telling a friend about this podcast shoot a link let him know about keeping it real and we would always appreciate that and leave us a review if you're listening to us on iTunes or Spotify or wherever you're checking us out we love to hear how you're doing and shoot Austin a direct message asked to be on his Instagram Instagram Instagram, he can find him Austin.morge Instagram tik tok YouTube he's all over the place or just messages we'll have all this stuff in the show notes so you can just click and Austin thank you once again we will see everybody on the next episode. DJ thank you for having me on see you next time. Appreciate you."
+  "full_text": " Did you know that there's a different credit score other than FICO that your clients can now use to qualify for mortgages? This is Breaking News. Stay tuned. This episode of Keeping It Real is brought to you by Real Geeks. How many homes are you going to sell this year? Do you have the right tools? Is your website turning soft leads in interested buyers? Are you spending money on leads that aren't converting? Well, Real Geeks is your solution. Find out why agents across the country choose Real Geeks as their technology partner. Real Geeks was created by an agent for agents. They pride themselves on delivering a sales and marketing solution so that you can easily generate more business. Their agent websites are fast and built for lead conversion with a smooth search experience for your visitors. Real Geeks also includes an easy to use agent CRM. So once a lead signs up on your website, you can track their interest and have great follow-up conversations. Real Geeks is loaded with a ton of marketing tools to nurture your leads and increase brand awareness. Visit RealGeeks.com forward slash Keeping It Real Pod and find out why REALTORS come to Real Geeks to generate more business. Again, visit RealGeeks.com forward slash Keeping It Real Pod. And now onto our show. Today's episode is brought to you by corded.io. Are you looking for agents to join your brokerage team? Now as a real estate recruiter, I can tell you the answer is always yes. But most agents aren't looking to move right now. So how do you know who to contact? Well, what if I were to tell you there's a recruiting and retention tool powered by artificial intelligence that shows you exactly which agents in your local market are looking to leave their brokerage right now and which agents at your own firm are also looking to leave you? Now, I've been recruiting REALTORS for 15 years and I've hired over 2000 agents. I can tell you with no exaggeration, this is the tool I've been waiting for. Corded's AI looks for trends across dozens of variables for each agent in your market and shows you which agents they believe are likely to move. Not only does it do that, but corded's AI went and visited my recruiting website and read everything I offer. So now when I'm recruiting, corded's AI tells me exactly what to say based on that agents needs and what my brokerage can offer. It even writes emails for me. I've never seen anything like it and I use it every single day. Now if you are looking to grow your brokerage, corded.io is the best tool out there. Visit corded.io to schedule a demo again. That's corded.io. And now onto the show. Welcome to Keeping It Real, the largest podcast made by real estate agents and four real estate agents. My name is DJ Paris. I am your guide and host through the show today is our monthly series Learn with a Lender with Austin Clarence from Nexel Lending. I am going to introduce Austin right now if you're new to the show. So Austin Clarence, he's a top producing mortgage loan officer and investor financing specialist. He offers loans through his company Nexel Mortgage, the largest mortgage brokerage platform in the United States, by the way, by leveraging access to over 280 lenders nationwide. He structures everything from conventional and FHA loans to advanced investor strategies, including DSCR, short term rentals, construction DSCR and 15% down investment property programs. So Austin is known for solving complex financial scenarios that traditional retail banks often pass at. He works closely with retail agents and investors to help them get more offers accepted, close more deals and grow their real estate portfolios strategically through his Learn with a Lender segment here on the Keeping It Real Podcast. He delivers practical up to date lending insights that agents can immediately apply in today's market. I want everybody to follow Austin on the social networks, including Instagram, TikTok and YouTube. He's got the same handle on all three, which is Austin dot mortgage. We will have a link to that in the show notes, Austin dot mortgage, Instagram, TikTok and YouTube and shoot him an email. Now get on his email list, a clearance at nexatnexat lending dot com. Austin, welcome to the show. DJ, thanks for having me again. Looking forward to the conversation. All right. So we're going to jump right into it. So there's, it's funny. I, for the last year, signed up for credit karma, you know, just for some whatever reason. And I, I do like it because I get this little notice every so often. I don't know if it's monthly where they tell me here's what my, where my credit score is. I feel like it's kind of a little report card of life, so to speak. So I, I get it. I never, I'm totally sure, you know, what to do with it. But obviously super important for, for buyers. So tell us what's changed in the credit carbon also. What's called a vantage score. So let's, let's talk about it. Pretty big update. You can now use that credit karma score that you were just referring to, DJ, to get approved for a mortgage. This is huge. How it works is the credit score is called the vantage score. That's like the technical credit score. I'm more like the actual platform and the vantage scores, the name of that scoring model for decades are pretty much all of time. Lenders have had to use the FICO scoring model. Right. As of really this past month, we've seen lenders start to roll out and accept that vantage score, which is awesome because vantage score is really a more modern way of assessing credit score, really assessing the picture of the actual background of the particular borrower. This is awesome because vantage score and the credit kind of score can often come in higher than the FICO score. So think about it, about higher score, is it going to be harder, easier to get approved? Is there interest rate going to be higher, lower? Now, typically it's going to be better terms and off it's a higher chance of approval with the vantage score models. We're already seeing some pretty massive discrepancies pulling credit boards looking at the FICO and still looking at the vantage score, just had a client who applied last month. And his middle score was a 676 with the traditional FICO model and they came back at 783. So in 83, that's an awesome. That's a top tier credit and thing above 780. We'll always put you in the top tier bracket. Yeah. 676 is okay at best. Really, it's honestly subpar. There's going to be a penalty with higher rates, higher fees with that score. In addition to having a lower chance of having the approval. So this really is a game changer. Again, this really just went into effect and is being rolled out now. That's why you probably haven't heard this update and so this podcast. No. One is if you'd lender the country going to roll this out. It could be by the end of the year, it could be next year, it could be a couple years. The efficient up and coming lenders that more modernized their role in this now. Eventually, everyone will have this. But this is an awesome update, DJ. Yeah, it's so interesting. I never really understood what my credit karma score represented. I always knew that it did trend higher than my FICO score. And you know, it's weird about FICO is and maybe it maybe credit karma doesn't fluctuate as much. I'm not sure. But I've, you know, I don't take on new credit cards. I have a pretty consistent, you know, sort of loan to value situation in my finances. And it's crazy. I think a couple months ago, I took a 50 point hit in my FICO score. And I was like, I have no idea why that happened. I literally did nothing different this month. And so I don't pay that much attention because I'm not taking on new loans. But it does feel like a little bit of a gut punch and I must have done something wrong, even though I didn't. So I'm never sure how to really, you know, even track FICO. But I imagine you were getting probably before this news, people were sending you credit karma scores and you were like, wow, we can't really use these. So now you can actually use them. Exactly. Every loan officer in history has had hundreds or thousands of clients who, why is your score different than mine? And here comes the screenshot of the credit karma score that's off by 80 points and over near what the lender is using. And it usually comes in a little bit higher on credit karma than the actual FICO model, which can be hard to even assess where your score is. You typically have to pay for that data if you're a consumer besides doing a soft or hard credit check on the lender level. So this is a game changer. You're going to help tons of borrowers. It's just a different formula. It's a different opinion and it's a more modernized version of that, right? So for example, the vantage score, you can have a credit score with only having credit for a month with typical FICO. You have to have a six month track record. Things like utility payments, rents, even like your phone bill can often, often pop up on the vantage score. So it's just, it's casting a wider net and compassing more data. It's just going to make it easier for more borrowers. It's going to open up eligibility for a lot of Americans who couldn't qualify off a traditional model and now they're going to qualify with the current model. It's funny to bring them up, you can't tell you how many clients I've had over the years, become frustrated and disappointed and sad they're not going to qualify because they've been checking their credit karma daily or weekly for years thinking that's going to be their goal ticket to get the approval and come to think of it. The lender has a different score model and they don't have the same score. They're for they're not going to have the same loan determination or approval that they thought they would get with that credit score. So now it's literally as simple as opening up a credit karma free gala. I feel like I'm a credit card credit card miss the Ellsman, but it's that easy to track your score now. The vantage score 4.0 is the same that's going to pop up on credit karma and it could be the same as what you might see under banking out. There's so many different websites out there that have scores and the vantage score is typically what pops up on there, not the FICO score. Interesting. Yeah, I know for some of my credit cards, it seems like they all send these now and some of them are FICO, some of them. I don't know what they are, but it is always confusing because you're right. There's some variance in the credit karma score and just not a curiosity, why is the credit karma score 10? Why does that tend to trend higher? It's just a different trending model that has different kinds of data that are traditional FICO model just doesn't have. For example, let's say you take out a $10,000 credit card and every month you pay it down and you're just chipping away at that. The new model, vantage score or even the credit karma score is going to give you credit for that. You've been chipping away, you've been making bigger payments, you took on a ton of debt and now you paid it off. We're going to reward you more FICO score because they hope you had this big credit card. You're going to be penalized. You might get a few points or paying it down, but you're not going to get that big reward, that big upside, that the vantage score has. A lot of people think FICO has really not made updates to their technology over the years with the way that we now have utility credit and rent payments being available. They just never decided to report that. I think this is a great idea that vantage score is rolling out all these new ways. Had new forms of credit onto the credit report. The best part about this is with the last credit check I did, I just sent you a text about that one the other day, DJ. You can actually pull a credit report and it's going to pull the vantage score and the FICO score. Let's say that FICO happens to be higher than vantage score, you can still use the higher of the two. Sure. Again, this is a newer technology, newer program. Most lenders don't have this. I have one lender. I can broker out to that does. Is this always going to be a game changer? Is this always going to be how you can make a deny loan approved? No, but it's just another good option to have in that back pocket because those smaller credit differences can sometimes make a difference between being approved and not being approved. Yeah, it's so cool. I guess the action step for our listeners is if you have, well, you should just do this with all your clients. I guess all the buyers who are taking on loans have them set up a credit card account and start utilizing their score. Seeing if it's higher, you can obviously apply that when you're getting your next loan or if it's lower than you can use the FICO score. Just another arrow in the quiver, I guess. That's really exciting. Exactly. If you guys, everyone listened to this podcast. If you've had a client who maybe had the income that had the cash, but it was just the score was too low. That was the reason they were not approved. This can literally be the difference between them being approved and not being approved. If you're already working with a mortgage broker who has a lot of options, reach out to them and have them check again if you had another loan officer that works at a retail platform that doesn't have the brokerage options. Again, this small little difference can sometimes be the difference between getting approval and not getting approval. Just listen when you speak with your loan officer or your client of why they were turned out or maybe why they weren't pre-called for that higher price one. If they mentioned credit score being one of the main factors for that lower approval or not getting that approval, then definitely take a second look. You can reach out to myself or any mortgage broker who works with these institutions. Have them do a check out the vantage score, check out the FICO score. In worst case, it's going to be another opinion of what they potentially could be qualifying for, another opinion from another loan officer to see what's showing up on that report. Yeah. I see no downside to this. If I were a buyer's agent, I would be asking all of my buyers regardless of even if the lender that they're choosing isn't utilizing the score now, I would say, you know, you never know what's going to happen. We might need to get a backup offer from a different lender. Go ahead and let's get this credit, Karma score, you know, in place for you. It's because let's see, it might be higher. It might not be. We don't have to use it if we don't want to. But it's just another value add that an agent can bring to the table. And again, maybe the lender uses it. Maybe they don't, but at least now you have this other opportunity. So this is huge. I did not know anything about this. So thank you. And I'm a credit karma user. And I didn't know. So that is pretty awesome. So thanks. So I imagine that's the action stuff, right? Just tell everyone to get their vantage score and credit karma score and see what happens. Yup. Now there's actually more credibility back into that credit karma score. So downloading the free app can hurt track your progress, see what's on there. And that score should be that score that lenders are now going to start using. Again, they're not going to all start using it overnight. It's going to be rolled out. I can do it. I've already had a client close with this program. Eventually, everyone's going to have it. But now you can finally lean on that credit karma score with more credibility and reliability, knowing it's not just some junk score where it's going to be off by 60 points. And disappoint your client. It's actually going to hold up and underwriting once that lender does that credit track. Of course, lender still has to complete that tri merge cutter report. You cannot just send a screenshot of your credit karma score. The point is we can now use that score in model. But we're still going to have to pull our own report, the experience, aquifax, transunion, look at the FICO, look at the venture score, and then use the higher of those two scores. Yeah, I just pulled mine up just because I was interested in it. What's cool about credit karma is it, by the way, if you're not familiar with credit karma, into it owns it into it is, is that turbo tax? Is that into it? I know, yeah, no, into it owns credit karma. I think you might be right. Turbo tax part of the thing. Yeah, massive legitimate financial institution. So this is not some wacky app that is an online bank or something like that. They have this app is really cool because it also shows me my transunion and aquifax. And I like it. It just all shows it to me at once. So yeah, tell all of your buyers, let's get their credit karma score and talk to the lender. And if you don't have a lender that is currently accepting credit karma or vantage point scores, then let's talk to Austin. And he can see about lenders that he has access to because he has access to almost 300 of them. And it's funny. Austin here in Chicago, there's a lender that has been making a lot of, a lot of waves over the last 10 years. And the reason is because they can shop rates around and very few loan officers really do have that opportunity. It's a really significant opportunity because most many loan officers work directly for the institution that they that they service. And that's the only rates, the only products that they have. And you know, maybe they're great, maybe they're not, but they don't have the opportunity to really go out in the marketplace. And see what's available. You have that. And with Nexa, I mean, you have the, like the largest selection I've ever heard of. So I know I'm going to you for all of my future lending because, you know, I, well, I'll hopefully be able to refinance at some point because I had to give up my, my 3% rate, which we all got back in the 2021, 2022, but got the place I wanted and got a little bit of a higher rate than I wanted to pay. But oh well, but I'm going to bring it to you because at some point you could probably find me something better. So I'm going to, I'm going to need you on this one. And by the way, if anyone out there is has clients, you know, that need lending opportunities, please reach out to Austin. He can, he'll find great stuff for you. All right. Let's, let's switch gears. Let's talk. I want to talk a little bit about sort of young buyers, right? So let's just get into this because there's a huge swath of young buyers right now who aren't really building credit. And I know our agents are running into this a lot. You know, these are people that they're paying their bills. You know, they're, they're, they're not necessarily taking on massive debt, but they've never had traditional credit accounts. And so if one of our agents runs into somebody like this, you know, it's going to be obviously hard to get alone. What would you recommend to some of these? And this is a massive amount of people's like 33 million people or something are not, do not have a traditional credit sort of history. Exactly. And if you have the means to pay cash, why should you be penalized for that? You should be rewarded for that. If anything is you don't need that credit that shows us you probably have cash income, the support in other areas. What I'd recommend it is someone's trying to build credit. The fastest thing you can do is open up a secured credit card with a local bank or a credit union. It's typically free. You can get a small credit line. That's the fastest way to build credit. What I'd also recommend is now that we have the Vantage score. This is rewarding those borrowers that are part of that 33 million figure that you just mentioned, DJ, that maybe they pay their phone bills, they pay their utilities on time. If they're rent, they just have it had a need to get a credit card or a personal loan or a car loan or they haven't qualified for a mortgage yet. So they don't have a mortgage on their credit report. These are people that were penalized with that FICO model that are now being rewarded with that Vantage score model. So overall best practices for credit. If you're speaking with someone, you as a REALTOR who wants to purchase a house, maybe there's six months out or a year out, maybe they aren't. Maybe there's just a couple months out now that we spoke about the Vantage score can populate a score. In as little as 30 days. But if they are looking further out, the best thing you can do at yourself as an author is user on a card that has a clean payment history that has a small or zero balance that gets paid off monthly. And the other best thing is opening up a secured credit card, which is free, typically local bank, credit unit, any kind of institution pretty much always offered. This is another fast way to build credit without taking on time that's going to lower your score of front. It's probably not going to have a credit inquiry. It will start building credit from day one. I'm going to give all of our audience a stat in Austin. This might be a stat that is new to you. You probably do know this, but just in case our audience doesn't. And this really speaks to what we're talking about. You know, a lot of what we've seen in first time home buyers is that the age has trended upward over the last 10 years in a way that it's it's trended upward into, you know, taking longer for the average American to purchase their first home. It used to be around 30, 31, 10, 15 years ago, I believe. Now it's up to almost 40 years old. It might even be above 40. And that's a real problem for Americans because, you know, I don't want to have the conversation about whether rent is throwing money away or not. But just building equity alone is something that tends to be often somebody's largest financial asset at retirement or certainly one of their largest financial assets. And if they don't start building equity in their 30s, it becomes really challenging. I mean, you can get lucky, but it can become really challenging to, you know, have that, that that wealth accumulate over time. And so what's interesting as a stat I was going to mention is what's interesting is yes, younger people are waiting longer. And look, there's a lot of reasons for that. It's not just because they don't want to or they're not aware of it. The pricing power has changed and middle class is shrinking and it's certainly tougher. What I will tell you that is an upper massive opportunity with the statistics. So 59 years of age is the current age of the average home buyer. 59 years. Now these are people that have had mortgages before. They have good credit, probably, and they've probably made a whole bunch of money in the last five years on the equity in their property. And they're probably nearing some sort of life event, right? So maybe they're downsizing, maybe mom and dad are moving in because they're elderly, maybe the kids are moving out because they're out of college. You know, now you have people in this really interesting place where the average homeowner or buyer rather the average home buyer is now almost 60 years old. And so we always think get the young people in and yeah, we should. But what's happening right now is older people are trying to figure out what to do. And this is a huge opportunity, I think, because they could take some of the equity and perhaps use it as a way to purchase an investment property or, you know, maybe they're downsizing. They don't need the big home anymore. So they take some of, you know, they sell the home, which is appreciated and use it, use the money for that and then have extra money left over for other opportunities. So I just wanted to share that with the audience because that blew me away. I did not know the average homeowner was a average home buyer was that old. I always think it's got to be the younger generation. Well, that currently it isn't. Well, yeah, that's almost 60 years old. That's not the number that we want to see when we want to see all kinds of ages get into home ownership. But the younger that the smaller that number is, I think the healthier of a sign of economy is for the cost of living, the cost of the average mortgage. So all we can do is help our buyers, let them know that there's programs out there that could help whether it be affordability, whether it be the credit components that we spoke about. There's different angles to get these buyers qualified that they probably didn't know existed. Yeah, so, you know, don't neglect the older generation. If even if you are a younger agent who tends to, you know, find their clients on TikTok, those 59 year olds are not on TikTok. They are on Facebook, maybe Instagram and they're maybe on LinkedIn. So anyway, let's go out and find the people that are actually buying right now. All right, let's talk about rates. So people always want to talk about rates and I don't ever get to caught up in rates because rate chasing is probably a dead end. It's like trying to time the stock market. Good luck. The top smartest people in the world can't seem to do it effectively. So I know that, you know, whatever the rate is, it is when you're ready to make a home purchase. However, we should talk about where it is currently and what's going on with the current sort of international situations that are going on in the world and how that's being affected because it is being affected. So give us an update on what you're seeing out there. For sure, DJ, I know as of today, this morning when I looked the average interest rate across the country for a strong scenario, 20% down, great credit was a 6.66 interest rate. So we're up a little bit more than a half of a percentage when we did our initial podcast with three and a half months back right before the Iran conflict. And that's really the main theme, the Iran conflicts, the straight or hormones specifically, this is where 25% of the world oil come from. So as long as that straight is shut down, oil prices are going to be up, mortgage rates are going to be up with that. Neither of us should really pretend to know when we think this war is going to be over, neither of us know when rates are going to come up or come down. I think that once the situation does finally dissolve, there's a mediation in play and there's a deal that's cut, we're going to see rates take a little bit of a drop off. Am I telling buyers this? No, I'm not because this is again just my personal projection and I don't want anyone to wait for rates to drop if it's really just kind of a guess, but that's the most likely scenario when this conflict does end. Oil prices are instantly going to drop the barrel of oil right now is right around $90 a barrel. We're going to see oil drop and we're going to see mortgage rates dropped with that is the number one factor for mortgage rates is always inflation the cost of living with rent and oil and gas being one of the main components of the feds preferred inflation index of PC and CPI. So as we see oil finally come back down to earth, we're going to see rates come back with that. I think it could be pretty sudden that there's a true deal that's finally cut and the best days in market expect the word of the White House actually hold up with the deal. I think we're going to see a lot of improvement with interest rates. We've seen rates really vastly up down down and up over the better a quarter of a rate over the past 45 days or a couple of months or so. Again, if we see worse inflation, if this conflict gets exacerbated, we could see rates take up. I think the most likely scenario just between us on a professional conversation is we're going to see rates come back down a little bit more when this conflict finally is resolved. Yeah, and we should also mention too, there's a new Fed chair, Kevin Warshies in and people think while he's a Trump appointee, so Trump once rates cut. So that's what's going to happen. But what and I have to acknowledge I just learned this about two or three months ago myself. So I imagine a lot of our listeners maybe don't know it. The Fed chair himself or herself, in this case, it's himself cannot cut rates on on their own, right. There's a 12 person committee. I don't think he's got the votes right now to do it. So that's I actually made a video about this just recently saying, you know, hey, you think maybe it could be a cut coming. I don't I think the opposite. I don't think there's cuts coming. But again, anything can happen. Nobody knows that literally I talk to the top analyst for the National Association of REALTORS who's largely considered one of the smartest minds in the country when it comes to interest rates. And he says, I have no idea. So it's one of those things that again, don't don't worry about chasing rates. What you really want to do is talk about the actual payment. Nobody really cares about the rate. They care about what the number is there writing on that check to the lender every month to be able to live in that home. And if you can get somebody to do it at 6.6%, by the way, my current rate is around there as well. And you know, I was able to do it thankfully. And you know, why what a great situation. I don't think 3% is coming back. I certainly that would be a wonderful day for me. But I don't think that's going to happen. And I think the 3% rates really caused a huge problem in this country because now we have people that are handcuffed with these sort of golden handcuffs of I don't want to give up that rate. Right. So it's been real problematic, I think, for people who are sitting on these amazing 30 year fixed in, you know, during the pandemic when we all refinanced. So yes, so is the Fed going to cut rates. We don't know there's a new chair. It's a Trump appointee. We hope there's some Fed cut rates coming, but don't expect that there's also the Iran situation is Austin said. So, you know, what do you say, Austin? I would love to hear, you know, what do you tell somebody about kind of what rates, what they should expect. And again, not with rates themselves, but how to think about rates. And I think the easiest way is always to bring it back to what that rate does. It brings your monthly payment up or down. That's the one thing that we really should be focused on. If you make it about the payments, then you can always find a different way to structure that loan creatively, where your payments can be within your comfort zone. If you just talk about rate, that's market, that's something that we cannot control. It's just going to cause you to be emotionally exhausted stressed out, make you feel like you're not getting a good deal when everyone else did because they purchased in 2020 when they got the three and a half or three and a quarter. Yeah, interesting that you just brought up DJ. So control what you can control. And that's try to focus on bringing that payment to a comfortable payment zone. How can you control that with negotiation to all my buyers agents, you guys are obviously well aware of getting seller credit to either do discount point or a permanent buy down to have the rate brought down on a permanent 30 or fixed basis when there's less buyers less by activity. What happens is less demand. There's more opportunity to get more aggressive with those offers. I think spinning it that way with your buyers when they're a little bit discouraged, they're bringing up waiting. You can remind them how many other people are probably waiting and how many other people when rates to drop in fall or winter who knows they're all going to be jumping in that pool at the same time making a big splash. It's going to be a lot of demand that's thrusting into that market at one given moment. And this market, you can get a little bit more aggressive with seller credit with those discount points having a 30 or fixed payment that's never going to change lots lower because you did a permanent buy down. Or, of course, another great option doing a seller credit to cover a temporary buy down we can have your rate dropped by 2% of a rate in year one, 1% of a rate in year two before permanently adjust and never changes for the remainder of alone. Just getting creative talking through these strategies with your lender having the loan officer and lender discuss what their payment goal is that's the best way to mitigate the conflict of the rates, the thing we can't control the thing we really have absolutely no control over other than the payment other than making sure you structure an offer that's going to make sense for yourself as a buyer. Yeah, and I just want to really encourage our audience to reach out to you directly you don't have to understand buy downs or where where where rates are currently trending although Austin does send a weekly email that you should be on a clearance at next lending.com is how you get on that list. We'll have a link to that in the show notes, but reach out to him. He knows not only does he have all this information he has access to almost 300 lenders like that is so unbelievably important. And he is going to find the best possible product for your clients, you know, needs and even if it's just a backup offer reach out to him. We have so many agents they come up to me, whether it's virtually or if they see me in person here in Chicago and they're so grateful that I've put this podcast together for the last eight years. And certainly that's that's very flattering and I'm appreciative that people find value in it and really is a labor of love. I do it is this is not how I earn my you know all of my income. I have a day job as well, but I do this because I really trying to help agents out there do better and learn from top agents and also learning from our amazing partners like Austin. And they often ask me like, Hey, thank you so much for doing this like how can I support you and I say, well, I don't sell anything. I'm not offering anything I probably should I be probably a smarter man if I had like a course or something to sell. So what I tell them is, you know, we have partners on the show like Austin. They are the ones that we really want you to reach out to because people like Austin help keep our show running. So even if you have a great relationship with your lender, give him an opportunity to be the backup offer reach out to him. But let's switch gears because I want to talk about something that is really can be very frustrating for agents when they have clients who are self employed. So let's talk about the news on what in somebody who's self employed should be thinking about in order to get themselves ready to be able to get some of these products more easily. I think the legacy way of qualifying for a home loan, if you are self employed from a lender standpoint is always two years of tax returns. It's the same for VA FHA conventional in some cases you can use one year. So technically it's not 100% correct. Again, tax return income is what you report to the IRS after all of your expenses losses right off home office. We as lenders and REALTORS, we obviously have a ton of ability to write off expenses. So the downside of that is it's going to mitigate your income on paper for the loan. Right. So there's so many programs out there that lenders have recently brought out that are a lot more flexible for our self employed borrowers that gig economy is massive. So there's tens of millions of Americans who are currently self employed working different self employed job self employment jobs and they don't have that W to income. The new program is that what just helped my first client close on is a three and a half percent down profit and loss loan. So you can make your own profit and loss and have to be created by a CPA or a tax repair. And you can use that to qualify for a loan instead of your actual tax return income from one or two sometimes your taxes can be two and a half almost three years old if you filed an extension. So there's so much more flexibility and this day and age for the self employed borrowers. So this is another one. If you guys as a REALTOR listening to this podcast, run into an issue for a self employed client, they can always exercise their option to find a three and a half percent profit and loss loan. Of course, the next best option is you can do a 10% down the three and a half is actually through F a J so it makes it much easier to refinance out of later on after you close and make six payments or you can do a 10% down bank statement loan. Again, these are both options where the lender is not going to ask you for your tax returns. You're not going to have to get your CPA or your tax repair involved. You can make a profit and loss showing your income for the past 12 months and that's what the lender is going to use to cover your income. So now you can get all the benefits of writing everything off on your actual taxes, lower your tax liability of a much smaller tax bill, let your CPA cook and do his job and then you're going to focus on call for that loan using that profit and loss. Yeah, that's such a great idea. I mean, so many of us have really embraced the gig economy, global gig economy that we we see now and we participate in it and we open our own micro business, whether we're, you know, driving for Uber or lift or we're delivering something or we're opening up our own Etsy shop. And what can be challenging is, you know, there's obviously when you go to pay yourself for some of these situations, you might not be paying yourself very much and might just be difficult to get loans. And so this is a huge deal for anyone that's self employed and I know I have an S corporation, which is a little bit different, but I own that and I'm an employee of that. So it makes it a little bit easier, but even when I go to get loans, I pay myself such a small salary that they look at that and go, how can you afford to buy this house and go, oh, no, no, I own the company and I have to show all the documents and then it usually goes through. But people who are self employed deal with these issues all the time when they're getting credit cards bank accounts, obviously loans. And this is huge news for self employed people. Exactly. And this is not a program that's like a down payment assistance loan, you can't really stack multiple unique factors on loans. This is a 3.5% down, ideally, typically a first time home buyer program, you can purchase using a profit and loss that you personally created without having a professional create the document, which typically costs hundreds or thousands of dollars to have a CPA on it. So great way to be able to write off all their taxes. It's a more flexible way to qualify for a loan in 2026. It's great to see lenders are finally easing up understanding the nature of how Americans are actually getting paid the nature of how they're receiving income and creating a mortgage products that actually resolves that issue that works to their needs understanding the nature of the income. So it's great to see tons of lenders are constantly rolling out new programs, bank statement loans have been around for years. That's a similar concept, looking at just the income going into the account, averaging all the deposits from the source, the actual business, the profit loss is a smaller down payment, just 3.5% regular FH alone. Again, the one difference is how that income is assessed by the underwriter with that profit and loss statement. Yeah, there's so many self-employed people who just run into these issues and now there's this really cool option to create. And if you don't know how to create a P&L and or you certainly as an agent, you might be self-employed, right? That's very common for agents. This could apply to you as well, but you know, I always think if you don't know how to, you know, if you don't have a CPA and you're, you know, new to owning your own business and, you know, you don't have those kind of skills, you know, chat GPT as your friend, right? It can do this certainly all the AI systems. So get a P&L together, bring it to Austin, he'll tell you what he needs for his lenders and now you have some opportunities that you didn't have before. Awesome. So I wanted to let's give our listeners some homework. What do you think sort of is the action steps for this month? I think in terms of finding your next deal that's going to close with the opportunities that you currently have in front of you, letting buyers know who you spoken with in the vast, maybe they were in a credit repair program, they weren't quite qualified, letting them know, how does your credit karma score look? Did you know some letters now accept that credit commerce score, getting some of those older buyers off the sideline, this can be a great touch point to rekindle that conversation with those buyers, just understanding what their hurdles are with their qualifications. If nothing else, it's a great touch point of worst case scenario, nothing comes of it, best case scenario, you identify a need or a concern that they had another lender gave them that might allow them to actually be qualified for a loan. When someone brings up their concern about where rates are remember bring a bread back to that payment, the one number that actually matters, not some percentage that you're seeing online. Bring a back to the payment so we can work up ways, tell you the loan officer what that payment goal is, you can remind them, and then you guys can work backwards, refers to near that, figure out how much seller credit you need, a what price point to make sure all the numbers play out. I think it can't hurt to just pick up the phone, talk with some older buyers, maybe someone that was thinking about purchasing a second property or a first time home buyer that you hadn't spoken with in years. What I've seen so far using this vented score touch point has been an amazing excuse to get in front of buyers that hadn't spoken front of and a little while and if nothing else, now they can download credit karma for each easy now they can check their score that a lender would actually use when they go to qualify for a house. Yeah, those are great and let's remember the statistic I mentioned, Austin briefly mentioned it that you know the average home buyer is trending older so there are 59 and these are people well it's actually one thing I didn't mention which is wealth transfer is also happening. So these are people whose parents are elderly and are starting to pass away and of course that income or sorry the the the assets of those elderly parents are most likely going to filter down to these older you know older children who are now you know nearing retirement themselves. So you have this huge influx of cash to the people that are buying homes right now so yeah maybe they can pay all cash for their next property because they just made a bunch of money on the home they've owned for the last 20 years but they also have friends that have made a lot of money in real estate investing and they've not yet done it. Austin by the way is a specialist specifically in investor financing now he deals traditional you know primary resident stuff like me I'm a primary residence holder so I would use him for that but they are everybody has friends that have made a really strong financial investments in real estate and they really just need a nudge and now you have these older people that have cash on hand possibly from their parents they have a huge amount of equity. So I think they built up in this home they've lived in for 20 years and they they have a life event that's happening you know like they might be downsizing or kids are moving out or parents are moving in whatever so this is a massive opportunity to either talk to them to get them in their next primary residence or to have the conversation about hey let's talk about investments I've got a great lender let me connect you with Austin let's see what we can do if you want to create some some good legacy wealth. And so I just see that so much opportunity right now and you know we we focus so much on inventory and how tough it is for primary buyers right now and yes it is and rates are you know rates are always going to be higher than anyone ever once except you know from several years ago when they weren't. But this is an opportunity where you can really get into I think a good network of new revenue stream for you as an agent so if you're always thinking I got to get the first time home buyers you're neglecting this older demographic that really does need your help right now and these are people that don't do it on their own they use professionals they have CPAs they've had real tears in the past they have a they have a attorneys to for their state planning they. Meet you you know younger generation often feels maybe I don't need a REALTOR i'll do it on my own right they these are people that like paying for service and they don't have all the answers and they're not as tech savvy as you are so let's reach out to those older those older clients or those older people in our community make friends with them and a lot of them are really. The the the businesses up for grabs we often think well they have a REALTOR in the past that REALTOR probably is not stayed in touch with them that the numbers are staggering for it's it's like 85% of REALTORS do not touch base with their client after a sale or they touch base once in the next 12 months and then that's it that's 85% so trust me these relationships are that strong. Reach out to find these people bring them to Austin he will find great products and services for them and you know you will be seen as the hero so Austin what a great. The first time I was in the state episode today I learned a lot the credit karma vantage score thing was amazingly the P and L situation for for you know business owners is exciting and also just getting our you know grounded thoughts about rates so thank you so much as always tell us about the email that you send out weekly for agents. Every Wednesday we fire off a weekly intelligence newsletter you guys are more than welcome to ping me on social media or email me again all my social it's just Austin dot mortgage including my YouTube channel or mainly talk about DEC our rent allowance. Trying to give important updates to summarizing what's happening with rates and a new programs like to keep it short and sweet not a boring newsletter so ping me shoot me an email a clearance at next. And if you want to write down my email you can just remember Austin dot mortgage on pretty much every social media platform you can just shoot me your email let me know you want me to add you to that newsletter and if you ever want any other customized information or a marketing fire any other information on how these programs work on how this program can benefit a particular client even if it's a state. It happens not to be able to do business and please team you whenever don't ever feel like your bother me. Yeah Austin I have worked with a lot of different providers over the years on the show and in the brokerage that I work for which is called Kale Realty here in Chicago and I will tell you I have had because we have 800 agents at our own firm here locally in Chicago we get a lot of calls from lenders that say I want to get in front of your agents and we are like oh you know I'm going to say I'm going to get in front of you. You know it's so hard to know who's a good lender and who isn't I will tell you Austin is amazing he just is one we've chosen to represent keeping it real here on the podcast so please give him an opportunity on your next deal he would love to be that backup offer if you already have a good relationship with an L.O. He wants to be the backup and if you don't have a backup reach out to him anyway because he would love to be the primary but give him an opportunity see what he can do he's a great guy he brings so much value to our show and we want to see his business continue to improve because we want him on the show for the rest of the time that we're on the show so Austin thank you once again for bringing some amazing conversation value to our audience we appreciate you on behalf of the audience on behalf of Austin and myself. Thank you to the audience as always the best way you can help us is not only by reaching out to Austin but by telling a friend about this podcast shoot a link let him know about keeping it real and we would always appreciate that and leave us a review if you're listening to us on iTunes or Spotify or wherever you're checking us out we love to hear how you're doing and shoot Austin a direct message asked to be on his. He can find him Austin dot mortgage Instagram TikTok YouTube he's all over the place or just message us we'll have all this stuff in the show notes so you can just click and Austin thank you once again we will see everybody on the next episode. DJ thank you for having me on see you next time appreciate you. you"
 }
