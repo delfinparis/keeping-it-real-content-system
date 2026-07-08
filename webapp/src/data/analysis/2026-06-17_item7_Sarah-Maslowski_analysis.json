@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": "Not mentioned",
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube lead generation",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "YouTube for lead generation",
+    "Lead conversion systems",
+    "Identifying serious buyers",
+    "Showing agent model",
+    "Importance of buyer consults"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective lead generation through social media",
+      "solution_summary": "Focus on YouTube for more effective lead generation.",
+      "timestamp": "00:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting leads into signed contracts",
+      "solution_summary": "Implement a structured lead conversion system including Zoom consults and exploratory trips.",
+      "timestamp": "03:34"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Wasting time on non-serious buyers",
+      "solution_summary": "Use Zoom consults and exploratory trips to filter serious buyers.",
+      "timestamp": "05:02"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Handling multiple clients simultaneously",
+      "solution_summary": "Adopt a showing agent model to manage multiple clients effectively.",
+      "timestamp": "15:15"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for scaling lead generation and conversion.",
+      "key_takeaway": "Implementing a structured system for lead conversion can significantly enhance productivity and sales."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses team management strategies like the showing agent model.",
+      "key_takeaway": "Using a showing agent can help manage client load and improve service delivery."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:02",
+      "end_timestamp": "06:04",
+      "quote": "A lead who will not schedule a 45 minute Zoom consult, that is telling you something very important about how serious they are.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable filter for identifying serious buyers.",
+      "suggested_hook": "Are you wasting time on non-serious leads? Here's a simple filter to find out."
+    },
+    {
+      "timestamp": "15:15",
+      "end_timestamp": "16:15",
+      "quote": "The showing agent model solves this problem...it frees up your time, it buys you leverage.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical solution to a common problem faced by agents.",
+      "suggested_hook": "Struggling to manage multiple clients? This model could be your game-changer."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Zoom consults to build trust and filter leads.",
+      "context": "Apply this when first engaging with a new lead.",
+      "timestamp": "05:02"
+    },
+    {
+      "tactic": "Implement a showing agent model.",
+      "context": "Use this model when you have multiple clients needing attention simultaneously.",
+      "timestamp": "15:15"
+    },
+    {
+      "tactic": "Require exploratory trips for relocation buyers.",
+      "context": "Use this to ensure buyers are serious and familiar with the area.",
+      "timestamp": "09:42"
+    }
+  ],
+  "quotable_insights": [
+    "YouTube sends you leads who already trust you, already like you, already believe you know your market."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for agent recruitment and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her proven strategies for generating and converting leads using YouTube, emphasizing the importance of structured systems like Zoom consults and exploratory trips. She also introduces the showing agent model as a solution for managing multiple clients effectively, offering tactical insights and practical advice for real estate agents looking to enhance their productivity and sales.",
+  "_metadata": {
+    "source_file": "2026-06-17_item7_Sarah-Maslowski",
+    "analyzed_at": "2026-07-08T07:05:50.469597",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

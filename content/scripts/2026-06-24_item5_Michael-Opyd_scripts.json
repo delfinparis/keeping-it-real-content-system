@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "50:00",
+      "end_timestamp": "51:30",
+      "quote": "All stress is a compression of time. If you think you had two months to do a book report, you didn't feel stressed when it was announced, you felt stressed the night before when you didn't do it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This insight highlights the importance of managing time to reduce stress, a common issue for many agents.",
+      "suggested_hook": "Feeling overwhelmed by stress? Here's why managing your time is the key to relief."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Feeling overwhelmed by stress? Time management is your secret weapon.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Linquist shared a powerful insight on our latest episode. You're juggling showings, client calls, and family time, feeling like there's never enough hours in the day. Stress is creeping in, and you're not alone.\",\n    \"INSIGHT\": \"Julia said, 'All stress is a compression of time. If you think you had two months to do a book report, you didn't feel stressed when it was announced, you felt stressed the night before when you didn't do it.' [ON-SCREEN: All stress is a compression of time.] Most agents let deadlines sneak up. Top producers plan ahead to stay calm.\",\n    \"REFRAME/APPLICATION\": \"This matters because managing your time reduces stress. Start by scheduling your week today. Julia's approach helped her close 47 deals last year. [ON-SCREEN: Schedule your week today.]\",\n    \"CTA\": \"Are you managing your time effectively — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Feeling stressed? Time management is the key to relief. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#TimeManagement\", \"#StressRelief\", \"#AgentLife\", \"#Productivity\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"All stress is a compression of time.\"\n}\n```"
+  }
+]

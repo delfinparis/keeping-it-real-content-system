@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Valerie Fitzgerald",
+    "title": "Luxury Real Estate Agent, Entrepreneur, Author, Television Personality",
+    "company": "Valerie Fitzgerald Group, Coldwell Banker",
+    "production_level": "Top 10 agent nationwide for Coldwell Banker",
+    "specialty": "Luxury real estate",
+    "location": "Los Angeles, CA"
+  },
+  "main_topics": [
+    "Overcoming adversity in real estate",
+    "Building a luxury real estate business",
+    "Embracing change and innovation",
+    "The role of fear and courage in success",
+    "Leveraging AI in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into the luxury real estate market without connections",
+      "solution_summary": "Leverage open houses and build relationships by showing up as a leader.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of stepping into new challenges",
+      "solution_summary": "Adopt a mindset of blind faith and courage to take on new opportunities.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing authority in a competitive market",
+      "solution_summary": "Create valuable content and leverage AI to enhance visibility and authority.",
+      "timestamp": "37:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on breaking into high-end markets and building a brand.",
+      "key_takeaway": "Fear is a companion, not a barrier; embrace it to achieve success."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers strategies for starting a real estate career from scratch.",
+      "key_takeaway": "Leverage open houses and build relationships to kickstart your career."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "Be afraid and do it anyway. Fear is a companion, not a barrier.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that fear should stop you, promoting action despite fear.",
+      "suggested_hook": "What if fear was your greatest ally in success?"
+    },
+    {
+      "timestamp": "37:00",
+      "end_timestamp": "38:00",
+      "quote": "I'm focused on being at the top of AI search results for real estate queries.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a cutting-edge tactic for increasing visibility and authority.",
+      "suggested_hook": "Want to dominate real estate searches? Here's how Valerie Fitzgerald is doing it."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Leverage open houses to build initial client relationships.",
+      "context": "Especially useful for new agents without a network.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Use AI to create relevant content and improve search visibility.",
+      "context": "To establish authority and attract clients in a digital-first world.",
+      "timestamp": "37:00"
+    }
+  ],
+  "quotable_insights": [
+    "Blind faith and a little fear have driven me to guide every meaningful decision I've ever made.",
+    "Growth doesn't happen in your comfort zone; it happens when you step out."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Heart and Sold",
+      "context": "Valerie Fitzgerald's book on her real estate journey."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "Valerie Fitzgerald shares her journey from a struggling single mother to a top luxury real estate agent. She emphasizes the importance of embracing fear, leveraging relationships, and using AI to build authority. Her story offers actionable insights for agents looking to break into high-end markets and innovate in their real estate practices.",
+  "_metadata": {
+    "source_file": "2026-07-07_item1_Valerie-Fitzgerald",
+    "analyzed_at": "2026-07-08T07:09:51.864022",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

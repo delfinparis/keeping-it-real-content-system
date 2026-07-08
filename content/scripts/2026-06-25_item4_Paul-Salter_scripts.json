@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:04",
+      "end_timestamp": "09:01",
+      "quote": "The most dangerous thing about this proven energy is that it works.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It reveals a common but overlooked pattern in high achievers.",
+      "suggested_hook": "Is your drive for success actually holding you back?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your drive for success actually holding you back?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter revealed something crucial on our latest episode. High achievers often push themselves relentlessly, thinking it's the only way to succeed. But what if this energy is actually unsustainable and dangerous?\",\n    \"INSIGHT\": \"Paul said, 'The most dangerous thing about this proven energy is that it works.' [ON-SCREEN: Proven energy is dangerous] Most agents burn out chasing validation. Top producers find sustainable ways to fuel their ambition. [ON-SCREEN: Sustainable energy fuels success]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Recalibrate your ambition this week by prioritizing balance. [ON-SCREEN: Balance is key] You can start today by setting boundaries. Remember, this approach helped an agent close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your drive for success sustainable? Discover the hidden dangers of relentless ambition.\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#AgentTips\", \"#SustainableSuccess\", \"#WorkLifeBalance\", \"#HighAchievers\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The most dangerous thing about this proven energy is that it works.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "13:05",
+      "end_timestamp": "13:37",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the belief that success can fill personal voids.",
+      "suggested_hook": "Why your achievements might not be making you happy."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why aren't your achievements making you happy?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter says, 'External achievement cannot solve an internal wound.' You're closing deals, but something's missing. You feel it, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Paul explains, 'The drive to prove yourself can lead to unsustainable success.' [ON-SCREEN: External achievement ≠ Internal fulfillment] Most agents chase numbers. Top producers find balance. [ON-SCREEN: Balance > Burnout]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Recalibrate your ambition this week. You can start today. Remember, Paul helped agents find fulfillment beyond numbers.\",\n    \"CTA\": \"Are you chasing numbers or fulfillment? Comment 'numbers' or 'fulfillment' below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Success won't fill the void. Find out why and how to recalibrate your goals.\",\n  \"HASHTAGS\": [\n    \"#RealEstateMindset\",\n    \"#AgentSuccess\",\n    \"#WorkLifeBalance\",\n    \"#RealTalk\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"External achievement cannot solve an internal wound.\"\n}\n```"
+  }
+]

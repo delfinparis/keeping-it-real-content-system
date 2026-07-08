@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Peak performance coaching for high performers",
+    "location": null
+  },
+  "main_topics": [
+    "The dangers of success driven by proving oneself",
+    "Sustainable versus unsustainable energy for success",
+    "The impact of personal validation on professional achievement",
+    "Balancing work and personal life for fulfillment",
+    "Recalibrating ambition and work ethic"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Success driven by a need to prove oneself is unsustainable.",
+      "solution_summary": "Recalibrate ambition to balance work and personal life for sustainable success.",
+      "timestamp": "08:04"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "External achievements cannot solve internal validation issues.",
+      "solution_summary": "Focus on internal fulfillment rather than external validation.",
+      "timestamp": "13:05"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Always being 'on' leads to burnout and affects personal relationships.",
+      "solution_summary": "Learn to turn off work mode to be present in personal life.",
+      "timestamp": "20:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veterans often rely on proving themselves through achievements.",
+      "key_takeaway": "Shift focus from proving worth through work to finding personal fulfillment."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers may confuse acceleration with sustainability.",
+      "key_takeaway": "Sustainable success requires balancing ambition with personal well-being."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:04",
+      "end_timestamp": "09:01",
+      "quote": "The most dangerous thing about this proven energy is that it works.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It reveals a common but overlooked pattern in high achievers.",
+      "suggested_hook": "Is your drive for success actually holding you back?"
+    },
+    {
+      "timestamp": "13:05",
+      "end_timestamp": "13:37",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the belief that success can fill personal voids.",
+      "suggested_hook": "Why your achievements might not be making you happy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Measure success by hourly rate rather than total income.",
+      "context": "To balance work hours and personal life while maintaining income.",
+      "timestamp": "16:12"
+    },
+    {
+      "tactic": "Recalibrate ambition to prevent burnout.",
+      "context": "Learn to turn off work mode to recharge and be present.",
+      "timestamp": "08:04"
+    }
+  ],
+  "quotable_insights": [
+    "External achievement cannot solve an internal wound.",
+    "The most dangerous part about this proven energy is that it works."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for real estate recruiters to identify agents looking to move."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for agents to generate more business."
+    }
+  ],
+  "episode_summary": "Paul Salter discusses the pitfalls of success driven by a need to prove oneself and offers strategies for achieving sustainable success. He emphasizes the importance of recalibrating ambition to balance work and personal life, and highlights the dangers of relying on external achievements for internal validation.",
+  "_metadata": {
+    "source_file": "2026-06-25_item4_Paul-Salter",
+    "analyzed_at": "2026-07-08T07:07:24.565689",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

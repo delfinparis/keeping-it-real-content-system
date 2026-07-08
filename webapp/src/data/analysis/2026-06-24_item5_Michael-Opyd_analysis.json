@@ -1,0 +1,99 @@
+{
+  "guest_info": {
+    "name": "Julia Linquist",
+    "title": "Real Estate Agent",
+    "company": "At Properties",
+    "production_level": "Top Producer",
+    "specialty": "Helping buyers and sellers in Chicago and suburbs",
+    "location": "Chicago, North Shore, Northwest suburbs"
+  },
+  "main_topics": [
+    "Balancing work and family life",
+    "Improving business systems and organization",
+    "Allocating tasks and delegating responsibilities",
+    "Focusing on higher price point transactions",
+    "Managing stress and personal well-being"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Struggling to balance family life with real estate business demands",
+      "solution_summary": "Allocate lower price point transactions to other agents and focus on higher price point deals to free up time.",
+      "timestamp": "44:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of organized systems and processes in business",
+      "solution_summary": "Develop a consistent daily routine and delegate tasks to team members to improve efficiency.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "High stress and anxiety impacting personal and professional life",
+      "solution_summary": "Implement daily personal time for decompression and focus on small, consistent actions to reduce stress.",
+      "timestamp": "51:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "The episode discusses managing stress and workload for experienced agents with family responsibilities.",
+      "key_takeaway": "Delegating tasks and focusing on high-value activities can improve work-life balance and reduce stress."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Julia shares insights on maintaining high production levels while managing personal life.",
+      "key_takeaway": "Prioritizing high-value transactions and creating efficient systems are crucial for scaling business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:30",
+      "quote": "All stress is a compression of time. If you think you had two months to do a book report, you didn't feel stressed when it was announced, you felt stressed the night before when you didn't do it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This insight highlights the importance of managing time to reduce stress, a common issue for many agents.",
+      "suggested_hook": "Feeling overwhelmed by stress? Here's why managing your time is the key to relief."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Allocate lower-value transactions to other agents",
+      "context": "Free up time to focus on higher-value deals and personal life",
+      "timestamp": "44:00"
+    },
+    {
+      "tactic": "Implement a consistent daily routine",
+      "context": "Improve business efficiency and reduce chaos",
+      "timestamp": "31:00"
+    },
+    {
+      "tactic": "Take daily personal time for decompression",
+      "context": "Manage stress and improve mental well-being",
+      "timestamp": "51:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a you problem.",
+    "If you don't fix this today, what's it going to look like six months down the line?"
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for agent recruitment and retention using AI."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Suggested for improving lead conversion and CRM management."
+    }
+  ],
+  "episode_summary": "In this episode, Julia Linquist shares her challenges in balancing a high-performing real estate career with family life. Michael Opyd provides actionable advice on improving business systems, delegating tasks, and focusing on high-value transactions to reduce stress and enhance productivity. Listeners will gain insights into managing personal and professional demands effectively.",
+  "_metadata": {
+    "source_file": "2026-06-24_item5_Michael-Opyd",
+    "analyzed_at": "2026-07-08T07:06:39.718173",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:02",
+      "end_timestamp": "06:04",
+      "quote": "A lead who will not schedule a 45 minute Zoom consult, that is telling you something very important about how serious they are.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable filter for identifying serious buyers.",
+      "suggested_hook": "Are you wasting time on non-serious leads? Here's a simple filter to find out."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you wasting time on non-serious leads?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changing insight on our podcast. You're reaching out to potential buyers, but they're not committing to a consult. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"A lead who will not schedule a 45-minute Zoom consult is telling you something very important about how serious they are. [ON-SCREEN: 45-minute Zoom consult] Most agents chase every lead. Top producers filter out the non-serious ones with this simple step. [ON-SCREEN: Filter serious buyers]\",\n    \"REFRAME/APPLICATION\": \"This matters because it saves you time and energy. You can implement this today and focus on clients ready to buy. Sarah closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop wasting time on non-serious leads. Use this simple filter today!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#AgentSuccess\", \"#RealEstateAdvice\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"A lead who will not schedule a 45-minute Zoom consult is telling you something very important about how serious they are.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "15:15",
+      "end_timestamp": "16:15",
+      "quote": "The showing agent model solves this problem...it frees up your time, it buys you leverage.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical solution to a common problem faced by agents.",
+      "suggested_hook": "Struggling to manage multiple clients? This model could be your game-changer."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling to juggle multiple clients? Here's your game-changer.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a solution for agents overwhelmed by client demands. Picture this: you're constantly running from one showing to another, barely having time to breathe. It's exhausting, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The showing agent model solves this problem...it frees up your time, it buys you leverage. [ON-SCREEN: Showing Agent Model] Most agents try to do it all themselves. Top producers delegate showings to a dedicated agent. [ON-SCREEN: Free Up Your Time] This allows you to focus on serious buyers and close more deals. [ON-SCREEN: Close More Deals]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can implement this today and start seeing results immediately. Sarah Maslowski, who closed 47 deals last year, swears by this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you using the showing agent model already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Free up your time with the showing agent model. Are you using it yet?\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#AgentHacks\",\n    \"#TimeManagement\",\n    \"#TopProducer\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"The showing agent model solves this problem...it frees up your time, it buys you leverage.\"\n}\n```"
+  }
+]

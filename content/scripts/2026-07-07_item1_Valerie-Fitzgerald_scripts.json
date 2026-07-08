@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:00",
+      "end_timestamp": "11:00",
+      "quote": "Be afraid and do it anyway. Fear is a companion, not a barrier.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the notion that fear should stop you, promoting action despite fear.",
+      "suggested_hook": "What if fear was your greatest ally in success?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What if fear was your greatest ally in success?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Valerie Fitzgerald says fear isn't a barrier, it's a companion. You're pushing through calls, but doubt creeps in. You're not alone.\",\n    \"INSIGHT\": \"Valerie shares, 'Be afraid and do it anyway.' [ON-SCREEN: Fear is a companion, not a barrier] Most agents freeze. Top producers embrace fear and act. [ON-SCREEN: Embrace fear, take action]\",\n    \"REFRAME\": \"This matters because fear can drive you forward. Apply it this week—make that call. Valerie built a luxury business with this mindset.\",\n    \"CTA\": \"Is fear holding you back — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Fear isn't a barrier, it's your secret weapon. #RealEstateSuccess\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#MindsetShift\", \"#OvercomeFear\", \"#AgentTips\", \"#LuxuryRealEstate\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Be afraid and do it anyway. Fear is a companion, not a barrier.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "37:00",
+      "end_timestamp": "38:00",
+      "quote": "I'm focused on being at the top of AI search results for real estate queries.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a cutting-edge tactic for increasing visibility and authority.",
+      "suggested_hook": "Want to dominate real estate searches? Here's how Valerie Fitzgerald is doing it."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to dominate real estate searches? Here's how Valerie Fitzgerald is doing it.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Valerie Fitzgerald is focused on being at the top of AI search results for real estate queries. If you're struggling to get noticed online, this could be your game-changer. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Valerie says, 'I'm focused on being at the top of AI search results for real estate queries.' [ON-SCREEN: Top of AI search results] Most agents rely on traditional SEO. Top producers like Valerie leverage AI to boost visibility. [ON-SCREEN: Leverage AI for visibility]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? AI-driven search results are the future. You can start optimizing your content today. Valerie's approach helped her build a luxury real estate business. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you using AI in your strategy yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want to dominate real estate searches? Valerie Fitzgerald shares her AI strategy. #RealEstate #AI\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#TopProducer\", \"#AgentTips\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on traditional SEO. Top producers like Valerie leverage AI to boost visibility.\"\n}\n```"
+  }
+]

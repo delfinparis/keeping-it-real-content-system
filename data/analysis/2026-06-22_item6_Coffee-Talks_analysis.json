@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": "Real Estate Marketing",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "The Empty Stage Method",
+    "Using TikTok for Real Estate",
+    "Overcoming Barriers to Entry on TikTok",
+    "Local Content Creation",
+    "Consistency in Social Media Posting"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents feel invisible despite being on crowded platforms.",
+      "solution_summary": "Use TikTok, where competition is low, to reach a large audience.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents believe TikTok is not for their clientele.",
+      "solution_summary": "The fastest-growing TikTok audience is adults; use local content to reach them.",
+      "timestamp": "00:10:08"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents are embarrassed to post with no followers.",
+      "solution_summary": "Focus on consistency and answering real client questions to build an audience.",
+      "timestamp": "00:05:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can leverage TikTok's low competition to build a presence.",
+      "key_takeaway": "Start posting consistently on TikTok to establish yourself locally."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can break through the noise by using an underutilized platform.",
+      "key_takeaway": "Use TikTok to reach a large audience with minimal competition."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:01:23",
+      "end_timestamp": "00:02:02",
+      "quote": "The stage is TikTok... this is really, really good stuff.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the perception that TikTok is not for real estate.",
+      "suggested_hook": "Think TikTok isn't for real estate? Think again!"
+    },
+    {
+      "timestamp": "00:08:09",
+      "end_timestamp": "00:08:34",
+      "quote": "You're not trying to go viral in California. You're trying to be the one agent who keeps showing up when somebody in your zip code can't sleep at two in the morning.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of local presence over viral fame.",
+      "suggested_hook": "Why local beats viral every time in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Answer client questions in short TikTok videos.",
+      "context": "Use real client questions to create authentic content.",
+      "timestamp": "00:06:02"
+    },
+    {
+      "tactic": "Plant your flag by making content local.",
+      "context": "Mention specific local details to target the right audience.",
+      "timestamp": "00:07:43"
+    },
+    {
+      "tactic": "Post consistently without focusing on perfection.",
+      "context": "Prioritize regular posting over polished content.",
+      "timestamp": "00:08:52"
+    }
+  ],
+  "quotable_insights": [
+    "Perfect becomes the excuse for zero every time.",
+    "A small audience with zero competition beats a huge audience where you're shouting over nine and 10 agents."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "captions.ai",
+      "context": "Used for editing TikTok videos to make them look professional."
+    }
+  ],
+  "episode_summary": "This episode introduces the 'Empty Stage Method' for real estate agents to leverage TikTok's low competition and large audience. By focusing on local content and consistent posting, agents can build a trusted presence in their communities. The hosts debunk myths about TikTok's audience and provide actionable steps for agents to start using the platform effectively.",
+  "_metadata": {
+    "source_file": "2026-06-22_item6_Coffee-Talks",
+    "analyzed_at": "2026-07-08T07:06:08.357306",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

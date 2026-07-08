@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Julia Hurley",
+    "title": "Owner",
+    "company": "Just Homes Group",
+    "production_level": "Closed over 2,000 deals",
+    "specialty": "Real estate, athlete management",
+    "location": "Knoxville, Tennessee"
+  },
+  "main_topics": [
+    "Building resilience after setbacks",
+    "Effective lead generation strategies",
+    "Importance of providing value in networking",
+    "Challenges and opportunities in athlete management",
+    "Leveraging past client relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating quality leads",
+      "solution_summary": "Host open houses, door knock with purpose, and follow up with neighborhood comps.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming setbacks and betrayal",
+      "solution_summary": "Rebuild by leveraging past successes and focusing on personal growth.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Re-engaging past clients",
+      "solution_summary": "Use social media to find personal connection points and reach out directly.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for agents who have plateaued in their business.",
+      "key_takeaway": "Re-engage past clients and focus on providing value to generate new business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into building a sustainable and scalable real estate business.",
+      "key_takeaway": "Focus on systems and consistent lead generation activities like open houses and door knocking."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "The best thing out of that experience was this past year, that same company came and asked me to come back.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights resilience and the power of proving oneself.",
+      "suggested_hook": "What happens when the company that let you go comes crawling back?"
+    },
+    {
+      "timestamp": "26:00",
+      "end_timestamp": "27:00",
+      "quote": "If you don't door knock for your open house, you're losing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for lead generation.",
+      "suggested_hook": "Are you missing out on leads by skipping this crucial step?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host open houses and door knock with a purpose.",
+      "context": "To generate quality leads and establish a presence in a new market.",
+      "timestamp": "26:00"
+    },
+    {
+      "tactic": "Re-engage past clients using personal connection points from social media.",
+      "context": "To revive relationships and potentially generate referrals.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "Nothing worth doing is ever easy.",
+    "You are not going to make anybody happy if you're trying to make everybody happy."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Panic to Profit",
+      "context": "Julia Hurley's book recommended for agents to check out."
+    },
+    {
+      "type": "tool",
+      "name": "Google Docs",
+      "context": "Suggested as a free tool for managing real estate business operations."
+    }
+  ],
+  "episode_summary": "Julia Hurley shares her journey from being voted out of a company to building a successful real estate business. She emphasizes the importance of resilience, providing value in networking, and effective lead generation strategies like open houses and door knocking. The episode offers actionable insights for re-engaging past clients and leveraging personal connections.",
+  "_metadata": {
+    "source_file": "2026-06-26_item3_Julia-Hurley",
+    "analyzed_at": "2026-07-08T07:07:59.799440",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
