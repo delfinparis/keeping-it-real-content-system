@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "I built something bigger, and this past winter, that same company that voted me out called to ask me to come back.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates resilience and success after a major setback.",
+      "suggested_hook": "What do you do when the company that let you go asks you to come back?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What if the company that fired you wants you back?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Hurley faced a major setback when her company voted her out. If you've ever felt rejected or undervalued in your career, you know how crushing that can be. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Julia didn't just bounce back; she built something bigger. [ON-SCREEN: 'Build Bigger'] This past winter, that same company called her, asking her to return. [ON-SCREEN: 'They Called Her Back'] Most agents might give up after being let go, but top producers use setbacks as fuel. [ON-SCREEN: 'Setbacks as Fuel']\",\n    \"REFRAME/APPLICATION\": \"This matters because resilience can redefine your career. You can start building your comeback today. Julia's approach led her to greater success and recognition. [ON-SCREEN: 'Start Today']\",\n    \"CTA\": \"Has a setback ever fueled your success — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"When the company that let you go asks you back, what would you do?\",\n  \"HASHTAGS\": [\n    \"#Resilience\",\n    \"#RealEstateSuccess\",\n    \"#ComebackStory\",\n    \"#AgentTips\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents might give up after being let go, but top producers use setbacks as fuel.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "26:00",
+      "end_timestamp": "27:00",
+      "quote": "If you don't door knock for your open house, you're losing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for lead generation.",
+      "suggested_hook": "Want to boost your real estate leads? Here's a simple tactic that works."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to boost your real estate leads? Here's a simple tactic that works.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Hurley shared a game-changing strategy on our podcast. Picture this: you're hosting an open house, but no one's showing up. You're putting in the effort, but the leads just aren't coming. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Julia says, 'If you don't door knock for your open house, you're losing.' [ON-SCREEN: Door knock for open houses] Most agents rely on online ads. Top producers? They hit the pavement. [ON-SCREEN: Top producers hit the pavement] This face-to-face approach builds trust and gets results. [ON-SCREEN: Builds trust, gets results]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can do this today. Julia closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed] Try it this weekend and watch the difference.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Boost your real estate leads with this simple tactic. Are you door knocking yet?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#OpenHouse\", \"#TopProducer\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If you don't door knock for your open house, you're losing.\"\n}\n```"
+  }
+]

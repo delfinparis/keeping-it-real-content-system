@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:02",
+      "end_timestamp": "08:30",
+      "quote": "The most dangerous thing about this proven energy is that it works.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It reveals a common but overlooked pattern among high achievers.",
+      "suggested_hook": "Is your success built on proving yourself to others?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is your success built on proving yourself to others?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter reveals a hidden pattern among high achievers. Ever feel like you're chasing success just to prove your worth? It's a cycle many fall into, driven by a need for validation. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Paul says, 'The most dangerous thing about this proven energy is that it works.' [ON-SCREEN: Proven energy works] But it's unsustainable. Most agents chase validation. Top producers focus on sustainable achievement. [ON-SCREEN: Sustainable achievement] Childhood validation impacts adult success, but recalibrating your ambition can change everything. [ON-SCREEN: Recalibrate ambition]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can recalibrate your ambition today. This week, focus on sustainable goals rather than external validation. [ON-SCREEN: Sustainable goals] Paul Salter's approach led him to balance work and personal life effectively.\",\n    \"CTA\": \"Which part hits closest to home — drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your success driven by proving yourself? Discover a sustainable approach. #RealEstate #Success\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#Success\", \"#PersonalGrowth\", \"#Achievement\", \"#Podcast\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"The most dangerous thing about this proven energy is that it works.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "19:00",
+      "end_timestamp": "19:15",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the conventional belief that success leads to fulfillment.",
+      "suggested_hook": "Are you seeking validation through your achievements?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you seeking validation through your achievements?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter challenges the belief that success equals fulfillment. Ever felt like no matter how many deals you close, it never feels like enough? That's because external achievement cannot solve an internal wound.\",\n    \"INSIGHT\": \"Paul says, 'Most agents chase success to prove their worth. But true fulfillment comes from within.' [ON-SCREEN: External achievement ≠ Internal fulfillment] Instead of proving yourself, focus on sustainable growth and balance. [ON-SCREEN: Sustainable growth > Prove-it energy]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can recalibrate your ambition today. Focus on what truly fulfills you, not just what looks good on paper. [ON-SCREEN: Recalibrate ambition today]\",\n    \"CTA\": \"Which part hits closest to home — drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"External success won't heal internal wounds. Focus on sustainable growth. #RealEstateAdvice\",\n  \"HASHTAGS\": [\"#RealEstateAdvice\", \"#AgentTips\", \"#SuccessMindset\", \"#PersonalGrowth\", \"#RealTalk\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"External achievement cannot solve an internal wound.\"\n}\n```"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:12",
+      "quote": "Zillow is melting ice cubes and that in five years, it won't be selling ads to agents anymore.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the current perception of Zillow's business model.",
+      "suggested_hook": "Is Zillow's current business model doomed?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is Zillow's current business model doomed?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell says Zillow is like melting ice cubes. If you're an agent relying on Zillow ads, this could be your wake-up call. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"In five years, Zillow won't be selling ads to agents anymore. [ON-SCREEN: Zillow's Shift] Chris believes their model is shifting, and agents need to adapt now. Most agents depend on Zillow leads. Top producers are already diversifying. [ON-SCREEN: Diversify Now]\",\n    \"REFRAME/APPLICATION\": \"This matters because the shift is happening now. You can start diversifying your lead sources today. Remember, Chris Linsell is a top industry analyst.\",\n    \"CTA\": \"Do you think Zillow's model will change — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is Zillow's business model melting away? Find out why agents should adapt now.\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#Zillow\", \"#AgentTips\", \"#RealEstateTrends\", \"#FutureOfRealEstate\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"In five years, Zillow won't be selling ads to agents anymore.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:43:36",
+      "end_timestamp": "00:44:00",
+      "quote": "Agents need to be figuring out how they create this unique novel value to their clients that isn't driven by your ability to recall statistics.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to rethink their value proposition in a tech-driven market.",
+      "suggested_hook": "How can real estate agents stay relevant in the age of AI?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"How can agents stay relevant when AI knows all the stats?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell recently shared a crucial insight on our podcast. In a world where AI can recall every market stat, agents like you might feel overshadowed. You're reaching out to clients, but they already have the data. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris said, 'Agents need to be figuring out how they create this unique novel value to their clients that isn't driven by your ability to recall statistics.' [ON-SCREEN: Unique Novel Value] Most agents rely on data. Top producers focus on personal connections and tailored experiences. [ON-SCREEN: Personal Connections] This is where you can truly shine.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start by identifying what makes your service unique beyond the numbers. You can do this today by crafting a personalized experience for each client. [ON-SCREEN: Personalized Experience] Remember, this approach helped one agent close 47 deals last year.\",\n    \"CTA\": \"Are you focusing on unique value — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"In the age of AI, your unique value is your superpower. #RealEstate #AI #AgentTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#AgentTips\", \"#ValueProposition\", \"#RealEstateAgent\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Agents need to create unique novel value that isn't driven by stats.\"\n}\n```"
+  }
+]

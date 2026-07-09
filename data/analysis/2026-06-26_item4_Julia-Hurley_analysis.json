@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Julia Hurley",
+    "title": "Owner",
+    "company": "Just Homes Group",
+    "production_level": "Closed over 2,000 deals",
+    "specialty": "Real estate, athlete management",
+    "location": "Knoxville, Tennessee"
+  },
+  "main_topics": [
+    "Resilience in real estate",
+    "Lead generation strategies",
+    "Building a personal brand",
+    "Athlete management and real estate",
+    "Overcoming setbacks in business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggling to generate quality leads",
+      "solution_summary": "Host open houses for top agents and door knock with purpose to generate leads.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with setbacks and starting over",
+      "solution_summary": "Focus on rebuilding by leveraging past contacts and maintaining a positive mindset.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Overcoming negative perceptions due to past roles or political views",
+      "solution_summary": "Emphasize current skills and successes, and focus on providing value to clients.",
+      "timestamp": "13:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who have plateaued and need to reinvigorate their business.",
+      "key_takeaway": "Re-engage past clients and leverage open houses to build momentum."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into scaling a real estate business and building a personal brand.",
+      "key_takeaway": "Focus on systems and providing value to high achievers to learn and grow."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "I built something bigger, and this past winter, that same company that voted me out called to ask me to come back.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates resilience and success after a major setback.",
+      "suggested_hook": "What do you do when the company that let you go asks you to come back?"
+    },
+    {
+      "timestamp": "26:00",
+      "end_timestamp": "27:00",
+      "quote": "If you don't door knock for your open house, you're losing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for lead generation.",
+      "suggested_hook": "Want to boost your real estate leads? Here's a simple tactic that works."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host open houses for top agents and door knock in the neighborhood.",
+      "context": "Use this strategy to generate quality leads and build relationships.",
+      "timestamp": "26:00"
+    },
+    {
+      "tactic": "Re-engage past clients by finding personal reasons to connect.",
+      "context": "Look at social media for life events and reach out with a personal touch.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "Nothing worth doing is ever easy.",
+    "You are not going to make anybody happy if you're trying to make everybody happy."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Panic to Profit",
+      "context": "Julia Hurley's book on overcoming challenges and succeeding in real estate."
+    }
+  ],
+  "episode_summary": "Julia Hurley shares her journey from setbacks to success in real estate, emphasizing resilience and strategic lead generation. She provides actionable insights on leveraging open houses and personal connections to build a thriving business. Her unique approach to athlete management highlights the importance of providing value and solving problems for high achievers.",
+  "_metadata": {
+    "source_file": "2026-06-26_item4_Julia-Hurley",
+    "analyzed_at": "2026-07-09T07:53:38.229221",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
