@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:07:02",
+      "end_timestamp": "00:07:19",
+      "quote": "Instead you take that question... and you just answer it out loud to the camera like the person sitting across the table from you.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This provides a clear, actionable tactic for content creation.",
+      "suggested_hook": "Struggling to create engaging content? Here's a simple trick."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Struggling to create engaging content? Here's a simple trick.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a game-changing tactic for real estate agents. You're staring at your camera, unsure what to say. Content creation feels like a chore, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Instead of freezing up, take a common client question and answer it directly to the camera, like you're having a conversation. [ON-SCREEN: Answer it out loud] This method turns your camera into a client, making your content feel personal and engaging. [ON-SCREEN: The Empty Stage Method]\",\n    \"REFRAME/APPLICATION\": \"This matters because it makes content creation effortless and authentic. You can do this today, just like Tim, who built a strong local presence using this tactic. [ON-SCREEN: Local Marketing Success]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform your content creation with this simple trick. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ContentCreation\", \"#TikTokForAgents\", \"#MarketingStrategy\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Take a common client question and answer it directly to the camera.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:10:08",
+      "end_timestamp": "00:10:27",
+      "quote": "My clients aren't on TikTok... It's actually wrong.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges a common misconception about TikTok's audience.",
+      "suggested_hook": "Think TikTok is just for kids? Think again."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Think TikTok is just for kids? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton challenges the belief that TikTok's audience isn't your clients. If you're ignoring TikTok because you think your clients aren't there, you're missing out. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim says, 'My clients aren't on TikTok... It's actually wrong.' [ON-SCREEN: TikTok's audience is diverse] Most agents think TikTok is just for dancing teens. Top producers know it's a goldmine for reaching local buyers. [ON-SCREEN: 1 billion users worldwide]\",\n    \"REFRAME/APPLICATION\": \"This matters now because TikTok's user base is growing fast. You can start today by creating content that showcases local neighborhoods. [ON-SCREEN: Local marketing on TikTok] Tim closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you using TikTok for real estate — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Think TikTok is just for kids? Discover why it's a goldmine for real estate agents.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#TikTokMarketing\", \"#AgentAdvice\", \"#SocialMediaStrategy\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents think TikTok is just for dancing teens. Top producers know it's a goldmine for reaching local buyers.\"\n}\n```"
+  }
+]

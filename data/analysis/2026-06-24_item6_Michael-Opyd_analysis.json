@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Julia Linquist",
+    "title": "Real Estate Agent",
+    "company": "At Properties",
+    "production_level": "Top Producer",
+    "specialty": "Helping buyers and sellers in Chicago and surrounding suburbs",
+    "location": "Chicago, North Shore, Northwest Suburbs"
+  },
+  "main_topics": [
+    "Balancing family life and real estate career",
+    "Importance of systems and organization",
+    "Delegating tasks to manage workload",
+    "Focusing on high-value transactions",
+    "Managing stress and personal well-being"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Struggling to balance family life with real estate career",
+      "solution_summary": "Delegate tasks and focus on high-value transactions to free up time for family and personal well-being.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems and organization in business operations",
+      "solution_summary": "Implement systems for delegating tasks and focus on consistent daily habits to improve organization.",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "High stress and overwhelm due to lack of clarity and organization",
+      "solution_summary": "Adopt a mindset of consistency and focus on daily progress to reduce stress and improve clarity.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the challenges of managing a successful career while maintaining personal well-being and family life.",
+      "key_takeaway": "Delegating tasks and focusing on high-value activities can help reduce stress and improve work-life balance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:00",
+      "quote": "All stress is, is a compression of time.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It offers a fresh perspective on stress management that can resonate with many listeners.",
+      "suggested_hook": "Ever feel like stress is taking over your life? Here's a mindset shift that might help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Delegate tasks to other agents for lower-value transactions.",
+      "context": "When managing multiple clients and feeling overwhelmed, delegate tasks to free up time for high-value activities.",
+      "timestamp": "45:00"
+    },
+    {
+      "tactic": "Focus on high-value transactions to meet income goals.",
+      "context": "Instead of focusing on transaction volume, prioritize transactions that align with income goals.",
+      "timestamp": "34:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a you problem.",
+    "If you don't fix this today, what's it going to look like six months down the line?"
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Julia Linquist discusses the challenges of balancing a successful real estate career with family life. Michael Opyd provides actionable insights on delegating tasks, focusing on high-value transactions, and adopting a mindset of consistency to reduce stress and improve clarity. Listeners will learn how to implement systems to manage workload and achieve a better work-life balance.",
+  "_metadata": {
+    "source_file": "2026-06-24_item6_Michael-Opyd",
+    "analyzed_at": "2026-07-10T07:54:19.615591",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
