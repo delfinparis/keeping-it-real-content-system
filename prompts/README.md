@@ -24,6 +24,14 @@ TRANSCRIPT → [01 Clip Hunter] → [02 Script Writer] → [03 Platform Adapter]
 | 4 | [04_kill_judge.md](04_kill_judge.md) | Scripts from Stage 2 or 3 | Scored reviews: PUBLISH / REWRITE / KILL |
 | 5 | [05_content_sequencer.md](05_content_sequencer.md) | Approved scripts (score 7+) | Weekly content calendar with rationale |
 
+**Interview prep track (separate from the clip pipeline):**
+
+| Prompt | Input | Output |
+|--------|-------|--------|
+| [06_interview_prep.md](06_interview_prep.md) | Guest info | Full guest interview prep .docx (quick reference, title options, arc, questions, research brief, Restream live descriptions, chapter markers) — ends with a mandatory Council Review |
+| [07_guest_intake_form.md](07_guest_intake_form.md) | — | Guest-facing intake form to gather prep inputs |
+| [08_council_pass.md](08_council_pass.md) | Drafted prep (Sections 1-6) | The Short-Form Council pass: pressure-tests the title, cold open, clip-worthy questions, and live descriptions past 10 creator doctrines + 2 research witnesses. Baked into 06 as SECTION 7 |
+
 ---
 
 ## Roles (8 + 2 Meta)

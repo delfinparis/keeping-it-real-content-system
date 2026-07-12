@@ -11,6 +11,8 @@ Fill in the fields at the bottom before submitting.
 
 **Step 2 — Research first, write second.** Do not begin writing the interview prep document until all research is complete. Run every search in the RESEARCH INSTRUCTIONS section before producing a single line of output.
 
+**Step 3 — The Council Pass is mandatory.** After you draft Sections 1-6, you MUST run the Short-Form Council pass (see SECTION 7 below) and append `SECTION 7: COUNCIL REVIEW` to the same .docx before you deliver. It pressure-tests the title, the cold open, the clip-worthy questions, and the live descriptions past ten creator/marketer doctrines plus two research witnesses. Do not skip it, and do not deliver the prep without it. If the machine has the local skill at `~/.claude/skills/short-form-council`, load its `references/*.md` for depth; otherwise run the pass from the embedded doctrines in SECTION 7.
+
 ---
 
 ## YOUR ROLE
@@ -337,6 +339,76 @@ Provide suggested YouTube chapter timestamps based on the interview structure. T
 | | [Homework + Where to Find [Guest]] |
 
 *Each chapter title should be independently searchable. Someone browsing YouTube chapters should be able to find value in any single chapter without watching the full episode.*
+
+---
+
+### SECTION 7: COUNCIL REVIEW (mandatory final pass)
+
+After Sections 1-6 are fully drafted, run the finished package past the Short-Form Council and append this section to the same .docx. The council pressure-tests the two things that actually decide whether the episode gets clicked, watched, and shared: **the packaging** (Title Options 2A, Cold-Open 2B, Live Descriptions Section 5) and **the interview itself** (core-topic choice, arc, and which questions are engineered to pull a clip-worthy answer). The full book-backed version of this pass lives in the repo at `prompts/08_council_pass.md` and in the local skill `~/.claude/skills/short-form-council`; the doctrines below are the self-contained version for running the pass inline.
+
+**The point is friction, not consensus.** Embody each voice; do not blend them into one reasonable narrator. A title that survives all ten is battle-tested.
+
+**The board (embody, don't blend):**
+
+- **Alex Hormozi** (value density) — "Where's the reward for the listener? Which questions are fluff, which pull a system an agent can steal tomorrow?"
+- **MrBeast** (retention) — "Does each question earn the next, or does the middle sag? The rapid fire is the cold open of the episode. Prove it hooks."
+- **Brendan Kane** (the hook engineer) — "The title is a testable device in a 3-second world. Which of the 5 ingredients is it (text / insight / concept-format / personality / stat)? Where's the second variant? Your first title is never your best."
+- **Gary Vaynerchuk** (native + culture) — "Does each live description read native to THAT platform, or is it one press release pasted five times? Is the angle riding real estate news from THIS week?"
+- **Donald Miller** (StoryBrand clarity) — "Who's the hero, the guest or the agent listening? One core topic, one promise. If the title needs a second sentence to explain it, it failed the grunt test."
+- **Byron Lazine** (industry newsjacker) — "What's the take? Is the current-moment question tied to a real estate headline from this week (NAR, commissions, buyer agreements, AI, inventory)?"
+- **Eric Simon / The Broke Agent** (relatability) — "Will one agent send this to another and say 'this is us'? Which question pulls the mistake, the roast, the inside beat?"
+- **Justin Welsh** (sustainable system) — "Protect the repeatable format. Don't break the standardized rapid fire, the 3-act structure, or the homework to chase one clever title."
+- **Jon Youshaei** (platform mechanics) — "The YouTube title and every chapter marker is a headline competing on its own. Is each independently searchable?"
+- **Chris Do / The Futur** (the human) — "Where's the vulnerable beat that earns the follow? Which question costs the guest something honest to answer?"
+
+**Two research witnesses (called on mechanism claims, they don't posture):**
+
+- **Chip & Dan Heath (Made to Stick)** — called on any "creates curiosity / is clear / is memorable" claim. Rules on: does the title OPEN the curiosity gap before closing it (Aha after Huh, not the punchline front-loaded)? Is it written from the Curse of Knowledge, assuming the listener already knows this guest?
+- **Jonah Berger (Contagious)** — called on any "this clip will get shared" claim. Rules on: is the core topic's emotion HIGH-arousal (awe, anger, anxiety, excitement, amusement, not low-arousal contentment)? Is there Social Currency for the sharing agent? And the valuable-virality check: if an agent retells the takeaway in one sentence, does the point survive?
+
+**How to run it:** Convene the 5-7 members with the most at stake for this guest (a data/authority guest pulls Hormozi + MrBeast + Kane + Heath; a comeback-story producing agent pulls Chris Do + Eric + Berger; a vendor pulls Miller + Byron + Hormozi). Each says what they'd CHANGE in one line, in character. Call the witnesses on mechanism claims. Surface the one real disagreement and resolve it with a decision tied to the episode's goal (subscribers vs clips/reach vs the guest relationship). Then sharpen the four reach-deciding elements and check the arc.
+
+**House rules the council never breaks:** Stay in the .docx. Never fabricate a fact the Research Brief didn't verify (rework phrasing and sequencing, not the facts). Live descriptions keep zero em dashes and zero AI-speak (restructure as two short sentences before reaching for a dash). Keep the hashtags in Section 5. Don't break the 3-act format for a clever title.
+
+**Output — write exactly this block as SECTION 7 of the .docx:**
+
+**Title (pick one to run, keep the others to A/B):**
+
+| # | Title | Ingredient | Curiosity Mechanism |
+|---|-------|-----------|--------------------|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+
+*Recommended: #_ — [one line why, tied to the episode goal]*
+
+**Cold-Open Hook (sharpened):** [The two-sentence cold open with the curiosity gap opened before the answer, ending "We're going to talk about that today. Stay tuned."]
+
+**The Clip Engine** — the 2-3 questions most engineered to pull a shareable clip. If none of the drafted questions qualify, say so and rewrite one.
+
+| Q# | Question | Berger Emotion | Heath Gap |
+|----|----------|---------------|-----------|
+| | | | |
+| | | | |
+
+**Live-Description Scrub** (one note per platform — keep as-is, or the one fix):
+
+| Platform | Verdict + Fix |
+|----------|--------------|
+| Facebook | |
+| Instagram | |
+| TikTok | |
+| YouTube | |
+| LinkedIn | |
+
+**Arc Fix:** [The single place the episode is most likely to sag (MrBeast) or blur past one core topic (Miller/Welsh), and the one fix — a re-hook question, a cut, or a resequence.]
+
+**Why It Should Work:**
+- Curiosity mechanism (Heath): [one line]
+- Share driver (Berger): [one line]
+- Retention move (MrBeast): [one line]
+
+**The Dissent (your A/B test for the next episode):** [The one member still objecting, and the single experiment to run because of it.]
 
 ---
 
