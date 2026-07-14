@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Zach Geisendorfer",
+    "title": "Sales Leader",
+    "company": "FAM Real Estate Group",
+    "production_level": "$650M+ producer",
+    "specialty": "Mega open house strategy",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Mega open house strategy",
+    "Agent recruitment and onboarding",
+    "Offer acceptance strategies",
+    "Effective use of AI in real estate",
+    "Team dynamics and productivity"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Low attendance and engagement at open houses",
+      "solution_summary": "Implement the mega open house method by calling neighbors, knowing the property details, and using social media effectively.",
+      "timestamp": "00:00:07"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Getting buyer offers accepted in competitive markets",
+      "solution_summary": "Write aggressive offers with short closing times, like a 10-day close, to stand out.",
+      "timestamp": "39:58"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Ineffective agent onboarding and retention",
+      "solution_summary": "Develop a structured two-week boot camp focusing on tools, tech, and sales processes.",
+      "timestamp": "13:34"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode provides insights into scaling a team and improving agent productivity.",
+      "key_takeaway": "Implement structured onboarding and leverage AI to enhance team operations."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers strategies for increasing sales through open houses and offer tactics.",
+      "key_takeaway": "Use the mega open house method and aggressive offer strategies to boost sales."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:19",
+      "quote": "What does a guy who made 600,000 cold calls and sold 650 million dollars in real estate know that the rest of us don't?",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Captures attention with impressive stats and sets the stage for the episode.",
+      "suggested_hook": "Want to know the secrets of a $650M producer?"
+    },
+    {
+      "timestamp": "39:58",
+      "end_timestamp": "40:30",
+      "quote": "Write aggressive offers with a 10-day close to stand out in competitive markets.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic for agents.",
+      "suggested_hook": "Struggling to get your offers accepted? Try this tactic!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Mega open house method",
+      "context": "Call 50 neighbors, know the property details, and use social media to promote.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "tactic": "10-day close offer strategy",
+      "context": "Work with lenders to offer a 10-day close to make offers more attractive.",
+      "timestamp": "39:58"
+    }
+  ],
+  "quotable_insights": [
+    "The work works. Success isn't about shortcuts or hype. It's about showing up every day."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for agent recruitment and retention through AI."
+    }
+  ],
+  "episode_summary": "Zach Geisendorfer shares his mega open house strategy that significantly increases lead generation and sales. He discusses effective onboarding systems for agents and how to write competitive offers with a 10-day close. The episode provides actionable insights into using AI and structured processes to enhance real estate operations.",
+  "_metadata": {
+    "source_file": "2026-06-29_item4_Zach-Geisendorfer",
+    "analyzed_at": "2026-07-14T06:40:29.451404",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

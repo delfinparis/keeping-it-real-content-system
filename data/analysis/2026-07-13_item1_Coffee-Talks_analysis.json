@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "DJ Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Importance of maintaining client relationships",
+    "Building a system for client follow-up",
+    "Effective communication strategies with past clients",
+    "Leveraging past clients for repeat business",
+    "Common pitfalls in client management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents neglecting past clients, leading to lost business opportunities",
+      "solution_summary": "Develop a system to regularly engage past clients through personalized messages and value-driven communication.",
+      "timestamp": "00:01:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured system for managing client relationships",
+      "solution_summary": "Create a centralized database and categorize clients into tiers for targeted communication.",
+      "timestamp": "00:05:19"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Over-reliance on new leads instead of nurturing existing client base",
+      "solution_summary": "Focus on repeat and referral business by maintaining regular contact with past clients.",
+      "timestamp": "00:02:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode addresses the common issue of neglecting past clients, which is prevalent among agents who have been in the business for a while.",
+      "key_takeaway": "Regularly engage with past clients to maximize repeat and referral business."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Provides a clear system for managing client relationships, which can help intermediate agents improve their business operations.",
+      "key_takeaway": "Implement a structured follow-up system to ensure consistent communication with past clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:02:10",
+      "end_timestamp": "00:02:30",
+      "quote": "Four in ten agents say repeat business alone is more than half of everything they do.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the significant impact of repeat business on an agent's success.",
+      "suggested_hook": "Are you missing out on half your potential business?"
+    },
+    {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:26",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Challenges the fear agents have about reaching out to past clients.",
+      "suggested_hook": "Think your clients don't want to hear from you? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a centralized client database",
+      "context": "Gather all past client information into one accessible location for easy management.",
+      "timestamp": "00:05:19"
+    },
+    {
+      "tactic": "Categorize clients into A, B, and C lists",
+      "context": "Prioritize communication efforts based on client engagement and potential for referrals.",
+      "timestamp": "00:06:50"
+    },
+    {
+      "tactic": "Send personalized value-driven messages",
+      "context": "Use property value updates or neighborhood sales as a reason to reach out to past clients.",
+      "timestamp": "00:08:08"
+    }
+  ],
+  "quotable_insights": [
+    "You didn't lose that client to a better agent; you lost them to silence.",
+    "Lead with the gift, and the ask then takes care of itself."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Keeping it Real",
+      "context": "Features Sarah Meslousky, who shares insights on using YouTube for client acquisition."
+    }
+  ],
+  "episode_summary": "In this episode, DJ Paris emphasizes the importance of maintaining relationships with past clients to drive repeat and referral business. He outlines a structured approach to client management, including creating a centralized database and categorizing clients for targeted communication. By providing value-driven messages, agents can effectively engage past clients and enhance their business success.",
+  "_metadata": {
+    "source_file": "2026-07-13_item1_Coffee-Talks",
+    "analyzed_at": "2026-07-14T06:42:16.325203",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

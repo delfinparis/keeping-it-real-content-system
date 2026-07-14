@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "I was there every single day at 6 a.m., recruited every agent, built the whole thing, and then they voted me out.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the resilience and determination needed in real estate.",
+      "suggested_hook": "What happens when you're voted out of your own company?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"What happens when you're voted out of your own company?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Hurley shared a story that hits home for many agents. Imagine building your business from the ground up, dedicating every morning at 6 a.m., only to be voted out. It's a gut punch many fear.\",\n    \"INSIGHT\": \"Julia said, 'I was there every single day at 6 a.m., recruited every agent, built the whole thing, and then they voted me out.' [ON-SCREEN: Resilience is key] This isn't just about business politics; it's about resilience. Most agents focus on immediate results. Top producers build a brand that withstands setbacks. [ON-SCREEN: Build a brand that lasts]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because resilience is your secret weapon. You can start today by reinforcing your personal brand. Julia's story shows that even after a setback, you can rise stronger. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Have you faced a similar setback — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Resilience is your secret weapon in real estate. Are you prepared for setbacks?\",\n  \"HASHTAGS\": [\"#RealEstateResilience\", \"#AgentTips\", \"#PersonalBrand\", \"#RealTalk\", \"#OvercomeSetbacks\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Build a brand that withstands setbacks.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "25:45",
+      "quote": "If you're not door knocking for your open house, you're losing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable tactic for lead generation.",
+      "suggested_hook": "The secret to turning open houses into lead goldmines."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Stop losing leads at your open houses.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Hurley says if you're not door knocking for your open house, you're losing. Picture this: you've set up a beautiful open house, but the foot traffic is low. You're wondering why your efforts aren't translating into leads.\",\n    \"INSIGHT\": \"Julia explains, 'Most agents rely solely on online ads. Top producers knock on doors.' [ON-SCREEN: Door knocking is key] She shares, 'By personally inviting neighbors, you create buzz and build rapport.' [ON-SCREEN: Build rapport, create buzz] This simple tactic turns a quiet open house into a lead goldmine. [ON-SCREEN: Lead goldmine]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can do this today. Julia closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed] Start door knocking this week and watch your leads grow.\",\n    \"CTA\": \"Are you door knocking for your open houses — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Turn your open houses into lead goldmines with this simple tactic. 💰🏡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#OpenHouse\", \"#RealEstateSuccess\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"By personally inviting neighbors, you create buzz and build rapport.\"\n}\n```"
+  }
+]

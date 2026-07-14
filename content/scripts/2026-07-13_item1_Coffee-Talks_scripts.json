@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:02:10",
+      "end_timestamp": "00:02:30",
+      "quote": "Four in ten agents say repeat business alone is more than half of everything they do.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the significant impact of repeat business on an agent's success.",
+      "suggested_hook": "Are you missing out on half your potential business?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you missing out on half your potential business?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Four in ten agents say repeat business alone is more than half of everything they do. If you're reaching out to your database but nobody's responding, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Most agents focus on new leads. Top producers build strong systems for client follow-up. [ON-SCREEN: 40% of agents rely on repeat business] They maintain relationships through consistent communication. [ON-SCREEN: Consistent Communication] DJ Paris emphasizes leveraging past clients for ongoing success. [ON-SCREEN: Leverage Past Clients]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Implement a follow-up system and watch your repeat business grow. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you missing out on half your potential business? Learn how to leverage repeat clients!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRelationships\", \"#RepeatBusiness\", \"#TopProducer\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on new leads. Top producers build strong systems for client follow-up.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:26",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Challenges the fear agents have about reaching out to past clients.",
+      "suggested_hook": "Think your clients don't want to hear from you? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think your clients don't want to hear from you? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database, but nobody's responding. It's frustrating, right? You fear being a bother, so you hesitate to contact past clients. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth. [ON-SCREEN: 'Clients love updates'] Most agents avoid follow-ups. Top producers know consistent updates build trust. [ON-SCREEN: 'Build trust with updates']\",\n    \"REFRAME/APPLICATION\": \"This matters because staying top-of-mind leads to repeat business. You can do this today by sending a quick market update. [ON-SCREEN: 'Send a market update today']\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Think your clients don't want to hear from you? Think again. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRelationships\", \"#AgentAdvice\", \"#TopProducer\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth.\"\n}\n```"
+  }
+]

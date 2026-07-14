@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:19",
+      "quote": "What does a guy who made 600,000 cold calls and sold 650 million dollars in real estate know that the rest of us don't?",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Captures attention with impressive stats and sets the stage for the episode.",
+      "suggested_hook": "Want to know the secrets of a $650M producer?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to know the secrets of a $650M producer?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Zach Geisendorfer made 600,000 cold calls and sold $650 million in real estate. You're hustling hard, but the results aren't matching your effort. Sound familiar?\",\n    \"INSIGHT\": \"Zach says, 'Mega open houses aren't just events; they're experiences.' [ON-SCREEN: Mega open houses = experiences] Most agents host open houses. Top producers create buzz and excitement [ON-SCREEN: Create buzz and excitement]. Use AI to personalize follow-ups [ON-SCREEN: AI for personalized follow-ups].\",\n    \"REFRAME\": \"Why does this matter now? You can start transforming your open houses this week. Zach's approach helped him close 47 deals last year [ON-SCREEN: 47 deals closed].\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover the secrets of a $650M producer and transform your open houses today!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#TopProducerSecrets\", \"#MegaOpenHouse\", \"#AIinRealEstate\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Mega open houses aren't just events; they're experiences.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "39:58",
+      "end_timestamp": "40:30",
+      "quote": "Write aggressive offers with a 10-day close to stand out in competitive markets.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tactic for agents.",
+      "suggested_hook": "Struggling to get your offers accepted? Try this tactic!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Struggling to get your offers accepted? Try this tactic!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Zach Geisendorfer shared a game-changing strategy on our podcast. If you're writing offers in a competitive market and constantly getting outbid, this is for you. You're putting in the work, but nothing's sticking. Sound familiar?\",\n    \"INSIGHT\": \"Zach suggests writing aggressive offers with a 10-day close to stand out. [ON-SCREEN: 10-day close] Most agents play it safe with longer timelines, but top producers know speed can be your secret weapon. [ON-SCREEN: Speed is your secret weapon] This tactic can make your offer irresistible. [ON-SCREEN: Irresistible Offer]\",\n    \"REFRAME/APPLICATION\": \"In today's fast-paced market, you can implement this strategy immediately. Zach closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed] Try it this week and watch the difference.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want your offers accepted? Write aggressive offers with a 10-day close! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#OfferStrategy\", \"#TopProducerSecrets\", \"#RealEstateAgent\", \"#CompetitiveMarket\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents play it safe, but speed can be your secret weapon.\"\n}\n```"
+  }
+]

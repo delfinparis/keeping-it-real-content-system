@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:12",
+      "quote": "Zillow is melting ice cubes and in five years, it won't be selling ads to agents anymore.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional view of Zillow's business model.",
+      "suggested_hook": "Is Zillow's business model doomed?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is Zillow's business model doomed?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell just dropped a bombshell on our podcast: Zillow is like melting ice cubes. If you're relying on Zillow for leads, this could be a wake-up call. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'In five years, Zillow won't be selling ads to agents anymore.' [ON-SCREEN: Zillow's future?] Most agents think Zillow's ad model is here to stay. But Chris believes their focus will shift, leaving agents who depend on them scrambling. [ON-SCREEN: Shift your strategy] It's time to rethink your lead generation strategy now.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start diversifying your lead sources today. Agents like Chris are already adapting, ensuring they're not caught off guard. [ON-SCREEN: Diversify now]\",\n    \"CTA\": \"Are you prepared for this shift — yes or no? Drop your answer below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is Zillow's ad model melting away? Prepare for the shift today. #RealEstate #Zillow\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#Zillow\",\n    \"#AgentTips\",\n    \"#LeadGeneration\",\n    \"#FutureOfRealEstate\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"In five years, Zillow won't be selling ads to agents anymore.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:17:26",
+      "end_timestamp": "00:18:03",
+      "quote": "AI is the new Google in terms of the way they are disrupting the way that we as people are consuming answers to our questions.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a major shift in consumer behavior due to AI.",
+      "suggested_hook": "How AI is changing the way we search for homes."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"AI is the new Google for home searches.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell just revealed something game-changing. If you're still relying on traditional search engines, you're missing out. AI is transforming how buyers find homes. Ever felt like your listings aren't getting the attention they deserve?\",\n    \"INSIGHT\": \"Chris says, 'AI is the new Google in terms of disrupting how we consume answers.' [ON-SCREEN: AI is the new Google] Most agents rely on old methods. [ON-SCREEN: Old methods] Top producers are leveraging AI to get ahead. [ON-SCREEN: Leverage AI]\",\n    \"REFRAME/APPLICATION\": \"AI isn't just a trend—it's a tool you can use today to boost your visibility. [ON-SCREEN: Boost visibility] Start integrating AI into your strategy now and watch your engagement grow.\",\n    \"CTA\": \"Are you using AI in your strategy yet—yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI is revolutionizing real estate searches. Are you keeping up?\",\n  \"HASHTAGS\": [\"#AIinRealEstate\", \"#RealEstateTips\", \"#HomeSearch\", \"#RealEstateAgents\", \"#TechInRealEstate\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI is the new Google in terms of disrupting how we consume answers.\"\n}\n```"
+  }
+]

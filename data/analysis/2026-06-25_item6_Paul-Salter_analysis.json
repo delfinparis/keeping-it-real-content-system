@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Peak performance coaching for high performers",
+    "location": null
+  },
+  "main_topics": [
+    "Proving self-worth through success",
+    "Sustainable versus unsustainable motivation",
+    "Emotional and relational costs of high achievement",
+    "Recalibrating ambition and work ethic",
+    "Shifting success metrics from money to time"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Relying on success to prove self-worth",
+      "solution_summary": "Recalibrate ambition to focus on personal fulfillment rather than external validation.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Confusing acceleration with sustainability",
+      "solution_summary": "Shift focus from total earnings to hourly rate to free up time for personal relationships.",
+      "timestamp": "16:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Identity tied to professional success",
+      "solution_summary": "Separate personal worth from business achievements to find peace and fulfillment.",
+      "timestamp": "25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the emotional exhaustion and identity crisis faced by high achievers.",
+      "key_takeaway": "Sustainable success comes from internal fulfillment, not external validation."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to achieve success without sacrificing personal well-being.",
+      "key_takeaway": "Measure success by the quality of life and relationships, not just financial metrics."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "12:02",
+      "end_timestamp": "12:45",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the common belief that success equates to happiness.",
+      "suggested_hook": "Are you chasing success for the wrong reasons?"
+    },
+    {
+      "timestamp": "25:15",
+      "end_timestamp": "25:55",
+      "quote": "When you no longer need your business to prove your valuable, something incredible happens.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a shift in perspective that can lead to better personal and professional outcomes.",
+      "suggested_hook": "Discover the secret to true freedom in your career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Measure success by hourly rate instead of total earnings.",
+      "context": "To create more time for personal relationships and well-being.",
+      "timestamp": "16:28"
+    },
+    {
+      "tactic": "Recalibrate ambition to focus on fulfillment.",
+      "context": "To prevent burnout and maintain sustainable success.",
+      "timestamp": "08:30"
+    }
+  ],
+  "quotable_insights": [
+    "External achievement cannot solve an internal wound.",
+    "Your superpower of tenacity will inevitably become your kryptonite if not recalibrated."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business with effective sales and marketing solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for real estate agent recruitment and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the pitfalls of using success to prove self-worth and the importance of recalibrating ambition for sustainable success. He offers insights into shifting success metrics from financial to personal fulfillment and the emotional costs of high achievement. Salter emphasizes the need to separate personal identity from professional accomplishments to achieve true freedom and fulfillment.",
+  "_metadata": {
+    "source_file": "2026-06-25_item6_Paul-Salter",
+    "analyzed_at": "2026-07-14T06:38:59.551222",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
