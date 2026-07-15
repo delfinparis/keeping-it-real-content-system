@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Peak performance coaching for high performers",
+    "location": null
+  },
+  "main_topics": [
+    "The dangers of success driven by the need to prove oneself",
+    "Sustainable achievement versus prove-it energy",
+    "Emotional and relational costs of unsustainable success",
+    "Recalibrating ambition for fulfillment",
+    "Separating self-worth from professional success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Success driven by the need to prove oneself is unsustainable and unfulfilling.",
+      "solution_summary": "Recalibrate ambition to focus on fulfillment-driven achievement rather than proving self-worth.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Confusing acceleration with sustainability in career growth.",
+      "solution_summary": "Shift focus from external achievements to internal fulfillment and sustainable success.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Measuring success solely by financial metrics at the cost of personal well-being.",
+      "solution_summary": "Measure success by hourly rate and personal fulfillment rather than total income.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the emotional exhaustion and lack of fulfillment experienced by high achievers.",
+      "key_takeaway": "Recalibrate your drive to focus on sustainable success and personal fulfillment."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers often fall into the trap of proving themselves through achievements.",
+      "key_takeaway": "Focus on building a career that aligns with personal values and fulfillment, not just external success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "The most dangerous thing about this proven energy is that it works.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights a common but often overlooked pattern among high achievers.",
+      "suggested_hook": "Are you chasing success for the wrong reasons?"
+    },
+    {
+      "timestamp": "12:00",
+      "end_timestamp": "12:30",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This statement challenges the conventional belief that success leads to happiness.",
+      "suggested_hook": "Why your achievements might not be making you happy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Measure success by hourly rate instead of total income.",
+      "context": "To ensure you're not sacrificing personal well-being for financial gain.",
+      "timestamp": "16:00"
+    },
+    {
+      "tactic": "Recalibrate ambition to focus on fulfillment-driven achievement.",
+      "context": "To prevent burnout and achieve sustainable success.",
+      "timestamp": "08:00"
+    }
+  ],
+  "quotable_insights": [
+    "The most dangerous part about this proven energy is that it works.",
+    "External achievement cannot solve an internal wound."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to improve lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the pitfalls of success driven by the need to prove oneself. He highlights the importance of recalibrating ambition to focus on sustainable, fulfillment-driven achievement rather than external validation. Salter provides actionable insights for high achievers to separate their self-worth from professional success, ultimately leading to a more balanced and fulfilling life.",
+  "_metadata": {
+    "source_file": "2026-06-25_item7_Paul-Salter",
+    "analyzed_at": "2026-07-15T06:40:52.631518",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

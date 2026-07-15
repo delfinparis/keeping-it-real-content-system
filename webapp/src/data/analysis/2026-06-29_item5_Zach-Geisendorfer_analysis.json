@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Zach Geisendorfer",
+    "title": "Sales Leader",
+    "company": "FAM Real Estate Group",
+    "production_level": "$650M+ producer",
+    "specialty": "Open house strategies and agent recruitment",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Open house strategies",
+    "Agent recruitment and retention",
+    "Offer acceptance strategies",
+    "Building effective systems",
+    "Mindset and motivation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective open houses",
+      "solution_summary": "Implement the mega open house method by calling neighbors, knowing the property thoroughly, and using social media effectively.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Low offer acceptance rates",
+      "solution_summary": "Write aggressive offers with a 10-day close to increase acceptance rates.",
+      "timestamp": "00:39:25"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient onboarding of new agents",
+      "solution_summary": "Develop a structured two-week boot camp focusing on tech tools and sales processes.",
+      "timestamp": "00:13:44"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced strategies for increasing sales and productivity.",
+      "key_takeaway": "Implementing structured systems and aggressive offer strategies can significantly boost your real estate success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights into effective agent recruitment and retention strategies.",
+      "key_takeaway": "Building a strong onboarding process and focusing on agent momentum can lead to a successful team."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:05",
+      "end_timestamp": "00:08:09",
+      "quote": "If you can just lock in on something like open houses, it doesn't take too long to build just crazy pipeline out of it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable strategy for real estate agents to increase their pipeline.",
+      "suggested_hook": "Want to turn your open houses into a lead-generating machine?"
+    },
+    {
+      "timestamp": "00:39:25",
+      "end_timestamp": "00:41:02",
+      "quote": "We write aggressive offers. We tracked it last year and had almost a 90% offer acceptance rate.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "The high acceptance rate is impressive and offers a compelling strategy.",
+      "suggested_hook": "How to get your offers accepted 90% of the time!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Mega open house method",
+      "context": "Use this method to increase foot traffic and engagement at open houses.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "tactic": "10-day close offers",
+      "context": "Apply this tactic to make your offers more attractive in competitive markets.",
+      "timestamp": "00:39:25"
+    }
+  ],
+  "quotable_insights": [
+    "The work works. Success isn't about shortcuts or hype. It's about showing up every day."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for agent recruitment and retention insights."
+    }
+  ],
+  "episode_summary": "In this episode, Zach Geisendorfer shares his proven strategies for real estate success, including the mega open house method and a 10-day close offer strategy. He emphasizes the importance of structured systems and agent momentum in building a thriving real estate team. Listeners will gain actionable insights into increasing their pipeline and offer acceptance rates.",
+  "_metadata": {
+    "source_file": "2026-06-29_item5_Zach-Geisendorfer",
+    "analyzed_at": "2026-07-15T06:42:06.097771",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

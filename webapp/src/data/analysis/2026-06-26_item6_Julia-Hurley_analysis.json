@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "Julia Hurley",
+    "title": "Owner",
+    "company": "Just Homes Group",
+    "production_level": "Closed over 2,000 deals",
+    "specialty": "Real estate, athlete management",
+    "location": "Knoxville, Tennessee"
+  },
+  "main_topics": [
+    "Resilience and rebuilding in real estate",
+    "Effective lead generation strategies",
+    "Providing value to top producers",
+    "Athlete management and real estate",
+    "Overcoming personal and professional challenges"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Pipeline is dry and no new leads",
+      "solution_summary": "Host open houses for other agents, door knock with purpose, and engage with the community.",
+      "timestamp": "41:47"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems for tracking leads and clients",
+      "solution_summary": "Use Google Docs and Sheets to track every lead and client interaction.",
+      "timestamp": "43:02"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling stuck and overwhelmed",
+      "solution_summary": "Re-engage past clients by finding reasons to connect and offer value.",
+      "timestamp": "34:02"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Negative online reputation",
+      "solution_summary": "Focus on providing excellent service and building a strong personal brand.",
+      "timestamp": "13:33"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for agents who have some experience but are struggling to maintain momentum.",
+      "key_takeaway": "Re-engage past clients and leverage open houses to rebuild your pipeline."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into how to provide value to top producers and learn from them.",
+      "key_takeaway": "Offer your time and skills to top producers in exchange for mentorship."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:05",
+      "end_timestamp": "09:27",
+      "quote": "This past winter, that same company came and asked me to come back.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights resilience and success after adversity.",
+      "suggested_hook": "What happens when the company that let you go comes crawling back?"
+    },
+    {
+      "timestamp": "45:01",
+      "end_timestamp": "45:18",
+      "quote": "Offer them something. Say, listen, in exchange for your time, I'll host five open houses for you.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for new agents.",
+      "suggested_hook": "Want to learn from the best? Here's how to get a top producer's attention."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host open houses for top agents and door knock with purpose.",
+      "context": "To generate leads and build relationships in a new market.",
+      "timestamp": "41:47"
+    },
+    {
+      "tactic": "Use Google Docs and Sheets for tracking leads and client interactions.",
+      "context": "For agents with limited budgets to maintain organized systems.",
+      "timestamp": "43:02"
+    }
+  ],
+  "quotable_insights": [
+    "Nothing worth doing is ever easy.",
+    "You always have something to offer."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Panic to Profit",
+      "context": "Julia Hurley's book for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM."
+    }
+  ],
+  "episode_summary": "Julia Hurley shares her journey from being voted out of a company to building a successful real estate business and athlete management firm. She offers actionable strategies for lead generation, including hosting open houses and using free tools like Google Docs for tracking. Julia emphasizes the importance of providing value to top producers and re-engaging past clients to overcome business challenges.",
+  "_metadata": {
+    "source_file": "2026-06-26_item6_Julia-Hurley",
+    "analyzed_at": "2026-07-15T06:41:22.745768",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

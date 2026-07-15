@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:50",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the common fear agents have about reaching out to past clients.",
+      "suggested_hook": "Are you afraid of annoying your past clients? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Afraid of annoying past clients? Here's why you shouldn't be.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database, but nobody's responding. You're worried about being a nuisance. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth. [ON-SCREEN: Never Annoyed] Most agents hesitate to reach out. Top producers know consistent updates build trust. [ON-SCREEN: Consistent Updates = Trust]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Send a quick market update to your clients. This agent closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't fear client updates. They want to know their home's worth! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRelations\",\n    \"#AgentAdvice\",\n    \"#TopProducer\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth.\"\n}\n```"
+  }
+]

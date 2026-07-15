@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexah Mortgage",
+    "production_level": "Top performing",
+    "specialty": "Mortgage loans and investor financing",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Impact of global events on mortgage rates",
+    "Specialty loan programs for specific professions",
+    "Current trends in the housing market",
+    "Federal Reserve's influence on lending rates",
+    "Opportunities for self-employed individuals in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of oil prices and global conflicts on mortgage rates",
+      "solution_summary": "Monitoring geopolitical events for potential rate changes and advising clients accordingly.",
+      "timestamp": "00:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High mortgage rates affecting buyer affordability",
+      "solution_summary": "Utilizing specialty loan programs like doctor loans and VA loans to reduce down payments and PMI.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding Fed's influence on mortgage rates",
+      "solution_summary": "Keeping informed on Fed meetings and potential rate changes to advise clients.",
+      "timestamp": "12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging niche loan products to increase sales.",
+      "key_takeaway": "Understanding and offering specialty loan programs can differentiate you in the market."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to navigate high interest rates and still close deals.",
+      "key_takeaway": "Focus on payment affordability rather than interest rates to close more deals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:30",
+      "end_timestamp": "07:15",
+      "quote": "Oil is really involved with everything... This impacts everything.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It reveals the interconnectedness of global events and mortgage rates.",
+      "suggested_hook": "Did you know oil prices can affect your mortgage rate?"
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "There's a doctor loan where you don't have to have a down payment and you don't pay PMI.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a little-known opportunity for medical professionals.",
+      "suggested_hook": "Doctors, here's a mortgage secret you need to know!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Leverage specialty loan programs to attract niche markets.",
+      "context": "Target professionals like doctors and veterans with specific loan products.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Focus on monthly payment affordability rather than interest rates.",
+      "context": "Help clients understand the long-term benefits of homeownership despite current rates.",
+      "timestamp": "18:00"
+    }
+  ],
+  "quotable_insights": [
+    "Inflation and mortgage rates don't exist in a vacuum.",
+    "Focus on the payment, not just the rate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "This episode explores the impact of global events on mortgage rates and highlights specialty loan programs for professionals like doctors and veterans. Austin Clarence provides insights into navigating the current housing market, emphasizing the importance of focusing on payment affordability over interest rates. The discussion also covers opportunities for self-employed individuals to secure loans without traditional tax documentation.",
+  "_metadata": {
+    "source_file": "2026-07-14_item1_Austin-Clarence",
+    "analyzed_at": "2026-07-15T06:44:51.923882",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

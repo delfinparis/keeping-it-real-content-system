@@ -1,0 +1,84 @@
+{
+  "guest_info": {
+    "name": "DJ Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Importance of maintaining client relationships",
+    "Strategies for leveraging past clients",
+    "Building a systematic approach to client follow-up",
+    "Common mistakes in client management",
+    "Effective communication techniques"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents losing clients due to lack of follow-up",
+      "solution_summary": "Implement a systematic approach to regularly reach out to past clients with personalized messages.",
+      "timestamp": "00:01:10"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured system for managing client relationships",
+      "solution_summary": "Create a centralized database and categorize clients into tiers for targeted communication.",
+      "timestamp": "00:05:19"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Over-reliance on new leads instead of nurturing existing relationships",
+      "solution_summary": "Focus on repeat business and referrals by maintaining regular contact with past clients.",
+      "timestamp": "00:02:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode highlights the importance of nurturing existing client relationships, which is often overlooked by agents who have been in the industry for a while.",
+      "key_takeaway": "Consistent, personalized follow-up with past clients can significantly boost your business through repeat transactions and referrals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:50",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the common fear agents have about reaching out to past clients.",
+      "suggested_hook": "Are you afraid of annoying your past clients? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Exume, Tier, and Touch system",
+      "context": "Organize past clients into a centralized list, categorize them by importance, and reach out with personalized messages.",
+      "timestamp": "00:05:19"
+    },
+    {
+      "tactic": "Value text messages",
+      "context": "Send texts to past clients with updates on their home's value or neighborhood sales.",
+      "timestamp": "00:07:58"
+    }
+  ],
+  "quotable_insights": [
+    "You didn't lose that client to a better agent; you lost them to silence.",
+    "Lead with the gift, and the ask then takes care of itself."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Keeping it Real",
+      "context": "DJ Paris mentions Sarah Meslousky's advice on using YouTube for client acquisition."
+    }
+  ],
+  "episode_summary": "In this episode, DJ Paris emphasizes the importance of maintaining relationships with past clients to drive repeat business and referrals. He introduces a systematic approach called 'Exume, Tier, and Touch' to organize and effectively communicate with clients. By leading with value and personal touches, agents can significantly enhance their client retention and satisfaction.",
+  "_metadata": {
+    "source_file": "2026-07-13_item2_Coffee-Talks",
+    "analyzed_at": "2026-07-15T06:44:05.010494",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": null,
+    "specialty": "Real estate technology and AI",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "Future of Zillow and real estate portals",
+    "21st Century Road to Housing Act",
+    "Role of AI in real estate",
+    "Value proposition of real estate agents",
+    "Impact of large brokerages on the market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Zillow's future as a real estate portal",
+      "solution_summary": "Zillow may pivot to become a major brokerage, leveraging its consumer data.",
+      "timestamp": "00:00:04"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Stalled housing bill affecting inventory",
+      "solution_summary": "The 21st Century Road to Housing Act aims to streamline environmental reviews and incentivize local zoning changes.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "AI's impact on real estate agent roles",
+      "solution_summary": "Agents should focus on providing unique, localized insights and lifestyle consulting.",
+      "timestamp": "00:43:11"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding the future of real estate portals and AI can help shape strategic decisions.",
+      "key_takeaway": "Focus on providing unique, localized insights that AI cannot replicate."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into industry shifts can help in planning for team growth and adaptation.",
+      "key_takeaway": "Prepare for changes in the industry by understanding the potential shift of major portals like Zillow into brokerage roles."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:04",
+      "end_timestamp": "00:00:12",
+      "quote": "Zillow is melting ice cubes and in five years, it won't be selling ads to agents anymore.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the traditional view of Zillow's role in real estate.",
+      "suggested_hook": "Is Zillow's business model melting away?"
+    },
+    {
+      "timestamp": "00:43:11",
+      "end_timestamp": "00:43:44",
+      "quote": "Where does the agent still add value? It's in providing the novel, unique insight that cannot be mapped to a corpus of data.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to rethink their value proposition in the age of AI.",
+      "suggested_hook": "How can real estate agents stay relevant in the AI era?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Niche down in lifestyle consulting rather than property type.",
+      "context": "Focus on understanding and serving specific lifestyle needs of clients.",
+      "timestamp": "00:50:25"
+    }
+  ],
+  "quotable_insights": [
+    "Zillow's castle is built on sand here, not on bedrock.",
+    "AI is not generating a novel idea; it's just incredibly resourceful."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the potential future of Zillow as a major brokerage, the impact of AI on real estate agents, and the stalled 21st Century Road to Housing Act. He emphasizes the importance of agents focusing on providing unique, localized insights and lifestyle consulting to remain valuable in the evolving industry landscape.",
+  "_metadata": {
+    "source_file": "2026-07-08_item3_Chris-Linsell",
+    "analyzed_at": "2026-07-15T06:43:42.236826",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

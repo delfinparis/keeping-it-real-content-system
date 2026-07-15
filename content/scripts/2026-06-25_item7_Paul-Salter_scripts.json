@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "The most dangerous thing about this proven energy is that it works.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights a common but often overlooked pattern among high achievers.",
+      "suggested_hook": "Are you chasing success for the wrong reasons?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you chasing success for the wrong reasons?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter shared a powerful insight on our latest episode. If you're driven by a need to prove yourself, you might be on a dangerous path. You're closing deals, but at what cost? Emotional burnout, strained relationships... sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The most dangerous thing about this proven energy is that it works. [ON-SCREEN: Proven energy works] But it's unsustainable. Paul says, 'Most agents chase success to prove their worth. Top producers find fulfillment in sustainable achievement.' [ON-SCREEN: Sustainable achievement vs. prove-it energy] It's about recalibrating your ambition to separate self-worth from professional success. [ON-SCREEN: Recalibrate ambition]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start recalibrating today. Shift your focus from proving to achieving sustainably. Paul closed 47 deals last year by doing just this. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you chasing success for the wrong reasons? Let's recalibrate for fulfillment.\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#AgentTips\", \"#SustainableAchievement\", \"#ProveItEnergy\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"The most dangerous thing about this proven energy is that it works.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "12:00",
+      "end_timestamp": "12:30",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This statement challenges the conventional belief that success leads to happiness.",
+      "suggested_hook": "Why your achievements might not be making you happy."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why your achievements might not be making you happy.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter shared a powerful truth: 'External achievement cannot solve an internal wound.' Ever feel like no matter how many deals you close, it never feels like enough? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Paul explains that chasing success to prove yourself can lead to emotional burnout. [ON-SCREEN: External achievement ≠ Internal happiness] Instead, focus on sustainable achievement. [ON-SCREEN: Sustainable > Prove-it Energy] Separate your self-worth from professional success. [ON-SCREEN: Self-worth ≠ Success]\",\n    \"REFRAME/APPLICATION\": \"This matters because recalibrating your ambition can lead to true fulfillment. You can start today by reflecting on your motivations. [ON-SCREEN: Reflect on motivations] Paul did this and found lasting happiness.\",\n    \"CTA\": \"Do you separate your self-worth from success — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are your achievements truly making you happy? Let's find out. #RealTalk\",\n  \"HASHTAGS\": [\"#RealTalk\", \"#SuccessMindset\", \"#EmotionalHealth\", \"#RealEstateTips\", \"#PersonalGrowth\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"External achievement cannot solve an internal wound.\"\n}\n```"
+  }
+]
