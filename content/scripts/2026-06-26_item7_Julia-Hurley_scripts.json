@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:05",
+      "end_timestamp": "11:00",
+      "quote": "I was the number one most followed real estate agent in the country for this company, and when my name disappeared, I got phone calls from everywhere.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the impact of personal brand and resilience in the face of adversity.",
+      "suggested_hook": "What happens when you're forced to start over in real estate?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What happens when you're forced to start over in real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Hurley was the top-followed real estate agent in the country. Then, her name vanished. Imagine being at the top of your game, and suddenly, you're invisible. You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Julia shared, 'I was the number one most followed real estate agent in the country for this company, and when my name disappeared, I got phone calls from everywhere.' [ON-SCREEN: Personal Brand Impact] Most agents rely on company leads. Top producers build a personal brand that clients follow. [ON-SCREEN: Resilience in Adversity]\",\n    \"REFRAME_APPLICATION\": \"This matters because your brand is your safety net. You can start today by sharing your unique story online. Julia's approach helped her bounce back and manage athlete real estate portfolios. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Have you built your personal brand yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"When your name disappears, does your business follow? Build your brand. #RealEstate\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#PersonalBrand\", \"#Resilience\", \"#LeadGeneration\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on company leads. Top producers build a personal brand that clients follow.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:30",
+      "end_timestamp": "26:30",
+      "quote": "If you're not door knocking for your open house, you're losing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable tactic for lead generation.",
+      "suggested_hook": "The secret to turning open houses into a lead goldmine."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Stop losing leads at your open houses.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Hurley says if you're not door knocking for your open house, you're losing. Picture this: you've set up an open house, but foot traffic is low. You're missing out on potential leads right in your neighborhood.\",\n    \"INSIGHT\": \"Julia shares, 'Most agents set up and wait. Top producers knock on doors.' [ON-SCREEN: Door knocking leads to more traffic] She explains, 'Invite neighbors personally. It builds rapport and curiosity.' [ON-SCREEN: Personal invites increase engagement]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can do this today and see results. Julia closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you door knocking for your open houses — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Turn your open houses into lead goldmines with this simple tactic. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#OpenHouse\", \"#TopProducer\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents set up and wait. Top producers knock on doors.\"\n}\n```"
+  }
+]

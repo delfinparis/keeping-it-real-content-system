@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Zach Geisendorfer",
+    "title": "Sales Leader",
+    "company": "FAM Real Estate Group",
+    "production_level": "$650M+ producer",
+    "specialty": "Open House Strategy",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Open House Strategies",
+    "Agent Recruitment and Onboarding",
+    "Offer Acceptance Techniques",
+    "Leveraging AI in Real Estate",
+    "Mindset and Productivity"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective open houses",
+      "solution_summary": "Implement the Mega Open House Method by calling neighbors, knowing the property well, and marketing effectively.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Low offer acceptance rates",
+      "solution_summary": "Write aggressive offers with short closing times and have lenders call listing agents.",
+      "timestamp": "00:39:26"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient agent onboarding",
+      "solution_summary": "Develop a structured two-week boot camp focusing on tech, tools, and sales processes.",
+      "timestamp": "00:13:34"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced strategies for increasing sales and productivity.",
+      "key_takeaway": "Implementing structured systems and aggressive strategies can significantly boost success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode offers insights into building and managing a successful real estate team.",
+      "key_takeaway": "Focus on effective onboarding and leveraging technology to streamline operations."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:05",
+      "end_timestamp": "00:07:05",
+      "quote": "If you can just lock in on something like open houses, it doesn't take too long to build just crazy pipeline out of it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable strategy for generating leads.",
+      "suggested_hook": "Want to transform your open houses into lead-generating machines?"
+    },
+    {
+      "timestamp": "00:39:26",
+      "end_timestamp": "00:40:26",
+      "quote": "We write aggressive offers. We had almost a 90% offer acceptance rate last year.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "The high acceptance rate is impressive and offers a clear strategy.",
+      "suggested_hook": "How to get your buyer offers accepted 90% of the time!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Mega Open House Method",
+      "context": "Call neighbors, market aggressively, and know the property well.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "tactic": "10-Day Close Offers",
+      "context": "Work with lenders to offer a 10-day close to make offers more attractive.",
+      "timestamp": "00:39:26"
+    }
+  ],
+  "quotable_insights": [
+    "The work works. Success isn't about shortcuts or hype. It's about showing up every day."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and marketing solutions."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for agent recruitment and retention powered by AI."
+    }
+  ],
+  "episode_summary": "Zach Geisendorfer shares his successful strategies for running effective open houses and increasing offer acceptance rates. He emphasizes the importance of structured onboarding for agents and leveraging technology to streamline operations. The episode provides actionable insights into building a productive real estate business.",
+  "_metadata": {
+    "source_file": "2026-06-29_item6_Zach-Geisendorfer",
+    "analyzed_at": "2026-07-16T06:49:00.642970",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

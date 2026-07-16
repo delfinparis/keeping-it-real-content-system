@@ -1,0 +1,122 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": null,
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "Real estate via YouTube",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of YouTube titles and thumbnails",
+    "Common mistakes in creating video titles",
+    "Thumbnail design and strategy",
+    "Using AI tools for content creation",
+    "Outsourcing thumbnail design"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Videos not getting views despite high-quality content",
+      "solution_summary": "Focus on creating compelling titles and thumbnails to attract clicks.",
+      "timestamp": "00:00:05"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient thumbnail creation process",
+      "solution_summary": "Schedule a dedicated thumbnail photo shoot and use a library of expressions.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of curiosity-inducing titles",
+      "solution_summary": "Research successful titles and use AI tools to generate clickable versions.",
+      "timestamp": "00:04:52"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to increase video views and engagement, crucial for building a personal brand.",
+      "key_takeaway": "Winning the click with effective titles and thumbnails is as important as the content itself."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers actionable steps to improve video performance and attract more leads.",
+      "key_takeaway": "Use AI tools and A/B testing to refine your video titles and thumbnails."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:30",
+      "quote": "Thumbnails are equally as important as the actual content of your video.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that content quality alone drives views.",
+      "suggested_hook": "Think your content is enough to get views? Think again."
+    },
+    {
+      "timestamp": "00:16:19",
+      "end_timestamp": "00:16:33",
+      "quote": "Making great videos is not enough. You have to win the click before you ever get the chance to win with your content.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Emphasizes the critical role of initial engagement in video success.",
+      "suggested_hook": "Why your amazing videos might be going unnoticed."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI tools like ChatGPT to generate title ideas.",
+      "context": "When struggling to create engaging titles.",
+      "timestamp": "00:07:02"
+    },
+    {
+      "tactic": "Conduct a thumbnail photo shoot to create a library of expressions.",
+      "context": "To streamline the thumbnail creation process.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "tactic": "Utilize YouTube's A/B testing for titles and thumbnails.",
+      "context": "To determine which versions perform best.",
+      "timestamp": "00:07:45"
+    }
+  ],
+  "quotable_insights": [
+    "A strong title creates curiosity and poses an interesting question.",
+    "Your thumbnail is the magazine cover of your video."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for agent recruitment and retention."
+    },
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Used for generating engaging title ideas."
+    },
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "For designing thumbnails."
+    },
+    {
+      "type": "website",
+      "name": "YTjobs.com",
+      "context": "For finding specialized YouTube thumbnail designers."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her insights on how to effectively use YouTube for real estate success, emphasizing the critical role of compelling titles and thumbnails. She provides actionable strategies for creating engaging video content, including the use of AI tools and outsourcing design work, to boost views and engagement.",
+  "_metadata": {
+    "source_file": "2026-07-15_item1_Sarah-Maslowski",
+    "analyzed_at": "2026-07-16T06:52:30.092327",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:30",
+      "quote": "Thumbnails are equally as important as the actual content of your video.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that content quality alone drives views.",
+      "suggested_hook": "Think your content is enough to get views? Think again."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"hook\": \"Think your content is enough to get views? Think again.\",\n    \"brand_intro\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"setup\": \"Sarah Maslowski just blew my mind. You're pouring hours into creating amazing videos, but they're not getting the views you expected. Sound familiar? But here's the part nobody talks about...\",\n    \"insight\": \"Thumbnails are equally as important as the actual content of your video. Sarah says, 'A compelling thumbnail can make or break your video's success.' [ON-SCREEN: Thumbnails = Video Success] Most agents focus solely on content quality. Top producers invest in eye-catching thumbnails. [ON-SCREEN: Eye-catching Thumbnails]\",\n    \"reframe_application\": \"Why does this matter now? Because you can start today. Design a thumbnail that grabs attention. Sarah's team closed 47 deals last year using this exact strategy. [ON-SCREEN: 47 Deals Closed]\",\n    \"cta\": \"Are you doing this already — yes or no?\",\n    \"close\": \"See you next time.\"\n  },\n  \"caption\": \"Your video content isn't enough. Thumbnails matter just as much. #RealEstateTips\",\n  \"hashtags\": [\"#RealEstateTips\", \"#YouTubeStrategy\", \"#ContentCreation\", \"#Thumbnails\", \"#AgentAdvice\"],\n  \"content_pillar\": \"top_producer_secrets\",\n  \"shareable_moment\": \"Thumbnails are equally as important as the actual content of your video.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:16:19",
+      "end_timestamp": "00:16:33",
+      "quote": "Making great videos is not enough. You have to win the click before you ever get the chance to win with your content.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Emphasizes the critical role of initial engagement in video success.",
+      "suggested_hook": "Why your amazing videos might be going unnoticed."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why are your amazing videos going unnoticed?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changing insight on our podcast. You're crafting stellar videos, but they aren't getting the views they deserve. It's frustrating, right? You're putting in the work, but the clicks just aren't coming.\",\n    \"INSIGHT\": \"Sarah says, 'Making great videos is not enough. You have to win the click before you ever get the chance to win with your content.' [ON-SCREEN: Win the Click First] Most agents focus on content. Top producers focus on titles and thumbnails. [ON-SCREEN: Titles & Thumbnails Matter]\",\n    \"REFRAME/APPLICATION\": \"This matters because your video could be a goldmine, but only if people watch it. Start by refining your titles and thumbnails. You can do this today. Sarah's approach helped her increase views by 30% last year.\",\n    \"CTA\": \"Are you optimizing your titles and thumbnails — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your videos deserve more views! Focus on titles and thumbnails to win the click. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#VideoMarketing\", \"#YouTubeSuccess\", \"#AgentAdvice\", \"#ContentCreation\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Making great videos is not enough. You have to win the click first.\"\n}\n```"
+  }
+]

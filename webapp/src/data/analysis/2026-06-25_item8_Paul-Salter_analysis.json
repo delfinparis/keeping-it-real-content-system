@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Peak performance coaching for high performers",
+    "location": null
+  },
+  "main_topics": [
+    "The dangers of success driven by a need to prove oneself",
+    "Sustainable versus unsustainable success",
+    "The emotional cost of high achievement",
+    "Recalibrating ambition for fulfillment",
+    "Separating self-worth from professional success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Success driven by a need to prove oneself is unsustainable",
+      "solution_summary": "Recalibrate ambition to focus on fulfillment and sustainable success rather than proving worth.",
+      "timestamp": "07:04"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "No achievement ever feels enough",
+      "solution_summary": "Shift focus from external validation to internal fulfillment and redefine success metrics.",
+      "timestamp": "13:02"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Inability to turn off work mode",
+      "solution_summary": "Learn to balance work intensity with rest and personal presence.",
+      "timestamp": "20:17"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the emotional exhaustion and lack of fulfillment experienced by veterans in the industry.",
+      "key_takeaway": "Recalibrating ambition and redefining success can lead to greater personal fulfillment and professional success."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode warns against the pitfalls of chasing success solely for external validation.",
+      "key_takeaway": "Focus on sustainable success and fulfillment rather than just proving oneself."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:01",
+      "end_timestamp": "08:30",
+      "quote": "The most dangerous thing about this proven energy is that it works.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights the paradox of success driven by proving oneself and sets the stage for deeper insights.",
+      "suggested_hook": "Why your drive for success might be your biggest downfall."
+    },
+    {
+      "timestamp": "19:03",
+      "end_timestamp": "19:30",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that success leads to fulfillment.",
+      "suggested_hook": "Are you chasing the wrong kind of success?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Measure success by hourly rate instead of total income.",
+      "context": "Encourages working fewer hours while maintaining income to improve personal relationships and well-being.",
+      "timestamp": "16:12"
+    }
+  ],
+  "quotable_insights": [
+    "Your superpower of tenacity and ambition will inevitably become your kryptonite.",
+    "Just because a fuel source helps you build success, doesn't mean it's the right fuel source to help you sustain and enjoy it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for real estate agents to convert leads and manage client relationships effectively."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the dangers of building success on the need to prove one's worth. He emphasizes the importance of recalibrating ambition for sustainable success and personal fulfillment. Salter provides actionable insights on redefining success metrics and balancing work intensity with personal presence.",
+  "_metadata": {
+    "source_file": "2026-06-25_item8_Paul-Salter",
+    "analyzed_at": "2026-07-16T06:47:47.249245",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

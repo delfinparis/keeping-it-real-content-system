@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:18:00",
+      "end_timestamp": "00:19:00",
+      "quote": "Zillow is a melting ice cube. If they exist in five years, their business model will look completely different.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional view of Zillow's dominance.",
+      "suggested_hook": "Is Zillow's reign over the real estate market coming to an end?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is Zillow's reign over the real estate market coming to an end?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell just dropped a bombshell on our podcast. He claims Zillow, the giant we all rely on, is a melting ice cube. If you're an agent who depends on Zillow for leads, this could change everything. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'Zillow's business model will look completely different in five years.' [ON-SCREEN: Zillow's business model will change] Most agents think Zillow's dominance is unshakeable. But Chris argues that shifts in technology and consumer behavior are forcing a transformation. [ON-SCREEN: Tech & consumer shifts] Are you ready for a world where Zillow isn't the top dog?\",\n    \"REFRAME/APPLICATION\": \"This matters because if Zillow changes, your lead sources might too. You can start diversifying your marketing strategies today. [ON-SCREEN: Diversify your marketing] Remember, Chris has seen agents thrive by adapting early.\",\n    \"CTA\": \"Do you think Zillow will still dominate in five years — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is Zillow's dominance fading? Here's what you need to know. #RealEstate #Zillow\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#Zillow\",\n    \"#AgentTips\",\n    \"#MarketTrends\",\n    \"#RealEstatePodcast\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Zillow's business model will look completely different in five years.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:49:00",
+      "end_timestamp": "00:50:00",
+      "quote": "Niche down in terms of lifestyle and goals, not just property type.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for agents to differentiate themselves.",
+      "suggested_hook": "Want to stand out as a real estate agent? Here's how."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to stand out as a real estate agent? Here's how.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell shared a game-changing strategy on our podcast. If you're like most agents, you're focusing on property types to differentiate yourself. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'Niche down in terms of lifestyle and goals, not just property type.' [ON-SCREEN: Niche by Lifestyle] Most agents focus on the property. Top producers focus on the client's lifestyle and goals. [ON-SCREEN: Client Goals] This approach makes you memorable and indispensable.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start applying this today. Imagine closing 47 deals this year by aligning with your client's lifestyle. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stand out by niching down in lifestyle, not just property type. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#NicheMarketing\", \"#TopProducer\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Niche down in terms of lifestyle and goals, not just property type.\"\n}\n```"
+  }
+]

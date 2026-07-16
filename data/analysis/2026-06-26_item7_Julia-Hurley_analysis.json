@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Julia Hurley",
+    "title": "Owner",
+    "company": "Just Homes Group",
+    "production_level": "Closed over 2,000 deals",
+    "specialty": "Real estate, athlete management",
+    "location": "Knoxville, Tennessee"
+  },
+  "main_topics": [
+    "Resilience in real estate",
+    "Effective lead generation",
+    "Building a personal brand",
+    "Navigating political perceptions",
+    "Athlete management and real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents relying solely on buying leads",
+      "solution_summary": "Host open houses and door knock with a purpose to generate quality leads.",
+      "timestamp": "26:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems for tracking leads and clients",
+      "solution_summary": "Use free tools like Google Docs to create and maintain systems for tracking leads and client interactions.",
+      "timestamp": "43:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming setbacks and starting over",
+      "solution_summary": "Focus on rebuilding by leveraging past contacts and offering value to others.",
+      "timestamp": "10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for agents who have plateaued and need to revitalize their business.",
+      "key_takeaway": "Re-engage past clients and leverage open houses to generate new business opportunities."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Insights into building a strong personal brand and expanding into new niches like athlete management.",
+      "key_takeaway": "Offer unique value propositions to clients and potential partners to stand out in the market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:05",
+      "end_timestamp": "11:00",
+      "quote": "I was the number one most followed real estate agent in the country for this company, and when my name disappeared, I got phone calls from everywhere.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the impact of personal brand and resilience in the face of adversity.",
+      "suggested_hook": "What happens when you're forced to start over in real estate?"
+    },
+    {
+      "timestamp": "25:30",
+      "end_timestamp": "26:30",
+      "quote": "If you're not door knocking for your open house, you're losing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable tactic for lead generation.",
+      "suggested_hook": "The secret to turning open houses into a lead goldmine."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host open houses and door knock with a purpose.",
+      "context": "Generate quality leads by inviting neighbors and creating community engagement.",
+      "timestamp": "26:00"
+    },
+    {
+      "tactic": "Use Google Docs for tracking and managing client interactions.",
+      "context": "Implement systems without incurring additional costs.",
+      "timestamp": "43:00"
+    }
+  ],
+  "quotable_insights": [
+    "Nothing worth doing is ever easy.",
+    "Find people who have accomplished more than you and provide them value."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Panic to Profit",
+      "context": "Julia Hurley's book for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "Google Docs",
+      "context": "Recommended for managing client interactions and systems."
+    }
+  ],
+  "episode_summary": "Julia Hurley shares her journey from being voted out of a company to building a successful real estate business and athlete management firm. She emphasizes the importance of resilience, effective lead generation through open houses, and the power of personal branding. Julia provides actionable strategies for agents to re-engage past clients and leverage free tools to manage their business operations.",
+  "_metadata": {
+    "source_file": "2026-06-26_item7_Julia-Hurley",
+    "analyzed_at": "2026-07-16T06:48:06.036278",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

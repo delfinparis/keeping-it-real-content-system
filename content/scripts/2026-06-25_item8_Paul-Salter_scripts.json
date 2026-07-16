@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:01",
+      "end_timestamp": "08:30",
+      "quote": "The most dangerous thing about this proven energy is that it works.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights the paradox of success driven by proving oneself and sets the stage for deeper insights.",
+      "suggested_hook": "Why your drive for success might be your biggest downfall."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why your drive for success might be your biggest downfall.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter shared a powerful insight on our show. Ever feel like you're constantly proving yourself, yet never satisfied? You're not alone. Many agents chase success, but at what cost?\",\n    \"INSIGHT\": \"Paul says, 'The most dangerous thing about this proven energy is that it works.' [ON-SCREEN: Proven energy works] But it can lead to burnout and unsustainable success. Most agents push harder, but top producers recalibrate for fulfillment. [ON-SCREEN: Recalibrate for fulfillment]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Take a moment this week to assess your motivations. You can start today by aligning your goals with personal fulfillment. [ON-SCREEN: Align goals with fulfillment]\",\n    \"CTA\": \"Have you ever felt this drive? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your drive for success sustainable? Discover the hidden cost of high achievement.\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#AgentTips\", \"#SustainableSuccess\", \"#RealTalk\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"The most dangerous thing about this proven energy is that it works.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "19:03",
+      "end_timestamp": "19:30",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that success leads to fulfillment.",
+      "suggested_hook": "Are you chasing the wrong kind of success?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you chasing the wrong kind of success?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter dropped a truth bomb on our latest episode. Ever feel like you're hitting every milestone but still feel empty? That's because external achievement can't fix internal wounds. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Paul explained that many agents chase success to prove their worth, but this leads to burnout. [ON-SCREEN: External achievement ≠ Internal fulfillment] Instead, sustainable success comes from aligning your goals with your true values. [ON-SCREEN: Align goals with values] Most agents focus on numbers. Top producers focus on fulfillment.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Recalibrate your ambition this week by setting one goal that aligns with your personal values. You can do this today.\",\n    \"CTA\": \"Which part hits closest to home — drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Chasing success for the wrong reasons? Here's how to recalibrate for true fulfillment.\",\n  \"HASHTAGS\": [\n    \"#RealEstateMindset\",\n    \"#AgentSuccess\",\n    \"#FulfillmentFirst\",\n    \"#KeepingItReal\",\n    \"#SustainableSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"External achievement cannot solve an internal wound.\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "DJ Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": "Agent Recruitment and Development",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of maintaining client relationships",
+    "Building a system for client follow-up",
+    "Effective communication strategies with past clients",
+    "The impact of personalized outreach",
+    "Leveraging AI and technology in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents losing clients due to lack of follow-up",
+      "solution_summary": "Create a system to regularly reach out to past clients with personalized messages and value-driven insights.",
+      "timestamp": "02:10"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured system for client management",
+      "solution_summary": "Organize past clients into a single list and categorize them into tiers for targeted communication.",
+      "timestamp": "05:19"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective lead generation through traditional methods",
+      "solution_summary": "Focus on repeat business and referrals by maintaining strong relationships with past clients.",
+      "timestamp": "00:44"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode addresses the common issue of neglecting past clients, which is prevalent among agents with some experience.",
+      "key_takeaway": "Regular, personalized communication with past clients can significantly boost repeat business and referrals."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "For agents aiming to elevate their business, the episode provides a clear strategy for leveraging existing relationships.",
+      "key_takeaway": "Building a systematic approach to client communication can transform your business and lead to more consistent referrals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00",
+      "end_timestamp": "00:10",
+      "quote": "Four out of ten agents say more than half of their business comes from people they've already sold a house to.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the importance of repeat business and can grab the audience's attention.",
+      "suggested_hook": "Did you know that most successful agents rely heavily on repeat business?"
+    },
+    {
+      "timestamp": "03:08",
+      "end_timestamp": "03:20",
+      "quote": "You didn't lose that client to a better agent, you lost them to silence.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This line succinctly captures the essence of the episode's message and is thought-provoking.",
+      "suggested_hook": "Are you losing clients without even knowing it?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Exume, Tier, and Touch system",
+      "context": "Organize past clients into a single list, categorize them by importance, and regularly reach out with personalized messages.",
+      "timestamp": "05:19"
+    },
+    {
+      "tactic": "Value-driven communication",
+      "context": "Send texts with valuable information like home value updates or neighborhood sales to past clients.",
+      "timestamp": "08:06"
+    }
+  ],
+  "quotable_insights": [
+    "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+    "Lead with the gift and the ask then takes care of itself."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Google Sheets",
+      "context": "Recommended for organizing client lists if a CRM is not available."
+    },
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Suggested for scheduling and managing client communication tasks."
+    }
+  ],
+  "episode_summary": "In this episode, DJ Paris discusses the importance of maintaining relationships with past clients to boost repeat business and referrals. He introduces a systematic approach called 'Exume, Tier, and Touch' to organize and communicate with clients effectively. The episode emphasizes leading with value in client interactions and leveraging technology to streamline operations.",
+  "_metadata": {
+    "source_file": "2026-07-13_item3_Coffee-Talks",
+    "analyzed_at": "2026-07-16T06:51:08.638648",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

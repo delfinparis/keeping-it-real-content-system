@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00",
+      "end_timestamp": "00:10",
+      "quote": "Four out of ten agents say more than half of their business comes from people they've already sold a house to.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the importance of repeat business and can grab the audience's attention.",
+      "suggested_hook": "Did you know that most successful agents rely heavily on repeat business?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know most successful agents rely heavily on repeat business?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Four out of ten agents say more than half of their business comes from people they've already sold a house to. If you're reaching out to your database but nobody's responding, this might be why. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Most agents focus on new leads. Top producers, however, nurture existing relationships. [ON-SCREEN: 4 out of 10 agents] They build systems for client follow-up and use personalized outreach to stay top of mind. [ON-SCREEN: Personalized Outreach] Leveraging AI and technology can make this process seamless and effective.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Implement a follow-up system and watch your repeat business grow. [ON-SCREEN: Start Today] This approach helped one agent close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Repeat business is key! Are you nurturing your past clients effectively?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRelationships\", \"#RepeatBusiness\", \"#AgentSuccess\", \"#RealEstatePodcast\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on new leads. Top producers nurture existing relationships.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "03:08",
+      "end_timestamp": "03:20",
+      "quote": "You didn't lose that client to a better agent, you lost them to silence.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This line succinctly captures the essence of the episode's message and is thought-provoking.",
+      "suggested_hook": "Are you losing clients without even knowing it?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you losing clients without even knowing it?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You didn't lose that client to a better agent, you lost them to silence. You're reaching out to your database but nobody's responding. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Most agents think they're doing enough by sending a generic email. Top producers know it's about personalized outreach. [ON-SCREEN: Personalized Outreach] They build systems for client follow-up and leverage AI to maintain those relationships. [ON-SCREEN: Leverage AI] Remember, silence is the real competitor.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Implement a follow-up system and watch your client retention soar. [ON-SCREEN: Start Today] This agent closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Lost clients to silence? Here's how to change that. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRetention\", \"#AIinRealEstate\", \"#TopProducer\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"You didn't lose that client to a better agent, you lost them to silence.\"\n}\n```"
+  }
+]
