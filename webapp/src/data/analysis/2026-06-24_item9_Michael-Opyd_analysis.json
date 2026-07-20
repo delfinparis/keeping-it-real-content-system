@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Julia Linquist",
+    "title": "Real Estate Agent",
+    "company": "At Properties",
+    "production_level": "Top Producer",
+    "specialty": "Helping buyers and sellers in Chicago and surrounding suburbs",
+    "location": "Chicago, North Shore, Northwest Suburbs"
+  },
+  "main_topics": [
+    "Balancing work and family life as a real estate agent",
+    "Importance of systems and organization in real estate",
+    "Delegating tasks to manage workload",
+    "Focusing on higher price point transactions",
+    "Managing stress and personal well-being"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Struggling to balance work and family life, leading to stress and lack of sleep",
+      "solution_summary": "Delegate tasks and focus on higher price point transactions to free up time and reduce stress",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems and organization in business operations",
+      "solution_summary": "Implement consistent daily habits and allocate tasks to team members",
+      "timestamp": "31:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "High stress levels due to self-imposed expectations and chaotic work style",
+      "solution_summary": "Focus on personal well-being and set realistic expectations for work and family life",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode discusses managing stress and workload, which is relevant for experienced agents feeling overwhelmed.",
+      "key_takeaway": "Delegating tasks and focusing on higher-value transactions can reduce stress and improve work-life balance."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode offers insights into scaling a real estate business while maintaining personal well-being.",
+      "key_takeaway": "Implementing systems and focusing on high-value clients can lead to sustainable growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "25:30",
+      "end_timestamp": "26:15",
+      "quote": "All stress is a compression of time. If you delay things, stress builds up.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This insight challenges the common perception of stress and offers a new way to manage it.",
+      "suggested_hook": "Ever wonder why stress feels overwhelming? It's all about time compression."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Delegate tasks to team members or other agents for lower-value transactions.",
+      "context": "When managing a high workload and aiming to focus on higher-value clients.",
+      "timestamp": "44:00"
+    },
+    {
+      "tactic": "Set a clear income goal rather than a transaction volume goal.",
+      "context": "To ensure your efforts align with your financial needs and lifestyle goals.",
+      "timestamp": "33:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a you problem.",
+    "The key to reducing stress is focusing on what you can control."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for agent recruitment and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Julia Linquist discusses the challenges of balancing a thriving real estate career with family life. Michael Opyd provides actionable strategies for managing stress, implementing systems, and focusing on high-value transactions to achieve a sustainable work-life balance. The conversation offers valuable insights for agents looking to scale their business while maintaining personal well-being.",
+  "_metadata": {
+    "source_file": "2026-06-24_item9_Michael-Opyd",
+    "analyzed_at": "2026-07-20T07:10:57.948850",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:07:02",
+      "end_timestamp": "00:07:19",
+      "quote": "Instead you take that question you're holding in your head... That is the whole video.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a simple, actionable tactic for content creation.",
+      "suggested_hook": "Struggling to create content? Here's a dead-simple method!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Struggling to create content? Try this dead-simple method!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton shared a game-changing tactic on our podcast. If you're stuck staring at a blank screen, wondering what to post next, this is for you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Instead of overthinking, take that question you're holding in your head and turn it into content. [ON-SCREEN: Turn Questions Into Content] Most agents wait for inspiration. Top producers use their everyday questions as content gold. [ON-SCREEN: Everyday Questions = Content Gold]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start today. Tim Littleton, who grew his TikTok following by thousands, uses this exact approach. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you already turning questions into content — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Struggling with content ideas? Use this simple tactic today! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ContentCreation\", \"#TikTokForAgents\", \"#AgentAdvice\", \"#SocialMediaStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for inspiration. Top producers use their everyday questions as content gold.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:13:05",
+      "end_timestamp": "00:13:30",
+      "quote": "The agent who starts this month owns that local real estate corner about a year from now.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages immediate action to gain long-term benefits.",
+      "suggested_hook": "Want to dominate your local market? Start now!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to dominate your local market? Start now!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Tim Littleton says the agent who starts this month owns that local real estate corner about a year from now. You're posting on social media, but it's not getting traction. You're thinking, 'That's me.' But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Tim emphasizes the power of TikTok for real estate agents. He shares, 'Most agents hesitate, but those who dive in and localize their content see massive growth.' [ON-SCREEN: Localize your content] He uses the 'empty stage method' to overcome barriers. [ON-SCREEN: Empty stage method] Consistency is key. [ON-SCREEN: Consistency = Growth]\",\n    \"REFRAME/APPLICATION\": \"Why wait? Start creating localized TikTok content today. Tim's approach led to 47 deals last year. [ON-SCREEN: 47 deals last year] You can do this today.\",\n    \"CTA\": \"Are you using TikTok for real estate — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want to own your local market? Start creating TikTok content today! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#TikTokForAgents\", \"#LocalMarket\", \"#AgentSuccess\", \"#ContentCreation\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents hesitate, but those who dive in and localize their content see massive growth.\"\n}\n```"
+  }
+]

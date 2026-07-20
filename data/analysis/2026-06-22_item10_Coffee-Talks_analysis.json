@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Tim Littleton",
+    "title": "Co-host",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "The potential of TikTok for real estate agents",
+    "The empty stage method",
+    "Overcoming barriers to using TikTok",
+    "Localizing content on TikTok",
+    "Consistency in content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents feel invisible despite being on crowded platforms.",
+      "solution_summary": "Utilize TikTok where competition is minimal to stand out and build trust.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents believe their clients aren't on TikTok.",
+      "solution_summary": "Data shows TikTok's audience includes many adults, making it a viable platform for real estate.",
+      "timestamp": "00:10:21"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents are embarrassed to post to an empty audience.",
+      "solution_summary": "Focus on answering real client questions to create valuable content.",
+      "timestamp": "00:05:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can leverage TikTok's low competition to build their brand.",
+      "key_takeaway": "Start posting consistently on TikTok to gain visibility in a less crowded space."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can differentiate themselves by adopting new platforms.",
+      "key_takeaway": "Use TikTok's local targeting to reach potential clients directly."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:07:02",
+      "end_timestamp": "00:07:19",
+      "quote": "Instead you take that question you're holding in your head... That is the whole video.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a simple, actionable tactic for content creation.",
+      "suggested_hook": "Struggling to create content? Here's a dead-simple method!"
+    },
+    {
+      "timestamp": "00:13:05",
+      "end_timestamp": "00:13:30",
+      "quote": "The agent who starts this month owns that local real estate corner about a year from now.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages immediate action to gain long-term benefits.",
+      "suggested_hook": "Want to dominate your local market? Start now!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Answer client questions directly on TikTok.",
+      "context": "Use real client questions to create authentic content.",
+      "timestamp": "00:07:02"
+    },
+    {
+      "tactic": "Localize your TikTok content.",
+      "context": "Mention specific local details to target the right audience.",
+      "timestamp": "00:08:03"
+    },
+    {
+      "tactic": "Post consistently without worrying about perfection.",
+      "context": "Focus on regular posting to build a presence.",
+      "timestamp": "00:08:52"
+    }
+  ],
+  "quotable_insights": [
+    "A small audience with zero competition beats a huge audience where you're shouting over nine and 10 agents."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "captions.ai",
+      "context": "Used for video editing to enhance content presentation."
+    }
+  ],
+  "episode_summary": "This episode discusses the untapped potential of TikTok for real estate agents, emphasizing the 'empty stage method' to build a personal brand in a less crowded space. By answering real client questions and localizing content, agents can effectively reach a growing adult audience on TikTok. Consistency and authenticity are key to leveraging this platform for lead generation and brand visibility.",
+  "_metadata": {
+    "source_file": "2026-06-22_item10_Coffee-Talks",
+    "analyzed_at": "2026-07-20T07:10:35.006078",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
