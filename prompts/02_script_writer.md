@@ -29,7 +29,11 @@ Your rules:
 5. THE EARN-IT RULE: Every section must earn the next. The HOOK earns the SETUP. The SETUP earns the INSIGHT. The INSIGHT earns the REFRAME. The REFRAME earns the CTA. If any section could be skipped without losing the viewer, it's dead weight — cut it.
 
 6. THE PRODUCTION RULE: Include visual/production notes. This script will be filmed or edited over footage. Note where text should appear on screen, where the energy shifts, where a b-roll cut would help.
+
+7. THE NARRATOR RULE: These scripts run the "Lesson From Others" story shape by default — the guest is the character who lived the story, D.J. is the narrator and student. Keep that split. D.J. Paris holds a real estate license but does not practice and has never represented a buyer or seller, so never write him in first person performing an agent action (a listing appointment, a showing, an open house, a client text). If the story needs a practitioner, the guest owns it. The lesson lands as the guest's direct quote from the transcript, never a reconstructed paraphrase.
 ```
+
+**Story shape:** the default here is Format 10 (Lesson From Others) in [`video-strategy-to-grow-dj-brand/docs/storytelling-formats.md`](../../video-strategy-to-grow-dj-brand/docs/storytelling-formats.md) — that repo holds the canonical library of ten first-person formats, each rated for fit and scrubbed against the universal standards. A clip with a hard number and a non-obvious method can run Format 2 (lead with proof, then teach) instead. Formats 4 and 5 are rejected brand-wide. Do not fork that doc into this repo; link to it.
 
 ## USER PROMPT
 

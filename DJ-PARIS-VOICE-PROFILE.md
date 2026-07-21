@@ -211,6 +211,10 @@ D.J.'s spoken voice is even more digressive than his written voice. Let him wand
 
 The cold open is everything. First 3 seconds should be a surprising statement or question. The self-deprecation still works but compress it — one aside, one subversion, done.
 
+For structure beyond the cold open, short-form doctrine lives in `video-strategy-to-grow-dj-brand`: `docs/editorial-standards.md` (universal rules), `docs/series/viral-3-act-spine.md` (hook → story → payoff), `docs/hook-matrix-cheatsheet.md` (nine hook families), and `docs/storytelling-formats.md` (ten first-person story shapes, each rated for fit). The arc described above in "The D.J. Paris Blog Post Arc" is a *written* arc and does not transfer to a 45-second video. Use the video repo's spine instead.
+
+One constraint that binds every first-person video: D.J. holds a license but does not practice and has never represented a buyer or seller. Agent-action stories get attributed to a real agent or a named guest, never told in his first person.
+
 ### Email / Outreach
 
 D.J.'s email voice splits into two distinct registers depending on whether he's pitching cold or replying to someone he already knows.
