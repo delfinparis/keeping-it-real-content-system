@@ -1,0 +1,103 @@
+{
+  "guest_info": {
+    "name": "Julia Hurley",
+    "title": "Owner",
+    "company": "Just Homes Group",
+    "production_level": "Closed over 2,000 deals",
+    "specialty": "Real estate, athlete management",
+    "location": "Knoxville, Tennessee"
+  },
+  "main_topics": [
+    "Resilience and rebuilding after setbacks",
+    "Effective lead generation strategies",
+    "The importance of providing value in networking",
+    "Managing a personal brand with a public history",
+    "Building systems for real estate success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Rebuilding after being voted out of a company",
+      "solution_summary": "Focus on building something bigger and better, leveraging past contacts and reputation.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without a big budget",
+      "solution_summary": "Host open houses for other agents, door knock with purpose, and engage with the community.",
+      "timestamp": "00:41:47"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Handling a public image with political and personal history",
+      "solution_summary": "Embrace your history as a badge of honor and focus on the value you provide.",
+      "timestamp": "00:13:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of systems for tracking leads and clients",
+      "solution_summary": "Use free tools like Google Docs and Sheets to create and maintain systems.",
+      "timestamp": "00:43:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode provides strategies for agents who have plateaued in their business.",
+      "key_takeaway": "Re-engage past clients and leverage open houses to generate new leads."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Julia shares insights on scaling a business and building a personal brand.",
+      "key_takeaway": "Offer value to high achievers to learn from them and grow your network."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:02",
+      "end_timestamp": "00:06:55",
+      "quote": "I was there every single day... and then they voted me out.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the emotional impact of a major career setback.",
+      "suggested_hook": "What do you do when the company you built votes you out?"
+    },
+    {
+      "timestamp": "00:41:47",
+      "end_timestamp": "00:42:01",
+      "quote": "Host open houses for other REALTORS in the high-end subdivisions.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for lead generation.",
+      "suggested_hook": "Starting from scratch? Here's how to generate leads fast."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host open houses for other agents in high-end subdivisions.",
+      "context": "To quickly generate leads and build a presence in a new market.",
+      "timestamp": "00:41:47"
+    },
+    {
+      "tactic": "Use Google Docs and Sheets for tracking and managing client information.",
+      "context": "For agents without a big budget to create effective systems.",
+      "timestamp": "00:43:02"
+    }
+  ],
+  "quotable_insights": [
+    "Nothing worth doing is ever easy.",
+    "You are not going to make anybody happy if you're trying to make everybody happy."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Panic to Profit",
+      "context": "Julia's book on overcoming challenges and building a successful business."
+    }
+  ],
+  "episode_summary": "Julia Hurley shares her journey of resilience after being voted out of a company she helped build. She provides actionable strategies for lead generation, including hosting open houses and leveraging community engagement. Julia emphasizes the importance of offering value to others and using free tools to create effective business systems.",
+  "_metadata": {
+    "source_file": "2026-06-26_item8_Julia-Hurley",
+    "analyzed_at": "2026-07-26T07:13:35.934196",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

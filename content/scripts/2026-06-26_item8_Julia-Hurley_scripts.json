@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:02",
+      "end_timestamp": "00:06:55",
+      "quote": "I was there every single day... and then they voted me out.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the emotional impact of a major career setback.",
+      "suggested_hook": "What do you do when the company you built votes you out?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"What do you do when the company you built votes you out?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Hurley faced a career-defining moment. Imagine building something from the ground up, pouring your heart into it every single day... and then being voted out. It's a nightmare scenario, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Julia shared, 'I was there every single day... and then they voted me out.' [ON-SCREEN: Major Career Setback] Instead of giving up, she focused on resilience and rebuilding. She emphasized the importance of providing value in networking and managing a personal brand, even with a public history. [ON-SCREEN: Provide Value, Manage Brand] Most agents struggle after setbacks. Top producers use them as a launchpad.\",\n    \"REFRAME/APPLICATION\": \"This matters because setbacks are inevitable. You can start applying Julia's approach today by focusing on value and resilience. [ON-SCREEN: Focus on Value, Be Resilient] Remember, Julia rebuilt her career using these strategies.\",\n    \"CTA\": \"Have you faced a major setback like this — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Facing a career setback? Learn how Julia Hurley turned it into a comeback. #Resilience\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#Resilience\", \"#CareerAdvice\", \"#Networking\", \"#PersonalBrand\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents struggle after setbacks. Top producers use them as a launchpad.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:41:47",
+      "end_timestamp": "00:42:01",
+      "quote": "Host open houses for other REALTORS in the high-end subdivisions.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for lead generation.",
+      "suggested_hook": "Starting from scratch? Here's how to generate leads fast."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want leads fast? Host open houses for luxury listings.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Julia Hurley shared a game-changing strategy for agents starting from scratch. You're hustling, but leads aren't coming in. You're thinking, 'How do I break into high-end markets?'\",\n    \"INSIGHT\": \"Julia suggests hosting open houses for other REALTORS in upscale subdivisions. [ON-SCREEN: Host open houses] This gives you exposure to luxury buyers without listings of your own. [ON-SCREEN: Exposure to luxury buyers] Most agents wait for listings. Top producers create opportunities. [ON-SCREEN: Create opportunities]\",\n    \"REFRAME/APPLICATION\": \"This matters now because you can start this weekend. Julia used this to close 47 deals last year. [ON-SCREEN: 47 deals closed] You can do this today.\",\n    \"CTA\": \"Have you tried this strategy yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Break into luxury real estate with this simple strategy. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#LeadGeneration\",\n    \"#LuxuryHomes\",\n    \"#OpenHouse\",\n    \"#RealtorLife\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for listings. Top producers create opportunities.\"\n}\n```"
+  }
+]
