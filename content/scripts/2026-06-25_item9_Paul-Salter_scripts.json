@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "11:00",
+      "end_timestamp": "11:45",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the common belief that success can fill personal voids.",
+      "suggested_hook": "Are you chasing success to fill a void?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you chasing success to fill a void?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter shared a powerful insight on our latest episode. Ever feel like no matter how many deals you close, something's still missing? You're not alone. Many agents think external success will heal internal wounds.\",\n    \"INSIGHT\": \"Paul said, 'External achievement cannot solve an internal wound.' [ON-SCREEN: External achievement ≠ Internal healing] Most agents chase numbers. Top producers focus on personal growth. [ON-SCREEN: Personal growth > Numbers] It's about aligning your inner values with your professional goals.\",\n    \"REFRAME/APPLICATION\": \"This matters because sustainable success starts within. Apply this today: Reflect on your motivations. [ON-SCREEN: Reflect on motivations] Paul recalibrated his ambition and found balance. [ON-SCREEN: Balance = Sustainable Success]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Chasing success? It might not fill the void you think it will. #RealTalk\",\n  \"HASHTAGS\": [\"#RealTalk\", \"#SuccessMindset\", \"#PersonalGrowth\", \"#RealEstateTips\", \"#AgentLife\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"External achievement cannot solve an internal wound.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "24:07",
+      "end_timestamp": "24:47",
+      "quote": "Life becomes one giant conditional statement: I'll be happy when.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the trap of conditional happiness tied to achievements.",
+      "suggested_hook": "Are you postponing happiness for success?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you postponing happiness for success?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Paul Salter shared a powerful insight on our podcast. Ever feel like happiness is just out of reach, tied to your next big achievement? You're not alone. Many agents think, 'I'll be happy when I close that next deal.' But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Paul said, 'Life becomes one giant conditional statement: I'll be happy when.' [ON-SCREEN: Conditional Happiness Trap] Most agents chase success, hoping it brings happiness. Top producers find happiness in the journey itself. [ON-SCREEN: Happiness in the Journey]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start finding joy in your daily work today. Paul’s approach helped him balance work and personal life effectively. [ON-SCREEN: Balance Work & Life]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop waiting for success to be happy. Find joy in the journey today. #RealEstateSuccess\",\n  \"HASHTAGS\": [\n    \"#RealEstateSuccess\",\n    \"#HappinessInJourney\",\n    \"#AgentTips\",\n    \"#WorkLifeBalance\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Life becomes one giant conditional statement: I'll be happy when.\"\n}\n```"
+  }
+]

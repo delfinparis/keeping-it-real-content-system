@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Peak performance coaching for high performers",
+    "location": null
+  },
+  "main_topics": [
+    "Proven energy and its pitfalls",
+    "Sustainable success strategies",
+    "Impact of personal validation on professional life",
+    "Balancing work and personal life",
+    "Recalibrating ambition and work ethic"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Relying on the need to prove oneself as a fuel for success",
+      "solution_summary": "Recalibrate ambition to focus on fulfillment-driven achievement instead of validation-driven success.",
+      "timestamp": "08:04"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Inability to turn off work mode, leading to burnout",
+      "solution_summary": "Learn to turn off the drive to prove oneself to rest and recharge.",
+      "timestamp": "20:20"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Defining self-worth through professional achievements",
+      "solution_summary": "Separate personal worth from professional success to achieve true fulfillment.",
+      "timestamp": "25:49"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "This episode addresses the common issue of burnout due to over-reliance on proving oneself through work.",
+      "key_takeaway": "Recalibrating your drive can lead to sustainable success and personal fulfillment."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to achieve success without sacrificing personal well-being.",
+      "key_takeaway": "Focus on purpose-driven goals rather than validation-driven achievements."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "11:00",
+      "end_timestamp": "11:45",
+      "quote": "External achievement cannot solve an internal wound.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the common belief that success can fill personal voids.",
+      "suggested_hook": "Are you chasing success to fill a void?"
+    },
+    {
+      "timestamp": "24:07",
+      "end_timestamp": "24:47",
+      "quote": "Life becomes one giant conditional statement: I'll be happy when.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the trap of conditional happiness tied to achievements.",
+      "suggested_hook": "Are you postponing happiness for success?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Measure success by hourly rate instead of total income.",
+      "context": "To gain more personal time while maintaining income levels.",
+      "timestamp": "16:12"
+    },
+    {
+      "tactic": "Recalibrate ambition to focus on sustainable success.",
+      "context": "To prevent burnout and achieve long-term fulfillment.",
+      "timestamp": "08:04"
+    }
+  ],
+  "quotable_insights": [
+    "Your superpower of tenacity and ambition will inevitably become your kryptonite.",
+    "When you no longer need your business to prove you're valuable, something incredible happens."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for real estate recruiters to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the dangers of relying on the need to prove oneself as a fuel for success, offering strategies for achieving sustainable, fulfillment-driven success. He emphasizes the importance of recalibrating ambition to prevent burnout and achieve personal fulfillment, providing actionable tactics for balancing work and personal life.",
+  "_metadata": {
+    "source_file": "2026-06-25_item9_Paul-Salter",
+    "analyzed_at": "2026-07-27T07:38:48.607613",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
