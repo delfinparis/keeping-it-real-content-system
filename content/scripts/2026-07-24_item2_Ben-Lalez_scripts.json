@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "If someone is a lead, you communicate with them every day, even if it's just to say you don't have anything to say.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable tactic that agents can implement immediately.",
+      "suggested_hook": "Are you losing clients because you're not following up enough?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you losing clients because you're not following up enough?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing tactic on our latest episode. Picture this: you're reaching out to your database, but nobody's responding. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'If someone is a lead, you communicate with them every day, even if it's just to say you don't have anything to say.' [ON-SCREEN: Daily Communication] Most agents wait for news. Top producers stay top-of-mind. [ON-SCREEN: Stay Top-of-Mind]\",\n    \"REFRAME/APPLICATION\": \"Why wait? You can start this today. Ben closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistent communication is key. Are you following up daily? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientCommunication\",\n    \"#AgentSuccess\",\n    \"#FollowUp\",\n    \"#TopProducer\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If someone is a lead, you communicate with them every day, even if it's just to say you don't have anything to say.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "AI will solve for experience, but it won't replace the need for emotional intelligence.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the fear that AI will replace real estate agents.",
+      "suggested_hook": "Worried about AI taking over real estate? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Worried AI will replace real estate agents? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez joins us today, challenging the fear that AI will replace real estate agents. You're reaching out to your database, but nobody's responding. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'AI will solve for experience, but it won't replace the need for emotional intelligence.' [ON-SCREEN: AI solves experience, not emotion] Most agents fear AI. Top producers see it as a tool. [ON-SCREEN: Top producers use AI as a tool]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI can enhance your efficiency, but emotional intelligence is irreplaceable. You can start leveraging AI today to streamline tasks, while focusing on building genuine connections. [ON-SCREEN: Start using AI today]\",\n    \"CTA\": \"Do you see AI as a threat or a tool? Comment 'threat' or 'tool' below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI won't replace agents, but it can enhance your efficiency. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#EmotionalIntelligence\", \"#RealEstatePodcast\", \"#AIInRealEstate\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI will solve for experience, but it won't replace the need for emotional intelligence.\"\n}\n```"
+  }
+]

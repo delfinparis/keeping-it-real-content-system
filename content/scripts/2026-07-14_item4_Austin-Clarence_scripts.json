@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:47",
+      "end_timestamp": "00:07:18",
+      "quote": "Eventually, we're going to see this funnel back into mortgage rates with lower inflation readings.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the connection between global events and local mortgage rates.",
+      "suggested_hook": "How global oil prices could soon lower your mortgage rates!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"How global oil prices could soon lower your mortgage rates!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence reveals how global events impact your local mortgage rates. If you're watching the news and wondering how it affects your wallet, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Eventually, we're going to see this funnel back into mortgage rates with lower inflation readings. [ON-SCREEN: Lower Inflation = Lower Rates] As oil prices drop globally, inflation tends to decrease, which can lead to reduced mortgage rates. [ON-SCREEN: Oil Prices Impact] Most agents overlook this connection, but savvy ones use it to forecast market shifts. [ON-SCREEN: Forecast Market Shifts]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can leverage this insight to advise clients on timing their purchases. [ON-SCREEN: Advise Clients] You can do this today by staying informed on global trends.\",\n    \"CTA\": \"Are you tracking global events to predict mortgage rates — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how global oil prices could lower your mortgage rates! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#MortgageRates\",\n    \"#GlobalTrends\",\n    \"#HomeBuying\",\n    \"#MarketIntelligence\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most agents overlook this connection, but savvy ones use it to forecast market shifts.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:21:07",
+      "end_timestamp": "00:21:28",
+      "quote": "If you meet someone and ask them a few questions about what they do for work, there may be a program out there that can help them with financing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a direct tactic for agents to uncover hidden opportunities.",
+      "suggested_hook": "Unlock hidden loan opportunities with this simple question!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Unlock hidden loan opportunities with this simple question!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ever feel like you're missing out on potential deals? Austin Clarence shared a tactic that could change the game for you. You're meeting clients, asking about their needs, but missing the hidden financing opportunities. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin says, 'If you meet someone and ask them a few questions about what they do for work, there may be a program out there that can help them with financing.' [ON-SCREEN: Ask about their profession] Most agents overlook this, but top producers know it's a goldmine. [ON-SCREEN: Hidden loan programs]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can uncover loan programs tailored to specific professions today. Imagine closing more deals just by asking the right questions. [ON-SCREEN: Apply this today]\",\n    \"CTA\": \"Have you tried this approach yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover hidden loan opportunities by asking the right questions! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageAdvice\", \"#AgentSuccess\", \"#LoanPrograms\", \"#RealEstatePodcast\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents overlook this, but top producers know it's a goldmine.\"\n}\n```"
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "DJ Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Importance of maintaining client relationships",
+    "Strategies for repeat and referral business",
+    "Building and utilizing a client database",
+    "Effective communication with past clients",
+    "Avoiding common mistakes in client follow-up"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents losing clients due to lack of follow-up",
+      "solution_summary": "Implement a system to regularly engage past clients with personalized messages and value-driven communication.",
+      "timestamp": "00:02:10"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured system for client follow-up",
+      "solution_summary": "Create a centralized database and categorize clients into tiers for targeted follow-ups.",
+      "timestamp": "00:05:19"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Over-reliance on cold leads and neglecting existing clients",
+      "solution_summary": "Focus on generating business from past clients and referrals by providing consistent value.",
+      "timestamp": "00:01:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode addresses the common issue of neglecting past clients, which is prevalent among mid-level agents.",
+      "key_takeaway": "Consistent and value-driven communication with past clients can significantly boost repeat and referral business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies that can help agents elevate their business by leveraging existing relationships.",
+      "key_takeaway": "Building a system for client follow-up can transform your business and increase your repeat client rate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:46",
+      "end_timestamp": "00:05:07",
+      "quote": "Think of a past client now, someone you genuinely liked... because in a few minutes you and I are going to do something with that person.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This segment taps into the emotional connection agents have with their clients, making it relatable and engaging.",
+      "suggested_hook": "Are you missing out on business by ignoring the clients you love?"
+    },
+    {
+      "timestamp": "00:10:01",
+      "end_timestamp": "00:10:34",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the common fear agents have about bothering clients with updates.",
+      "suggested_hook": "Think your clients don't want to hear from you? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Exume, Tier, and Touch system",
+      "context": "Organize past clients into a single list, categorize them by engagement level, and regularly reach out with personalized value.",
+      "timestamp": "00:05:19"
+    },
+    {
+      "tactic": "Value-driven communication",
+      "context": "Send personalized messages that provide value, such as home value updates or neighborhood sales alerts.",
+      "timestamp": "00:08:06"
+    },
+    {
+      "tactic": "Regular A-list engagement",
+      "context": "Engage your top 20-30 clients at least four times a year with meaningful interactions.",
+      "timestamp": "00:10:10"
+    }
+  ],
+  "quotable_insights": [
+    "You didn't lose that client to a better agent; you lost them to silence.",
+    "Lead with the gift and the ask then takes care of itself.",
+    "Every past client you ignore is someone who's going to buy or sell again."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Google Sheets",
+      "context": "Recommended as a simple tool to organize client lists if a CRM is not available."
+    },
+    {
+      "type": "tool",
+      "name": "CRM",
+      "context": "Suggested for managing client relationships and follow-ups systematically."
+    }
+  ],
+  "episode_summary": "In this episode, DJ Paris emphasizes the importance of maintaining relationships with past clients to boost repeat and referral business. He introduces a structured system for client follow-up, focusing on personalized, value-driven communication. By organizing clients into tiers and engaging them regularly, agents can significantly increase their business without relying on cold leads.",
+  "_metadata": {
+    "source_file": "2026-07-13_item5_Coffee-Talks",
+    "analyzed_at": "2026-07-28T06:57:20.783312",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

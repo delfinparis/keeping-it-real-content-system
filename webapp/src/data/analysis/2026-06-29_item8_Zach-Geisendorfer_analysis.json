@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Zach Geisendorfer",
+    "title": "Sales Leader",
+    "company": "FAM Real Estate Group",
+    "production_level": "$650M+ producer",
+    "specialty": "Open House Strategy",
+    "location": "Southern California"
+  },
+  "main_topics": [
+    "Open House Strategies",
+    "Agent Recruitment and Onboarding",
+    "Offer Writing Techniques",
+    "Leveraging AI in Real Estate",
+    "Pricing Strategies for Listings"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective open houses",
+      "solution_summary": "Implement the Mega Open House Method with pre-calls to neighbors and strategic social media posting.",
+      "timestamp": "06:05"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Getting buyer offers noticed in competitive markets",
+      "solution_summary": "Write aggressive offers with 10-day close terms and have lenders call listing agents.",
+      "timestamp": "39:27"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a team too quickly without systems",
+      "solution_summary": "Focus on robust onboarding processes like the two-week boot camp to ensure new agents are productive.",
+      "timestamp": "13:34"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced strategies for increasing sales through open houses and offer techniques.",
+      "key_takeaway": "Implementing structured processes can drastically improve conversion rates and sales efficiency."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on recruiting and onboarding agents effectively to scale a team.",
+      "key_takeaway": "A well-designed onboarding process is crucial for rapid agent productivity and retention."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:19",
+      "quote": "What does a guy who made 600,000 cold calls and sold 650 million dollars in real estate know that the rest of us don't?",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Captures attention with impressive statistics and sets the stage for the episode.",
+      "suggested_hook": "Ever wonder what it takes to sell $650 million in real estate?"
+    },
+    {
+      "timestamp": "39:27",
+      "end_timestamp": "40:00",
+      "quote": "We write aggressive offers. Last year, we had almost a 90% offer acceptance rate.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic with a high success rate.",
+      "suggested_hook": "Want to know the secret to getting your offers accepted 90% of the time?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Mega Open House Method",
+      "context": "Call 50 closest neighbors and post actively on social media before, during, and after the open house.",
+      "timestamp": "06:05"
+    },
+    {
+      "tactic": "10-Day Close Offers",
+      "context": "Work with lenders to offer a 10-day close to make offers more attractive.",
+      "timestamp": "39:27"
+    },
+    {
+      "tactic": "Use AI for Neighborhood Insights",
+      "context": "Leverage AI to gather detailed information about a property and its neighborhood before an open house.",
+      "timestamp": "37:38"
+    }
+  ],
+  "quotable_insights": [
+    "The work works. Success isn't about shortcuts or hype. It's about showing up every day holding the standard.",
+    "If you feel confident in your end product, you'll sell it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for recruiting and retention by identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Zach Geisendorfer shares his proven strategies for hosting successful open houses and writing offers that stand out in competitive markets. He discusses the importance of robust onboarding systems for agent productivity and how leveraging AI can enhance real estate operations. Listeners will gain actionable insights into improving their sales processes and scaling their teams effectively.",
+  "_metadata": {
+    "source_file": "2026-06-29_item8_Zach-Geisendorfer",
+    "analyzed_at": "2026-07-28T06:55:24.727229",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

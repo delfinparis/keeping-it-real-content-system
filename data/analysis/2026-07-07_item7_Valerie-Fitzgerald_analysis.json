@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Valerie Fitzgerald",
+    "title": "Luxury Real Estate Agent, Entrepreneur, Author, Television Personality",
+    "company": "Valerie Fitzgerald Group, Coldwell Banker",
+    "production_level": "Ranked among Coldwell Banker's top 10 agents nationwide",
+    "specialty": "Luxury real estate",
+    "location": "Los Angeles, CA"
+  },
+  "main_topics": [
+    "Building a luxury real estate business from scratch",
+    "Overcoming fear and embracing challenges",
+    "The role of AI in modern real estate",
+    "Importance of personal branding and content creation",
+    "Navigating the luxury real estate market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into the luxury real estate market without contacts",
+      "solution_summary": "Leverage open houses, build relationships, and create a strong personal brand.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming fear and self-doubt",
+      "solution_summary": "Embrace blind faith and courage; take action despite fear.",
+      "timestamp": "09:30"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Creating relevant content for social media",
+      "solution_summary": "Focus on providing value and answering common questions rather than self-promotion.",
+      "timestamp": "29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Valerie's journey from nothing to top producer is inspirational and provides a roadmap for success.",
+      "key_takeaway": "Embrace challenges and take bold steps to create opportunities."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start from scratch and build a successful business.",
+      "key_takeaway": "Leverage open houses and build a network through persistence and creativity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "I called them up and said, 'Hey, I'm going to be in New York next week,' which I wasn't, and I got the appointment.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a bold tactic to secure high-level meetings.",
+      "suggested_hook": "How to land meetings with top developers even if you're starting from scratch."
+    },
+    {
+      "timestamp": "09:30",
+      "end_timestamp": "10:30",
+      "quote": "Blind faith and a little fear is okay; both have driven me to guide every meaningful decision I've ever made.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages embracing fear as a motivator rather than a barrier.",
+      "suggested_hook": "Why fear can be your greatest ally in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Beg for open house opportunities in high-value neighborhoods.",
+      "context": "Use open houses to meet potential clients and build a network.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Use AI to generate content ideas and improve online presence.",
+      "context": "Leverage AI to create relevant social media content and optimize your website.",
+      "timestamp": "37:00"
+    }
+  ],
+  "quotable_insights": [
+    "Growth happens when you step out of your comfort zone.",
+    "Courage is not the absence of fear, but the willingness to act despite it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Heart and Sold",
+      "context": "Valerie's book on her real estate journey and insights."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI tool for recruiting and retention in real estate."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for real estate agents to generate more business."
+    }
+  ],
+  "episode_summary": "Valerie Fitzgerald shares her inspiring journey from a struggling single mother to a top luxury real estate agent. She emphasizes the importance of embracing fear, leveraging open houses, and using AI to enhance personal branding. Valerie's story is a testament to the power of persistence and innovation in building a successful real estate career.",
+  "_metadata": {
+    "source_file": "2026-07-07_item7_Valerie-Fitzgerald",
+    "analyzed_at": "2026-07-28T06:55:59.266308",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

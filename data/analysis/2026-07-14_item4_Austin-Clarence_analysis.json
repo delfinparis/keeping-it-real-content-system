@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexah Mortgage",
+    "production_level": "Top performing",
+    "specialty": "Investor financing and complex financial scenarios",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Impact of global events on mortgage rates",
+    "Specialty loan programs for specific professions",
+    "Current trends in home values and market conditions",
+    "Federal Reserve's influence on lending rates",
+    "Opportunities for self-employed individuals in obtaining loans"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of global oil prices on mortgage rates",
+      "solution_summary": "A recent drop in oil prices is expected to eventually lead to lower mortgage rates, offering relief to buyers.",
+      "timestamp": "00:00:10"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Challenges for self-employed individuals in securing loans",
+      "solution_summary": "New FHA loan programs allow self-employed individuals to qualify without traditional tax return documentation.",
+      "timestamp": "00:31:08"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of awareness about niche loan programs among buyers",
+      "solution_summary": "Agents should inquire about buyers' professions to identify eligibility for specialized loan programs.",
+      "timestamp": "00:20:34"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging niche loan products to attract more clients.",
+      "key_takeaway": "Understanding and promoting specialty loan programs can differentiate you in a competitive market."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to overcome common objections related to high mortgage rates.",
+      "key_takeaway": "Focus on monthly payments rather than rates to help clients see the value in current market conditions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:47",
+      "end_timestamp": "00:07:18",
+      "quote": "Eventually, we're going to see this funnel back into mortgage rates with lower inflation readings.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the connection between global events and local mortgage rates.",
+      "suggested_hook": "How global oil prices could soon lower your mortgage rates!"
+    },
+    {
+      "timestamp": "00:21:07",
+      "end_timestamp": "00:21:28",
+      "quote": "If you meet someone and ask them a few questions about what they do for work, there may be a program out there that can help them with financing.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a direct tactic for agents to uncover hidden opportunities.",
+      "suggested_hook": "Unlock hidden loan opportunities with this simple question!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Inquire about buyers' professions to identify eligibility for niche loan programs.",
+      "context": "During open houses or initial consultations.",
+      "timestamp": "00:20:34"
+    },
+    {
+      "tactic": "Focus discussions on monthly payments rather than interest rates.",
+      "context": "When addressing client concerns about high rates.",
+      "timestamp": "00:17:19"
+    }
+  ],
+  "quotable_insights": [
+    "Inflation and mortgage rates don't exist in a vacuum.",
+    "There's literally never been more options to choose from than today's mortgage market."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to convert leads into buyers."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "This episode explores the impact of global oil prices on mortgage rates and highlights niche loan programs for specific professions. Austin Clarence shares insights on how agents can leverage these opportunities to attract more clients and navigate current market conditions. The discussion also covers strategies for self-employed individuals to secure loans without traditional documentation.",
+  "_metadata": {
+    "source_file": "2026-07-14_item4_Austin-Clarence",
+    "analyzed_at": "2026-07-28T06:58:04.227179",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

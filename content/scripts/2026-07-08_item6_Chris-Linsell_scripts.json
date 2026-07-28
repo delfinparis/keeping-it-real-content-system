@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00",
+      "end_timestamp": "00:12",
+      "quote": "Zillow is melting ice cubes and in five years, it won't be selling ads to agents anymore.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional view of Zillow's business model.",
+      "suggested_hook": "Is Zillow's current business model doomed?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is Zillow's current business model doomed?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell just dropped a bombshell on our podcast. He believes Zillow's ad model is like melting ice cubes. If you're relying on Zillow leads, this could be a wake-up call.\",\n    \"INSIGHT\": \"Chris says, 'In five years, Zillow won't be selling ads to agents anymore.' [ON-SCREEN: Zillow's ad model is melting] Most agents depend on Zillow for leads, but what if that's not sustainable? [ON-SCREEN: Shift your strategy now] Top producers are already diversifying their lead sources.\",\n    \"REFRAME/APPLICATION\": \"This matters because the market is shifting fast. You can start exploring alternative lead sources today. Chris closed 47 deals last year by thinking ahead.\",\n    \"CTA\": \"Are you diversifying your lead sources — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is Zillow's ad model melting away? Here's what you need to know. #RealEstate\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#Zillow\", \"#AgentTips\", \"#LeadGeneration\", \"#FutureOfRealEstate\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"In five years, Zillow won't be selling ads to agents anymore.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "43:00",
+      "end_timestamp": "43:30",
+      "quote": "AI is not generating a novel idea; it's just incredibly resourceful.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Reframes the understanding of AI's capabilities.",
+      "suggested_hook": "What AI can and can't do in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"AI isn't creating; it's just resourceful. Here's why it matters.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell recently shared a game-changing insight on our podcast. If you're like most agents, you're wondering how AI could replace you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris said, 'AI is not generating a novel idea; it's just incredibly resourceful.' [ON-SCREEN: AI is resourceful, not original] Most agents fear AI will take over. Top producers see it as a tool. [ON-SCREEN: Top producers use AI as a tool]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI can streamline your tasks, freeing you to focus on client relationships. You can start using AI tools today to enhance your workflow. [ON-SCREEN: Use AI to enhance, not replace]\",\n    \"CTA\": \"Are you using AI in your business yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI isn't replacing agents, it's empowering them. Are you leveraging it yet? #RealEstateAI\",\n  \"HASHTAGS\": [\n    \"#RealEstateAI\",\n    \"#AgentTips\",\n    \"#AIinRealEstate\",\n    \"#RealEstatePodcast\",\n    \"#TopProducer\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI is not generating a novel idea; it's just incredibly resourceful.\"\n}\n```"
+  }
+]

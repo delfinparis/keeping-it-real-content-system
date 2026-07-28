@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:46",
+      "end_timestamp": "00:05:07",
+      "quote": "Think of a past client now, someone you genuinely liked... because in a few minutes you and I are going to do something with that person.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This segment taps into the emotional connection agents have with their clients, making it relatable and engaging.",
+      "suggested_hook": "Are you missing out on business by ignoring the clients you love?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you missing out on business by ignoring the clients you love?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Think of a past client now, someone you genuinely liked. You're reaching out to your database but nobody's responding. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Most agents forget about past clients after closing. Top producers keep those relationships alive. [ON-SCREEN: Emotional Connection] They reach out with genuine care, not just for business. [ON-SCREEN: Stay Connected] Remember, it's not just about transactions, it's about connections. [ON-SCREEN: Build Relationships]\",\n    \"REFRAME/APPLICATION\": \"This matters because those connections lead to repeat and referral business. You can do this today by sending a simple, heartfelt message to a past client. [ON-SCREEN: Action Step] This approach helped one agent close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you missing out on business by ignoring the clients you love? 🤔\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRelationships\",\n    \"#ReferralBusiness\",\n    \"#RealEstateAgent\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Remember, it's not just about transactions, it's about connections.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:10:01",
+      "end_timestamp": "00:10:34",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the common fear agents have about bothering clients with updates.",
+      "suggested_hook": "Think your clients don't want to hear from you? Think again!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think your clients don't want to hear from you? Think again!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database but nobody's responding. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth. [ON-SCREEN: Clients want to know their home's value] Most agents fear bothering clients, but top producers know consistent updates build trust. [ON-SCREEN: Consistent updates = Trust] Imagine sending a quick market analysis to your past clients. It's a simple touchpoint that keeps you top of mind. [ON-SCREEN: Be top of mind]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can do this today. This agent closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Think clients don't want updates? They do! Keep them informed and build trust.\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRelationships\",\n    \"#TopProducer\",\n    \"#AgentAdvice\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth.\"\n}\n```"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "I called them up and said, 'Hey, I'm going to be in New York next week,' which I wasn't, and I got the appointment.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a bold tactic to secure high-level meetings.",
+      "suggested_hook": "How to land meetings with top developers even if you're starting from scratch."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to meet top developers without leaving your city?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Valerie Fitzgerald shared a bold tactic on our podcast. You're new in luxury real estate, eager to connect with big players, but getting ignored. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Valerie said, 'I called them up and said, 'Hey, I'm going to be in New York next week,' which I wasn't, and I got the appointment.' [ON-SCREEN: Bold Tactic] Most agents wait for opportunities. Top producers create them. [ON-SCREEN: Create Opportunities]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start building your luxury network today. Use this tactic to land your next big meeting. Valerie built her empire this way.\",\n    \"CTA\": \"Would you try this tactic — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want to meet top developers without leaving your city? Here's how. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LuxuryRealEstate\", \"#Networking\", \"#AgentAdvice\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for opportunities. Top producers create them.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "09:30",
+      "end_timestamp": "10:30",
+      "quote": "Blind faith and a little fear is okay; both have driven me to guide every meaningful decision I've ever made.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages embracing fear as a motivator rather than a barrier.",
+      "suggested_hook": "Why fear can be your greatest ally in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Fear can be your greatest ally in real estate.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Valerie Fitzgerald, a top luxury real estate agent, says fear isn't your enemy. You're facing the daunting task of building a luxury real estate business from scratch, and fear is holding you back. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Valerie shares, 'Blind faith and a little fear is okay; both have driven me to guide every meaningful decision I've ever made.' [ON-SCREEN: Blind faith and fear drive decisions] Most agents let fear paralyze them. Top producers use it as a motivator. [ON-SCREEN: Use fear as a motivator]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start using fear to push you forward today. Valerie built a thriving business by embracing fear. [ON-SCREEN: Embrace fear today]\",\n    \"CTA\": \"Are you using fear to your advantage — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Fear isn't your enemy in real estate. It's your ally. Here's why.\",\n  \"HASHTAGS\": [\"#RealEstateMindset\", \"#LuxuryRealEstate\", \"#FearlessAgent\", \"#AgentTips\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Blind faith and a little fear is okay; both have driven me to guide every meaningful decision I've ever made.\"\n}\n```"
+  }
+]

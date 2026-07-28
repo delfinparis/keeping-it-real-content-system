@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:16:26",
+      "end_timestamp": "00:16:42",
+      "quote": "Making great videos is not enough. You have to win the click before you ever get the chance to win with your content.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of initial engagement over content quality.",
+      "suggested_hook": "Are your videos not getting the views they deserve?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are your videos not getting the views they deserve?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski recently shared a game-changing insight on our podcast. You're crafting amazing videos, but they're not getting the clicks. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah emphasized, 'Making great videos is not enough. You have to win the click before you ever get the chance to win with your content.' [ON-SCREEN: Win the Click First] Most agents focus on content quality. Top producers know it's about the title and thumbnail. [ON-SCREEN: Title & Thumbnail Strategy] Use AI tools for title generation and consider outsourcing thumbnail design. [ON-SCREEN: AI & Outsourcing]\",\n    \"REFRAME/APPLICATION\": \"This matters because your content deserves to be seen. You can start applying this today by tweaking your next video title and thumbnail. Sarah closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"It's not just about great content. Win the click first! 🎥✨\",\n  \"HASHTAGS\": [\"#VideoMarketing\", \"#RealEstateTips\", \"#YouTubeGrowth\", \"#ContentStrategy\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Making great videos is not enough. You have to win the click first.\"\n}\n```"
+  }
+]

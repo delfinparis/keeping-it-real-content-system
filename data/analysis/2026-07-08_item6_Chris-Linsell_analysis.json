@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": null,
+    "specialty": "AI and the future of real estate",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "Future of Zillow and real estate portals",
+    "21st Century Road to Housing Act",
+    "Role of AI in real estate",
+    "Value proposition of real estate agents",
+    "Indie brokerages vs. large brands"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Zillow's future business model and relevance",
+      "solution_summary": "Zillow may pivot to becoming a major brokerage rather than selling ads.",
+      "timestamp": "00:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Housing inventory shortage",
+      "solution_summary": "The 21st Century Road to Housing Act aims to streamline environmental reviews and limit large investors.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "AI's impact on real estate",
+      "solution_summary": "Agents need to focus on providing unique, novel insights that AI cannot replicate.",
+      "timestamp": "43:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding the future of real estate portals and AI can help them stay ahead.",
+      "key_takeaway": "Focus on providing unique insights and lifestyle consulting that AI cannot offer."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into industry shifts can help them guide their teams effectively.",
+      "key_takeaway": "Prepare for shifts in the industry by focusing on hyper-local expertise and niche markets."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00",
+      "end_timestamp": "00:12",
+      "quote": "Zillow is melting ice cubes and in five years, it won't be selling ads to agents anymore.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional view of Zillow's business model.",
+      "suggested_hook": "Is Zillow's current business model doomed?"
+    },
+    {
+      "timestamp": "43:00",
+      "end_timestamp": "43:30",
+      "quote": "AI is not generating a novel idea; it's just incredibly resourceful.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Reframes the understanding of AI's capabilities.",
+      "suggested_hook": "What AI can and can't do in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Niche down in lifestyle consulting.",
+      "context": "Focus on providing lifestyle solutions rather than just property listings.",
+      "timestamp": "49:00"
+    }
+  ],
+  "quotable_insights": [
+    "The future has never been more uncertain in real estate, but it's going to be a crazy ride.",
+    "Agents need to figure out who they are, who they want to serve, and where they want to create value."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the potential future of Zillow as a major brokerage, the impact of the 21st Century Road to Housing Act on inventory, and the evolving role of AI in real estate. He emphasizes the importance of agents providing unique, lifestyle-focused insights that AI cannot replicate, and explores the potential rise of indie brokerages in a changing market landscape.",
+  "_metadata": {
+    "source_file": "2026-07-08_item6_Chris-Linsell",
+    "analyzed_at": "2026-07-28T06:56:45.557842",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
