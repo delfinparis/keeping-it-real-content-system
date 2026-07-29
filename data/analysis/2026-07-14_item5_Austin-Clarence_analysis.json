@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexah Mortgage",
+    "production_level": "Top performing",
+    "specialty": "Investor financing, complex financial scenarios",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Impact of global oil prices on mortgage rates",
+    "Federal Reserve's influence on interest rates",
+    "Specialty mortgage programs for specific professions",
+    "VA loans and their benefits",
+    "Opportunities for self-employed individuals in securing loans"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Rising mortgage rates due to global oil price fluctuations",
+      "solution_summary": "Monitor global events as they can impact inflation and mortgage rates; potential for rate cuts if oil prices stabilize.",
+      "timestamp": "00:05:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Difficulty for self-employed individuals to secure loans",
+      "solution_summary": "New FHA program allows self-employed individuals to use a profit and loss statement instead of tax returns for loan approval.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Lack of awareness about specialty mortgage programs",
+      "solution_summary": "Educate clients on niche programs like doctor loans and VA loans that offer unique benefits.",
+      "timestamp": "00:20:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding niche mortgage products can differentiate them in the market.",
+      "key_takeaway": "Leverage specialty loan programs to attract and retain clients in specific professions."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "They can expand their client base by learning about new loan products.",
+      "key_takeaway": "Stay informed about market trends and specialty programs to offer better solutions to clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:07:00",
+      "end_timestamp": "00:07:45",
+      "quote": "Oil prices have dropped significantly, and this could lead to lower mortgage rates in the coming months.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It connects global events to local mortgage rates, offering a fresh perspective.",
+      "suggested_hook": "Did you know oil prices could affect your mortgage rate?"
+    },
+    {
+      "timestamp": "00:21:00",
+      "end_timestamp": "00:21:45",
+      "quote": "There are doctor loans with no down payment and no PMI, which are more forgiving on student loans.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific loan product that many may not be aware of.",
+      "suggested_hook": "Doctors, here's a loan program you might not know about!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Educate clients about niche loan programs based on their profession.",
+      "context": "Use open houses and consultations to identify client professions and match them with suitable loan products.",
+      "timestamp": "00:20:00"
+    },
+    {
+      "tactic": "Use a profit and loss statement for self-employed clients seeking FHA loans.",
+      "context": "Advise self-employed clients to prepare a P&L statement to simplify the loan approval process.",
+      "timestamp": "00:31:00"
+    }
+  ],
+  "quotable_insights": [
+    "Inflation is like steering a cruise ship; it takes time for changes to take effect.",
+    "The mortgage market today offers more options than ever before."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the impact of global oil prices on mortgage rates and the potential for future rate cuts. He highlights specialty mortgage programs for doctors, veterans, and self-employed individuals, offering unique benefits that many clients may not be aware of. Real estate agents can leverage this knowledge to better serve their clients and expand their business.",
+  "_metadata": {
+    "source_file": "2026-07-14_item5_Austin-Clarence",
+    "analyzed_at": "2026-07-29T07:08:13.341776",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

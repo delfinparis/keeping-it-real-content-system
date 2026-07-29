@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": null,
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "Real estate through YouTube",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of YouTube titles and thumbnails",
+    "Common mistakes in video titles",
+    "Thumbnail design strategies",
+    "Using AI tools for title generation",
+    "Outsourcing thumbnail design"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Videos not getting views despite good content",
+      "solution_summary": "Focus on creating compelling titles and thumbnails to attract clicks.",
+      "timestamp": "00:00:16"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient thumbnail creation process",
+      "solution_summary": "Conduct a dedicated thumbnail photo shoot to create a library of expressions for future use.",
+      "timestamp": "00:12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance visibility and engagement on YouTube, crucial for growing a personal brand.",
+      "key_takeaway": "Winning the click with compelling titles and thumbnails is as important as the content itself."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:30",
+      "end_timestamp": "00:05:06",
+      "quote": "A strong title creates curiosity and poses an interesting question. Even if that question is implied rather than stated, it makes the viewer feel like there is something on the other side of that click that they now need to know.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable insight into crafting effective video titles.",
+      "suggested_hook": "Want to know the secret to getting more clicks on your videos?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI tools like ChatGPT to generate multiple title options.",
+      "context": "When brainstorming video titles to ensure they are compelling and clickable.",
+      "timestamp": "00:07:02"
+    },
+    {
+      "tactic": "Utilize YouTube's A/B testing feature for titles and thumbnails.",
+      "context": "To determine which title or thumbnail performs better in attracting clicks.",
+      "timestamp": "00:07:45"
+    }
+  ],
+  "quotable_insights": [
+    "Making great videos is not enough. You have to win the click before you ever get the chance to win with your content."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for generating multiple clickable title ideas."
+    },
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used for designing thumbnails with customizable elements."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her expertise on leveraging YouTube for real estate success, emphasizing the critical role of compelling titles and thumbnails. She provides actionable strategies for creating attention-grabbing content, including the use of AI tools and outsourcing design tasks, to enhance visibility and engagement.",
+  "_metadata": {
+    "source_file": "2026-07-15_item4_Sarah-Maslowski",
+    "analyzed_at": "2026-07-29T07:08:42.421981",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

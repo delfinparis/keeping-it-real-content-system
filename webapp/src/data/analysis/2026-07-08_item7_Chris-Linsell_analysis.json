@@ -1,0 +1,92 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": null,
+    "specialty": "AI and the future of real estate",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "Future of Zillow and real estate portals",
+    "21st Century Road to Housing Act",
+    "Role of AI in real estate",
+    "Value proposition of real estate agents",
+    "Indie brokerages vs. large brands"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Zillow's future as a real estate portal",
+      "solution_summary": "Zillow may transition into one of the largest brokerages, moving away from selling ads to agents.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Housing inventory shortage",
+      "solution_summary": "The 21st Century Road to Housing Act aims to streamline environmental reviews and incentivize local zoning improvements.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "AI's impact on real estate",
+      "solution_summary": "AI will change consumer behavior, reducing reliance on portals like Zillow for property searches.",
+      "timestamp": "00:18:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding the future of real estate technology and market dynamics is crucial for growth.",
+      "key_takeaway": "Adapt to technological changes and focus on providing unique, personalized client experiences."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into industry shifts can help in strategizing team growth and recruitment.",
+      "key_takeaway": "Prepare for changes in consumer behavior and explore innovative ways to maintain a competitive edge."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:18:03",
+      "end_timestamp": "00:19:15",
+      "quote": "AI is the new Google in terms of the way they are disrupting the way that we as people are consuming answers to our questions.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the current reliance on real estate portals and highlights a shift in consumer behavior.",
+      "suggested_hook": "Is AI the new Google for real estate searches?"
+    },
+    {
+      "timestamp": "00:31:12",
+      "end_timestamp": "00:32:11",
+      "quote": "If Zillow is not a brokerage in five years, I mean my hat. I mean I think that is just inevitable for them.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Predicts a major shift in Zillow's business model, sparking interest and debate.",
+      "suggested_hook": "Could Zillow become one of the largest brokerages?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Niche down in lifestyle for real estate services.",
+      "context": "Focus on specific lifestyle needs and goals of clients to provide tailored solutions.",
+      "timestamp": "00:49:48"
+    }
+  ],
+  "quotable_insights": [
+    "Zillow is a melting ice cube; their business model will look completely different in five years.",
+    "AI is not generating a novel idea; it's just incredibly resourceful."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "corded.io",
+      "context": "Recommended as a tool for recruiting and retaining real estate agents using AI."
+    }
+  ],
+  "episode_summary": "This episode explores the future of real estate portals like Zillow, predicting a shift towards becoming a major brokerage. It discusses the 21st Century Road to Housing Act and its potential impact on housing inventory. The conversation also delves into the role of AI in changing consumer behavior and the evolving value proposition of real estate agents.",
+  "_metadata": {
+    "source_file": "2026-07-08_item7_Chris-Linsell",
+    "analyzed_at": "2026-07-29T07:06:35.478917",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

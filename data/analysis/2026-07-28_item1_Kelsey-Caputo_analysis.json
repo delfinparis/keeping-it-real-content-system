@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kelsey Caputo",
+    "title": "REALTOR and Licensed General Contractor",
+    "company": "Berkshire Hathaway Home Services",
+    "production_level": "Top 2% nationwide",
+    "specialty": "Luxury real estate in the Florida Keys",
+    "location": "Florida Keys"
+  },
+  "main_topics": [
+    "The role of AI in real estate",
+    "Luxury real estate market dynamics",
+    "Importance of local knowledge",
+    "Using AI for client objections and profiling",
+    "Building trust with high-net-worth clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI providing inaccurate property valuations",
+      "solution_summary": "Use local knowledge and expertise to provide accurate valuations and address AI's limitations.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Winning trust of high-net-worth clients remotely",
+      "solution_summary": "Build transparency and personal relationships through detailed communication and leveraging local expertise.",
+      "timestamp": "00:20:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding buyers in a luxury market",
+      "solution_summary": "Use AI to create buyer profiles and target specific markets and wealth management offices.",
+      "timestamp": "00:25:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging AI and local expertise to excel in luxury markets.",
+      "key_takeaway": "Use AI to anticipate client objections and build targeted marketing strategies."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses advanced techniques for client management and market penetration.",
+      "key_takeaway": "Integrate AI into your team's processes to enhance client interactions and market analysis."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:11:00",
+      "quote": "AI doesn't know your market. It knows market data.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the perception that AI can fully replace local expertise.",
+      "suggested_hook": "Think AI can replace your local market knowledge? Think again."
+    },
+    {
+      "timestamp": "00:20:00",
+      "end_timestamp": "00:21:00",
+      "quote": "I'd rather tell you I don't know and I'll find out, than fake it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of honesty and transparency in client relationships.",
+      "suggested_hook": "Why honesty is your best tool in luxury real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to anticipate client objections and questions.",
+      "context": "Before client meetings, input property details into AI to prepare for potential objections.",
+      "timestamp": "00:23:00"
+    },
+    {
+      "tactic": "Create buyer profiles using AI.",
+      "context": "Identify potential buyers' profiles and target marketing efforts accordingly.",
+      "timestamp": "00:25:00"
+    }
+  ],
+  "quotable_insights": [
+    "AI is not going to replace good REALTORS; it's going to replace the not as skilled agent.",
+    "Local knowledge is going to become more important in the age of AI."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for converting leads and managing client relationships."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kelsey Caputo discusses the integration of AI in real estate, particularly in the luxury market of the Florida Keys. She emphasizes the irreplaceable value of local knowledge and transparency in building trust with high-net-worth clients. Kelsey shares actionable insights on using AI to anticipate client objections and create targeted marketing strategies, making a compelling case for why AI should be seen as a tool rather than a threat.",
+  "_metadata": {
+    "source_file": "2026-07-28_item1_Kelsey-Caputo",
+    "analyzed_at": "2026-07-29T07:10:15.278770",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

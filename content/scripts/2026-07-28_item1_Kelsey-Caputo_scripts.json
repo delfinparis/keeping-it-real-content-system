@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:11:00",
+      "quote": "AI doesn't know your market. It knows market data.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the perception that AI can fully replace local expertise.",
+      "suggested_hook": "Think AI can replace your local market knowledge? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think AI can replace your local market knowledge? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo recently shared a game-changing insight on our podcast. Ever felt like AI could take over your role as a local expert? You're not alone. Many agents worry about being replaced by technology. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Kelsey said, 'AI doesn't know your market. It knows market data.' [ON-SCREEN: AI knows data, not your market] Most agents rely on AI for insights. Top producers use it to enhance their local expertise. [ON-SCREEN: Enhance, don't replace] Your unique knowledge of neighborhoods, schools, and community vibes can't be replicated by algorithms. [ON-SCREEN: Local expertise is irreplaceable]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can leverage AI to handle data, freeing you to focus on building trust and relationships. [ON-SCREEN: Build trust, not just data] You can do this today. Kelsey closed 12 luxury deals last year using this approach.\",\n    \"CTA\": \"Do you rely on AI for market insights — yes or no? Drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI knows data, but it can't replace your local expertise. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#LocalExpert\", \"#MarketKnowledge\", \"#AgentTips\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"AI doesn't know your market. It knows market data.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:20:00",
+      "end_timestamp": "00:21:00",
+      "quote": "I'd rather tell you I don't know and I'll find out, than fake it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of honesty and transparency in client relationships.",
+      "suggested_hook": "Why honesty is your best tool in luxury real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why honesty is your best tool in luxury real estate.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo shared a game-changing mindset on our latest episode. You're in a high-stakes meeting with a luxury client, and they ask a question you can't answer. Panic sets in. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Kelsey says, 'I'd rather tell you I don't know and I'll find out, than fake it.' [ON-SCREEN: Honesty Builds Trust] Most agents scramble for an answer. Top producers pause, promise to find out, and follow up. [ON-SCREEN: Transparency Wins]\",\n    \"REFRAME/APPLICATION\": \"This matters because trust is your currency in luxury real estate. You can apply this today by being upfront with your clients. Kelsey, who closed $10M last year, swears by this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Honesty isn't just the best policy, it's your best tool. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LuxuryRealEstate\", \"#AgentAdvice\", \"#Honesty\", \"#ClientTrust\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"I'd rather tell you I don't know and I'll find out, than fake it.\"\n}\n```"
+  }
+]

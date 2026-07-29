@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:01",
+      "end_timestamp": "00:10:40",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the common fear agents have about reaching out to past clients.",
+      "suggested_hook": "Are you afraid of annoying your past clients? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you afraid of annoying your past clients? Here's why you shouldn't be.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database but nobody's responding. You worry about being a nuisance. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth. [ON-SCREEN: 'Nobody has ever been annoyed...'] Most agents hesitate to reach out. Top producers know that providing value, like a home valuation, keeps clients engaged. [ON-SCREEN: 'Top producers provide value']\",\n    \"REFRAME/APPLICATION\": \"This matters because staying top-of-mind leads to repeat business. You can do this today by sending a quick home valuation to your past clients. [ON-SCREEN: 'Send a home valuation today']\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't fear reaching out to past clients. Here's why it's crucial. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRelationships\",\n    \"#TopProducerSecrets\",\n    \"#AgentAdvice\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:30",
+      "quote": "The graveyard isn’t just quiet. It’s expensive.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This metaphor vividly illustrates the cost of neglecting past clients.",
+      "suggested_hook": "Is your client database a graveyard? Here's how to bring it back to life."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your client database a graveyard?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You’ve got a list of past clients, but it feels like a ghost town. No responses, no engagement. It’s like they’ve vanished. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The graveyard isn’t just quiet. It’s expensive. Most agents let their past clients fade away. [ON-SCREEN: 'Graveyard = Lost Revenue'] Top producers? They nurture those relationships. [ON-SCREEN: 'Nurture = Repeat Business'] Reach out with value, not just a sales pitch. [ON-SCREEN: 'Value > Sales Pitch']\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by sending a simple check-in email. [ON-SCREEN: 'Start Today'] One agent closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your client database a graveyard? Here's how to bring it back to life. #RealEstate #ClientRelationships\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#ClientRelationships\",\n    \"#AgentTips\",\n    \"#BusinessGrowth\",\n    \"#RealEstateAdvice\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"The graveyard isn’t just quiet. It’s expensive.\"\n}\n```"
+  }
+]

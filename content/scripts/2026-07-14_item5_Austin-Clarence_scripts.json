@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:07:00",
+      "end_timestamp": "00:07:45",
+      "quote": "Oil prices have dropped significantly, and this could lead to lower mortgage rates in the coming months.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It connects global events to local mortgage rates, offering a fresh perspective.",
+      "suggested_hook": "Did you know oil prices could affect your mortgage rate?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know oil prices could affect your mortgage rate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just revealed a surprising link between global oil prices and your mortgage rate. If you're like most agents, you're focused on local market trends. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin explained, 'Oil prices have dropped significantly, and this could lead to lower mortgage rates in the coming months.' [ON-SCREEN: Oil prices down, mortgage rates down?] Most agents overlook this global connection, but top producers leverage it to anticipate market shifts. [ON-SCREEN: Anticipate market shifts]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start preparing your clients today for potential rate changes. This insight can position you as the go-to expert in your area. [ON-SCREEN: Be the expert]\",\n    \"CTA\": \"Are you ready to share this with your clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Oil prices and mortgage rates are more connected than you think. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#MortgageRates\",\n    \"#OilPrices\",\n    \"#MarketIntelligence\",\n    \"#RealEstatePodcast\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Oil prices have dropped significantly, and this could lead to lower mortgage rates in the coming months.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:21:00",
+      "end_timestamp": "00:21:45",
+      "quote": "There are doctor loans with no down payment and no PMI, which are more forgiving on student loans.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific loan product that many may not be aware of.",
+      "suggested_hook": "Doctors, here's a loan program you might not know about!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Doctors, here's a loan program you might not know about!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently shared a game-changer for doctors. Imagine you're swamped with student loans, eyeing a new home, but the down payment feels impossible. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"There are doctor loans with no down payment and no PMI, which are more forgiving on student loans. [ON-SCREEN: No Down Payment] [ON-SCREEN: No PMI] [ON-SCREEN: Student Loan Friendly] This isn't just a myth—it's a real opportunity many overlook.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can apply this today to secure your dream home without the usual hurdles. Austin's clients have leveraged this to move into homes they love, even with hefty student loans.\",\n    \"CTA\": \"Are you considering a doctor loan — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Doctors, discover a loan program that could change your home-buying game!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#DoctorLoans\", \"#HomeBuying\", \"#MortgageAdvice\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"There are doctor loans with no down payment and no PMI, which are more forgiving on student loans.\"\n}\n```"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:18:03",
+      "end_timestamp": "00:19:15",
+      "quote": "AI is the new Google in terms of the way they are disrupting the way that we as people are consuming answers to our questions.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the current reliance on real estate portals and highlights a shift in consumer behavior.",
+      "suggested_hook": "Is AI the new Google for real estate searches?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is AI the new Google for real estate searches?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell recently said something that might just change how you approach your business. Imagine this: you're relying on real estate portals for leads, but they're not delivering like they used to. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris Linsell points out that 'AI is the new Google in terms of the way they are disrupting the way that we as people are consuming answers to our questions.' [ON-SCREEN: AI is the new Google] Most agents are still focused on traditional portals, but top producers are leveraging AI to get ahead. [ON-SCREEN: Top producers leverage AI]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter right now? Because AI is reshaping how consumers find homes. You can start integrating AI tools into your strategy today. [ON-SCREEN: Integrate AI today] This shift could be your edge in closing more deals.\",\n    \"CTA\": \"Are you using AI in your strategy yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI is changing real estate searches. Are you keeping up? #RealEstateAI\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AIRevolution\", \"#RealEstateTips\", \"#AgentSuccess\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI is the new Google in terms of the way they are disrupting the way that we as people are consuming answers to our questions.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:31:12",
+      "end_timestamp": "00:32:11",
+      "quote": "If Zillow is not a brokerage in five years, I mean my hat. I mean I think that is just inevitable for them.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Predicts a major shift in Zillow's business model, sparking interest and debate.",
+      "suggested_hook": "Could Zillow become one of the largest brokerages?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Could Zillow become one of the largest brokerages?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell predicts a seismic shift in Zillow's business model. Imagine you're relying on Zillow for leads, and suddenly, they're your competition. That's a game-changer.\",\n    \"INSIGHT\": \"Chris says, 'If Zillow is not a brokerage in five years, I mean my hat.' [ON-SCREEN: Zillow as a brokerage?] This isn't just speculation; it's a potential reality that could redefine the industry. [ON-SCREEN: Major shift ahead] Most agents see Zillow as a tool. Top producers see it as a future competitor.\",\n    \"REFRAME/APPLICATION\": \"This matters because it could impact your business model. Start diversifying your lead sources today. [ON-SCREEN: Diversify leads now] This approach helped an agent close 47 deals last year.\",\n    \"CTA\": \"Do you think Zillow will become a brokerage — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is Zillow about to become your biggest competitor? Here's what you need to know.\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#Zillow\", \"#Brokerage\", \"#RealEstateTrends\", \"#AgentTips\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If Zillow is not a brokerage in five years, I mean my hat.\"\n}\n```"
+  }
+]
