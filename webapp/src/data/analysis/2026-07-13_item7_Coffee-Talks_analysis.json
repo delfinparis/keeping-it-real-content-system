@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "DJ Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Importance of maintaining client relationships",
+    "Strategies for repeat and referral business",
+    "Building and utilizing a client database",
+    "Effective communication with past clients",
+    "Common mistakes agents make with client follow-up"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents neglecting past clients leading to lost business",
+      "solution_summary": "Implement a system to regularly reach out to past clients with personalized messages and value-driven updates.",
+      "timestamp": "00:01:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of a structured system for client follow-up",
+      "solution_summary": "Create a centralized database and categorize clients into A, B, and C lists for targeted communication.",
+      "timestamp": "00:05:19"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Over-reliance on cold calls and purchased leads",
+      "solution_summary": "Focus on nurturing existing relationships to generate repeat and referral business.",
+      "timestamp": "00:02:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who have some experience but struggle with maintaining client relationships.",
+      "key_takeaway": "Develop a consistent system for reaching out to past clients to increase repeat and referral business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into how top agents leverage their client base for more than half of their business.",
+      "key_takeaway": "Treat past clients as ongoing relationships rather than one-time transactions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:08",
+      "end_timestamp": "00:03:20",
+      "quote": "You didn't lose that client to a better agent; you lost them to silence.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It highlights the importance of communication in client retention.",
+      "suggested_hook": "Are you losing clients to silence?"
+    },
+    {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:26",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that reaching out with value is intrusive.",
+      "suggested_hook": "Think clients hate follow-ups? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a centralized client database",
+      "context": "Gather all past client information into one place for easy access and management.",
+      "timestamp": "00:05:48"
+    },
+    {
+      "tactic": "Categorize clients into A, B, and C lists",
+      "context": "Prioritize communication based on the likelihood of referrals and repeat business.",
+      "timestamp": "00:06:50"
+    },
+    {
+      "tactic": "Send personalized value-driven messages",
+      "context": "Reach out to clients with updates on their home's value or neighborhood activity.",
+      "timestamp": "00:08:08"
+    }
+  ],
+  "quotable_insights": [
+    "You didn't lose that client to a better agent; you lost them to silence.",
+    "Nobody has ever been annoyed by their agent telling them what their house is worth."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Google Sheets",
+      "context": "Suggested as a simple tool for creating a client database."
+    }
+  ],
+  "episode_summary": "In this episode, DJ Paris emphasizes the importance of maintaining relationships with past clients to drive repeat and referral business. He outlines a systematic approach to managing client databases and provides actionable tactics for effective communication. By focusing on personalized, value-driven interactions, agents can significantly enhance their business without relying on cold calls or purchased leads.",
+  "_metadata": {
+    "source_file": "2026-07-13_item7_Coffee-Talks",
+    "analyzed_at": "2026-07-31T07:17:55.653805",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

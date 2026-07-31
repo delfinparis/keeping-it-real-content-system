@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:25:00",
+      "quote": "Doctors can now get loans without a down payment and no PMI, even with student loans.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific, actionable loan product that can attract a niche market.",
+      "suggested_hook": "Did you know doctors can buy homes with zero down payment?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know doctors can buy homes with zero down payment?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changer for doctors burdened by student loans. Imagine being a doctor, ready to buy a home, but worried about down payments and PMI. Sound familiar?\",\n    \"INSIGHT\": \"Here's the scoop: Doctors can now secure loans with no down payment and no PMI, even if they're juggling hefty student loans. [ON-SCREEN: Zero Down Payment] [ON-SCREEN: No PMI] This isn't just theory—it's a real opportunity to tap into a niche market. Most agents overlook this, but top producers leverage it to attract high-earning clients.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start marketing this today to doctors in your network. Imagine closing more deals by offering them a solution they didn't know existed. [ON-SCREEN: Market to Doctors Today]\",\n    \"CTA\": \"Are you ready to market this to doctors—yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Doctors can buy homes with zero down payment and no PMI! Are you leveraging this?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#DoctorLoans\", \"#ZeroDown\", \"#MortgageAdvice\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Doctors can now secure loans with no down payment and no PMI, even with student loans.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:28:00",
+      "end_timestamp": "00:29:00",
+      "quote": "VA loans offer zero down payment and no PMI, making them the easiest loans to qualify for.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals the underutilized benefits of VA loans for veterans.",
+      "suggested_hook": "Veterans, here's why a VA loan might be your best option!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Veterans, zero down payment and no PMI? Here's your best loan option!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence just revealed a game-changer for veterans. If you're a veteran struggling to find the right mortgage, feeling overwhelmed by options, this is for you.\",\n    \"INSIGHT\": \"VA loans offer zero down payment and no PMI, making them the easiest loans to qualify for. [ON-SCREEN: Zero Down Payment] [ON-SCREEN: No PMI] Most people overlook this, but it's a huge advantage for veterans. [ON-SCREEN: Easiest to Qualify]\",\n    \"REFRAME/APPLICATION\": \"In today's market, this could be your ticket to homeownership. You can explore this option today and potentially save thousands. [ON-SCREEN: Save Thousands]\",\n    \"CTA\": \"Are you considering a VA loan — yes or no? Drop your answer below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Veterans, discover why a VA loan might be your best option! 🎖️🏡\",\n  \"HASHTAGS\": [\"#VALoan\", \"#VeteransBenefits\", \"#RealEstateTips\", \"#HomeBuying\", \"#MortgageAdvice\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"VA loans offer zero down payment and no PMI, making them the easiest loans to qualify for.\"\n}\n```"
+  }
+]

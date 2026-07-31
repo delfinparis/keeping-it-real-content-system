@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:08",
+      "end_timestamp": "00:03:20",
+      "quote": "You didn't lose that client to a better agent; you lost them to silence.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It highlights the importance of communication in client retention.",
+      "suggested_hook": "Are you losing clients to silence?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you losing clients to silence?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database, but nobody's responding. It's frustrating, right? You might think you lost that client to a better agent, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"You didn't lose that client to a better agent; you lost them to silence. [ON-SCREEN: Lost to Silence] Most agents assume clients will reach out when they're ready. Top producers know consistent communication is key. [ON-SCREEN: Consistent Communication] They send personalized updates, check-ins, and value-driven content. [ON-SCREEN: Value-Driven Content]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start this today. [ON-SCREEN: Start Today] This approach helped one agent close 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you losing clients to silence? Here's how to keep them engaged. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRetention\", \"#AgentAdvice\", \"#Communication\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You didn't lose that client to a better agent; you lost them to silence.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:26",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that reaching out with value is intrusive.",
+      "suggested_hook": "Think clients hate follow-ups? Think again."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Think clients hate follow-ups? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database, but nobody's responding. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth. [ON-SCREEN: Clients appreciate value] Most agents hesitate to reach out. Top producers know that providing value, like a home valuation, is welcomed. [ON-SCREEN: Top producers provide value]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Send a quick home valuation to your clients. This agent closed 47 deals last year using exactly this approach. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Think follow-ups are annoying? Clients love knowing their home's worth. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#ClientRelationships\",\n    \"#AgentTips\",\n    \"#HomeValuation\",\n    \"#TopProducers\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth.\"\n}\n```"
+  }
+]

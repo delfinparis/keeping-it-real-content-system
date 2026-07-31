@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube marketing for real estate",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of YouTube titles and thumbnails",
+    "Common mistakes in video marketing",
+    "Using AI tools for title generation",
+    "Thumbnail design strategies",
+    "Outsourcing video production tasks"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Videos not getting views despite high-quality content",
+      "solution_summary": "Focus on creating compelling titles and thumbnails to attract clicks.",
+      "timestamp": "00:03:28"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic and boring video titles",
+      "solution_summary": "Create curiosity-driven titles that pose questions or imply intrigue.",
+      "timestamp": "00:04:54"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient thumbnail creation process",
+      "solution_summary": "Conduct a dedicated thumbnail photo shoot to create a library of expressions.",
+      "timestamp": "00:12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance video marketing efforts, crucial for agents looking to scale.",
+      "key_takeaway": "Winning the click with effective titles and thumbnails is as important as the content itself."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:45",
+      "end_timestamp": "00:05:06",
+      "quote": "A title has exactly one job... to make someone curious enough to click.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the critical role of titles in video marketing.",
+      "suggested_hook": "Are your video titles doing their job?"
+    },
+    {
+      "timestamp": "00:09:03",
+      "end_timestamp": "00:09:18",
+      "quote": "You have to win the thumbnail game before you ever get the chance to win with your content.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional focus solely on content quality.",
+      "suggested_hook": "Why your thumbnails might be more important than your content."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI tools like ChatGPT for generating title ideas.",
+      "context": "When struggling to create engaging video titles.",
+      "timestamp": "00:07:02"
+    },
+    {
+      "tactic": "Conduct a dedicated thumbnail photo shoot.",
+      "context": "To streamline the process of creating consistent and engaging thumbnails.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "tactic": "Outsource thumbnail design to specialists.",
+      "context": "When lacking in-house design skills.",
+      "timestamp": "00:14:12"
+    }
+  ],
+  "quotable_insights": [
+    "Making great videos is not enough. You have to win the click before you ever get the chance to win with your content.",
+    "Titles and thumbnails are not an afterthought. They are half of the job."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for generating creative title ideas."
+    },
+    {
+      "type": "tool",
+      "name": "YouTube's A/B testing feature",
+      "context": "Used for testing different titles and thumbnails to see which performs better."
+    },
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Suggested for designing thumbnails with customizable features."
+    },
+    {
+      "type": "tool",
+      "name": "Fiverr",
+      "context": "Recommended for finding affordable thumbnail designers."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her insights on the importance of YouTube titles and thumbnails in real estate marketing. She emphasizes the need for curiosity-driven titles and engaging thumbnails to attract clicks. Sarah also discusses the use of AI tools for title generation and the benefits of outsourcing thumbnail design to specialists.",
+  "_metadata": {
+    "source_file": "2026-07-15_item5_Sarah-Maslowski",
+    "analyzed_at": "2026-07-31T07:19:09.140231",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

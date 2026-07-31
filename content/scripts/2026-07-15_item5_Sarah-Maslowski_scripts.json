@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:45",
+      "end_timestamp": "00:05:06",
+      "quote": "A title has exactly one job... to make someone curious enough to click.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the critical role of titles in video marketing.",
+      "suggested_hook": "Are your video titles doing their job?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are your video titles doing their job?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changing insight on our latest episode. You're crafting videos, but your views are stagnant. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"A title has exactly one job... to make someone curious enough to click. [ON-SCREEN: 'A title's job: Curiosity'] Most agents write generic titles. Top producers use AI tools to craft compelling ones. [ON-SCREEN: 'AI tools for titles']\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start using AI tools today to boost your video engagement. Sarah's clients saw a 30% increase in clicks using this approach. [ON-SCREEN: '30% more clicks']\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock the power of your video titles with AI tools! Are you ready to boost engagement?\",\n  \"HASHTAGS\": [\"#VideoMarketing\", \"#RealEstateTips\", \"#YouTubeGrowth\", \"#AItools\", \"#ContentStrategy\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"A title has exactly one job... to make someone curious enough to click.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:03",
+      "end_timestamp": "00:09:18",
+      "quote": "You have to win the thumbnail game before you ever get the chance to win with your content.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional focus solely on content quality.",
+      "suggested_hook": "Why your thumbnails might be more important than your content."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why your thumbnails might be more important than your content.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski recently shared a game-changing insight on our podcast. If you're pouring hours into crafting perfect videos but still not getting views, this might be why. Most agents think content is king, but there's a hidden key...\",\n    \"INSIGHT\": \"Sarah said, 'You have to win the thumbnail game before you ever get the chance to win with your content.' [ON-SCREEN: Win the Thumbnail Game] Most agents focus on content quality. Top producers know thumbnails are the first impression. [ON-SCREEN: First Impression Matters] Use AI tools for catchy titles and outsource thumbnail design. [ON-SCREEN: Use AI & Outsource]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by testing different thumbnails on your next video. Sarah closed 47 deals last year using this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you focusing on thumbnails yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Thumbnails could be the key to your video success. Are you prioritizing them?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#VideoMarketing\", \"#YouTubeGrowth\", \"#AgentAdvice\", \"#ContentStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You have to win the thumbnail game before you ever get the chance to win with your content.\"\n}\n```"
+  }
+]
