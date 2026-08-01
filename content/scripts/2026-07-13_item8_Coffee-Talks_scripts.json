@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:26",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the fear agents have about reaching out to past clients.",
+      "suggested_hook": "Are you afraid of annoying your past clients? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you afraid of annoying your past clients?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database but nobody's responding. It's frustrating, right? You worry about being a nuisance, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth. [ON-SCREEN: 'Nobody has ever been annoyed...'] Most agents hesitate, but top producers know this is gold. [ON-SCREEN: 'Top producers know this is gold.']\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Send a quick home value update to your past clients. [ON-SCREEN: 'Start today.'] This agent closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop fearing client follow-ups! Here's why your clients will thank you. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRelationships\",\n    \"#AgentAdvice\",\n    \"#TopProducer\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:17",
+      "end_timestamp": "00:14:27",
+      "quote": "Don't rebuild your newsletter. Do this A-list thing and this week send five of them one personal message about their own home.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable step that agents can implement immediately.",
+      "suggested_hook": "Forget newsletters! Here's a simple tactic that actually works."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Forget newsletters! Here's a simple tactic that actually works.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database but nobody's responding. It's frustrating, right? You're spending hours crafting newsletters, yet your clients aren't engaging. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Don't rebuild your newsletter. Do this A-list thing: send five of them one personal message about their own home. [ON-SCREEN: Personal Message Strategy] Most agents blast emails. Top producers make it personal. [ON-SCREEN: Top Producers = Personal Touch]\",\n    \"REFRAME/APPLICATION\": \"This matters because personal connection trumps mass communication. You can do this today and see immediate engagement. [ON-SCREEN: Immediate Engagement] This agent closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop wasting time on newsletters. Try this personal touch instead! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientEngagement\", \"#TopProducerSecrets\", \"#AgentAdvice\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents blast emails. Top producers make it personal.\"\n}\n```"
+  }
+]

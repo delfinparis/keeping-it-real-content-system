@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "If someone is a lead, you communicate with them every day, even if it's just to say you don't have anything to say.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable tactic for improving client retention.",
+      "suggested_hook": "Want to close more deals? Here's the simplest tactic you might be ignoring."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to close more deals? Here's the simplest tactic you might be ignoring.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing tip on consistent client communication. You're reaching out to your database, but nobody's responding. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"If someone is a lead, you communicate with them every day, even if it's just to say you don't have anything to say. [ON-SCREEN: Communicate daily, even with no news] Most agents wait for updates. Top producers keep the conversation alive. [ON-SCREEN: Top producers keep talking]\",\n    \"REFRAME/APPLICATION\": \"This matters now because consistent touchpoints build trust. You can start this today and see results. Ben Lalez closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistent communication is key. Are you reaching out daily? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientCommunication\", \"#TopProducerSecrets\", \"#AgentSuccess\", \"#RealEstateAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If someone is a lead, you communicate with them every day, even if it's just to say you don't have anything to say.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:30",
+      "end_timestamp": "19:15",
+      "quote": "AI will solve for experience, but it won't replace the emotional intelligence and personal touch that agents provide.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the fear that AI will replace real estate agents.",
+      "suggested_hook": "Worried about AI taking over real estate? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Worried AI will replace real estate agents? Here's why you shouldn't be.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared this on our podcast. Many agents fear AI will take over their roles. You're reaching out to your database, but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"AI will solve for experience, but it won't replace the emotional intelligence and personal touch that agents provide. [ON-SCREEN: AI solves experience, not emotion] Most agents fear AI. Top producers leverage it to enhance their client relationships. [ON-SCREEN: Leverage AI, enhance relationships]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Use AI to streamline tasks, but focus on personal connections. You can start today by integrating AI for efficiency, while doubling down on your personal touch. [ON-SCREEN: Start today: AI + Personal Touch]\",\n    \"CTA\": \"Do you think AI will replace agents — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI won't replace agents—it's all about the personal touch. #RealEstate #AI\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AI\",\n    \"#AgentTips\",\n    \"#EmotionalIntelligence\",\n    \"#ClientRelationships\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI will solve for experience, but it won't replace the emotional intelligence and personal touch that agents provide.\"\n}\n```"
+  }
+]

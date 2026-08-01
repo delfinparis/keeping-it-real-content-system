@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Vija Williams",
+    "title": "Chief Growth Officer",
+    "company": "Realty.com",
+    "production_level": null,
+    "specialty": "Real estate team leader, trainer, coach, speaker",
+    "location": "Seattle, Washington and Puget Sound market"
+  },
+  "main_topics": [
+    "Consumer behavior changes in real estate",
+    "The role of real estate agents in a post-AI world",
+    "Generating and converting cash offer leads",
+    "The importance of multiple sales strategies",
+    "Adapting to new real estate market dynamics"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Getting to sellers before they contact an agent",
+      "solution_summary": "Use cash offer leads to reach potential sellers before they contact a real estate agent.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting high-intent leads effectively",
+      "solution_summary": "Train agents to handle cash offer leads differently to convert them into listings.",
+      "timestamp": "00:09:01"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in consumer behavior",
+      "solution_summary": "Agents need to become consultants and problem solvers, offering multiple solutions to clients.",
+      "timestamp": "00:16:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how to leverage new lead sources and adapt to changing market conditions.",
+      "key_takeaway": "Embrace multiple sales strategies and become a problem solver to succeed in the evolving real estate market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses how to integrate new lead sources into a team's strategy.",
+      "key_takeaway": "Incorporate cash offer leads to create a new revenue stream and train your team to handle these leads effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:16:01",
+      "end_timestamp": "00:17:39",
+      "quote": "We started off as the first phone call. We are now the last opinion.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the shift in the real estate agent's role due to changing consumer behavior.",
+      "suggested_hook": "Are real estate agents becoming the last opinion instead of the first call?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use cash offer leads to reach potential sellers early.",
+      "context": "Apply this tactic to get in front of sellers before they contact a real estate agent.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "tactic": "Train agents to handle cash offer leads differently.",
+      "context": "Implement training to convert high-intent leads into listings.",
+      "timestamp": "00:09:01"
+    }
+  ],
+  "quotable_insights": [
+    "The new modern agent needs four to five arrows in their quiver."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Realty.com",
+      "context": "Used for generating cash offer leads to reach potential sellers early."
+    }
+  ],
+  "episode_summary": "In this episode, Vija Williams discusses the changing role of real estate agents in a post-AI world, emphasizing the importance of reaching sellers before they contact an agent. She highlights the use of cash offer leads as a strategy for agents to adapt to new consumer behaviors and offers insights into training agents to handle these leads effectively.",
+  "_metadata": {
+    "source_file": "2026-07-31_item1_Vija-Williams",
+    "analyzed_at": "2026-08-01T06:46:45.108171",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:03",
+      "end_timestamp": "00:04:12",
+      "quote": "Zillow is melting ice cubes and that in five years, it won't be selling ads to agents anymore.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional view of Zillow's business model.",
+      "suggested_hook": "Is Zillow's current business model doomed?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"hook\": \"Is Zillow's current business model doomed?\",\n    \"brand_intro\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"setup\": \"Chris Linsell says Zillow is like melting ice cubes. Imagine relying on ads that might vanish in five years. Sound familiar? You're investing time and money, but are you building on shaky ground?\",\n    \"insight\": \"Chris predicts, 'In five years, Zillow won't be selling ads to agents anymore.' [ON-SCREEN: Zillow's business model shift] Most agents depend on Zillow leads. But what if those leads dry up? [ON-SCREEN: Prepare for change] It's time to rethink your strategy. [ON-SCREEN: Diversify your lead sources]\",\n    \"reframe_application\": \"This matters now more than ever. Start diversifying your lead sources today. [ON-SCREEN: Actionable steps] Chris's insights could save you from future panic. [ON-SCREEN: Future-proof your business]\",\n    \"cta\": \"Do you rely on Zillow leads — yes or no? Comment below.\",\n    \"close\": \"See you next time.\"\n  },\n  \"caption\": \"Is Zillow's business model melting away? Here's what you need to know.\",\n  \"hashtags\": [\"#RealEstateInsights\", \"#Zillow\", \"#AgentTips\", \"#FutureProof\", \"#RealTalk\"],\n  \"content_pillar\": \"market_intelligence\",\n  \"shareable_moment\": \"Chris predicts, 'In five years, Zillow won't be selling ads to agents anymore.'\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:50:03",
+      "end_timestamp": "00:50:18",
+      "quote": "Agents who are going to absolutely be the accelerant in the market are going to niche down in a new way.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for agents to differentiate themselves.",
+      "suggested_hook": "Want to stand out as a real estate agent? Here's how."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to stand out as a real estate agent? Here's how.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell shared a game-changing strategy on our podcast. If you're struggling to get noticed in a crowded market, this is for you. You're trying everything, but nothing sticks. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Agents who are going to absolutely be the accelerant in the market are going to niche down in a new way. [ON-SCREEN: Niche Down to Stand Out] Most agents try to be everything to everyone. Top producers focus on a specific niche, like first-time buyers or luxury condos. [ON-SCREEN: Specific Niche = More Clients]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because the market is shifting and you need to adapt. You can start today by identifying your niche and tailoring your marketing. [ON-SCREEN: Start Today: Identify Your Niche]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stand out in real estate by niching down. Are you ready to accelerate? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#NicheMarketing\", \"#TopProducer\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Agents who are going to absolutely be the accelerant in the market are going to niche down in a new way.\"\n}\n```"
+  }
+]

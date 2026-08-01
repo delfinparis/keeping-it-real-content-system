@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:45",
+      "end_timestamp": "00:05:04",
+      "quote": "A strong title creates curiosity and poses an interesting question.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of crafting engaging titles.",
+      "suggested_hook": "Are your video titles making people curious enough to click?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are your video titles making people curious enough to click?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski highlights a common struggle: crafting engaging YouTube titles. You're posting videos, but views are low. It's frustrating when your hard work doesn't get noticed. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"A strong title creates curiosity and poses an interesting question. Sarah says, 'Most agents use generic titles. Top producers craft titles that spark curiosity.' [ON-SCREEN: Create Curiosity] Use AI tools to generate ideas and outsource thumbnail design for a professional look. [ON-SCREEN: AI Tools & Outsourcing]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Engaging titles can boost your views this week. You can do this today. Sarah's approach helped her increase her channel's engagement by 30%. [ON-SCREEN: 30% Engagement Boost]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Craft titles that spark curiosity and boost your video views! 📈\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeGrowth\", \"#VideoMarketing\", \"#AgentAdvice\", \"#ContentStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents use generic titles. Top producers craft titles that spark curiosity.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:16:26",
+      "end_timestamp": "00:16:33",
+      "quote": "Making great videos is not enough. You have to win the click before you ever get the chance to win with your content.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the notion that content quality alone drives success.",
+      "suggested_hook": "Think your content is enough? Think again!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Think your content is enough? Think again!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski just dropped a bombshell on our podcast. You're crafting amazing videos, but they're not getting clicks. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah says, 'Making great videos is not enough. You have to win the click before you ever get the chance to win with your content.' [ON-SCREEN: Win the Click First] Most agents focus solely on content quality. Top producers know the secret lies in compelling titles and thumbnails. [ON-SCREEN: Compelling Titles & Thumbnails]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start applying this today. Use AI tools for title generation and consider outsourcing your thumbnail design. Sarah's approach helped her close 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Great content isn't enough. Win the click first! #RealEstateTips #YouTubeSuccess\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeSuccess\", \"#ContentStrategy\", \"#AgentAdvice\", \"#VideoMarketing\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Making great videos is not enough. You have to win the click first.\"\n}\n```"
+  }
+]

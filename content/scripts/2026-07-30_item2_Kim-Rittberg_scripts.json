@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:05",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing... It got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the unexpected power of personal content in boosting engagement.",
+      "suggested_hook": "Want to boost your social media engagement? Here's a surprising trick!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to boost your social media engagement? Here's a surprising trick!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg shared a story that might sound familiar. You're posting real estate content, but it's not getting the traction you hoped for. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"One of Kim's clients posted a photo of himself skiing, and it got five times the engagement of his real estate posts. [ON-SCREEN: 5x Engagement] Personal content can create a stronger connection with your audience. [ON-SCREEN: Personal Connection]\",\n    \"REFRAME/APPLICATION\": \"This matters because personal content builds trust and relatability. You can try this today—share a personal hobby or story. Kim's client saw massive engagement using this approach. [ON-SCREEN: Try It Today]\",\n    \"CTA\": \"Have you tried sharing personal content yet—yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Boost engagement with personal content! 🏂 #RealEstateTips #SocialMediaStrategy\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#SocialMediaStrategy\",\n    \"#EngagementBoost\",\n    \"#PersonalBranding\",\n    \"#AgentSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Personal content can create a stronger connection with your audience.\"\n}\n```"
+  }
+]
