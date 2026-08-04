@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:50",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It challenges the fear agents have about reaching out to past clients.",
+      "suggested_hook": "Are you afraid of annoying your past clients? Think again!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you afraid of annoying your past clients? Think again!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database but nobody's responding. It's frustrating, right? You worry about being a nuisance, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth. [ON-SCREEN: 'Nobody annoyed by home value update'] Most agents hesitate to reach out. Top producers know the value of consistent follow-up. [ON-SCREEN: 'Top producers follow up consistently']\",\n    \"REFRAME/APPLICATION\": \"This matters because staying top-of-mind leads to repeat business. You can do this today by sending a quick market update to your past clients. [ON-SCREEN: 'Send market update today']\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Afraid of annoying clients? Here's why you shouldn't be. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientFollowUp\", \"#AgentAdvice\", \"#TopProducer\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:15:01",
+      "end_timestamp": "00:15:40",
+      "quote": "Every past client you ignore is somebody who's going to buy or sell again most likely or knows three people that will.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights the potential loss of business due to neglecting past clients.",
+      "suggested_hook": "Are you missing out on easy business opportunities?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you missing out on easy business opportunities?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Every past client you ignore is someone who's going to buy or sell again, or knows three people that will. You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Most agents neglect past clients, missing out on repeat business. Top producers, however, maintain those relationships. [ON-SCREEN: 3x more referrals] They know every ignored client is a missed opportunity. [ON-SCREEN: 3 people they know] Keep in touch, and you'll tap into a network of potential deals.\",\n    \"REFRAME/APPLICATION\": \"Why this matters now? You can start today by reaching out to just one past client. This simple step can lead to multiple referrals. [ON-SCREEN: 47 deals closed] Remember, this agent closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Neglecting past clients? You might be missing out on easy deals. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRetention\", \"#ReferralBusiness\", \"#AgentSuccess\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Every past client you ignore is someone who's going to buy or sell again.\"\n}\n```"
+  }
+]

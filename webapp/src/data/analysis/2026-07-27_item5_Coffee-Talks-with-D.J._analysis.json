@@ -1,0 +1,70 @@
+{
+  "guest_info": {
+    "name": "D.J. Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Deal fall-through rates",
+    "The 30-day grip system",
+    "Communication strategies during escrow",
+    "Market conditions affecting buyer behavior",
+    "Agent accountability in deal management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "High rate of deals falling apart after going under contract",
+      "solution_summary": "Implement a 30-day grip system with structured communication to maintain buyer confidence and manage the deal through to closing.",
+      "timestamp": "00:00:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights into why deals fall apart and offers a structured approach to prevent it, which is crucial for agents looking to improve their closing rates.",
+      "key_takeaway": "Adopt the 30-day grip system to ensure consistent communication and prevent deals from collapsing."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:08",
+      "end_timestamp": "00:05:02",
+      "quote": "The deal you lose in escrow is actually the most expensive deal you'll ever lose. You already did the entire job. You just didn't get paid for it.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the emotional and financial impact of losing a deal after doing all the work, resonating with agents' frustrations.",
+      "suggested_hook": "Why losing a deal in escrow is the most expensive mistake you can make."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Day Zero Call",
+      "context": "Within 24 hours of mutual acceptance, call your client to set expectations for the next month.",
+      "timestamp": "00:05:04"
+    },
+    {
+      "tactic": "Tuesday Pulse",
+      "context": "Every Tuesday, contact all parties involved in the deal to check for any pending issues.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "tactic": "Wobble Window",
+      "context": "Proactively address potential deal-breaking moments like inspections and appraisals by contacting clients first.",
+      "timestamp": "00:06:49"
+    }
+  ],
+  "quotable_insights": [
+    "The cheapest deal you win all year is the one you already have."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "D.J. Paris discusses the high rate of real estate deals falling apart after going under contract and introduces the '30-day grip' system to address this issue. The episode emphasizes the importance of structured communication and proactive management to maintain buyer confidence and ensure deals close successfully.",
+  "_metadata": {
+    "source_file": "2026-07-27_item5_Coffee-Talks-with-D.J.",
+    "analyzed_at": "2026-08-04T06:48:11.229489",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

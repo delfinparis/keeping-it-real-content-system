@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:05",
+      "end_timestamp": "00:04:17",
+      "quote": "Titles and thumbnails are the front door of your YouTube channel.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of first impressions in video marketing.",
+      "suggested_hook": "Are your video titles and thumbnails opening the right doors?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are your video titles and thumbnails opening the right doors?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski says titles and thumbnails are the front door of your YouTube channel. Imagine spending hours on a video, but nobody clicks because your title and thumbnail don't grab attention. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah shares, 'Most agents slap on a generic title and hope for the best. But top producers use AI tools to craft compelling titles and outsource thumbnail design for maximum impact.' [ON-SCREEN: AI tools for titles] [ON-SCREEN: Outsource design]\",\n    \"REFRAME/APPLICATION\": \"This matters because first impressions count. You can start improving your video engagement today by experimenting with AI-generated titles. Sarah closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are your YouTube titles and thumbnails opening the right doors? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#YouTubeMarketing\",\n    \"#ContentCreation\",\n    \"#AItools\",\n    \"#VideoStrategy\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents slap on a generic title and hope for the best. But top producers use AI tools to craft compelling titles.\"\n}\n```"
+  }
+]

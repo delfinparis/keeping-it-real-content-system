@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Kelsey Caputo",
+    "title": "REALTOR",
+    "company": "Berkshire Hathaway Home Services",
+    "production_level": "Top 2% nationwide",
+    "specialty": "Luxury real estate",
+    "location": "Florida Keys"
+  },
+  "main_topics": [
+    "AI in real estate",
+    "Luxury real estate market",
+    "Local knowledge importance",
+    "Agent-client trust building",
+    "Real estate technology tools"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI providing inaccurate property valuations",
+      "solution_summary": "Use local knowledge to supplement AI data and address specific property details that AI might miss.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Building trust with high-net-worth clients remotely",
+      "solution_summary": "Focus on transparency and thorough communication to build trust even without in-person meetings.",
+      "timestamp": "00:20:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging AI and local expertise to excel in luxury markets.",
+      "key_takeaway": "AI is a tool to enhance, not replace, the value of local knowledge and personal relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:22",
+      "end_timestamp": "00:11:05",
+      "quote": "AI doesn't know anything about the boating access or what kind of boat you can have there. It doesn't know base adverse ocean.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the limitations of AI and the necessity of local expertise.",
+      "suggested_hook": "Why AI can't replace local real estate experts."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to predict buyer objections and questions.",
+      "context": "Before buyer consultations, input property details into AI to prepare for likely questions.",
+      "timestamp": "00:23:17"
+    }
+  ],
+  "quotable_insights": [
+    "AI is replacing what's expected from a REALTOR, but it can't replace good REALTORS."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads and manage client relationships."
+    }
+  ],
+  "episode_summary": "In this episode, Kelsey Caputo discusses the role of AI in real estate, emphasizing its limitations and the irreplaceable value of local knowledge. She shares insights on building trust with high-net-worth clients and how to leverage AI as a tool to enhance client interactions and property evaluations.",
+  "_metadata": {
+    "source_file": "2026-07-28_item4_Kelsey-Caputo",
+    "analyzed_at": "2026-08-04T06:48:57.381281",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

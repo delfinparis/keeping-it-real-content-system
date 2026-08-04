@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:05",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing... It got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of personal content over traditional real estate posts.",
+      "suggested_hook": "Want to boost your social media engagement? Here's a surprising tip!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to boost your social media engagement? Here's a surprising tip!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"One of Kim Rittberg's clients posted a photo of himself skiing. It got five times the engagement of his real estate posts. You're posting listings, but nobody's engaging. Sound familiar?\",\n    \"INSIGHT\": \"Kim Rittberg shared that personal content can outperform traditional real estate posts. [ON-SCREEN: Personal Content = 5x Engagement] Most agents focus on listings. Top producers share their lives. [ON-SCREEN: Share Your Life] It's about building connection and credibility. [ON-SCREEN: Connection & Credibility]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Post something personal and watch the engagement soar. [ON-SCREEN: Start Today] This agent saw massive results with this simple shift.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Boost your engagement with personal content! Are you sharing your life yet?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SocialMediaStrategy\", \"#EngagementBoost\", \"#PersonalBranding\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Personal content can outperform traditional real estate posts by 5x.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:04:44",
+      "end_timestamp": "00:05:00",
+      "quote": "Connection is that piece that makes people like you and say, 'I really like Johnny. I really like Lisa. I trust them.'",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the importance of personal connection in building trust.",
+      "suggested_hook": "How do you build trust with your clients? It starts with connection."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"How do you build trust with clients? It starts with connection.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg shared something powerful on our latest episode. You're posting on social media, but clients aren't engaging. You're wondering why your efforts aren't translating into trust.\",\n    \"INSIGHT\": \"Kim says, 'Connection is that piece that makes people like you and say, I really like Johnny. I really like Lisa. I trust them.' [ON-SCREEN: Connection builds trust] Most agents post listings. Top producers share stories that resonate. [ON-SCREEN: Share stories, not just listings]\",\n    \"REFRAME_APPLICATION\": \"Why does this matter now? Summer's here, and it's the perfect time to connect personally. You can start today by sharing a personal story that shows your values. [ON-SCREEN: Start today with personal stories]\",\n    \"CTA\": \"Are you sharing stories that build trust — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"caption\": \"Build trust with clients by making real connections. #RealEstateTips\",\n  \"hashtags\": [\n    \"#RealEstate\",\n    \"#ClientTrust\",\n    \"#SocialMediaStrategy\",\n    \"#RealEstateMarketing\",\n    \"#Connection\"\n  ],\n  \"content_pillar\": \"top_producer_secrets\",\n  \"shareable_moment\": \"Connection is that piece that makes people like you and say, 'I trust them.'\"\n}\n```"
+  }
+]

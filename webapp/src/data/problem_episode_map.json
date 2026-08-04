@@ -3092,6 +3092,20 @@
         "solution_summary": "Use cash offer leads to reach potential sellers before they contact a real estate agent.",
         "timestamp": "00:00:00"
       }
+    ],
+    "Agents relying on cold leads instead of leveraging existing client relationships": [
+      {
+        "episode": "2026-07-13_item9_Coffee-Talks",
+        "solution_summary": "Focus on providing value to past clients to generate repeat and referral business.",
+        "timestamp": "00:08:06"
+      }
+    ],
+    "Getting in front of sellers before they contact an agent": [
+      {
+        "episode": "2026-07-31_item2_Vija-Williams",
+        "solution_summary": "Use cash offer leads to engage with potential sellers early in their decision-making process.",
+        "timestamp": "00:00:00"
+      }
     ]
   },
   "conversion_sales": {
@@ -4060,6 +4074,11 @@
         "episode": "2026-07-31_item1_Vija-Williams",
         "solution_summary": "Train agents to handle cash offer leads differently to convert them into listings.",
         "timestamp": "00:09:01"
+      },
+      {
+        "episode": "2026-07-31_item2_Vija-Williams",
+        "solution_summary": "Understand and utilize the unique nature of cash offer leads to convert them into listings.",
+        "timestamp": "00:08:00"
       }
     ]
   },
@@ -6291,6 +6310,13 @@
         "episode": "2026-06-29_item9_Zach-Geisendorfer",
         "solution_summary": "Develop a robust onboarding system like 'FAM Camp' to get new agents into production quickly.",
         "timestamp": "00:13:34"
+      }
+    ],
+    "Agents not having a structured system for client follow-up": [
+      {
+        "episode": "2026-07-13_item9_Coffee-Talks",
+        "solution_summary": "Use a simple tool like Google Sheets to organize client information and schedule regular touchpoints.",
+        "timestamp": "00:05:43"
       }
     ]
   },
@@ -9509,6 +9535,13 @@
         "solution_summary": "New FHA loan program allows self-employed individuals to qualify with just a profit and loss statement.",
         "timestamp": "00:31:00"
       }
+    ],
+    "Limited access to loans for self-employed individuals": [
+      {
+        "episode": "2026-07-14_item8_Austin-Clarence",
+        "solution_summary": "New FHA loan programs allow self-employed individuals to qualify with a profit and loss statement instead of tax returns.",
+        "timestamp": "00:31:00"
+      }
     ]
   },
   "market_industry": {
@@ -11779,6 +11812,11 @@
         "episode": "2026-07-08_item9_Chris-Linsell",
         "solution_summary": "The 21st Century Road to Housing Act aims to increase inventory and streamline environmental reviews.",
         "timestamp": "00:06:05"
+      },
+      {
+        "episode": "2026-07-08_item10_Chris-Linsell",
+        "solution_summary": "The 21st Century Road to Housing Act could streamline environmental reviews and incentivize local zoning improvements.",
+        "timestamp": "00:06:05"
       }
     ],
     "AI's role in finding homes and the agent's value": [
@@ -11930,6 +11968,11 @@
         "episode": "2026-07-24_item5_Ben-Lalez",
         "solution_summary": "AI will assist but not replace agents due to the need for emotional intelligence and personalized service.",
         "timestamp": "18:00"
+      },
+      {
+        "episode": "2026-07-24_item6_Ben-Lalez",
+        "solution_summary": "AI will enhance efficiency but won't replace the need for human emotional intelligence and personal experience.",
+        "timestamp": "00:17:00"
       }
     ],
     "Zillow's future business model and relevance": [
@@ -11973,6 +12016,11 @@
         "episode": "2026-07-28_item3_Kelsey-Caputo",
         "solution_summary": "Use local knowledge to supplement AI data and address buyer misconceptions.",
         "timestamp": "00:00:08"
+      },
+      {
+        "episode": "2026-07-28_item4_Kelsey-Caputo",
+        "solution_summary": "Use local knowledge to supplement AI data and address specific property details that AI might miss.",
+        "timestamp": "00:00:00"
       }
     ],
     "Adapting to changes in the real estate market": [
@@ -12006,6 +12054,11 @@
         "episode": "2026-07-14_item7_Austin-Clarence",
         "solution_summary": "Oil prices have dropped significantly, which is expected to eventually lead to lower mortgage rates.",
         "timestamp": "00:06:00"
+      },
+      {
+        "episode": "2026-07-14_item8_Austin-Clarence",
+        "solution_summary": "Rates are expected to stabilize as oil prices drop, potentially leading to lower inflation and mortgage rates.",
+        "timestamp": "00:06:00"
       }
     ],
     "Adapting to changes in consumer behavior": [
@@ -12013,6 +12066,34 @@
         "episode": "2026-07-31_item1_Vija-Williams",
         "solution_summary": "Agents need to become consultants and problem solvers, offering multiple solutions to clients.",
         "timestamp": "00:16:01"
+      }
+    ],
+    "Zillow's future in the real estate market": [
+      {
+        "episode": "2026-07-08_item10_Chris-Linsell",
+        "solution_summary": "Zillow may transition to become one of the largest brokerages, moving away from selling ads to agents.",
+        "timestamp": "00:00:04"
+      }
+    ],
+    "AI's impact on real estate search behavior": [
+      {
+        "episode": "2026-07-08_item10_Chris-Linsell",
+        "solution_summary": "AI will change consumer behavior by providing direct answers, reducing reliance on portals like Zillow.",
+        "timestamp": "00:16:26"
+      }
+    ],
+    "Adapting to new consumer behaviors in real estate": [
+      {
+        "episode": "2026-07-31_item2_Vija-Williams",
+        "solution_summary": "Agents must become consultants and problem solvers, offering multiple solutions to educated consumers.",
+        "timestamp": "00:16:00"
+      }
+    ],
+    "Is AI going to replace real estate agents?": [
+      {
+        "episode": "2026-08-03_item1_Carrie-McCormick",
+        "solution_summary": "AI will replace average marketing but not the role of trusted advisors. Agents should focus on becoming educators and local market experts.",
+        "timestamp": "00:04:54"
       }
     ]
   },
@@ -14487,6 +14568,11 @@
         "episode": "2026-07-15_item4_Sarah-Maslowski",
         "solution_summary": "Focus on creating compelling titles and thumbnails to attract clicks.",
         "timestamp": "00:00:16"
+      },
+      {
+        "episode": "2026-07-15_item7_Sarah-Maslowski",
+        "solution_summary": "Focus on creating compelling titles and thumbnails to attract clicks.",
+        "timestamp": "00:04:05"
       }
     ],
     "Low engagement on real estate-related social media posts": [
@@ -14515,6 +14601,27 @@
         "episode": "2026-07-30_item2_Kim-Rittberg",
         "solution_summary": "Share client wins and leverage past professional experiences to build credibility.",
         "timestamp": "00:08:37"
+      }
+    ],
+    "Low engagement on real estate posts": [
+      {
+        "episode": "2026-07-30_item3_Kim-Rittberg",
+        "solution_summary": "Incorporate personal life content to increase engagement.",
+        "timestamp": "00:00:00"
+      }
+    ],
+    "Lack of personal connection with clients": [
+      {
+        "episode": "2026-07-30_item3_Kim-Rittberg",
+        "solution_summary": "Share personal stories and engage with clients on social media.",
+        "timestamp": "00:04:44"
+      }
+    ],
+    "How can agents remain relevant in an AI-driven market?": [
+      {
+        "episode": "2026-08-03_item1_Carrie-McCormick",
+        "solution_summary": "Agents should build a strong personal brand and become small media companies to provide valuable content and expertise.",
+        "timestamp": "00:17:04"
       }
     ]
   },
@@ -15910,6 +16017,11 @@
         "episode": "2026-07-13_item4_Coffee-Talks",
         "solution_summary": "Implement a system to regularly reach out to past clients with personalized messages and value updates.",
         "timestamp": "00:01:00"
+      },
+      {
+        "episode": "2026-07-13_item9_Coffee-Talks",
+        "solution_summary": "Implement a system to categorize and regularly contact past clients with personalized messages.",
+        "timestamp": "00:02:10"
       }
     ],
     "Lack of awareness about specialty loan programs": [
@@ -16001,6 +16113,11 @@
         "episode": "2026-07-28_item3_Kelsey-Caputo",
         "solution_summary": "Maintain transparency, provide detailed information, and leverage local contacts to offer comprehensive support.",
         "timestamp": "00:20:22"
+      },
+      {
+        "episode": "2026-07-28_item4_Kelsey-Caputo",
+        "solution_summary": "Focus on transparency and thorough communication to build trust even without in-person meetings.",
+        "timestamp": "00:20:00"
       }
     ],
     "Maintaining client relationships during downtime": [
@@ -16008,6 +16125,27 @@
         "episode": "2026-07-30_item1_Kim-Rittberg",
         "solution_summary": "Engage with clients by sharing personal summer activities and commenting on their posts.",
         "timestamp": "00:04:38"
+      }
+    ],
+    "Agents not following up consistently with leads": [
+      {
+        "episode": "2026-07-24_item6_Ben-Lalez",
+        "solution_summary": "Communicate with active clients every day, even if there's no update, to maintain engagement and prevent losing deals.",
+        "timestamp": "00:08:00"
+      }
+    ],
+    "High rate of deals falling apart after going under contract": [
+      {
+        "episode": "2026-07-27_item5_Coffee-Talks-with-D.J.",
+        "solution_summary": "Implement a 30-day grip system with structured communication to maintain buyer confidence and manage the deal through to closing.",
+        "timestamp": "00:00:10"
+      }
+    ],
+    "Building credibility without top rankings": [
+      {
+        "episode": "2026-07-30_item3_Kim-Rittberg",
+        "solution_summary": "Share client success stories and personal achievements.",
+        "timestamp": "00:08:42"
       }
     ]
   },

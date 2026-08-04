@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Vija Williams",
+    "title": "Chief Growth Officer",
+    "company": "Realty.com",
+    "production_level": null,
+    "specialty": "Real estate team leadership and growth",
+    "location": "Seattle, Washington and Puget Sound market"
+  },
+  "main_topics": [
+    "Consumer behavior changes in real estate",
+    "The role of AI in real estate lead generation",
+    "The importance of multiple sales strategies for agents",
+    "Realty.com's approach to cash offer leads",
+    "Adapting to post-AI real estate market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Getting in front of sellers before they contact an agent",
+      "solution_summary": "Use cash offer leads to engage with potential sellers early in their decision-making process.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting high-intent leads effectively",
+      "solution_summary": "Understand and utilize the unique nature of cash offer leads to convert them into listings.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to new consumer behaviors in real estate",
+      "solution_summary": "Agents must become consultants and problem solvers, offering multiple solutions to educated consumers.",
+      "timestamp": "00:16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode highlights innovative lead generation strategies that can elevate an agent's business.",
+      "key_takeaway": "Embrace new consumer behaviors and integrate multiple sales strategies to stay competitive."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The discussion on cash offer leads provides a new revenue stream and growth opportunity for teams.",
+      "key_takeaway": "Implementing cash offer leads can significantly boost team performance and lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:16:10",
+      "end_timestamp": "00:17:00",
+      "quote": "We started off as the first phone call. We are now the last opinion.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the shift in the agent's role in the real estate process.",
+      "suggested_hook": "Discover how the role of real estate agents has fundamentally changed in today's market."
+    },
+    {
+      "timestamp": "00:19:00",
+      "end_timestamp": "00:19:45",
+      "quote": "80% of sellers will hire the first agent they meet with.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic emphasizes the importance of being the first agent to engage with potential sellers.",
+      "suggested_hook": "Why being the first agent to meet a seller is more crucial than ever."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Utilize long-form cash offer leads",
+      "context": "Engage with high-intent sellers early in their decision-making process.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "tactic": "Offer multiple sales strategies",
+      "context": "Present various solutions to sellers to cater to their specific needs and preferences.",
+      "timestamp": "00:18:00"
+    }
+  ],
+  "quotable_insights": [
+    "The new modern agent needs four to five arrows in their quiver.",
+    "We have to think about ourselves now as consultants and problem solvers."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Realty.com",
+      "context": "For generating and managing cash offer leads."
+    },
+    {
+      "type": "tool",
+      "name": "Chat GPT",
+      "context": "Used for generating CMAs and understanding market data."
+    }
+  ],
+  "episode_summary": "In this episode, Vija Williams discusses the evolving role of real estate agents in the post-AI era, emphasizing the importance of engaging with sellers early through cash offer leads. She highlights the need for agents to become problem solvers and consultants, offering multiple sales strategies to meet the needs of today's educated consumers.",
+  "_metadata": {
+    "source_file": "2026-07-31_item2_Vija-Williams",
+    "analyzed_at": "2026-08-04T06:50:07.653489",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

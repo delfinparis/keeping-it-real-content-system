@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:16:10",
+      "end_timestamp": "00:17:00",
+      "quote": "We started off as the first phone call. We are now the last opinion.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the shift in the agent's role in the real estate process.",
+      "suggested_hook": "Discover how the role of real estate agents has fundamentally changed in today's market."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Real estate agents are now the last opinion, not the first call.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Vija Williams shared a game-changing insight on our podcast. Are you finding that clients are coming to you last, after they've done their own research? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Vija explained, 'We started off as the first phone call. We are now the last opinion.' [ON-SCREEN: Last Opinion] This shift means clients are more informed than ever. Most agents still wait for calls. Top producers proactively engage clients early. [ON-SCREEN: Proactive Engagement]\",\n    \"REFRAME/APPLICATION\": \"This matters because adapting to this shift can boost your credibility. Start engaging clients before they reach out. You can do this today by offering valuable insights upfront. [ON-SCREEN: Engage Early]\",\n    \"CTA\": \"Have you noticed this change in your clients — yes or no? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Agents, are you the first call or the last opinion? Discover the shift. #RealEstate\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AgentTips\", \"#MindsetShift\", \"#ClientEngagement\", \"#RealEstateAdvice\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"We started off as the first phone call. We are now the last opinion.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:19:00",
+      "end_timestamp": "00:19:45",
+      "quote": "80% of sellers will hire the first agent they meet with.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic emphasizes the importance of being the first agent to engage with potential sellers.",
+      "suggested_hook": "Why being the first agent to meet a seller is more crucial than ever."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know 80% of sellers hire the first agent they meet?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Vija Williams shared a game-changing stat on our podcast: 80% of sellers choose the first agent they meet. Imagine you're hustling for listings, but missing out because you're not the first to connect.\",\n    \"INSIGHT\": \"Vija explains, 'Being the first agent isn't just luck; it's strategy. Most agents wait for leads to come to them. Top producers proactively reach out and engage immediately.' [ON-SCREEN: 80% of sellers hire first agent]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start reaching out first and see the difference. Vija's approach helped her close 47 deals last year. You can do this today.\",\n    \"CTA\": \"Are you the first agent to meet your sellers — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"80% of sellers hire the first agent they meet. Are you first? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#AgentSuccess\",\n    \"#LeadGeneration\",\n    \"#TopProducer\",\n    \"#RealEstateStrategy\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Being the first agent isn't just luck; it's strategy.\"\n}\n```"
+  }
+]

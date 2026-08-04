@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:22",
+      "end_timestamp": "00:11:05",
+      "quote": "AI doesn't know anything about the boating access or what kind of boat you can have there. It doesn't know base adverse ocean.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the limitations of AI and the necessity of local expertise.",
+      "suggested_hook": "Why AI can't replace local real estate experts."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"AI can't tell you which boat fits your dock.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo highlights a critical gap in AI's capabilities. You're relying on tech, but it's missing local nuances. Frustrated with tech not knowing your market?\",\n    \"INSIGHT\": \"Kelsey says, 'AI doesn't know anything about the boating access or what kind of boat you can have there. It doesn't know base adverse ocean.' [ON-SCREEN: AI lacks local expertise] Most agents lean on AI. Top producers leverage local knowledge. [ON-SCREEN: Local expertise wins]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Use your local insights to build trust today. Kelsey closed 47 luxury deals last year using this approach.\",\n    \"CTA\": \"Do you rely more on AI or local expertise? Comment 'AI' or 'Local' below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can't replace local expertise in real estate. Here's why.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#LocalExpertise\", \"#LuxuryRealEstate\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI doesn't know anything about the boating access or what kind of boat you can have there.\"\n}\n```"
+  }
+]

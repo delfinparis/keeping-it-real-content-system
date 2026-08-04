@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexah Mortgage",
+    "production_level": "Top performing",
+    "specialty": "Mortgage loans and investor financing",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Impact of global events on mortgage rates",
+    "Specialty loan programs for specific professions",
+    "Federal Reserve's influence on interest rates",
+    "Market trends in home values",
+    "Opportunities for self-employed individuals in securing loans"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Rising mortgage rates due to global conflicts",
+      "solution_summary": "Rates are expected to stabilize as oil prices drop, potentially leading to lower inflation and mortgage rates.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Limited access to loans for self-employed individuals",
+      "solution_summary": "New FHA loan programs allow self-employed individuals to qualify with a profit and loss statement instead of tax returns.",
+      "timestamp": "00:31:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging niche loan products to attract more clients.",
+      "key_takeaway": "Understanding and utilizing specialty loan programs can differentiate you in the market."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode offers strategies to overcome client objections related to current high mortgage rates.",
+      "key_takeaway": "Focus on monthly payments rather than interest rates to help clients see the value in purchasing now."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:11:00",
+      "quote": "Inflation is like steering a cruise ship; it takes time to change direction.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It provides a relatable analogy for understanding economic changes.",
+      "suggested_hook": "Why mortgage rates don't change overnight..."
+    },
+    {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:25:00",
+      "quote": "Doctors in residency can now buy homes with zero down payment and no PMI.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a little-known opportunity for a specific professional group.",
+      "suggested_hook": "Attention doctors! Here's how you can own a home sooner than you think..."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Ask potential clients about their profession to identify eligibility for niche loan programs.",
+      "context": "Use this tactic during initial consultations or open houses.",
+      "timestamp": "00:21:00"
+    },
+    {
+      "tactic": "Leverage current market conditions to negotiate better terms for buyers.",
+      "context": "Encourage buyers to negotiate seller credits for rate buy-downs.",
+      "timestamp": "00:36:00"
+    }
+  ],
+  "quotable_insights": [
+    "The best way to describe inflation is like steering a cruise ship; it takes time to change direction.",
+    "In today's market, it's about the payment, not the rate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to convert leads into buyers."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the impact of global events on mortgage rates and the opportunities they present for buyers. He highlights specialty loan programs for doctors, veterans, and self-employed individuals, providing actionable insights for real estate agents to better serve their clients. The episode also covers current market trends and strategies for navigating high interest rates.",
+  "_metadata": {
+    "source_file": "2026-07-14_item8_Austin-Clarence",
+    "analyzed_at": "2026-08-04T06:46:36.308707",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "DJ Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Importance of maintaining relationships with past clients",
+    "Strategies for effective client follow-up",
+    "Building a system for client management",
+    "Common mistakes agents make with client databases",
+    "Tactics for generating repeat and referral business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents losing business due to lack of follow-up with past clients",
+      "solution_summary": "Implement a system to categorize and regularly contact past clients with personalized messages.",
+      "timestamp": "00:02:10"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Agents not having a structured system for client follow-up",
+      "solution_summary": "Use a simple tool like Google Sheets to organize client information and schedule regular touchpoints.",
+      "timestamp": "00:05:43"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents relying on cold leads instead of leveraging existing client relationships",
+      "solution_summary": "Focus on providing value to past clients to generate repeat and referral business.",
+      "timestamp": "00:08:06"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode is relevant because it addresses the common issue of neglecting past clients, which is prevalent among agents who have been in the business for some time.",
+      "key_takeaway": "Implementing a consistent follow-up system with past clients can significantly increase repeat and referral business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies that can help agents elevate their business by focusing on client retention and referrals.",
+      "key_takeaway": "Building a system for regular, personalized client interactions is crucial for long-term success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:50",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It challenges the fear agents have about reaching out to past clients.",
+      "suggested_hook": "Are you afraid of annoying your past clients? Think again!"
+    },
+    {
+      "timestamp": "00:15:01",
+      "end_timestamp": "00:15:40",
+      "quote": "Every past client you ignore is somebody who's going to buy or sell again most likely or knows three people that will.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "It highlights the potential loss of business due to neglecting past clients.",
+      "suggested_hook": "Are you missing out on easy business opportunities?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Categorize past clients into A, B, and C lists based on their likelihood to refer business.",
+      "context": "Use this categorization to prioritize follow-up efforts.",
+      "timestamp": "00:06:50"
+    },
+    {
+      "tactic": "Send personalized messages to past clients with valuable information about their home or neighborhood.",
+      "context": "This can be done via text or email to maintain a personal connection.",
+      "timestamp": "00:08:08"
+    },
+    {
+      "tactic": "Use anniversaries of home purchases as an opportunity to reach out to past clients.",
+      "context": "This provides a natural reason to connect and show appreciation.",
+      "timestamp": "00:08:50"
+    }
+  ],
+  "quotable_insights": [
+    "You didn't lose that client to a better agent; you lost them to silence.",
+    "Lead with a real gift and the ask then takes care of itself."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Keeping It Real",
+      "context": "Mentioned as a resource for learning about video marketing strategies."
+    }
+  ],
+  "episode_summary": "In this episode, DJ Paris emphasizes the importance of maintaining relationships with past clients to generate repeat and referral business. He provides actionable strategies for organizing client information and scheduling regular, personalized follow-ups. By focusing on delivering value to past clients, agents can significantly increase their business without relying on cold leads.",
+  "_metadata": {
+    "source_file": "2026-07-13_item9_Coffee-Talks",
+    "analyzed_at": "2026-08-04T06:45:57.279267",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

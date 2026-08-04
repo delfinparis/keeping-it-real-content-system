@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:11:00",
+      "quote": "Inflation is like steering a cruise ship; it takes time to change direction.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It provides a relatable analogy for understanding economic changes.",
+      "suggested_hook": "Why mortgage rates don't change overnight..."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why mortgage rates don't change overnight...\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently compared inflation to steering a cruise ship. You're watching mortgage rates, hoping for a quick drop, but it feels like nothing's moving. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin said, 'Inflation is like steering a cruise ship; it takes time to change direction.' [ON-SCREEN: Inflation = Cruise Ship] This means economic shifts are gradual, not instant. Most agents wait for rates to drop. Top producers prepare for the long game. [ON-SCREEN: Prepare for Long Game]\",\n    \"REFRAME/APPLICATION\": \"Understanding this helps you plan better. You can start today by advising clients on patience and strategy. Austin's approach helped him close 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you advising your clients on this — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Inflation is like steering a cruise ship. Here's why mortgage rates take time to change.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageRates\", \"#Inflation\", \"#RealEstatePodcast\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Inflation is like steering a cruise ship; it takes time to change direction.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:25:00",
+      "quote": "Doctors in residency can now buy homes with zero down payment and no PMI.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a little-known opportunity for a specific professional group.",
+      "suggested_hook": "Attention doctors! Here's how you can own a home sooner than you think..."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Attention doctors! Own a home with zero down payment!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine you're a doctor in residency, overwhelmed with student loans, and thinking homeownership is years away. Austin Clarence shared a game-changing tip for you.\",\n    \"INSIGHT\": \"Doctors in residency can now buy homes with zero down payment and no PMI. [ON-SCREEN: Zero Down Payment] This specialty loan program is designed just for you, making homeownership more accessible than ever. [ON-SCREEN: No PMI] While most people struggle to save for a down payment, you can bypass this hurdle entirely. [ON-SCREEN: Specialty Loan Program]\",\n    \"REFRAME/APPLICATION\": \"Why wait? You can start building equity today. This program is available now, and you can apply this week to secure your future. [ON-SCREEN: Apply Today]\",\n    \"CTA\": \"Are you ready to take advantage of this opportunity — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Doctors, you can own a home with zero down! Find out how. 🏡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#DoctorLoans\", \"#HomeOwnership\", \"#MortgageAdvice\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Doctors in residency can now buy homes with zero down payment and no PMI.\"\n}\n```"
+  }
+]
