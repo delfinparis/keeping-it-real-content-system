@@ -28,7 +28,7 @@ TRANSCRIPT → [01 Clip Hunter] → [02 Script Writer] → [03 Platform Adapter]
 
 | Prompt | Input | Output |
 |--------|-------|--------|
-| [06_interview_prep.md](06_interview_prep.md) | Guest info | Full guest interview prep .docx (quick reference, title options, arc, questions, research brief, Restream live descriptions, chapter markers) — ends with a mandatory Council Review |
+| [06_interview_prep.md](06_interview_prep.md) | Guest info | Full guest interview prep .docx (quick reference, title options, arc, topic-block questions, research brief, live stream title + Restream descriptions, chapter markers) — runs a mandatory 3-pass workflow: draft, then stress test + Council, then EP polish |
 | [07_guest_intake_form.md](07_guest_intake_form.md) | — | Guest-facing intake form to gather prep inputs |
 | [08_council_pass.md](08_council_pass.md) | Drafted prep (Sections 1-6) | The Short-Form Council pass: pressure-tests the title, cold open, clip-worthy questions, and live descriptions past 10 creator doctrines + 2 research witnesses. Baked into 06 as SECTION 7 |
 

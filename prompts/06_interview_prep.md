@@ -1,4 +1,4 @@
-# KEEPING IT REAL PODCAST — MASTER INTERVIEW PREP PROMPT (v3)
+# KEEPING IT REAL PODCAST — MASTER INTERVIEW PREP PROMPT (v4)
 
 Copy everything below this line and paste it into Claude along with whatever info you have about your guest.
 Fill in the fields at the bottom before submitting.
@@ -11,7 +11,15 @@ Fill in the fields at the bottom before submitting.
 
 **Step 2 — Research first, write second.** Do not begin writing the interview prep document until all research is complete. Run every search in the RESEARCH INSTRUCTIONS section before producing a single line of output.
 
-**Step 3 — The Council Pass is mandatory.** After you draft Sections 1-6, you MUST run the Short-Form Council pass (see SECTION 7 below) and append `SECTION 7: COUNCIL REVIEW` to the same .docx before you deliver. It pressure-tests the title, the cold open, the clip-worthy questions, and the live descriptions past ten creator/marketer doctrines plus two research witnesses. Do not skip it, and do not deliver the prep without it. If the machine has the local skill at `~/.claude/skills/short-form-council`, load its `references/*.md` for depth; otherwise run the pass from the embedded doctrines in SECTION 7.
+**Step 3 — Three passes, every time. Deliver only the final.** The prep is never a one-shot draft. Run all three passes before you hand anything over. All of it happens internally; D.J. receives one finished .docx, not three drafts.
+
+| Pass | What happens |
+|------|--------------|
+| **Pass 1 — DRAFT** | Research, then write Sections 1-6. |
+| **Pass 2 — STRESS TEST + COUNCIL** | Automatic, not optional. First the **stress test**: attack your own draft for factual conflicts, unverifiable claims, drift risk, runtime overrun, questions the structure will accidentally spend early, and any claim the guest could dodge with a story instead of a number. Then the **Council pass** (SECTION 7 below) on packaging and arc. |
+| **Pass 3 — EP POLISH** | Rewrite the whole document applying every fix from pass 2. This is a real rewrite, not a patch. Sequencing, phrasing, and cuts are all in scope. |
+
+Then append `SECTION 7: STRESS TEST, COUNCIL REVIEW & EP POLISH` to the same .docx as the record of what changed and why. Do not skip a pass, and do not deliver without Section 7. If the machine has the local skill at `~/.claude/skills/short-form-council`, load its `references/*.md` for depth; otherwise run the council from the embedded doctrines in SECTION 7.
 
 ---
 
@@ -120,6 +128,8 @@ Run at least 8 searches with meaningfully different queries before writing anyth
 - **The Core Topic:** [One sentence — the single deep topic this episode will explore]
 - **Overasked questions to avoid:** [2-3 questions this guest has answered repeatedly elsewhere]
 - **The "I've interviewed hundreds" moment:** [The ONE place in the interview where this phrase earns its spot — write the exact line. If nowhere, write "Skip this episode."]
+- **Live stream title:** [The exact title D.J. pastes into Restream before going live, plus a backup. Full spec in Section 5A.]
+- **Watch out for:** [Anything in the guest's pre-sent answers that the standardized Rapid Fire will spend early, or any fact D.J. should not state on air as verified.]
 
 ### PAGE 2: EPISODE FRAMEWORK
 
@@ -157,18 +167,51 @@ Identify the **one core topic** this episode goes deep on. Not 8 topics skimmed 
 
 ### SECTION 3: INTERVIEW QUESTIONS
 
-#### 3-Act Structure
+#### Topic Block Structure
 
-Every episode follows this structure. It replaces the old pattern of "origin story → long organic conversation → wrap."
+Questions are grouped by topic, not by function. The old deep-dive/playbook split kept separating a question from its natural follow-on: the insight landed in Act 1 and the "so how do I actually do this" question sat 20 minutes downstream in Act 2, so the conversation kept restarting. Topic blocks fix that. Each block is one angle on the single core topic and carries its own complete arc, ending with the implementation question that angle earned.
 
-| Act | Time | Purpose | What Happens |
-|-----|------|---------|--------------|
-| **RAPID FIRE** | 0:00-2:00 (post-intro) | Energy, personality, hook | 4 standardized quick-hit questions. Sets tone. Gives D.J. a clip-worthy moment in the first 2 minutes. |
-| **ACT 1: THE DEEP DIVE** | 2:00-25:00 | The core topic | 6-10 questions exploring the ONE topic from multiple angles. This is the meat. Go deep, not wide. |
-| **ACT 2: THE PLAYBOOK** | 25:00-35:00 | Implementation | 3-5 questions translating insights into specific actions. "If a listener wants to do this tomorrow, what are the exact steps?" |
-| **THE CLOSE** | 35:00-40:00 | Homework + where to find | Lightning round closer, homework assignment, guest contact info. |
+| Segment | Time | Purpose |
+|---------|------|---------|
+| **RAPID FIRE** | 0:00-2:00 (post-intro) | 4 standardized quick-hit questions. Energy, early clip. No follow-ups. |
+| **TOPIC BLOCKS (3-5 of them)** | 2:00-40:00 | The core topic, one angle per block, ~8-10 minutes each. |
+| **THE CLOSE** | 40:00-43:00 | Homework, guest resource, where to find them. |
 
-*Adjust times proportionally for 30-min or 60-min episodes.*
+*Adjust block count and times proportionally: 3 blocks for a 30-min episode, 4 for 45, 5 for 60.*
+
+**Every block follows the same internal arc:**
+
+1. **The hook question** — the most specific thing you found on this angle. A scene, a number, a contradiction. Never "tell me about."
+2. **The mechanism question** — how it actually works. Tools, cadence, cost, who does the work.
+3. **The failure or tension question** — what broke, or the line the guest can't cross. This is where the block gets credible.
+4. **The do-it-tomorrow question** — the implementation for *this angle*, asked while the listener still has the context. This is what used to live in Act 2.
+
+**Bridge lines are required.** Between every block, write the exact sentence D.J. reads to hand off. Format: one clause summarizing what the block established, one clause opening the next. Label it `BRIDGE TO NEXT BLOCK (read as written)`. This is what makes the episode feel like one conversation instead of five interviews.
+
+**Blocks are angles, not topics.** The one-core-topic rule still holds. If a block could be its own episode, it doesn't belong in this one.
+
+**Distribute these required question types across the blocks** (not all in one):
+
+1. **The research-anchored opener** — Block 1, question 1. Lead with the most interesting specific thing you found.
+2. **The system question** — surface the actual mechanism. Not "what's your strategy" but "you track [specific thing], what tools and how often?"
+3. **The mistake/failure question** — often the most memorable moment in the episode.
+4. **The contrarian question** — "A lot of agents believe [X]. You operate differently." Must be grounded in research.
+5. **The current-moment question** — tie to something that changed in the last 12-18 months, with real numbers where possible.
+6. **The perspective-flip question** — at least one question aimed at a different audience segment than the guest's primary type.
+7. **The objection-said-out-loud question** — name the listener who will push back on the guest's claim, describe them specifically, and ask the guest to answer them directly.
+
+**Runtime discipline.** After drafting, count the questions. Roughly 4 per block plus Rapid Fire is the ceiling for 43 minutes with real answers. Then write two lists at the end of Section 3:
+
+- **"If you're running long, cut these first"** — 3-4 questions, in cut order, with one line on why each is expendable.
+- **"Never cut"** — the 4-5 questions that carry the episode.
+
+For each question, use this format:
+
+**[#]. [Question written in D.J.'s voice]**
+
+> *If vague, ask:* [exact follow-up]
+> *Ideal answer reveals:* [what you're trying to extract]
+> *Serves:* [audience segment]
 
 ---
 
@@ -181,19 +224,19 @@ These 4 questions open every interview immediately after D.J.'s guest intro. The
 3. **One tool or app you can't run your business without?**
 4. **What would surprise people most about your day-to-day?**
 
-*Note: D.J. does NOT follow up on these. He says "Love it" or "Great answer" and moves to Act 1. The rapid fire is a warm-up, not a conversation.*
+*Note: D.J. does NOT follow up on these. He says "Love it" or "Great answer" and moves to Block 1. The rapid fire is a warm-up, not a conversation.*
+
+**Check the guest's pre-sent answers before you finalize the blocks.** Guests often supply their best/worst advice in the intake form. If one of those answers is load-bearing for your core topic, Rapid Fire will spend it in minute one and D.J. won't follow up. Handle it in the prep: tell D.J. to say *"Love it, and we're coming back to that,"* then build a deliberate callback into the block where it belongs. Flag this on the Quick Reference Card under **Watch out for**.
 
 ---
 
-#### ACT 1: THE DEEP DIVE — [Core Topic Name] ([time estimate])
+#### BLOCK [N]: [Angle Name] ([time range])
 
-*Audience note: [One sentence — who benefits most and why]*
+*Audience note: [One sentence — who benefits most from this angle and why]*
 
-Write 6-10 questions here, all exploring the core topic from different angles. Sequence them so the conversation builds:
+*Arc: [five-to-eight words naming this block's beats, e.g. "the moment, the diagnosis, the test, the line, the exact words"]*
 
-**Opening → How it works → The specific system → The mistake/failure → The contrarian take → What's changed recently**
-
-For each question:
+Write 3-5 questions following the block arc (hook → mechanism → failure/tension → do-it-tomorrow). Same per-question format:
 
 **[#]. [Question written in D.J.'s voice]**
 
@@ -201,36 +244,9 @@ For each question:
 > *Ideal answer reveals:* [what you're trying to extract]
 > *Serves:* [audience segment]
 
-**Required question types within Act 1** (distribute naturally):
+**BRIDGE TO NEXT BLOCK (read as written):** *"[One clause on what this block established, one clause opening the next.]"*
 
-1. **The research-anchored opener** — Lead with the most interesting specific thing you found. Never start with "Tell me about yourself" or "How did you get started."
-2. **The system question** — Surface the actual mechanism behind the result. Not "What's your strategy?" but "You track [specific thing] — what exactly are you tracking and what tools do you use?"
-3. **The mistake/failure question** — Often the most memorable moment in an episode. A real mistake, bad assumption, or time something didn't work.
-4. **The contrarian question** — "A lot of agents believe [X]. You operate differently — what do most people get wrong?" Must be grounded in research.
-5. **The current-moment question** — Connect expertise to something that changed in the last 12-18 months (NAR settlement, AI tools, commission compression, buyer agreements, inventory shifts). Keeps the episode feeling current.
-6. **The perspective-flip question** — At least one question for a different audience segment than the guest's primary type.
-
----
-
-#### ACT 2: THE PLAYBOOK ([time estimate])
-
-*Audience note: This section is for every listener regardless of experience level. It translates the deep dive into action.*
-
-Write 3-5 questions focused purely on implementation:
-
-- "Walk me through the exact steps..."
-- "If someone listening wants to start doing this tomorrow, where do they begin?"
-- "What's the minimum viable version of this?"
-- "What's the first thing most people get wrong when they try this?"
-- "The 'what would you do differently' question" — "If you woke up tomorrow with your skills but zero contacts, starting from scratch — what do you do in the first 90 days?"
-
-For each question, same format:
-
-**[#]. [Question written in D.J.'s voice]**
-
-> *If vague, ask:* [exact follow-up]
-> *Ideal answer reveals:* [what you're trying to extract]
-> *Serves:* [audience segment]
+*(Repeat for each block. Number questions continuously across all blocks, 1 through N, so D.J. can call a question number out loud.)*
 
 ---
 
@@ -256,6 +272,14 @@ The assignment must:
 **Guest Close:**
 - "Where can people find you / follow you / work with you?"
 - If guest has a resource, freebie, or offer for listeners → include it here
+
+**If you're running long, cut these first** *(Required)*
+
+List 3-4 questions in cut order, each with one line on why it's expendable.
+
+**Never cut** *(Required)*
+
+List the 4-5 questions that carry the episode.
 
 ---
 
@@ -301,9 +325,26 @@ For each: show name, approximate date, topics covered. Note overasked questions 
 
 ---
 
-### SECTION 5: RESTREAM LIVE DESCRIPTIONS & HASHTAGS
+### SECTION 5: LIVE STREAM TITLE, DESCRIPTIONS & HASHTAGS
 
-D.J. goes live on Restream during recording. Provide ready-to-paste descriptions and hashtags for each platform.
+D.J. goes live on Restream during recording. Provide a ready-to-paste title, descriptions, and hashtags for each platform.
+
+**5A — Live Stream Title** *(Required, every episode)*
+
+Restream pushes one title to every platform at once, so D.J. needs a single line he can paste before he hits record. Provide a primary and a backup.
+
+Rules:
+- **Under 90 characters.** YouTube caps live titles at 100 and mobile truncates well before that. Note the character count.
+- **Must work cold.** It's set before the interview happens, so it can only use what research already verified. No framework names or insider jargon a stranger has to decode.
+- **Same hook discipline as the episode title:** a number, a specific claim, or the contradiction. Include the guest's name.
+- **This does not have to match the final published episode title.** Say so in the doc. D.J. picks the published title after hearing the interview.
+
+Format:
+
+> **Live stream title:** [the line] *(N characters)*
+> **Backup:** [alternate line]
+
+**5B — Platform Descriptions**
 
 **Facebook Live Description:**
 [2-3 sentences about the episode + guest. Conversational, excitement-driven. End with "Drop your questions in the comments!"]
@@ -320,7 +361,7 @@ D.J. goes live on Restream during recording. Provide ready-to-paste descriptions
 **LinkedIn Live Description:**
 [Professional tone. 2-3 sentences emphasizing the business value of the conversation.]
 
-**Hashtag Sets:**
+**5C — Hashtag Sets:**
 - Universal: #KeepingItReal #RealEstatePodcast #DJParis #RealtorLife #RealEstateAgent
 - Episode-specific: [5-7 hashtags tailored to this guest's topic, market, and expertise]
 - Guest tag: [Guest's social handles for tagging]
@@ -333,18 +374,44 @@ Provide suggested YouTube chapter timestamps based on the interview structure. T
 |-----------|--------------|
 | 0:00 | [Cold open hook — written as a searchable title] |
 | [post-ads] | Rapid Fire: Best & Worst Advice |
-| | [Act 1 opening — topic-specific title] |
-| | [Each major subtopic within Act 1 gets a chapter] |
-| | [Act 2 opening — "The Playbook: How To..."] |
+| | [Block 1 opening — the hook question, as a searchable title] |
+| | [Every question inside a block that pulls a distinct answer gets its own chapter] |
+| | [Block 2 opening, Block 3 opening, and so on] |
 | | [Homework + Where to Find [Guest]] |
+
+*One chapter per question is fine and usually better. Chapters are the free version of clips.*
 
 *Each chapter title should be independently searchable. Someone browsing YouTube chapters should be able to find value in any single chapter without watching the full episode.*
 
 ---
 
-### SECTION 7: COUNCIL REVIEW (mandatory final pass)
+### SECTION 7: STRESS TEST, COUNCIL REVIEW & EP POLISH (mandatory passes 2 and 3)
 
-After Sections 1-6 are fully drafted, run the finished package past the Short-Form Council and append this section to the same .docx. The council pressure-tests the two things that actually decide whether the episode gets clicked, watched, and shared: **the packaging** (Title Options 2A, Cold-Open 2B, Live Descriptions Section 5) and **the interview itself** (core-topic choice, arc, and which questions are engineered to pull a clip-worthy answer). The full book-backed version of this pass lives in the repo at `prompts/08_council_pass.md` and in the local skill `~/.claude/skills/short-form-council`; the doctrines below are the self-contained version for running the pass inline.
+This section is the written record of the three-pass workflow at the top of this prompt. It has three parts: **7A the stress test**, **7B the council review**, **7C the EP polish**. All three are required in every prep.
+
+---
+
+#### 7A — STRESS TEST (mandatory, run before the council)
+
+Attack your own draft as if you were being paid to embarrass it. This is a facts-and-structure pass; the council handles packaging. Hunt specifically for:
+
+| What to hunt | What it looks like |
+|---|---|
+| **Fact conflicts** | The guest's bio says one number, their own website says another. Name both, pick the safe on-air phrasing, and tell D.J. to ask the guest to confirm live. |
+| **Unverifiable claims** | A book with no listing, an award with no source, a stat with one self-reported origin. Mark it guest-supplied and tell D.J. not to state it as fact. |
+| **Spent questions** | Anything the standardized Rapid Fire or the intake form will burn before the block that needs it. |
+| **Drift risk** | The specific adjacent topic this episode will slide into (market update, product demo, origin story) and the guardrail that stops it. |
+| **Dodgeable questions** | Any question the guest can answer with a story instead of a number. Rewrite it to demand the number and tell D.J. not to accept the substitute. |
+| **Runtime overrun** | Count the questions against the runtime. Cut to fit. |
+| **Gotcha risk** | Any question that could read as an ambush. Keep it, but rewrite the framing so it lands as a shared problem. |
+
+**Output as a table:** `# | What broke | Fix applied`. Every row must show a fix that is actually reflected in the final document, not a suggestion.
+
+---
+
+#### 7B — COUNCIL REVIEW
+
+Run the finished package past the Short-Form Council and append the results here. The council pressure-tests the two things that actually decide whether the episode gets clicked, watched, and shared: **the packaging** (Title Options 2A, Cold-Open 2B, Live Descriptions Section 5) and **the interview itself** (core-topic choice, arc, and which questions are engineered to pull a clip-worthy answer). The full book-backed version of this pass lives in the repo at `prompts/08_council_pass.md` and in the local skill `~/.claude/skills/short-form-council`; the doctrines below are the self-contained version for running the pass inline.
 
 **The point is friction, not consensus.** Embody each voice; do not blend them into one reasonable narrator. A title that survives all ten is battle-tested.
 
@@ -357,7 +424,7 @@ After Sections 1-6 are fully drafted, run the finished package past the Short-Fo
 - **Donald Miller** (StoryBrand clarity) — "Who's the hero, the guest or the agent listening? One core topic, one promise. If the title needs a second sentence to explain it, it failed the grunt test."
 - **Byron Lazine** (industry newsjacker) — "What's the take? Is the current-moment question tied to a real estate headline from this week (NAR, commissions, buyer agreements, AI, inventory)?"
 - **Eric Simon / The Broke Agent** (relatability) — "Will one agent send this to another and say 'this is us'? Which question pulls the mistake, the roast, the inside beat?"
-- **Justin Welsh** (sustainable system) — "Protect the repeatable format. Don't break the standardized rapid fire, the 3-act structure, or the homework to chase one clever title."
+- **Justin Welsh** (sustainable system) — "Protect the repeatable format. Don't break the standardized rapid fire, the topic-block structure, the bridge lines, or the homework to chase one clever title."
 - **Jon Youshaei** (platform mechanics) — "The YouTube title and every chapter marker is a headline competing on its own. Is each independently searchable?"
 - **Chris Do / The Futur** (the human) — "Where's the vulnerable beat that earns the follow? Which question costs the guest something honest to answer?"
 
@@ -368,9 +435,11 @@ After Sections 1-6 are fully drafted, run the finished package past the Short-Fo
 
 **How to run it:** Convene the 5-7 members with the most at stake for this guest (a data/authority guest pulls Hormozi + MrBeast + Kane + Heath; a comeback-story producing agent pulls Chris Do + Eric + Berger; a vendor pulls Miller + Byron + Hormozi). Each says what they'd CHANGE in one line, in character. Call the witnesses on mechanism claims. Surface the one real disagreement and resolve it with a decision tied to the episode's goal (subscribers vs clips/reach vs the guest relationship). Then sharpen the four reach-deciding elements and check the arc.
 
-**House rules the council never breaks:** Stay in the .docx. Never fabricate a fact the Research Brief didn't verify (rework phrasing and sequencing, not the facts). Live descriptions keep zero em dashes and zero AI-speak (restructure as two short sentences before reaching for a dash). Keep the hashtags in Section 5. Don't break the 3-act format for a clever title.
+**House rules the council never breaks:** Stay in the .docx. Never fabricate a fact the Research Brief didn't verify (rework phrasing and sequencing, not the facts). Live descriptions keep zero em dashes and zero AI-speak (restructure as two short sentences before reaching for a dash). Keep the hashtags in Section 5. Don't break the topic-block format for a clever title.
 
-**Output — write exactly this block as SECTION 7 of the .docx:**
+**Output — write exactly this block as 7B of the .docx:**
+
+**Member notes** — a table of `Member | What they'd change`, one line each, in character.
 
 **Title (pick one to run, keep the others to A/B):**
 
@@ -409,6 +478,28 @@ After Sections 1-6 are fully drafted, run the finished package past the Short-Fo
 - Retention move (MrBeast): [one line]
 
 **The Dissent (your A/B test for the next episode):** [The one member still objecting, and the single experiment to run because of it.]
+
+---
+
+#### 7C — EP POLISH (pass 3, mandatory)
+
+Now go back and rewrite the document. This is the executive-producer pass: you are no longer defending the draft, you are shipping the final. Apply every fix from 7A and 7B for real, in the document, not as a note.
+
+**What this pass is allowed to change:** question order, question wording, block boundaries, bridge lines, which questions get cut, the cold open, the titles, the live descriptions, the chapter markers. Everything except the verified facts.
+
+**What it must check before you save:**
+
+| Check | Standard |
+|---|---|
+| Voice | Every question sounds like D.J. said it out loud. Read them aloud. Anything that reads like a survey question gets rewritten. |
+| Tension | Objections are named, not softened. See the voice reference at the end of this prompt. |
+| Runtime | Question count fits the runtime, and the cut list plus never-cut list are written. |
+| Facts | No number appears in the cold open or the titles that the Research Brief marked Unverified. |
+| Flow | Every block ends on an implementation question. Every bridge is written out. No question depends on context from a different block. |
+| House style | Zero em dashes, straight quotes, contractions, no AI-speak, anywhere in the document. |
+| Deliverable | One .docx. Sections 1 through 7 complete. No markdown, no code block, no plain text. |
+
+**Output as a bullet list titled "7C — EP Polish (pass 3)":** each bullet is one change you actually made and the reason, in past tense. If a bullet doesn't correspond to a visible difference in the document, delete it.
 
 ---
 

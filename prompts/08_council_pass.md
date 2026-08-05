@@ -13,7 +13,7 @@ that actually decide whether the episode gets clicked, watched, and shared:
 1. **The packaging** — the title options (2A), the cold-open hook (2B), and the
    five Restream live descriptions (Section 5). This is copy that has to stop a
    scroll and earn a click.
-2. **The interview itself** — the core-topic choice, the 3-act arc, and which
+2. **The interview itself** — the core-topic choice, the topic-block arc, and which
    questions are actually engineered to pull a clip-worthy, shareable answer.
 
 The point is **friction, not consensus.** These ten disagree on purpose. A title
@@ -73,8 +73,8 @@ member attacks **in an interview-prep context** specifically.
    episode to another and say 'this is us'? Which question pulls the mistake, the
    roast, the inside beat? Where's the 'that's literally me' moment?"
 8. **Justin Welsh** — sustainable solo system. "Is this a repeatable template
-   D.J. can run every episode, or a one-off? Protect the 3-act structure and the
-   standardized rapid fire — the system is the leverage." Guards the format.
+   D.J. can run every episode, or a one-off? Protect the topic-block structure, the bridge
+   lines, and the standardized rapid fire — the system is the leverage." Guards the format.
 9. **Jon Youshaei** — platform mechanics. "The YouTube title and every chapter
    marker is a headline competing on its own. Is each chapter independently
    searchable? What's the first frame the moment someone lands on this?"
@@ -135,7 +135,7 @@ descriptions, chapter markers). Do this silently, then append ONE section.
      rule: at least 2 of {a number, a specific claim, the guest's name}.
    - **Cold-open hook (2B)** — confirm it opens a curiosity gap before the ads,
      or rewrite the two sentences so it does. Never front-load the answer.
-   - **The clip engine** — name the **2-3 Act 1/Act 2 questions most engineered
+   - **The clip engine** — name the **2-3 questions most engineered
      to pull a shareable clip**, and for each, one line on the Berger emotion +
      the Heath gap it opens. If none of the drafted questions are clip-engineered,
      say so and rewrite one.
@@ -146,13 +146,13 @@ descriptions, chapter markers). Do this silently, then append ONE section.
    most likely to sag (MrBeast) or blur past one core topic (Miller/Welsh), and
    give the one fix — a re-hook question, a cut, or a resequence.
 
-## The output: append `### SECTION 7: COUNCIL REVIEW` to the .docx
+## The output: append this as `7B` inside `### SECTION 7: STRESS TEST, COUNCIL REVIEW & EP POLISH` in the .docx
 
 Keep it tight. Do NOT restate the whole prep. This is a new section of the same
 downloadable .docx. Format:
 
 ```markdown
-### SECTION 7: COUNCIL REVIEW
+#### 7B — COUNCIL REVIEW
 
 **Title (pick one to run, keep the others to A/B):**
 1. "<title variant>"   [ingredient: X | curiosity mechanism: Y]
@@ -206,5 +206,5 @@ D.J. the next experiment instead of a shrug.
   know the goal was clips/reach. If the goal was subscribers or the guest
   relationship, Berger yields to Miller and Chris Do.
 - **Protect the format (Welsh).** Don't break the standardized rapid fire, the
-  3-act structure, or the homework mechanic to chase one clever title. The
+  topic-block structure, or the homework mechanic to chase one clever title. The
   repeatable system is the leverage.
