@@ -1,0 +1,98 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": null,
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "Real estate via YouTube",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of YouTube titles and thumbnails",
+    "Common mistakes in video marketing",
+    "Researching effective video titles",
+    "Thumbnail design strategies",
+    "Outsourcing video production elements"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Videos with great content not getting views",
+      "solution_summary": "Focus on creating compelling titles and thumbnails to attract clicks.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic and boring video titles",
+      "solution_summary": "Create titles that evoke curiosity and pose interesting questions.",
+      "timestamp": "00:04:54"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficient thumbnail creation process",
+      "solution_summary": "Conduct a dedicated thumbnail photo shoot to create a library of images.",
+      "timestamp": "00:12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced strategies for increasing video engagement.",
+      "key_takeaway": "Winning the click with titles and thumbnails is as important as the video content itself."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers insights into why their content may not be performing as expected.",
+      "key_takeaway": "Generic titles and thumbnails can hinder video performance despite good content."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:49",
+      "end_timestamp": "00:09:03",
+      "quote": "Thumbnails are equally as important as the actual content of your video.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common belief that content quality alone drives success.",
+      "suggested_hook": "Think your video content is all that matters? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI tools to generate title ideas",
+      "context": "When brainstorming video titles, use AI to create multiple clickable options.",
+      "timestamp": "00:06:59"
+    },
+    {
+      "tactic": "Conduct a thumbnail photo shoot",
+      "context": "Create a library of facial expressions for future video thumbnails.",
+      "timestamp": "00:12:00"
+    }
+  ],
+  "quotable_insights": [
+    "A strong title creates curiosity and poses an interesting question."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for generating multiple title ideas."
+    },
+    {
+      "type": "tool",
+      "name": "YouTube's A/B testing",
+      "context": "Used for testing different titles and thumbnails to see which performs better."
+    },
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used for designing thumbnails with customizable elements."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her expertise on optimizing YouTube video performance through strategic titles and thumbnails. She emphasizes the importance of curiosity-driven titles and visually compelling thumbnails, offering practical tips and tools to enhance video engagement. Her insights are particularly valuable for real estate professionals looking to leverage YouTube for lead generation.",
+  "_metadata": {
+    "source_file": "2026-07-15_item8_Sarah-Maslowski",
+    "analyzed_at": "2026-08-06T06:32:07.672834",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

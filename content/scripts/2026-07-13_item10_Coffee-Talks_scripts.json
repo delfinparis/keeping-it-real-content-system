@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:06",
+      "end_timestamp": "00:08:26",
+      "quote": "Nobody has ever been annoyed by their agent telling them what their house is worth.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement challenges the fear agents have about reaching out to past clients and provides a simple yet effective strategy.",
+      "suggested_hook": "Are you afraid to reach out to past clients? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you afraid to reach out to past clients? Here's why you shouldn't be.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're reaching out to your database but nobody's responding. It's frustrating, right? You worry about annoying them, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth. [ON-SCREEN: 'Nobody has ever been annoyed...'] Most agents hesitate, but top producers know this is a golden opportunity. [ON-SCREEN: 'Top producers seize the opportunity']\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can do this today. Reach out with a home value update. One agent closed 47 deals last year using this approach. [ON-SCREEN: '47 deals closed']\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't fear reaching out to past clients. Here's a strategy that works. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRelationships\",\n    \"#AgentAdvice\",\n    \"#TopProducer\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Nobody has ever been annoyed by their agent telling them what their house is worth.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:16:03",
+      "end_timestamp": "00:16:16",
+      "quote": "Every past client you ignore is somebody who's going to buy or sell again most likely or knows three people that will.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential loss of business from neglecting past clients, which can resonate with many agents.",
+      "suggested_hook": "Ignoring past clients? Here's what you're missing out on."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Ignoring past clients? Here's what you're missing out on.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Every past client you ignore is somebody who's going to buy or sell again most likely or knows three people that will. Sound familiar? You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Most agents let past clients slip away. Top producers maintain those relationships. [ON-SCREEN: Past clients = future deals] Every ignored client could mean three missed referrals. [ON-SCREEN: 3 referrals per client] Build a follow-up system to stay top of mind. [ON-SCREEN: Follow-up system = success]\",\n    \"REFRAME_APPLICATION\": \"Why does this matter now? You can do this today. Start by reaching out to just one past client. This agent closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"caption\": \"Ignoring past clients? You're missing out on future deals. #RealEstateTips\",\n  \"hashtags\": [\n    \"#RealEstateTips\",\n    \"#ClientRelationships\",\n    \"#AgentSuccess\",\n    \"#FollowUp\",\n    \"#TopProducer\"\n  ],\n  \"content_pillar\": \"top_producer_secrets\",\n  \"shareable_moment\": \"Every ignored client could mean three missed referrals.\"\n}\n```"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:11",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing... It got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights the unexpected power of personal content over traditional real estate posts.",
+      "suggested_hook": "Want to boost your social media engagement? Here's a surprising tip!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to boost your social media engagement? Here's a surprising tip!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"One of Kim Rittberg's clients posted a photo of himself skiing... It got five times the engagement of his real estate posts. You're posting listings, but no one's engaging. Sound familiar?\",\n    \"INSIGHT\": \"Kim Rittberg says, 'Personal content can outperform traditional real estate posts.' [ON-SCREEN: Personal content outperforms] Most agents focus on listings. Top producers share their lives. [ON-SCREEN: 5x engagement on personal posts]\",\n    \"REFRAME/APPLICATION\": \"This matters because connection builds credibility. Try sharing a personal moment this week. Kim's client saw 5x engagement with this approach. [ON-SCREEN: 5x engagement]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Boost engagement by sharing personal moments! Are you doing this already?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SocialMediaStrategy\", \"#AgentSuccess\", \"#PersonalBranding\", \"#EngagementBoost\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Personal content can outperform traditional real estate posts.\"\n}\n```"
+  }
+]

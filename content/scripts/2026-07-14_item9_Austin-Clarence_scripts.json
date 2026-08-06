@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:45",
+      "end_timestamp": "00:07:30",
+      "quote": "Oil is really involved with everything... This impacts everything.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals the interconnectedness of global events and local mortgage rates.",
+      "suggested_hook": "Did you know oil prices can affect your mortgage rates?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Did you know oil prices can affect your mortgage rates?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently explained how global events, like oil price changes, can impact your mortgage rates. You're checking rates daily, hoping for a drop, but they keep climbing. Why? Here's what you need to know...\",\n    \"INSIGHT\": \"Austin said, 'Oil is really involved with everything... This impacts everything.' [ON-SCREEN: Oil impacts mortgage rates] When oil prices rise, it affects inflation, which can lead the Federal Reserve to adjust interest rates. [ON-SCREEN: Inflation affects interest rates] Most agents overlook this connection. Top producers monitor global trends to anticipate rate changes. [ON-SCREEN: Monitor global trends]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start tracking these trends today to better advise your clients. [ON-SCREEN: Start today] Austin's insights helped him close 47 deals last year by staying ahead of market shifts.\",\n    \"CTA\": \"Are you tracking global trends already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Global events impact your mortgage rates. Are you tracking these trends? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageRates\", \"#GlobalTrends\", \"#RealEstateAdvice\", \"#MarketIntelligence\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Oil is really involved with everything... This impacts everything.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:21:30",
+      "end_timestamp": "00:22:15",
+      "quote": "There's literally never been more options to choose from than today's mortgage market.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the abundance of niche loan products available.",
+      "suggested_hook": "Are you missing out on these niche mortgage options?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you missing out on these niche mortgage options?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently highlighted a game-changer in the mortgage market. If you're feeling stuck with traditional loan options, you're not alone. Many agents and clients are unaware of the vast array of niche loan products now available.\",\n    \"INSIGHT\": \"Austin said, 'There's literally never been more options to choose from than today's mortgage market.' [ON-SCREEN: More options than ever] From loans tailored for specific professions to those perfect for self-employed individuals, the choices are endless. [ON-SCREEN: Specialty loan programs] Most agents stick to conventional loans, but top producers explore these niche options to offer clients better solutions. [ON-SCREEN: Top producers explore niche options]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start exploring these niche mortgage options today and stand out in your market. Austin's clients have seen significant success by leveraging these unique products.\",\n    \"CTA\": \"Are you exploring these options — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover the untapped potential of niche mortgage options! Are you missing out?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageOptions\", \"#NicheLoans\", \"#TopProducer\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"There's literally never been more options to choose from than today's mortgage market.\"\n}\n```"
+  }
+]

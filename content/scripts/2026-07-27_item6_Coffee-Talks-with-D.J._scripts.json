@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:08",
+      "end_timestamp": "00:04:42",
+      "quote": "Nobody owns the middle. So ask yourself who is genuinely responsible for your buyers confidence between the day they sign and the day they close.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "This highlights a common oversight in real estate transactions and emphasizes the need for proactive client management.",
+      "suggested_hook": "Are you losing deals because nobody owns the middle?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you losing deals because nobody owns the middle?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're closing deals, but then they fall through. You think you've done everything right, but there's a gap. Who's guiding your buyer from signing to closing? Most agents overlook this crucial phase. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Nobody owns the middle. Ask yourself who is genuinely responsible for your buyer's confidence between the day they sign and the day they close. [ON-SCREEN: Own the Middle] Most agents assume it's automatic. Top producers actively manage this phase. [ON-SCREEN: Active Management] They ensure constant communication and reassurance. [ON-SCREEN: Reassurance is Key]\",\n    \"REFRAME/APPLICATION\": \"This matters because losing a deal at this stage is costly. You can start applying this today by setting up a simple check-in system. This agent closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't let deals slip through the cracks. Own the middle and close with confidence.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#DealClosing\", \"#AgentAdvice\", \"#ClientManagement\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Nobody owns the middle. Ask yourself who is genuinely responsible for your buyer's confidence.\"\n}\n```"
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Sam Burke",
+    "title": "Real Estate Broker",
+    "company": "John L. Scott",
+    "production_level": "Top 1%",
+    "specialty": "Residential, Investment, New Construction",
+    "location": "Snohomish, Washington"
+  },
+  "main_topics": [
+    "Lead Generation through YouTube",
+    "Building a Real Estate Business as a Young Agent",
+    "Investment Strategies in Real Estate",
+    "Maintaining High Standards Across Listings",
+    "Utilizing Social Media for Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads with a small YouTube audience",
+      "solution_summary": "Focus on creating valuable content that answers specific questions potential clients have about the area.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the challenge of being a young agent",
+      "solution_summary": "Develop a strong belief in oneself and maintain high standards in service to build credibility.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling services according to listing price",
+      "solution_summary": "Maintain consistent high-quality service for all listings to build a strong brand reputation.",
+      "timestamp": "00:18:22"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Sam shares his journey from starting out to becoming a top producer, providing a roadmap for new agents.",
+      "key_takeaway": "Focus on building relationships and providing consistent value to grow your business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sam discusses the importance of maintaining high standards and leveraging digital strategies.",
+      "key_takeaway": "Your brand is built on consistent quality and strategic use of digital platforms."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:07",
+      "quote": "Sam Burke has just over 200 YouTube subscribers yet it's one of his best lead sources for his business.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This highlights the power of quality over quantity in digital marketing.",
+      "suggested_hook": "Can a small YouTube channel really drive big business? Sam Burke proves it can."
+    },
+    {
+      "timestamp": "00:18:22",
+      "end_timestamp": "00:19:00",
+      "quote": "I want that seller to be able to look back at every single house that I've listed since I was 22 years old and know that I treated every single seller with the same attention to detail.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of consistent quality in building a lasting brand.",
+      "suggested_hook": "Why treating every client like a luxury client pays off in the long run."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Daily visualization and goal setting",
+      "context": "Write down where you want to be and what you're grateful for each day to maintain focus and motivation.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "tactic": "Cold calling with a specific buy box",
+      "context": "Identify specific property attributes and reach out to owners to find investment opportunities.",
+      "timestamp": "00:25:00"
+    }
+  ],
+  "quotable_insights": [
+    "The size of your channel isn't the point.",
+    "The work that was uncomfortable was often what helped you get closer to your goal."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Think and Grow Rich",
+      "context": "Recommended for understanding the power of belief and visualization in achieving success."
+    }
+  ],
+  "episode_summary": "In this episode, Sam Burke shares his journey from a young real estate agent to a top producer, emphasizing the importance of maintaining high standards and building a strong personal brand. He discusses leveraging YouTube for lead generation, even with a small audience, and provides insights into his investment strategies and daily practices for success.",
+  "_metadata": {
+    "source_file": "2026-08-05_item1_Sam-Burke",
+    "analyzed_at": "2026-08-06T06:33:52.274570",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
