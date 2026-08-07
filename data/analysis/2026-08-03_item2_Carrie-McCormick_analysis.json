@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top Producing Real Estate Agent",
+    "company": "Carrie McCormick Group, At Properties, Christie's International",
+    "production_level": "Top 0.001% of agents in Chicago",
+    "specialty": "Luxury real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Impact of AI on real estate",
+    "Luxury real estate market trends",
+    "Importance of lifestyle in property selection",
+    "Role of personal branding for agents",
+    "Chicago's position in the luxury market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Will AI replace real estate agents?",
+      "solution_summary": "AI will not replace agents but will replace average marketing. Agents should focus on becoming trusted advisors with hyper-local expertise.",
+      "timestamp": "00:04:55"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "How can agents stand out in a market influenced by AI?",
+      "solution_summary": "Agents should build a strong personal brand and become small media companies to provide value and be recognized by AI.",
+      "timestamp": "00:19:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses how AI is reshaping the luxury market and how agents can leverage this change.",
+      "key_takeaway": "Focus on lifestyle matching and personal branding to thrive in an AI-influenced market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on how AI can create more luxury buyers and the importance of local expertise.",
+      "key_takeaway": "Emphasize the value of hyper-local expertise and lifestyle matching in team training."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:55",
+      "end_timestamp": "00:06:20",
+      "quote": "AI isn't replacing real estate agents. It's replacing average marketing.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common fear of AI replacing jobs, offering a positive perspective.",
+      "suggested_hook": "Think AI is coming for your job? Think again."
+    },
+    {
+      "timestamp": "00:17:04",
+      "end_timestamp": "00:17:10",
+      "quote": "When information becomes free, judgment becomes priceless.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the enduring value of human expertise in a data-driven world.",
+      "suggested_hook": "In a world of free information, what's truly priceless?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on lifestyle matching for clients.",
+      "context": "Understand and match clients' lifestyle needs with the right properties.",
+      "timestamp": "00:13:37"
+    },
+    {
+      "tactic": "Build a strong personal brand and become a media company.",
+      "context": "Create valuable content that educates and engages your audience.",
+      "timestamp": "00:19:45"
+    }
+  ],
+  "quotable_insights": [
+    "AI will create more luxury buyers than it replaces agents.",
+    "Trust is going to be the new currency in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the transformative impact of AI on the luxury real estate market, emphasizing that AI will replace average marketing, not agents. She highlights the importance of lifestyle matching and personal branding for agents to thrive in an AI-influenced market. Carrie also predicts that Chicago will continue to attract affluent buyers due to its value as a luxury market.",
+  "_metadata": {
+    "source_file": "2026-08-03_item2_Carrie-McCormick",
+    "analyzed_at": "2026-08-07T05:48:32.855897",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

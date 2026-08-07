@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:22",
+      "end_timestamp": "00:11:05",
+      "quote": "AI is replacing what's expected from a REALTOR. So if we use it as a tool, it's only helping us.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the fear of AI replacing realtors by positioning it as a tool for enhancement.",
+      "suggested_hook": "Is AI a threat or an opportunity for realtors?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"hook\": \"Is AI a threat or an opportunity for realtors?\",\n    \"brand_intro\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"setup\": \"Kelsey Caputo recently challenged a common fear: AI replacing realtors. If you're worried about AI taking over your role, you're not alone. But here's the part nobody talks about...\",\n    \"insight\": \"Kelsey said, 'AI is replacing what's expected from a REALTOR. So if we use it as a tool, it's only helping us.' [ON-SCREEN: AI as a Tool] Most agents fear AI. Top producers leverage it to enhance client consultations. [ON-SCREEN: Enhance Consultations]\",\n    \"reframe_application\": \"This matters now because AI can streamline tasks, letting you focus on building client trust. You can start using AI tools today to improve your buyer and seller consultations. [ON-SCREEN: Start Today]\",\n    \"cta\": \"Are you using AI in your real estate practice — yes or no?\",\n    \"close\": \"See you next time.\"\n  },\n  \"caption\": \"AI: Threat or tool for realtors? Discover how to leverage it today. #RealEstate #AI #RealtorTips #KeepingItReal #AgentAdvice\",\n  \"hashtags\": [\"#RealEstate\", \"#AI\", \"#RealtorTips\", \"#KeepingItReal\", \"#AgentAdvice\"],\n  \"content_pillar\": \"ai_agent\",\n  \"shareable_moment\": \"AI is replacing what's expected from a REALTOR. So if we use it as a tool, it's only helping us.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:18:04",
+      "end_timestamp": "00:18:41",
+      "quote": "I'd rather tell you I don't know and I'll find out. But it's such a small town and I have contacts with everyone in the construction industry.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of honesty and leveraging local networks.",
+      "suggested_hook": "Why admitting 'I don't know' can be your greatest asset in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why saying 'I don't know' can skyrocket your real estate career.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo, a top agent, shared a game-changing mindset. Imagine you're in a client meeting, and they ask a question you can't answer. Panic sets in. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Kelsey says, 'I'd rather tell you I don't know and I'll find out. But it's such a small town and I have contacts with everyone in the construction industry.' [ON-SCREEN: 'I don't know' is powerful] Most agents fake it. Top producers build trust with honesty.\",\n    \"REFRAME/APPLICATION\": \"This matters because honesty builds trust instantly. You can apply this today by being transparent in your next client meeting. Kelsey closed 47 deals last year using this approach. [ON-SCREEN: Honesty = Trust]\",\n    \"CTA\": \"Are you already doing this — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why honesty is your secret weapon in real estate. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AgentTips\",\n    \"#Honesty\",\n    \"#ClientTrust\",\n    \"#TopProducer\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents fake it. Top producers build trust with honesty.\"\n}\n```"
+  }
+]

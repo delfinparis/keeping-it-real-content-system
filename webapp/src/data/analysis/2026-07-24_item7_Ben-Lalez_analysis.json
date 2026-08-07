@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Compass",
+    "production_level": "Top 3-4 producing team in Chicago",
+    "specialty": "Tech-forward real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Importance of consistent client communication",
+    "Leveraging AI in real estate",
+    "Challenges in agent follow-up",
+    "Role of AI in future real estate transactions",
+    "Agent productivity and efficiency"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents losing deals due to lack of follow-up",
+      "solution_summary": "Maintain daily communication with active clients, even if there's no update, to keep them engaged and informed.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Fear of AI replacing real estate agents",
+      "solution_summary": "AI will assist but not replace agents; focus on emotional intelligence and personal connections.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode addresses the common issue of losing clients due to poor follow-up practices.",
+      "key_takeaway": "Consistent communication is key to retaining clients and closing deals."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The discussion on AI and team management provides insights into improving team productivity.",
+      "key_takeaway": "Leverage AI for efficiency but focus on human elements that AI can't replicate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "If someone is a lead, you communicate with them every day. Even if it's just to say you don't have anything to say.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It provides a clear, actionable tactic for improving client retention.",
+      "suggested_hook": "Want to stop losing clients? Here's a simple daily habit that makes all the difference."
+    },
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "AI will solve for experience, but it won't replace the human touch in real estate transactions.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the fear that AI will replace real estate agents.",
+      "suggested_hook": "Worried about AI taking over real estate? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Daily client communication",
+      "context": "Reach out to active clients every day to maintain engagement.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Use AI for efficiency, not replacement",
+      "context": "Leverage AI tools to handle repetitive tasks, freeing up time for personal client interactions.",
+      "timestamp": "17:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistent communication is the easiest thing agents don't do.",
+    "AI will assist but not replace the human touch in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the critical importance of consistent client communication and how it can prevent lost deals. The conversation also explores the role of AI in real estate, emphasizing that while AI can enhance efficiency, it cannot replace the human touch. The episode provides actionable insights for agents to improve their follow-up practices and leverage technology effectively.",
+  "_metadata": {
+    "source_file": "2026-07-24_item7_Ben-Lalez",
+    "analyzed_at": "2026-08-07T05:47:09.683494",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
