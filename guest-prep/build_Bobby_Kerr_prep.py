@@ -128,9 +128,39 @@ r.bold = True
 r.font.size = Pt(24)
 sub2 = doc.add_paragraph()
 sub2.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r = sub2.add_run('Founder, LOC8 My Business  |  Google Business Profile optimization for real estate  |  Prepared August 11, 2026')
+r = sub2.add_run('Founder, LOC8 My Business  |  Google Business Profile optimization for real estate  |  Prepared August 11, 2026  |  v2')
 r.italic = True
 r.font.size = Pt(10)
+
+# =====================================================================
+# PAGE 0 — WHAT CHANGED IN v2
+# =====================================================================
+h1('WHAT CHANGED IN v2')
+p('A second stress test, a council re-run, and a full EP rewrite ran on v1. If you already read v1, these are the only things you need to re-learn.', italic=True, size=9.5)
+bullet('The 83% stat is now verified, and a better number came out of the check. ', 'v1 told you to say 83% on air off a source I never actually opened. It holds up, but the sharper finding is Pew: when Google shows an AI answer, people click a cited source about 1% of the time. Q3 was rebuilt around it.')
+bullet('Q3 now asks about more than Google. ', 'v1 titled the episode around AI search and then only interrogated Google. Gemini reads the profile directly. ChatGPT largely does not, it leans on Bing Places, Yelp, and Foursquare. That is in his own pitch and v1 buried it in the research brief.')
+bullet('There is now a scripted guest intro. ', 'v1 referenced the intro four separate times in the landmines and never wrote one. That was the biggest hole in the document. See the next page.')
+bullet('There is now a green-room brief. ', 'Three things have to be said before you record, including the one that stops Rapid Fire from burning his best story.')
+bullet('Block 3 lost two minutes and Block 4 gained them. ', 'v1 gave the block with both never-cut questions the least room on the clock. That was backwards. See the council, which is also how the v1 dissent got resolved.')
+bullet('The stat rule got precise. ', 'v1 said no guest-supplied numbers in the descriptions and then put one in the YouTube description. The rule now separates performance claims, which are banned, from volume claims, which are fine when attributed. See Landmine 5.')
+bullet('Q10 moved onto the never-cut list. ', 'v1 called the Rapid Fire callbacks load-bearing and then left both of them cuttable. Contradiction fixed.')
+
+doc.add_page_break()
+
+# =====================================================================
+# THE INTRO AND THE GREEN ROOM
+# =====================================================================
+h1('THE INTRO (read as written)')
+p('This is the safe version. Every landmine in this document is already engineered out of it: no business list, no years, no city, no performance numbers, and no chance of introducing the other Bobby Kerr.', italic=True, size=9.5)
+rich([('"My guest today is Bobby Kerr. He is the founder of LOC8 My Business, which is a marketing agency built around exactly one thing, the Google Business Profile that every real estate agent has and almost nobody has finished. He has rebuilt more than a thousand of them for agents and teams across the United States and Canada. Before this he spent years running businesses inside our industry, and I am going to let him tell you which ones. Bobby, welcome to Keeping It Real."', False, True)])
+p('The line "I am going to let him tell you which ones" is doing real work. It gets his resume on tape in his own words without you asserting a version of it that his own published bios contradict. See Landmine 2.', italic=True, size=9.5)
+
+h2('GREEN ROOM (say all three before you hit record)')
+bullet('1. "How do you say your name, and are you Bobby or Robert on air?" ', 'Also confirm his pronouns. He uses he and him throughout his own materials but he has never said so in public.')
+bullet('2. "Where are you sitting right now?" ', 'Solves Landmine 3 off air. His company address is Florida and most of his history is Kansas City, and you do not want to find that out live.')
+bullet('3. THE IMPORTANT ONE. "I open with four rapid fire questions, including best and worst advice. Keep them short, because I am not going to follow up on them there. Both of your answers are too good to spend in minute one, so we are coming back to them later on purpose." ', 'This is the fix for the single biggest structural problem with this guest. Without it, he tells his two best stories in ninety seconds to a host who then changes the subject, and the callbacks at Q9 and Q10 land as repetition instead of as a return.')
+
+doc.add_page_break()
 
 # =====================================================================
 # PAGE 1 — QUICK REFERENCE CARD
@@ -159,7 +189,7 @@ rich([('THE ONE THING THAT MAKES THIS AN EPISODE AND NOT AN AD: ', True),
       ('Everything he says will be true and almost none of it will be specific unless you make it specific. "Optimize your profile" is not an answer. "Fill out your services" is not an answer. The answer is the words he would type into the box. Every single time he gives you a category, ask for the sentence. If you leave with a checklist and no example copy, the episode failed.', False, False)])
 
 rich([('WATCH OUT FOR (this one will bite you in minute two): ', True),
-      ('He already sent his best advice and his worst advice in the intake, and both of them are load-bearing for this episode. The standardized Rapid Fire will spend them in the first two minutes and you do not follow up on Rapid Fire. So after each of those two answers, say "Love it, and we are coming back to that." Then come back to them on purpose: the worst-advice callback is Q9 and the best-advice callback is Q10. They are written out. Do not improvise the callbacks.', False, False)])
+      ('He already sent his best advice and his worst advice in the intake, and both of them are load-bearing for this episode. The standardized Rapid Fire will spend them in the first two minutes and you do not follow up on Rapid Fire. Pre-brief him in the green room, sentence 3 on the intro page, then after each of those two answers say "Love it, and we are coming back to that." Then come back to them on purpose: the worst-advice callback is Q9 and the best-advice callback is Q10. They are written out. Do not improvise the callbacks.', False, False)])
 
 rich([('THE "I\'VE INTERVIEWED HUNDREDS" MOMENT (use once, Q15): ', True),
       ('"I have interviewed hundreds of agents on this show, and when Google comes up the answer is almost always the same. I claimed it years ago, it is fine, and anyway my business comes from referrals. That agent is listening right now and he is not wrong about his referrals. Talk to him directly."', False, False)])
@@ -192,7 +222,9 @@ rich([('4. GOOGLE KILLED THE Q&A SECTION AND HE STILL TEACHES IT. ', True),
       ('His topic pitch lists Q&A as one of the fields to fill on a complete profile. Google discontinued the Q&A API on November 3, 2025, began phasing the public Q&A section out on December 3, 2025, and new profiles are now created without it. The replacement is the Gemini-powered "Ask about this place" answer box, which generates answers in real time from the profile, the reviews, the photos, and the website. This is the single most interesting question in the episode and also the easiest one to blow. Q7 is written to land it as two practitioners comparing notes, not as a correction. If he says Q&A is still on profiles, do not argue and do not fact-check him on air. Your line is "on some it still is, on new ones it is gone, so what fills that job now," and you move. The listener hears the update either way and he keeps his dignity.', False, False)])
 
 rich([('5. THE NUMBERS DO NOT AGREE WITH EACH OTHER. ', True),
-      ('He has publicly used "1065% more likely to get calls and clicks" for profiles with 100+ photos, and his site uses "10x more client calls," "3 to 5x more profile views," and a client who got $1.2M in listings in two weeks. None of those have a traceable primary source. Separately, his SpeakerFlow bio says 1,200+ five-star reviews across his own Kansas City businesses while LOC8\'s site says 248+ reviews at 4.9. Those are two different things and stacking them sounds like a contradiction. RULE: let him say his numbers, do not repeat them back, do not put them in the intro, and never say two of them in the same sentence. The only number you say out loud is the 83% no-click figure in Q3, and that one is published research, not his.', False, False)])
+      ('He has publicly used "1065% more likely to get calls and clicks" for profiles with 100+ photos, and his site uses "10x more client calls," "3 to 5x more profile views," and a client who got $1.2M in listings in two weeks. None of those have a traceable primary source. Separately, his SpeakerFlow bio says 1,200+ five-star reviews across his own Kansas City businesses while LOC8\'s site says 248+ reviews at 4.9. Those are two different things and stacking them sounds like a contradiction.', False, False)])
+rich([('   THE RULE, and v2 made it precise because v1 was sloppy about it: ', True),
+      ('Performance claims are banned from your mouth. That is 1065%, 10x, 3 to 5x, and the $1.2M. Let him say them, do not repeat them back, never say two in one sentence, and keep all of them out of the intro, the titles, and the descriptions. Volume claims are fine when they are attributed to him: more than a thousand profiles rebuilt, 160+ markets, US and Canada. Those are consistent across every source of his and they describe what he did, not what it produced. That is why the intro and the YouTube description both carry the thousand. The only research number you assert as fact is in Q3, and it is not his.', False, False)])
 
 rich([('6. SPONSOR EXPOSURE. ', True),
       ('His whole thesis is that the free Google page beats the paid website, and that agents who outsource content to third-party posting companies get buried. Real Geeks sells agent websites and lead generation. Courted sells agent data. Let him make his case in full, but do not co-sign it, do not add your own shot at the category, and do not let a clip go out that reads as the show saying websites are dead. The frame that keeps everybody whole is written into Q2: the profile is the front door, the website is the house, and most agents built the house and boarded up the door. Q2 also forces him to name what the website still does that the profile cannot, which is the sentence that makes the clip safe.', False, False)])
@@ -215,9 +247,9 @@ table(['#', 'Title', 'Ships To', 'Why It Works'],
       [['1', 'Ranking Is Over. Bobby Kerr on Getting Handed to the Buyer as the Answer.',
         'Podcast feed, social cuts',
         'Kills a belief in four words, then names the replacement. No number to defend, no jargon to decode, and it works on an agent who has never heard of him.'],
-       ['2', '83% of Google Searches Now End Without a Click. Bobby Kerr on How Agents Get Picked Anyway.',
+       ['2', 'Google Cites You and Nobody Clicks. Bobby Kerr on Getting Picked Inside the Answer.',
         'YouTube',
-        'The stat does the search and authority work, and "anyway" holds the curiosity open. The number is published research, not a guest claim, so it survives scrutiny.'],
+        'Built on the verified Pew finding that a cited source gets clicked about 1% of the time. The threat is in the first four words and the escape is withheld. v1 used the 83% version of this, which is true but is the number every SEO account already posted.'],
        ['3', 'The Free Google Page You Claimed and Forgot Is Now Your Front Door (Bobby Kerr)',
         'Hold for a clip caption',
         'Best emotional hit of the three because it accuses the listener gently, but "front door" is his metaphor and it needs the episode around it to mean anything.']],
@@ -246,8 +278,8 @@ table(['Segment', 'Time', 'Purpose'],
       [['Rapid Fire', '0:00 to 2:00 post-intro', '4 standardized questions, no follow-ups. Read the Watch Out For note first.'],
        ['Block 1: The Front Door', '2:00 to 12:00', 'Why this surface, and why "I claimed it years ago" is the whole problem.'],
        ['Block 2: What Complete Actually Means', '12:00 to 22:00', 'The build, field by field. The Q&A change. The suspension rules.'],
-       ['Block 3: Commodity vs Non-Commodity', '22:00 to 32:00', 'Why syndicated content buries a profile and what hyperlocal looks like in a sentence.'],
-       ['Block 4: Reviews and Being the Answer', '32:00 to 40:00', 'Review text over star count, and the exact ask.'],
+       ['Block 3: Commodity vs Non-Commodity', '22:00 to 30:00', 'Why syndicated content buries a profile and what hyperlocal looks like in a sentence.'],
+       ['Block 4: Reviews and Being the Answer', '30:00 to 40:00', 'Review text over star count, and the exact ask.'],
        ['The Close', '40:00 to 43:00', 'Homework, his resource, where to find him.']],
       widths=[1.9, 1.6, 3.4])
 
@@ -279,10 +311,11 @@ q(2,
   "This is your sponsor protection. Do not let him skip the second half of the question. If he does not name something the website still does, ask it again as its own question.")
 
 q(3,
-  "Here is the number that made me want to have this conversation. When Google puts an AI overview at the top of the page, the research says something like 83 percent of those searches end without a click to anybody's site, and inside AI Mode it is higher than that. If nobody is clicking through, where does an agent actually get chosen now, and what does that change about what you put on the profile?",
-  "Walk me through it screen by screen. Buyer opens their phone, types the thing, and then what happens until my phone rings?",
+  "Here is the number that made me want to have this conversation. Pew looked at what people actually do when Google shows them an AI answer, and they click one of the sources it cites about one percent of the time. One percent. So getting cited is not the win anymore, being the sentence is. What does that change about what an agent puts on the profile?",
+  "Walk me through it screen by screen. A buyer opens their phone, types the thing, and then what happens between there and my phone ringing?",
   "The mechanism behind being the answer instead of ranking, which is the promise in the title.",
-  "All segments.")
+  "All segments.",
+  "SECOND HALF, ask it as its own question and do not skip it: your pitch says Gemini reads the profile and ChatGPT reads the internet's opinion of you. Those are two different jobs. From what I have seen, ChatGPT leans on Bing Places, Yelp, and Foursquare more than it touches a Google profile at all. So which engine reads what, and what does an agent do about the ones that are not Google? This is the honest version of his own claim and it is the difference between an AI search episode and a Google episode. If he waves it off, that tells you something too.")
 
 q(4,
   "Somebody is listening to this on a treadmill right now and has not opened their profile in two years. When they get home tonight, what is the one field they open, and what do they type into it?",
@@ -323,14 +356,15 @@ q(8,
   "Last thing on the build, and it is the one that actually scares people. Agents get suspended. The name rules, the brokerage address you do not personally sit at, the service area setup. What is the safe configuration for a solo agent at a big brokerage, and what is the thing that gets people taken down that they never see coming?",
   "Give me the exact business name format for an agent named Maria Lopez at a 500 agent brokerage. Type it out loud.",
   "The compliance layer almost nobody teaches, and the reason a broker owner keeps listening.",
-  "Individual agents, new agents, broker owners.")
+  "Individual agents, new agents, broker owners.",
+  "So you can tell whether the answer is right: Google treats agents as individual practitioners, which means the profile name is the person's name and nothing else. Maria Lopez. Not Maria Lopez Realtor, not Maria Lopez Real Estate, not Maria Lopez at Anywhere Realty. Adding any of that is a suspension trigger. The other one is the address. An agent who lists a brokerage address they do not personally staff gets flagged, and the setup most solo agents actually qualify for is a service area business with the street address hidden. If he says all of that, he is the real thing. If he says put your keyword in the name because it helps you rank, that is against Google's own guidelines, and your follow-up is: how many of your clients have been suspended doing that?")
 
 bridge("Okay, so it's built and it's not going to get pulled down. Now it's empty, and it stays empty unless somebody feeds it. That's the part I want to spend the most time on, because I think this is where most agents outsource themselves into invisibility.")
 
 doc.add_page_break()
 
-h2('BLOCK 3: COMMODITY VS NON-COMMODITY (22:00 to 32:00)')
-p('Audience note: this block carries both Rapid Fire callbacks. It is also the most contestable claim in the episode, so it needs the most evidence.', italic=True, size=9.5)
+h2('BLOCK 3: COMMODITY VS NON-COMMODITY (22:00 to 30:00)')
+p('Audience note: this block carries both Rapid Fire callbacks. It is also the most contestable claim in the episode, so it needs the most evidence. v2 cut it from ten minutes to eight and gave them to Block 4. Four questions in eight minutes means you cannot let him run here, and Q12 is the one that goes if he does.', italic=True, size=9.5)
 p('Arc: the callback, the proof, the specialty problem, the calendar, the broker version.', italic=True, size=9.5)
 
 q(9,
@@ -363,8 +397,8 @@ bridge("So it's built, it's fed, and it's specific. The last piece is the one ag
 
 doc.add_page_break()
 
-h2('BLOCK 4: REVIEWS AND BEING THE ANSWER (32:00 to 40:00)')
-p('Audience note: the most immediately actionable block in the episode, and the one with the highest chance of producing a screenshot.', italic=True, size=9.5)
+h2('BLOCK 4: REVIEWS AND BEING THE ANSWER (30:00 to 40:00)')
+p('Audience note: the most immediately actionable block in the episode, the one with the highest chance of producing a screenshot, and the only block holding two never-cut questions. v1 gave it the tightest clock in the episode, which was backwards. It now gets ten minutes.', italic=True, size=9.5)
 p('Arc: the wrong metric, the exact ask, the objection, the honest timeline.', italic=True, size=9.5)
 
 q(13,
@@ -404,20 +438,22 @@ q('17a',
 
 h2('THE CLOSE')
 rich([('HOMEWORK (read verbatim): ', True),
-      ('"Here is what I want you to do before the next episode. Open your Google Business Profile, go to the services section, and write out every service you actually offer, named the way a client would say it, with your neighborhoods inside the words. If you have fewer than ten, you have got homework. Not next month. This week."', False, True)])
-p('Why this one: it is free, it takes under thirty minutes, done is countable, and it is the exact field Q6 gave them the example copy for. If Q6 produces a better field, swap it, but keep the counting. The counting is what makes it done.', italic=True, size=9.5)
+      ('"Here is what I want you to do before the next episode. Open your Google Business Profile, go to the services section, and write ten services. Not four. Ten. Each one named the way a client would say it out loud, and each one with a neighborhood in it. If you have got four in there right now, you are six short. Not next month. This week."', False, True)])
+p('Why this one: it is free, it takes under thirty minutes, and done is a number you can count. v1 said "write out every service you offer, and if you have fewer than ten you have homework," which left the listener unsure whether done meant counting or writing. Ten is the assignment. If Q6 produces a better field than services, swap the field, but keep the number. The number is what makes it done.', italic=True, size=9.5)
 
 rich([('GUEST CLOSE: ', True), ('"Where can people find you, and what do you want them to do first?" He has several free giveaways: the 5-Step Local Search System checklist, a free training video, a full GBP guide, and the From Forgotten to Found download. Ask him to name ONE. Four offers is the same as none, and it is also the exact mistake this episode is about.',)])
 
 h3('If you are running long, cut these first')
-bullet('1. Q12, the broker flip. ', 'It is the furthest from your largest audience segment, and Block 3 still ends on an implementation question without it.')
+bullet('1. Q12, the broker flip. ', 'It is the furthest from your largest audience segment, and Block 3 still ends on an implementation question without it. Block 3 is eight minutes now, so assume you are cutting this one.')
 bullet('2. Q17a, the human landing. ', 'Warmest thing in the episode, but the close survives without it and the homework does not.')
 bullet('3. Q4. ', 'If Q2 already produced the first field, this is the same answer twice. The homework covers it anyway.')
-bullet('4. Q3. ', 'Only if the AI framing already came out inside Q2. If it did not, keep it, because the title is built on it.')
+bullet('4. Q11, the calendar. ', 'Only if Q9 already produced the cadence, which happens more often than you would think, because he cannot explain why syndicated content fails without describing what feeding a profile properly looks like.')
+p('Q3 came off this list in v2. It is now carrying the verified research and the multi-engine question, which means it is the only place in the episode where the phrase AI search gets tested instead of assumed.', italic=True, size=9.5)
 
 h3('Never cut')
 bullet('Q5. ', 'The list in order. Without it there is no episode, only opinions.')
 bullet('Q7. ', 'The Q and A change. This is the only minute of this episode that could not have been recorded two years ago.')
+bullet('Q10. ', 'The best-advice callback. Added in v2. Rapid Fire spends his best story in minute one, and this is the only thing in the run of show that buys it back. v1 called the callbacks load-bearing and then left both of them cuttable.')
 bullet('Q13. ', 'Review text over star count. The reframe.')
 bullet('Q14. ', 'The exact ask. The screenshot.')
 bullet('Q15. ', 'The objection said out loud. This is the one that decides whether anybody acts.')
@@ -461,7 +497,9 @@ table(['Stat', 'Source', 'Confidence'],
        ['10x more client calls, 3 to 5x more profile views', 'LOC8 site', 'Unverified marketing claim. Do not repeat.'],
        ['$1.2M in listings within two weeks for one client', 'LOC8 site', 'Unverified. The Annapolis two-listings version in Q1 is the safer telling.'],
        ['1065% more likely to get calls and clicks with 100+ photos', 'Said by him on SpeakerFlow', 'Unverified, widely circulated with no primary source. Do not echo it.'],
-       ['83% of searches with an AI overview end with no click, 93% in AI Mode', 'Published 2026 research reported in real estate trade coverage', 'Medium to high. This is the one number you say on air.'],
+       ['People click a cited source about 1% of the time when an AI Overview is shown, and click through on 8% of those searches versus 15% without one', 'Pew Research behavioral tracking', 'High. Verified in the v2 pass. This is the number you say on air, and it is now the basis for Q3.'],
+       ['83% of searches with an AI Overview end with no click, 93% inside AI Mode', 'Seer Interactive; AI Mode figure via Semrush, Sept 2025', 'Medium to high. Safe to say, but the Pew number is sharper and lands harder.'],
+       ['68% of all US Google searches end without a click', 'SparkToro and Similarweb, 2026', 'High. Useful for context if he asks where the number comes from.'],
        ['GBP signals are roughly 32% of local pack ranking', 'Whitespark 2026 Local Search Ranking Factors', 'High'],
        ['Public Q and A discontinued: API Nov 3 2025, public section phasing out from Dec 3 2025', 'Google support documentation and industry coverage', 'High. This is the basis for Q7.'],
        ['Gemini grounds local answers in Google Maps data across 250M+ verified places', 'Google, 2026', 'High'],
@@ -504,7 +542,7 @@ h3('TikTok Live')
 p('Your Google profile is doing more for your business than your website, and you have not opened it in two years. #realtor #realestateagent #localseo')
 
 h3('YouTube Live')
-p('Bobby Kerr, founder of LOC8 My Business, has optimized Google Business Profiles for more than 1,000 real estate agents across the US and Canada. On this episode of the Keeping It Real Podcast, he walks D.J. Paris through what a complete profile actually looks like field by field, why the text inside a review beats the star count, what changed when Google removed the Q and A section, and how agents get cited by AI search engines. Google Business Profile optimization, local SEO, and AI search visibility for realtors.')
+p('Bobby Kerr, founder of LOC8 My Business, has optimized Google Business Profiles for more than 1,000 real estate agents across the US and Canada. On this episode of the Keeping It Real Podcast, he walks D.J. Paris through what a complete profile actually looks like field by field, why the text inside a review beats the star count, what changed when Google removed the Q and A section, and which AI engines actually read a Google profile versus which ones do not. Google Business Profile optimization, local SEO, and AI search visibility for realtors.')
 
 h3('LinkedIn Live')
 p('Search is changing faster than most agents have changed their marketing. Bobby Kerr, founder of LOC8 My Business, joins D.J. Paris to break down how a Google Business Profile now feeds both the local map pack and AI answer engines. We also get into the brokerage question: what a broker does about hundreds of agent profiles that are blank, wrong, or one policy violation away from suspension.')
@@ -520,26 +558,26 @@ doc.add_page_break()
 # SECTION 6 — YOUTUBE CHAPTER MARKERS
 # =====================================================================
 h1('SECTION 6: YOUTUBE CHAPTER MARKERS')
-p('Estimates. Adjust after recording. Each title is written to be searchable on its own.', italic=True, size=9.5)
+p('Estimates. Adjust after recording. Each title is written to be searchable on its own. Retimed in v2 for the Block 3 and Block 4 rebalance. If you use the cut list, the 29:00 and 40:00 chapters are the two that disappear, so delete those rows rather than stretching the ones around them.', italic=True, size=9.5)
 table(['Timestamp', 'Chapter Title'],
       [['0:00', 'Ranking Is Not the Game Anymore. Being the Answer Is.'],
        ['2:00', 'Rapid Fire: Best and Worst Advice Bobby Kerr Ever Got'],
        ['4:00', 'The Agent Who Got Two Listings Two Weeks After Fixing Her Google Profile'],
        ['7:00', 'Google Business Profile vs Your Website: Where the 500 Dollars Should Go'],
-       ['9:30', '83% of AI Searches End With No Click. So Where Do Agents Get Chosen?'],
+       ['9:30', 'People Click a Cited Source 1% of the Time. So How Do Agents Get Chosen?'],
        ['11:30', 'The One Field to Open Tonight'],
        ['12:00', 'What a Complete Google Business Profile Actually Looks Like, In Order'],
        ['15:30', 'How to Write Services for Your Neighborhood, Word for Word'],
        ['18:00', 'Google Removed the Q and A Section. What Feeds the AI Answer Box Now?'],
        ['20:00', 'How Real Estate Agents Get Their Google Profile Suspended'],
        ['22:00', 'Can Google Tell When Your Content Was Copied to a Thousand Other Agents?'],
-       ['25:30', 'How to Pick One Specialty Without Turning Away Business'],
-       ['28:00', 'The Posting Calendar: How Often a Profile Has to Be Fed'],
-       ['30:30', '800 Agents, 800 Blank Profiles. Whose Problem Is That?'],
-       ['32:00', 'Why the Words in a Review Beat the Star Count'],
-       ['35:00', 'The Exact Text Message That Gets a Client to Write a Useful Review'],
-       ['37:30', 'For the Agent Who Says My Business Comes From Referrals Anyway'],
-       ['39:00', 'How Long Before Any of This Actually Shows Up'],
+       ['25:00', 'How to Pick One Specialty Without Turning Away Business'],
+       ['27:30', 'The Posting Calendar: How Often a Profile Has to Be Fed'],
+       ['29:00', '800 Agents, 800 Blank Profiles. Whose Problem Is That?'],
+       ['30:00', 'Why the Words in a Review Beat the Star Count'],
+       ['33:30', 'The Exact Text Message That Gets a Client to Write a Useful Review'],
+       ['36:30', 'For the Agent Who Says My Business Comes From Referrals Anyway'],
+       ['38:30', 'How Long Before Any of This Actually Shows Up'],
        ['40:00', 'Bob Jovi: What a Tribute Band Taught Him About Being Memorable'],
        ['41:30', 'Homework and Where to Find Bobby Kerr']],
       widths=[1.1, 5.8])
@@ -548,103 +586,102 @@ doc.add_page_break()
 
 # =====================================================================
 # SECTION 7 — STRESS TEST, COUNCIL, EP POLISH
-# =====================================================================
-h1('SECTION 7: STRESS TEST, COUNCIL REVIEW & EP POLISH')
+# =====================================================================h1('SECTION 7: STRESS TEST, COUNCIL REVIEW & EP POLISH (v2)')
+p('This is the record of the second full round. v1 shipped after its own three passes; this section is what a fresh attack found in that finished document, what the council said on the re-run, and what actually changed. Rows here describe fixes that are visible in this document, not suggestions.', italic=True, size=9.5)
 
-h2('7A. Stress Test')
-table(['#', 'What broke', 'Fix applied'],
-      [['1', 'His resume has two published versions and the intake adds a third. The first draft opened on his origin story, which meant D.J. would have had to assert a career path nobody can verify.',
-        'Q1 was rebuilt on a client result instead of his background, and the intro carries no business list. Landmine 2 gives the one safe way to get the resume on tape, which is to let him say it.'],
-       ['2', 'Name collision. The most-searched Bobby Kerr is an Irish entrepreneur and broadcaster. Any AI-assisted intro will contaminate.',
-        'Landmine 1 added, with the three phrases never to say.'],
-       ['3', 'Unverifiable stats everywhere. 1065%, 10x calls, 3 to 5x views, $1.2M in two weeks, and two different review counts that read as a contradiction.',
-        'Landmine 5 sets the rule: let him say them, never repeat them, never stack two. 4D marks each one. No guest-supplied number appears in the cold open, the titles, or the live descriptions. The only number D.J. says is the 83% figure, which is published research.'],
-       ['4', 'Rapid Fire spends both of the questions this episode is built on, and D.J. does not follow up on Rapid Fire.',
-        'Watch Out For note on page 1 with the exact holding line, plus two written callbacks at Q9 and Q10 so the recovery is not improvised.'],
-       ['5', 'Drift risk: this becomes a product demo. He sells a build, a done-for-you, and a monthly membership, and every question in Block 2 has a price tag attached to the honest answer.',
-        'Product cap stated on page 1, plus producer notes on Q6 and Q11 that force the do-it-yourself version after he names the product once.'],
-       ['6', 'Q9 as drafted was dodgeable. Google can tell the difference between original and copied content is a belief statement he can answer with a story.',
-        'Rewritten to demand an observed before and after at ninety days, with a producer note telling D.J. not to rescue him if he cannot produce one.'],
-       ['7', 'Gotcha risk on the Q and A question. As first written it read as an ambush, and ambushing a first-time guest in minute eighteen kills the second half of the interview.',
-        'Q7 reframed as two practitioners comparing notes, with the exact recovery line written out and a landmine that forbids fact-checking him on air.'],
-       ['8', 'Runtime. The draft ran nineteen questions plus Rapid Fire against a 43 minute target with a guest who teaches webinars for a living.',
-        'Cut to sixteen plus one optional human landing. Cut list and never-cut list written.'],
-       ['9', 'Sponsor exposure. His thesis is that the free page beats the paid website, and two sponsors sell in that neighborhood.',
-        'Landmine 6, and the second half of Q2 makes him name what a website still does. That sentence is what makes the clip safe to ship.'],
-       ['10', 'A death in one of his intake stories, with a first name and a room full of identifiable professionals.',
-        'Landmine 7. It is deliberately not in the run of show, with hard rules if he raises it and a written line to land it.']],
+h2('7A. Stress Test, round two')
+table(['#', 'What broke in v1', 'Fix applied in v2'],
+      [['1', 'THE BIG ONE. v1 instructed D.J. to say 83% on air and called it the one number he could assert. That figure came out of a search summary. The underlying article returned a 403 and was never actually opened, so the document was telling the host to state a number nobody had verified. This is the exact failure the research rules exist to prevent, and v1 committed it while lecturing the guest about unsourced stats.',
+        'Verified in the v2 pass. It holds: 83% for AI Overviews via Seer Interactive, 93% inside AI Mode via Semrush. But the check surfaced a better number. Pew tracked real behavior and found a cited source gets clicked about 1% of the time. Q3 was rebuilt on it, title 2 was rebuilt on it, and 4D now carries all three figures with their actual sources.'],
+       ['2', 'The episode was titled around AI search and only ever interrogated Google. His own pitch says Gemini reads the profile and ChatGPT reads the internet\'s opinion of you, and v1 knew from research that ChatGPT leans on Bing Places, Yelp, and Foursquare rather than reading a Google profile at all. That finding was parked in a research-brief footnote marked useful if he overclaims.',
+        'It is now the second half of Q3, written out as its own question with an instruction not to skip it. If his answer is thin, that is a real finding about the depth of his system, and D.J. can hear it in real time.'],
+       ['3', 'There was no intro. v1 referenced the intro four times across the landmines, telling D.J. what not to put in it, and never wrote one. The document policed a thing it had not supplied.',
+        'Written, on its own page, engineered around every landmine, including a line that gets his contested resume on tape in his own voice instead of D.J.\'s.'],
+       ['4', 'No green room brief. The single biggest structural problem with this guest is that Rapid Fire spends both of his best stories in minute one, and v1 tried to solve it entirely with an in-the-moment holding line.',
+        'Three green-room sentences added. The third one pre-briefs him that the callbacks are coming, which turns Q9 and Q10 from repetition into a return.'],
+       ['5', 'Clock allocation was backwards. Block 4 held two of the five never-cut questions and had the tightest window in the episode at eight minutes for four questions. Block 3, the block the council already wanted shortened, had ten.',
+        'Block 3 is now 22:00 to 30:00 and Block 4 is 30:00 to 40:00. Chapter markers retimed to match.'],
+       ['6', 'Internal contradiction. Page 1 called the two Rapid Fire callbacks load-bearing, then the never-cut list contained neither of them, which meant the document told D.J. both that he had to do them and that he could drop them.',
+        'Q10 added to never-cut, with the reason written next to it. Q9 stays cuttable on purpose, because its value depends on him producing evidence he may not have.'],
+       ['7', 'The stat rule contradicted itself. Landmine 5 banned guest-supplied numbers from the descriptions, and then the YouTube description said more than 1,000 agents.',
+        'The rule now separates performance claims, which stay banned, from volume claims, which are fine when attributed. The thousand describes what he did. The 10x describes what it supposedly produced. Only one of those is safe.'],
+       ['8', 'The homework did not define done. Write out every service you offer, and if you have fewer than ten you have homework, leaves the listener unsure whether the assignment is counting or writing.',
+        'Rewritten to a flat number. Write ten, each with a neighborhood in it. Counting is the check, not the task.'],
+       ['9', 'Q8 asked the suspension question without arming D.J. with the answer, so a wrong answer would have gone straight to air unchallenged on the one topic in this episode that can actually cost a listener their profile.',
+        'Producer note now carries Google\'s actual rules: practitioner name only, no keyword in the name, and service-area setup with the address hidden for agents who do not staff the brokerage office. Plus the follow-up to use if he recommends the thing that gets people suspended.'],
+       ['10', 'Q3 sat on the cut list while carrying the episode\'s central premise.',
+        'Off the cut list. Q11 took its place, with the reason: the cadence usually falls out of Q9 anyway.']],
       widths=[0.3, 3.2, 3.4])
 
-h2('7B. Council Review')
+h2('7B. Council Review, re-run on v2')
+p('The board was reconvened on the rebuilt document. Members who signed off on v1 without changes are not repeated here.', italic=True, size=9.5)
 
 h3('Member notes')
 table(['Member', 'What they would change'],
-      [['Alex Hormozi', 'Block 2 is the whole product. Q5 and Q6 are where an agent gets paid for listening. Every other question should be measured against whether it earns its ten minutes next to those two.'],
-       ['MrBeast', 'The sag is minute twenty-two, right when the build finishes and the content talk starts. That bridge has to re-hook, not summarize. Make it accuse the listener of something.'],
-       ['Brendan Kane', 'Title 1 is the insight device, title 2 is the stat device. Run both, they are not competing for the same click. But three of your first four titles started with a number, which means you were reaching for the same ingredient twice.'],
-       ['Donald Miller', 'The hero is the agent with the blank profile, not the guy with the agency. Half the draft titles named his company. None of them do now. Grunt test on title 1: ranking is over, be the answer instead. Passes.'],
-       ['Byron Lazine', 'The Q and A removal is the take. That is a real change with a real date on it, and it is the only thing in this episode a competitor show has not already run. Do not bury it at minute eighteen without flagging it in the description.'],
-       ['Justin Welsh', 'Do not break the format for the Bob Jovi story. It is charming and it is not the episode. Keep it optional, keep it last, cut it before you cut the homework.'],
-       ['Jon Youshaei', 'Every chapter title has to sell alone. Optimize Your Profile is not a chapter. How Real Estate Agents Get Their Google Profile Suspended is a chapter. Fix all twenty or fix none.'],
-       ['Chris Do', 'Q9 costs him something to answer honestly and Q17a costs him something to answer at all. Those are the only two places in this episode where he is a person instead of a system. Protect both.']],
+      [['Alex Hormozi', 'The dissent is resolved and I will take the trade. Block 3 loses two minutes, Block 4 gains them, and the block with the screenshot question finally has room to breathe. I still think Q9 is the softest question in the episode. The difference now is that if it collapses, it collapses inside eight minutes instead of ten.'],
+       ['Brendan Kane', 'Title 2 got better because you stopped reaching for the number everybody else already posted. 83% is on every SEO account in the country. One percent is the same finding with a knife on it. That is the variant.'],
+       ['Chip and Dan Heath', 'One percent beats 83% on the mechanism, not just the drama. 83% tells the listener that people do not click, which they already suspect. One percent tells them the thing they were working toward, getting cited, does not pay, which they do not suspect at all. That is a gap opening, not a fact landing.'],
+       ['Byron Lazine', 'Now the AI part of this episode has a second engine in it. Every real estate show this year has done Google and AI. Almost none of them have said out loud that ChatGPT is mostly not reading your Google profile. If he confirms that, that is the take and it belongs in the clip pile.'],
+       ['MrBeast', 'The intro page is the fix I did not ask for and needed. v1 opened cold on a bio the host had been told he could not state. Now the first ninety seconds are scripted and the guest fills in the risky part himself.'],
+       ['Donald Miller', 'The homework got clearer and the homework is the promise. Write ten is a thing a person does. Write out every service you offer is a thing a person means to do.'],
+       ['Jon Youshaei', 'You retimed the chapters, which most people would have skipped. Add the note about which rows die when the cut list is used, because a chapter marker pointing at a question that never got asked is worse than no chapter at all.'],
+       ['Justin Welsh', 'Two rounds in, the format survived. Standardized Rapid Fire intact, four blocks, bridges written, homework at the end. The green-room brief is a format improvement worth carrying to every guest who pre-sends their advice answers, not just this one.']],
       widths=[1.4, 5.5])
 
 h3('Witnesses called')
-bullet('Chip and Dan Heath, on the curiosity claim: ', 'Title 1 opens the gap before it closes it. Ranking is over is the huh, being handed to the buyer is the aha, and the mechanism stays behind the click. The rejected draft, The Google Business Profile Checklist for Realtors, front-loaded the punchline and left nothing to find out. Curse of knowledge check: the cold open assumes the listener knows what a Google Business Profile is, which is fair, and assumes nothing about who Bobby Kerr is, which is required, because he is not a name your audience recognizes yet.')
-bullet('Jonah Berger, on the sharing claim: ', 'The arousal here is anxiety, not awe. An agent hears 83% no click and feels behind, which shares well and converts to the homework. Social currency is in Q14: the agent who forwards the review-ask script looks like the one who found it. Valuable virality check: retell the takeaway in one sentence, "reviews should say the neighborhood and the problem you solved, not just five stars," and the point survives intact. That is the clip.')
+bullet('Jonah Berger, re-called on the share claim: ', 'The share driver moved. In v1 it was Q14, the review script, which is social currency. It is now split, because one percent is an anxiety number with a specific target: the agent who has been doing SEO correctly and is about to learn that correct is no longer the same as chosen. That is high arousal and it has a villain. Valuable virality check on the new framing: retell it as "getting cited is not the win, being the sentence is," and it survives the retelling intact. Q14 is still the screenshot. Q3 is now the argument.')
+bullet('Chip and Dan Heath, on the curse of knowledge in the new intro: ', 'The intro assumes the listener knows what a Google Business Profile is and assumes nothing about who Bobby Kerr is. Correct on both. The phrase every agent has and almost nobody has finished does the whole job in nine words, because it makes the listener check their own profile mentally before the guest has said a word.')
 
-h3('Title (pick one to run, keep the others to A/B)')
+h3('Title (unchanged recommendation, sharpened runner-up)')
 table(['#', 'Title', 'Ingredient', 'Curiosity mechanism'],
       [['1', 'Ranking Is Over. Bobby Kerr on Getting Handed to the Buyer as the Answer.', 'Insight', 'Kills a belief in the first four words, then withholds the mechanism.'],
-       ['2', '83% of Google Searches Now End Without a Click. Bobby Kerr on How Agents Get Picked Anyway.', 'Stat', 'The number creates the threat, anyway promises the escape and does not describe it.'],
-       ['3', 'The Free Google Page You Claimed and Forgot Is Now Your Front Door (Bobby Kerr)', 'Text and personality', 'Second person accusation. Strongest emotionally, weakest cold, because front door means nothing until he explains it.']],
+       ['2', 'Google Cites You and Nobody Clicks. Bobby Kerr on Getting Picked Inside the Answer.', 'Stat, rebuilt in v2', 'Names a win the listener is chasing and reveals it does not pay, before offering the replacement.'],
+       ['3', 'The Free Google Page You Claimed and Forgot Is Now Your Front Door (Bobby Kerr)', 'Text and personality', 'Second person accusation. Strongest emotionally, weakest cold.']],
       widths=[0.3, 3.1, 0.9, 2.6])
-p('Recommended: #1 for the podcast feed and the social cuts, #2 for YouTube. They use different ingredients so they are a real A/B rather than two versions of one idea. Goal on this episode is reach, not the guest relationship, because he is a vendor and a first-timer with no audience overlap to protect.', italic=True)
+p('Recommended: still #1 for the feed and the social cuts, #2 for YouTube. The pairing is stronger in v2 because #2 stopped being a louder version of #1 and became a different argument.', italic=True)
 
-h3('Cold-Open Hook (sharpened)')
-p('"My guest today says the most valuable piece of real estate you own is not a listing, it is a free page on Google you probably have not opened since the day you claimed it. He has rebuilt more than a thousand of them for agents, and he says the ones winning right now are not ranking higher, they are getting handed to the buyer as the answer. We are going to talk about that today. Stay tuned."', italic=True)
-p('Changed from the draft: the draft said 1,000 profiles and 10x more calls in the same breath. The 10x is unverified and it made the whole open sound like an ad. It is gone. The gap now closes on the phrase handed to the buyer as the answer, which is also the title.', italic=True, size=9.5)
-
-h3('The Clip Engine')
+h3('The Clip Engine (updated)')
 table(['Q#', 'Question', 'Berger emotion', 'Heath gap'],
-      [['14', 'The exact text message that gets a client to write a review that names the neighborhood and the problem.', 'Social currency, high. The agent who shares this looks like the one who found it.', 'Names the failed version everybody sends first, then withholds the fix until he says it out loud.'],
-       ['13', 'Why the words in a review beat the star count.', 'Anxiety plus surprise. It devalues a metric the entire audience already tracks.', 'Takes something the listener thought was finished and reopens it.'],
-       ['7', 'Google removed the Q and A section. What feeds the AI answer box now?', 'Anxiety, high arousal. Something they were told to do no longer exists.', 'A dated, checkable change, which makes the gap real rather than rhetorical.']],
+      [['3', 'A cited source gets clicked one percent of the time, so what does an agent actually put on the profile? Plus: which AI engines read a Google profile and which ones do not?', 'Anxiety with a target. The listener who has been doing this right learns that right is not the same as chosen.', 'Reveals that the goal they were working toward does not pay, before naming the replacement.'],
+       ['14', 'The exact text message that gets a client to write a review naming the neighborhood and the problem.', 'Social currency, high. Forwarding it makes the sender look useful.', 'Names the failed version everybody sends first, then withholds the fix until he says it.'],
+       ['13', 'Why the words in a review beat the star count.', 'Anxiety plus surprise. Devalues a metric the whole audience tracks.', 'Reopens something the listener thought was finished.']],
       widths=[0.4, 2.6, 2.0, 1.9])
+p('Q7, the Q and A removal, dropped off the clip engine in v2. Not because it got weaker, but because Q3 now carries the same anxiety with a number attached, and two versions of the same feeling compete with each other in a clip pile. Q7 stays never-cut for the episode. It is a credibility beat, not a clip.', italic=True, size=9.5)
 
 h3('Live-Description Scrub')
 table(['Platform', 'Verdict and fix'],
-      [['Facebook', 'Keep. Field by field, live is the promise that earns a comment. Question prompt is in.'],
-       ['Instagram', 'Fixed. The draft was three sentences and IG buries anything past the first. Cut to one accusation plus three tags.'],
-       ['TikTok', 'Fixed. The draft opened on Bobby Kerr, which means nothing to a stranger scrolling. It now opens on you have not opened it in two years.'],
-       ['YouTube', 'Keep, and it is deliberately the longest. It is the only description doing search work, so Q and A removal and AI search visibility both stay in it by name.'],
-       ['LinkedIn', 'Fixed. The draft was the Facebook copy in a suit. It now leads with the broker question, which is the only angle on this episode that is native to LinkedIn.']],
+      [['Facebook', 'Keep, unchanged from v1. Field by field, live is the promise that earns a comment.'],
+       ['Instagram', 'Keep. One accusation plus three tags, fixed in v1.'],
+       ['TikTok', 'Keep. Opens on the accusation, not on a name nobody recognizes.'],
+       ['YouTube', 'Fixed again. The line about getting cited by AI search engines was replaced with which AI engines actually read a Google profile versus which ones do not, because that is the searchable question and it is the one the episode now answers.'],
+       ['LinkedIn', 'Keep. The broker angle is the only one native to the platform.']],
       widths=[1.1, 5.8])
 
 h3('Arc Fix')
-p('MrBeast is right about minute twenty-two. The draft bridge out of Block 2 was a summary, and a summary at the halfway mark is where a listener decides they got the point and leaves. The bridge is now written to accuse: it is empty, and it stays empty unless somebody feeds it, and this is where most agents outsource themselves into invisibility. That is a re-hook, not a hand-off, and it buys the second half of the episode. Second fix from the same note: Q15, the objection question, moved from Block 1 to Block 4. In the draft it sat early, which meant the biggest reason to quit listening was raised before he had earned the right to answer it.')
+p('The v1 arc fix held: the Block 2 to Block 3 bridge accuses instead of summarizing, and Q15 stays late. The remaining risk in v2 is different and it is at the front. Q3 is now the strongest question in the first third of the episode, and it sits third, behind a client anecdote and a website comparison. MrBeast pushed to move it to the top of Block 1. It stays at position three for one reason: Q1 has to establish that he rebuilds these things for a living before he is allowed to make a claim about the future of search, or he is just another guy with a stat. The mitigation instead is the cold open, which now front-loads the being handed to the buyer as the answer language, so the listener is holding the premise before Q1 starts.')
 
 h3('Why It Should Work')
-bullet('Curiosity mechanism (Heath): ', 'Ranking is a word every agent thinks they understand. The title takes it away in four words and does not replace it until the episode does.')
-bullet('Share driver (Berger): ', 'Q14 hands the listener a script with a send button. Scripts get forwarded because forwarding one makes the sender look useful, which is social currency, not generosity.')
-bullet('Retention move (MrBeast): ', 'Four blocks, each ending on something to do tonight, and a bridge at the sag point that accuses instead of summarizes.')
+bullet('Curiosity mechanism (Heath): ', 'Two gaps stacked. The title takes away ranking, and Q3 takes away getting cited. The listener does not get a replacement for either until the guest supplies one.')
+bullet('Share driver (Berger): ', 'Q14 gets forwarded because it makes the sender look useful. Q3 gets argued about, which travels differently and further.')
+bullet('Retention move (MrBeast): ', 'Four blocks, each ending on something to do tonight, a bridge that accuses at the sag point, and the most valuable block now has the clock to actually finish.')
 
 h3('The Dissent')
-p('Hormozi will not sign off on Block 3. His position is that commodity versus non-commodity content is the softest ten minutes in the episode, that Q9 rests on a claim the guest probably cannot evidence, and that those minutes belong to more of Q5, the field-by-field build, which is the only part of this an agent can act on with certainty. The counter is that Block 3 is where both Rapid Fire callbacks live, and dropping it strands his best story. THE EXPERIMENT: watch what happens at Q9. If he cannot produce an observed before and after, that is the answer, and on the next vendor guest we cut the belief block entirely and run six build questions instead of four.')
+p('Hormozi stood down on Block 3. The new dissent is Byron Lazine, and it is about restraint. His position: the multi-engine finding in Q3 is the most newsworthy thing in this episode, and the document deliberately keeps D.J. from pressing it, because Landmine 4 and the Q7 note both instruct him not to correct the guest on air. Byron argues that on a claim this central, protecting a first-time vendor guest costs the audience the actual answer. The counter is that a guest who feels caught stops giving you mechanism and starts giving you defense, and mechanism is the entire episode. THE EXPERIMENT: run it as written this time and listen to what the second half of Q3 produces. If he engages with it honestly, the no-correcting rule was unnecessary caution and the next vendor guest gets pressed directly. If he deflects, the rule saved the interview and we keep it.')
 
-h2('7C. EP Polish (pass 3)')
-bullet('', 'Rebuilt Q1 off the Annapolis client result instead of his origin story, because his origin story has three versions and none of them can be stated on air.')
-bullet('', 'Pulled every guest-supplied number out of the cold open, the three titles, the live stream title, and all five platform descriptions. The 10x more calls line was in the draft cold open and it made the show sound like an infomercial.')
-bullet('', 'Moved Q15, the referrals objection, from Block 1 to Block 4, so the biggest reason to stop listening gets raised after he has earned the right to answer it.')
-bullet('', 'Rewrote the Block 2 to Block 3 bridge from a summary into an accusation, because minute twenty-two was the sag.')
-bullet('', 'Rewrote Q7, the Q and A question, from a correction into a comparing-notes question, and added the exact recovery line for the case where he says the feature is still there.')
-bullet('', 'Rewrote Q9 to demand an observed ninety-day before and after instead of accepting a story, and added the note telling D.J. not to rescue him.')
-bullet('', 'Added the second half to Q2, what the website still does, purely to protect the sponsor category and the clip.')
-bullet('', 'Cut three questions to fit 43 minutes, and wrote the cut order and the never-cut list.')
-bullet('', 'Demoted the Bob Jovi question to an optional human landing with an alternate, on Welsh\'s note, and gave it the cash-in-the-closet story as the swap.')
-bullet('', 'Rewrote all twenty chapter markers so each one is a searchable headline on its own. Four of the drafted ones were labels, not headlines.')
-bullet('', 'Rewrote the Instagram, TikTok, and LinkedIn descriptions, which were all the Facebook copy with the edges filed off.')
-bullet('', 'Swept the whole document for em dashes, curly quotes, and AI-speak. Zero em dashes remain.')
+h2('7C. EP Polish, pass 3 of round two')
+bullet('', 'Verified the 83% claim that v1 told D.J. to assert on air, found it holds, and found a better number in the process. Rebuilt Q3, title 2, and three rows of 4D on the Pew finding.')
+bullet('', 'Promoted the multi-engine finding from a research-brief footnote to the second half of Q3, with an instruction not to skip it.')
+bullet('', 'Wrote the guest intro the whole document had been referring to, with a line that hands his contested resume back to him.')
+bullet('', 'Added the green-room brief, and put the Rapid Fire pre-brief in it, which is the only real fix for a guest who pre-sends his best material.')
+bullet('', 'Moved two minutes from Block 3 to Block 4 and retimed all twenty chapter markers to match.')
+bullet('', 'Added Q10 to the never-cut list, resolving a contradiction where the document called the callbacks essential and cuttable in the same breath.')
+bullet('', 'Rewrote the stat rule to separate performance claims from volume claims, which is what v1 meant and not what v1 said.')
+bullet('', 'Rewrote the homework to a countable number, and rewrote the note explaining why.')
+bullet('', 'Armed Q8 with Google\'s actual naming and address rules so a wrong answer does not go to air unchallenged on the one topic that can cost a listener their profile.')
+bullet('', 'Swapped Q3 off the cut list and Q11 onto it.')
+bullet('', 'Added the chapter-marker note about which rows to delete if the cut list gets used, on Youshaei\'s note.')
+bullet('', 'Re-swept the document for em dashes, curly quotes, and AI-speak after every change above. Still zero.')
 
 doc.save('/Users/djparis/GitHub Projects/keeping-it-real-content-system/guest-prep/Bobby_Kerr_Interview_Prep.docx')
 print('saved')
+
