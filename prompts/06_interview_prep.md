@@ -1,4 +1,4 @@
-# KEEPING IT REAL PODCAST — MASTER INTERVIEW PREP PROMPT (v4)
+# KEEPING IT REAL PODCAST — MASTER INTERVIEW PREP PROMPT (v5)
 
 Copy everything below this line and paste it into Claude along with whatever info you have about your guest.
 Fill in the fields at the bottom before submitting.
@@ -60,6 +60,8 @@ These rules are built into the question design. Every question and transition sh
 | **"I've interviewed hundreds of agents..." — once per episode, max.** | It's become a verbal tic. Use it only when it sets up a genuine contrarian insight or data point. Write it into ONE specific question where it earns its place. |
 | **No re-explaining what the guest just said.** | D.J. used to reflect back the guest's point in his own words, essentially doubling the time on each topic. Instead: validate briefly, then advance. |
 | **One core topic per episode, explored deeply.** | 9 topics in 46 minutes = nothing memorable. 1 topic in 35 minutes = "I have to send this to my team." |
+| **Count to three before you respond.** When an answer ends, wait. Do not fill it. | This is Anderson Cooper's and Terry Gross's most reliable tool and it directly attacks D.J.'s known habit of talking between answers. The guest has just finished their prepared answer. The silence is uncomfortable enough that they almost always keep going, and the part they add is the honest part, because the rehearsed part is already spent. Roughly one time in three this produces the best moment in the episode. The other two times it costs three seconds. |
+| **Ask the short version first.** Every question in the prep has a long form and a short form. Default to the short one. | Larry King never read the book and asked "Why?" and "What happened?" His theory was that question length is inversely proportional to answer quality, and he was right. A long question hands the guest a menu of clauses and they will always answer the safest one. The long form in the prep is the setup D.J. reads *only* if the room needs the context. |
 
 ---
 
@@ -130,6 +132,7 @@ Run at least 8 searches with meaningfully different queries before writing anyth
 - **The "I've interviewed hundreds" moment:** [The ONE place in the interview where this phrase earns its spot — write the exact line. If nowhere, write "Skip this episode."]
 - **Live stream title:** [The exact title D.J. pastes into Restream before going live, plus a backup. Full spec in Section 5A.]
 - **Watch out for:** [Anything in the guest's pre-sent answers that the standardized Rapid Fire will spend early, or any fact D.J. should not state on air as verified.]
+- **The two standing reminders**, printed on every card so they are in D.J.'s eyeline mid-interview: *Ask the short version. Count to three before you respond.*
 
 ### PAGE 2: EPISODE FRAMEWORK
 
@@ -205,13 +208,19 @@ Questions are grouped by topic, not by function. The old deep-dive/playbook spli
 - **"If you're running long, cut these first"** — 3-4 questions, in cut order, with one line on why each is expendable.
 - **"Never cut"** — the 4-5 questions that carry the episode.
 
+**Every question ships in two lengths.** Write the full question, then write the short version underneath it. The short version is what D.J. actually says when the conversation is moving. The long version is the setup he reads only when the room needs context, when the question is built on a research fact the guest has not heard yet, or when he is deliberately naming a tension before asking. If the short version loses the tension, the tension was in a clause the guest was going to ignore anyway, so rewrite the question rather than defending the long form.
+
+**Sensitive questions ship with a permission clause.** Terry Gross's most reliable move for getting real disclosure is lowering the threat before the ask: "Tell me if this is too personal, but..." or "Do you mind if I ask..." It produces more disclosure, not less, because the guest stops bracing. Any question touching money, failure, a public contradiction, grief, a former employer, or anything a guest could reasonably decline gets the exact softening words written out. Not a coaching note about tone. The words. Ordinary questions omit the line entirely; if every question has one, you have diluted it into a verbal tic.
+
 For each question, use this format:
 
-**[#]. [Question written in D.J.'s voice]**
+**[#]. [Full question, written in D.J.'s voice]**
 
+> *Short version:* [The same question in under 20 words. This is the default. Say this one.]
 > *If vague, ask:* [exact follow-up]
 > *Ideal answer reveals:* [what you're trying to extract]
 > *Serves:* [audience segment]
+> *Permission clause:* [Sensitive questions only. The exact words D.J. says before the question. Omit this line on ordinary questions.]
 
 ---
 
@@ -238,11 +247,13 @@ These 4 questions open every interview immediately after D.J.'s guest intro. The
 
 Write 3-5 questions following the block arc (hook → mechanism → failure/tension → do-it-tomorrow). Same per-question format:
 
-**[#]. [Question written in D.J.'s voice]**
+**[#]. [Full question, written in D.J.'s voice]**
 
+> *Short version:* [Under 20 words. The default.]
 > *If vague, ask:* [exact follow-up]
 > *Ideal answer reveals:* [what you're trying to extract]
 > *Serves:* [audience segment]
+> *Permission clause:* [Sensitive questions only. Omit otherwise.]
 
 **BRIDGE TO NEXT BLOCK (read as written):** *"[One clause on what this block established, one clause opening the next.]"*
 
@@ -314,7 +325,21 @@ Every bullet must earn its place. If it doesn't serve the audience, cut it.
 
 For each: show name, approximate date, topics covered. Note overasked questions (also on Quick Reference Card).
 
-**4F — Audience Relevance** (one sentence per segment)
+**4F — Their Own Words** *(Required)*
+
+Three to five direct quotes from the guest, ready for D.J. to read back to them on air. This is Christiane Amanpour's receipts file, and the point is that you never argue with a guest. You read them their own sentence and ask them to expand it, defend it, or reconcile it with a different one.
+
+The Landmines section handles contradictions *defensively*, telling D.J. what not to assert. This section is the offensive version: the quote he holds in his hand. A guest hearing their own words read back does two things at once, they realize somebody actually did the work, and they answer more carefully. Both are good for the episode.
+
+| Quote | Where and when | Confidence | How D.J. uses it |
+|-------|---------------|-----------|-----------------|
+| | | Verbatim / Reported / Paraphrase | [Read it back to open a question, ask them to reconcile it with another quote, or hold it in reserve if they hedge] |
+
+**Confidence is not optional.** *Verbatim* means you have the exact words from a primary source, their own writing, or the intake they sent. *Reported* means a secondary source put it in quotation marks and you did not hear or read the original. *Paraphrase* means you are confident about the substance and not the wording. D.J. reads Verbatim quotes as quotes. He paraphrases everything else out loud ("you've said something like...") and never attributes exact wording to a guest that a third party wrote down.
+
+The guest's own intake form counts as a primary source and is usually your best material here, because guests write more carefully than they speak and they tend to bury their sharpest sentence in the middle of a paragraph.
+
+**4G — Audience Relevance** (one sentence per segment)
 
 | Segment | What They Get From This Episode |
 |---------|-------------------------------|
@@ -492,6 +517,9 @@ Now go back and rewrite the document. This is the executive-producer pass: you a
 | Check | Standard |
 |---|---|
 | Voice | Every question sounds like D.J. said it out loud. Read them aloud. Anything that reads like a survey question gets rewritten. |
+| Question length | Every question has a short version and it is genuinely under 20 words. If you could not get it under 20 without losing the question, the question is doing two jobs and should be split. |
+| Permission clauses | Every sensitive question has one, written as words D.J. says, not as a note about tone. No ordinary question has one. |
+| Their Own Words | 4F has at least three quotes with confidence marked on each. If the guest gave you an intake, at least one quote comes from it. |
 | Tension | Objections are named, not softened. See the voice reference at the end of this prompt. |
 | Runtime | Question count fits the runtime, and the cut list plus never-cut list are written. |
 | Facts | No number appears in the cold open or the titles that the Research Brief marked Unverified. |

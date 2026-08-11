@@ -98,8 +98,21 @@ def table(headers, rows, widths=None):
     return t
 
 
-def q(num, question, if_vague, reveals, serves, note=None):
+def q(num, question, if_vague, reveals, serves, note=None, short=None, permission=None):
     rich([(str(num) + '. ', True), (question, True)], space=2)
+    if short:
+        par = doc.add_paragraph()
+        par.paragraph_format.space_after = Pt(3)
+        par.paragraph_format.left_indent = Inches(0.25)
+        r = par.add_run('SAY THIS: ')
+        r.bold = True
+        r.font.size = Pt(10.5)
+        r.font.color.rgb = RGBColor(0x1F, 0x38, 0x64)
+        r2 = par.add_run('"' + short + '"')
+        r2.bold = True
+        r2.font.size = Pt(10.5)
+    if permission:
+        quoted('First, say this:', '"' + permission + '"')
     quoted('If vague, ask:', if_vague)
     quoted('Ideal answer reveals:', reveals)
     quoted('Serves:', serves)
@@ -128,15 +141,23 @@ r.bold = True
 r.font.size = Pt(24)
 sub2 = doc.add_paragraph()
 sub2.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r = sub2.add_run('Founder, LOC8 My Business  |  Google Business Profile optimization for real estate  |  Prepared August 11, 2026  |  v2')
+r = sub2.add_run('Founder, LOC8 My Business  |  Google Business Profile optimization for real estate  |  Prepared August 11, 2026  |  v3')
 r.italic = True
 r.font.size = Pt(10)
 
 # =====================================================================
 # PAGE 0 — WHAT CHANGED IN v2
 # =====================================================================
-h1('WHAT CHANGED IN v2')
-p('A second stress test, a council re-run, and a full EP rewrite ran on v1. If you already read v1, these are the only things you need to re-learn.', italic=True, size=9.5)
+h1('WHAT CHANGED IN v3')
+p('v3 is a format upgrade, not a research pass. The master prompt gained four techniques borrowed from how the best interview shows actually prep, and this packet was rebuilt to carry them. The research, the landmines, and the block structure are unchanged from v2.', italic=True, size=9.5)
+bullet('Every question now has a SAY THIS line. ', 'The long version is the setup you read only if the room needs context. The short one, under twenty words, is what you actually say. Long questions hand a guest a menu of clauses and they always answer the safest one.')
+bullet('Four questions now carry a permission clause. ', 'Q2, Q7, Q9, and Q17a open with words that lower the threat before the ask. Only four out of seventeen have one on purpose. If every question had one it would turn into a tic and stop working.')
+bullet('New section 4F, Their Own Words. ', 'Five of his own sentences with sources and confidence marked, ready to read back to him. The landmines tell you what not to say about him. This tells you what he already said.')
+bullet('Two standing reminders were added to the top of the quick reference card. ', 'Ask the short version. Count to three before you respond.')
+bullet('The count-to-three rule is new and it is the highest-value line in this document. ', 'When an answer ends, wait. Do not fill it. He is a performer and he will fill it, and the fill is the honest part.')
+p('Below this line is the v2 record, which still applies.', italic=True, size=9.5)
+h2('What changed in v2')
+p('A second stress test, a council re-run, and a full EP rewrite ran on v1.', italic=True, size=9.5)
 bullet('The 83% stat is now verified, and a better number came out of the check. ', 'v1 told you to say 83% on air off a source I never actually opened. It holds up, but the sharper finding is Pew: when Google shows an AI answer, people click a cited source about 1% of the time. Q3 was rebuilt around it.')
 bullet('Q3 now asks about more than Google. ', 'v1 titled the episode around AI search and then only interrogated Google. Gemini reads the profile directly. ChatGPT largely does not, it leans on Bing Places, Yelp, and Foursquare. That is in his own pitch and v1 buried it in the research brief.')
 bullet('There is now a scripted guest intro. ', 'v1 referenced the intro four separate times in the landmines and never wrote one. That was the biggest hole in the document. See the next page.')
@@ -167,6 +188,10 @@ doc.add_page_break()
 # =====================================================================
 h1('PAGE 1: QUICK REFERENCE CARD')
 p('Glance at this during the interview. Everything else is morning-of reading.', italic=True, size=9.5)
+
+rich([('THE TWO STANDING REMINDERS: ', True),
+      ('Ask the short version. Count to three before you respond.', True)])
+p('Both of these matter more than usual on this guest. He teaches webinars every week, so he answers in polished blocks, and a long question from you gives him a clause to hide in. The three-count is the one that will actually change the tape. He is a performer and performers cannot sit in silence, so he will fill it, and what he adds after his prepared answer runs out is the part you are here for.', italic=True, size=9.5)
 
 bullet('Name: ', 'Bobby Kerr. Pronouns not publicly stated; he/him used throughout his own materials. Confirm in the green room.')
 bullet('Title: ', 'Founder, LOC8 My Business, a real estate marketing agency built entirely around Google Business Profile optimization. Business address on the site: 2237 SW 4th Ct, Cape Coral, FL 33991. Phone 239.268.3852.')
@@ -301,27 +326,32 @@ q(1,
   "You have a client in Annapolis who says she picked up a brand new listing the first week after you rebuilt her profile, and a second one the week after that. I want the boring version of that story, not the highlight. What was actually on that profile before you touched it, and what was on it after?",
   "Name three fields that were empty on Monday and full on Friday.",
   "Whether the result came from a mechanism or from luck, and it hands the listener a before and after picture in the first two minutes.",
-  "Individual agents, new agents.")
+  "Individual agents, new agents.",
+  short="What was on that profile before you touched it, and what was on it after?")
 
 q(2,
   "Most of the agents listening spent real money on a website and almost nothing on the free page Google handed them. You are telling them they built the house and boarded up the front door. Make that case, and then be specific about what the website still does that the profile cannot.",
   "If an agent has 500 dollars and one weekend, which one gets it, and why?",
   "A defensible hierarchy instead of a pitch, and a sentence that keeps the clip from reading as the show saying websites are dead.",
   "All segments.",
-  "This is your sponsor protection. Do not let him skip the second half of the question. If he does not name something the website still does, ask it again as its own question.")
+  short="Website or Google profile. If an agent can only fix one this month, which one?",
+  permission="And give me the honest answer here, not the one that is good for your business.",
+  note="This is your sponsor protection. Do not let him skip the second half of the question. If he does not name something the website still does, ask it again as its own question.")
 
 q(3,
   "Here is the number that made me want to have this conversation. Pew looked at what people actually do when Google shows them an AI answer, and they click one of the sources it cites about one percent of the time. One percent. So getting cited is not the win anymore, being the sentence is. What does that change about what an agent puts on the profile?",
   "Walk me through it screen by screen. A buyer opens their phone, types the thing, and then what happens between there and my phone ringing?",
   "The mechanism behind being the answer instead of ranking, which is the promise in the title.",
   "All segments.",
-  "SECOND HALF, ask it as its own question and do not skip it: your pitch says Gemini reads the profile and ChatGPT reads the internet's opinion of you. Those are two different jobs. From what I have seen, ChatGPT leans on Bing Places, Yelp, and Foursquare more than it touches a Google profile at all. So which engine reads what, and what does an agent do about the ones that are not Google? This is the honest version of his own claim and it is the difference between an AI search episode and a Google episode. If he waves it off, that tells you something too.")
+  short="One percent of people click the source Google cites. So what goes on the profile?",
+  note="SECOND HALF, ask it as its own question and do not skip it: your pitch says Gemini reads the profile and ChatGPT reads the internet's opinion of you. Those are two different jobs. From what I have seen, ChatGPT leans on Bing Places, Yelp, and Foursquare more than it touches a Google profile at all. So which engine reads what, and what does an agent do about the ones that are not Google? This is the honest version of his own claim and it is the difference between an AI search episode and a Google episode. If he waves it off, that tells you something too.")
 
 q(4,
   "Somebody is listening to this on a treadmill right now and has not opened their profile in two years. When they get home tonight, what is the one field they open, and what do they type into it?",
   "Give me the field name and then say the example sentence out loud.",
   "The first domino, and the first time in the episode he gives you actual copy instead of a category.",
-  "Individual agents, new agents.")
+  "Individual agents, new agents.",
+  short="Somebody opens their profile tonight. What is the one field, and what do they type in it?")
 
 bridge("So the profile is the front door and most agents have it boarded up. Let's open it. I want to go field by field through what a finished one actually looks like, because I think most people hear complete and picture the hours being right.")
 
@@ -336,28 +366,33 @@ q(5,
   "Rank the top five by impact, and tell me which one is blank most often.",
   "The actual checklist. This is the single most stealable answer in the episode and everything after it is a variation on it.",
   "All segments.",
-  "NEVER CUT. If he gives you eleven items in thirty seconds, stop him and say give me the top three again slower.")
+  short="You are sitting at my computer and my profile is open. What is your list, in order?",
+  note="NEVER CUT. If he gives you eleven items in thirty seconds, stop him and say give me the top three again slower.")
 
 q(6,
   "Services is the field I hear you talk about more than any other, and you write twenty-five of them for a client instead of the four an agent would write. Give me a real one. For an agent who works Logan Square here in Chicago, what does a services entry look like, word for word?",
   "Say the actual line. Not the category, the line.",
   "The difference between commodity and non-commodity at the field level, in language a listener can copy tonight.",
   "Individual agents.",
-  "He sells a 25-services build. That is fine, let him reference it once. Then ask: how many can an agent write themselves in an hour, and where do they get the neighborhood words from?")
+  short="Write me one services entry for an agent who works Logan Square. Word for word.",
+  note="He sells a 25-services build. That is fine, let him reference it once. Then ask: how many can an agent write themselves in an hour, and where do they get the neighborhood words from?")
 
 q(7,
   "Here is where I want your honest read, because this stuff moves under all of us. Google pulled the public Q and A section off profiles starting at the end of last year and pushed everybody toward the AI answer box on the listing instead. Q and A has been part of the build you teach. What survived that change, what did not, and how do you feed that AI box now that you cannot seed the questions yourself?",
   "If a brand new profile does not have Q and A at all, what field takes over that job? Name it.",
   "Whether his system is current or a checklist from three years ago. This is the credibility moment of the episode, and if he answers it well it is also the most forwardable minute in it.",
   "All segments.",
-  "NOT A GOTCHA, and it will read as one if you deliver it flat. Ask it leaning in, as two people comparing notes. If he says Q and A is still there, do not argue and do not correct him on air. Say: on some profiles it still is, on new ones it is gone, so what do you do there. Then move.")
+  short="Google took Q and A off profiles. What fills that job now?",
+  permission="This one is genuinely not a gotcha. I am asking somebody who is in these every day, because this stuff moves under all of us.",
+  note="NOT A GOTCHA, and it will read as one if you deliver it flat. Ask it leaning in, as two people comparing notes. If he says Q and A is still there, do not argue and do not correct him on air. Say: on some profiles it still is, on new ones it is gone, so what do you do there. Then move.")
 
 q(8,
   "Last thing on the build, and it is the one that actually scares people. Agents get suspended. The name rules, the brokerage address you do not personally sit at, the service area setup. What is the safe configuration for a solo agent at a big brokerage, and what is the thing that gets people taken down that they never see coming?",
   "Give me the exact business name format for an agent named Maria Lopez at a 500 agent brokerage. Type it out loud.",
   "The compliance layer almost nobody teaches, and the reason a broker owner keeps listening.",
   "Individual agents, new agents, broker owners.",
-  "So you can tell whether the answer is right: Google treats agents as individual practitioners, which means the profile name is the person's name and nothing else. Maria Lopez. Not Maria Lopez Realtor, not Maria Lopez Real Estate, not Maria Lopez at Anywhere Realty. Adding any of that is a suspension trigger. The other one is the address. An agent who lists a brokerage address they do not personally staff gets flagged, and the setup most solo agents actually qualify for is a service area business with the street address hidden. If he says all of that, he is the real thing. If he says put your keyword in the name because it helps you rank, that is against Google's own guidelines, and your follow-up is: how many of your clients have been suspended doing that?")
+  short="What gets an agent suspended that they never see coming?",
+  note="So you can tell whether the answer is right: Google treats agents as individual practitioners, which means the profile name is the person's name and nothing else. Maria Lopez. Not Maria Lopez Realtor, not Maria Lopez Real Estate, not Maria Lopez at Anywhere Realty. Adding any of that is a suspension trigger. The other one is the address. An agent who lists a brokerage address they do not personally staff gets flagged, and the setup most solo agents actually qualify for is a service area business with the street address hidden. If he says all of that, he is the real thing. If he says put your keyword in the name because it helps you rank, that is against Google's own guidelines, and your follow-up is: how many of your clients have been suspended doing that?")
 
 bridge("Okay, so it's built and it's not going to get pulled down. Now it's empty, and it stays empty unless somebody feeds it. That's the part I want to spend the most time on, because I think this is where most agents outsource themselves into invisibility.")
 
@@ -372,26 +407,31 @@ q(9,
   "Two agents, same market, one on a content service and one writing their own. What do the profile views look like at ninety days?",
   "Whether Google knows is an observation or a belief. This is his biggest claim and the one an SEO person in the audience will push back on, so make him show his work.",
   "All segments.",
-  "If he cannot produce a before and after, do not rescue him. Say: so it is a judgment call more than a measured thing. Let the answer be what it is. That honesty is the clip, and it costs you nothing.")
+  short="Can Google actually tell? What have you watched happen to a profile running copied content?",
+  permission="And push back if this is unfair, because I am asking you to prove something that might honestly just be a judgment call.",
+  note="If he cannot produce a before and after, do not rescue him. Say: so it is a judgment call more than a measured thing. Let the answer be what it is. That honesty is the clip, and it costs you nothing.")
 
 q(10,
   "Earlier you told me a recruiting coach made you stop advertising that you owned three companies, and that you fought him on it and he was right. Same principle down here. What does pick one thing look like on a Google profile for an agent who genuinely does buyers, sellers, rentals, and investors, and who cannot afford to turn any of it away?",
   "Does the specialty live in the services, the posts, or the reviews? Pick one and tell me why the other two are wrong.",
   "How to be specific without amputating the business, which is the objection every agent has to niching and the reason most of them never do it.",
-  "Individual agents, team leaders.")
+  "Individual agents, team leaders.",
+  short="How does an agent pick one thing when they cannot afford to turn anything away?")
 
 q(11,
   "Give me the calendar. How often does something new have to hit that profile before Google treats it as alive, what are the formats, and how long does it actually take an agent to do it themselves on a Sunday night?",
   "Posts per month, photos per month, videos per month. Give me the numbers.",
   "The recency mechanism, plus an honest read on whether do-it-yourself is realistic or whether this is a thing you hire out.",
   "All segments.",
-  "This is where the membership pitch wants to come out. Product cap. Let him name it once, then say: now give me the version I do myself with no budget.")
+  short="Give me the calendar. How often does something new have to hit that profile?",
+  note="This is where the membership pitch wants to come out. Product cap. Let him name it once, then say: now give me the version I do myself with no budget.")
 
 q(12,
   "Flip this for a second. I recruit agents for a living, so I am listening to this as a broker. If I have 800 agents and most of their profiles are blank or wrong, is that my problem or theirs? And is there a brokerage-level version of this that does not step on the agents' own profiles?",
   "Should the brokerage profile and the agent profile say the same thing or deliberately different things?",
   "The team and brokerage architecture, which nobody covers and which is the reason a broker owner shares the episode.",
-  "Broker owners, team leaders.")
+  "Broker owners, team leaders.",
+  short="I have got 800 agents with blank profiles. Is that my problem or theirs?")
 
 bridge("So it's built, it's fed, and it's specific. The last piece is the one agents think they already understand, and I don't think they do. Let's talk about reviews, because you're telling me the number I've been chasing for years is the wrong number.")
 
@@ -406,27 +446,31 @@ q(13,
   "Write me the review you would want, out loud, for an agent who sells two-bedroom condos in one neighborhood.",
   "The most stealable tactic in the episode, and the one that reframes a metric the whole audience already tracks.",
   "All segments.",
-  "NEVER CUT.")
+  short="What does a review have to say to be worth more than one more five-star Bobby was great?",
+  note="NEVER CUT.")
 
 q(14,
   "Then the hard part is asking. Most agents send please leave me a review and get great to work with. What do you say to a client, word for word, that gets them to name the neighborhood, the property type, and the problem you solved, without it feeling like you wrote it for them?",
   "Give me the text message. The actual text message, the way it would show up on their phone.",
   "A script listeners will screenshot before the episode ends.",
   "Individual agents, new agents.",
-  "NEVER CUT. If he gives you a philosophy, ask again. You want a message with a send button on it.")
+  short="Give me the text message. The actual text message.",
+  note="NEVER CUT. If he gives you a philosophy, ask again. You want a message with a send button on it.")
 
 q(15,
   "I have interviewed hundreds of agents on this show, and when Google comes up the answer is almost always the same. I claimed it years ago, it is fine, and anyway my business comes from referrals. That agent is listening right now and he is not wrong about his referrals. Talk to him directly. Why does he care about this?",
   "He does thirty deals a year off his sphere. What does the profile do for him that his sphere does not already do?",
   "Whether this is universal or a fix for agents without a network. It names the biggest objection in the room instead of dodging it, and the answer decides whether the episode converts.",
   "All segments.",
-  "NEVER CUT. This is your one hundreds moment. Do not use the phrase anywhere else.")
+  short="He says he claimed it years ago and his business comes from referrals anyway. Talk to him.",
+  note="NEVER CUT. This is your one hundreds moment. Do not use the phrase anywhere else.")
 
 q(16,
   "Last one. Somebody does everything you just said. Realistically, when do they see the first thing they can point at and say that came from this, and what does that first thing usually look like?",
   "Weeks or months? And is the first signal a call, a message, or a direction request?",
   "An honest timeline, which protects him from the too-good-to-be-true read and protects your audience from quitting at week three.",
-  "All segments.")
+  "All segments.",
+  short="When do they see the first thing they can point at and say that came from this?")
 
 h3('THE HUMAN LANDING (optional, right before the close)')
 q('17a',
@@ -434,7 +478,9 @@ q('17a',
   "What is the moment you knew the name was working?",
   "The vulnerable beat that earns the follow, and the one moment in the episode that is about him instead of about a field on a form.",
   "All segments.",
-  "ALTERNATE if the energy is low or you are tight: his home inspection story. Empty house, top closet shelf, a bank envelope with a few thousand dollars in it that only a tall guy would ever have seen, handed straight to the buyer's agent. The button is that the listing agent owned a home inspection company himself and had walked that house. Ask it as: what is the strangest thing you ever found in an empty house?")
+  short="What did being on a stage teach you about being memorable?",
+  permission="Tell me if this is too far off topic, but I have to ask you about this before I let you go.",
+  note="ALTERNATE if the energy is low or you are tight: his home inspection story. Empty house, top closet shelf, a bank envelope with a few thousand dollars in it that only a tall guy would ever have seen, handed straight to the buyer's agent. The button is that the listing agent owned a home inspection company himself and had walked that house. Ask it as: what is the strangest thing you ever found in an empty house?")
 
 h2('THE CLOSE')
 rich([('HOMEWORK (read verbatim): ', True),
@@ -512,7 +558,23 @@ bullet('Always Be Cool (ABC) Podcast, his own show with Darren Copeland. ', '100
 bullet('Claimed but not independently verified: FOX 4 News, The Kansas City Star, WINK News. ', 'All three appear on his site with no links. Do not read them in the intro as verified. "He has been featured in local press in Kansas City and Florida" is safe if you want the line at all.')
 bullet('Weekly live webinars and workshops on Google-first visibility. ', 'Guest-supplied. This is why he will answer in trained slogans. See the tone read.')
 
-h2('4F. Audience Relevance')
+h2('4F. Their Own Words')
+p('Read these back to him. You never argue with a guest, you hand them their own sentence and ask them to expand it or defend it. Confidence is marked because it decides how you say it out loud.', italic=True, size=9.5)
+table(['Quote', 'Where and when', 'Confidence', 'How you use it'],
+      [['"Nobody hires a generalist on purpose."', 'The intake he sent you, August 2026', 'Verbatim',
+        'This is the best sentence he has written and it is the thesis of the whole episode. Open Q10 with it. Read it exactly.'],
+       ['"Sniper beats shotgun."', 'The intake he sent you, August 2026', 'Verbatim',
+        'His own compression of the worst-advice answer. Use it as the button on Q9 if he wanders, to pull him back to the point he already made better.'],
+       ['"Their feeds become mirrors of thousands of other agents. It is all just slop."', 'The intake he sent you, August 2026', 'Verbatim',
+        'Hold this one in reserve. If he softens on Q9 and will not commit to the claim, read it back and ask whether he still means it that strongly.'],
+       ['Google Business Profile is "a social media platform," not a place to collect reviews', 'SpeakerFlow, Technically Speaking S3 E42', 'Reported',
+        'A third party wrote it down, so do not attribute the exact wording. Say "you have described it as a social platform rather than a review box," and let him restate it.'],
+       ['Profiles with 100+ photos are "1065% more likely to get calls and clicks"', 'SpeakerFlow, Technically Speaking S3 E42', 'Reported, and unverified as a fact',
+        'DO NOT read this back. It is here so you recognize it if he says it again and do not accidentally echo it. See Landmine 5.']],
+      widths=[2.3, 1.7, 1.2, 1.7])
+p('Note on sourcing: his intake is a primary source in his own handwriting and it is the strongest material in this table, which is usually true. Guests write more carefully than they speak, and they tend to bury their sharpest sentence in the middle of a paragraph where nobody reads it back to them.', italic=True, size=9.5)
+
+h2('4G. Audience Relevance')
 table(['Segment', 'What they get from this episode'],
       [['Individual agents', 'A free surface they already own, a field-by-field build, example copy they can type tonight, and a review ask with a send button.'],
        ['Team leaders', 'How to make a team specific without amputating the business, and how team and individual profiles should differ.'],
@@ -586,7 +648,8 @@ doc.add_page_break()
 
 # =====================================================================
 # SECTION 7 — STRESS TEST, COUNCIL, EP POLISH
-# =====================================================================h1('SECTION 7: STRESS TEST, COUNCIL REVIEW & EP POLISH (v2)')
+# =====================================================================h1('SECTION 7: STRESS TEST, COUNCIL REVIEW & EP POLISH')
+p('v3 note: the format changes above came from a craft audit against how shows like Fresh Air, Hot Ones, and the late night desks actually prep, and they are now in the master prompt at prompts/06_interview_prep.md so every future packet carries them. The two changes NOT adopted, and the reason, are worth knowing. Terry Gross refuses to meet a guest before tape so the first real conversation is on the record; that is right for her and wrong for you, because your Rapid Fire structure requires the green-room pre-brief. And the biggest available upgrade, a fifteen minute producer phone call before tape, is a people change rather than a document change, so it stays your call. On this guest it would have told you whether his best-advice story survives being spoken out loud, which is currently unknown.', italic=True, size=9.5)
 p('This is the record of the second full round. v1 shipped after its own three passes; this section is what a fresh attack found in that finished document, what the council said on the re-run, and what actually changed. Rows here describe fixes that are visible in this document, not suggestions.', italic=True, size=9.5)
 
 h2('7A. Stress Test, round two')
@@ -681,6 +744,13 @@ bullet('', 'Armed Q8 with Google\'s actual naming and address rules so a wrong a
 bullet('', 'Swapped Q3 off the cut list and Q11 onto it.')
 bullet('', 'Added the chapter-marker note about which rows to delete if the cut list gets used, on Youshaei\'s note.')
 bullet('', 'Re-swept the document for em dashes, curly quotes, and AI-speak after every change above. Still zero.')
+
+h2('7D. Format Upgrade (v3)')
+bullet('', 'Wrote a SAY THIS short version for all seventeen questions, every one under twenty words. Two questions had to be split conceptually to survive the compression, which means they were doing two jobs in v2 and the long form was hiding it.')
+bullet('', 'Added permission clauses to Q2, Q7, Q9, and Q17a, written as words D.J. says rather than as notes about tone. Held the count to four so the device does not become a tic.')
+bullet('', 'Built section 4F, Their Own Words, with confidence marked on every line, including one quote flagged do-not-read-back because echoing it would launder an unverified stat into the show\'s voice.')
+bullet('', 'Put the two standing reminders at the top of the quick reference card, where D.J. is actually looking mid-interview, instead of in a rules section he reads the night before.')
+bullet('', 'Pushed all four changes upstream into prompts/06_interview_prep.md, including the count-to-three rule in the on-air rules table, so this is the last packet that needs the backfill.')
 
 doc.save('/Users/djparis/GitHub Projects/keeping-it-real-content-system/guest-prep/Bobby_Kerr_Interview_Prep.docx')
 print('saved')
