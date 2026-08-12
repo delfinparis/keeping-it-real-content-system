@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Vija Williams",
+    "title": "Chief Growth Officer",
+    "company": "Realty.com",
+    "production_level": null,
+    "specialty": "Real estate team leadership and training",
+    "location": "Seattle, Washington and Puget Sound market"
+  },
+  "main_topics": [
+    "Instant cash offer leads",
+    "Consumer behavior changes in real estate",
+    "Role of AI in real estate",
+    "Agent adaptation to market changes",
+    "Lead generation and conversion strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Getting in front of sellers before they contact an agent",
+      "solution_summary": "Use instant cash offer leads to engage potential sellers early in their decision-making process.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting high-intent leads effectively",
+      "solution_summary": "Train agents to handle long-form cash offer leads by understanding consumer behavior and offering multiple solutions.",
+      "timestamp": "00:07:02"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to post-AI consumer behavior",
+      "solution_summary": "Agents need to become consultants and problem solvers, offering multiple exit strategies to clients.",
+      "timestamp": "00:16:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "This episode discusses new lead generation strategies that can be implemented at the team level.",
+      "key_takeaway": "Incorporating instant cash offer leads can create a new revenue stream and enhance team performance."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging new consumer behaviors for increased sales.",
+      "key_takeaway": "Understanding and adapting to consumer behavior changes can position you as a market leader."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:16:01",
+      "end_timestamp": "00:17:39",
+      "quote": "We started off as the first phone call. We are now the last opinion.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This highlights the shift in the agent's role in the sales process.",
+      "suggested_hook": "Are you still the first call for sellers? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use long-form fill cash offer leads to identify high-intent sellers.",
+      "context": "Apply this tactic to get in front of potential sellers before they contact other agents.",
+      "timestamp": "00:07:02"
+    },
+    {
+      "tactic": "Train agents to offer multiple solutions, including cash offers, to clients.",
+      "context": "This is crucial in a market where consumers are more informed and have done their research.",
+      "timestamp": "00:18:01"
+    }
+  ],
+  "quotable_insights": [
+    "The new modern agent needs four to five arrows in their quiver."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Realty.com",
+      "context": "Recommended for generating instant cash offer leads."
+    }
+  ],
+  "episode_summary": "In this episode, Vija Williams discusses the importance of adapting to new consumer behaviors in real estate, particularly through the use of instant cash offer leads. She emphasizes the need for agents to become consultants and problem solvers, offering multiple solutions to clients. The episode provides actionable insights for team leaders and aspiring top producers looking to leverage these changes for increased sales and market positioning.",
+  "_metadata": {
+    "source_file": "2026-07-31_item4_Vija-Williams",
+    "analyzed_at": "2026-08-12T05:43:24.899284",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

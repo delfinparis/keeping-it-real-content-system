@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:30",
+      "end_timestamp": "00:07:15",
+      "quote": "Oil is really involved with everything... This impacts everything.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals the unexpected connection between oil prices and mortgage rates.",
+      "suggested_hook": "Did you know oil prices can impact your mortgage rates?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Did you know oil prices can impact your mortgage rates?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently revealed a surprising connection on our podcast. You're watching mortgage rates fluctuate and wondering why. It feels like a mystery, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin explained, 'Oil is really involved with everything... This impacts everything.' [ON-SCREEN: Oil impacts mortgage rates] As oil prices rise, transportation and production costs increase, which can indirectly affect mortgage rates. [ON-SCREEN: Rising oil = Rising costs] Most agents overlook this, but understanding it gives you an edge. [ON-SCREEN: Gain an edge]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can leverage this knowledge today to better advise your clients. [ON-SCREEN: Advise with confidence] This insight can set you apart as a trusted expert.\",\n    \"CTA\": \"Are you considering oil prices when advising clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how oil prices secretly influence mortgage rates. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#MortgageRates\", \"#OilPrices\", \"#AgentTips\", \"#MarketIntelligence\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"As oil prices rise, transportation and production costs increase, which can indirectly affect mortgage rates.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:24:45",
+      "quote": "Doctors can now get loans without a down payment and no PMI.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a unique opportunity for a specific profession.",
+      "suggested_hook": "Attention doctors: You might qualify for a zero down payment loan!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Attention doctors: You might qualify for a zero down payment loan!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changing opportunity for doctors on our latest episode. If you're a doctor struggling with the burden of saving for a down payment, this could be your breakthrough. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Doctors can now get loans without a down payment and no PMI. [ON-SCREEN: Zero Down Payment] This is a unique program tailored specifically for medical professionals. [ON-SCREEN: No PMI] While most people are stuck trying to save for years, you can step into homeownership today. [ON-SCREEN: Doctor Loan Program]\",\n    \"REFRAME/APPLICATION\": \"This matters because it's a rare chance to leverage your profession for financial gain. You can start this process today and potentially own a home by the end of the year. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you eligible for this loan program — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Doctors, did you know you might qualify for a zero down payment loan? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#DoctorLoans\",\n    \"#HomeBuying\",\n    \"#MortgageRates\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Doctors can now get loans without a down payment and no PMI.\"\n}\n```"
+  }
+]

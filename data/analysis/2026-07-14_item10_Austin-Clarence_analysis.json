@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer and Investor Financing Specialist",
+    "company": "Nexah Mortgage",
+    "production_level": "Top performing",
+    "specialty": "Investor financing and complex financial scenarios",
+    "location": "United States"
+  },
+  "main_topics": [
+    "Impact of global events on mortgage rates",
+    "Specialty loan programs for specific professions",
+    "Current state and future predictions for the housing market",
+    "Benefits and misconceptions of VA loans",
+    "Opportunities for self-employed individuals in securing loans"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of global oil prices on mortgage rates",
+      "solution_summary": "Understanding the correlation between oil prices and inflation can help predict mortgage rate trends.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Challenges for self-employed individuals in securing loans",
+      "solution_summary": "New FHA loan programs allow self-employed individuals to qualify with a profit and loss statement instead of tax returns.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Misconceptions about VA loans",
+      "solution_summary": "VA loans offer zero down payment and no PMI, making them highly beneficial for veterans.",
+      "timestamp": "00:26:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding niche loan products can differentiate them in the market.",
+      "key_takeaway": "Utilize specialty loan programs to better serve clients in specific professions."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers new strategies to attract and retain clients.",
+      "key_takeaway": "Educate clients on lesser-known loan programs to unlock more opportunities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:30",
+      "end_timestamp": "00:07:15",
+      "quote": "Oil is really involved with everything... This impacts everything.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals the unexpected connection between oil prices and mortgage rates.",
+      "suggested_hook": "Did you know oil prices can impact your mortgage rates?"
+    },
+    {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:24:45",
+      "quote": "Doctors can now get loans without a down payment and no PMI.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a unique opportunity for a specific profession.",
+      "suggested_hook": "Attention doctors: You might qualify for a zero down payment loan!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Ask potential clients about their profession to identify eligibility for niche loan programs.",
+      "context": "During initial client consultations or open houses.",
+      "timestamp": "00:21:00"
+    },
+    {
+      "tactic": "Leverage FHA loans for self-employed clients using profit and loss statements.",
+      "context": "When traditional tax return documentation is a barrier.",
+      "timestamp": "00:31:00"
+    }
+  ],
+  "quotable_insights": [
+    "Inflation and mortgage rates don't exist in a vacuum.",
+    "VA loans are the easiest loans to get approved for, and it's not particularly close."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the impact of global oil prices on mortgage rates and shares insights into specialty loan programs for doctors, veterans, and self-employed individuals. He provides actionable strategies for real estate agents to leverage these niche products to better serve their clients and differentiate themselves in the market.",
+  "_metadata": {
+    "source_file": "2026-07-14_item10_Austin-Clarence",
+    "analyzed_at": "2026-08-12T05:40:09.903664",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

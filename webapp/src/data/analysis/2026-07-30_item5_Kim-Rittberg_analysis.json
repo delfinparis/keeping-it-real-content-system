@@ -1,0 +1,104 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video coaching for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Social media marketing strategies",
+    "Video content creation",
+    "Building personal connections",
+    "Establishing credibility",
+    "Client engagement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Low engagement on real estate-focused social media posts",
+      "solution_summary": "Incorporate personal life content to increase engagement and build connections.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships during summer",
+      "solution_summary": "Engage clients by sharing personal summer activities and commenting on their posts.",
+      "timestamp": "00:03:01"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing credibility without top sales rankings",
+      "solution_summary": "Share client success stories and past professional experiences to build credibility.",
+      "timestamp": "00:08:37"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to enhance personal branding and client engagement.",
+      "key_takeaway": "Use personal stories and client success to boost social media presence and credibility."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers actionable advice on increasing social media engagement and credibility.",
+      "key_takeaway": "Incorporate personal content and client testimonials to improve social media impact."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:11",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing... it got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the unexpected power of personal content in social media marketing.",
+      "suggested_hook": "Want to boost your social media engagement? Try this surprising strategy!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Convert long-form video content into short-form for broader reach.",
+      "context": "Use YouTube for long-form content and repurpose it for platforms like TikTok and Instagram.",
+      "timestamp": "00:03:28"
+    },
+    {
+      "tactic": "Share personal life moments to build connections.",
+      "context": "Post about personal activities like vacations or hobbies to engage your audience.",
+      "timestamp": "00:04:44"
+    },
+    {
+      "tactic": "Highlight client success stories to establish credibility.",
+      "context": "Share testimonials and examples of client transitions or sales achievements.",
+      "timestamp": "00:08:37"
+    }
+  ],
+  "quotable_insights": [
+    "Put the social back into social media by engaging with your audience on a personal level.",
+    "Connection and credibility are key to building a successful personal brand."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "RealGeeks.com",
+      "context": "Recommended as a tool for lead conversion and CRM management."
+    },
+    {
+      "type": "website",
+      "name": "CORDED.IO",
+      "context": "Suggested as a recruiting tool powered by AI for identifying agents looking to move."
+    },
+    {
+      "type": "website",
+      "name": "realestatevideocoach.com",
+      "context": "Offered as a resource for downloading video content strategies."
+    }
+  ],
+  "episode_summary": "Kim Rittberg discusses the importance of incorporating personal content into social media to boost engagement and build connections. She emphasizes the use of video content, both long-form and short-form, to establish expertise and credibility. The episode provides actionable tactics for real estate agents to enhance their personal brand and maintain client relationships during the summer.",
+  "_metadata": {
+    "source_file": "2026-07-30_item5_Kim-Rittberg",
+    "analyzed_at": "2026-08-12T05:42:36.798577",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

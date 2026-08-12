@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:00",
+      "end_timestamp": "00:09:00",
+      "quote": "No one falls in love with the mortgage, you fall in love with the house.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It challenges the notion that low mortgage rates should prevent clients from moving.",
+      "suggested_hook": "Are your clients stuck in their homes because of low rates? Here's why they shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are low rates keeping your clients stuck at home?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changing insight on our latest episode. You're working with clients who are hesitant to move because they're in love with their low mortgage rates. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin said, 'No one falls in love with the mortgage, you fall in love with the house.' [ON-SCREEN: Fall in love with the house] It's about helping clients see the bigger picture. Most agents focus on rates. Top producers focus on the dream home. [ON-SCREEN: Focus on the dream home]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start this conversation with your clients today. Austin's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't let low rates hold your clients back. Focus on the dream home! 🏡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageAdvice\", \"#HomeBuying\", \"#RealEstateAgent\", \"#DreamHome\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"No one falls in love with the mortgage, you fall in love with the house.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:15:00",
+      "quote": "A bridge loan allows you to purchase first, sell after, eliminating contingencies.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable solution to a common real estate challenge.",
+      "suggested_hook": "Want to buy before selling your current home? Here's how a bridge loan can help."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to buy before selling your current home? Here's the secret.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently shared a game-changer for anyone stuck trying to buy a new home before selling their current one. Sound familiar? You're juggling showings, offers, and the stress of double mortgages. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"A bridge loan allows you to purchase first, sell after, eliminating contingencies. [ON-SCREEN: Bridge Loan Benefits] It's a temporary loan that covers the gap between buying your new home and selling your old one. Most agents overlook this, but top producers leverage it to streamline transactions. [ON-SCREEN: Eliminate Contingencies]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can use a bridge loan today to secure your dream home without the usual stress. Austin Clarence has seen countless clients succeed with this approach. [ON-SCREEN: Secure Your Dream Home Today]\",\n    \"CTA\": \"Have you used a bridge loan before — yes or no? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock your dream home with a bridge loan! 🏡 #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#BridgeLoan\", \"#HomeBuying\", \"#RealEstateAdvice\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"A bridge loan allows you to purchase first, sell after, eliminating contingencies.\"\n}\n```"
+  }
+]

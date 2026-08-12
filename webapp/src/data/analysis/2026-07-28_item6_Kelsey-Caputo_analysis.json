@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kelsey Caputo",
+    "title": "REALTOR, Licensed General Contractor",
+    "company": "Berkshire Hathaway HomeServices",
+    "production_level": "Top 2% nationwide",
+    "specialty": "Luxury real estate, architecture, construction",
+    "location": "Florida Keys"
+  },
+  "main_topics": [
+    "AI in real estate",
+    "Luxury market dynamics",
+    "Importance of local knowledge",
+    "Real estate as a lifestyle business",
+    "Building trust with clients"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI providing inaccurate property valuations",
+      "solution_summary": "Use AI as a tool to prepare for client objections and supplement with local knowledge.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Building trust with high-net-worth clients remotely",
+      "solution_summary": "Focus on transparency, answering questions thoroughly, and building relationships.",
+      "timestamp": "00:21:03"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Sourcing buyers in a luxury market",
+      "solution_summary": "Target specific demographics and professionals who manage high-net-worth clients.",
+      "timestamp": "00:25:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging AI and local knowledge to excel in luxury markets.",
+      "key_takeaway": "AI is a tool to enhance your expertise, not replace it, especially in niche markets."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses strategies for agent recruitment and retention using AI.",
+      "key_takeaway": "AI can identify agents likely to move, helping in strategic recruitment."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:22",
+      "end_timestamp": "00:11:05",
+      "quote": "AI doesn't know anything about the boating access or what kind of boat you can have there.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the limitations of AI in understanding niche market specifics.",
+      "suggested_hook": "Why AI can't replace local expertise in real estate."
+    },
+    {
+      "timestamp": "00:18:25",
+      "end_timestamp": "00:19:06",
+      "quote": "I'd rather tell you I don't know and I'll find out than fake it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of honesty and building trust.",
+      "suggested_hook": "Why admitting 'I don't know' can be your greatest asset."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to predict client objections and prepare responses.",
+      "context": "Before buyer or listing appointments.",
+      "timestamp": "00:23:17"
+    },
+    {
+      "tactic": "Develop a buyer profile using AI to target marketing efforts.",
+      "context": "When listing luxury properties.",
+      "timestamp": "00:25:08"
+    }
+  ],
+  "quotable_insights": [
+    "AI is not going to replace REALTORS; it's going to replace what's expected from a REALTOR.",
+    "Real estate is built on trust. You don't have a business without trust."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "For lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For agent recruitment and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Kelsey Caputo discusses the transformative role of AI in real estate, particularly in luxury markets. She emphasizes the importance of using AI as a tool to enhance local expertise and build trust with clients. Kelsey also shares strategies for targeting high-net-worth buyers and the value of transparency in client relationships.",
+  "_metadata": {
+    "source_file": "2026-07-28_item6_Kelsey-Caputo",
+    "analyzed_at": "2026-08-12T05:42:19.174422",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

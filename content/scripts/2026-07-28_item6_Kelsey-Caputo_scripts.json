@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:22",
+      "end_timestamp": "00:11:05",
+      "quote": "AI doesn't know anything about the boating access or what kind of boat you can have there.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the limitations of AI in understanding niche market specifics.",
+      "suggested_hook": "Why AI can't replace local expertise in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"AI can't tell you if your yacht fits at the dock.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo recently shared a crucial insight on our podcast. You're trying to leverage AI for real estate insights, but it falls short on local specifics. It's frustrating when AI can't answer your client's niche questions.\",\n    \"INSIGHT\": \"Kelsey said, 'AI doesn't know anything about the boating access or what kind of boat you can have there.' [ON-SCREEN: AI's Limitations] Most agents rely on AI for data. Top producers combine it with local expertise. [ON-SCREEN: Local Knowledge Wins]\",\n    \"REFRAME/APPLICATION\": \"This matters because your clients need more than data—they need your local insights. You can start applying this today by visiting local marinas and learning the specifics. [ON-SCREEN: Actionable Today]\",\n    \"CTA\": \"Have you used local knowledge to close a deal? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI is powerful, but it can't replace your local expertise. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#LocalExpertise\", \"#LuxuryMarket\", \"#RealEstateLifestyle\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI doesn't know anything about the boating access or what kind of boat you can have there.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:18:25",
+      "end_timestamp": "00:19:06",
+      "quote": "I'd rather tell you I don't know and I'll find out than fake it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of honesty and building trust.",
+      "suggested_hook": "Why admitting 'I don't know' can be your greatest asset."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why saying 'I don't know' boosts your real estate career.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo shared a game-changing mindset shift on our latest episode. Imagine this: You're with a client, and they ask a question you can't answer. Panic sets in. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Kelsey says, 'I'd rather tell you I don't know and I'll find out than fake it.' [ON-SCREEN: Honesty builds trust] Most agents try to bluff their way through. Top producers admit gaps and follow up with accurate info. [ON-SCREEN: Trust is your currency]\",\n    \"REFRAME/APPLICATION\": \"This matters because trust is everything in real estate. You can start applying this today by being upfront with your clients. Kelsey closed 47 deals last year using this exact approach. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Have you ever admitted 'I don't know' to a client — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Honesty is your greatest asset in real estate. #Trust #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Trust\", \"#AgentAdvice\", \"#MindsetShift\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Trust is your currency in real estate.\"\n}\n```"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:11",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing... it got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the unexpected power of personal content in social media marketing.",
+      "suggested_hook": "Want to boost your social media engagement? Try this surprising strategy!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to boost your social media engagement? Try this surprising strategy!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg shared a story that might sound familiar. You're posting real estate content, but the engagement just isn't there. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"One of Kim's clients posted a photo of himself skiing, and it got five times the engagement of his real estate posts. [ON-SCREEN: 5x Engagement] Most agents focus solely on property listings. Top producers mix in personal content to build connections. [ON-SCREEN: Personal Content = Engagement]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Personal content makes you relatable. You can try this today by sharing a hobby or a behind-the-scenes moment. [ON-SCREEN: Share Your Story] This agent's approach can boost your visibility and client engagement.\",\n    \"CTA\": \"Have you tried sharing personal content — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Boost your engagement with this simple social media strategy! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SocialMediaStrategy\", \"#EngagementBoost\", \"#PersonalBranding\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus solely on property listings. Top producers mix in personal content to build connections.\"\n}\n```"
+  }
+]

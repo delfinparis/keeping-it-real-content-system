@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:16:01",
+      "end_timestamp": "00:17:39",
+      "quote": "We started off as the first phone call. We are now the last opinion.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This highlights the shift in the agent's role in the sales process.",
+      "suggested_hook": "Are you still the first call for sellers? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you still the first call for sellers? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Vija Williams shared a game-changing insight on our latest episode. Remember when agents were the first call sellers made? Now, we're often the last opinion. If you're reaching out to your database and getting crickets, you're not alone.\",\n    \"INSIGHT\": \"Vija said, 'We started off as the first phone call. We are now the last opinion.' [ON-SCREEN: Last Opinion] Most agents wait for the call. Top producers proactively engage with instant cash offer leads and leverage AI to stay ahead. [ON-SCREEN: Proactive Engagement]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? The market's shifting. You can adapt by integrating AI tools and refining your lead conversion strategies today. [ON-SCREEN: Adapt Now]\",\n    \"CTA\": \"Are you adapting to this shift — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Agents, are you still the first call? Time to rethink your strategy. #RealEstate #AgentTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AgentTips\", \"#AIinRealEstate\", \"#LeadGeneration\", \"#MarketShift\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"We started off as the first phone call. We are now the last opinion.\"\n}\n```"
+  }
+]
