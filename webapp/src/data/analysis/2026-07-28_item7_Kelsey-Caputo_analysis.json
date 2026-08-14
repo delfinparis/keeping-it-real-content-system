@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Kelsey Caputo",
+    "title": "REALTOR",
+    "company": "Berkshire Hathaway Home Services",
+    "production_level": "Top 2% nationwide",
+    "specialty": "Luxury real estate, architecture, construction",
+    "location": "Florida Keys"
+  },
+  "main_topics": [
+    "AI in real estate",
+    "Luxury market dynamics",
+    "Importance of local knowledge",
+    "Client relationship building",
+    "Using AI for buyer and seller insights"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI providing inaccurate property valuations",
+      "solution_summary": "Use local knowledge to supplement AI data and provide accurate valuations.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding buyers for luxury listings",
+      "solution_summary": "Target specific buyer profiles using AI insights and build relationships with feeder markets.",
+      "timestamp": "00:05:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Building trust with clients remotely",
+      "solution_summary": "Use transparency and thorough communication to establish trust without in-person meetings.",
+      "timestamp": "00:18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging AI and local knowledge to excel in luxury markets.",
+      "key_takeaway": "AI can enhance your service offering, but local expertise remains invaluable."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to integrate AI into their workflow effectively.",
+      "key_takeaway": "Start using AI to anticipate client questions and objections to improve your service."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:45",
+      "quote": "AI is replacing what's expected from a REALTOR. So if we use it as a tool, it's only helping us.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the fear of AI replacing agents by positioning it as a tool for enhancement.",
+      "suggested_hook": "Is AI really a threat to REALTORS, or is it an opportunity?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to prepare for buyer objections and questions.",
+      "context": "Before any buyer consultation, input property details into AI to anticipate client concerns.",
+      "timestamp": "00:23:00"
+    },
+    {
+      "tactic": "Develop buyer profiles using AI for targeted marketing.",
+      "context": "Input property details into AI to determine the ideal buyer profile and target marketing efforts accordingly.",
+      "timestamp": "00:25:00"
+    }
+  ],
+  "quotable_insights": [
+    "AI can only go so far, and local knowledge is irreplaceable.",
+    "In a luxury market, transparency is key to building trust."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Kelsey Caputo discusses the intersection of AI and real estate, particularly in the luxury market. She emphasizes the importance of using AI as a tool to enhance service offerings while maintaining the irreplaceable value of local knowledge. Kelsey shares insights on building trust with clients remotely and using AI to anticipate buyer objections, offering actionable strategies for agents looking to excel in competitive markets.",
+  "_metadata": {
+    "source_file": "2026-07-28_item7_Kelsey-Caputo",
+    "analyzed_at": "2026-08-14T05:27:50.740512",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

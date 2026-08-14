@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:28",
+      "end_timestamp": "00:04:01",
+      "quote": "Titles and thumbnails are the front door of your YouTube channel.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of first impressions in video marketing.",
+      "suggested_hook": "Is your content going unnoticed? Here's why your titles and thumbnails matter more than you think."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is your content going unnoticed? Here's why it matters more than you think.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changing insight on our podcast. If you're pouring hours into creating videos but seeing little engagement, you're not alone. Many agents struggle with this. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah says, 'Titles and thumbnails are the front door of your YouTube channel.' [ON-SCREEN: Titles and thumbnails = Front door] Most agents slap on generic titles. Top producers craft them like headlines. [ON-SCREEN: Craft titles like headlines] And thumbnails? They're not just pictures; they're your first impression. [ON-SCREEN: Thumbnails = First impression]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Use AI tools for title generation and consider outsourcing thumbnail design. [ON-SCREEN: Start today with AI tools] Sarah closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your YouTube titles and thumbnails are your front door. Make them count!\",\n  \"HASHTAGS\": [\n    \"#RealEstateMarketing\",\n    \"#YouTubeTips\",\n    \"#AgentSuccess\",\n    \"#VideoMarketing\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Titles and thumbnails are the front door of your YouTube channel.\"\n}\n```"
+  }
+]

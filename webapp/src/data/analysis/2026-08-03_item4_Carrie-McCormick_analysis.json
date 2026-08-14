@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Top Producing Real Estate Agent",
+    "company": "Carrie McCormick Group, At Properties, Christie's International",
+    "production_level": "Top 0.001% of agents in Chicago",
+    "specialty": "Luxury real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Impact of AI on the real estate market",
+    "Luxury real estate trends",
+    "Importance of lifestyle in property selection",
+    "Role of personal branding for agents",
+    "Chicago's position in the luxury market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Will AI replace real estate agents?",
+      "solution_summary": "AI will not replace agents but will replace average marketing. Agents should focus on becoming trusted advisors and leveraging AI for better branding.",
+      "timestamp": "00:04:54"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to stand out in a competitive market?",
+      "solution_summary": "Agents should focus on building a strong personal brand and becoming small media companies to provide valuable content and expertise.",
+      "timestamp": "00:17:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging AI and personal branding to excel in the luxury market.",
+      "key_takeaway": "Focus on lifestyle matching and personal branding to differentiate yourself in the luxury real estate market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:03",
+      "end_timestamp": "00:08:45",
+      "quote": "AI isn't replacing real estate agents; it's replacing average marketing.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common fear that AI will replace jobs, offering a new perspective.",
+      "suggested_hook": "Is AI coming for your job? Think again!"
+    },
+    {
+      "timestamp": "00:17:04",
+      "end_timestamp": "00:17:35",
+      "quote": "When information becomes free, judgment becomes priceless.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the enduring value of human expertise in an AI-driven world.",
+      "suggested_hook": "In a world of free information, what's truly priceless?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on lifestyle matching for clients",
+      "context": "Help clients find properties that match their desired lifestyle rather than just focusing on square footage.",
+      "timestamp": "00:13:37"
+    },
+    {
+      "tactic": "Develop a strong personal brand through content creation",
+      "context": "Use social media and other platforms to establish yourself as a local expert and provide valuable insights.",
+      "timestamp": "00:17:04"
+    }
+  ],
+  "quotable_insights": [
+    "AI isn't replacing real estate agents; it's replacing average marketing.",
+    "When information becomes free, judgment becomes priceless."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the transformative impact of AI on the luxury real estate market, emphasizing the importance of lifestyle matching over traditional metrics like square footage. She highlights the need for agents to focus on personal branding and becoming trusted advisors in an AI-driven world. With insights into Chicago's unique position in the luxury market, this episode offers valuable strategies for agents looking to thrive in a rapidly evolving industry.",
+  "_metadata": {
+    "source_file": "2026-08-03_item4_Carrie-McCormick",
+    "analyzed_at": "2026-08-14T05:29:27.994653",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

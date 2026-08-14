@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:05",
+      "end_timestamp": "00:10:45",
+      "quote": "I treated it like a business... having systems and structure and prioritizing my day.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of treating real estate as a business.",
+      "suggested_hook": "Are you treating your real estate career like a business?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you treating your real estate career like a business?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sam Burke, a young real estate prodigy, shared a game-changing insight on our podcast. You're hustling every day, but it feels like you're just spinning wheels. You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sam said, 'I treated it like a business... having systems and structure and prioritizing my day.' [ON-SCREEN: Treat it like a business] Most agents wing it. Top producers have a plan. [ON-SCREEN: Systems and Structure] They know exactly what to do each day to move the needle. [ON-SCREEN: Prioritize Your Day]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Implement a simple daily structure. Sam closed 47 deals last year using this exact approach. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform your real estate hustle into a thriving business. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#BusinessMindset\", \"#TopProducer\", \"#RealEstateSuccess\", \"#AgentGrowth\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents wing it. Top producers have a plan.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:19:26",
+      "end_timestamp": "00:20:08",
+      "quote": "The brand that I'm building has so much more value... I treated every single seller with the same attention to detail.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the idea of scaling service based on property price.",
+      "suggested_hook": "Why you should never scale your service based on property price."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why you should never scale your service based on property price.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sam Burke challenges a common belief in real estate: scaling service by property price. If you've ever felt like smaller listings deserve less attention, listen up. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sam says, 'The brand that I'm building has so much more value... I treated every single seller with the same attention to detail.' [ON-SCREEN: Treat every seller equally] Most agents focus more on high-value properties. Top producers know every client is a brand ambassador. [ON-SCREEN: Every client is a brand ambassador]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start treating all clients equally today. Sam's approach helped him build a strong reputation and close more deals. [ON-SCREEN: Build a strong reputation]\",\n    \"CTA\": \"Are you treating all your clients equally — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Treat every client like they're your biggest deal. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#ClientService\",\n    \"#TopProducer\",\n    \"#RealEstateMindset\",\n    \"#AgentTips\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Every client is a brand ambassador.\"\n}\n```"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "D.J. Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Deal fall-through rates",
+    "Agent responsibility during escrow",
+    "Communication strategies to prevent deal collapse",
+    "Market conditions affecting buyer behavior",
+    "The 30-day grip system"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "High rate of deals falling through after going under contract",
+      "solution_summary": "Implement the 30-day grip system to maintain communication and manage buyer expectations.",
+      "timestamp": "00:00:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to reduce deal fall-through rates, a common issue for agents.",
+      "key_takeaway": "Consistent communication and managing buyer expectations can significantly reduce deal cancellations."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:02",
+      "end_timestamp": "00:05:36",
+      "quote": "A fear you predicted stops feeling like a warning sign. It starts feeling like your agent knows what they're doing.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This highlights the importance of proactive communication in managing client expectations.",
+      "suggested_hook": "Are you predicting your client's fears before they arise?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Day zero call",
+      "context": "Within 24 hours of mutual acceptance, call your client to outline the next month's process and potential stress points.",
+      "timestamp": "00:05:04"
+    },
+    {
+      "tactic": "Tuesday pulse",
+      "context": "Every Tuesday, contact all parties involved in the deal to check for any issues that need addressing.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "tactic": "Wobble window",
+      "context": "Proactively address potential deal-breaking moments like inspections and appraisals by initiating contact first.",
+      "timestamp": "00:06:49"
+    }
+  ],
+  "quotable_insights": [
+    "The deal you lose in escrow is actually the most expensive deal you'll ever lose.",
+    "Going first is the entire thing. When you call your client with a problem, you're the professional running the deal."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "In this episode, D.J. Paris discusses the surprisingly high rate of real estate deals that fall through after going under contract. He introduces the '30-day grip' system, a proactive communication strategy designed to keep deals alive by managing client expectations and addressing potential issues before they arise. This approach is particularly relevant in today's market, where buyers have more options and are easily spooked by economic uncertainties.",
+  "_metadata": {
+    "source_file": "2026-07-27_item8_Coffee-Talks-with-D.J.",
+    "analyzed_at": "2026-08-14T05:27:04.139933",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

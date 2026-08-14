@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:05",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing... It got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights the unexpected impact of personal content on engagement.",
+      "suggested_hook": "Want to boost your social media engagement? Try this surprising tactic!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to boost your social media engagement? Try this surprising tactic!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"One of Kim Rittberg's clients posted a photo of himself skiing... It got five times the engagement of his real estate posts. You're posting listings and market updates, but the engagement just isn't there. Sound familiar?\",\n    \"INSIGHT\": \"Kim Rittberg shared that personal content can skyrocket your engagement. [ON-SCREEN: Personal content boosts engagement] Her client saw five times more interaction with a simple skiing photo than any real estate post. [ON-SCREEN: 5x engagement] Most agents focus solely on listings. Top producers mix in personal stories. [ON-SCREEN: Mix personal with professional]\",\n    \"REFRAME/APPLICATION\": \"This matters because personal content builds connection and credibility. You can start today by sharing a hobby or interest. [ON-SCREEN: Start today] Kim's client closed more deals by being relatable.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Boost your engagement with personal content! Are you mixing it in? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SocialMediaStrategy\", \"#EngagementBoost\", \"#AgentAdvice\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Personal content can skyrocket your engagement.\"\n}\n```"
+  }
+]

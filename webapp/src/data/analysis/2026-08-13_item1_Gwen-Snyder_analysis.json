@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Gwen Snyder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "Sold half a billion dollars in Colorado luxury",
+    "specialty": "Luxury Real Estate",
+    "location": "Greenwood Village, Colorado"
+  },
+  "main_topics": [
+    "Building a referable real estate business",
+    "The importance of follow-up in client relationships",
+    "Marketing strategies for luxury listings",
+    "Challenges and strategies in luxury real estate",
+    "The role of authenticity and personal branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "85% of agents never follow up with a client after closing",
+      "solution_summary": "Consistent follow-up and relationship building post-closing to generate referrals",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggle with cold calling and finding initial clients",
+      "solution_summary": "Focus on relationship building and being of service to attract clients",
+      "timestamp": "00:04:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Misconceptions about entering the luxury real estate market",
+      "solution_summary": "Understand the high level of service and attention to detail required in luxury markets",
+      "timestamp": "00:29:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a high-level referral-based business without cold calling",
+      "key_takeaway": "Focus on being memorable and providing exceptional service to become referable"
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers strategies for starting out in real estate without relying on cold calling",
+      "key_takeaway": "Build relationships and focus on service to generate business"
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:00",
+      "end_timestamp": "00:06:00",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a humorous and relatable take on the discomfort of cold calling, likely to resonate with many agents.",
+      "suggested_hook": "Why cold calling might not be the best strategy for you."
+    },
+    {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:10:00",
+      "quote": "Think of things that my clients might ask or request before they know to ask or request it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This proactive approach to client service is a key differentiator and actionable tip.",
+      "suggested_hook": "How to anticipate your clients' needs before they even ask."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Meet 60 new people a year to expand your network.",
+      "context": "Aim to meet one new person a week to build relationships and potential leads.",
+      "timestamp": "00:18:00"
+    },
+    {
+      "tactic": "Use high-end photography and video for listings.",
+      "context": "Invest in professional visuals to enhance property marketing and attract more buyers.",
+      "timestamp": "00:15:00"
+    }
+  ],
+  "quotable_insights": [
+    "Authenticity beats polish every time.",
+    "Being a concierge REALTOR means doing most and more."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a solution for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Gwen Snyder shares her journey in luxury real estate, emphasizing the importance of building a referable business through exceptional service and relationship building. She discusses strategies for marketing luxury properties, the challenges of entering the luxury market, and the significance of authenticity in client interactions. Gwen's insights provide actionable advice for agents looking to enhance their referral business and succeed in high-end real estate.",
+  "_metadata": {
+    "source_file": "2026-08-13_item1_Gwen-Snyder",
+    "analyzed_at": "2026-08-14T05:31:45.374724",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:00",
+      "end_timestamp": "06:00",
+      "quote": "If someone is a lead, you communicate with them every day, even if it's just to say that you don't have anything to say.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a simple yet effective tactic for maintaining client relationships.",
+      "suggested_hook": "Want to close more deals? Here's a simple daily habit that can make all the difference."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to close more deals? Here's a simple daily habit that can make all the difference.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a game-changing tip on our podcast. Ever feel like you're reaching out to your leads but getting radio silence? It's frustrating, right? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'If someone is a lead, you communicate with them every day, even if it's just to say that you don't have anything to say.' [ON-SCREEN: Communicate daily, even with no news] Most agents wait for big updates. Top producers keep the conversation alive daily. [ON-SCREEN: Top producers communicate daily]\",\n    \"REFRAME_APPLICATION\": \"Why does this matter? Because consistency builds trust. You can start this today. Ben closed 47 deals last year using exactly this approach. [ON-SCREEN: Consistency builds trust]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistent communication is key! Are you reaching out daily? #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientCommunication\",\n    \"#TopProducerSecrets\",\n    \"#RealEstateSuccess\",\n    \"#AgentAdvice\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If someone is a lead, you communicate with them every day, even if it's just to say that you don't have anything to say.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "AI will solve for experience, but it won't replace the emotional intelligence and personal connection agents provide.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the fear that AI will replace real estate agents.",
+      "suggested_hook": "Worried about AI taking over real estate? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Worried about AI taking over real estate? Here's why you shouldn't be.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez joined us to tackle a common fear: AI replacing real estate agents. You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'AI will solve for experience, but it won't replace the emotional intelligence and personal connection agents provide.' [ON-SCREEN: AI solves experience, not connection] Most agents fear AI. Top producers leverage it to enhance their human touch. [ON-SCREEN: Leverage AI, enhance human touch]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start using AI tools today to streamline tasks, freeing you to focus on building relationships. [ON-SCREEN: Start today, build relationships]\",\n    \"CTA\": \"Are you leveraging AI to enhance your client connections — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI won't replace real estate agents. Here's how to stay ahead. #RealEstate #AI\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#ClientConnections\", \"#AgentTips\", \"#EmotionalIntelligence\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI will solve for experience, but it won't replace the emotional intelligence and personal connection agents provide.\"\n}\n```"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:45",
+      "quote": "AI is replacing what's expected from a REALTOR. So if we use it as a tool, it's only helping us.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the fear of AI replacing agents by positioning it as a tool for enhancement.",
+      "suggested_hook": "Is AI really a threat to REALTORS, or is it an opportunity?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is AI a threat to REALTORS, or your new best friend?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo says AI is changing real estate. You're worried it might replace you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"AI is replacing what's expected from a REALTOR. So if we use it as a tool, it's only helping us. [ON-SCREEN: AI as a Tool, Not a Threat] Most agents fear AI. Top producers see it as an opportunity. [ON-SCREEN: Opportunity Awaits]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start using AI today to enhance your client relationships. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you using AI in your business — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI: Threat or Opportunity for REALTORS? Discover how to leverage it today. #RealEstate #AI\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#RealtorTips\", \"#Innovation\", \"#ClientSuccess\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI is replacing what's expected from a REALTOR. So if we use it as a tool, it's only helping us.\"\n}\n```"
+  }
+]
