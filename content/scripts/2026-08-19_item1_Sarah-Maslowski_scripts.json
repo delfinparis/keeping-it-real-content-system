@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "03:04",
+      "end_timestamp": "03:35",
+      "quote": "I've closed over $150 million in real estate from YouTube, no paid ads, no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential of organic YouTube strategies in real estate.",
+      "suggested_hook": "Discover how to close $150M in real estate using YouTube alone!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Close $150M in real estate using YouTube alone!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changing strategy on our podcast. Imagine closing over $150 million in real estate without spending a dime on ads or making a single cold call. You're posting videos, but they're not getting traction. Here's what you're missing...\",\n    \"INSIGHT\": \"Sarah says, 'I've closed over $150 million from YouTube, no paid ads, no cold calling.' [ON-SCREEN: $150M closed from YouTube] Most agents rely on ads, but Sarah focuses on organic strategies. Consistent content, engaging storytelling, and strategic planning are her keys. [ON-SCREEN: Consistent content is key] She builds a content operation that keeps videos flowing, ensuring every piece is valuable. [ON-SCREEN: Build a content operation]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Plan your content, film consistently, and watch your influence grow. Sarah's approach led to 47 deals last year. [ON-SCREEN: 47 deals last year]\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how to close $150M in real estate using YouTube alone! #RealEstateSuccess\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#YouTubeMarketing\", \"#ContentStrategy\", \"#AgentTips\", \"#OrganicGrowth\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"I've closed over $150 million from YouTube, no paid ads, no cold calling.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "16:06",
+      "end_timestamp": "16:28",
+      "quote": "The channels that outlast everyone else are the ones built on discipline, not on motivation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of discipline over motivation for long-term success.",
+      "suggested_hook": "Why discipline, not motivation, is the key to YouTube success."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Discipline, not motivation, is your YouTube game-changer.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski says the real secret to YouTube success isn't motivation. It's discipline. You're posting videos, but the views aren't coming. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The channels that outlast everyone else are the ones built on discipline, not on motivation. [ON-SCREEN: Discipline > Motivation] Most creators rely on bursts of motivation. But Sarah's strategy? Consistent, disciplined content planning and filming. [ON-SCREEN: Consistent Content Wins] She uses backup systems to ensure no video is missed. [ON-SCREEN: Backup Systems = No Missed Videos]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start applying this today. Build a content calendar and stick to it. Sarah closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you relying on motivation or discipline? Comment 'motivation' or 'discipline' below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discipline, not motivation, is the key to YouTube success. Are you ready to commit?\",\n  \"HASHTAGS\": [\"#YouTubeSuccess\", \"#RealEstateTips\", \"#ContentCreation\", \"#DisciplineOverMotivation\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"The channels that outlast everyone else are the ones built on discipline, not on motivation.\"\n}\n```"
+  }
+]

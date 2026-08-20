@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:22",
+      "end_timestamp": "00:11:05",
+      "quote": "AI doesn't know anything about the boating access or what kind of boat you can have there.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the perception that AI can fully replace human expertise in niche markets.",
+      "suggested_hook": "Think AI can replace your local expertise? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think AI can replace your local expertise? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo challenges the AI hype in real estate. You're relying on AI, but it can't tell you about boating access or the type of boat you can have. Sound familiar?\",\n    \"INSIGHT\": \"Kelsey says, 'AI doesn't know anything about the boating access or what kind of boat you can have there.' [ON-SCREEN: AI lacks local insight] Most agents lean on AI. Top producers leverage local knowledge. [ON-SCREEN: Local expertise wins]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because your local expertise is irreplaceable. Use it to build trust today. This agent's approach closed 47 deals last year. [ON-SCREEN: Trust builds success]\",\n    \"CTA\": \"Is your local knowledge your secret weapon — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can't replace your local expertise. Use it to build trust and close deals.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LocalExpertise\", \"#AIinRealEstate\", \"#LuxuryMarket\", \"#ClientTrust\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents lean on AI. Top producers leverage local knowledge.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:17:00",
+      "end_timestamp": "00:17:22",
+      "quote": "Local knowledge is going to become more important in the age of AI.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on their unique value proposition.",
+      "suggested_hook": "Why local knowledge is your secret weapon in the AI era."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Local knowledge is your secret weapon in the AI era.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kelsey Caputo shared this on our podcast, and it’s a game-changer. You're trying to stand out in a sea of AI-driven solutions, but clients still crave that personal touch.\",\n    \"INSIGHT\": \"Kelsey says, 'Local knowledge is going to become more important in the age of AI.' [ON-SCREEN: Local knowledge is key] Most agents rely on tech, but top producers leverage their deep understanding of neighborhoods. [ON-SCREEN: Top producers leverage local insights]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by diving into local events or community boards. [ON-SCREEN: Start today] Kelsey closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you leveraging your local knowledge — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why local knowledge is your secret weapon in the AI era. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#LocalKnowledge\", \"#TopProducer\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Local knowledge is going to become more important in the age of AI.\"\n}\n```"
+  }
+]

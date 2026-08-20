@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Gwen Snyder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "Sold half a billion dollars in Colorado luxury",
+    "specialty": "Luxury real estate",
+    "location": "Greenwood Village, Colorado"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Importance of follow-up in real estate",
+    "Marketing strategies for luxury listings",
+    "Challenges and misconceptions in luxury real estate",
+    "Personal resilience and mindset in business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "85% of agents never follow up with clients after closing",
+      "solution_summary": "Consistent follow-up and personalized touches to maintain relationships and generate referrals",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents relying solely on referrals feel they have to wait for opportunities",
+      "solution_summary": "Meet 60 new people a year to expand your network and create opportunities",
+      "timestamp": "00:18:07"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Misconceptions about entering luxury real estate",
+      "solution_summary": "Understand the high level of service and attention to detail required in luxury markets",
+      "timestamp": "00:29:49"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to build a high-volume referral business without cold calling",
+      "key_takeaway": "Focus on relationship building and providing exceptional service to become referable"
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers insights on how to break into luxury real estate and improve client management",
+      "key_takeaway": "Implement systems and processes to handle increased volume and complexity in luxury markets"
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:06:00",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a humorous and memorable way to express a contrarian view on cold calling.",
+      "suggested_hook": "Why cold calling might not be the best strategy for everyone."
+    },
+    {
+      "timestamp": "00:09:35",
+      "end_timestamp": "00:10:03",
+      "quote": "Think of things that my clients might ask or request before they know to ask or request it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a proactive approach to client service that can differentiate agents.",
+      "suggested_hook": "How to anticipate your clients' needs before they even ask."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Meet 60 new people a year",
+      "context": "Expand your network and create new opportunities without relying solely on referrals",
+      "timestamp": "00:18:07"
+    },
+    {
+      "tactic": "Use high-end photography and video for listings",
+      "context": "Enhance the presentation of luxury properties and attract more buyers",
+      "timestamp": "00:15:14"
+    },
+    {
+      "tactic": "Conduct a thorough pre-market consultation",
+      "context": "Ensure homes are market-ready to achieve top dollar and reduce time on market",
+      "timestamp": "00:12:36"
+    }
+  ],
+  "quotable_insights": [
+    "Being of service is the key to becoming referable.",
+    "If you're not early, you're late."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM management"
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for identifying agents likely to move"
+    }
+  ],
+  "episode_summary": "Gwen Snyder shares her journey to building a successful luxury real estate business without cold calling, emphasizing the importance of relationship building and proactive client service. She provides actionable strategies for generating referrals, marketing luxury listings, and maintaining a resilient mindset in the face of personal challenges. The episode offers valuable insights for agents looking to elevate their business and break into the luxury market.",
+  "_metadata": {
+    "source_file": "2026-08-13_item2_Gwen-Snyder",
+    "analyzed_at": "2026-08-20T04:52:48.484219",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

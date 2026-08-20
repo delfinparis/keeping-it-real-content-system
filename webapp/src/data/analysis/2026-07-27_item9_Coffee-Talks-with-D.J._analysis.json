@@ -1,0 +1,70 @@
+{
+  "guest_info": {
+    "name": "D.J. Paris",
+    "title": "VP of Business Development",
+    "company": "Kale Realty",
+    "production_level": null,
+    "specialty": null,
+    "location": null
+  },
+  "main_topics": [
+    "Deal fall-through rates",
+    "The 30-day grip system",
+    "Communication strategies post-contract",
+    "Market conditions affecting deal closures",
+    "Agent responsibility in deal management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "High rate of deals falling through after going under contract",
+      "solution_summary": "Implement the 30-day grip system to maintain communication and manage client expectations throughout the closing process.",
+      "timestamp": "00:04:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to improve deal closure rates, which is a common challenge for agents who have some experience but struggle with consistency.",
+      "key_takeaway": "Consistent communication and proactive management during the 30-day closing period can significantly reduce deal fall-through rates."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:49",
+      "end_timestamp": "00:05:02",
+      "quote": "The deal you lose in escrow is actually the most expensive deal you'll ever lose.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement highlights the financial impact of losing a deal after significant work has already been done.",
+      "suggested_hook": "Are you losing deals in escrow? Here's why it's costing you more than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Day Zero Call",
+      "context": "Call clients within 24 hours of contract acceptance to set expectations for the next 30 days.",
+      "timestamp": "00:05:04"
+    },
+    {
+      "tactic": "Tuesday Pulse",
+      "context": "Weekly check-ins with all parties involved in the transaction to ensure smooth progress.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "tactic": "Wobble Window",
+      "context": "Proactively address potential deal-breaking issues during key moments like inspection and appraisal.",
+      "timestamp": "00:06:49"
+    }
+  ],
+  "quotable_insights": [
+    "The cheapest deal you win all year is the one you already have."
+  ],
+  "resources_mentioned": [],
+  "episode_summary": "In this episode, D.J. Paris addresses the high rate of real estate deals falling through after going under contract. He introduces the '30-day grip' system, a structured approach to maintaining communication and managing client expectations during the critical closing period. By implementing tactics like the Day Zero Call, Tuesday Pulse, and Wobble Window, agents can significantly improve their deal closure rates.",
+  "_metadata": {
+    "source_file": "2026-07-27_item9_Coffee-Talks-with-D.J.",
+    "analyzed_at": "2026-08-20T04:48:16.734084",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

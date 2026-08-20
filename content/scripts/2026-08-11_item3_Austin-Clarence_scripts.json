@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "No one falls in love with the mortgage, you fall in love with the house.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Challenges the notion that low rates should prevent moving.",
+      "suggested_hook": "Are low mortgage rates keeping you from your dream home?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are low mortgage rates keeping you from your dream home?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence recently shared a game-changing insight on our podcast. You're eyeing that perfect home, but those low mortgage rates have you stuck in your current place. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin said, 'No one falls in love with the mortgage, you fall in love with the house.' [ON-SCREEN: Fall in love with the house] It's about leveraging your current assets—like turning your property into a rental or using a bridge loan to buy before you sell. [ON-SCREEN: Bridge loan strategy] Most agents focus on rates, but top producers focus on client needs.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start applying these strategies today to unlock your dream home. Austin's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Is your mortgage holding you back — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't let low rates stop you from your dream home. Here's how! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#HomeBuying\", \"#MortgageAdvice\", \"#TopProducer\", \"#RealEstatePodcast\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"No one falls in love with the mortgage, you fall in love with the house.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "Bridge loans eliminate the 'if' of contingencies.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear solution to a common home buying problem.",
+      "suggested_hook": "Want to buy before you sell? Here's how."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to buy before you sell? Here's how.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence shared a game-changer for buyers stuck in a catch-22: needing to sell before buying. If you're juggling selling your current home while eyeing a new one, this is for you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Bridge loans eliminate the 'if' of contingencies. [ON-SCREEN: Bridge loans eliminate contingencies] Austin says, 'Most buyers worry about selling first. With a bridge loan, you can buy before you sell.' [ON-SCREEN: Buy before you sell] This tactic frees you from the stress of timing both transactions perfectly. [ON-SCREEN: Stress-free transactions]\",\n    \"REFRAME/APPLICATION\": \"This matters now because the market's moving fast. You can apply this today by consulting with a lender about bridge loans. [ON-SCREEN: Consult a lender today] Austin closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stuck in a buy-sell dilemma? Bridge loans might be your answer. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#BridgeLoans\", \"#HomeBuying\", \"#RealEstateAdvice\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Bridge loans eliminate the 'if' of contingencies.\"\n}\n```"
+  }
+]

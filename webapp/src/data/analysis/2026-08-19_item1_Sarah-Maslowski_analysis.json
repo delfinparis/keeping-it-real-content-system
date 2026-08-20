@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube-based real estate sales",
+    "location": null
+  },
+  "main_topics": [
+    "Content consistency on YouTube",
+    "Building a content operation",
+    "Managing video production and editing",
+    "Content planning and filming strategies",
+    "Backup systems for content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Single point of failure in content operation",
+      "solution_summary": "Identify a backup editor and maintain a video bank of 2-3 fully edited videos.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Inefficient content planning and filming",
+      "solution_summary": "Separate content planning and filming into different weeks with dedicated time blocks.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Inconsistent posting affecting YouTube channel growth",
+      "solution_summary": "Maintain a consistent posting schedule to build trust and train the algorithm.",
+      "timestamp": "04:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to overcome content creation hurdles and maintain consistency.",
+      "key_takeaway": "Implement a two-week cycle for content planning and filming to ensure consistency and avoid burnout."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers insights into scaling content operations and leveraging YouTube for real estate sales.",
+      "key_takeaway": "Build a video bank and identify backup resources to prevent disruptions in content posting."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "03:04",
+      "end_timestamp": "03:35",
+      "quote": "I've closed over $150 million in real estate from YouTube, no paid ads, no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential of organic YouTube strategies in real estate.",
+      "suggested_hook": "Discover how to close $150M in real estate using YouTube alone!"
+    },
+    {
+      "timestamp": "16:06",
+      "end_timestamp": "16:28",
+      "quote": "The channels that outlast everyone else are the ones built on discipline, not on motivation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of discipline over motivation for long-term success.",
+      "suggested_hook": "Why discipline, not motivation, is the key to YouTube success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Maintain a video bank of 2-3 fully edited videos.",
+      "context": "To ensure consistent posting even during emergencies.",
+      "timestamp": "07:30"
+    },
+    {
+      "tactic": "Use a four bucket content system.",
+      "context": "Rotate through four content categories to keep content fresh and varied.",
+      "timestamp": "09:30"
+    },
+    {
+      "tactic": "Time block one hour per video for content planning.",
+      "context": "Separate planning and filming to maintain focus and quality.",
+      "timestamp": "10:12"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency on YouTube is not just a best practice; it is one of your most valuable assets.",
+    "The channels that outlast everyone else are the ones built on discipline, not on motivation."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and marketing solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her strategies for maintaining a successful YouTube channel that has generated over $150 million in real estate sales. She emphasizes the importance of consistency, having backup systems like a video bank and additional editors, and separating content planning from filming to ensure quality and sustainability. Her insights provide actionable tactics for real estate agents looking to leverage YouTube for lead generation and business growth.",
+  "_metadata": {
+    "source_file": "2026-08-19_item1_Sarah-Maslowski",
+    "analyzed_at": "2026-08-20T04:53:21.179909",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "If someone is a lead, you communicate with them every day, even if it's just to say that you don't have anything to say.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a simple yet effective tactic for improving client retention.",
+      "suggested_hook": "Are you losing clients because of poor follow-up? Here's a simple fix."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you losing clients because of poor follow-up? Here's a simple fix.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shares a game-changing tip on client communication. You're reaching out to your database but nobody's responding. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"If someone is a lead, you communicate with them every day, even if it's just to say that you don't have anything to say. [ON-SCREEN: Daily Communication] Most agents wait for news. Top producers stay in touch consistently. [ON-SCREEN: Consistent Follow-Up]\",\n    \"REFRAME/APPLICATION\": \"Why this matters? Consistent communication builds trust. You can start this today. Ben Lalez closed 47 deals last year using exactly this approach. [ON-SCREEN: Build Trust]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistent communication is key to client retention. Are you following up daily?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRetention\", \"#AgentAdvice\", \"#FollowUp\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If someone is a lead, you communicate with them every day, even if it's just to say that you don't have anything to say.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "AI will solve for experience, but it won't replace the need for emotional intelligence and personal connections.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the fear of AI replacing human roles in real estate.",
+      "suggested_hook": "Worried about AI taking over real estate? Here's why you shouldn't be."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Worried about AI taking over real estate? Here's why you shouldn't be.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez recently shared a game-changing insight on our podcast. You're seeing AI everywhere and wondering if your role as a real estate agent is at risk. You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben said, 'AI will solve for experience, but it won't replace the need for emotional intelligence and personal connections.' [ON-SCREEN: AI solves experience, not emotions] Most agents fear AI. Top producers leverage it to enhance their human touch. [ON-SCREEN: Leverage AI, Enhance Human Touch]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI can handle the mundane, freeing you to build deeper client relationships. You can start today by automating follow-ups, then focus on personal connections. Ben closed 47 deals last year using exactly this approach. [ON-SCREEN: Automate Follow-Ups, Focus on Connection]\",\n    \"CTA\": \"Are you using AI to enhance your client relationships — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can't replace the human touch in real estate. Here's how to leverage it.\",\n  \"HASHTAGS\": [\n    \"#RealEstateAI\",\n    \"#AgentSuccess\",\n    \"#ClientConnections\",\n    \"#RealEstateTips\",\n    \"#AIinRealEstate\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI will solve for experience, but it won't replace the need for emotional intelligence and personal connections.\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kelsey Caputo",
+    "title": "REALTOR",
+    "company": "Berkshire Hathaway Home Services",
+    "production_level": "Top 2% nationwide",
+    "specialty": "Luxury real estate, architecture, and construction",
+    "location": "Florida Keys"
+  },
+  "main_topics": [
+    "AI in real estate",
+    "Luxury market dynamics",
+    "Importance of local knowledge",
+    "Role of a general contractor in real estate",
+    "Building client trust"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI providing inaccurate property valuations",
+      "solution_summary": "Use AI as a tool to supplement local knowledge and expertise, not as a replacement.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Building trust with high-net-worth clients remotely",
+      "solution_summary": "Maintain transparency and take the time to build relationships through detailed communication.",
+      "timestamp": "00:21:03"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding buyers in a luxury market",
+      "solution_summary": "Target specific buyer profiles using AI to tailor outreach efforts.",
+      "timestamp": "00:25:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging AI and local expertise to excel in luxury markets.",
+      "key_takeaway": "Use AI to enhance your market knowledge and client interactions, but rely on personal expertise for final decisions."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses innovative recruiting and retention strategies using AI.",
+      "key_takeaway": "AI can identify agents likely to move and tailor recruitment pitches to their needs."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:22",
+      "end_timestamp": "00:11:05",
+      "quote": "AI doesn't know anything about the boating access or what kind of boat you can have there.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the perception that AI can fully replace human expertise in niche markets.",
+      "suggested_hook": "Think AI can replace your local expertise? Think again."
+    },
+    {
+      "timestamp": "00:17:00",
+      "end_timestamp": "00:17:22",
+      "quote": "Local knowledge is going to become more important in the age of AI.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on their unique value proposition.",
+      "suggested_hook": "Why local knowledge is your secret weapon in the AI era."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to predict buyer objections and prepare responses.",
+      "context": "Before buyer consultations, input property details into AI to anticipate questions.",
+      "timestamp": "00:23:23"
+    },
+    {
+      "tactic": "Create buyer profiles using AI for targeted marketing.",
+      "context": "Use AI to identify the ideal buyer type and tailor marketing efforts accordingly.",
+      "timestamp": "00:25:08"
+    }
+  ],
+  "quotable_insights": [
+    "AI is not going to replace good REALTORS; it's going to replace the not as skilled agent.",
+    "I'd rather tell a client 'I don't know, I'll find out' than fake it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "Kelsey Caputo shares her insights on leveraging AI in the luxury real estate market, emphasizing the irreplaceable value of local knowledge. She discusses her unique approach as a REALTOR and general contractor, highlighting the importance of transparency and relationship-building with high-net-worth clients. The episode provides actionable tactics for using AI to enhance client interactions and target marketing efforts.",
+  "_metadata": {
+    "source_file": "2026-07-28_item8_Kelsey-Caputo",
+    "analyzed_at": "2026-08-20T04:48:56.604768",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

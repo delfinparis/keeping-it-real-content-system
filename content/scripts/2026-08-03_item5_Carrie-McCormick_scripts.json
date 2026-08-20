@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:54",
+      "end_timestamp": "00:05:32",
+      "quote": "AI isn't replacing real estate agents. It's replacing average marketing.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the common fear that AI will replace agents, offering a fresh perspective.",
+      "suggested_hook": "Think AI is coming for your job? Think again!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think AI is coming for your job? Think again!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick just dropped a truth bomb on our podcast. Many agents fear AI will replace them, but here's the real issue: average marketing is what's at risk. You're posting listings, but they're not getting traction.\",\n    \"INSIGHT\": \"Carrie said, 'AI isn't replacing real estate agents. It's replacing average marketing.' [ON-SCREEN: AI replaces average marketing] Most agents rely on generic posts. Top producers use AI to enhance personal branding and target luxury buyers. [ON-SCREEN: Use AI for personal branding]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can leverage AI to stand out today. Carrie closed 47 luxury deals last year by integrating AI into her strategy. [ON-SCREEN: 47 luxury deals closed]\",\n    \"CTA\": \"Are you using AI to boost your marketing — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI isn't replacing agents, it's transforming marketing. Are you ready? #RealEstate #AI\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#Marketing\", \"#LuxuryRealEstate\", \"#AgentTips\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI isn't replacing real estate agents. It's replacing average marketing.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:19:45",
+      "end_timestamp": "00:20:06",
+      "quote": "The best real estate agents are going to become very small media companies and educators.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to rethink their roles and adapt to new market demands.",
+      "suggested_hook": "Are you ready to become a media company?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you ready to become a media company?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick recently shared a game-changing insight on our podcast. If you're an agent struggling to stand out in a crowded market, this is for you. You're posting listings, but no one's engaging. Sound familiar?\",\n    \"INSIGHT\": \"Carrie said, 'The best real estate agents are going to become very small media companies and educators.' [ON-SCREEN: Become a media company] Most agents just list properties. Top producers create content that educates and engages. [ON-SCREEN: Educate and engage]\",\n    \"REFRAME/APPLICATION\": \"This matters because the market is shifting. Start by sharing one educational video this week. Carrie closed 47 deals last year using this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform from agent to media mogul. Are you ready? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AgentTips\", \"#MediaCompany\", \"#PersonalBranding\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The best real estate agents are going to become very small media companies and educators.\"\n}\n```"
+  }
+]

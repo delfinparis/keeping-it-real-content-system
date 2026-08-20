@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:06:00",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a humorous and memorable way to express a contrarian view on cold calling.",
+      "suggested_hook": "Why cold calling might not be the best strategy for everyone."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Would you rather lick a cat's vomit than cold call?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gwen Snyder said it best: 'I would rather lick a cat's vomit than ever cold call.' Why? Because cold calling isn't authentic for everyone. You're reaching out to your database but nobody's responding.\",\n    \"INSIGHT\": \"Gwen built a referral-based business by focusing on authentic connections. [ON-SCREEN: Authentic Connections] She says, 'Most agents rely on cold calls. I focus on building trust and relationships.' [ON-SCREEN: Build Trust] This approach helped her thrive in luxury real estate. [ON-SCREEN: Thrive in Luxury]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? You can start building genuine relationships today. [ON-SCREEN: Start Today] Gwen closed 47 deals last year using this exact approach.\",\n    \"CTA\": \"Are you focusing on relationships over cold calls — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Cold calling not your thing? Try building authentic connections instead. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AuthenticConnections\", \"#ReferralBusiness\", \"#LuxuryRealEstate\", \"#ColdCalling\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on cold calls. I focus on building trust and relationships.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:35",
+      "end_timestamp": "00:10:03",
+      "quote": "Think of things that my clients might ask or request before they know to ask or request it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a proactive approach to client service that can differentiate agents.",
+      "suggested_hook": "How to anticipate your clients' needs before they even ask."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Anticipate your clients' needs before they even ask.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gwen Snyder shared a game-changing strategy on our podcast. You're working hard, reaching out to clients, but they aren't responding. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Gwen says, 'Think of things that my clients might ask or request before they know to ask or request it.' [ON-SCREEN: Proactive Client Service] Most agents wait for questions. Top producers anticipate them. [ON-SCREEN: Anticipate, Don't Wait]\",\n    \"REFRAME/APPLICATION\": \"Why this matters now: Anticipating needs builds trust. You can start today by listing common client questions and addressing them upfront. Gwen built a referral-based business using this exact approach.\",\n    \"CTA\": \"Are you anticipating client needs already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Be the agent who knows what clients need before they do. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientService\",\n    \"#TopProducer\",\n    \"#ProactiveAgent\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for questions. Top producers anticipate them.\"\n}\n```"
+  }
+]

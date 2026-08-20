@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Video coaching for real estate agents",
+    "location": null
+  },
+  "main_topics": [
+    "Social media marketing strategies",
+    "Video content creation",
+    "Building personal connections",
+    "Establishing credibility",
+    "Client engagement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Low engagement on real estate-focused social media posts",
+      "solution_summary": "Incorporate personal life content to increase engagement and connect with the audience.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships during downtime",
+      "solution_summary": "Use summer to engage clients by sharing personal experiences and client success stories.",
+      "timestamp": "00:03:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to enhance personal branding and client engagement.",
+      "key_takeaway": "Integrate personal stories and client successes into your social media to build trust and engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:11",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing... It got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of personal content in engaging audiences.",
+      "suggested_hook": "Want to boost your social media engagement? Try this surprising strategy!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Repurpose long-form video into short-form content",
+      "context": "Use YouTube for long-form content and convert it into short-form for platforms like TikTok and Instagram.",
+      "timestamp": "00:03:28"
+    }
+  ],
+  "quotable_insights": [
+    "Connection and credibility are the keys to building trust with your audience."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "CORDED.IO",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "Kim Rittberg discusses the importance of integrating personal content into social media strategies to boost engagement and build connections. She emphasizes the use of video content, both long and short-form, to establish credibility and maintain client relationships. The episode offers actionable insights for real estate agents looking to enhance their personal brand and client engagement.",
+  "_metadata": {
+    "source_file": "2026-07-30_item7_Kim-Rittberg",
+    "analyzed_at": "2026-08-20T04:49:09.801827",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
