@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:11:00",
+      "quote": "I remember waking up every day and writing down on a piece of paper where I wanted to be.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the importance of mindset and visualization in achieving success.",
+      "suggested_hook": "Want to know the secret to achieving your real estate goals? It starts every morning..."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to know the secret to achieving your real estate goals? It starts every morning...\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sam Burke, a young real estate prodigy, shared a game-changing mindset shift on our podcast. Imagine waking up every day, feeling stuck, unsure of how to reach your goals. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sam said, 'I remember waking up every day and writing down on a piece of paper where I wanted to be.' [ON-SCREEN: Write Your Goals Daily] Most agents drift through their day. Top producers start with clarity. [ON-SCREEN: Clarity Drives Success] This simple act of visualization sets the tone for success. [ON-SCREEN: Visualization = Success]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start this today. Sam built a thriving business from scratch using this approach. [ON-SCREEN: Start Today] Try it tomorrow morning and see the difference.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Start your day with clarity and watch your real estate business grow. #MindsetShift\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#MindsetShift\", \"#GoalSetting\", \"#TopProducer\", \"#Visualization\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents drift through their day. Top producers start with clarity.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:18:00",
+      "end_timestamp": "00:19:00",
+      "quote": "I treat every single seller with the same attention to detail, regardless of the price point.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional wisdom of scaling service based on property price.",
+      "suggested_hook": "Why you should treat every listing like a luxury property..."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why you should treat every listing like a luxury property...\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sam Burke challenges the norm by treating every seller with the same attention to detail, regardless of price. Are you scaling your service based on property value and missing out on potential leads?\",\n    \"INSIGHT\": \"Sam says, 'I treat every single seller with the same attention to detail, regardless of the price point.' [ON-SCREEN: Treat Every Listing Like Luxury] Most agents scale service by price. Top producers know every client deserves luxury treatment. [ON-SCREEN: Equal Attention = More Leads]\",\n    \"REFRAME/APPLICATION\": \"This matters because every client can lead to referrals. Apply this today by elevating your service for all listings. Sam closed 47 deals last year using this exact approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Treat every listing like luxury and watch your referrals grow. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#TopProducerSecrets\", \"#LuxuryService\", \"#LeadGeneration\", \"#RealEstateAgent\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents scale service by price. Top producers know every client deserves luxury treatment.\"\n}\n```"
+  }
+]

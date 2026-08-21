@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:09:30",
+      "end_timestamp": "00:10:15",
+      "quote": "Why have you been selling to people you don't know?",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It highlights the importance of leveraging existing relationships for business growth.",
+      "suggested_hook": "Are you wasting time on cold leads? Here's why you shouldn't."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you wasting time on cold leads?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Greg Roeder asked, 'Why have you been selling to people you don't know?' If you're constantly chasing cold leads and feeling stuck, this might be why.\",\n    \"INSIGHT\": \"Greg highlights the power of leveraging existing relationships. [ON-SCREEN: Leverage Relationships] Most agents chase strangers. Top producers nurture their network. [ON-SCREEN: Nurture Your Network] Greg says, 'Focus on the people who already trust you.' [ON-SCREEN: Trust Matters]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Shift your focus to your existing contacts. Greg closed 47 deals last year using this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop chasing cold leads! Leverage your existing relationships for real growth. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Networking\", \"#AgentSuccess\", \"#ColdLeads\", \"#RelationshipBuilding\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents chase strangers. Top producers nurture their network.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:43:20",
+      "end_timestamp": "00:44:00",
+      "quote": "It almost cost me everything. The time with your kids, you can't get it back.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It underscores the personal cost of not delegating and managing time effectively.",
+      "suggested_hook": "Is your career costing you more than you realize?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your career costing you more than you realize?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Greg Roeder almost lost everything. The time with your kids, you can't get it back. You're working late, missing family dinners, and feeling the guilt pile up. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Greg shared, 'It almost cost me everything.' [ON-SCREEN: It almost cost me everything.] Most agents try to do it all themselves. [ON-SCREEN: Most agents try to do it all.] Top producers delegate tasks to focus on what truly matters. [ON-SCREEN: Delegate to focus on what matters.]\",\n    \"REFRAME/APPLICATION\": \"This matters because your time is invaluable. Start delegating today. Greg leveraged this to build stronger client relationships and you can too. [ON-SCREEN: Start delegating today.]\",\n    \"CTA\": \"Are you delegating tasks already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't let your career cost you everything. Learn to delegate. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#WorkLifeBalance\", \"#Delegation\", \"#AgentLife\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents try to do it all themselves. Top producers delegate tasks to focus on what truly matters.\"\n}\n```"
+  }
+]

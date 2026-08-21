@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube-based real estate sales",
+    "location": null
+  },
+  "main_topics": [
+    "Consistency in YouTube content",
+    "Building a content operation",
+    "Managing video editors",
+    "Content planning and filming",
+    "Using AI tools for content creation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Single point of failure in content operation",
+      "solution_summary": "Identify a backup editor and maintain a video bank to ensure continuity.",
+      "timestamp": "04:32"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Overlapping content planning and filming",
+      "solution_summary": "Separate planning and filming into different weeks to maintain quality and avoid burnout.",
+      "timestamp": "08:36"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Inconsistent posting due to emergencies",
+      "solution_summary": "Maintain a bank of pre-edited videos to ensure consistent posting.",
+      "timestamp": "07:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides a detailed system for maintaining consistent content output, crucial for building a strong personal brand.",
+      "key_takeaway": "Consistency and preparation in content creation are key to building trust and maintaining audience engagement."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:15",
+      "end_timestamp": "16:45",
+      "quote": "The channels that outlast everyone else are the ones built on discipline, not on motivation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of discipline over motivation, a key mindset for success.",
+      "suggested_hook": "Why discipline beats motivation every time in real estate success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Maintain a video bank of 2-3 fully edited videos.",
+      "context": "To ensure consistent posting even during emergencies.",
+      "timestamp": "07:00"
+    },
+    {
+      "tactic": "Use a two-week rotating cycle for content planning and filming.",
+      "context": "To avoid burnout and maintain high-quality content.",
+      "timestamp": "08:36"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency is not just a best practice; it is one of your most valuable assets."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "For generating more business and lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For recruiting and retaining real estate agents using AI."
+    }
+  ],
+  "episode_summary": "Sarah Maslowski shares her insights on maintaining consistency in YouTube content creation, emphasizing the importance of having backup systems like a video bank and a secondary editor. She outlines a structured approach to content planning and filming, ensuring that real estate agents can sustain their content operations even during busy periods or emergencies.",
+  "_metadata": {
+    "source_file": "2026-08-19_item2_Sarah-Maslowski",
+    "analyzed_at": "2026-08-21T04:50:20.519581",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

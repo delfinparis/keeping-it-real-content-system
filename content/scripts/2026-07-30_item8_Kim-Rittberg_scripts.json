@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:05",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing... It got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of personal content in driving engagement.",
+      "suggested_hook": "Want to boost your social media engagement? Try this surprising tactic!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to boost your social media engagement? Try this surprising tactic!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg shared a story about a client who posted a skiing photo. It got five times the engagement of his real estate posts. If you're posting listings and getting crickets, this might be why.\",\n    \"INSIGHT\": \"Kim explained that personal content can drive massive engagement. [ON-SCREEN: Personal content = 5x engagement] Most agents focus only on listings. [ON-SCREEN: Listings vs. Personal] But top producers know that sharing personal moments builds connections. [ON-SCREEN: Build connections with personal moments]\",\n    \"REFRAME/APPLICATION\": \"This matters because personal content makes you relatable. Try posting something personal this week. [ON-SCREEN: Post personal content today] Kim's client saw a huge boost in engagement using this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want more engagement? Share personal moments, not just listings! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SocialMediaMarketing\", \"#EngagementBoost\", \"#PersonalBranding\", \"#TopProducerSecrets\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus only on listings. But top producers know that sharing personal moments builds connections.\"\n}\n```"
+  }
+]

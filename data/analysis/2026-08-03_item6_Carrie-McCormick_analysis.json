@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Group at At Properties, Christie's International",
+    "production_level": "Top 0.001% of agents in Chicago",
+    "specialty": "Luxury real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Impact of AI on real estate",
+    "Luxury real estate market trends",
+    "Importance of lifestyle in real estate",
+    "Role of personal branding and social media",
+    "Predictions for the future of real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Is AI going to replace real estate agents?",
+      "solution_summary": "AI is not replacing agents but changing how luxury real estate is marketed and sold.",
+      "timestamp": "00:05:01"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to stand out in a market influenced by AI?",
+      "solution_summary": "Agents should focus on building a strong personal brand and become small media companies.",
+      "timestamp": "00:19:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode discusses how AI is reshaping the luxury market and the importance of personal branding.",
+      "key_takeaway": "Focus on lifestyle matching and personal branding to thrive in the AI-driven market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:55",
+      "end_timestamp": "00:06:25",
+      "quote": "AI isn't replacing real estate agents. It's replacing average marketing.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common fear of AI replacing jobs and shifts the focus to marketing quality.",
+      "suggested_hook": "Is AI really coming for your job? Think again."
+    },
+    {
+      "timestamp": "00:17:04",
+      "end_timestamp": "00:17:10",
+      "quote": "When information becomes free, judgment becomes priceless.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the enduring value of human expertise in an AI-driven world.",
+      "suggested_hook": "In a world where data is everywhere, what's truly valuable?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on lifestyle matching over square footage.",
+      "context": "When advising luxury buyers, emphasize lifestyle benefits.",
+      "timestamp": "00:14:00"
+    },
+    {
+      "tactic": "Develop a strong personal brand and become a media company.",
+      "context": "Use social media to educate and engage with your audience.",
+      "timestamp": "00:19:45"
+    }
+  ],
+  "quotable_insights": [
+    "AI will create more luxury buyers than it replaces agents.",
+    "Trust is going to be the new currency in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the transformative impact of AI on the luxury real estate market, emphasizing the shift from traditional property searches to lifestyle matching. She highlights the importance of personal branding and becoming a media company to stand out in an AI-driven world. Carrie also shares her predictions for the future, focusing on the role of AI in creating more luxury buyers and the enduring value of local expertise.",
+  "_metadata": {
+    "source_file": "2026-08-03_item6_Carrie-McCormick",
+    "analyzed_at": "2026-08-21T04:47:29.306790",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

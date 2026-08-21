@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Gwen Snyder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "$500M+ producer",
+    "specialty": "Colorado luxury real estate",
+    "location": "Greenwood Village, Colorado"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Importance of follow-up in real estate",
+    "Marketing strategies for luxury listings",
+    "Networking and relationship building",
+    "Handling personal challenges while maintaining a business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "85% of agents never follow up with clients after closing",
+      "solution_summary": "Gwen emphasizes the importance of follow-up and being of service to clients to build a referral-based business.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents struggle with cold calling and finding authentic ways to generate leads",
+      "solution_summary": "Gwen suggests focusing on relationship building and meeting new people regularly instead of cold calling.",
+      "timestamp": "00:04:52"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of structured marketing for listings",
+      "solution_summary": "Gwen uses high-end photography, video, and targeted CRM outreach to effectively market properties.",
+      "timestamp": "00:12:06"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a high-volume, referral-based business without cold calling.",
+      "key_takeaway": "Focus on being of service and building authentic relationships to drive referrals."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start building their business through relationships rather than cold calling.",
+      "key_takeaway": "Meet one new person a week to steadily grow your network and opportunities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:06:05",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It's a humorous and memorable way to emphasize the importance of authenticity in lead generation.",
+      "suggested_hook": "Why cold calling might not be the best strategy for you."
+    },
+    {
+      "timestamp": "00:09:01",
+      "end_timestamp": "00:10:03",
+      "quote": "When you are of service to someone, they're like, wait, what? That's not possible.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the power of going above and beyond for clients.",
+      "suggested_hook": "The secret to becoming a referable agent."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Meet 60 new people a year to expand your network.",
+      "context": "Aim to meet one new person a week to build relationships and potential leads.",
+      "timestamp": "00:18:47"
+    },
+    {
+      "tactic": "Use high-end photography and video for listings.",
+      "context": "Enhance property marketing by investing in quality visuals and leveraging social media.",
+      "timestamp": "00:15:14"
+    }
+  ],
+  "quotable_insights": [
+    "If you're not early, you're late.",
+    "Being of service is the key to building a referral-based business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective lead conversion and CRM tools."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Gwen Snyder shares her journey in luxury real estate, emphasizing the importance of building a referral-based business through authentic relationships and exceptional service. She discusses effective marketing strategies for luxury listings and how to handle personal challenges while maintaining business success. Listeners will gain insights into meeting new people to expand their network and the significance of follow-up in client management.",
+  "_metadata": {
+    "source_file": "2026-08-13_item3_Gwen-Snyder",
+    "analyzed_at": "2026-08-21T04:49:47.707889",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

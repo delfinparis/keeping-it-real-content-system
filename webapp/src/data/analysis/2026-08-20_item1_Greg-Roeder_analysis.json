@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Greg Roeder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Not explicitly mentioned",
+    "production_level": "$600M+ in career volume",
+    "specialty": "Luxury real estate",
+    "location": "Fort Collins, Colorado"
+  },
+  "main_topics": [
+    "Building relationships through community events",
+    "Creating targeted content for niche audiences",
+    "Avoiding the invisible agent syndrome",
+    "Leveraging personal interests for business growth",
+    "Delegating tasks to focus on high-value activities"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Being forgotten by potential clients despite strong relationships",
+      "solution_summary": "Create consistent, targeted content and engage in community events to stay top-of-mind.",
+      "timestamp": "00:05:45"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Ineffective cold calling and prospecting",
+      "solution_summary": "Focus on building relationships with people you already know and leverage those connections.",
+      "timestamp": "00:09:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Burnout from being available 24/7",
+      "solution_summary": "Delegate tasks and focus on high-value activities to maintain work-life balance.",
+      "timestamp": "00:43:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "forgotten_middle",
+      "relevance": "This episode addresses how to stay visible to potential clients and avoid being forgotten.",
+      "key_takeaway": "Consistently engage with your network through valuable content and community involvement."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for scaling business through targeted marketing and relationship building.",
+      "key_takeaway": "Define your niche and create content that speaks directly to your ideal clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:30",
+      "end_timestamp": "00:10:15",
+      "quote": "Why have you been selling to people you don't know?",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It highlights the importance of leveraging existing relationships for business growth.",
+      "suggested_hook": "Are you wasting time on cold leads? Here's why you shouldn't."
+    },
+    {
+      "timestamp": "00:43:20",
+      "end_timestamp": "00:44:00",
+      "quote": "It almost cost me everything. The time with your kids, you can't get it back.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It underscores the personal cost of not delegating and managing time effectively.",
+      "suggested_hook": "Is your career costing you more than you realize?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host community events based on personal interests",
+      "context": "Use events like a pickleball league to build relationships and stay top-of-mind.",
+      "timestamp": "00:05:45"
+    },
+    {
+      "tactic": "Create a standout newsletter",
+      "context": "Provide niche-specific information that isn't available elsewhere to engage your audience.",
+      "timestamp": "00:36:01"
+    },
+    {
+      "tactic": "Delegate tasks to focus on high-value activities",
+      "context": "Hire support for marketing and operations to maintain a work-life balance.",
+      "timestamp": "00:43:20"
+    }
+  ],
+  "quotable_insights": [
+    "People don't want to be funneled; they want to be seen, heard, and cared for.",
+    "If you want clients, provide valuable information, not just entertainment."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Getting to a Million",
+      "context": "Greg's book on building a seven-figure real estate practice through relationship building and targeted content."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for agents to convert leads and manage client relationships."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Greg Roeder shares how he transformed his real estate business by focusing on relationship-building through community events and targeted content. He discusses overcoming the 'invisible agent' problem and emphasizes the importance of delegating tasks to maintain a healthy work-life balance. Greg's insights offer actionable strategies for agents looking to grow their business through authentic connections and niche marketing.",
+  "_metadata": {
+    "source_file": "2026-08-20_item1_Greg-Roeder",
+    "analyzed_at": "2026-08-21T04:51:09.304485",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

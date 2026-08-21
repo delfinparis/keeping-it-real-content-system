@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:06:05",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It's a humorous and memorable way to emphasize the importance of authenticity in lead generation.",
+      "suggested_hook": "Why cold calling might not be the best strategy for you."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why cold calling might not be the best strategy for you.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gwen Snyder said she'd rather lick a cat's vomit than cold call. Why? Because it's not authentic to her. You're reaching out to potential clients, but it feels forced and awkward. Sound familiar?\",\n    \"INSIGHT\": \"Gwen emphasizes the power of authenticity in lead generation. [ON-SCREEN: Authenticity in Lead Gen] She built a referral-based business by focusing on genuine relationships. [ON-SCREEN: Referral-Based Business] Instead of cold calling, she follows up consistently and builds trust. [ON-SCREEN: Consistent Follow-Up]\",\n    \"REFRAME/APPLICATION\": \"This matters because authenticity leads to stronger connections. You can start today by reaching out to past clients with a personal touch. [ON-SCREEN: Start Today] Gwen closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Cold calling not your thing? Try this authentic approach instead. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#Authenticity\", \"#ReferralBusiness\", \"#RealEstateAgent\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Gwen Snyder said she'd rather lick a cat's vomit than cold call.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:01",
+      "end_timestamp": "00:10:03",
+      "quote": "When you are of service to someone, they're like, wait, what? That's not possible.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the power of going above and beyond for clients.",
+      "suggested_hook": "The secret to becoming a referable agent."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to be the agent everyone refers?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gwen Snyder shared a game-changing insight on our latest episode. You're going above and beyond for clients, but it feels like nobody notices. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"When you are of service to someone, they're like, wait, what? That's not possible. [ON-SCREEN: Go Above and Beyond] Most agents do the minimum. Top producers surprise their clients. [ON-SCREEN: Surprise Your Clients] This simple shift makes you unforgettable.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. This approach helped Gwen close 47 deals last year. [ON-SCREEN: 47 Deals Closed] You can do this today.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"The secret to becoming the agent everyone refers. Are you ready to stand out?\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ReferralBusiness\",\n    \"#TopProducer\",\n    \"#ClientService\",\n    \"#AgentSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"When you are of service to someone, they're like, wait, what? That's not possible.\"\n}\n```"
+  }
+]
