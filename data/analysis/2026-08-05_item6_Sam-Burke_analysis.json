@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sam Burke",
+    "title": "Real Estate Broker",
+    "company": "John L. Scott",
+    "production_level": "Top 1%",
+    "specialty": "Residential, Investment, and New Construction Properties",
+    "location": "Snohomish, Washington"
+  },
+  "main_topics": [
+    "Effective use of YouTube for lead generation",
+    "Building a real estate business from scratch",
+    "Investment strategies for young agents",
+    "Maintaining high standards across all listings",
+    "Leveraging social media for personal branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads with a small YouTube following",
+      "solution_summary": "Focus on creating content that answers specific questions potential clients have about the area, which can drive leads despite a small subscriber base.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the challenge of being a young agent",
+      "solution_summary": "Develop a strong belief in yourself and visualize your goals daily to build confidence and competence.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Scaling services based on listing price",
+      "solution_summary": "Maintain high standards for all listings to build a strong brand reputation, regardless of the property's price.",
+      "timestamp": "00:18:22"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Sam's story of starting from scratch with cold calls and YouTube is highly relatable.",
+      "key_takeaway": "Consistency in outreach and maintaining high standards can lead to success even as a new agent."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sam's approach to maintaining high standards and leveraging social media is crucial for scaling a real estate business.",
+      "key_takeaway": "Building a strong personal brand with consistent quality can differentiate you in a competitive market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:11:00",
+      "quote": "I remember waking up every day and writing down on a piece of paper where I wanted to be, what I was grateful for, what I was willing to do, what I was unwilling to do.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This highlights the power of visualization and daily goal setting.",
+      "suggested_hook": "Want to know the secret to achieving your real estate goals? It starts with a pen and paper."
+    },
+    {
+      "timestamp": "00:18:22",
+      "end_timestamp": "00:19:30",
+      "quote": "I want that seller to be able to look back at every single house that I've listed since I was 22 years old and know that I treated every single seller with the same attention to detail.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of consistent quality in building a long-term brand.",
+      "suggested_hook": "Why treating every listing with the same care can skyrocket your real estate career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use YouTube to answer specific local questions",
+      "context": "Create videos that address common questions about the area to attract potential buyers.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "tactic": "Daily visualization and goal setting",
+      "context": "Write down your goals and visualize your success every morning to build confidence.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "tactic": "Maintain high standards for all listings",
+      "context": "Invest in quality marketing for every property to build a strong brand reputation.",
+      "timestamp": "00:18:22"
+    }
+  ],
+  "quotable_insights": [
+    "The size of your channel isn't the point; it's the quality of your content that drives leads.",
+    "Believe in yourself before you have the sales to support it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Think and Grow Rich",
+      "context": "Recommended for understanding the power of visualization and goal setting."
+    }
+  ],
+  "episode_summary": "In this episode, Sam Burke shares how he built a successful real estate business from scratch by leveraging YouTube for lead generation and maintaining high standards across all listings. He emphasizes the importance of daily visualization and goal setting to overcome challenges as a young agent. Sam also discusses his investment strategies and the role of social media in personal branding.",
+  "_metadata": {
+    "source_file": "2026-08-05_item6_Sam-Burke",
+    "analyzed_at": "2026-08-27T15:06:26.598038",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

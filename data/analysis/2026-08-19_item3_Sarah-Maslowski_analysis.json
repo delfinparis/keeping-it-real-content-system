@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube real estate marketing",
+    "location": null
+  },
+  "main_topics": [
+    "Consistency in YouTube content creation",
+    "Building a content operation",
+    "Managing video editors",
+    "Content planning and filming",
+    "Importance of a video bank"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Single point of failure in content operation",
+      "solution_summary": "Identify a backup editor and maintain a video bank to ensure continuity.",
+      "timestamp": "04:32"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Overlapping content planning and filming",
+      "solution_summary": "Separate content planning and filming into different weeks to maintain quality and efficiency.",
+      "timestamp": "08:36"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides systems and processes to scale content creation effectively.",
+      "key_takeaway": "Consistency and planning are key to leveraging YouTube for real estate success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on managing content teams and ensuring continuity in operations.",
+      "key_takeaway": "Having backup resources and a content bank is critical to maintaining consistent output."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08",
+      "end_timestamp": "00:17",
+      "quote": "I've closed over $150 million in real estate exclusively from YouTube with no paid ads and no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of YouTube as a lead generation tool without traditional methods.",
+      "suggested_hook": "Discover how YouTube can transform your real estate business without spending a dime on ads!"
+    },
+    {
+      "timestamp": "16:06",
+      "end_timestamp": "16:31",
+      "quote": "The channels that outlast everyone else are the ones built on discipline, not on motivation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common reliance on motivation, emphasizing discipline instead.",
+      "suggested_hook": "Why discipline, not motivation, is the secret to long-term success on YouTube."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Maintain a video bank of 2-3 fully edited videos.",
+      "context": "To ensure consistent posting even during emergencies.",
+      "timestamp": "07:29"
+    },
+    {
+      "tactic": "Use a two-week rotating cycle for content planning and filming.",
+      "context": "To separate the mental tasks and maintain quality.",
+      "timestamp": "08:36"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency is not just a best practice; it is one of your most valuable assets.",
+    "The channels that outlast everyone else are the ones built on discipline, not on motivation."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for real estate recruiters to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her insights on building a successful real estate business through YouTube without paid ads or cold calling. She emphasizes the importance of consistency, having backup resources, and maintaining a video bank to ensure uninterrupted content flow. Sarah provides actionable strategies for content planning and filming, highlighting the need for discipline over motivation.",
+  "_metadata": {
+    "source_file": "2026-08-19_item3_Sarah-Maslowski",
+    "analyzed_at": "2026-08-27T15:08:32.942981",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

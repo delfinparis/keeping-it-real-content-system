@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:03",
+      "end_timestamp": "00:08:45",
+      "quote": "AI isn't replacing real estate agents. It's replacing average marketing.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the common fear that AI will replace agents, offering a new perspective.",
+      "suggested_hook": "Think AI is coming for your job? Think again."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Think AI is coming for your job? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick just flipped the script on AI in real estate. You're worried AI will replace you. You're hustling, but tech feels like a threat. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie says, 'AI isn't replacing real estate agents. It's replacing average marketing.' [ON-SCREEN: AI replaces average marketing] Most agents fear AI. Top producers leverage it to enhance their marketing. [ON-SCREEN: Top producers leverage AI] It's not about losing jobs; it's about elevating your game.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? AI can boost your marketing today. Use it to stand out. Carrie, a top luxury agent, does this to stay ahead. [ON-SCREEN: Boost your marketing today]\",\n    \"CTA\": \"Are you using AI in your marketing — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI isn't taking your job, it's taking your marketing to the next level. 💡\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#Marketing\", \"#RealEstateTrends\", \"#AI\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI isn't replacing real estate agents. It's replacing average marketing.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:17:04",
+      "end_timestamp": "00:17:10",
+      "quote": "When information becomes free, judgment becomes priceless.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This highlights the enduring value of human expertise in real estate.",
+      "suggested_hook": "In a world of free information, what's truly priceless?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"In a world of free info, what's truly priceless?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick said it best: 'When information becomes free, judgment becomes priceless.' As an agent, you're flooded with data, but how do you stand out? You're reaching out to your database, but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie highlights that in real estate, human expertise is irreplaceable. She says, 'Your judgment, your ability to interpret and apply information, is what clients truly value.' [ON-SCREEN: Judgment is Priceless] Most agents rely on data alone. Top producers combine data with personal insight. [ON-SCREEN: Combine Data + Insight]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start applying this today by focusing on your unique insights. Carrie closed 47 luxury deals last year using exactly this approach. [ON-SCREEN: Apply Your Insights]\",\n    \"CTA\": \"Are you using your judgment to stand out — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"In real estate, your judgment is your superpower. Use it wisely.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#LuxuryRealEstate\", \"#AIImpact\", \"#PersonalBranding\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Your judgment, your ability to interpret and apply information, is what clients truly value.\"\n}\n```"
+  }
+]

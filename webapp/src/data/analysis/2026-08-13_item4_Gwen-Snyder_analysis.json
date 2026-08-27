@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Gwen Snyder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "Sold half a billion dollars",
+    "specialty": "Colorado luxury real estate",
+    "location": "Greenwood Village, Colorado"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Importance of follow-up in real estate",
+    "Challenges and strategies in luxury real estate",
+    "Effective marketing and client engagement",
+    "Personal resilience and mindset in business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents not following up with clients post-closing",
+      "solution_summary": "Establish a system for regular follow-ups and personal touches to maintain relationships.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Relying solely on cold calling",
+      "solution_summary": "Focus on building authentic relationships and meeting new people regularly.",
+      "timestamp": "00:04:49"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Handling unrealistic seller expectations",
+      "solution_summary": "Act as a consultant and provide a list of necessary pre-market improvements.",
+      "timestamp": "00:12:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into building a high-volume, referral-based business without cold calling.",
+      "key_takeaway": "Focus on relationship building and providing exceptional service to become referable."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers a roadmap for new agents to start their business without relying on cold calls.",
+      "key_takeaway": "Meet 60 new people a year and focus on authentic connections."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:06:05",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It's a humorous and memorable way to emphasize the importance of authenticity in business.",
+      "suggested_hook": "Why cold calling might not be the best strategy for you."
+    },
+    {
+      "timestamp": "00:09:01",
+      "end_timestamp": "00:10:01",
+      "quote": "Think of things that my clients might ask or request before they know to ask or request it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for client management.",
+      "suggested_hook": "How to anticipate your clients' needs before they even ask."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Meet 60 new people a year to expand your network.",
+      "context": "Focus on building relationships rather than cold calling.",
+      "timestamp": "00:18:47"
+    },
+    {
+      "tactic": "Use high-end photography and video for listings.",
+      "context": "Enhance property marketing and attract more buyers.",
+      "timestamp": "00:15:17"
+    }
+  ],
+  "quotable_insights": [
+    "If you're not early, you're late.",
+    "Doing most and more is what you got to do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive CRM and marketing solution for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested as a recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "Gwen Snyder shares her journey in luxury real estate, emphasizing the power of relationship building over cold calling. She provides actionable insights on maintaining client relationships, effective marketing strategies, and the importance of personal resilience. Her approach to anticipating client needs and focusing on authentic connections offers a blueprint for agents aiming to build a referral-based business.",
+  "_metadata": {
+    "source_file": "2026-08-13_item4_Gwen-Snyder",
+    "analyzed_at": "2026-08-27T15:08:03.876363",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

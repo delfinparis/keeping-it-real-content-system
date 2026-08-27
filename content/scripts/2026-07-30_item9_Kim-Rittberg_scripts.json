@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:05",
+      "quote": "One of Kim Rittberg's clients posted a photo of himself skiing, not a listing, not a market update skiing. It got five times the engagement of his real estate posts.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic highlights the power of personal content in driving engagement.",
+      "suggested_hook": "Want to boost your social media engagement? Here's a surprising strategy that works."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to skyrocket your social media engagement? Try this unexpected trick.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg shared a story that might sound familiar. You're posting listings and market updates, but engagement is low. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"One of Kim's clients posted a photo of himself skiing. Not a listing, not a market update—skiing. It got five times the engagement of his real estate posts. [ON-SCREEN: 5x Engagement] Most agents stick to business. Top producers share personal moments. [ON-SCREEN: Personal Content Wins]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because personal content builds connection. You can try this today. Share a hobby or a personal story. Kim's client saw massive engagement using this approach. [ON-SCREEN: Try It Today]\",\n    \"CTA\": \"Have you tried sharing personal content—yes or no? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Boost your engagement with this simple social media strategy. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#SocialMediaStrategy\", \"#EngagementBoost\", \"#RealEstateTips\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents stick to business. Top producers share personal moments.\"\n}\n```"
+  }
+]

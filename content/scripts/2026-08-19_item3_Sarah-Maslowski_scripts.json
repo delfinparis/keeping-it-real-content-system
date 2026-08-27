@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08",
+      "end_timestamp": "00:17",
+      "quote": "I've closed over $150 million in real estate exclusively from YouTube with no paid ads and no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of YouTube as a lead generation tool without traditional methods.",
+      "suggested_hook": "Discover how YouTube can transform your real estate business without spending a dime on ads!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Close $150 million in real estate without ads or cold calls!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski, a top agent, closed over $150 million using just YouTube. No paid ads, no cold calls. Sound familiar? You're trying everything, but leads aren't coming in.\",\n    \"INSIGHT\": \"Sarah says, 'Consistency in YouTube content is key.' [ON-SCREEN: Consistency is Key] She built a content operation, managing video editors and planning content meticulously. [ON-SCREEN: $150M Closed] Most agents rely on ads. Sarah leverages organic reach. [ON-SCREEN: Organic Reach Wins]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start today. Build your video bank and plan content weekly. [ON-SCREEN: Start Today] This approach helped Sarah close $150 million — imagine what it could do for you.\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how YouTube can transform your real estate business without spending a dime on ads!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#LeadGeneration\", \"#ContentCreation\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Consistency in YouTube content is key.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "16:06",
+      "end_timestamp": "16:31",
+      "quote": "The channels that outlast everyone else are the ones built on discipline, not on motivation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the common reliance on motivation, emphasizing discipline instead.",
+      "suggested_hook": "Why discipline, not motivation, is the secret to long-term success on YouTube."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Discipline, not motivation, is your YouTube success secret.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski says the key to outlasting others on YouTube isn't motivation. You're posting videos but struggling to stay consistent. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah explains, 'The channels that outlast everyone else are the ones built on discipline, not on motivation.' [ON-SCREEN: Discipline over Motivation] Most creators rely on bursts of motivation. Top creators build a disciplined routine. [ON-SCREEN: Routine Beats Motivation] They plan content, manage editors, and maintain a video bank. [ON-SCREEN: Video Bank = Consistency]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start building discipline today. Set a weekly schedule, plan your content, and stick to it. Sarah's approach helped her channel thrive. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you relying on motivation or discipline? Comment below with 'motivation' or 'discipline'.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Motivation fades, but discipline builds YouTube success. Are you ready to commit?\",\n  \"HASHTAGS\": [\"#YouTubeSuccess\", \"#RealEstateTips\", \"#ContentCreation\", \"#DisciplineOverMotivation\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"The channels that outlast everyone else are the ones built on discipline, not on motivation.\"\n}\n```"
+  }
+]

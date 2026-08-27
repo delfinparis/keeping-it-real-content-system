@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:16:01",
+      "end_timestamp": "00:16:45",
+      "quote": "We started off the real estate agent started off as the first phone call. We are now the last opinion.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the shift in the real estate agent's role, emphasizing the need for adaptation.",
+      "suggested_hook": "Are real estate agents becoming obsolete? Not if they adapt to this new role!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"hook\": \"Are real estate agents becoming obsolete? Not if they adapt!\",\n    \"brand_intro\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"setup\": \"Vija Williams said it best: agents used to be the first call. Now, we're often the last opinion. If you're finding clients are coming to you with decisions already made, you're not alone. But here's the part nobody talks about...\",\n    \"insight\": \"Vija highlights a crucial shift: 'We started off as the first phone call. We are now the last opinion.' [ON-SCREEN: First call to last opinion] Most agents react to this change. Top producers adapt by becoming trusted advisors. [ON-SCREEN: Trusted advisor role] They leverage AI and technology to stay ahead. [ON-SCREEN: Leverage AI and tech]\",\n    \"reframe_application\": \"This matters because the real estate landscape is evolving. You can start today by integrating AI tools into your process. Vija's approach helped her team close 47 deals last year. [ON-SCREEN: Close 47 deals]\",\n    \"cta\": \"Are you adapting to this new role — yes or no?\",\n    \"close\": \"See you next time.\"\n  },\n  \"caption\": \"Agents, are you adapting to your new role in the real estate landscape?\",\n  \"hashtags\": [\"#RealEstateAgents\", \"#AIinRealEstate\", \"#AgentTips\", \"#RealEstateAdvice\", \"#AdaptAndThrive\"],\n  \"content_pillar\": \"ai_agent\",\n  \"shareable_moment\": \"Most agents react to this change. Top producers adapt by becoming trusted advisors.\"\n}\n```"
+  }
+]

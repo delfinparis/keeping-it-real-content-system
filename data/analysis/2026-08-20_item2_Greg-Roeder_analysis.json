@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Greg Roeder",
+    "title": "Luxury Real Estate Agent",
+    "company": null,
+    "production_level": "$600M+ in career volume",
+    "specialty": "Luxury real estate",
+    "location": "Fort Collins, Colorado"
+  },
+  "main_topics": [
+    "Building relationships through community events",
+    "Creating targeted content for dream clients",
+    "Avoiding the invisible agent problem",
+    "Leveraging personal interests for business growth",
+    "Multiplying impact through systems and delegation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Being forgotten by potential clients despite strong relationships",
+      "solution_summary": "Create consistent, targeted content and engage in community events to remain top-of-mind.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without traditional advertising",
+      "solution_summary": "Host community events and provide valuable, niche-specific content to attract clients.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing work and personal life without burnout",
+      "solution_summary": "Delegate tasks and focus on high-impact activities to maintain work-life balance.",
+      "timestamp": "00:43:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for scaling business without traditional advertising.",
+      "key_takeaway": "Focus on building genuine relationships and providing niche-specific content to grow your business."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers insights on maintaining balance and avoiding burnout through delegation and strategic focus.",
+      "key_takeaway": "Delegate non-essential tasks and concentrate on relationship-building activities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:00",
+      "end_timestamp": "00:06:00",
+      "quote": "I was doing a really good job building relationships with people. I wasn't doing a very good job of branding myself.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the common struggle of being overlooked despite strong relationships.",
+      "suggested_hook": "Are you being overlooked by clients despite strong relationships?"
+    },
+    {
+      "timestamp": "00:29:00",
+      "end_timestamp": "00:30:00",
+      "quote": "I didn't go on a listing presentation from November 2023 since I've been on a listing presentation, because this really does attract business that you don't need to compete for.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the effectiveness of the discussed strategies in eliminating the need for competitive listing presentations.",
+      "suggested_hook": "Imagine never having to compete for a listing presentation again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host community events centered around personal interests.",
+      "context": "Use personal interests like pickleball to create community events and build relationships.",
+      "timestamp": "00:05:00"
+    },
+    {
+      "tactic": "Create a standout newsletter with niche-specific content.",
+      "context": "Provide valuable information that is not available elsewhere to your target audience.",
+      "timestamp": "00:36:00"
+    },
+    {
+      "tactic": "Delegate tasks to focus on high-impact activities.",
+      "context": "Hire help for marketing and event coordination to focus on client interactions.",
+      "timestamp": "00:44:00"
+    }
+  ],
+  "quotable_insights": [
+    "People don't want to be funneled. They want to be seen, heard, and cared for.",
+    "The people who do business the way their grandparents did are going to win big."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Getting to a Million",
+      "context": "Greg's book detailing his strategies for building a successful real estate practice."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Greg Roeder shares how he transformed his real estate business by focusing on relationship-building through community events and targeted content. He discusses the importance of defining your dream client, creating niche-specific newsletters, and leveraging personal interests to build genuine connections. Greg also emphasizes the need for delegation to maintain work-life balance and avoid burnout.",
+  "_metadata": {
+    "source_file": "2026-08-20_item2_Greg-Roeder",
+    "analyzed_at": "2026-08-27T15:09:31.296009",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
