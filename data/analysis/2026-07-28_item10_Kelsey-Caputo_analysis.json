@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Kelsey Caputo",
+    "title": "REALTOR",
+    "company": "Berkshire Hathaway Home Services",
+    "production_level": "Top 2% nationwide",
+    "specialty": "Luxury real estate, architecture, construction",
+    "location": "Florida Keys"
+  },
+  "main_topics": [
+    "The role of AI in real estate",
+    "Luxury real estate market dynamics",
+    "Importance of local knowledge",
+    "Building trust with clients",
+    "Using AI for client insights"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI providing inaccurate property valuations",
+      "solution_summary": "Use AI as a tool to supplement local knowledge and address client objections with accurate insights.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Winning trust of high-net-worth clients remotely",
+      "solution_summary": "Be transparent, answer questions thoroughly, and build relationships through consistent communication.",
+      "timestamp": "00:21:03"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a luxury market",
+      "solution_summary": "Leverage unique skills like construction knowledge and local insights to provide exceptional value.",
+      "timestamp": "00:09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging AI and local expertise to excel in luxury markets.",
+      "key_takeaway": "AI can enhance your market knowledge, but local expertise and relationship-building are irreplaceable."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Learn how to integrate AI tools into team processes for better client insights and market analysis.",
+      "key_takeaway": "AI can streamline operations, but human expertise is crucial for interpreting data and building trust."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:45",
+      "quote": "AI doesn't know anything about the boating access or what kind of boat you can have there.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the limitations of AI and the importance of local knowledge.",
+      "suggested_hook": "Why AI can't replace local expertise in real estate."
+    },
+    {
+      "timestamp": "00:21:03",
+      "end_timestamp": "00:21:45",
+      "quote": "Transparency. Truthfully, it's transparency, it's taking the time to answer their questions.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the importance of building trust with clients.",
+      "suggested_hook": "The secret to winning trust in luxury real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to predict client objections and questions.",
+      "context": "Before client meetings, input property details into AI to prepare for potential objections.",
+      "timestamp": "00:23:17"
+    },
+    {
+      "tactic": "Build buyer profiles using AI.",
+      "context": "Identify the ideal buyer type for a property and target marketing efforts accordingly.",
+      "timestamp": "00:24:55"
+    }
+  ],
+  "quotable_insights": [
+    "AI is not going to replace REALTORS; it's going to replace what's expected from a REALTOR."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Kelsey Caputo discusses how AI can be leveraged to enhance real estate practices, particularly in the luxury market. She emphasizes the irreplaceable value of local knowledge and relationship-building, while also sharing insights on using AI to predict client objections and build targeted buyer profiles.",
+  "_metadata": {
+    "source_file": "2026-07-28_item10_Kelsey-Caputo",
+    "analyzed_at": "2026-08-28T16:13:45.098665",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
