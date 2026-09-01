@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Wands",
+    "title": "Founder",
+    "company": "The Wands Team at Douglas Elliman",
+    "production_level": "$1B+ in sales",
+    "specialty": "Luxury real estate",
+    "location": "Miami, Florida"
+  },
+  "main_topics": [
+    "Importance of rentals in real estate",
+    "Building a successful real estate team",
+    "Leveraging technology and AI",
+    "Work-life balance in real estate",
+    "Client relationship management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from small rental deals",
+      "solution_summary": "Treat every rental as a potential future sale and maintain contact with renters.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a real estate team",
+      "solution_summary": "Ensure infrastructure is in place before scaling, including admin support and marketing.",
+      "timestamp": "00:43:12"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated despite small commissions",
+      "solution_summary": "Focus on long-term relationships and potential future business from every client.",
+      "timestamp": "00:27:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to leverage small deals for future success.",
+      "key_takeaway": "Every client interaction is an opportunity for future business."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can gain insights into scaling and managing a successful team.",
+      "key_takeaway": "Build infrastructure before expanding your team to ensure sustainable growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:04",
+      "end_timestamp": "00:05:38",
+      "quote": "I just really, I talked to everyone. I talked to the wall if I could and just made it known I was willing to help.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of being proactive and open to opportunities.",
+      "suggested_hook": "Want to know the secret to breaking into real estate? Talk to everyone!"
+    },
+    {
+      "timestamp": "00:27:04",
+      "end_timestamp": "00:27:18",
+      "quote": "Don't give up. What is a $1,000 versus not? It's still $1,000.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Encourages persistence and valuing every opportunity.",
+      "suggested_hook": "Feeling discouraged by small commissions? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set reminders for lease renewals to reconnect with clients.",
+      "context": "Use this to maintain relationships and discuss future buying opportunities.",
+      "timestamp": "01:04:52"
+    },
+    {
+      "tactic": "Use social media to stay connected with clients.",
+      "context": "Engage with clients' posts to maintain relationships and stay top-of-mind.",
+      "timestamp": "01:00:19"
+    }
+  ],
+  "quotable_insights": [
+    "If you do your job well, the money will become a byproduct of your success.",
+    "Real estate is a contact sport; every interaction is a potential future transaction."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Close CRM",
+      "context": "Recommended for its efficiency in managing client relationships and leads."
+    }
+  ],
+  "episode_summary": "Chris Wands shares insights on leveraging rental transactions to build a successful real estate career, emphasizing the importance of treating every client interaction as a future opportunity. He discusses the significance of having the right infrastructure before scaling a team and highlights the role of technology and social media in maintaining client relationships.",
+  "_metadata": {
+    "source_file": "2026-08-27_item2_Chris-Wands",
+    "analyzed_at": "2026-09-01T09:19:38.384954",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

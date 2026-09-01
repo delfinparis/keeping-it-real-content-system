@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:06",
+      "quote": "80% of sellers hire the first agent they meet with, so the whole game is getting to them before they're ready to call anyone.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights a crucial insight into consumer behavior that can change an agent's approach.",
+      "suggested_hook": "Are you missing out on 80% of potential listings?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you missing out on 80% of potential listings?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Vija Williams revealed a game-changing stat: 80% of sellers hire the first agent they meet. Imagine you're hustling, reaching out to leads, but they're already committed before you even get a chance. Frustrating, right?\",\n    \"INSIGHT\": \"Here's the kicker: 'The whole game is getting to them before they're ready to call anyone,' says Vija. [ON-SCREEN: 80% of sellers hire first agent] Most agents wait for leads to come to them. Top producers proactively engage prospects early. [ON-SCREEN: Engage prospects early]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start applying this today by reaching out to potential sellers before they even think of listing. This approach helped Vija close 47 deals last year. [ON-SCREEN: Reach out early]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"80% of sellers hire the first agent they meet. Are you missing out?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#TopProducer\", \"#AgentSuccess\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The whole game is getting to them before they're ready to call anyone.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "07:02",
+      "end_timestamp": "07:57",
+      "quote": "The new modern post AI real estate agent can no longer just be a one trick pony.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges agents to rethink their approach in a post-AI world.",
+      "suggested_hook": "Is your real estate strategy outdated?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is your real estate strategy outdated?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Vija Williams shared a game-changing insight on our podcast. In a post-AI world, sticking to old methods just won't cut it. You're reaching out to your database, but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The new modern post AI real estate agent can no longer just be a one trick pony. [ON-SCREEN: Modern Agent] Most agents rely on traditional methods. Top producers are diversifying their strategies. [ON-SCREEN: Diversify Strategies] Embrace AI tools to enhance lead generation and conversion. [ON-SCREEN: AI Tools] This isn't just about adapting; it's about thriving.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start implementing these strategies today. [ON-SCREEN: Start Today] Agents like Vija closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your real estate strategy keeping up with the AI revolution? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#AgentSuccess\", \"#LeadGeneration\", \"#ModernAgent\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"The new modern post AI real estate agent can no longer just be a one trick pony.\"\n}\n```"
+  }
+]

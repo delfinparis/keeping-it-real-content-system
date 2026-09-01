@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:08",
+      "end_timestamp": "00:00:17",
+      "quote": "An agent who's closed over $150 million in real estate exclusively from YouTube with no paid ads and no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential of YouTube as a powerful sales tool.",
+      "suggested_hook": "Discover how YouTube can transform your real estate business without cold calling."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Close $150 million in real estate with just YouTube?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski closed over $150 million in real estate using only YouTube. No cold calls, no paid ads. Sound familiar? You're posting content but not seeing results.\",\n    \"INSIGHT\": \"Sarah says, 'Consistency is key. I post weekly and plan content months in advance.' [ON-SCREEN: Consistency is Key] She built a system with editors and backup plans for seamless video production. [ON-SCREEN: $150M Closed] Most agents dabble in video. Top producers like Sarah commit to a strategy.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start today. Plan your next video, set a schedule, and stick to it. Sarah's approach led to $150 million in sales.\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform your real estate business with YouTube. No cold calls, no ads. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#YouTubeMarketing\",\n    \"#ContentStrategy\",\n    \"#TopProducer\",\n    \"#AgentSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents dabble in video. Top producers like Sarah commit to a strategy.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "04:04",
+      "end_timestamp": "04:35",
+      "quote": "If your entire content operation runs through one person, you have a single point of failure.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of having a backup plan in content production.",
+      "suggested_hook": "Is your content operation at risk of a single point of failure?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your content operation at risk of a single point of failure?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski pointed out a critical flaw in many content operations. If your entire content production relies on one person, you're vulnerable. Imagine your editor gets sick or your videographer quits. Suddenly, everything grinds to a halt. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah says, 'If your entire content operation runs through one person, you have a single point of failure.' [ON-SCREEN: Single point of failure] Most agents think having one go-to person is efficient. Top producers build backup systems. [ON-SCREEN: Backup systems] They plan for contingencies, ensuring content keeps flowing no matter what. [ON-SCREEN: Content consistency]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start building a backup plan today. Sarah's team closed 47 deals last year using this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Do you have a backup plan in place — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your content operation at risk? Discover why backup plans are crucial! #ContentStrategy\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ContentStrategy\", \"#BackupPlan\", \"#VideoProduction\", \"#RealEstateAgent\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"If your entire content operation runs through one person, you have a single point of failure.\"\n}\n```"
+  }
+]

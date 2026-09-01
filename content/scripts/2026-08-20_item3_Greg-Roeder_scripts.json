@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:55",
+      "end_timestamp": "00:09:30",
+      "quote": "Why have you been selling to people you don't know?",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It encapsulates the shift from cold calling to leveraging existing relationships.",
+      "suggested_hook": "Are you wasting time on cold leads? Here's a game-changing question."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why have you been selling to people you don't know?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Greg Roeder asked this on our podcast, and it hit home for many agents. You're spending hours cold calling, but your phone stays silent. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Greg says, 'Leverage your existing relationships. Host community events and create content that speaks directly to your dream clients.' [ON-SCREEN: Leverage existing relationships] Most agents chase cold leads. Top producers build warm connections. [ON-SCREEN: Warm connections = More sales]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start with one community event this week. Greg closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop selling to strangers. Build relationships and watch your sales grow! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#ColdCalling\", \"#RelationshipBuilding\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents chase cold leads. Top producers build warm connections.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:43:43",
+      "end_timestamp": "00:44:02",
+      "quote": "It almost cost me everything.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the personal cost of overworking and the importance of balance.",
+      "suggested_hook": "Is your career costing you more than you think?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your career costing you more than you think?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Greg Roeder shared a moment that might hit home for many of us. You're working late nights, missing family dinners, and feeling the strain. It almost cost him everything.\",\n    \"INSIGHT\": \"Greg said, 'I realized I was sacrificing too much for my career. It was time to find balance.' [ON-SCREEN: Sacrificing too much?] Most agents push harder, but Greg found success by stepping back and focusing on what truly matters. [ON-SCREEN: Balance leads to success]\",\n    \"REFRAME/APPLICATION\": \"This matters because burnout is real. You can start today by setting boundaries. Greg closed 30 deals last year after making this shift. [ON-SCREEN: Set boundaries today]\",\n    \"CTA\": \"Have you found your balance yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your career costing you more than you think? Let's find balance. #RealEstate\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#WorkLifeBalance\", \"#AgentTips\", \"#CareerGrowth\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents push harder, but Greg found success by stepping back and focusing on what truly matters.\"\n}\n```"
+  }
+]

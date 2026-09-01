@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Vija Williams",
+    "title": "Chief Growth Officer",
+    "company": "Realty.com",
+    "production_level": null,
+    "specialty": "Real estate team leader, trainer, coach, and speaker",
+    "location": "Seattle, Washington and Puget Sound market"
+  },
+  "main_topics": [
+    "Consumer behavior changes in real estate",
+    "Importance of cash offer leads",
+    "Role of AI in real estate",
+    "Modern real estate agent strategies",
+    "Lead generation and conversion"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Getting to sellers before they contact an agent",
+      "solution_summary": "Use cash offer leads to reach potential sellers before they contact agents.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to post-AI consumer behavior",
+      "solution_summary": "Agents need to become consultants and problem solvers with multiple tools in their arsenal.",
+      "timestamp": "07:02"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting high-intent leads",
+      "solution_summary": "Focus on high-intent leads like cash offer requests and provide multiple exit strategies.",
+      "timestamp": "15:06"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses advanced strategies for lead generation and conversion.",
+      "key_takeaway": "Leverage cash offer leads to get in front of sellers early and provide multiple solutions to stand out."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode offers insights into creating new revenue streams and training teams on new lead sources.",
+      "key_takeaway": "Implement cash offer leads as a new leg of your lead generation strategy to boost team performance."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:06",
+      "quote": "80% of sellers hire the first agent they meet with, so the whole game is getting to them before they're ready to call anyone.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights a crucial insight into consumer behavior that can change an agent's approach.",
+      "suggested_hook": "Are you missing out on 80% of potential listings?"
+    },
+    {
+      "timestamp": "07:02",
+      "end_timestamp": "07:57",
+      "quote": "The new modern post AI real estate agent can no longer just be a one trick pony.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges agents to rethink their approach in a post-AI world.",
+      "suggested_hook": "Is your real estate strategy outdated?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use cash offer leads to reach potential sellers early.",
+      "context": "Implement this tactic to get in front of sellers before they contact other agents.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "tactic": "Develop multiple exit strategies for sellers.",
+      "context": "Provide options like traditional listing, cash offers, and lease purchase to solve client problems.",
+      "timestamp": "07:02"
+    }
+  ],
+  "quotable_insights": [
+    "The real estate agent started off as the first phone call. We are now the last opinion.",
+    "The new modern agent needs four to five arrows in their quiver."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Realty.com",
+      "context": "Used for generating high-intent cash offer leads."
+    },
+    {
+      "type": "tool",
+      "name": "Chat GPT",
+      "context": "Used for creating CMAs and understanding market data."
+    }
+  ],
+  "episode_summary": "In this episode, Vija Williams discusses the changing landscape of real estate, emphasizing the importance of reaching sellers before they contact agents. She highlights the role of cash offer leads and AI in modern real estate strategies, urging agents to become problem solvers with multiple solutions. The episode provides actionable insights for agents and team leaders to adapt and thrive in a post-AI market.",
+  "_metadata": {
+    "source_file": "2026-07-31_item9_Vija-Williams",
+    "analyzed_at": "2026-09-01T09:14:29.356713",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

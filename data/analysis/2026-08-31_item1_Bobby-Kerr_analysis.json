@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Bobby Kerr",
+    "title": "Founder",
+    "company": "Locate",
+    "production_level": null,
+    "specialty": "Google Business Profile Optimization",
+    "location": "US and Canada"
+  },
+  "main_topics": [
+    "Google Business Profile Optimization",
+    "Importance of Reviews",
+    "Hyper-local Content Strategy",
+    "Leveraging AI for Real Estate",
+    "Effective Client Review Strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not appearing in local search results",
+      "solution_summary": "Optimize Google Business Profile with hyper-local content and frequent updates.",
+      "timestamp": "00:03:33"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic content not standing out",
+      "solution_summary": "Create non-commoditized, hyper-local content that positions you as a community expert.",
+      "timestamp": "00:21:02"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Getting effective client reviews",
+      "solution_summary": "Coach clients on what to include in reviews, focusing on specific details and geographical anchors.",
+      "timestamp": "00:48:40"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to enhance visibility and credibility in local markets.",
+      "key_takeaway": "Optimize your Google Business Profile with hyper-local content and actively manage client reviews."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode offers advanced tactics for leveraging AI and Google for lead generation.",
+      "key_takeaway": "Use Google Business Profile as a strategic tool for local dominance and client acquisition."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:19:04",
+      "end_timestamp": "00:19:22",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a critical insight into how Google ranks content.",
+      "suggested_hook": "Is your Google profile just a mirror of every other agent?"
+    },
+    {
+      "timestamp": "00:50:34",
+      "end_timestamp": "00:51:10",
+      "quote": "The holy grail of a five-star review... five stars, mention the business by name, geographical anchors, hot keywords, and a photograph.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable formula for getting impactful reviews.",
+      "suggested_hook": "Want the perfect five-star review? Here's the formula."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use question and answer format for posts.",
+      "context": "To align with search queries and improve relevance.",
+      "timestamp": "00:38:01"
+    },
+    {
+      "tactic": "Request reviews at the closing table.",
+      "context": "Capture reviews when clients are happiest and most willing to help.",
+      "timestamp": "00:52:54"
+    }
+  ],
+  "quotable_insights": [
+    "Google is the first step in the consumer journey and your business profile is the front door.",
+    "If you want to be visible on the world's biggest platform, you've got to be present with an optimized Google Business Profile."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Locate My Business",
+      "context": "Bobby Kerr's company for optimizing Google Business Profiles."
+    }
+  ],
+  "episode_summary": "In this episode, Bobby Kerr discusses the importance of optimizing Google Business Profiles for real estate agents to enhance visibility and credibility. He emphasizes the need for hyper-local content and effective client review strategies to leverage AI and Google for lead generation. The episode provides actionable insights into creating non-commoditized content and obtaining impactful client reviews.",
+  "_metadata": {
+    "source_file": "2026-08-31_item1_Bobby-Kerr",
+    "analyzed_at": "2026-09-01T09:20:34.008945",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

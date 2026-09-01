@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube-based real estate sales",
+    "location": null
+  },
+  "main_topics": [
+    "YouTube content consistency",
+    "Building a content operation",
+    "Backup systems for video production",
+    "Content planning and filming strategies",
+    "Working with video editors"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Single point of failure in content production",
+      "solution_summary": "Implement a backup editor and maintain a video bank to ensure continuity.",
+      "timestamp": "04:35"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing content planning and filming",
+      "solution_summary": "Separate planning and filming into different weeks with dedicated time blocks.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Maintaining YouTube channel consistency for lead generation",
+      "solution_summary": "Use a two-week cycle for content planning and filming to stay ahead.",
+      "timestamp": "10:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for leveraging YouTube to achieve high sales without traditional methods.",
+      "key_takeaway": "Consistency and systematization in content production can lead to significant real estate sales."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on managing content operations and team roles effectively.",
+      "key_takeaway": "Having backup systems and clear processes can prevent disruptions in content marketing."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:08",
+      "end_timestamp": "00:00:17",
+      "quote": "An agent who's closed over $150 million in real estate exclusively from YouTube with no paid ads and no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential of YouTube as a powerful sales tool.",
+      "suggested_hook": "Discover how YouTube can transform your real estate business without cold calling."
+    },
+    {
+      "timestamp": "04:04",
+      "end_timestamp": "04:35",
+      "quote": "If your entire content operation runs through one person, you have a single point of failure.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of having a backup plan in content production.",
+      "suggested_hook": "Is your content operation at risk of a single point of failure?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Maintain a video bank of 2-3 fully edited videos ready to post.",
+      "context": "To ensure content consistency even during emergencies.",
+      "timestamp": "06:29"
+    },
+    {
+      "tactic": "Use a two-week rotating cycle for content planning and filming.",
+      "context": "To manage workload and maintain consistent posting.",
+      "timestamp": "08:30"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency is not just a best practice; it is one of your most valuable assets."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Described as a recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her insights on building a successful real estate business using YouTube. She emphasizes the importance of consistency and systematization in content production, offering strategies for maintaining a steady posting schedule even when life gets hectic. Key tactics include maintaining a video bank and using a two-week cycle for content planning and filming.",
+  "_metadata": {
+    "source_file": "2026-08-19_item4_Sarah-Maslowski",
+    "analyzed_at": "2026-09-01T09:17:49.735551",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

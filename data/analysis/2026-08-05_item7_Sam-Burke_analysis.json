@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sam Burke",
+    "title": "Real Estate Broker",
+    "company": "John L. Scott",
+    "production_level": "Top 1%",
+    "specialty": "Residential, Investment, and New Construction Properties",
+    "location": "Snohomish, Washington"
+  },
+  "main_topics": [
+    "Lead Generation through YouTube",
+    "Building a Real Estate Business at a Young Age",
+    "Investment Strategies in Real Estate",
+    "Importance of Consistent Quality in Service",
+    "Utilizing Social Media for Business Growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads with a small YouTube audience",
+      "solution_summary": "Focus on creating valuable content that answers specific questions potential clients might have about the area, regardless of subscriber count.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the challenge of being a young agent",
+      "solution_summary": "Develop a strong belief in oneself, visualize success, and consistently prepare to build confidence and competence.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Maintaining consistent quality across all listings",
+      "solution_summary": "Invest in high-quality marketing for every listing to build a strong brand reputation, regardless of the property's price point.",
+      "timestamp": "00:19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Sam's journey from a new agent to a top producer provides a roadmap for new agents.",
+      "key_takeaway": "Treat your real estate career like a business from day one, focusing on systems, structure, and consistent quality."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sam's strategies for building a strong brand and investing in real estate are valuable for agents looking to scale.",
+      "key_takeaway": "Invest in your personal brand by maintaining high standards and leveraging modern digital strategies."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:11:00",
+      "quote": "The work that was uncomfortable or the work that you wanted to avoid was often what helped you get closer to your goal.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This highlights the importance of embracing discomfort to achieve success.",
+      "suggested_hook": "Are you avoiding the hard work that could propel your real estate career?"
+    },
+    {
+      "timestamp": "00:19:00",
+      "end_timestamp": "00:20:00",
+      "quote": "The brand that I'm building has so much more value than the commission I might take home.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the long-term benefits of maintaining quality service.",
+      "suggested_hook": "Why your brand is more important than your commission check."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Write down daily goals and visualize success.",
+      "context": "Use this tactic to maintain focus and motivation.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "tactic": "Send personalized texts to deepen relationships with your sphere.",
+      "context": "Use this to build stronger connections and generate leads.",
+      "timestamp": "00:14:00"
+    },
+    {
+      "tactic": "Create YouTube content that answers specific local questions.",
+      "context": "Leverage YouTube as a search engine to attract potential clients.",
+      "timestamp": "00:32:00"
+    }
+  ],
+  "quotable_insights": [
+    "Believe in yourself before you have the sales to support it.",
+    "Treat every client with the same level of service, regardless of the transaction size."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Think and Grow Rich",
+      "context": "Recommended for its insights on visualizing success and achieving goals."
+    }
+  ],
+  "episode_summary": "In this episode, Sam Burke shares his journey from a young real estate agent to a top producer, emphasizing the importance of consistent quality and strategic use of social media. He discusses actionable tactics for lead generation, including leveraging YouTube as a search engine and maintaining high standards across all transactions. Sam also highlights the power of belief and visualization in achieving long-term success.",
+  "_metadata": {
+    "source_file": "2026-08-05_item7_Sam-Burke",
+    "analyzed_at": "2026-09-01T09:15:48.090650",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

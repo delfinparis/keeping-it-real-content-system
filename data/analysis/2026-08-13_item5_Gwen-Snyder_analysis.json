@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Gwen Snyder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "$500M+ in sales",
+    "specialty": "Colorado Luxury Real Estate",
+    "location": "Greenwood Village, Colorado"
+  },
+  "main_topics": [
+    "Building a Referral-Based Business",
+    "Importance of Authenticity in Real Estate",
+    "Challenges and Strategies in Luxury Real Estate",
+    "Effective Follow-Up Practices",
+    "Using Video and Social Media for Marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents not following up with clients after closing",
+      "solution_summary": "Gwen emphasizes the importance of maintaining relationships and being of service to clients even after a deal closes.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without cold calling",
+      "solution_summary": "Focus on relationship building and meeting new people regularly to generate referrals.",
+      "timestamp": "00:05:01"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Challenges in pricing luxury properties",
+      "solution_summary": "Conduct thorough pre-market preparations and have honest conversations with sellers about realistic pricing.",
+      "timestamp": "00:12:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into building a high-volume referral business without cold calling.",
+      "key_takeaway": "Focus on being referable by providing exceptional service and anticipating client needs."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to rejuvenate a real estate business by leveraging existing relationships.",
+      "key_takeaway": "Re-engage with past clients and focus on authentic connections to drive business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:06:05",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It's a humorous and memorable way to emphasize the importance of authenticity.",
+      "suggested_hook": "Why one top agent refuses to cold call and what she does instead."
+    },
+    {
+      "timestamp": "00:12:20",
+      "end_timestamp": "00:13:01",
+      "quote": "We are not going to market until these four things are done.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a specific strategy for ensuring properties are market-ready.",
+      "suggested_hook": "The secret to getting top dollar for your listings."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Meet 60 new people a year to expand your network.",
+      "context": "Aim to meet one new person a week to build relationships and generate referrals.",
+      "timestamp": "00:18:54"
+    },
+    {
+      "tactic": "Use video marketing for listings.",
+      "context": "Create high-quality videos of properties to enhance online presence and attract buyers.",
+      "timestamp": "00:16:02"
+    }
+  ],
+  "quotable_insights": [
+    "Being of service to someone makes you memorable and referable.",
+    "If you're not early, you're late."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a comprehensive CRM and marketing tool for agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Mentioned as a recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "Gwen Snyder shares her journey in luxury real estate, emphasizing the power of building a referral-based business through authentic relationships and exceptional service. She discusses strategies for effective follow-up, the importance of pre-market preparations, and leveraging video marketing to stand out. Gwen's approach challenges conventional cold-calling methods, offering a refreshing perspective on client management and lead generation.",
+  "_metadata": {
+    "source_file": "2026-08-13_item5_Gwen-Snyder",
+    "analyzed_at": "2026-09-01T09:17:32.763989",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

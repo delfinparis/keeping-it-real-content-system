@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:19:04",
+      "end_timestamp": "00:19:22",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals a critical insight into how Google ranks content.",
+      "suggested_hook": "Is your Google profile just a mirror of every other agent?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your Google profile just a mirror of every other agent?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr reveals a critical insight into Google's ranking. You're optimizing your profile, but it's just like everyone else's. No wonder you're not standing out.\",\n    \"INSIGHT\": \"Google is quite literally suppressing those types of profiles because they say, 'I don't need to promote 10,000 mirrors of 10,000 other agents.' [ON-SCREEN: Google suppresses mirror profiles] Most agents copy-paste. Top producers craft unique, hyper-local content. [ON-SCREEN: Hyper-local content wins]\",\n    \"REFRAME/APPLICATION\": \"This matters because unique content can boost your visibility today. Bobby Kerr, who optimized 50 profiles last year, says start with local reviews. [ON-SCREEN: Start with local reviews]\",\n    \"CTA\": \"Is your profile unique — yes or no? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your Google profile just a mirror? Here's how to stand out. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleOptimization\", \"#AgentSuccess\", \"#LocalContent\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Google is quite literally suppressing those types of profiles because they say, 'I don't need to promote 10,000 mirrors of 10,000 other agents.'\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:50:34",
+      "end_timestamp": "00:51:10",
+      "quote": "The holy grail of a five-star review... five stars, mention the business by name, geographical anchors, hot keywords, and a photograph.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable formula for getting impactful reviews.",
+      "suggested_hook": "Want the perfect five-star review? Here's the formula."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want the perfect five-star review? Here's the formula.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr just shared a game-changing tip on our podcast. You're asking clients for reviews, but they lack impact. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The holy grail of a five-star review includes five stars, mentions your business by name, uses geographical anchors, hot keywords, and a photograph. [ON-SCREEN: Five stars, Business name, Geographical anchors, Hot keywords, Photograph]\",\n    \"REFRAME/APPLICATION\": \"This matters because reviews drive local SEO. Implement this today and watch your Google ranking soar. Bobby Kerr's clients saw a 30% increase in leads using this exact method.\",\n    \"CTA\": \"Are you using this review strategy — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock the perfect review formula to boost your business visibility. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#FiveStarReviews\",\n    \"#GoogleSEO\",\n    \"#ClientSuccess\",\n    \"#RealEstateMarketing\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The holy grail of a five-star review includes five stars, mentions your business by name, uses geographical anchors, hot keywords, and a photograph.\"\n}\n```"
+  }
+]

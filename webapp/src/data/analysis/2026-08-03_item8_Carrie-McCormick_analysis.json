@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Group, At Properties, Christie's International",
+    "production_level": "Top 0.001% of agents in Chicago",
+    "specialty": "Luxury real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Impact of AI on real estate",
+    "Luxury real estate market trends",
+    "Importance of lifestyle in property selection",
+    "Role of personal branding for agents",
+    "Predictions for the future of real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Will AI replace real estate agents?",
+      "solution_summary": "AI will not replace agents but will replace average marketing; agents need to focus on becoming trusted advisors and lifestyle matchmakers.",
+      "timestamp": "05:01"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "How can agents stand out in a tech-driven market?",
+      "solution_summary": "Agents should build a strong personal brand and become small media companies to provide value and be easily found by AI.",
+      "timestamp": "19:45"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging AI and personal branding to excel in the luxury market.",
+      "key_takeaway": "Focus on lifestyle matching and personal branding to differentiate yourself in a tech-driven market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can learn how to guide their agents in adapting to AI and building strong personal brands.",
+      "key_takeaway": "Encourage your team to become local experts and media creators to thrive in the evolving real estate landscape."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:30",
+      "end_timestamp": "09:10",
+      "quote": "AI isn't replacing real estate agents. It's replacing average marketing.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common fear of AI replacing jobs, offering a new perspective.",
+      "suggested_hook": "Think AI is coming for your job? Think again!"
+    },
+    {
+      "timestamp": "17:04",
+      "end_timestamp": "17:20",
+      "quote": "When information becomes free, judgment becomes priceless.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the enduring value of human expertise in a data-rich world.",
+      "suggested_hook": "In a world full of data, what's truly priceless?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on lifestyle matching for clients.",
+      "context": "When helping clients choose properties, prioritize lifestyle needs over square footage.",
+      "timestamp": "12:01"
+    },
+    {
+      "tactic": "Develop a strong personal brand through social media.",
+      "context": "Consistently create valuable content to establish yourself as a local expert and attract clients.",
+      "timestamp": "19:45"
+    }
+  ],
+  "quotable_insights": [
+    "AI will create more luxury buyers than it replaces agents.",
+    "Hyper local expertise will become one of the most valuable assets in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the transformative impact of AI on the luxury real estate market, emphasizing the importance of lifestyle matching and personal branding for agents. She shares predictions on how AI will create more luxury buyers and the need for agents to become trusted advisors and media creators to thrive in a tech-driven industry.",
+  "_metadata": {
+    "source_file": "2026-08-03_item8_Carrie-McCormick",
+    "analyzed_at": "2026-09-01T09:14:54.873707",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
