@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Sam Burke",
+    "title": "Real Estate Broker",
+    "company": "John L. Scott",
+    "production_level": "Top 1% in his area",
+    "specialty": "Residential, Investment, and New Construction Properties",
+    "location": "Snohomish, Washington"
+  },
+  "main_topics": [
+    "Lead Generation through YouTube",
+    "Building a Real Estate Business from Scratch",
+    "Investment Strategies for Young Agents",
+    "Maintaining High Standards of Service",
+    "Using Social Media for Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads with a small YouTube channel",
+      "solution_summary": "Focus on creating content that answers specific questions potential buyers have about the area.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the challenge of being a young agent",
+      "solution_summary": "Develop a strong belief in oneself and maintain high standards of service regardless of the property's price.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Structuring daily activities for success",
+      "solution_summary": "Plan each day with clear goals and prioritize tasks that move the business forward.",
+      "timestamp": "00:39:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Sam's journey from a new agent to a top producer provides a roadmap for new agents.",
+      "key_takeaway": "Treat your real estate career like a business from day one and focus on building relationships."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Sam's use of YouTube and high service standards showcases innovative ways to stand out.",
+      "key_takeaway": "Utilize underused platforms like YouTube to generate leads and maintain consistent service quality."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:32:00",
+      "end_timestamp": "00:33:00",
+      "quote": "I have just over 200 YouTube subscribers, yet it's one of my best lead sources.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It challenges the notion that a large following is necessary for lead generation.",
+      "suggested_hook": "Think you need thousands of followers to generate leads? Think again."
+    },
+    {
+      "timestamp": "00:19:50",
+      "end_timestamp": "00:20:30",
+      "quote": "I treat every single seller with the same attention to detail, regardless of the home's price.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of maintaining high standards across all transactions.",
+      "suggested_hook": "Why treating every client like a million-dollar listing is key to success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send personalized texts to your sphere to deepen relationships.",
+      "context": "Use text messages to reconnect and offer value, such as market analyses.",
+      "timestamp": "00:15:00"
+    },
+    {
+      "tactic": "Create YouTube content that answers specific questions about your market.",
+      "context": "Focus on lifestyle and area-specific content to attract buyers.",
+      "timestamp": "00:32:30"
+    }
+  ],
+  "quotable_insights": [
+    "The work that was uncomfortable was often what helped you get closer to your goal.",
+    "I want sellers to look back at every house I've listed and know I treated them with the same attention to detail."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Think and Grow Rich",
+      "context": "Sam used this book to develop a mindset of success and visualization."
+    }
+  ],
+  "episode_summary": "In this episode, Sam Burke shares his journey from a new agent to a top producer, emphasizing the importance of treating real estate as a business. He discusses the power of YouTube as a lead generation tool, maintaining high service standards, and the importance of personal relationships in building a successful real estate career.",
+  "_metadata": {
+    "source_file": "2026-08-05_item8_Sam-Burke",
+    "analyzed_at": "2026-09-05T08:16:56.513807",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

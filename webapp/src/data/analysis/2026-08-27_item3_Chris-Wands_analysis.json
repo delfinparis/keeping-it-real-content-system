@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Chris Wands",
+    "title": "Founder",
+    "company": "Wands Team at Douglas Elliman",
+    "production_level": "Over a billion in sales",
+    "specialty": "Luxury real estate",
+    "location": "Miami, Florida"
+  },
+  "main_topics": [
+    "Importance of rental transactions",
+    "Building a successful real estate team",
+    "Leveraging AI and technology in real estate",
+    "Client management and relationship building",
+    "Work-life balance in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents skipping small deals",
+      "solution_summary": "Treat every transaction equally as it can lead to bigger opportunities.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a real estate team",
+      "solution_summary": "Ensure infrastructure is in place before expanding the team.",
+      "timestamp": "00:43:12"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling condo assessments",
+      "solution_summary": "Provide clients with all necessary information to make informed decisions.",
+      "timestamp": "00:35:16"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Chris's journey from rentals to luxury sales provides a roadmap for growth.",
+      "key_takeaway": "Hard work and treating all deals with equal importance can lead to significant success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on building and scaling a real estate team effectively.",
+      "key_takeaway": "Ensure your team has the right infrastructure before scaling."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:00",
+      "end_timestamp": "00:04:25",
+      "quote": "A thousand dollar rental can turn into a twenty million dollar buyer.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It challenges the perception of small deals being insignificant.",
+      "suggested_hook": "Why you should never skip the small deals in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media for client engagement",
+      "context": "Monitor clients' social media for life events to maintain relationships.",
+      "timestamp": "01:01:01"
+    },
+    {
+      "tactic": "Set reminders for lease renewals",
+      "context": "Reach out to clients 60 days before their lease ends to discuss future plans.",
+      "timestamp": "01:04:57"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate is a contact sport; every interaction is an opportunity."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Close CRM",
+      "context": "Recommended for its efficiency in managing client relationships."
+    }
+  ],
+  "episode_summary": "Chris Wands shares his journey from handling rental transactions to becoming a top luxury real estate agent in Miami. He emphasizes the importance of treating every deal with equal importance, leveraging technology like CRM systems, and building a strong team infrastructure before scaling. His insights provide valuable lessons for aspiring agents and team leaders.",
+  "_metadata": {
+    "source_file": "2026-08-27_item3_Chris-Wands",
+    "analyzed_at": "2026-09-05T08:20:38.479989",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

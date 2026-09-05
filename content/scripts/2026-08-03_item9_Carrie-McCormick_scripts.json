@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:09:00",
+      "end_timestamp": "00:09:45",
+      "quote": "AI isn't replacing real estate agents; it's replacing average marketing.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common fear of AI replacing jobs and shifts the focus to improving marketing strategies.",
+      "suggested_hook": "Is AI coming for your job? Think again!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is AI coming for your job? Think again!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick says AI isn't replacing real estate agents; it's replacing average marketing. If you're worried about AI taking over, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"AI is transforming how we market properties, not eliminating the need for agents. Carrie points out that AI can enhance your marketing strategies, making them more targeted and effective. [ON-SCREEN: AI enhances marketing] Most agents fear AI, but top producers use it to elevate their brand. [ON-SCREEN: Top producers leverage AI]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI can help you stand out in a crowded market. You can start today by integrating AI tools into your marketing plan. Carrie McCormick, a top agent in Chicago, uses AI to boost her luxury listings.\",\n    \"CTA\": \"Are you using AI in your marketing — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI isn't taking your job; it's upgrading your marketing game. #RealEstate #AI\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AI\",\n    \"#Marketing\",\n    \"#RealEstateAgent\",\n    \"#LuxuryRealEstate\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI isn't replacing real estate agents; it's replacing average marketing.\"\n}\n```"
+  }
+]

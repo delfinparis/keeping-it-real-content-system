@@ -1,0 +1,91 @@
+{
+  "guest_info": {
+    "name": "Vija Williams",
+    "title": "Chief Growth Officer",
+    "company": "Realty.com",
+    "production_level": null,
+    "specialty": "Real estate team leadership and coaching",
+    "location": "Seattle, Washington and Puget Sound market"
+  },
+  "main_topics": [
+    "The role of real estate agents in the post-AI age",
+    "The effectiveness of cash offer leads",
+    "Consumer behavior changes in real estate",
+    "The importance of multiple exit strategies for agents",
+    "The evolution of lead generation techniques"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Getting in front of sellers before they contact an agent",
+      "solution_summary": "Use cash offer leads to engage with potential sellers early in their decision-making process.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the changing consumer behavior in real estate",
+      "solution_summary": "Agents need to adapt by becoming consultants and problem solvers, offering multiple solutions.",
+      "timestamp": "00:16:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "This episode discusses new lead generation strategies that can help team leaders expand their business.",
+      "key_takeaway": "Incorporating cash offer leads can provide a new revenue stream and help capture sellers earlier in their decision process."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging AI and new consumer behaviors to increase sales.",
+      "key_takeaway": "Understanding and adapting to consumer behavior changes is crucial for staying competitive."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:15:06",
+      "end_timestamp": "00:16:01",
+      "quote": "The consumer behavior is changing. If 150,000 consumers a month are getting online asking for a cash offer, we are completely in a new role than we used to be.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a significant shift in consumer behavior that agents need to be aware of.",
+      "suggested_hook": "Are you ready for the new wave of real estate consumer behavior?"
+    },
+    {
+      "timestamp": "00:22:06",
+      "end_timestamp": "00:22:11",
+      "quote": "80% of sellers will hire the first agent they meet with.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic underscores the importance of being the first point of contact.",
+      "suggested_hook": "Want to know the secret to securing more listings?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use cash offer leads to engage sellers early",
+      "context": "Implement this tactic to capture potential sellers before they contact other agents.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "tactic": "Offer multiple exit strategies",
+      "context": "Present various selling options to clients to position yourself as a problem solver.",
+      "timestamp": "00:18:01"
+    }
+  ],
+  "quotable_insights": [
+    "We started off as the first phone call. We are now the last opinion.",
+    "The new modern agent needs four to five arrows in their quiver."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Realty.com",
+      "context": "Discussed as a platform for generating cash offer leads."
+    }
+  ],
+  "episode_summary": "In this episode, Vija Williams discusses the evolving role of real estate agents in the post-AI age, emphasizing the importance of engaging with sellers early through cash offer leads. She highlights the shift in consumer behavior and the need for agents to offer multiple exit strategies to remain competitive. The episode provides actionable insights for team leaders and aspiring top producers looking to adapt to these changes.",
+  "_metadata": {
+    "source_file": "2026-07-31_item10_Vija-Williams",
+    "analyzed_at": "2026-09-05T08:15:54.366940",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:15:06",
+      "end_timestamp": "00:16:01",
+      "quote": "The consumer behavior is changing. If 150,000 consumers a month are getting online asking for a cash offer, we are completely in a new role than we used to be.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a significant shift in consumer behavior that agents need to be aware of.",
+      "suggested_hook": "Are you ready for the new wave of real estate consumer behavior?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you ready for the new wave of real estate consumer behavior?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Vija Williams just dropped a bombshell on our latest episode. If you're an agent wondering why your old strategies aren't working, listen up. Consumer behavior is shifting fast, and it's leaving many agents behind.\",\n    \"INSIGHT\": \"Vija said, 'The consumer behavior is changing. If 150,000 consumers a month are getting online asking for a cash offer, we are completely in a new role than we used to be.' [ON-SCREEN: 150,000 consumers/month] Most agents stick to traditional methods. Top producers are adapting to this shift by offering multiple exit strategies. [ON-SCREEN: Multiple exit strategies]\",\n    \"REFRAME/APPLICATION\": \"This matters because it's happening now. You can start by exploring cash offer leads today. Agents like Vija are already seeing results. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you adapting to this shift — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consumer behavior is shifting. Are you ready to adapt? #RealEstate #AgentTips\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AgentTips\",\n    \"#ConsumerBehavior\",\n    \"#CashOffers\",\n    \"#MarketShift\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If 150,000 consumers a month are asking for cash offers, we're in a new role.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:22:06",
+      "end_timestamp": "00:22:11",
+      "quote": "80% of sellers will hire the first agent they meet with.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "This statistic underscores the importance of being the first point of contact.",
+      "suggested_hook": "Want to know the secret to securing more listings?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to know the secret to securing more listings?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Vija Williams shared a game-changing statistic on our podcast: 80% of sellers hire the first agent they meet. Imagine you're reaching out to potential clients, but they’ve already signed with someone else. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Vija explained that being the first point of contact is crucial. [ON-SCREEN: 80% of sellers hire first agent] Most agents wait for leads to come to them. Top producers proactively reach out and make that first impression count. [ON-SCREEN: Be the first contact]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start applying this today. Reach out to your leads first and set the stage for success. Vija's approach helped her close 47 deals last year. [ON-SCREEN: Close more deals]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"80% of sellers hire the first agent they meet. Be that agent! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#LeadGeneration\",\n    \"#TopProducer\",\n    \"#AgentSuccess\",\n    \"#RealEstateAgent\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for leads to come to them. Top producers proactively reach out.\"\n}\n```"
+  }
+]

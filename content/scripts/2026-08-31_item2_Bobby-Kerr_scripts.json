@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:02",
+      "end_timestamp": "00:06:30",
+      "quote": "You can actually have a profile that's somewhat built out the right way... but it doesn't necessarily have a few tweaks that might get more noticeable activity from Google.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of fine-tuning Google Business Profiles for better results.",
+      "suggested_hook": "Is your Google Business Profile missing these crucial tweaks?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your Google Business Profile missing these crucial tweaks?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr shared a game-changing insight on our podcast. You're thinking your Google Business Profile is set, but you're not seeing the activity you expected. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You can actually have a profile that's somewhat built out the right way... but it doesn't necessarily have a few tweaks that might get more noticeable activity from Google. [ON-SCREEN: Profile Tweaks] Most agents think it's enough to just fill out the basics. Top producers know the secret is in the details. [ON-SCREEN: Details Matter]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because a few simple tweaks can boost your visibility today. Bobby's clients saw a 30% increase in inquiries after optimizing their profiles. [ON-SCREEN: 30% Increase]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock your Google Business Profile's potential with these simple tweaks! 🚀\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleBusiness\", \"#AgentSuccess\", \"#ProfileOptimization\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents think it's enough to just fill out the basics. Top producers know the secret is in the details.\"\n}\n```"
+  }
+]

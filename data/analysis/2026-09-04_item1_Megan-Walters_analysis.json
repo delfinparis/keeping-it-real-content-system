@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Megan Walters",
+    "title": "REALTOR, Real Estate Investor, Educator",
+    "company": "Walters Team at eXp",
+    "production_level": "Top 1% of agents nationwide",
+    "specialty": "Real estate investment and education",
+    "location": "Columbia, Missouri"
+  },
+  "main_topics": [
+    "Building a real estate business without buying leads",
+    "Effective use of social media for real estate",
+    "Time management and productivity strategies",
+    "Real estate investment strategies",
+    "Personal branding in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without buying them",
+      "solution_summary": "Utilize social media, networking, and direct outreach to FSBOs and expired listings.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing productivity throughout the day",
+      "solution_summary": "Start early, complete CRM tasks before 8 AM, and schedule content in advance.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand separate from the brokerage",
+      "solution_summary": "Focus on self-branding and use social media to establish a personal identity.",
+      "timestamp": "44:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies to scale a real estate business without traditional lead buying.",
+      "key_takeaway": "Building a personal brand and leveraging social media can lead to significant business growth."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers practical steps for new agents to start generating business without a large budget.",
+      "key_takeaway": "Focus on networking and providing value to potential clients to build a client base."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:30",
+      "end_timestamp": "11:15",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Challenges the conventional wisdom of desk work, encouraging agents to be proactive.",
+      "suggested_hook": "Are you spending too much time at your desk? Here's why you shouldn't."
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "22:45",
+      "quote": "I converted so many listings by doing that because they would call and say, 'Do you know how many agents just told me that I was being stupid for doing FSBO?'",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Shows a unique approach to handling FSBOs that goes against the grain.",
+      "suggested_hook": "Stop telling FSBOs they're wrong. Try this instead."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Drop off informational packets to FSBOs and expired listings without knocking.",
+      "context": "Use this approach to offer value without being intrusive.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Schedule social media content in advance to maintain consistency.",
+      "context": "Plan your content weekly to ensure daily engagement without constant effort.",
+      "timestamp": "25:00"
+    }
+  ],
+  "quotable_insights": [
+    "Let them talk because it means that they're actually talking about you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used for creating marketing materials for FSBOs and expired listings."
+    }
+  ],
+  "episode_summary": "Megan Walters shares her journey of building a successful real estate business without buying leads or cold calling. She emphasizes the importance of personal branding, effective use of social media, and providing value to potential clients. Her strategies focus on leveraging free resources and building a strong network to generate business.",
+  "_metadata": {
+    "source_file": "2026-09-04_item1_Megan-Walters",
+    "analyzed_at": "2026-09-05T08:22:33.729735",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

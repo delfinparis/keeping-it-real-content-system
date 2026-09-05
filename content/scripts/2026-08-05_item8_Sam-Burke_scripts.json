@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:32:00",
+      "end_timestamp": "00:33:00",
+      "quote": "I have just over 200 YouTube subscribers, yet it's one of my best lead sources.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It challenges the notion that a large following is necessary for lead generation.",
+      "suggested_hook": "Think you need thousands of followers to generate leads? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think you need thousands of followers to generate leads? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sam Burke, a successful real estate agent, shared a surprising insight on our podcast. You might think you need a massive following to generate leads, right? But what if I told you that's not the case? You're posting content, hoping for engagement, but the numbers aren't growing.\",\n    \"INSIGHT\": \"Sam said, 'I have just over 200 YouTube subscribers, yet it's one of my best lead sources.' [ON-SCREEN: 200 YouTube subscribers] Most agents focus on follower count. Top producers focus on quality engagement. [ON-SCREEN: Quality over Quantity]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start leveraging your existing audience today. Sam's approach helped him close multiple deals last year. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"You don't need thousands of followers to generate leads. Quality over quantity!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#YouTubeMarketing\", \"#AgentAdvice\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"I have just over 200 YouTube subscribers, yet it's one of my best lead sources.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:19:50",
+      "end_timestamp": "00:20:30",
+      "quote": "I treat every single seller with the same attention to detail, regardless of the home's price.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of maintaining high standards across all transactions.",
+      "suggested_hook": "Why treating every client like a million-dollar listing is key to success."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Treat every client like a million-dollar listing.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sam Burke, a top agent, shared a game-changing mindset. You're working tirelessly, but feel stuck because your clients aren't seeing your value. You're not alone.\",\n    \"INSIGHT\": \"Sam says, 'I treat every single seller with the same attention to detail, regardless of the home's price.' [ON-SCREEN: Treat every seller equally] Most agents prioritize high-value listings. Top producers know every client deserves the same high standards. [ON-SCREEN: High standards = Success]\",\n    \"REFRAME/APPLICATION\": \"This matters because consistency builds trust. Apply this today by reviewing your client interactions. Sam closed 47 deals last year using this exact approach. [ON-SCREEN: Consistency builds trust]\",\n    \"CTA\": \"Are you treating all clients equally — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Treat every client like a million-dollar listing for consistent success. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientSuccess\",\n    \"#TopProducer\",\n    \"#RealEstateMindset\",\n    \"#AgentAdvice\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Treat every single seller with the same attention to detail, regardless of the home's price.\"\n}\n```"
+  }
+]

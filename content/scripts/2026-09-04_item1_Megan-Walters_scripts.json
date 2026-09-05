@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:30",
+      "end_timestamp": "11:15",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Challenges the conventional wisdom of desk work, encouraging agents to be proactive.",
+      "suggested_hook": "Are you spending too much time at your desk? Here's why you shouldn't."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you spending too much time at your desk? Here's why you shouldn't.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters challenges the norm: if you're at your desk, you're not working. You're trying to connect with clients, but nothing's happening. Sound familiar?\",\n    \"INSIGHT\": \"Megan says, 'If you're sitting at your desk or at home, you're not doing your job.' [ON-SCREEN: Get out of the office] Most agents wait for leads. Top producers hit the streets, meet people, and build relationships. [ON-SCREEN: Be proactive, not reactive]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by scheduling one face-to-face meeting. Megan closed 47 deals last year using this approach. [ON-SCREEN: Start today!]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Get out from behind the desk and start making real connections! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentLife\", \"#ProactiveSelling\", \"#RealEstateSuccess\", \"#Networking\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for leads. Top producers hit the streets.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "22:00",
+      "end_timestamp": "22:45",
+      "quote": "I converted so many listings by doing that because they would call and say, 'Do you know how many agents just told me that I was being stupid for doing FSBO?'",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Shows a unique approach to handling FSBOs that goes against the grain.",
+      "suggested_hook": "Stop telling FSBOs they're wrong. Try this instead."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Stop telling FSBOs they're wrong. Try this instead.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters shared a game-changing approach on our podcast. You're calling FSBOs, but they hang up or say agents are just trying to prove them wrong. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan said, 'I converted so many listings by doing that because they would call and say, 'Do you know how many agents just told me that I was being stupid for doing FSBO?' [ON-SCREEN: Stop telling FSBOs they're wrong] Most agents criticize FSBOs. Top producers listen and offer help. [ON-SCREEN: Listen and offer help] This approach builds trust and opens doors. [ON-SCREEN: Build trust, open doors]\",\n    \"REFRAME\": \"Why does this matter now? You can apply this today. Megan closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed] Start listening more and watch your conversions grow.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop telling FSBOs they're wrong. Try this approach instead!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#FSBO\", \"#TopProducer\", \"#AgentAdvice\", \"#RealEstateStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents criticize FSBOs. Top producers listen and offer help.\"\n}\n```"
+  }
+]

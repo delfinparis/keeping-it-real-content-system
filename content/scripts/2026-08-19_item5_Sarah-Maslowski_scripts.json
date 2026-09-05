@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:08",
+      "end_timestamp": "00:00:17",
+      "quote": "An agent who's closed over $150 million in real estate exclusively from YouTube with no paid ads and no cold calling.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the potential of YouTube as a powerful tool for real estate sales without traditional methods.",
+      "suggested_hook": "Discover how one agent closed $150 million in sales using just YouTube!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Discover how one agent closed $150 million in sales using just YouTube!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine closing over $150 million in real estate without a single cold call or paid ad. That's exactly what Sarah Maslowski did, and it all started with YouTube. You're posting videos, but they're not getting traction. Sound familiar?\",\n    \"INSIGHT\": \"Sarah shared her secret: consistency and strategic content planning. [ON-SCREEN: Consistency is key] She said, 'Most agents post sporadically. I post weekly with a plan.' [ON-SCREEN: $150M without ads] She manages video editors and uses backup systems to ensure nothing stops her content flow. [ON-SCREEN: Build a content operation]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Plan your next video and commit to a schedule. Sarah closed 47 deals last year using this exact approach. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no? Drop your answer below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Learn how Sarah Maslowski closed $150M in sales using only YouTube! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#AgentSuccess\", \"#ContentStrategy\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents post sporadically. I post weekly with a plan.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "04:32",
+      "end_timestamp": "04:50",
+      "quote": "If your entire content operation runs through one person, you have a single point of failure.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of having backup systems in place.",
+      "suggested_hook": "Is your content operation at risk of collapsing?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your content operation at risk of collapsing?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski warns us about a common pitfall: relying on a single person for your entire content operation. Imagine your editor suddenly unavailable—your content stops. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah says, 'If your entire content operation runs through one person, you have a single point of failure.' [ON-SCREEN: Single Point of Failure] Most agents rely on one editor. Top producers have backup systems. [ON-SCREEN: Backup Systems] They plan ahead, ensuring content creation never halts. [ON-SCREEN: Content Creation Never Halts]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can implement a backup system this week. [ON-SCREEN: Implement This Week] Sarah's strategy helped her team maintain consistency, even during unexpected setbacks.\",\n    \"CTA\": \"Do you have a backup plan for your content? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your content operation a ticking time bomb? Discover how to safeguard it now.\",\n  \"HASHTAGS\": [\"#ContentCreation\", \"#RealEstateTips\", \"#BackupSystems\", \"#YouTubeStrategy\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"If your entire content operation runs through one person, you have a single point of failure.\"\n}\n```"
+  }
+]

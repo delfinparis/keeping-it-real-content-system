@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:56",
+      "end_timestamp": "00:06:20",
+      "quote": "I was doing a really good job building relationships with people. I wasn't doing a very good job of branding myself.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a common struggle for agents and sets up the solution.",
+      "suggested_hook": "Are you building relationships but still being overlooked?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you building relationships but still being overlooked?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Greg Roeder shared a struggle many agents face. You're connecting with people, yet your phone isn't ringing. You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Greg said, 'I was doing a really good job building relationships with people. I wasn't doing a very good job of branding myself.' [ON-SCREEN: Build Relationships, Brand Yourself] Most agents focus solely on networking. Top producers ensure their brand is memorable. [ON-SCREEN: Avoid the Invisible Agent Problem]\",\n    \"REFRAME/APPLICATION\": \"This matters because branding ensures you're top-of-mind. Start by aligning your personal interests with your business. You can do this today. Greg scaled his business without traditional advertising using this approach. [ON-SCREEN: Scale Without Ads]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Building relationships isn't enough. Brand yourself to avoid being overlooked. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentBranding\", \"#TopProducerSecrets\", \"#RealEstateGrowth\", \"#InvisibleAgent\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus solely on networking. Top producers ensure their brand is memorable.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:29:02",
+      "end_timestamp": "00:29:43",
+      "quote": "I did 40 million and our industry, you've been talking about it a lot. I didn't go on a listing presentation.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the effectiveness of his methods with a compelling statistic.",
+      "suggested_hook": "Imagine closing $40 million in sales without a single listing presentation."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Imagine closing $40 million in sales without a single listing presentation.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Greg Roeder shared a jaw-dropping stat on our podcast. He closed $40 million in sales. No listing presentations. If you're struggling to get clients to respond, this might be your game-changer.\",\n    \"INSIGHT\": \"Greg didn't rely on traditional methods. Instead, he focused on building relationships through community events and creating targeted content for his dream clients. [ON-SCREEN: $40 million without listings] Most agents chase leads. Greg attracted them by being visible and valuable in his community. [ON-SCREEN: Community over cold calls]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start this week. Host a local event, share content that speaks directly to your ideal client. Greg's approach scaled his business without traditional advertising. [ON-SCREEN: Scale without ads]\",\n    \"CTA\": \"Are you ready to try this approach — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Close $40M without listing presentations? Here's how Greg Roeder did it. #RealEstate\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#TopProducer\",\n    \"#AgentTips\",\n    \"#CommunityBuilding\",\n    \"#RealEstateMarketing\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents chase leads. Greg attracted them by being visible and valuable in his community.\"\n}\n```"
+  }
+]

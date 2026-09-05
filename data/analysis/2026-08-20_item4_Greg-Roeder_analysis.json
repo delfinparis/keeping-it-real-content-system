@@ -1,0 +1,112 @@
+{
+  "guest_info": {
+    "name": "Greg Roeder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Not explicitly mentioned",
+    "production_level": "$40M+ producer",
+    "specialty": "Luxury real estate",
+    "location": "Fort Collins, Colorado"
+  },
+  "main_topics": [
+    "Building relationships through community events",
+    "Creating targeted content for dream clients",
+    "Avoiding the invisible agent problem",
+    "Leveraging personal interests for business growth",
+    "Scaling business without traditional advertising"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Being forgotten by potential clients despite strong relationships",
+      "solution_summary": "Create consistent, targeted content and host community events to stay top-of-mind.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without traditional advertising",
+      "solution_summary": "Use community events and niche-focused content to attract business.",
+      "timestamp": "00:09:01"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing personal life and business demands",
+      "solution_summary": "Focus on fewer, high-impact activities and delegate tasks to a team.",
+      "timestamp": "00:42:13"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to significantly increase production without traditional advertising.",
+      "key_takeaway": "Focus on building genuine relationships and creating targeted content to attract high-value clients."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers a method to scale back on time-intensive tasks while maintaining high production.",
+      "key_takeaway": "Delegate tasks and focus on high-impact activities to prevent burnout."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:56",
+      "end_timestamp": "00:06:20",
+      "quote": "I was doing a really good job building relationships with people. I wasn't doing a very good job of branding myself.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights a common struggle for agents and sets up the solution.",
+      "suggested_hook": "Are you building relationships but still being overlooked?"
+    },
+    {
+      "timestamp": "00:29:02",
+      "end_timestamp": "00:29:43",
+      "quote": "I did 40 million and our industry, you've been talking about it a lot. I didn't go on a listing presentation.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the effectiveness of his methods with a compelling statistic.",
+      "suggested_hook": "Imagine closing $40 million in sales without a single listing presentation."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host community events centered around personal interests.",
+      "context": "Use these events to build relationships and create a network of potential clients.",
+      "timestamp": "00:05:33"
+    },
+    {
+      "tactic": "Create a standout newsletter with niche-specific content.",
+      "context": "Target the newsletter to your dream clients to stay top-of-mind.",
+      "timestamp": "00:35:00"
+    },
+    {
+      "tactic": "Leverage short-form video content to reach your audience.",
+      "context": "Use content from your newsletter to create engaging videos.",
+      "timestamp": "00:38:00"
+    }
+  ],
+  "quotable_insights": [
+    "You want to be their agent, not a agent.",
+    "People don't want to be funneled; they want to be seen, heard, and cared for."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Getting to a Million",
+      "context": "Greg's forthcoming book detailing his methods for building a successful real estate practice."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Greg Roeder shares how he grew his real estate business from $12 million to $40 million in two years without traditional advertising. He emphasizes the importance of building genuine relationships through community events and creating targeted content for dream clients. Greg also discusses how to avoid being an 'invisible agent' by staying top-of-mind with strategic branding and content creation.",
+  "_metadata": {
+    "source_file": "2026-08-20_item4_Greg-Roeder",
+    "analyzed_at": "2026-09-05T08:19:49.905493",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
