@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Justin Black",
+    "title": "Real Estate Advisor",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "$150M in career sales",
+    "specialty": "Luxury mountain market",
+    "location": "Breckenridge, Colorado"
+  },
+  "main_topics": [
+    "Using AI for lead generation",
+    "Building an SEO-optimized website",
+    "Strategies for expired listings",
+    "Importance of content creation",
+    "Leveraging AI for business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from a website",
+      "solution_summary": "Create SEO-optimized content that answers specific questions potential clients might ask AI or Google.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting expired listings",
+      "solution_summary": "Send a comprehensive physical packet with a market analysis and personalized audit to expired listings.",
+      "timestamp": "00:43:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for leveraging AI and content marketing to generate high-value leads.",
+      "key_takeaway": "Use AI to identify and answer the questions your potential clients are asking to improve your visibility and lead generation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:20:00",
+      "end_timestamp": "00:21:00",
+      "quote": "AI has already brought me almost $5 million in listings.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights the tangible success of using AI in real estate.",
+      "suggested_hook": "Discover how AI can transform your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to generate content ideas by asking what questions potential clients are asking.",
+      "context": "Apply this tactic to create relevant and SEO-optimized content for your website.",
+      "timestamp": "00:13:00"
+    },
+    {
+      "tactic": "Send a FedEx package with a personalized audit to expired listings.",
+      "context": "Use this approach to stand out and provide value to potential clients.",
+      "timestamp": "00:45:00"
+    }
+  ],
+  "quotable_insights": [
+    "You're either searching with questions about the area or AI is searching your website to find these answers."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude AI",
+      "context": "Used by Justin to assist in writing and optimizing content."
+    },
+    {
+      "type": "website",
+      "name": "Justinblackre.com",
+      "context": "Example of an AI-built, SEO-optimized real estate website."
+    }
+  ],
+  "episode_summary": "In this episode, Justin Black shares how he leverages AI to generate high-value real estate leads and build a successful luxury market presence. He discusses the importance of creating SEO-optimized content and using AI tools to enhance visibility and lead generation. Justin also provides insights into converting expired listings through personalized outreach.",
+  "_metadata": {
+    "source_file": "2026-09-10_item1_Justin-Black",
+    "analyzed_at": "2026-09-11T08:56:29.737605",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

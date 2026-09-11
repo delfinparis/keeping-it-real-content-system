@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:19:02",
+      "end_timestamp": "00:19:22",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of using generic content.",
+      "suggested_hook": "Are you just another mirror in a sea of agents?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you just another mirror in a sea of agents?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr recently revealed something shocking on our podcast. If you're relying on generic content for your Google Business Profile, you're not alone. Most agents do it, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Google is quite literally suppressing those types of profiles because they say, 'I don't need to promote 10,000 mirrors of 10,000 other agents.' [ON-SCREEN: Google suppresses generic profiles] Instead, focus on hyper-local content and authentic reviews. [ON-SCREEN: Hyper-local content wins]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can stand out today by tailoring your content to your specific market. Bobby Kerr, who closed 47 deals last year, swears by this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop being a mirror. Stand out with hyper-local content. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleBusiness\", \"#AgentSuccess\", \"#ContentStrategy\", \"#StandOut\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Google is quite literally suppressing those types of profiles because they say, 'I don't need to promote 10,000 mirrors of 10,000 other agents.'\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:50:34",
+      "end_timestamp": "00:51:00",
+      "quote": "The holy grail of a five-star review involves mentioning your business by name, geographical anchors, and hot keywords.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for getting impactful reviews.",
+      "suggested_hook": "Unlock the secret to five-star reviews that boost your business!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want five-star reviews that actually boost your business?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr shared a game-changing tip on our podcast. You're asking clients for reviews, but they lack impact. They don't mention your business, your area, or key terms.\",\n    \"INSIGHT\": \"Bobby says the holy grail of a five-star review involves mentioning your business by name, geographical anchors, and hot keywords. [ON-SCREEN: Business Name] [ON-SCREEN: Location] [ON-SCREEN: Keywords] Most agents get generic reviews. Top producers get specific ones that drive traffic.\",\n    \"REFRAME/APPLICATION\": \"This matters because specific reviews boost your Google ranking. You can start asking for these today. Bobby's strategy helped him close 47 deals last year.\",\n    \"CTA\": \"Are your reviews specific enough — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock the secret to impactful five-star reviews! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#FiveStarReviews\", \"#GoogleBusiness\", \"#AgentSuccess\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The holy grail of a five-star review involves mentioning your business by name, geographical anchors, and hot keywords.\"\n}\n```"
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Bobby Kerr",
+    "title": "Founder",
+    "company": "Locate My Business",
+    "production_level": null,
+    "specialty": "Google Business Profile Optimization",
+    "location": "US and Canada"
+  },
+  "main_topics": [
+    "Google Business Profile Optimization",
+    "Importance of Reviews",
+    "Hyper Local Content Strategy",
+    "AI and LLMs in Real Estate",
+    "Effective Content Posting"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not appearing in local searches",
+      "solution_summary": "Optimize Google Business Profile with hyper-local content and regular updates to increase visibility.",
+      "timestamp": "00:03:22"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic content leading to low engagement",
+      "solution_summary": "Create non-commoditized, hyper-local content that positions the agent as a community expert.",
+      "timestamp": "00:19:04"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling negative reviews",
+      "solution_summary": "Respond politely, offer solutions, and take the conversation offline to manage reputation.",
+      "timestamp": "00:46:52"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to improve online visibility and lead generation.",
+      "key_takeaway": "Optimizing your Google Business Profile with hyper-local content can significantly boost your search presence."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers advanced tactics for leveraging AI and Google tools to dominate local markets.",
+      "key_takeaway": "Utilizing AI insights and Google Business Profile effectively can position you as a top agent in your area."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:19:02",
+      "end_timestamp": "00:19:22",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of using generic content.",
+      "suggested_hook": "Are you just another mirror in a sea of agents?"
+    },
+    {
+      "timestamp": "00:50:34",
+      "end_timestamp": "00:51:00",
+      "quote": "The holy grail of a five-star review involves mentioning your business by name, geographical anchors, and hot keywords.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for getting impactful reviews.",
+      "suggested_hook": "Unlock the secret to five-star reviews that boost your business!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use question and answer format for posts",
+      "context": "To align with what potential clients are searching for and improve engagement.",
+      "timestamp": "00:38:01"
+    },
+    {
+      "tactic": "Request reviews at the closing table",
+      "context": "When clients are happiest and most likely to provide detailed feedback.",
+      "timestamp": "00:52:54"
+    }
+  ],
+  "quotable_insights": [
+    "Google is the first step in the consumer journey and your business profile is the front door.",
+    "If you want to be visible on the world's biggest platform, you've got to be present with an optimized Google Business Profile."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Locate My Business",
+      "context": "Bobby Kerr's company that specializes in Google Business Profile optimization."
+    }
+  ],
+  "episode_summary": "In this episode, Bobby Kerr emphasizes the importance of optimizing Google Business Profiles for real estate agents. He provides actionable insights on creating hyper-local content, managing reviews effectively, and leveraging AI to improve visibility and lead generation. The discussion highlights the shift towards AI-driven searches and the need for agents to adapt their online strategies accordingly.",
+  "_metadata": {
+    "source_file": "2026-08-31_item3_Bobby-Kerr",
+    "analyzed_at": "2026-09-11T08:54:08.411602",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

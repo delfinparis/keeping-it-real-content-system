@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Megan Walters",
+    "title": "REALTOR, Real Estate Investor, Educator",
+    "company": "Walters Team at eXp",
+    "production_level": "Top 1% nationwide, 1000+ career transactions",
+    "specialty": "Real estate systems and strategies without buying leads or cold calling",
+    "location": "Columbia, Missouri"
+  },
+  "main_topics": [
+    "Lead generation without buying leads",
+    "Building a personal brand",
+    "Time management and productivity",
+    "Real estate investment strategies",
+    "Social media for real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without buying them or cold calling",
+      "solution_summary": "Utilize social media, networking events, and provide value to FSBOs and expired listings.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing productivity and managing time effectively",
+      "solution_summary": "Start the day early to handle emails and CRM tasks, and dedicate time to personal fitness and family.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a brand that stands out in a competitive market",
+      "solution_summary": "Focus on personal branding over brokerage branding by consistently posting valuable content.",
+      "timestamp": "44:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Megan provides a blueprint for achieving high production levels without traditional lead buying.",
+      "key_takeaway": "You can build a successful real estate business through personal branding and organic lead generation."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to break through plateaus by leveraging social media and networking.",
+      "key_takeaway": "Consistency in content creation and networking can significantly boost your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This challenges the conventional wisdom of desk work being productive.",
+      "suggested_hook": "Are you spending too much time at your desk?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "22:45",
+      "quote": "I converted so many listings by doing that because they would call and say, 'Do you know how many agents just told me that I was being stupid for doing FSBO?'",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Shows a unique approach to converting FSBOs by offering value instead of criticism.",
+      "suggested_hook": "Want to convert FSBOs without cold calling?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Drop off informational packets to FSBOs and expired listings without knocking.",
+      "context": "Use this tactic to offer value and stand out from other agents.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Post daily short-form video content on social media.",
+      "context": "Consistently post to build an audience and attract leads organically.",
+      "timestamp": "31:00"
+    },
+    {
+      "tactic": "Attend local networking events outside of real estate circles.",
+      "context": "Expand your network by meeting potential clients in non-real estate settings.",
+      "timestamp": "09:00"
+    }
+  ],
+  "quotable_insights": [
+    "You're not doing anything wrong. You're keeping your integrity. Let them talk because it means you're being noticed.",
+    "Everyone wants to be an investor. Everyone wants to have a six-pack. One person will jump on that."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a CRM and lead conversion tool."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Used for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "Megan Walters shares her journey of building a successful real estate business without buying leads or cold calling. She emphasizes the importance of personal branding, leveraging social media, and offering value to potential clients. Megan provides actionable strategies for lead generation, time management, and building a personal brand that stands out.",
+  "_metadata": {
+    "source_file": "2026-09-04_item2_Megan-Walters",
+    "analyzed_at": "2026-09-11T08:55:38.457987",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

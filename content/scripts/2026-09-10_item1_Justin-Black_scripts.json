@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:20:00",
+      "end_timestamp": "00:21:00",
+      "quote": "AI has already brought me almost $5 million in listings.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights the tangible success of using AI in real estate.",
+      "suggested_hook": "Discover how AI can transform your real estate business."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"AI brought me $5 million in listings. Want to know how?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black shared a game-changing insight on our latest episode. Imagine leveraging AI to transform your real estate business. You're trying to generate leads, but nothing's sticking. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Justin revealed, 'AI has already brought me almost $5 million in listings.' [ON-SCREEN: $5 million in listings] Most agents rely on traditional methods. But top producers are harnessing AI for lead generation. [ON-SCREEN: AI for lead generation] It's about building an SEO-optimized website and creating content that attracts clients. [ON-SCREEN: SEO-optimized website] This isn't just theory—it's proven success.\",\n    \"REFRAME/APPLICATION\": \"Why wait? Implement AI strategies now and watch your business grow. [ON-SCREEN: Implement AI strategies] Justin's approach led to $5 million in listings. You can do this today.\",\n    \"CTA\": \"Are you using AI in your strategy yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how AI can transform your real estate business. #RealEstateSuccess\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#LeadGeneration\", \"#AIinRealEstate\", \"#TopProducer\", \"#RealEstateTips\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI has already brought me almost $5 million in listings.\"\n}\n```"
+  }
+]

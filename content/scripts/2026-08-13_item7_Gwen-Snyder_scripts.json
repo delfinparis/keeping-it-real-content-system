@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "Think of things that my clients might ask or request before they know to ask or request it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a proactive approach to client service that can differentiate agents.",
+      "suggested_hook": "Want to stand out as a real estate agent? Here's how to anticipate your clients' needs."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to stand out as a real estate agent? Here's the secret.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gwen Snyder shared a game-changing tactic on our podcast. Imagine knowing exactly what your clients need before they even ask. You're trying to build a referral-based business, but clients aren't coming back. Here's the part nobody talks about...\",\n    \"INSIGHT\": \"Gwen says, 'Think of things that my clients might ask or request before they know to ask or request it.' [ON-SCREEN: Anticipate Client Needs] Most agents wait for clients to reach out. Top producers anticipate and deliver. [ON-SCREEN: Proactive Service]\",\n    \"REFRAME/APPLICATION\": \"This matters because proactive service can set you apart. Start this week by listing common client requests and addressing them upfront. [ON-SCREEN: Start Today] Gwen built her luxury real estate success on this approach.\",\n    \"CTA\": \"Are you anticipating your clients' needs — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stand out by anticipating your clients' needs. Are you doing this already?\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientService\",\n    \"#ProactiveAgent\",\n    \"#RealEstateSuccess\",\n    \"#TopProducer\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for clients to reach out. Top producers anticipate and deliver.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "32:00",
+      "end_timestamp": "32:45",
+      "quote": "If you're not early, you're late. I'm always early and I'm known for it.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the importance of punctuality and preparation in real estate.",
+      "suggested_hook": "The secret to success in real estate? It might be simpler than you think."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"The secret to success in real estate? It's simpler than you think.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gwen Snyder, a top agent, says, 'If you're not early, you're late.' Ever feel like you're always rushing to meetings, missing key moments with clients? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Gwen emphasizes punctuality as a game-changer. 'I'm always early and I'm known for it.' [ON-SCREEN: Always Early] Most agents scramble last minute. Top producers? They prepare ahead. [ON-SCREEN: Prepare Ahead] This simple habit builds trust and sets you apart.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? In today's fast-paced market, being early means being ready. You can start this today. Gwen built a referral-based business using this exact approach. [ON-SCREEN: Referral-Based Success]\",\n    \"CTA\": \"Are you known for being early? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Punctuality isn't just polite—it's powerful. Are you early or always late? #RealEstateSuccess\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#TopProducerTips\", \"#AgentAdvice\", \"#PunctualityMatters\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"'If you're not early, you're late.' Simple, but game-changing advice.\"\n}\n```"
+  }
+]

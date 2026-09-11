@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This challenges the conventional wisdom of desk work being productive.",
+      "suggested_hook": "Are you spending too much time at your desk?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you spending too much time at your desk?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters challenges the norm: 'If you're sitting at your desk or at home, you're not doing your job.' Sound familiar? You're reaching out to your database, but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan says, 'You need to go meet new people.' [ON-SCREEN: Meet New People] Most agents think desk work equals productivity. Top producers know face-to-face connections drive real results. [ON-SCREEN: Face-to-Face Wins]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? You can apply this today. Megan closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop hiding behind your desk. Get out and meet people! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#Networking\", \"#TopProducer\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents think desk work equals productivity. Top producers know face-to-face connections drive real results.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "22:00",
+      "end_timestamp": "22:45",
+      "quote": "I converted so many listings by doing that because they would call and say, 'Do you know how many agents just told me that I was being stupid for doing FSBO?'",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Shows a unique approach to converting FSBOs by offering value instead of criticism.",
+      "suggested_hook": "Want to convert FSBOs without cold calling?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to convert FSBOs without cold calling?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters shared a game-changing strategy on our podcast. If you're tired of hearing 'no' from FSBOs, this is for you. Most agents criticize FSBOs, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan said, 'I converted so many listings by doing that because they would call and say, 'Do you know how many agents just told me that I was being stupid for doing FSBO?' [ON-SCREEN: Convert FSBOs by offering value] Instead of criticizing, offer genuine help and watch the magic happen. [ON-SCREEN: Offer value, not criticism]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start applying this today by reaching out to FSBOs with a helpful tip. Megan closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop criticizing FSBOs. Start converting them. Here's how. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#FSBO\", \"#LeadGeneration\", \"#TopProducer\", \"#RealEstateAgent\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Offer genuine help to FSBOs and watch the magic happen.\"\n}\n```"
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Real Estate Agent",
+    "company": "Carrie McCormick Group, At Properties Christie's International",
+    "production_level": "Top 0.001% of agents in Chicago",
+    "specialty": "Luxury real estate",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Impact of AI on real estate",
+    "Luxury real estate market trends",
+    "Importance of lifestyle in property selection",
+    "Role of personal branding for agents",
+    "Chicago's real estate market potential"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Is AI going to replace real estate agents?",
+      "solution_summary": "AI is not replacing agents but transforming the market by enhancing lifestyle searches and creating more luxury buyers.",
+      "timestamp": "00:05:55"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "How can agents remain relevant with AI advancements?",
+      "solution_summary": "Agents should focus on becoming trusted advisors and build a strong personal brand through content and social media.",
+      "timestamp": "00:17:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses how AI is changing the market and what top producers can do to stay ahead.",
+      "key_takeaway": "Focus on lifestyle matching and personal branding to differentiate yourself in a tech-driven market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:45",
+      "quote": "When information becomes free, judgment becomes priceless.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It encapsulates the value of human expertise in an AI-driven world.",
+      "suggested_hook": "Why judgment is the new currency in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create content focused on lifestyle matching.",
+      "context": "Use social media to highlight neighborhood features and lifestyle benefits.",
+      "timestamp": "00:13:37"
+    }
+  ],
+  "quotable_insights": [
+    "AI isn't replacing real estate agents; it's replacing average marketing.",
+    "Lifestyle is going to outperform square footage as a value driver."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the transformative impact of AI on the luxury real estate market, emphasizing the importance of lifestyle matching and personal branding for agents. She provides insights into how AI is creating more luxury buyers and why Chicago is a prime market for affluent investors. The episode offers actionable advice for agents to leverage AI and enhance their market presence.",
+  "_metadata": {
+    "source_file": "2026-08-03_item10_Carrie-McCormick",
+    "analyzed_at": "2026-09-11T08:50:05.195581",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

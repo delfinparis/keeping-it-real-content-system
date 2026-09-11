@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Wands",
+    "title": "Founder",
+    "company": "The Wands Team at Douglas Elliman",
+    "production_level": "Over a billion in sales",
+    "specialty": "Luxury real estate",
+    "location": "Miami, Florida"
+  },
+  "main_topics": [
+    "Importance of rentals in real estate",
+    "Building a successful real estate team",
+    "Leveraging AI and technology in real estate",
+    "Advising clients on buying vs. renting",
+    "Work-life balance in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to generate leads from small rental deals",
+      "solution_summary": "Treat every rental as an opportunity for future sales and network expansion.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a real estate team without proper infrastructure",
+      "solution_summary": "Ensure backend systems and processes are in place before expanding the team.",
+      "timestamp": "00:43:12"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated with small commissions",
+      "solution_summary": "Focus on the long-term potential of every client interaction, not just immediate earnings.",
+      "timestamp": "00:27:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to leverage rentals to build their business.",
+      "key_takeaway": "Every small deal can lead to larger opportunities; focus on building relationships."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on how to effectively scale and manage a real estate team.",
+      "key_takeaway": "Build infrastructure before scaling to ensure smooth operations and growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:43",
+      "end_timestamp": "00:09:20",
+      "quote": "A thousand dollar rental could lead you to the $20,000 rental, which can lead you to the $20 million buyer.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the perception of small deals being insignificant.",
+      "suggested_hook": "Think small deals don't matter? Think again."
+    },
+    {
+      "timestamp": "00:56:06",
+      "end_timestamp": "00:56:27",
+      "quote": "If you do your job well, the money will become a byproduct of your success.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Encapsulates the philosophy of focusing on service over immediate gain.",
+      "suggested_hook": "Focus on service, and success will follow."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to stay connected with clients.",
+      "context": "Monitor clients' life events and engage with them to maintain relationships.",
+      "timestamp": "01:00:19"
+    },
+    {
+      "tactic": "Set reminders for lease renewals.",
+      "context": "Contact clients 60 days before their lease ends to discuss future plans.",
+      "timestamp": "01:04:02"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate is a contact sport; every interaction is an opportunity.",
+    "Luxury is being happy at home, regardless of the price point."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Close CRM",
+      "context": "Recommended for its efficiency in managing client relationships and streamlining operations."
+    }
+  ],
+  "episode_summary": "Chris Wands shares how focusing on rentals can lead to significant real estate opportunities, emphasizing the importance of treating every client interaction as a potential future sale. He discusses building a successful real estate team by ensuring proper infrastructure is in place and leveraging technology like AI and CRM systems to enhance productivity. Chris also highlights the value of maintaining work-life balance and being a genuine advisor to clients.",
+  "_metadata": {
+    "source_file": "2026-08-27_item4_Chris-Wands",
+    "analyzed_at": "2026-09-11T08:53:53.110237",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

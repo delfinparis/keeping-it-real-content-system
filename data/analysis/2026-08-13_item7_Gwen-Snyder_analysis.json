@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Gwen Snyder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "$500M+ in sales",
+    "specialty": "Luxury real estate",
+    "location": "Greenwood Village, Colorado"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Challenges in luxury real estate",
+    "Importance of personal branding",
+    "Effective follow-up strategies",
+    "Leveraging social media for growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents relying on cold calls for lead generation",
+      "solution_summary": "Focus on building authentic relationships and being of service to clients.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "85% of agents don't follow up after closing",
+      "solution_summary": "Implement a structured follow-up process to maintain relationships and generate referrals.",
+      "timestamp": "00:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not leveraging their unique personality in business",
+      "solution_summary": "Be authentic and memorable to become referable.",
+      "timestamp": "04:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a high-volume referral business without cold calling.",
+      "key_takeaway": "Focus on relationship-building and providing exceptional service to become referable."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies for maintaining and growing a business through referrals and authentic connections.",
+      "key_takeaway": "Reignite your business by focusing on personal connections and leveraging your strengths."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:00",
+      "end_timestamp": "10:45",
+      "quote": "Think of things that my clients might ask or request before they know to ask or request it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a proactive approach to client service that can differentiate agents.",
+      "suggested_hook": "Want to stand out as a real estate agent? Here's how to anticipate your clients' needs."
+    },
+    {
+      "timestamp": "32:00",
+      "end_timestamp": "32:45",
+      "quote": "If you're not early, you're late. I'm always early and I'm known for it.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the importance of punctuality and preparation in real estate.",
+      "suggested_hook": "The secret to success in real estate? It might be simpler than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Meet 60 new people a year to expand your network.",
+      "context": "Aim to meet one new person a week to build relationships and potential business opportunities.",
+      "timestamp": "18:00"
+    },
+    {
+      "tactic": "Send personalized follow-up texts to past clients.",
+      "context": "Include specific details you remember about them to show genuine interest.",
+      "timestamp": "45:00"
+    }
+  ],
+  "quotable_insights": [
+    "Authenticity beats polish every time.",
+    "Being of service is the key to being referable."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "Gwen Snyder shares her approach to building a successful luxury real estate business without cold calling, focusing on relationship-building and exceptional client service. She emphasizes the importance of being referable by anticipating client needs and leveraging personal authenticity. The episode provides actionable strategies for agents to grow their business through referrals and effective follow-up.",
+  "_metadata": {
+    "source_file": "2026-08-13_item7_Gwen-Snyder",
+    "analyzed_at": "2026-09-11T08:51:53.178311",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

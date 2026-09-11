@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Greg Roeder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Not specifically mentioned",
+    "production_level": "$40M+ producer",
+    "specialty": "Luxury real estate",
+    "location": "Fort Collins, Colorado"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Creating strategic community events",
+    "Developing targeted content for dream clients",
+    "Avoiding the invisible agent syndrome",
+    "Balancing personal life and business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Being forgotten by potential clients",
+      "solution_summary": "Create consistent, targeted content and engage in community events to maintain visibility.",
+      "timestamp": "00:05:45"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without traditional advertising",
+      "solution_summary": "Host community events and create content that speaks directly to your dream clients.",
+      "timestamp": "00:09:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing time effectively without burning out",
+      "solution_summary": "Delegate tasks and focus on high-value activities like client interactions and strategic planning.",
+      "timestamp": "00:43:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides a blueprint for scaling a real estate business through referrals and community engagement.",
+      "key_takeaway": "Focus on building genuine relationships and providing value to your niche market to grow your business."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to reduce workload and stress by leveraging community and content.",
+      "key_takeaway": "Delegate tasks and concentrate on relationship-building activities to prevent burnout."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:30",
+      "end_timestamp": "00:10:15",
+      "quote": "Why have you been selling to people you don't know?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of leveraging existing relationships for business growth.",
+      "suggested_hook": "Are you missing out on business by ignoring the people you already know?"
+    },
+    {
+      "timestamp": "00:44:00",
+      "end_timestamp": "00:44:45",
+      "quote": "People just don't want to be funneled. They want to be seen, heard, cared for.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the conventional sales funnel approach, emphasizing personalized service.",
+      "suggested_hook": "Why the traditional sales funnel might be failing you."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host community events centered around personal interests.",
+      "context": "Use these events to build genuine relationships and increase referrals.",
+      "timestamp": "00:25:00"
+    },
+    {
+      "tactic": "Create a standout newsletter tailored to your niche.",
+      "context": "Provide unique insights and data that your target audience values.",
+      "timestamp": "00:35:00"
+    },
+    {
+      "tactic": "Leverage short-form video content to maintain visibility.",
+      "context": "Use content from your newsletter to create engaging videos.",
+      "timestamp": "00:38:00"
+    }
+  ],
+  "quotable_insights": [
+    "Be their REALTOR, not a REALTOR.",
+    "Success isn't about being available 24/7; it's about being effective with your time."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Getting to a Million",
+      "context": "Greg's book detailing his strategies for building a successful real estate practice."
+    }
+  ],
+  "episode_summary": "In this episode, Greg Roeder shares how he transformed his real estate business by focusing on building genuine relationships and creating targeted content for his dream clients. He emphasizes the importance of community engagement and strategic event hosting to generate referrals and maintain visibility. Greg also discusses the necessity of delegating tasks to prevent burnout and improve work-life balance.",
+  "_metadata": {
+    "source_file": "2026-08-20_item5_Greg-Roeder",
+    "analyzed_at": "2026-09-11T08:53:13.494901",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
