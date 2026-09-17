@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": "Not mentioned",
+    "production_level": "$65M with 50 clients from YouTube",
+    "specialty": "YouTube lead generation",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Consistency and perseverance in content creation",
+    "Challenges and rewards of video marketing",
+    "Client relationships from YouTube leads",
+    "Importance of systems in managing leads"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through YouTube videos",
+      "solution_summary": "Consistently create and post videos, even if initial results are slow.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated despite slow initial results",
+      "solution_summary": "Commit to a timeline and focus on long-term goals rather than immediate results.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing an increasing number of leads",
+      "solution_summary": "Implement scheduling tools and automation to efficiently handle lead follow-ups.",
+      "timestamp": "00:33:10"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn the importance of perseverance and consistency in building a client base.",
+      "key_takeaway": "Commit to a consistent content schedule and be patient for results."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can see how diversifying lead generation strategies can lead to growth.",
+      "key_takeaway": "Explore new platforms like YouTube for lead generation and adapt strategies as needed."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:13",
+      "quote": "This agent made YouTube videos for two years before she closed her first deal from the channel.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the importance of perseverance and long-term commitment.",
+      "suggested_hook": "Ever wondered how long it really takes to see success on YouTube?"
+    },
+    {
+      "timestamp": "00:14:41",
+      "end_timestamp": "00:15:05",
+      "quote": "While I was in Europe, I put five deals under contract that were all YouTube leads.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the power of a well-established YouTube channel.",
+      "suggested_hook": "Imagine closing deals while on vacation. Here's how one agent did it."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Commit to a consistent video posting schedule.",
+      "context": "To build a presence and eventually generate leads from YouTube.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "tactic": "Use scheduling tools to manage client appointments.",
+      "context": "To efficiently handle an increasing number of leads.",
+      "timestamp": "00:33:10"
+    }
+  ],
+  "quotable_insights": [
+    "If all these other people are having success with it, I'm getting people that are calling me, I wasn't getting, I mean, there was something that switched.",
+    "All my YouTube clients are all my favorite because it's so easy. They know who I am."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "As a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For recruiting and retention powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her journey of using YouTube as a powerful lead generation tool, highlighting the importance of consistency and perseverance. She discusses the challenges she faced and the systems she implemented to manage an increasing number of leads, offering valuable insights for agents looking to diversify their lead generation strategies.",
+  "_metadata": {
+    "source_file": "2026-09-16_item1_Sarah-Maslowski",
+    "analyzed_at": "2026-09-17T09:31:55.286582",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

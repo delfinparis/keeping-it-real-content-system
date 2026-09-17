@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube real estate marketing",
+    "location": null
+  },
+  "main_topics": [
+    "YouTube content consistency",
+    "Content planning and filming",
+    "Backup systems for content creation",
+    "Building a video bank",
+    "Working with video editors"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Single point of failure in content creation",
+      "solution_summary": "Implement a backup editor and maintain a video bank to ensure content consistency.",
+      "timestamp": "04:32"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing content planning and filming",
+      "solution_summary": "Separate planning and filming into different weeks to maintain quality and prevent burnout.",
+      "timestamp": "08:45"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Maintaining YouTube channel consistency",
+      "solution_summary": "Use a two-week cycle for planning and filming, and always have two to three videos ready to post.",
+      "timestamp": "07:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging YouTube for significant real estate sales.",
+      "key_takeaway": "Consistency and systematization in content creation can lead to substantial business growth."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode offers strategies for managing content teams and ensuring continuous output.",
+      "key_takeaway": "Implementing backup systems and content banks can safeguard against operational disruptions."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "04:32",
+      "end_timestamp": "05:10",
+      "quote": "If your entire content operation runs through one person, you have a single point of failure.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of having backup systems in place.",
+      "suggested_hook": "Is your content strategy one emergency away from failure?"
+    },
+    {
+      "timestamp": "07:00",
+      "end_timestamp": "07:40",
+      "quote": "Always have two to three fully edited videos ready to post before you need them.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical tip for maintaining content consistency.",
+      "suggested_hook": "Here's how to never miss a YouTube post again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Maintain a video bank of two to three fully edited videos.",
+      "context": "To ensure consistent posting even during emergencies.",
+      "timestamp": "07:00"
+    },
+    {
+      "tactic": "Separate content planning and filming into different weeks.",
+      "context": "To prevent burnout and maintain high-quality content.",
+      "timestamp": "08:45"
+    },
+    {
+      "tactic": "Identify and brief a backup editor.",
+      "context": "To ensure continuity in content production.",
+      "timestamp": "04:32"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency is not just a best practice; it is one of your most valuable assets.",
+    "The channels that outlast everyone else are the ones built on discipline, not on motivation."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "Sarah Maslowski shares her insights on building a successful real estate business through YouTube by maintaining content consistency and implementing robust systems. She emphasizes the importance of having a backup editor and a video bank to ensure uninterrupted content flow. The episode provides actionable strategies for content planning and filming, offering valuable lessons for real estate agents looking to leverage YouTube for lead generation.",
+  "_metadata": {
+    "source_file": "2026-08-19_item7_Sarah-Maslowski",
+    "analyzed_at": "2026-09-17T09:26:45.104968",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

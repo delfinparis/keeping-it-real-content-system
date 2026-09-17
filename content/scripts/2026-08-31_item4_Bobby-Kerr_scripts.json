@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:00",
+      "end_timestamp": "00:08:30",
+      "quote": "Google looks at your business like on a 30 or 45 day clock. If you have not been active, they view your business as a dying or a dead business.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the importance of consistent activity on Google Business Profiles.",
+      "suggested_hook": "Is your Google Business Profile alive or dead?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your Google Business Profile alive or dead?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr shared a shocking insight on our podcast. If you're not active on your Google Business Profile every 30 to 45 days, Google might consider your business dead. Imagine all your hard work going unnoticed because of inactivity.\",\n    \"INSIGHT\": \"Bobby explained, 'Google looks at your business like on a 30 or 45 day clock. If you have not been active, they view your business as a dying or a dead business.' [ON-SCREEN: 30-45 Day Clock] Most agents ignore this, but top producers ensure consistent updates. [ON-SCREEN: Consistent Updates]\",\n    \"REFRAME/APPLICATION\": \"This matters because your online presence is crucial. You can start today by posting a new update or review. Bobby's strategy helped him close 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Is your profile active — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your Google Business Profile active? Learn why it matters! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleBusiness\", \"#AgentSuccess\", \"#DigitalPresence\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Google views your business as dying or dead if inactive for 30-45 days.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:39:00",
+      "end_timestamp": "00:39:30",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the idea that generic content is sufficient for online presence.",
+      "suggested_hook": "Why your generic content is killing your visibility!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why your generic content is killing your visibility!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr just dropped a bombshell on our podcast. Google is suppressing generic agent profiles. You're posting content, but it's not getting traction. Sound familiar?\",\n    \"INSIGHT\": \"Bobby said, 'Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.' [ON-SCREEN: Google suppresses generic profiles] Most agents think any content is good content. But top producers know it's all about hyper-local, unique content. [ON-SCREEN: Hyper-local content wins]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start creating content that speaks directly to your community. You can do this today. Bobby's strategy helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you still posting generic content — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Generic content is hurting your visibility. Here's how to fix it today!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ContentStrategy\", \"#GoogleSEO\", \"#AgentSuccess\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.\"\n}\n```"
+  }
+]

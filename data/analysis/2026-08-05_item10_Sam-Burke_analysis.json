@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Sam Burke",
+    "title": "Real Estate Broker",
+    "company": "John L. Scott",
+    "production_level": "Top 1%",
+    "specialty": "Residential, Investment, and New Construction Properties",
+    "location": "Snohomish, Washington"
+  },
+  "main_topics": [
+    "Lead generation through YouTube",
+    "Building a real estate business at a young age",
+    "Investment strategies for young agents",
+    "Importance of maintaining high standards",
+    "Using social media for real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads with a small YouTube channel",
+      "solution_summary": "Focus on creating content that answers specific questions potential clients might have about the area.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the challenge of being a young agent",
+      "solution_summary": "Maintain high standards and professionalism to build trust and credibility.",
+      "timestamp": "00:23:11"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Investing in real estate at a young age",
+      "solution_summary": "Have a specific buy box and use targeted outreach to find investment opportunities.",
+      "timestamp": "00:27:13"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how to build a successful real estate business from a young age.",
+      "key_takeaway": "Maintaining high standards and leveraging digital strategies can significantly impact your success."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers practical steps for new agents to generate leads and grow their business.",
+      "key_takeaway": "Focus on relationship building and consistent outreach to establish a strong foundation."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:06",
+      "quote": "Sam Burke has just over 200 YouTube subscribers yet it's one of his best lead sources for his business.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of quality over quantity in lead generation.",
+      "suggested_hook": "Think you need thousands of followers to generate leads? Think again."
+    },
+    {
+      "timestamp": "00:23:11",
+      "end_timestamp": "00:24:12",
+      "quote": "When you're a young broker, the only thing that can help you overcome your age is experience and being very prepared.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the notion that age is a barrier in real estate.",
+      "suggested_hook": "Young agents, here's how to overcome the age barrier in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send personalized text messages to your sphere to deepen relationships.",
+      "context": "Use this approach to build connections and potentially generate leads.",
+      "timestamp": "00:14:03"
+    },
+    {
+      "tactic": "Create YouTube content that answers specific questions about your market.",
+      "context": "Focus on lifestyle and area-specific content to attract potential clients.",
+      "timestamp": "00:32:30"
+    }
+  ],
+  "quotable_insights": [
+    "The work that was uncomfortable or the work that you wanted to avoid was often what helped you get closer to your goal.",
+    "I want that seller to be able to look back at every single house that I've listed and know that I treated every single seller with the same attention to detail."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Think and Grow Rich",
+      "context": "Recommended for its insights on visualization and achieving goals."
+    }
+  ],
+  "episode_summary": "In this episode, Sam Burke shares how he built a successful real estate business at a young age by maintaining high standards and leveraging digital strategies like YouTube for lead generation. He discusses the importance of relationship building, personalized outreach, and having a clear investment strategy. Sam's insights provide valuable lessons for both new and aspiring top-producing agents.",
+  "_metadata": {
+    "source_file": "2026-08-05_item10_Sam-Burke",
+    "analyzed_at": "2026-09-17T09:25:04.622849",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

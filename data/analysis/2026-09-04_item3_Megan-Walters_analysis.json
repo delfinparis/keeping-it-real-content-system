@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Megan Walters",
+    "title": "REALTOR, Real Estate Investor, Educator",
+    "company": "Walters Team at eXp",
+    "production_level": "Top 1% of agents nationwide",
+    "specialty": "Real estate investment and education",
+    "location": "Columbia, Missouri"
+  },
+  "main_topics": [
+    "Alternative lead generation strategies",
+    "Building a personal brand over brokerage brand",
+    "Time management and productivity",
+    "Investment in real estate",
+    "Social media marketing for REALTORS"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without buying them or cold calling",
+      "solution_summary": "Megan uses social media, networking, and providing value to FSBOs and expired listings to generate leads.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand versus relying on brokerage brand",
+      "solution_summary": "Megan emphasizes the importance of self-branding and using social media to establish a personal identity.",
+      "timestamp": "00:44:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing productivity in a day",
+      "solution_summary": "Megan starts her day at 4 AM, completes emails and CRM tasks early, and uses the rest of the day for meetings and showings.",
+      "timestamp": "00:14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on how to scale a real estate business without traditional lead buying.",
+      "key_takeaway": "Focus on building a personal brand and using social media to generate organic leads."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Megan shares strategies for new agents to generate leads and build a business from scratch.",
+      "key_takeaway": "Utilize free resources and networking to establish yourself in the market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:00",
+      "end_timestamp": "00:09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This challenges the conventional wisdom of desk work and encourages proactive lead generation.",
+      "suggested_hook": "Are you stuck at your desk all day? Here's why that's not helping your real estate business."
+    },
+    {
+      "timestamp": "00:44:00",
+      "end_timestamp": "00:45:00",
+      "quote": "You're an expensive employee if you're building your brokerage's brand and not your own.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the reliance on brokerage branding and emphasizes personal branding.",
+      "suggested_hook": "Is your brokerage's brand holding you back? Here's why you should focus on your own brand."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Drop off informational packets to FSBOs and expired listings without knocking.",
+      "context": "Use this tactic to provide value and stand out from other agents.",
+      "timestamp": "00:21:00"
+    },
+    {
+      "tactic": "Post one video on social media every day.",
+      "context": "Consistently posting content helps build a following and establish expertise.",
+      "timestamp": "00:31:00"
+    }
+  ],
+  "quotable_insights": [
+    "People love to help people. A lot of really good people love to help other people.",
+    "Let them talk because it means that they're actually talking about you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used to create marketing materials for FSBOs and expired listings."
+    }
+  ],
+  "episode_summary": "In this episode, Megan Walters shares her journey of building a successful real estate business without buying leads or cold calling. She emphasizes the importance of personal branding, leveraging social media, and creating value for potential clients. Megan also discusses her investment strategies and how she manages her time effectively to maximize productivity.",
+  "_metadata": {
+    "source_file": "2026-09-04_item3_Megan-Walters",
+    "analyzed_at": "2026-09-17T09:30:11.703319",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

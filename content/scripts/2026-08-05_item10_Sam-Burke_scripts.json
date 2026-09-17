@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:06",
+      "quote": "Sam Burke has just over 200 YouTube subscribers yet it's one of his best lead sources for his business.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of quality over quantity in lead generation.",
+      "suggested_hook": "Think you need thousands of followers to generate leads? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think you need thousands of followers to generate leads? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sam Burke, a young real estate agent, has just over 200 YouTube subscribers. Yet, it's one of his best lead sources. Imagine posting videos, but feeling like nobody's watching. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sam says, 'It's not about the numbers, it's about the value you provide.' [ON-SCREEN: Quality over Quantity] Most agents chase followers. Sam focuses on content that truly helps his audience. [ON-SCREEN: 200 Subscribers, Major Leads] He shares tips, market insights, and investment strategies that resonate deeply with viewers. [ON-SCREEN: Real Value Drives Real Leads]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? You can start today. Focus on quality content, not follower count. Sam closed 15 deals last year using this exact approach. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you focusing on quality content — yes or no? Drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"200 subscribers, major leads. Quality beats quantity every time. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#YouTubeMarketing\", \"#QualityContent\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"It's not about the numbers, it's about the value you provide.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:23:11",
+      "end_timestamp": "00:24:12",
+      "quote": "When you're a young broker, the only thing that can help you overcome your age is experience and being very prepared.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the notion that age is a barrier in real estate.",
+      "suggested_hook": "Young agents, here's how to overcome the age barrier in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think age is a barrier in real estate? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sam Burke, a young real estate dynamo, faced skepticism due to his age. Sound familiar? You're out there hustling, but clients doubt your experience. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sam says, 'When you're a young broker, the only thing that can help you overcome your age is experience and being very prepared.' [ON-SCREEN: Experience & Preparation] Most agents rely on charm. Top producers arm themselves with knowledge. [ON-SCREEN: Knowledge is Power]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Dive deep into market trends, master your scripts, and show clients you're the expert. Sam built his business this way, closing deals others couldn't.\",\n    \"CTA\": \"Are you prepared to overcome the age barrier — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Young agents, age is just a number. Experience and preparation are your keys to success.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YoungAgents\", \"#RealEstateSuccess\", \"#AgentAdvice\", \"#OvercomeBarriers\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on charm. Top producers arm themselves with knowledge.\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Greg Roeder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Not specifically mentioned",
+    "production_level": "$40M producer",
+    "specialty": "Luxury real estate",
+    "location": "Fort Collins, Colorado"
+  },
+  "main_topics": [
+    "Building relationships through community events",
+    "Creating targeted content for dream clients",
+    "Avoiding the invisible agent problem",
+    "Leveraging personal interests for business growth",
+    "Delegating tasks to multiply impact"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Being forgotten by potential clients despite having a relationship",
+      "solution_summary": "Create consistent and targeted content to occupy the real estate portion of clients' minds.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without traditional advertising",
+      "solution_summary": "Host community events and use personal interests to build genuine relationships.",
+      "timestamp": "00:05:33"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Being available 24/7 to clients",
+      "solution_summary": "Delegate tasks and focus on high-value activities to maintain work-life balance.",
+      "timestamp": "00:42:13"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for significantly increasing production without traditional advertising.",
+      "key_takeaway": "Focus on building genuine relationships and creating targeted content to attract business you don't need to compete for."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers insights on maintaining work-life balance while growing a successful business.",
+      "key_takeaway": "Delegate tasks and focus on personal interests to rejuvenate your passion for real estate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:01",
+      "end_timestamp": "00:09:33",
+      "quote": "Why have you been selling to people you don't know?",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of leveraging existing relationships for business success.",
+      "suggested_hook": "Are you ignoring the power of your existing network?"
+    },
+    {
+      "timestamp": "00:29:02",
+      "end_timestamp": "00:29:43",
+      "quote": "I did 40 million and I didn't go on a listing presentation.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the effectiveness of relationship-based business growth.",
+      "suggested_hook": "Imagine hitting $40M in sales without a single listing presentation."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Host community events based on personal interests to build relationships.",
+      "context": "Use interests like pickleball to create genuine connections.",
+      "timestamp": "00:05:33"
+    },
+    {
+      "tactic": "Create a standout newsletter with niche-specific content.",
+      "context": "Focus on providing unique insights that are not available elsewhere.",
+      "timestamp": "00:36:01"
+    },
+    {
+      "tactic": "Delegate marketing tasks to free up time for client interactions.",
+      "context": "Hire help for social media and event coordination.",
+      "timestamp": "00:48:01"
+    }
+  ],
+  "quotable_insights": [
+    "People don't want to be funneled; they want to be seen, heard, and cared for.",
+    "Be the agent for your dream clients, not just any agent."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Getting to a Million",
+      "context": "Greg Roeder's book on building a seven-figure real estate practice."
+    }
+  ],
+  "episode_summary": "In this episode, Greg Roeder shares how he grew his real estate business from $12 million to $40 million by leveraging community events and targeted content. He emphasizes the importance of building genuine relationships and creating niche-specific content to avoid being an 'invisible agent.' Greg also discusses the significance of delegating tasks to maintain work-life balance while scaling up.",
+  "_metadata": {
+    "source_file": "2026-08-20_item6_Greg-Roeder",
+    "analyzed_at": "2026-09-17T09:27:34.859283",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

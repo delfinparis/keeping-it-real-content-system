@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Justin Black",
+    "title": "Real Estate Advisor",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "$150M in career sales",
+    "specialty": "Luxury mountain market",
+    "location": "Breckenridge, Colorado"
+  },
+  "main_topics": [
+    "Using AI for lead generation",
+    "Building a website for SEO and AI optimization",
+    "Strategies for working with expired listings",
+    "Content creation for real estate websites",
+    "The role of AI in modern real estate practices"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through traditional methods",
+      "solution_summary": "Use AI to optimize website content for search engines and AI platforms to attract leads.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting expired listings into clients",
+      "solution_summary": "Send personalized FedEx packages with detailed audit letters and market snapshots.",
+      "timestamp": "00:39:03"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a competitive luxury market",
+      "solution_summary": "Create a high-value website with content that answers specific client questions.",
+      "timestamp": "00:06:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging AI for high-value lead generation.",
+      "key_takeaway": "AI can be a powerful tool for generating luxury real estate leads if used strategically."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode offers actionable strategies for improving online presence and lead conversion.",
+      "key_takeaway": "Building a content-rich website can significantly enhance your visibility and attract leads."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:20:10",
+      "end_timestamp": "00:20:50",
+      "quote": "I was completely in shock because I didn't know if people were really using AI to find brokers.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the surprising impact of AI on lead generation.",
+      "suggested_hook": "Can AI really bring you million-dollar leads? Here's how it shocked one agent."
+    },
+    {
+      "timestamp": "00:29:36",
+      "end_timestamp": "00:30:09",
+      "quote": "My entire website was built 100% through AI.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the power of AI in creating professional-grade websites.",
+      "suggested_hook": "Did you know AI can build your entire real estate website? Here's proof."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to generate content ideas based on client questions.",
+      "context": "Create articles that answer specific questions potential clients might ask.",
+      "timestamp": "00:07:59"
+    },
+    {
+      "tactic": "Send FedEx packages to expired listings with personalized audit letters.",
+      "context": "Differentiate yourself from other agents by providing tangible value.",
+      "timestamp": "00:43:03"
+    },
+    {
+      "tactic": "Install remarketing pixels on your website.",
+      "context": "Use them to retarget visitors with ads on platforms like Meta.",
+      "timestamp": "00:10:25"
+    }
+  ],
+  "quotable_insights": [
+    "AI can be a powerful tool for generating luxury real estate leads if used strategically.",
+    "Building a content-rich website can significantly enhance your visibility and attract leads."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used extensively for AI-driven content creation and website building."
+    },
+    {
+      "type": "website",
+      "name": "AskThePublic.com",
+      "context": "Recommended for finding common questions people ask about real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Justin Black shares how he leverages AI to generate nearly $5 million in real estate leads by optimizing his website for AI and search engines. He discusses the importance of creating content that answers specific client questions and offers a unique strategy for converting expired listings into clients through personalized FedEx packages. This episode is a must-listen for agents looking to enhance their lead generation and conversion strategies using modern technology.",
+  "_metadata": {
+    "source_file": "2026-09-10_item2_Justin-Black",
+    "analyzed_at": "2026-09-17T09:31:03.697999",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

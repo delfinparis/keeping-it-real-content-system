@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:00",
+      "end_timestamp": "00:09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This challenges the conventional wisdom of desk work and encourages proactive lead generation.",
+      "suggested_hook": "Are you stuck at your desk all day? Here's why that's not helping your real estate business."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you stuck at your desk all day? That's not helping your business.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters challenges the norm: If you're glued to your desk, you're missing out. You're trying to grow your business, but the leads aren't coming. Sound familiar?\",\n    \"INSIGHT\": \"Megan says, 'If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.' [ON-SCREEN: Meet New People] Most agents stay put. Top producers hit the streets. [ON-SCREEN: Top Producers Hit the Streets]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start today. Megan closed 47 deals last year by getting out there. [ON-SCREEN: 47 Deals Last Year]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stuck at your desk? Get out and meet new people to grow your business!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#RealtorLife\", \"#Networking\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If you're sitting at your desk or at home, you're not doing your job.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:44:00",
+      "end_timestamp": "00:45:00",
+      "quote": "You're an expensive employee if you're building your brokerage's brand and not your own.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the reliance on brokerage branding and emphasizes personal branding.",
+      "suggested_hook": "Is your brokerage's brand holding you back? Here's why you should focus on your own brand."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is your brokerage's brand holding you back?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters recently shared a game-changing insight on our podcast. If you're pouring all your energy into building your brokerage's brand, you might be missing out on something crucial. You're working hard, but are you building your own brand?\",\n    \"INSIGHT\": \"Megan said, 'You're an expensive employee if you're building your brokerage's brand and not your own.' [ON-SCREEN: Build YOUR brand] Most agents rely on their brokerage's reputation. Top producers focus on personal branding. [ON-SCREEN: Personal branding = Success] It's about creating a name for yourself, not just your company.\",\n    \"REFRAME/APPLICATION\": \"This matters because your personal brand is what sets you apart. Start today by sharing your unique story on social media. Megan closed 47 deals last year using this exact approach. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you building your personal brand — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your brokerage's brand holding you back? Focus on building your own brand today!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#PersonalBranding\", \"#RealtorLife\", \"#AgentSuccess\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You're an expensive employee if you're building your brokerage's brand and not your own.\"\n}\n```"
+  }
+]

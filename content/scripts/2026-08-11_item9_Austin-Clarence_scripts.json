@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:01",
+      "end_timestamp": "09:02",
+      "quote": "No one falls in love with the mortgage; you fall in love with the house.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It challenges the notion of being tied to a mortgage rate, encouraging clients to focus on their living situation.",
+      "suggested_hook": "Are your clients stuck in a mortgage they love more than their home?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are your clients stuck in a mortgage they love more than their home?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Austin Clarence said it best: 'No one falls in love with the mortgage; you fall in love with the house.' If your clients are obsessing over mortgage rates, they might be missing out on their dream home. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Austin shared, 'Focus on the living situation, not just the numbers.' [ON-SCREEN: Fall in love with the house] He suggests leveraging tools like bridge loans and HELOCs to make the transition smoother. [ON-SCREEN: Bridge loans, HELOCs] Most agents focus on rates. Top producers focus on client happiness.\",\n    \"REFRAME/APPLICATION\": \"This matters because you can shift your client's focus today. Austin's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed] You can do this today.\",\n    \"CTA\": \"Which part hits closest to home — drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Fall in love with the house, not the mortgage. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageAdvice\", \"#HomeBuying\", \"#AgentSuccess\", \"#ClientFocus\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Focus on the living situation, not just the numbers.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "14:12",
+      "end_timestamp": "15:05",
+      "quote": "A bridge loan allows you to purchase first and sell after, eliminating contingencies.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable solution to a common real estate problem.",
+      "suggested_hook": "Want to buy a new home without the hassle of selling first?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to buy a new home without the hassle of selling first?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're eyeing that dream home, but selling your current place first feels like a mountain. Austin Clarence shared a game-changer on our latest episode.\",\n    \"INSIGHT\": \"A bridge loan allows you to purchase first and sell after, eliminating contingencies. [ON-SCREEN: Bridge Loan = Buy First, Sell Later] This means you can secure your new home without the stress of immediate selling. [ON-SCREEN: No More Contingencies]\",\n    \"REFRAME/APPLICATION\": \"This matters now because the market's hot. You can apply for a bridge loan today and make your move seamlessly. [ON-SCREEN: Act Now, Market's Hot]\",\n    \"CTA\": \"Have you used a bridge loan before — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how a bridge loan can simplify your home buying process. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#BridgeLoan\",\n    \"#HomeBuying\",\n    \"#RealEstateAdvice\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"A bridge loan allows you to purchase first and sell after, eliminating contingencies.\"\n}\n```"
+  }
+]

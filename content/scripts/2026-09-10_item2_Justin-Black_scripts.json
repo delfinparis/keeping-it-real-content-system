@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:20:10",
+      "end_timestamp": "00:20:50",
+      "quote": "I was completely in shock because I didn't know if people were really using AI to find brokers.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "It highlights the surprising impact of AI on lead generation.",
+      "suggested_hook": "Can AI really bring you million-dollar leads? Here's how it shocked one agent."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Can AI really bring you million-dollar leads?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black was floored when he realized agents were using AI to find brokers. Imagine reaching out to potential clients, but they already found someone else using AI. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Justin shared, 'I was completely in shock because I didn't know if people were really using AI to find brokers.' [ON-SCREEN: AI finds brokers] Most agents rely on traditional methods. [ON-SCREEN: Traditional methods] Top producers leverage AI for lead generation. [ON-SCREEN: AI lead generation]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI can transform your lead strategy today. Justin closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you using AI for leads — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI is changing how agents find leads. Are you keeping up?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#LeadGeneration\", \"#TopProducer\", \"#RealEstateTips\", \"#AIinRealEstate\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on traditional methods. Top producers leverage AI for lead generation.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:29:36",
+      "end_timestamp": "00:30:09",
+      "quote": "My entire website was built 100% through AI.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the power of AI in creating professional-grade websites.",
+      "suggested_hook": "Did you know AI can build your entire real estate website? Here's proof."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Did you know AI can build your entire real estate website? Here's proof.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black shared something game-changing on our podcast. Imagine this: you're struggling to create a professional-grade website that attracts leads, but you're not a tech expert. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Justin said, 'My entire website was built 100% through AI.' [ON-SCREEN: AI-built website] Most agents spend weeks on web design. [ON-SCREEN: Weeks on design] Top producers leverage AI to do it faster and smarter. [ON-SCREEN: AI efficiency] This isn't just about saving time; it's about optimizing for SEO and lead generation. [ON-SCREEN: SEO & leads]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? AI tools can transform your online presence today. [ON-SCREEN: Transform today] Justin's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed] You can start using AI for your website this week.\",\n    \"CTA\": \"Are you using AI for your website yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can build your entire real estate website. Are you leveraging this tech yet?\",\n  \"HASHTAGS\": [\"#AIinRealEstate\", \"#RealEstateTips\", \"#LeadGeneration\", \"#RealEstateMarketing\", \"#AI\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents spend weeks on web design. Top producers leverage AI to do it faster and smarter.\"\n}\n```"
+  }
+]

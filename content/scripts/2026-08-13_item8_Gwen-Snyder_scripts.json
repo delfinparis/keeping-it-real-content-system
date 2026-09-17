@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:05:30",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a humorous and vivid expression of a contrarian view on cold calling.",
+      "suggested_hook": "Why cold calling might not be the best strategy for every REALTOR."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why cold calling might not be for every REALTOR.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gwen Snyder said she'd rather lick a cat's vomit than cold call. It's vivid, but it matters. You're dialing numbers, feeling fake, and getting nowhere. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Gwen believes authenticity is key. [ON-SCREEN: Authenticity Matters] She builds her business through referrals and genuine connections. [ON-SCREEN: Build Through Referrals] Most agents push cold calls. Top producers like Gwen focus on relationships. [ON-SCREEN: Focus on Relationships]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. [ON-SCREEN: Start Today] Shift from cold calls to meaningful follow-ups. Gwen closed 47 deals last year with this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Is cold calling part of your strategy — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Cold calling isn't for everyone. Discover a more authentic approach to real estate.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Authenticity\", \"#ColdCalling\", \"#RealEstatePodcast\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents push cold calls. Top producers focus on relationships.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:09:01",
+      "end_timestamp": "00:09:30",
+      "quote": "When you are of service to someone, they're like, wait, what? That's not possible.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the importance of being proactive in client service.",
+      "suggested_hook": "The secret to becoming a referable REALTOR."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to be the REALTOR everyone refers?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Gwen Snyder said something that might surprise you. You're reaching out to your database, but nobody's responding. Sound familiar? It's frustrating when your efforts seem to go unnoticed.\",\n    \"INSIGHT\": \"Gwen shares, 'When you are of service to someone, they're like, wait, what? That's not possible.' [ON-SCREEN: Be of service] Most agents focus on transactions. Top producers focus on relationships. [ON-SCREEN: Relationships over transactions] This mindset shift can transform your business.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start applying this today by genuinely helping a client without expecting anything in return. Gwen closed 47 deals last year using this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"The secret to becoming a referable REALTOR? Focus on service, not just sales.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientService\", \"#RealtorLife\", \"#TopProducer\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"When you are of service to someone, they're like, wait, what? That's not possible.\"\n}\n```"
+  }
+]

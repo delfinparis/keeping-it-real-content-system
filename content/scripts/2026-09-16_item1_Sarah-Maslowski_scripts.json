@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:13",
+      "quote": "This agent made YouTube videos for two years before she closed her first deal from the channel.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the importance of perseverance and long-term commitment.",
+      "suggested_hook": "Ever wondered how long it really takes to see success on YouTube?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Ever wondered how long it really takes to see success on YouTube?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski spent two years making YouTube videos before closing her first deal. Sound familiar? You're putting in the work, but the results just aren't there yet. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah shared that consistency is key. She said, 'I made videos every week for two years before I saw my first deal.' [ON-SCREEN: 2 years before first deal] Most agents give up too soon. Top producers know it's about the long game. [ON-SCREEN: Consistency is key]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Commit to a schedule and stick to it. Sarah closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals last year]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistency on YouTube pays off. Are you ready to commit?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#AgentSuccess\", \"#ConsistencyIsKey\", \"#LeadGeneration\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents give up too soon. Top producers know it's about the long game.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:41",
+      "end_timestamp": "00:15:05",
+      "quote": "While I was in Europe, I put five deals under contract that were all YouTube leads.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the power of a well-established YouTube channel.",
+      "suggested_hook": "Imagine closing deals while on vacation. Here's how one agent did it."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Imagine closing deals while sipping espresso in Europe.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared how she closed five deals from YouTube leads while on vacation. You're posting videos but not seeing results. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah said, 'While I was in Europe, I put five deals under contract that were all YouTube leads.' [ON-SCREEN: 5 deals from YouTube] Most agents post sporadically. Sarah's secret? Consistency and a well-established channel. [ON-SCREEN: Consistency is key]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start seeing results this week. Sarah's approach helped her close 47 deals last year. [ON-SCREEN: 47 deals last year] You can do this today.\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Close deals while on vacation? Discover Sarah's YouTube strategy! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#YouTubeLeads\",\n    \"#AgentSuccess\",\n    \"#VideoMarketing\",\n    \"#LeadGeneration\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Sarah's secret? Consistency and a well-established channel.\"\n}\n```"
+  }
+]

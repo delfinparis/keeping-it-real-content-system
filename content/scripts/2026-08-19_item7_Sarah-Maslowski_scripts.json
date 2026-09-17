@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "04:32",
+      "end_timestamp": "05:10",
+      "quote": "If your entire content operation runs through one person, you have a single point of failure.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of having backup systems in place.",
+      "suggested_hook": "Is your content strategy one emergency away from failure?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your content strategy one emergency away from failure?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski says, 'If your entire content operation runs through one person, you have a single point of failure.' Imagine your content manager calls in sick, and suddenly, everything grinds to a halt. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah emphasizes the need for backup systems. 'Build a video bank,' she advises. [ON-SCREEN: Build a video bank] 'Plan and film in batches so you always have content ready.' [ON-SCREEN: Plan and film in batches] 'Most agents wing it. Top producers plan ahead.' [ON-SCREEN: Top producers plan ahead]\",\n    \"REFRAME/APPLICATION\": \"This matters because consistency is key. You can start building your video bank today. Sarah's approach helped her team stay consistent even during unexpected events.\",\n    \"CTA\": \"Do you have a backup system in place — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your content strategy one emergency away from failure? Backup systems are key!\",\n  \"HASHTAGS\": [\"#ContentStrategy\", \"#RealEstateTips\", \"#VideoMarketing\", \"#BackupPlan\", \"#Consistency\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents wing it. Top producers plan ahead.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "07:00",
+      "end_timestamp": "07:40",
+      "quote": "Always have two to three fully edited videos ready to post before you need them.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a practical tip for maintaining content consistency.",
+      "suggested_hook": "Here's how to never miss a YouTube post again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Here's how to never miss a YouTube post again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ever feel like you're scrambling to post content on time? Sarah Maslowski knows the struggle. You're juggling listings, clients, and suddenly realize—no video for today. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah says, 'Always have two to three fully edited videos ready to post before you need them.' [ON-SCREEN: 2-3 Videos Ready] This isn't just about planning; it's about peace of mind. Most agents wait until the last minute. Top producers build a video bank. [ON-SCREEN: Build a Video Bank]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Consistency builds trust. You can start today by filming extra content this weekend. Sarah's approach helped her close 47 deals last year. [ON-SCREEN: Consistency Builds Trust]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Never miss a YouTube post again with this simple tip from Sarah Maslowski!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ContentCreation\", \"#YouTubeStrategy\", \"#AgentAdvice\", \"#VideoMarketing\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Always have two to three fully edited videos ready to post before you need them.\"\n}\n```"
+  }
+]
