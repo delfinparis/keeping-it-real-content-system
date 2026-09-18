@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": null,
+    "company": null,
+    "production_level": "$65M producer",
+    "specialty": "YouTube lead generation",
+    "location": null
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Consistency and perseverance in content creation",
+    "The importance of video editing and presentation",
+    "Client relationships from YouTube leads",
+    "Avoiding shiny object syndrome in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from YouTube videos",
+      "solution_summary": "Consistently produce and publish videos, even if initial results are slow.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Managing time effectively while creating content",
+      "solution_summary": "Hire an editor to handle video editing to focus on content creation.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated despite slow initial results",
+      "solution_summary": "Commit to a timeline (e.g., three months) before evaluating success.",
+      "timestamp": "00:09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights into scaling up lead generation through YouTube.",
+      "key_takeaway": "Consistency and patience in video content creation can lead to significant business growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:13",
+      "quote": "This agent made YouTube videos for two years before she closed her first deal from the channel.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the importance of perseverance in content creation.",
+      "suggested_hook": "Ever wondered how long it takes for YouTube to pay off in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hire a video editor",
+      "context": "To maintain consistency and quality in video production without being overwhelmed.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "tactic": "Use a scheduling tool for client meetings",
+      "context": "To efficiently manage time and appointments with potential leads.",
+      "timestamp": "00:33:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your first videos are going to suck. You're going to get no views. And that's still okay."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for lead conversion and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her journey of leveraging YouTube for real estate lead generation, emphasizing the importance of consistency and patience. She discusses the challenges and strategies of video content creation, including hiring an editor and using scheduling tools to manage client interactions effectively.",
+  "_metadata": {
+    "source_file": "2026-09-16_item2_Sarah-Maslowski",
+    "analyzed_at": "2026-09-18T09:12:36.101638",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Wands",
+    "title": "Founder of the Wands Team",
+    "company": "Douglas Elliman",
+    "production_level": "Over a billion in sales",
+    "specialty": "Luxury real estate",
+    "location": "Miami, Florida"
+  },
+  "main_topics": [
+    "Importance of rentals in luxury real estate",
+    "Building and managing a successful real estate team",
+    "Leveraging AI and technology in real estate",
+    "Work-life balance in a demanding industry",
+    "Networking and client relationship management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from small rental deals",
+      "solution_summary": "Treat every transaction, including rentals, as an opportunity to build relationships that can lead to larger deals.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling discouraged by small commissions",
+      "solution_summary": "Focus on the long-term potential of small deals, as they can lead to significant future opportunities.",
+      "timestamp": "00:00:18"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a real estate team effectively",
+      "solution_summary": "Ensure infrastructure is in place before expanding the team to maintain efficiency and quality.",
+      "timestamp": "00:43:12"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into how small deals can lead to big opportunities and the importance of hard work.",
+      "key_takeaway": "Every transaction is an opportunity; treat small deals with the same importance as large ones."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Chris discusses strategies for building and managing a successful real estate team.",
+      "key_takeaway": "Ensure your team has the necessary infrastructure before scaling to maintain quality and efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:13",
+      "end_timestamp": "00:00:22",
+      "quote": "He'll show you how a thousand dollar rental turns into a twenty million dollar buyer.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It highlights the potential of small deals leading to significant opportunities.",
+      "suggested_hook": "Discover how small deals can lead to big opportunities in real estate."
+    },
+    {
+      "timestamp": "00:14:14",
+      "end_timestamp": "00:14:18",
+      "quote": "If you do good enough on your job, money will become a byproduct of it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages a focus on quality work rather than immediate financial gain.",
+      "suggested_hook": "Focus on quality work, and the money will follow."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to maintain client relationships.",
+      "context": "Engage with clients by commenting on their posts and sharing relevant content.",
+      "timestamp": "01:02:00"
+    },
+    {
+      "tactic": "Set reminders for lease renewals.",
+      "context": "Contact clients 60 days before their lease ends to discuss renewal or buying options.",
+      "timestamp": "01:04:55"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate is a contact sport; every interaction is an opportunity.",
+    "Luxury is not defined by price but by the quality of experience you provide."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Close CRM",
+      "context": "Recommended for its efficient interface and ability to manage contacts effectively."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Wands shares his journey from handling small rental deals to leading a top-performing luxury real estate team. He emphasizes the importance of treating every transaction as an opportunity, leveraging technology like CRM systems, and maintaining a work-life balance. Chris also provides insights into building a successful team and the long-term value of small deals.",
+  "_metadata": {
+    "source_file": "2026-08-27_item6_Chris-Wands",
+    "analyzed_at": "2026-09-18T09:09:28.659336",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

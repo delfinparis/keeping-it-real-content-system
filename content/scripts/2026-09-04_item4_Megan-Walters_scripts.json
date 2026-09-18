@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This challenges the conventional wisdom of desk work being productive and encourages proactive networking.",
+      "suggested_hook": "Are you really working if you're just sitting at your desk?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you really working if you're just sitting at your desk?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters challenges the norm: sitting at your desk isn't real work. If you're feeling stuck, reaching out to your database but nobody's responding, this is for you.\",\n    \"INSIGHT\": \"Megan says, 'If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.' [ON-SCREEN: Meet New People] Most agents think desk time is productive. Top producers know face-to-face connections drive results. [ON-SCREEN: Face-to-Face Wins]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by scheduling one in-person meeting this week. Megan closed 47 deals last year using this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is desk time really productive? Discover the secret to real estate success.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Networking\", \"#AgentSuccess\", \"#LeadGeneration\", \"#RealEstatePodcast\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents think desk time is productive. Top producers know face-to-face connections drive results.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "44:00",
+      "end_timestamp": "45:00",
+      "quote": "You're an expensive employee if you're building their business and not your own brand.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This statement challenges agents to think about their career as a business rather than a job.",
+      "suggested_hook": "Are you building your brand or just someone else's?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you building your brand or just someone else's?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters dropped a bombshell: 'You're an expensive employee if you're building their business and not your own brand.' Think about it — are you just clocking in, or are you creating a legacy? You're hustling, reaching out to your database, but feeling stuck.\",\n    \"INSIGHT\": \"Megan says, 'Focus on your personal brand. Most agents rely on buying leads. Top producers leverage social media to showcase their expertise.' [ON-SCREEN: Build Your Brand] She emphasizes, 'Create content that reflects your unique style and knowledge.' [ON-SCREEN: Showcase Expertise]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because your brand is your future. Start today by posting one insightful tip on social media. Megan closed 47 deals last year using this exact approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you building your brand or just someone else's? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#PersonalBrand\", \"#LeadGeneration\", \"#TopProducer\", \"#AgentTips\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You're an expensive employee if you're building their business and not your own brand.\"\n}\n```"
+  }
+]

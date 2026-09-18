@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:19:02",
+      "end_timestamp": "00:19:28",
+      "quote": "These two account for almost five million in deal transaction volume, but when you add them together, that is insane.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the significant impact of AI on lead generation.",
+      "suggested_hook": "Discover how AI generated $5 million in real estate deals!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Discover how AI generated $5 million in real estate deals!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black shared a jaw-dropping stat on our podcast. You're hustling for leads, but imagine AI doing the heavy lifting for you. It's a game-changer.\",\n    \"INSIGHT\": \"Justin revealed, 'These two account for almost five million in deal transaction volume.' [ON-SCREEN: $5M in deals] AI isn't just a buzzword—it's transforming lead generation. Most agents struggle with cold calls. Top producers leverage AI to automate and optimize their outreach. [ON-SCREEN: AI for lead gen]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? AI can revolutionize your lead strategy today. Implement these tools and watch your pipeline grow. [ON-SCREEN: Implement AI today]\",\n    \"CTA\": \"Are you using AI for leads yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI isn't just a buzzword—it's transforming real estate lead generation. Are you in?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#LeadGeneration\", \"#RealEstateTips\", \"#AIinRealEstate\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI isn't just a buzzword—it's transforming lead generation.\"\n}\n```"
+  }
+]

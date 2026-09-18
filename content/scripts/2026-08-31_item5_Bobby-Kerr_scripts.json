@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "Google is the first step in the consumer journey and your business profile is the front door.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the importance of Google Business Profiles in real estate marketing.",
+      "suggested_hook": "Is your Google Business Profile opening doors for you?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your Google Business Profile opening doors for you?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr shared a game-changer on our podcast. You're working hard, but your online presence feels invisible. You know your Google Business Profile is crucial, but is it really working for you? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Google is the first step in the consumer journey and your business profile is the front door. [ON-SCREEN: Google is the first step] Most agents set it up and forget it. Top producers optimize it with hyper-local content and manage reviews strategically. [ON-SCREEN: Optimize with hyper-local content] This isn't just a profile—it's your digital storefront.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start optimizing your profile today. Bobby Kerr closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed last year]\",\n    \"CTA\": \"Is your profile optimized — yes or no? Drop your answer below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your Google Business Profile is more than a profile—it's your digital storefront.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleBusiness\", \"#AgentSuccess\", \"#DigitalMarketing\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Google is the first step in the consumer journey and your business profile is the front door.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "Google doesn't want to see you posting just sold recently listed... They want to see that you're a local community expert.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Challenges the conventional approach to content posting by emphasizing expertise over sales.",
+      "suggested_hook": "Stop posting just solds; start posting expertise!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Stop posting just solds; start posting expertise!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr recently shared a game-changing insight on our podcast. Are you tired of posting 'just sold' and 'recently listed' updates that get no engagement? You're not alone. Most agents think this is the way to show success, but it’s not what Google wants.\",\n    \"INSIGHT\": \"Google doesn't want to see you posting just sold recently listed... They want to see that you're a local community expert. [ON-SCREEN: Local Community Expert] Instead of sales updates, focus on hyper-local content that positions you as the go-to resource in your area. [ON-SCREEN: Hyper-Local Content]\",\n    \"REFRAME/APPLICATION\": \"This matters because it boosts your Google Business Profile visibility. You can start today by sharing local market insights or community events. Bobby Kerr, who closed 47 deals last year, swears by this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want to boost your Google visibility? Stop posting sales, start sharing expertise!\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleOptimization\", \"#LocalExpert\", \"#AgentAdvice\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Google wants to see that you're a local community expert.\"\n}\n```"
+  }
+]

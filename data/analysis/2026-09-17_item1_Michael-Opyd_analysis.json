@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": "Not explicitly mentioned",
+    "production_level": "Brokerage owner running over $200 million in annual sales",
+    "specialty": "High performance coaching for real estate agents",
+    "location": "Not explicitly mentioned"
+  },
+  "main_topics": [
+    "Scalability in real estate business",
+    "Time management and productivity",
+    "Building and maintaining client relationships",
+    "Overcoming personal and professional challenges",
+    "Leveraging personal strengths in business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing multiple commitments and scaling business",
+      "solution_summary": "Evaluate current commitments and prioritize activities that align with long-term goals.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Struggling to scale due to personal inhibitions",
+      "solution_summary": "Focus on authentic actions that align with personal strengths and values.",
+      "timestamp": "47:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "David is an agent with several years of experience looking to scale his business.",
+      "key_takeaway": "Identify and focus on activities that align with your strengths and long-term goals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "47:00",
+      "end_timestamp": "48:00",
+      "quote": "If it's authentic to you, things will work out.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on authenticity in their business approach.",
+      "suggested_hook": "Are you struggling to find your path in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Automate follow-up processes",
+      "context": "Use CRM systems to maintain consistent communication with clients.",
+      "timestamp": "23:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem. It has a you problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches REALTOR David Farrell on overcoming personal and professional challenges to scale his business. They discuss the importance of aligning business activities with personal strengths and values, and the role of time management in achieving long-term goals. Michael emphasizes the need for authenticity and strategic focus in building a successful real estate career.",
+  "_metadata": {
+    "source_file": "2026-09-17_item1_Michael-Opyd",
+    "analyzed_at": "2026-09-18T09:13:23.908806",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

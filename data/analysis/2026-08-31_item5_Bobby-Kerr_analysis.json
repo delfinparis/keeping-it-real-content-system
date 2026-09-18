@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Bobby Kerr",
+    "title": "Founder",
+    "company": "Locate My Business",
+    "production_level": null,
+    "specialty": "Google Business Profile Optimization",
+    "location": "US and Canada"
+  },
+  "main_topics": [
+    "Google Business Profile Optimization",
+    "Importance of Hyper-Local Content",
+    "Review Management Strategies",
+    "AI and Large Language Models in Real Estate",
+    "Effective Content Posting on Google"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not optimizing their Google Business Profile",
+      "solution_summary": "Optimize Google Business Profile with hyper-local content and consistent updates to improve visibility and lead generation.",
+      "timestamp": "03:05"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding the impact of AI on real estate searches",
+      "solution_summary": "Leverage AI by ensuring Google Business Profiles are optimized as AI tools pull data from these profiles.",
+      "timestamp": "09:11"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic content not standing out",
+      "solution_summary": "Create non-commoditized, hyper-local content that positions agents as community experts.",
+      "timestamp": "20:28"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may not be fully utilizing Google Business Profiles to their advantage.",
+      "key_takeaway": "Focus on creating hyper-local content and optimizing Google Business Profiles to stand out in search results."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Top producers can gain a competitive edge by leveraging Google Business Profiles effectively.",
+      "key_takeaway": "Consistently update your Google Business Profile with relevant content to maintain visibility and attract more clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "08:45",
+      "quote": "Google is the first step in the consumer journey and your business profile is the front door.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the importance of Google Business Profiles in real estate marketing.",
+      "suggested_hook": "Is your Google Business Profile opening doors for you?"
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "Google doesn't want to see you posting just sold recently listed... They want to see that you're a local community expert.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Challenges the conventional approach to content posting by emphasizing expertise over sales.",
+      "suggested_hook": "Stop posting just solds; start posting expertise!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Post hyper-local content on Google Business Profile",
+      "context": "Use question and answer format to address specific local queries.",
+      "timestamp": "38:01"
+    },
+    {
+      "tactic": "Request reviews at the closing table",
+      "context": "Use a QR code to make it easy for clients to leave detailed reviews.",
+      "timestamp": "52:54"
+    }
+  ],
+  "quotable_insights": [
+    "Google is the first step in the consumer journey and your business profile is the front door.",
+    "The more niche and specific you are as an agent, the more likely you are to succeed."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Locate My Business",
+      "context": "Bobby Kerr's company that specializes in Google Business Profile optimization."
+    }
+  ],
+  "episode_summary": "In this episode, Bobby Kerr discusses the critical importance of optimizing Google Business Profiles for real estate agents. He emphasizes the need for hyper-local content and consistent updates to improve visibility in search results, especially with the rise of AI tools. Bobby provides actionable strategies for review management and content creation, positioning agents as community experts.",
+  "_metadata": {
+    "source_file": "2026-08-31_item5_Bobby-Kerr",
+    "analyzed_at": "2026-09-18T09:10:08.705812",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

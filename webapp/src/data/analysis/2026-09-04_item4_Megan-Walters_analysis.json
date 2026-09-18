@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Megan Walters",
+    "title": "Real Estate Investor and Educator",
+    "company": "Walters Team at eXp",
+    "production_level": "Top 1% of agents nationwide",
+    "specialty": "Real estate investment and education",
+    "location": "Columbia, Missouri"
+  },
+  "main_topics": [
+    "Lead generation without buying leads",
+    "Building a personal brand in real estate",
+    "Effective use of social media for real estate",
+    "Time management and productivity strategies",
+    "Investment in real estate properties"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without buying them or cold calling",
+      "solution_summary": "Megan uses social media, networking at local events, and providing value to FSBO and expired listings through personalized packets.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand separate from brokerage",
+      "solution_summary": "Megan emphasizes self-branding and using social media to promote her own name rather than relying on brokerage branding.",
+      "timestamp": "44:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing productivity in real estate",
+      "solution_summary": "Megan starts her day early, completes CRM tasks before 8 AM, and schedules her day to balance personal and professional responsibilities.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for generating leads and building a brand without relying on traditional methods.",
+      "key_takeaway": "Focus on building a personal brand and using social media effectively to generate leads."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Megan shares actionable tactics for new agents to start generating business without a large budget.",
+      "key_takeaway": "Use free resources like social media and networking to build your business from the ground up."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This challenges the conventional wisdom of desk work being productive and encourages proactive networking.",
+      "suggested_hook": "Are you really working if you're just sitting at your desk?"
+    },
+    {
+      "timestamp": "44:00",
+      "end_timestamp": "45:00",
+      "quote": "You're an expensive employee if you're building their business and not your own brand.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This statement challenges agents to think about their career as a business rather than a job.",
+      "suggested_hook": "Are you building your brand or just someone else's?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Drop off personalized packets to FSBO and expired listings.",
+      "context": "Use this tactic to provide value and stand out from other agents.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Use social media daily to post short-form videos.",
+      "context": "Engage with both your network and potential clients by consistently providing valuable content.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "Let them talk because it means that they're actually talking about you.",
+    "As you climb that ladder, the people that used to be cheering for you are going to be the ones that try and pull you down."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Megan Walters shares her journey from a new agent to a top producer without buying leads or cold calling. She emphasizes the importance of building a personal brand, leveraging social media, and using innovative lead generation tactics. Megan also discusses time management strategies and her approach to real estate investment.",
+  "_metadata": {
+    "source_file": "2026-09-04_item4_Megan-Walters",
+    "analyzed_at": "2026-09-18T09:10:58.177042",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
