@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Gwen Snyder",
+    "title": "Luxury Real Estate Agent",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "Sold half a billion dollars",
+    "specialty": "Colorado luxury real estate",
+    "location": "Greenwood Village, Colorado"
+  },
+  "main_topics": [
+    "Building a referable real estate business",
+    "Importance of follow-up in client management",
+    "Marketing strategies for luxury listings",
+    "Networking and relationship building",
+    "Challenges and mindset in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "85% of agents never follow up with clients post-closing",
+      "solution_summary": "Consistent follow-up and relationship building to ensure referrals",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without cold calling",
+      "solution_summary": "Focus on relationship building and meeting new people regularly",
+      "timestamp": "00:04:52"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Luxury real estate misconceptions",
+      "solution_summary": "Understanding the high level of service and attention required in luxury markets",
+      "timestamp": "00:30:42"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a high-volume referral-based business",
+      "key_takeaway": "Focus on being of service and building strong relationships to drive referrals"
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers strategies for lead generation without cold calling",
+      "key_takeaway": "Meet one new person a week to build your network and potential client base"
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:01",
+      "end_timestamp": "00:05:30",
+      "quote": "I would rather lick a cat's vomit than ever cold call because it's not authentic to me.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a humorous and relatable take on cold calling that many agents might resonate with.",
+      "suggested_hook": "Why cold calling might not be the best strategy for everyone."
+    },
+    {
+      "timestamp": "00:09:01",
+      "end_timestamp": "00:09:30",
+      "quote": "Think of things that my clients might ask or request before they know to ask or request it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a proactive approach to client service that can set agents apart.",
+      "suggested_hook": "How to anticipate your clients' needs before they even ask."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Meet 60 new people a year to expand your network.",
+      "context": "Aim to meet one new person a week to build relationships and potential leads.",
+      "timestamp": "00:18:47"
+    },
+    {
+      "tactic": "Use high-end photography and video for listings.",
+      "context": "Ensure listings stand out by investing in quality visuals and marketing.",
+      "timestamp": "00:15:14"
+    }
+  ],
+  "quotable_insights": [
+    "Being of service is the key to becoming a referable agent.",
+    "If you're not early, you're late."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "Gwen Snyder shares her approach to building a successful luxury real estate business without cold calling, focusing on relationship building and client service. She emphasizes the importance of follow-up, proactive client management, and high-quality marketing to drive referrals and maintain a strong presence in the competitive luxury market.",
+  "_metadata": {
+    "source_file": "2026-08-13_item9_Gwen-Snyder",
+    "analyzed_at": "2026-09-19T08:55:28.549057",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

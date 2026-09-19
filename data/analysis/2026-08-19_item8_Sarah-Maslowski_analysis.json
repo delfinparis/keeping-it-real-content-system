@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube-based real estate sales",
+    "location": null
+  },
+  "main_topics": [
+    "YouTube content consistency",
+    "Content planning and filming",
+    "Backup systems for content production",
+    "Building a video bank",
+    "Working with video editors"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Single point of failure in content production",
+      "solution_summary": "Identify a backup editor and maintain a video bank to ensure continuity.",
+      "timestamp": "04:32"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing content planning and filming",
+      "solution_summary": "Separate content planning and filming into different weeks and protect these time blocks.",
+      "timestamp": "08:45"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Maintaining YouTube channel consistency",
+      "solution_summary": "Work two weeks ahead and have fully edited videos ready to post.",
+      "timestamp": "07:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for leveraging YouTube to close significant real estate sales.",
+      "key_takeaway": "Consistency and systematization in content production are key to building trust and generating leads."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers a structured approach to starting and maintaining a YouTube channel.",
+      "key_takeaway": "Start with a video bank and plan content in advance to avoid stress and maintain consistency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:09",
+      "end_timestamp": "00:09:00",
+      "quote": "I missed a week of posting a video...consistency is everything.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of consistency and personal vulnerability.",
+      "suggested_hook": "Why missing just one week on YouTube can cost you big time."
+    },
+    {
+      "timestamp": "00:12:28",
+      "end_timestamp": "00:13:03",
+      "quote": "The cleaner you're hand off to your editor, the faster and the better your edits will be.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific tactic for improving video production efficiency.",
+      "suggested_hook": "How to streamline your video editing process for better results."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Maintain a video bank of 2-3 fully edited videos.",
+      "context": "To ensure you have content ready in case of emergencies.",
+      "timestamp": "07:00"
+    },
+    {
+      "tactic": "Use a two-week rotating cycle for content planning and filming.",
+      "context": "To separate the mental tasks and maintain energy and quality.",
+      "timestamp": "08:45"
+    },
+    {
+      "tactic": "Identify and brief a backup editor.",
+      "context": "To avoid disruptions if your primary editor is unavailable.",
+      "timestamp": "04:32"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency on YouTube is not just a best practice; it is one of your most valuable assets.",
+    "The channels that outlast everyone else are the ones built on discipline, not on motivation."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her insights on maintaining consistency in YouTube content production for real estate agents. She emphasizes the importance of having backup systems, such as a video bank and a secondary editor, to ensure uninterrupted content flow. Sarah also provides a structured approach to content planning and filming, highlighting the significance of discipline over motivation in sustaining a successful YouTube channel.",
+  "_metadata": {
+    "source_file": "2026-08-19_item8_Sarah-Maslowski",
+    "analyzed_at": "2026-09-19T08:56:02.616628",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
