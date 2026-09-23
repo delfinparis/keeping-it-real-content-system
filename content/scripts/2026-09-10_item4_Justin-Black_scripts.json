@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:20:10",
+      "end_timestamp": "00:20:37",
+      "quote": "I was completely in shock because I didn't know people were using AI to find brokers and then signing with them.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the unexpected power of AI in generating high-value real estate leads.",
+      "suggested_hook": "Are luxury clients really using AI to find their next REALTOR?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are luxury clients really using AI to find their next REALTOR?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black was shocked to discover clients using AI to choose brokers. Imagine reaching out to potential leads, but they're already signing with someone else—thanks to AI.\",\n    \"INSIGHT\": \"Justin said, 'I was completely in shock because I didn't know people were using AI to find brokers and then signing with them.' [ON-SCREEN: AI finds brokers] This isn't just for tech-savvy clients; it's happening across the board. Most agents rely on traditional methods. Top producers are leveraging AI to capture high-value leads. [ON-SCREEN: High-value leads]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? AI is transforming lead generation. You can start today by optimizing your website for AI. Justin's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already—yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI is changing how luxury clients find REALTORS. Are you keeping up?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#LeadGeneration\", \"#RealEstateTips\", \"#AIinRealEstate\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on traditional methods. Top producers are leveraging AI to capture high-value leads.\"\n}\n```"
+  }
+]

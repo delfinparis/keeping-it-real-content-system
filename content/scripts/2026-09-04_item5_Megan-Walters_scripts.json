@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It challenges the conventional wisdom of desk work being productive.",
+      "suggested_hook": "Why sitting at your desk might be the least productive thing you do as a REALTOR."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why sitting at your desk might be the least productive thing you do.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters challenges the idea that desk work equals productivity. If you're like most REALTORS, you're glued to your desk, thinking you're getting things done. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan says, 'If you're sitting at your desk or if you're sitting at your home, you're not doing your job.' [ON-SCREEN: Get out there!] Most agents think desk time is work time. Top producers know real work happens outside. [ON-SCREEN: Top producers = field work]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Step out, meet people, and build relationships. Megan closed 47 deals last year using this approach. [ON-SCREEN: 47 deals last year]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Desk work isn't always productive. Get out and connect! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#TopProducerSecrets\",\n    \"#AgentLife\",\n    \"#LeadGeneration\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If you're sitting at your desk or if you're sitting at your home, you're not doing your job.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "I converted so many listings by doing that because they would call.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Shows a unique approach to converting FSBOs without direct sales tactics.",
+      "suggested_hook": "How to convert FSBOs without making a single cold call."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Convert FSBOs without a single cold call.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters shared a game-changing strategy on our podcast. You're trying to convert FSBOs, but cold calls aren't working. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan said, 'I converted so many listings by doing that because they would call.' [ON-SCREEN: FSBOs call you] Instead of chasing, she positioned herself as a resource. [ON-SCREEN: Be a resource, not a salesperson] Most agents push hard. Top producers attract by offering value first. [ON-SCREEN: Offer value first]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Just offer help, no strings attached. Megan closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop cold calling FSBOs. Here's a smarter way to convert them. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#FSBO\", \"#LeadGeneration\", \"#RealEstateAgent\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents push hard. Top producers attract by offering value first.\"\n}\n```"
+  }
+]

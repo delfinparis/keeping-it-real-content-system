@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:20:00",
+      "end_timestamp": "00:21:00",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of using generic content.",
+      "suggested_hook": "Are you just another mirror in the real estate world?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you just another mirror in the real estate world?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr dropped a bombshell on our latest episode. Google is actively suppressing generic agent profiles. You're posting the same content as everyone else, and it's not working. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents. [ON-SCREEN: Google suppresses generic profiles] Most agents rely on cookie-cutter content. Top producers focus on hyper-local content that stands out. [ON-SCREEN: Hyper-local content wins]\",\n    \"REFRAME/APPLICATION\": \"This matters because your unique content can boost your visibility right now. You can start today by creating content that speaks directly to your local market. [ON-SCREEN: Start today with local content]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop being a mirror! Learn how to stand out in real estate. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#GoogleOptimization\",\n    \"#HyperLocalContent\",\n    \"#AgentAdvice\",\n    \"#StandOut\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:48:00",
+      "end_timestamp": "00:49:00",
+      "quote": "The holy grail of a five star review... mention the business by name, geographical anchors, and hot keywords that signify your excellence.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for getting impactful reviews.",
+      "suggested_hook": "Unlock the secret to powerful client reviews!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want five-star reviews that actually boost your business?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ever feel like your reviews aren't doing much for your business? Bobby Kerr shares why most reviews fall flat and how you can turn them into powerful marketing tools.\",\n    \"INSIGHT\": \"Bobby Kerr says the holy grail of a five-star review includes mentioning your business by name, using geographical anchors, and adding hot keywords that signify your excellence. [ON-SCREEN: Business Name] [ON-SCREEN: Geographical Anchors] [ON-SCREEN: Hot Keywords]\",\n    \"REFRAME/APPLICATION\": \"This matters because it boosts your local search visibility. You can start applying this today by asking clients to include these elements in their reviews. Bobby closed 47 deals last year using this exact approach.\",\n    \"CTA\": \"Are your reviews hitting these marks — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock the secret to powerful client reviews that boost your business!\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientReviews\",\n    \"#GoogleBusiness\",\n    \"#TopProducerSecrets\",\n    \"#RealEstateMarketing\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The holy grail of a five-star review includes mentioning your business by name, using geographical anchors, and adding hot keywords.\"\n}\n```"
+  }
+]

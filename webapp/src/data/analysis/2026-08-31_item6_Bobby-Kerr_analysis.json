@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Bobby Kerr",
+    "title": "Founder",
+    "company": "Locate",
+    "production_level": null,
+    "specialty": "Google Business Profile Optimization",
+    "location": "US and Canada"
+  },
+  "main_topics": [
+    "Google Business Profile Optimization",
+    "Importance of Hyper-Local Content",
+    "Strategies for Getting Reviews",
+    "Leveraging AI and LLMs for Real Estate",
+    "Content Creation for Real Estate Agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not appearing in local searches",
+      "solution_summary": "Optimize Google Business Profile with hyper-local content and consistent updates.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic content leading to poor visibility",
+      "solution_summary": "Create non-commoditized, hyper-local content that positions the agent as a community expert.",
+      "timestamp": "00:20:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Getting meaningful client reviews",
+      "solution_summary": "Coach clients to leave detailed reviews mentioning specific services and geographical details.",
+      "timestamp": "00:48:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to dominate local search results and increase visibility.",
+      "key_takeaway": "Optimize your Google Business Profile with hyper-local content and actively manage reviews to stand out."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers actionable steps to improve online presence and attract more clients.",
+      "key_takeaway": "Focus on creating unique, local content and gathering detailed client reviews."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:20:00",
+      "end_timestamp": "00:21:00",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of using generic content.",
+      "suggested_hook": "Are you just another mirror in the real estate world?"
+    },
+    {
+      "timestamp": "00:48:00",
+      "end_timestamp": "00:49:00",
+      "quote": "The holy grail of a five star review... mention the business by name, geographical anchors, and hot keywords that signify your excellence.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for getting impactful reviews.",
+      "suggested_hook": "Unlock the secret to powerful client reviews!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use question and answer format for posts.",
+      "context": "To align with searcher intent and improve profile visibility.",
+      "timestamp": "00:38:00"
+    },
+    {
+      "tactic": "Request reviews at the closing table with a QR code.",
+      "context": "Capture client satisfaction at the peak moment.",
+      "timestamp": "00:52:00"
+    }
+  ],
+  "quotable_insights": [
+    "Google is the first step in the consumer journey and your business profile is the front door.",
+    "If you're not active on your Google profile, Google views your business as a dying or dead business."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "For converting leads and managing client relationships."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For recruiting and retention using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Bobby Kerr discusses the critical importance of optimizing Google Business Profiles for real estate agents. He provides actionable strategies for creating hyper-local content, gathering impactful client reviews, and leveraging AI tools to enhance visibility and lead generation. Agents are encouraged to focus on unique, community-focused content to stand out in a crowded market.",
+  "_metadata": {
+    "source_file": "2026-08-31_item6_Bobby-Kerr",
+    "analyzed_at": "2026-09-23T09:29:15.366262",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

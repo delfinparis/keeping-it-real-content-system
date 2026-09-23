@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "Megan Walters",
+    "title": "REALTOR, Real Estate Investor, Educator",
+    "company": "Walters Team at eXp",
+    "production_level": "Top 1% of agents nationwide",
+    "specialty": "Real Estate Investment and Education",
+    "location": "Columbia, Missouri"
+  },
+  "main_topics": [
+    "Lead Generation without Buying Leads",
+    "Building a Personal Brand",
+    "Time Management and Productivity",
+    "Real Estate Investment Strategies",
+    "Social Media Marketing for REALTORS"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without buying them or cold calling",
+      "solution_summary": "Engage with people in public spaces like coffee shops and use social media to build a presence.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing productivity without sitting at a desk all day",
+      "solution_summary": "Start early, complete CRM tasks before 8 AM, and use public spaces for work to meet potential clients.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand independent of brokerage",
+      "solution_summary": "Focus on self-branding and use social media to showcase personal expertise and listings.",
+      "timestamp": "44:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Investing in real estate with limited initial capital",
+      "solution_summary": "Start with a property that requires a low down payment, improve it, and use the equity to invest further.",
+      "timestamp": "46:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "The episode provides strategies for generating leads without a large budget.",
+      "key_takeaway": "Use free methods like social media and networking to build your client base."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Megan shares how she achieved top producer status without traditional lead buying.",
+      "key_takeaway": "Consistency in social media and personal branding can lead to high production levels."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It challenges the conventional wisdom of desk work being productive.",
+      "suggested_hook": "Why sitting at your desk might be the least productive thing you do as a REALTOR."
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "I converted so many listings by doing that because they would call.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Shows a unique approach to converting FSBOs without direct sales tactics.",
+      "suggested_hook": "How to convert FSBOs without making a single cold call."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use public spaces for work to meet potential clients.",
+      "context": "Instead of working from home or the office, work in coffee shops to engage with the community.",
+      "timestamp": "07:00"
+    },
+    {
+      "tactic": "Create and distribute value packets to FSBOs.",
+      "context": "Drop off informational packets with resources and your contact info at FSBO properties.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Post daily short-form videos on social media.",
+      "context": "Consistently share content that answers client questions or showcases local businesses.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "Let them talk because it means that they're actually talking about you.",
+    "You're not doing anything wrong. You're keeping your integrity."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used to create marketing materials for FSBO packets."
+    }
+  ],
+  "episode_summary": "Megan Walters shares her journey to becoming a top 1% REALTOR without buying leads or cold calling. She emphasizes the importance of personal branding, social media marketing, and using public spaces to generate leads. Megan also discusses her real estate investment strategies and how she manages productivity by starting her day early.",
+  "_metadata": {
+    "source_file": "2026-09-04_item5_Megan-Walters",
+    "analyzed_at": "2026-09-23T09:29:47.613412",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

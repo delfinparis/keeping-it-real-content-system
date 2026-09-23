@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Chris Wolfe",
+    "title": "Real Estate Agent",
+    "company": "Not specified",
+    "production_level": "Top producer, $1M in net commission",
+    "specialty": "Luxury real estate",
+    "location": "El Dorado Hills, California"
+  },
+  "main_topics": [
+    "Transition from house flipping to real estate sales",
+    "Cold calling and open houses as lead generation strategies",
+    "Building a real estate business from scratch in a new market",
+    "Time management and daily routines for productivity",
+    "Using technology and systems to support real estate business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market without a sphere of influence",
+      "solution_summary": "Focused on cold calling and hosting open houses to meet potential clients and generate leads.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Staying organized and consistent with daily tasks",
+      "solution_summary": "Developed a software tool called Activate Daily to track and manage daily critical tasks.",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Chris started from scratch in a new market and succeeded quickly, offering a roadmap for new agents.",
+      "key_takeaway": "Focus on consistent lead generation activities like cold calling and open houses to build your business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Chris doubled his commission in his second year, demonstrating effective strategies for rapid growth.",
+      "key_takeaway": "Implement systems and focus on high-impact activities to scale your real estate business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just remember thinking like, man, I could sell a house like in my town, and make 30,000 with zero risk.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the realization that led to a career pivot and underscores the potential of real estate sales.",
+      "suggested_hook": "Why one real estate agent left house flipping for a more stable income."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Cold calling expired listings and circle prospecting",
+      "context": "Use a friendly, disarming approach to engage potential clients and set meetings.",
+      "timestamp": "14:00"
+    },
+    {
+      "tactic": "Conducting open houses to meet active buyers",
+      "context": "Host open houses regularly to interact with potential buyers and generate immediate leads.",
+      "timestamp": "12:30"
+    }
+  ],
+  "quotable_insights": [
+    "The gift of desperation can drive you to succeed when you have no other options."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Activate Daily",
+      "context": "A software developed by Chris to track daily tasks and maintain productivity."
+    }
+  ],
+  "episode_summary": "Chris Wolfe shares his journey from a failed house flipping business to becoming a top-producing real estate agent in a new market. He emphasizes the importance of consistent lead generation through cold calling and open houses, and the role of systems like Activate Daily in maintaining productivity and focus. His story offers actionable insights for new and aspiring agents looking to build a successful real estate career.",
+  "_metadata": {
+    "source_file": "2026-09-22_item1_Chris-Wolfe",
+    "analyzed_at": "2026-09-23T09:33:11.568968",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": "Not specified",
+    "production_level": "Over $200 million in annual sales",
+    "specialty": "High performance coaching",
+    "location": "Chicago land area"
+  },
+  "main_topics": [
+    "Scalability in real estate",
+    "Time management and productivity",
+    "Building organic business through relationships",
+    "Balancing personal and professional commitments",
+    "Mindset and motivation for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing multiple commitments and scaling the business",
+      "solution_summary": "Prioritize activities that align with personal strengths and eliminate or reduce time spent on less impactful tasks.",
+      "timestamp": "40:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Struggling to scale despite being highly active",
+      "solution_summary": "Focus on self-awareness and aligning business activities with personal strengths and interests.",
+      "timestamp": "47:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode is relevant for agents who are active but struggling to scale their business.",
+      "key_takeaway": "Align your business activities with your personal strengths and interests to achieve better results."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "49:00",
+      "end_timestamp": "50:00",
+      "quote": "Real estate is a marathon, not a sprint. You have to think long-term.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of patience and long-term thinking in real estate.",
+      "suggested_hook": "Are you treating your real estate career like a sprint? Here's why you should think long-term."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a CRM to automate follow-ups and maintain client relationships.",
+      "context": "To ensure consistent communication with clients and free up time for other activities.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem, it has a 'you' problem.",
+    "If you're going to try something, at least be excited about it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for identifying agents looking to move brokerages using AI."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches a real estate agent on how to scale his business while balancing multiple commitments. The discussion focuses on aligning business activities with personal strengths and interests, using tools like CRM for efficiency, and the importance of long-term thinking in real estate.",
+  "_metadata": {
+    "source_file": "2026-09-17_item2_Michael-Opyd",
+    "analyzed_at": "2026-09-23T09:32:17.840619",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

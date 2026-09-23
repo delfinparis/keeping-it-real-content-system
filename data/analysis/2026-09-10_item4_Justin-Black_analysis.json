@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Justin Black",
+    "title": "Real Estate Advisor",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "Top 0.75% of U.S. agents",
+    "specialty": "Luxury mountain market",
+    "location": "Breckenridge, Colorado"
+  },
+  "main_topics": [
+    "Using AI for lead generation",
+    "Building a website for SEO and AI optimization",
+    "Strategies for working with expired listings",
+    "Importance of content creation for real estate",
+    "Leveraging AI for business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a competitive market",
+      "solution_summary": "Use AI to optimize website content for SEO and AI search results, leading to increased visibility and leads.",
+      "timestamp": "00:03:04"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting expired listings into new business",
+      "solution_summary": "Send personalized, high-value packages to expired listings to stand out and provide value.",
+      "timestamp": "00:39:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced strategies for leveraging AI to gain a competitive edge in lead generation.",
+      "key_takeaway": "AI can be a powerful tool for generating high-value leads if used strategically."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers insights into using AI and content marketing to break through growth plateaus.",
+      "key_takeaway": "Consistent content creation and AI optimization can significantly boost visibility and lead flow."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:20:10",
+      "end_timestamp": "00:20:37",
+      "quote": "I was completely in shock because I didn't know people were using AI to find brokers and then signing with them.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the unexpected power of AI in generating high-value real estate leads.",
+      "suggested_hook": "Are luxury clients really using AI to find their next REALTOR?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create content based on common client questions and optimize for AI search.",
+      "context": "Use AI to identify frequently asked questions and write detailed articles addressing them.",
+      "timestamp": "00:15:04"
+    },
+    {
+      "tactic": "Use remarketing pixels to target website visitors with ads.",
+      "context": "Install pixels on your website to retarget visitors with specific ads on social media.",
+      "timestamp": "00:10:25"
+    }
+  ],
+  "quotable_insights": [
+    "AI can be a powerful tool for generating high-value leads if used strategically.",
+    "The goal is not just to have a website, but to have one that AI visits and ranks highly."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Justin Black shares how he uses AI to optimize his online presence and generate high-value real estate leads. He discusses the importance of creating content that answers common client questions and how to leverage AI for SEO. Justin also provides insights into working with expired listings by sending personalized, high-value packages to stand out in the market.",
+  "_metadata": {
+    "source_file": "2026-09-10_item4_Justin-Black",
+    "analyzed_at": "2026-09-23T09:30:46.883127",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
