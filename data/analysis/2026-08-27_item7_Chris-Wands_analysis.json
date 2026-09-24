@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Wands",
+    "title": "Founder",
+    "company": "The Wands Team at Douglas Elliman",
+    "production_level": "Over a billion in sales",
+    "specialty": "Luxury real estate",
+    "location": "Miami, Florida"
+  },
+  "main_topics": [
+    "Importance of rental transactions",
+    "Building a real estate team",
+    "Effective client management",
+    "Leveraging social media for business",
+    "Work-life balance in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents skipping small commission deals",
+      "solution_summary": "Treat every transaction equally as it could lead to larger opportunities.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a real estate team",
+      "solution_summary": "Ensure infrastructure is in place before scaling to manage growth effectively.",
+      "timestamp": "00:42:10"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client expectations with condo assessments",
+      "solution_summary": "Provide comprehensive information upfront and assess clients' risk tolerance.",
+      "timestamp": "00:35:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn the importance of starting with rentals and treating every deal with importance.",
+      "key_takeaway": "Small deals can lead to significant opportunities; focus on building relationships."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights on when and how to scale a team effectively.",
+      "key_takeaway": "Build a solid infrastructure before expanding your team to ensure sustainable growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:13",
+      "end_timestamp": "00:00:18",
+      "quote": "He'll show you how a thousand dollar rental turns into a twenty million dollar buyer.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It challenges the perception of small deals being insignificant.",
+      "suggested_hook": "Ever wondered how a small rental can lead to a massive sale?"
+    },
+    {
+      "timestamp": "00:39:03",
+      "end_timestamp": "00:39:09",
+      "quote": "If you do your job well, the money will become a byproduct of your success.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages focusing on quality service over immediate financial gain.",
+      "suggested_hook": "Focus on service, and watch the money follow."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media as a research tool to stay connected with clients.",
+      "context": "Monitor clients' life events and engage with them meaningfully.",
+      "timestamp": "01:02:00"
+    },
+    {
+      "tactic": "Set reminders for lease renewals to maintain client relationships.",
+      "context": "Reach out 60 days before lease renewal to discuss future plans.",
+      "timestamp": "01:04:57"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate is a contact sport; every interaction is an opportunity.",
+    "Luxury is not about the price tag; it's about the experience you provide."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Close CRM",
+      "context": "Recommended for its efficiency in managing client relationships."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Wands shares his journey from handling small rental deals to leading a top-producing luxury real estate team. He emphasizes the importance of treating every transaction with equal importance, leveraging social media to maintain client relationships, and ensuring proper infrastructure before scaling a team. Chris offers actionable insights for agents at all stages of their careers.",
+  "_metadata": {
+    "source_file": "2026-08-27_item7_Chris-Wands",
+    "analyzed_at": "2026-09-24T09:21:22.480431",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
