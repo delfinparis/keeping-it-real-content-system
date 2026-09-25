@@ -1,0 +1,72 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": "Not mentioned",
+    "production_level": "Over $200 million in annual sales",
+    "specialty": "High performance coaching",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Time management and productivity",
+    "Scaling a real estate business",
+    "Importance of consistency in follow-up",
+    "Balancing multiple commitments",
+    "Personal development and mindset"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing multiple commitments and finding time to scale the business",
+      "solution_summary": "Identify and reduce non-essential activities to focus on high-impact tasks.",
+      "timestamp": "39:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Struggling with the motivation to follow up consistently",
+      "solution_summary": "Align follow-up strategies with personal strengths and interests to maintain consistency.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode addresses the challenge of scaling a business while managing multiple responsibilities.",
+      "key_takeaway": "Focus on aligning business activities with personal strengths and reducing non-essential commitments."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "48:00",
+      "end_timestamp": "49:00",
+      "quote": "Real estate is a long-term game; it's a marathon, not a sprint.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common perception of quick success in real estate.",
+      "suggested_hook": "Are you treating your real estate career like a sprint or a marathon?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use CRM for automated follow-ups",
+      "context": "Automate routine follow-ups to maintain consistency without additional time investment.",
+      "timestamp": "23:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a 'you' problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd discusses the challenges of scaling a real estate business while managing multiple commitments. He emphasizes the importance of aligning business activities with personal strengths and reducing non-essential commitments to focus on high-impact tasks. The conversation provides insights into maintaining consistency in follow-up and the long-term mindset needed for success in real estate.",
+  "_metadata": {
+    "source_file": "2026-09-17_item3_Michael-Opyd",
+    "analyzed_at": "2026-09-25T09:46:57.083321",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

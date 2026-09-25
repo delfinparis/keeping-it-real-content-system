@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Bobby Kerr",
+    "title": "Founder",
+    "company": "Locate",
+    "production_level": null,
+    "specialty": "Google Business Profile Optimization",
+    "location": "US and Canada"
+  },
+  "main_topics": [
+    "Importance of Google Business Profiles",
+    "Optimizing Google Business Profiles",
+    "Generating and managing reviews",
+    "Hyper-local content creation",
+    "Impact of AI on real estate marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not appearing in local search results",
+      "solution_summary": "Optimize Google Business Profiles with hyper-local content and consistent activity to improve visibility.",
+      "timestamp": "03:14"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Handling negative reviews",
+      "solution_summary": "Address negative reviews publicly and politely, offering solutions and taking the conversation offline.",
+      "timestamp": "46:52"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic content on Google profiles",
+      "solution_summary": "Create non-commoditized, hyper-local content that answers specific questions potential clients might have.",
+      "timestamp": "38:01"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to enhance online presence and improve lead generation through Google Business Profiles.",
+      "key_takeaway": "Focus on optimizing your Google Business Profile with specific, hyper-local content to stand out in search results."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "19:04",
+      "end_timestamp": "19:39",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of using generic content, emphasizing the need for unique, local content.",
+      "suggested_hook": "Are you just another mirror in a sea of agents? Here's why Google might be ignoring you."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use question and answer format for posts",
+      "context": "To align with what people are searching for and improve relevance in search results.",
+      "timestamp": "38:01"
+    },
+    {
+      "tactic": "Request reviews at the closing table",
+      "context": "Capture reviews when clients are happiest to ensure detailed, positive feedback.",
+      "timestamp": "52:54"
+    }
+  ],
+  "quotable_insights": [
+    "Google is the first step in the consumer journey and your business profile is the front door."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Locate My Business",
+      "context": "Bobby Kerr's company that specializes in optimizing Google Business Profiles for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Bobby Kerr discusses the critical importance of optimizing Google Business Profiles for real estate agents. He provides actionable insights on creating hyper-local content, managing reviews, and leveraging AI to enhance visibility and lead generation. The episode emphasizes the shift from generic content to specific, community-focused strategies to stand out in search results.",
+  "_metadata": {
+    "source_file": "2026-08-31_item7_Bobby-Kerr",
+    "analyzed_at": "2026-09-25T09:43:57.697364",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

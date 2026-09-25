@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "19:04",
+      "end_timestamp": "19:39",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of using generic content, emphasizing the need for unique, local content.",
+      "suggested_hook": "Are you just another mirror in a sea of agents? Here's why Google might be ignoring you."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you just another mirror in a sea of agents?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr dropped a bombshell on our latest episode. If you're using generic content on your Google Business Profile, you're in trouble. You're putting in the effort, but Google's not rewarding you. Sound familiar?\",\n    \"INSIGHT\": \"Google is quite literally suppressing those types of profiles because they say, 'I don't need to promote 10,000 mirrors of 10,000 other agents.' [ON-SCREEN: Google suppresses generic profiles] Instead, focus on unique, hyper-local content that sets you apart. [ON-SCREEN: Unique, local content wins]\",\n    \"REFRAME/APPLICATION\": \"This matters because it can change your visibility right now. Start by showcasing local events or neighborhood insights this week. [ON-SCREEN: Hyper-local content = visibility]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your Google Business Profile just another mirror? Here's how to stand out.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoogleBusiness\", \"#LocalContent\", \"#AgentSuccess\", \"#MarketingStrategy\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Google is quite literally suppressing those types of profiles because they say, 'I don't need to promote 10,000 mirrors of 10,000 other agents.'\"\n}\n```"
+  }
+]

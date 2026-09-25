@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "07:00",
+      "end_timestamp": "08:00",
+      "quote": "If you're sitting at your desk or at home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It challenges the conventional wisdom of desk work and emphasizes proactive engagement.",
+      "suggested_hook": "Are you stuck at your desk waiting for leads? Here's why you need to get out there."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you stuck at your desk waiting for leads?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters challenges the norm: If you're sitting at your desk or at home, you're not doing your job. You're reaching out to your database, but nobody's responding. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan says, 'You need to go meet new people.' [ON-SCREEN: Meet New People] Most agents wait for leads to come to them. Top producers actively engage with their community. [ON-SCREEN: Community Engagement] It's about building relationships, not just transactions. [ON-SCREEN: Build Relationships]\",\n    \"REFRAME_APPLICATION\": \"Why does this matter now? You can start today by attending local events or hosting open houses. Megan closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop waiting for leads. Get out there and meet new people! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#LeadGeneration\",\n    \"#Networking\",\n    \"#TopProducer\",\n    \"#RealEstateAgent\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for leads. Top producers actively engage with their community.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "44:00",
+      "end_timestamp": "45:00",
+      "quote": "If you're building their business, you're an expensive employee, not an entrepreneur.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It encourages agents to focus on their own brand rather than relying solely on their brokerage.",
+      "suggested_hook": "Are you building your brand or just your brokerage's?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you building your brand or just your brokerage's?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters dropped a truth bomb on our latest episode. If you're just building your brokerage's brand, you're stuck in a cycle. You're reaching out to clients, but they see the brokerage, not you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan said, 'If you're building their business, you're an expensive employee, not an entrepreneur.' [ON-SCREEN: Expensive Employee vs. Entrepreneur] Most agents rely on their brokerage's brand. Top producers focus on their own. [ON-SCREEN: Build Your Brand] Shift your focus to your personal brand using social media. [ON-SCREEN: Social Media = Personal Brand]\",\n    \"REFRAME/APPLICATION\": \"This matters because your brand is your future. Start today by posting one personal insight on social media. Megan closed 47 deals last year using this exact approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you an expensive employee or a true entrepreneur? #RealEstateMindset\",\n  \"HASHTAGS\": [\n    \"#RealEstateMindset\",\n    \"#PersonalBrand\",\n    \"#Entrepreneur\",\n    \"#RealEstateTips\",\n    \"#SocialMediaStrategy\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If you're building their business, you're an expensive employee, not an entrepreneur.\"\n}\n```"
+  }
+]

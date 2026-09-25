@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Frances Katzen",
+    "title": "Team Leader",
+    "company": "Douglas Elliman",
+    "production_level": "Top 10 Teams at Douglas Elliman",
+    "specialty": "Luxury Real Estate",
+    "location": "Manhattan, New York City"
+  },
+  "main_topics": [
+    "New York real estate market trends",
+    "Pietta tear tax implications",
+    "Building a personal brand in real estate",
+    "The importance of having an opinion",
+    "Leveraging media appearances"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of new taxes and policies on the real estate market",
+      "solution_summary": "Frances discusses the ebb and flow of the market and the importance of understanding legislative impacts.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Frances emphasizes the importance of having a strong opinion and being consistent with personal branding.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Effective marketing strategies for real estate",
+      "solution_summary": "Frances shares her approach to creating a unique market report that engages clients.",
+      "timestamp": "08:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Frances provides insights on building a successful brand and leveraging media for growth.",
+      "key_takeaway": "Consistency and having a strong opinion can significantly enhance your market presence."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Frances discusses team dynamics and how to empower team members with different opinions.",
+      "key_takeaway": "Encouraging diverse opinions within your team can strengthen your brand and service offerings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of a view.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the conventional wisdom of always closing a deal.",
+      "suggested_hook": "Why saying 'no' can be the best advice for your clients."
+    },
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Let's have an opinion. And it is provocative... Ooh, that'll get people.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to stand out by being bold and opinionated.",
+      "suggested_hook": "Why having a strong opinion is your greatest asset in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a visually engaging market report",
+      "context": "Use a dynamic flash page to showcase properties and include strong opinions.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Leverage media appearances to build credibility",
+      "context": "Engage with media by having a unique perspective and being consistent.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency wins the race, right? It's just showing up and doing it.",
+    "If you just act like you know what you're doing, everybody thinks that you do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Described as a recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Frances Katzen shares her insights on navigating the New York real estate market amidst new taxes and policies. She emphasizes the importance of having a strong opinion and leveraging media appearances to build a personal brand. Frances also discusses her approach to creating engaging market reports and empowering her team with diverse opinions.",
+  "_metadata": {
+    "source_file": "2026-09-24_item1_Frances-Katzen",
+    "analyzed_at": "2026-09-25T09:48:42.373815",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

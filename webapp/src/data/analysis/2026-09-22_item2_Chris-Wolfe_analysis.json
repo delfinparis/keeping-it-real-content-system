@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Chris Wolfe",
+    "title": "Real Estate Agent",
+    "company": "Not mentioned",
+    "production_level": "$1M+ in net commission",
+    "specialty": "Luxury Real Estate",
+    "location": "El Dorado Hills, California"
+  },
+  "main_topics": [
+    "Transition from house flipping to real estate sales",
+    "Cold calling and open houses as lead generation strategies",
+    "Building a real estate business from scratch in a new market",
+    "Time management and daily routines for real estate success",
+    "Utilizing technology and systems for business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market without a sphere of influence",
+      "solution_summary": "Chris focused on open houses and cold calling expired listings and for sale by owners to generate leads.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of cold calling",
+      "solution_summary": "Chris developed a personalized script and focused on disarming potential clients with a friendly approach.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Staying organized and focused on daily tasks",
+      "solution_summary": "Chris uses a system called Activate Daily to track and complete critical daily tasks.",
+      "timestamp": "41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Chris's story of starting from scratch in a new market is highly relevant for new agents.",
+      "key_takeaway": "Focus on consistent lead generation activities like open houses and cold calling to build your business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Chris's rapid success and high production level provide a blueprint for agents aiming to scale quickly.",
+      "key_takeaway": "Implement systems and focus on high-impact activities to double your business in a challenging market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "13:00",
+      "end_timestamp": "13:45",
+      "quote": "I just decided, you know, this is kind of my best option to start making money. And I just really committed mentally like, I'm not going to fail.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It captures the determination and mindset needed to succeed in real estate.",
+      "suggested_hook": "What does it take to succeed in real estate? A mindset shift that says, 'I'm not going to fail.'"
+    },
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "17:45",
+      "quote": "It's not as competitive as most people think. You know, I do frequently ask people... sometimes it's none.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the belief that cold calling is overly competitive.",
+      "suggested_hook": "Think cold calling is too competitive? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Cold calling expired listings and FSBOs",
+      "context": "Use a friendly, disarming approach to engage potential clients.",
+      "timestamp": "14:00"
+    },
+    {
+      "tactic": "Conducting open houses",
+      "context": "Hold open houses consistently to meet active buyers and sellers.",
+      "timestamp": "11:00"
+    },
+    {
+      "tactic": "Daily critical tasks",
+      "context": "Identify and complete three non-negotiable tasks each day to drive business growth.",
+      "timestamp": "22:00"
+    }
+  ],
+  "quotable_insights": [
+    "I'm not going to be that statistic. I'm not going to do that.",
+    "If you can learn how to make it work now, you'll be fine when the market improves."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Activate Daily",
+      "context": "A system Chris developed to track and complete daily critical tasks."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A CRM and marketing tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Wolfe shares his journey from house flipping to becoming a top-producing real estate agent in a new market. He emphasizes the importance of consistent lead generation through open houses and cold calling, as well as the use of systems like Activate Daily to stay organized and focused. Chris's story is a testament to the power of determination and strategic action in achieving rapid success.",
+  "_metadata": {
+    "source_file": "2026-09-22_item2_Chris-Wolfe",
+    "analyzed_at": "2026-09-25T09:47:58.076945",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

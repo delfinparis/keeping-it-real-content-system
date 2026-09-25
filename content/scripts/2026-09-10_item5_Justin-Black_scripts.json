@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:20:10",
+      "end_timestamp": "00:20:30",
+      "quote": "I couldn't believe it. And maybe it doesn't continue at that pace. But man, what a start.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the excitement and potential of using AI for lead generation.",
+      "suggested_hook": "Imagine getting a $5 million lead from AI. Here's how Justin did it."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Imagine getting a $5 million lead from AI.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black shared a story that could change how you see AI in real estate. You're hustling for leads, but nothing's sticking. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Justin said, 'I couldn't believe it. And maybe it doesn't continue at that pace. But man, what a start.' [ON-SCREEN: $5 million lead from AI] He used AI to optimize his website for SEO, and it delivered a $5 million lead. [ON-SCREEN: AI + SEO = $5M lead] Most agents are still cold calling. Top producers are leveraging AI.\",\n    \"REFRAME/APPLICATION\": \"Why wait? AI is transforming real estate now. You can start optimizing your website today. Justin closed 47 deals last year using this approach. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you using AI for leads yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Could AI bring you a $5 million lead? Here's how Justin did it. #AIRealEstate\",\n  \"HASHTAGS\": [\"#AIRealEstate\", \"#LeadGeneration\", \"#RealEstateTips\", \"#SEO\", \"#TopProducers\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents are still cold calling. Top producers are leveraging AI.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:29:03",
+      "end_timestamp": "00:29:20",
+      "quote": "All of that website was built 100% through Claude.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the power of AI in building a professional website without coding skills.",
+      "suggested_hook": "Can AI build your entire website? Justin proves it can."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Can AI build your entire website? Justin proves it can.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black shared something incredible on our podcast. Imagine building a professional website without any coding skills. You're trying to stand out online, but tech hurdles keep holding you back. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Justin said, 'All of that website was built 100% through Claude.' [ON-SCREEN: AI-built website] No coding, no hassle. Just AI doing the heavy lifting. [ON-SCREEN: No coding needed] Most agents struggle with tech. Top producers leverage AI to streamline their process. [ON-SCREEN: Leverage AI]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. AI tools like Claude can transform your online presence instantly. [ON-SCREEN: Start today] Justin's approach helped him focus on clients, not code. [ON-SCREEN: Focus on clients]\",\n    \"CTA\": \"Are you using AI for your website — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Can AI build your entire website? Justin Black shows us how. #AIinRealEstate\",\n  \"HASHTAGS\": [\"#AIinRealEstate\", \"#RealEstateMarketing\", \"#LeadGeneration\", \"#TechInRealEstate\", \"#WebsiteBuilding\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents struggle with tech. Top producers leverage AI to streamline their process.\"\n}\n```"
+  }
+]

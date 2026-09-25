@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Sean Shackleton",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$65M with 50 clients",
+    "specialty": "YouTube-based lead generation",
+    "location": "Scottsdale, Arizona"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Consistency and perseverance in content creation",
+    "Challenges of starting a YouTube channel",
+    "Client relationships from YouTube leads",
+    "Importance of video editing and scripting"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in generating leads from YouTube initially",
+      "solution_summary": "Consistent video production and increasing output to two videos per week",
+      "timestamp": "00:10:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time-consuming nature of video editing",
+      "solution_summary": "Hiring an editor to handle video editing tasks",
+      "timestamp": "00:16:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Discouragement from low initial views and engagement",
+      "solution_summary": "Commitment to a long-term strategy and focusing on gradual growth",
+      "timestamp": "00:09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents looking to start a YouTube channel for lead generation",
+      "key_takeaway": "Consistency and patience are crucial; success may take time but will come with persistence."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Agents who have started a channel but are not seeing results",
+      "key_takeaway": "Consider increasing video output and refining your strategy based on analytics."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:15:05",
+      "end_timestamp": "00:15:45",
+      "quote": "I was in Europe in June for 15 days. And while I was in Europe, I put five deals under contract that were all YouTube leads.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the power of YouTube leads working passively even while on vacation.",
+      "suggested_hook": "Can YouTube leads work for you even when you're on vacation?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hire an editor for video production",
+      "context": "To maintain consistency and quality in video uploads without burning out",
+      "timestamp": "00:16:00"
+    },
+    {
+      "tactic": "Use a scheduling tool for client appointments",
+      "context": "To efficiently manage time and client interactions as lead volume increases",
+      "timestamp": "00:33:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your first videos are going to suck. You're going to get no views. And that's still okay.",
+    "Get real comfortable about talking about the same thing over and over and over again."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Go High Level",
+      "context": "Used for scheduling client appointments and managing leads"
+    }
+  ],
+  "episode_summary": "In this episode, Sean Shackleton discusses her journey of using YouTube as a powerful lead generation tool in real estate. Despite initial challenges, her commitment to consistent video production and strategic adjustments led to significant business growth. She shares insights on managing video content, the importance of hiring an editor, and how YouTube leads have transformed her client interactions.",
+  "_metadata": {
+    "source_file": "2026-09-16_item4_Sarah-Maslowski",
+    "analyzed_at": "2026-09-25T09:46:18.140161",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

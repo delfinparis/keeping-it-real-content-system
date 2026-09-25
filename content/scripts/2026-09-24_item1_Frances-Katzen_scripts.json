@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of a view.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the conventional wisdom of always closing a deal.",
+      "suggested_hook": "Why saying 'no' can be the best advice for your clients."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Stop closing deals just for the view.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen challenges the norm in real estate. Ever felt pressured to close a deal just because it looks good on paper? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Frances says, 'I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of a view.' [ON-SCREEN: Don't buy for the view] Most agents push for the close. Top producers know when to say no. [ON-SCREEN: Know when to say no]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can apply this today by advising your clients to prioritize value over aesthetics. Frances closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you advising your clients to prioritize value — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why saying 'no' can be your best real estate advice. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#AgentAdvice\",\n    \"#TopProducer\",\n    \"#RealTalk\",\n    \"#MarketTrends\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents push for the close. Top producers know when to say no.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Let's have an opinion. And it is provocative... Ooh, that'll get people.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to stand out by being bold and opinionated.",
+      "suggested_hook": "Why having a strong opinion is your greatest asset in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why is having a bold opinion your secret weapon in real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen says standing out means being bold. You're trying to get noticed in a crowded market, but your voice isn't cutting through. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Frances shares, 'Let's have an opinion. And it is provocative... Ooh, that'll get people.' [ON-SCREEN: 'Have a bold opinion'] Most agents play it safe. Top producers make waves by being memorable. [ON-SCREEN: 'Be memorable']\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by sharing one strong opinion on social media. Frances built her brand this way, closing 47 deals last year. [ON-SCREEN: '47 deals closed']\",\n    \"CTA\": \"Do you have a bold opinion? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stand out in real estate by being bold and opinionated. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#BoldMoves\", \"#AgentAdvice\", \"#PersonalBranding\", \"#StandOut\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents play it safe. Top producers make waves by being memorable.\"\n}\n```"
+  }
+]
