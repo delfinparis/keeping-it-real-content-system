@@ -158,7 +158,7 @@ bullet('Markets: ', 'South LA, East LA, Northeast LA and Long Beach, per his int
 bullet('Niche: ', 'First-time and first-generation buyers, the Hispanic community, and professionals buying to build wealth. Works in English and Spanish.')
 bullet('Second business: ', 'Owns Maldonado Marketing, an LA agency that builds lead generation, local SEO, Google Ads and intake systems for law firms. Also markets to real estate agents and contractors.')
 bullet('Education: ', 'UCLA graduate (his intake and LinkedIn both say so).')
-bullet('Guest type: ', "A, newer producing agent, with a C overlay because he runs a marketing agency. Keep agency talk under 20% of the episode and always pull it back to what an agent does with it.")
+bullet('Guest type: ', "A, newer producing agent, with a strong C overlay: he spent about ten years in marketing before he got his license, and he runs the agency now. Blocks 3 and 4 use his marketing expertise. The agency itself gets one mention, in the close.")
 
 h3('Verified or safe to say on air')
 bullet('', 'Circle Real Estate, DRE #02196988, Long Beach office.')
@@ -184,7 +184,7 @@ bullet('', 'No prior KIR appearance found. First time on the show. No Kale overl
 bullet('', 'No other podcast appearances found anywhere. This is likely one of his first interviews. Expect nerves in the first five minutes.')
 
 h3('THE CORE TOPIC')
-p('The closing-cost gap: first-generation buyers who saved the down payment, then hit closing costs and decided owning was out of reach, and the three places the rest of the money actually comes from (the seller, assistance programs, and the agent who knows to ask).', bold=True)
+p('The buyer who has already decided they can\'t buy: first-generation buyers who saved the down payment, hit closing costs and gave up. Where the rest of the money comes from (Blocks 1 and 2), and how a marketer finds a buyer who isn\'t looking (Blocks 3 and 4).', bold=True)
 
 h3('Overasked questions to avoid')
 bullet('', '"How did you get into real estate?" Nothing public to build on and it burns five minutes. Q1 gets the family story from a sharper angle.')
@@ -205,6 +205,8 @@ bullet('Thin public track record. ', 'One public closed sale. This episode works
 bullet('Program numbers change. ', 'Say "lists up to" for LIPA. CalHFA Dream For All was closed as of early 2026. If he says it is open, let him say it. Do not state program amounts as today\'s numbers without "last I saw."')
 bullet('Lending advice on air. ', 'When he gets specific on loan rules, add one line: "and check with your lender, because this changes." Once, not every time.')
 bullet('Leimert Park. ', 'Let him say it. Do not try to pronounce it before he tells the story.')
+bullet('His questions lean toward his agency. ', 'Alex sent 18 suggested questions, almost all about marketing, ending with his free audit for agents. We used seven of them (see 4I). The audit gets one mention in the close and a show-notes link. If an answer turns into a pitch, ask "and for the agent doing it alone with no budget?"')
+bullet('The audit is for LA agents. ', 'Confirm in the green room that he\'ll take agents from other markets before you send the audience to it.')
 
 h3('THE TWO STANDING REMINDERS')
 p('Ask the short version.', bold=True, space=2)
@@ -233,8 +235,8 @@ p('"Alex Maldonado works with LA buyers who already did the hard part. They save
 
 h2('2C. Episode Arc')
 p('Core topic: the closing-cost gap, and how an agent gets a buyer who has the down payment but not the closing costs to the table anyway.', bold=True)
-p('Why this topic: it is the one thing Alex does that most agents in the audience skip, it works in every market, and it produces a checklist the listener can use on their next offer. His marketing background is a strong second topic, so it gets one block as the "how you find these buyers" angle instead of its own episode.')
-p('Four angles, one topic. Block 1 is the buyer who thinks they can\'t. Block 2 is getting the seller to pay. Block 3 is the programs nobody mentions. Block 4 is how you find these buyers without living on the phone. Every block ends on something a listener can do this week.', italic=True)
+p('Why this topic: it is the one thing Alex does that most agents skip, it works in every market, and it produces a checklist the listener can use on their next offer. Alex asked to talk mostly about marketing. His marketing is where his expertise runs deepest, so it gets the back half of the episode, framed as the answer to one question: these buyers aren\'t looking for an agent, so how do you find them? That keeps it one episode instead of two interviews.')
+p('Four angles, one topic. Block 1 is the buyer who thinks they can\'t. Block 2 is where the rest of the money comes from. Block 3 is how you find a buyer who isn\'t looking. Block 4 is the no-budget version for the listener. Every block ends on something a listener can do this week.', italic=True)
 
 doc.add_page_break()
 
@@ -252,9 +254,9 @@ p('No follow-ups. "Love it" and move on. One exception, below.', italic=True, sp
 rich([('THE ONE EXCEPTION: ', True), ('His worst advice is "It\'s a numbers game," and it carries Block 4. When he says it, say "Love it, and we\'re coming back to that." Then run the callback at Q13. If his answer to #3 is a phone charger, laugh, and save the Supra story for Q15.', False, True)])
 
 # ---------------- BLOCK 1 ----------------
-h2('BLOCK 1: The Buyer Who Thinks They Can\'t (2:00 to 11:00)')
+h2('BLOCK 1: The Buyer Who Thinks They Can\'t (2:00 to 10:00)')
 p('Audience note: individual agents and new agents. Every one of them has a renter in their sphere who has quietly decided they can\'t buy.', italic=True, space=2)
-p('Arc: the family, the hidden gap, the hard no, the question.')
+p('Arc: the family, the hidden gap, the hard no.')
 
 q(1, "Your website says you watched your own family navigate the LA market without much guidance. What did that look like from where you were standing, and what's the one thing you wish somebody had told them?",
   '"How old were you, and what did you see go wrong?"',
@@ -265,108 +267,109 @@ q(1, "Your website says you watched your own family navigate the LA market witho
   note='After his answer lands, add one line: "And later I want to hear about Leimert Park." That is the retention tease from 7B.')
 
 q(2, "You told me a big part of your work is buyers who have the down payment saved and nothing left for closing costs. Most people won't volunteer that. How do you find out that's where they are?",
-  '"What\'s the actual question you ask, word for word?"',
-  'The discovery question and when in the process he asks it. Whether the buyer usually already knows the closing-cost number or finds out late.',
+  '"What\'s the actual question you ask, word for word? Could an agent use it at their next buyer meeting?"',
+  'The discovery question and when in the process he asks it. Whether the buyer usually knows the closing-cost number or finds out late. A sentence the listener can steal.',
   'Individual agents, new agents.',
   short="How do you find out a buyer has the down payment but not the closing costs?")
 
 q(3, "You had a buyer set on one neighborhood she couldn't afford. Every listing she sent you was cash only, and she was on an FHA loan. At what point did you tell her, and what did you actually say?",
   '"Did she end up buying? Where?"',
-  'How he tells a client no without losing the client. The script for redirecting a buyer from the dream to the possible. Whether it worked.',
+  'How he tells a client no without losing the client. Whether it worked.',
   'Individual agents.',
   short="Your FHA buyer kept sending cash-only listings. What did you finally say to her?")
-
-q(4, "For the agent listening who never talks about closing costs until the loan estimate shows up: what's the one question they should add to their first buyer meeting this week?",
-  '"Give me the exact sentence."',
-  'A single question the listener can steal and use on their next consult.',
-  'Individual agents, new agents.',
-  short="What closing-cost question should every agent add to their first buyer meeting?")
 
 bridge("So the buyer who thinks they can't often has most of it already. Let's talk about where the rest comes from, starting with the seller.")
 
 # ---------------- BLOCK 2 ----------------
-h2('BLOCK 2: Getting the Seller to Pay (11:00 to 22:00)')
+h2('BLOCK 2: Where the Rest of the Money Comes From (10:00 to 21:00)')
 p('Audience note: individual agents working buyers in competitive markets, plus listing agents who receive these offers.', italic=True, space=2)
-p('Arc: the rule, the blind spot, the objection, the settlement, the call.')
+p('Arc: the rule, the blind spot, the objection, the program and its catch, the call.')
 
-q(5, "On an FHA loan the seller can cover up to 6% of the price in closing costs. Conventional with under 10% down, it's 3%. In a market like LA, where you're competing on price, how do you ask for a credit without your offer landing at the bottom of the pile?",
+q(4, "On an FHA loan the seller can cover up to 6% of the price in closing costs. Conventional with under 10% down, it's 3%. In a market like LA, where you're competing on price, how do you ask for a credit without your offer landing at the bottom of the pile?",
   '"Do you raise the price to cover it? By how much, and what happens if it doesn\'t appraise?"',
   'The price-up, credit-back mechanics. How he protects the buyer if the appraisal comes in low. What percent he actually asks for.',
   'Individual agents.',
   short="How do you ask for a seller credit without your offer going to the bottom?",
   note='Do not accept "it depends." Ask for the last deal: price, credit amount, appraisal.')
 
-q(6, "I've interviewed hundreds of agents on this show, and almost none of them has named closing costs as the reason a first-time buyer didn't buy. You're saying it's one of the most common ones in your world. Why does the rest of the industry miss it?",
+q(5, "I've interviewed hundreds of agents on this show, and almost none of them has named closing costs as the reason a first-time buyer didn't buy. You're saying it's one of the most common ones in your world. Why does the rest of the industry miss it?",
   '"Is it the agents, the lenders, or the buyers who aren\'t saying it?"',
-  'A contrarian take on who drops the ball. Ideally a specific moment where he saw an agent or lender miss it.',
+  'A contrarian take on who drops the ball.',
   'Individual agents, team leaders.',
   short="Why does the rest of the industry miss closing costs as the deal-killer?")
 
-q(7, "There's a listing agent listening right now, 20 years in, who reads any offer with a seller credit or a down payment assistance program as the weak offer. Slower close, more conditions, more likely to fall apart. Talk to that agent directly. What do you want them to know?",
+q(6, "There's a listing agent listening right now, 20 years in, who reads any offer with a seller credit or a down payment assistance program as the weak offer. Slower close, more conditions, more likely to fall apart. Talk to that agent directly. What do you want them to know?",
   '"Has one of those deals ever fallen apart on you? What happened?"',
-  'The objection answered head-on. Real timelines for DPA closes. What he does to make his buyer\'s offer look as safe as a conventional one.',
+  'The objection answered head-on. Real timelines for assistance closes. How he makes his buyer\'s offer look as safe as a conventional one.',
   'Listing agents, broker-owners.',
-  short="Talk to the listing agent who thinks DPA offers are weak. What should they know?")
+  short="Talk to the listing agent who thinks assistance offers are weak. What should they know?")
 
-q(8, "Since the NAR settlement, buyer's agents are often asking the seller to cover their commission too. Does that ever end up competing with the buyer's closing-cost credit for the same seller dollars, and how do you handle it?",
-  '"Walk me through the last deal where both were on the table."',
-  'Whether his pay and his buyer\'s credit compete, and how he prioritizes. How he explains it to the buyer.',
-  'Individual agents, broker-owners.',
-  short="Since the settlement, do your commission and the buyer's credit fight for the same seller money?",
-  permission="Do you mind if I ask about your own pay here?",
-  note='Do not state a rule on whether seller-paid commission counts toward the concession cap. Lender guidance varies. Let him explain what he has seen.')
+q(7, "The City of LA's LIPA program lists up to $161,000 for low-income first-time buyers, no monthly payment. But it isn't free money. It takes a share of the appreciation when they sell or refinance. How do you explain that trade to a first-generation buyer, and have you ever told someone not to take it?",
+  '"What\'s the math you show them?"',
+  'Why these programs go unused, and the honest cost on the back end. This is the credibility beat of the episode.',
+  'Individual agents, new agents.',
+  short="LA's program lists up to $161,000, but takes a cut of appreciation. How do you explain that?",
+  note='Say "lists up to." City of LA only, 1-unit homes, income limits apply. If he goes long on program details, ask for one buyer.')
 
-q(9, "Give the listener the actual words. When you call the listing agent before you send an offer asking for a credit, what do you say?",
+q(8, "Give the listener the actual words. When you call the listing agent before you send an offer asking for a credit, what do you say?",
   '"And what do you say when they tell you the seller won\'t do credits?"',
   'A script the listener can use on their next offer.',
   'Individual agents, new agents.',
   short="What do you say to the listing agent before you send an offer with a credit?")
 
-bridge("The seller can cover part of the gap. For a lot of your buyers the rest comes from programs most agents have never even opened, so let's go there.")
+bridge("So the money is there, and most agents never mention it. But these buyers aren't out looking for an agent. They've already decided they can't buy. So how do you find them? That's where ten years in marketing comes in.")
 
 # ---------------- BLOCK 3 ----------------
-h2('BLOCK 3: The Programs Nobody Told Them About (22:00 to 31:00)')
-p('Audience note: individual agents in every market. The LA numbers are the example; the process is the takeaway.', italic=True, space=2)
-p('Arc: the number, the catch, your market.')
+h2('BLOCK 3: Finding the Buyer Who Isn\'t Looking (21:00 to 31:00)')
+p('Audience note: individual agents, plus broker-owners on Q10. This is the "how do I find them" half of the core topic, which is where his marketing background earns its place.', italic=True, space=2)
+p('Arc: the message, the language, the search, the free listing.')
+rich([('Source: ', True), ('Q9 through Q12 are adapted from the questions Alex sent. See 4I for which ones we used and why.', False, True)], space=6)
 
-q(10, "The City of LA's LIPA program lists up to $161,000 for low-income first-time buyers, with no monthly payment. That's a real number. Why aren't more buyers using it, and why aren't more agents bringing it up?",
-  '"How many of your buyers have actually closed with one of these programs?"',
-  'The real reasons: income limits, city-only boundaries, slow timelines, lenders who don\'t offer it, agents who don\'t know it exists. A real count from him.',
-  'Individual agents, new agents.',
-  short="LA lists up to $161,000 in buyer assistance. Why isn't everybody using it?",
-  note='Say "lists up to." City of LA only, 1-unit homes, income limits apply.')
-
-q(11, "These programs aren't free money. LIPA and the county program take a share of the appreciation when the buyer sells or refinances. How do you explain that to a first-generation buyer without scaring them off, and have you ever told someone not to take it?",
-  '"What\'s the math you show them?"',
-  'The honest cost of assistance. Whether he has talked a buyer out of a program. This is the credibility beat of the episode.',
+q(9, "You spent about ten years building lead generation for law firms before you got your license. A lot of your buyers can cover the down payment and not the closing costs. How do you use that in your marketing, when the person you're trying to reach has already decided they can't buy?",
+  '"Show me an actual post or ad. What did it say, and what happened?"',
+  'The message that reaches a self-disqualified buyer. One real piece of content and its result.',
   'Individual agents.',
-  short="These loans take a cut of the appreciation. How do you explain that honestly?")
+  short="How do you market to a buyer who's already decided they can't buy?")
 
-q(12, "Most of our listeners aren't in LA. If an agent in Chicago or Dallas wants to know what's available for their buyers by Friday, where do they start, and who do they call?",
-  '"Is it the lender, the city housing department, or the state housing agency first?"',
-  'A repeatable research process any agent can run: city, county, state, and which lenders actually originate these loans.',
-  'Individual agents in every market.',
-  short="An agent outside LA wants to know their local programs by Friday. Where do they start?")
+q(10, "You work a lot with the Hispanic community in South, East and Northeast LA and Long Beach. What does bilingual marketing involve beyond translating your posts?",
+  '"What\'s something that works in English and falls flat in Spanish, or the other way around?"',
+  'What serving Spanish-speaking and first-gen buyers really takes: family decision-making, trust, education before the ask. Not generalizations about a whole community.',
+  'Individual agents, team leaders, broker-owners.',
+  short="What does bilingual marketing involve beyond translating posts?",
+  note='Perspective flip. If there\'s time, add: "And for the broker who thinks one bilingual agent solves it?"')
 
-bridge("So the money is there and most agents never mention it. The last piece is how you find these buyers in the first place, and that's where your marketing background comes in.")
+q(11, "You've done SEO for personal injury law firms, one of the most competitive markets online. In plain English, what does SEO mean for a real estate agent, what carries over from law, and how long before it works?",
+  '"Give me a number. Months? A year?"',
+  'SEO in one sentence, the one PI-law lesson that transfers, and a real timeline so agents don\'t quit after six weeks.',
+  'Individual agents.',
+  short="What carries over from law firm SEO to real estate, and how long does it take?",
+  note='Product rule. If this becomes a pitch, ask "and for the agent doing it alone with no budget?"')
+
+q(12, "Why do so many agents skip their Google Business Profile, and what should they fix first?",
+  '"If a listener opens theirs right after this episode, what\'s the first field they change?"',
+  'The single highest-leverage free listing and the exact first fix.',
+  'Individual agents, new agents.',
+  short="Why do agents skip their Google Business Profile, and what do they fix first?")
+
+bridge("So you market to the buyer before they think they're a buyer. Now let's make it practical for the agent listening with no budget, and I want to go back to something you said at the very top.")
 
 # ---------------- BLOCK 4 ----------------
-h2('BLOCK 4: Fewer Calls, Better Calls (31:00 to 40:00)')
-p('Audience note: individual agents who are grinding on volume and not converting. Also team leaders and broker-owners on Q16.', italic=True, space=2)
-p('Arc: the callback, the system, the mistake, the brokerage, the cut.')
+h2('BLOCK 4: Fewer Calls, Better Marketing (31:00 to 40:00)')
+p('Audience note: individual agents grinding on volume and not converting, and new agents with time but no money.', italic=True, space=2)
+p('Arc: the callback, the audit, the mistake, the scoreboard, the five hours.')
 
 q(13, "Earlier you said the worst advice you ever got was 'it's a numbers game.' You wrote to me, 'Make fewer calls, but make them count.' What does a call that counts actually look like?",
   '"How many calls a week, and what are you doing with the time you\'re not dialing?"',
-  'His actual weekly cadence. What practice, reading and script work look like in hours. How that shows up in conversion.',
+  'His weekly cadence. What practice, reading and script work look like in hours.',
   'Individual agents, new agents.',
   short="You said make fewer calls, but make them count. What's a call that counts?")
 
-q(14, "Your marketing agency's site says, 'You don't have a lead problem. You have a system problem.' Apply that to your own real estate business. Where do your first-generation buyers actually come from, and what happens in the first hour after one raises their hand?",
-  '"Which channel brought you your last three buyers?"',
-  'Real lead sources (Spanish-language content, Google, sphere, referrals). His speed-to-lead and follow-up system. No agency pitch.',
+q(14, "When you look at an agent's online presence for the first time, what are you checking, and what's usually broken?",
+  '"What\'s one fix a listener could make today, before they go to bed?"',
+  'His audit checklist, out loud: site, Google profile, portals, reviews, follow-up. Plus one fix for today.',
   'Individual agents.',
-  short="Where do your first-gen buyers come from, and what happens in the first hour?",
-  note='Product rule. If this becomes a pitch for Maldonado Marketing, ask "and for the agent doing this alone with no budget?"')
+  short="When you look at an agent online for the first time, what's usually broken?",
+  note='This is his audit, given away free on air. Good. Do not mention the paid version here; that happens once, in the close.')
 
 q(15, "You told me you mispronounced Leimert Park in front of clients, which is not a great look for an LA agent. How do you prep for a neighborhood you didn't grow up in, so that doesn't happen again?",
   '"And the dead phone at the Supra box? What\'s in your car now?"',
@@ -374,38 +377,40 @@ q(15, "You told me you mispronounced Leimert Park in front of clients, which is 
   'New agents, individual agents.',
   short="You mispronounced Leimert Park in front of clients. How do you prep now?")
 
-q(16, "For the broker or team leader who wants to serve Spanish-speaking buyers and thinks the answer is one bilingual agent and a translated website: what are they getting wrong?",
-  '"What would you build if you ran the brokerage?"',
-  'What serving the Hispanic and first-gen market really takes: trust, family decision-making, Spanish-language education, partner lenders.',
-  'Broker-owners, team leaders.',
-  short="What do brokerages get wrong about serving Spanish-speaking buyers?")
+q(16, "How do you know if your marketing is actually working, beyond likes and followers?",
+  '"What number do you check every week?"',
+  'The one or two numbers that matter (conversations, appointments, source of each closing) and how he tracks them.',
+  'Individual agents, team leaders.',
+  short="How do you know your marketing is working, beyond likes and followers?")
 
-q(17, "The listener who's making 50 calls a day and closing nothing: what should they cut this week, and what do they do with that hour instead?",
+q(17, "The agent listening has no budget and five hours a week. Where should those five hours go?",
   '"Be specific. Monday at 9am, what are they doing?"',
-  'A concrete swap: fewer dials, one hour of script practice or targeted follow-up. The do-it-tomorrow for the whole episode.',
+  'A concrete weekly plan. Ideally ties back to the numbers-game answer: fewer dials, more practice, one marketing asset. The do-it-tomorrow for the whole episode.',
   'Individual agents, new agents.',
-  short="The agent making 50 calls a day and closing nothing: what should they cut?")
+  short="No budget, five hours a week. Where should that time go?")
 
 # ---------------- CLOSE ----------------
 h2('THE CLOSE (40:00 to 43:00)')
 h3('Homework (read verbatim)')
 p('"Here\'s what I want you to do before the next episode: look up the down payment assistance program for your city or county, write down the maximum amount and the income limit, and text it to three renters in your sphere who\'ve told you they can\'t afford to buy. Not next month. This week."', bold=True)
 h3('Guest close')
-bullet('', '"Alex, where can people find you?" Expect alexmaldonadorealestate.com and Instagram @yourrealestateman.alex.')
-bullet('', 'Listener resource: his free Down Payment Assistance guide and First-Time Buyer\'s Roadmap on his site. Ask him to name them. Useful mostly to LA listeners, so frame it as "if you have a client moving to LA."')
+bullet('', '"Alex, where can people find you, and where can agents go if they want you to look at their marketing?"')
+bullet('Buyers: ', 'alexmaldonadorealestate.com and Instagram @yourrealestateman.alex. His free Down Payment Assistance guide and First-Time Buyer\'s Roadmap are on the site.')
+bullet('Agents: ', 'Free marketing audit at maldonadomarketing.co/agents. Goes in the show notes (Alex asked). Mention it once, here, and nowhere else in the episode.')
+bullet('Check before you go live: ', 'the audit page is written for Los Angeles agents. Most of the audience is not in LA. Ask Alex in the green room whether he takes agents from other markets, so he doesn\'t get a flood of Chicago requests he can\'t serve, and so you don\'t promise something he won\'t deliver.')
 
 h3('If you\'re running long, cut these first')
 table(['Order', 'Q#', 'Why it\'s expendable'], [
-    ['1', 'Q16', 'Smallest audience segment, and Q14 already covers how he finds these buyers.'],
-    ['2', 'Q8', 'Highest drift risk. Commission talk can eat five minutes and pull off the buyer.'],
-    ['3', 'Q4', 'If Q2 produced his exact discovery question, Q4 is already answered.'],
-    ['4', 'Q12', 'Useful but generic. Fold it into the homework instead.'],
+    ['1', 'Q16', 'Useful but generic. Q13 and Q17 cover the same ground.'],
+    ['2', 'Q11', 'SEO takes longest to answer and is least actionable this week. Q12 is the faster version.'],
+    ['3', 'Q5', 'Moves the "hundreds" line. If you cut it, skip the line this episode.'],
+    ['4', 'Q10', 'Strong, but the smallest audience segment gets the most from it.'],
 ], widths=[0.6, 0.6, 5.85])
 h3('Never cut')
 bullet('', 'Q2, the discovery question. It defines the episode.')
-bullet('', 'Q5, the seller credit mechanics. The most usable answer in the episode.')
-bullet('', 'Q7, the objection said out loud.')
-bullet('', 'Q11, the honest cost of assistance. It\'s what makes him credible.')
+bullet('', 'Q4, the seller credit mechanics. The most usable answer in the episode.')
+bullet('', 'Q6, the objection said out loud.')
+bullet('', 'Q9, the bridge between the money and the marketing. Without it, the episode becomes two interviews.')
 bullet('', 'Q13, the numbers-game callback. Rapid Fire set it up; you have to pay it off.')
 
 doc.add_page_break()
@@ -422,7 +427,7 @@ p('Alex Maldonado Miranda is a Los Angeles REALTOR at Circle Real Estate and a U
 h2('4B. Career Timeline (verified entries only)')
 table(['Year', 'Role / Company', 'Notable'], [
     ['2016', 'Founded Maldonado Marketing (per agency site)', 'Law firm lead generation, local SEO, PPC, intake systems. One page on the same site says six years, so treat as Medium.'],
-    ['Current', 'REALTOR, Circle Real Estate, Long Beach office', 'DRE #02196988. License issue date not found. Ask when he got licensed.'],
+    ['Current', 'REALTOR, Circle Real Estate, Long Beach office', 'DRE #02196988. He says he got licensed after about ten years in marketing. License date not found; ask.'],
     ['Not found', 'UCLA', 'Graduation year not public.'],
 ], widths=[0.9, 2.6, 3.55])
 
@@ -469,6 +474,29 @@ table(['Segment', 'What they get from this episode'], [
     ['New agents', 'A niche you can build before you have volume, and permission to stop treating the job as a pure numbers game.'],
 ], widths=[1.6, 5.45])
 
+h2('4I. Alex\'s Suggested Questions: What We Used')
+p('He sent 18. We kept the ones that serve the core topic or give the listener something to do this week, and dropped the ones that overlap or drift into an agency consultation.', italic=True)
+table(['His question', 'Where it went'], [
+    ['Why real estate after 10 years in lead gen?', 'Folded into Q9 setup. Q1 already covers the why, from a sharper angle.'],
+    ['What did marketing give you on day one?', 'Dropped. Covered by Q9 and Q14.'],
+    ['Bilingual marketing beyond translating posts', 'Q10, nearly as written.'],
+    ['Biggest marketing mistake newer agents make', 'Folded into Q14 (what\'s usually broken).'],
+    ['No budget and five hours a week', 'Q17, as written. Closes the episode.'],
+    ['Website vs social vs Zillow/Realtor.com', 'Dropped. Too broad for the runtime. Use as a follow-up on Q14 if he raises it.'],
+    ['SEO in plain English, how long it takes', 'Merged with the PI law question into Q11.'],
+    ['What carries over from PI law SEO', 'Q11.'],
+    ['Why agents skip Google Business Profile', 'Q12, as written.'],
+    ['What to post vs what nobody cares about', 'Dropped. Well covered on the show already.'],
+    ['When to run paid ads', 'Dropped. Most listeners are the no-budget agent in Q17.'],
+    ['How you know marketing is working', 'Q16.'],
+    ['What surprised you in your first transactions', 'Dropped. Invites the volume conversation 4H warns against.'],
+    ['How you use the closing-cost angle in marketing', 'Q9. The hinge of the whole episode.'],
+    ['Balancing marketer and agent', 'Dropped. Low listener value.'],
+    ['What you check in an agent\'s online presence', 'Q14.'],
+    ['One quick fix a listener could make today', 'Q14 follow-up.'],
+    ['Where agents can get their marketing looked at', 'The close and the show notes.'],
+], widths=[3.0, 4.05])
+
 h2('4H. Landmines')
 bullet('His production. ', 'One public sale. Asking "how many deals did you do last year" on air embarrasses him and wastes the episode. If you want a number, ask Q10\'s follow-up: how many buyers closed with a program.')
 bullet('Program numbers. ', 'Amounts and income limits reset every year and programs open and close. Always "lists up to" or "last I saw."')
@@ -496,14 +524,18 @@ p('Down payment saved, closing costs short? Alex Maldonado shows how buyers stil
 h3('TikTok Live')
 p('Saved the down payment but not closing costs? You might still be able to buy. #FirstTimeHomeBuyer #RealtorTips')
 h3('YouTube Live')
-p('LA REALTOR Alex Maldonado joins D.J. Paris on the Keeping It Real Podcast to break down the closing-cost gap: first-time and first-generation buyers who saved the down payment but not closing costs. Seller credits, FHA and conventional concession limits, and down payment assistance programs like LA\'s LIPA.')
+p('LA REALTOR Alex Maldonado joins D.J. Paris on the Keeping It Real Podcast to break down the closing-cost gap: first-time and first-generation buyers who saved the down payment but not closing costs. Seller credits, FHA and conventional concession limits, down payment assistance programs like LA\'s LIPA, and how a former law firm marketer finds buyers who aren\'t looking. Free marketing audit for agents: maldonadomarketing.co/agents')
 h3('LinkedIn Live')
-p('Most agents lose first-time buyers before they ever meet them, because the buyer decides closing costs make owning impossible. Alex Maldonado, a Los Angeles REALTOR who also runs a law firm marketing agency, joins D.J. Paris to walk through seller credits, assistance programs and how he finds these buyers.')
+p('Most agents lose first-time buyers before they ever meet them, because the buyer decides closing costs make owning impossible. Alex Maldonado, a Los Angeles REALTOR who also runs a law firm marketing agency, joins D.J. Paris to walk through seller credits, assistance programs, and the marketing that finds buyers before they think they\'re buyers.')
 
 h2('5C. Hashtag Sets')
 bullet('Universal: ', '#KeepingItReal #RealEstatePodcast #DJParis #RealtorLife #RealEstateAgent')
-bullet('Episode: ', '#FirstTimeHomeBuyer #FirstGenHomeBuyer #ClosingCosts #DownPaymentAssistance #LosAngelesRealEstate #LatinoHomeBuyers #SellerCredits')
+bullet('Episode: ', '#FirstTimeHomeBuyer #FirstGenHomeBuyer #ClosingCosts #DownPaymentAssistance #LosAngelesRealEstate #LatinoHomeBuyers #SellerCredits #RealEstateMarketing')
 bullet('Guest tag: ', 'Instagram @yourrealestateman.alex. YouTube @yourrealestateman_alex.')
+
+h2('5D. Show Notes Link (Alex requested)')
+p('Free marketing audit for agents: https://maldonadomarketing.co/agents/')
+p('Confirm he takes agents outside LA before publishing. If not, label it "for Los Angeles agents."', italic=True)
 
 # =====================================================================
 # 6. CHAPTERS
@@ -513,21 +545,22 @@ table(['Timestamp', 'Chapter title'], [
     ['0:00', 'Saved the Down Payment, Short on Closing Costs'],
     ['post-ads', 'Rapid Fire: Best and Worst Real Estate Advice'],
     ['~3:00', 'What Nobody Told a First-Generation LA Family About Buying'],
-    ['~6:00', 'How to Find Out a Buyer Can\'t Cover Closing Costs'],
-    ['~9:00', 'The FHA Buyer Who Only Wanted Cash-Only Listings'],
-    ['~12:00', 'How to Ask for a Seller Credit in a Competitive Market'],
-    ['~15:00', 'Why Agents Miss Closing Costs as the Deal-Killer'],
-    ['~17:00', 'Are Down Payment Assistance Offers Really Weaker?'],
-    ['~19:00', 'Buyer Agent Commission vs Closing-Cost Credits After the NAR Settlement'],
-    ['~21:00', 'What to Say to the Listing Agent Before Your Offer'],
-    ['~23:00', 'LA\'s $161,000 Buyer Assistance Program Nobody Uses'],
-    ['~26:00', 'The Catch in Down Payment Assistance: Shared Appreciation'],
-    ['~29:00', 'How to Find Down Payment Assistance in Your Market'],
-    ['~32:00', 'Why "It\'s a Numbers Game" Is Bad Advice for Realtors'],
-    ['~34:00', 'Where First-Generation Buyers Actually Come From'],
-    ['~36:00', 'The Leimert Park Mistake and a Dead Phone at the Lockbox'],
-    ['~38:00', 'What Brokerages Get Wrong About Spanish-Speaking Buyers'],
-    ['~39:00', 'Making 50 Calls a Day and Closing Nothing? Cut This'],
+    ['~5:00', 'How to Find Out a Buyer Can\'t Cover Closing Costs'],
+    ['~8:00', 'The FHA Buyer Who Only Wanted Cash-Only Listings'],
+    ['~10:00', 'How to Ask for a Seller Credit in a Competitive Market'],
+    ['~13:00', 'Why Agents Miss Closing Costs as the Deal-Killer'],
+    ['~15:00', 'Are Down Payment Assistance Offers Really Weaker?'],
+    ['~17:00', 'LA\'s $161,000 Buyer Assistance Program and Its Catch'],
+    ['~19:00', 'What to Say to the Listing Agent Before Your Offer'],
+    ['~21:00', 'How to Market to Buyers Who Think They Can\'t Buy'],
+    ['~24:00', 'Bilingual Real Estate Marketing Beyond Translation'],
+    ['~26:00', 'What Law Firm SEO Teaches Realtors'],
+    ['~29:00', 'The First Google Business Profile Fix for Agents'],
+    ['~31:00', 'Why "It\'s a Numbers Game" Is Bad Advice for Realtors'],
+    ['~33:00', 'What\'s Usually Broken in a Realtor\'s Online Presence'],
+    ['~35:00', 'The Leimert Park Mistake and a Dead Phone at the Lockbox'],
+    ['~37:00', 'How to Know Your Real Estate Marketing Is Working'],
+    ['~39:00', 'No Budget, Five Hours a Week: Where to Spend It'],
     ['~41:00', 'Homework and Where to Find Alex Maldonado'],
 ], widths=[1.0, 6.05])
 
@@ -549,6 +582,9 @@ table(['#', 'What broke', 'Fix applied'], [
     ['7', 'Q5 was answerable with "it depends on the deal."', 'Added the producer note: ask for the last deal\'s price, credit and appraisal.'],
     ['8', 'Q8 (settlement) read as a gotcha about his own pay.', 'Added a permission clause and a shared-problem framing. Put first-ish in the cut list.'],
     ['9', 'Draft had 20 questions for 43 minutes.', 'Cut to 17 plus Rapid Fire, with a four-question cut list.'],
+    ['10', 'Revision: Alex sent 18 marketing questions. Adding them all would make two episodes and turn the back half into an agency pitch.', 'Kept seven, rebuilt Blocks 3 and 4 around "how do you find a buyer who isn\'t looking," merged the old program block into Block 2. Mapping in 4I.'],
+    ['11', 'Revision: his audit offer is written for LA agents; the audience is national.', 'Green-room check added to the close and to 5D.'],
+    ['12', 'Revision: the settlement question (old Q8) and the outside-LA programs question (old Q12) no longer fit the runtime.', 'Cut. The homework now carries the outside-LA research step.'],
 ], widths=[0.35, 3.2, 3.5])
 
 h2('7B. Council Review')
@@ -560,7 +596,8 @@ table(['Member', 'What they\'d change'], [
     ['Eric Simon', 'The Leimert Park story and the dead phone are the share. Don\'t bury them at minute 40. At least tease it.'],
     ['Byron Lazine', 'Q8 is the only question tied to a headline. Keep it unless you\'re really long.'],
     ['Chris Do', 'Q1 and Q11 are where he pays something honest. Take the permission clause seriously on Q1.'],
-    ['Jon Youshaei', 'Chapter titles work. "The $161,000 Program Nobody Uses" is the most searchable line in the packet.'],
+    ['Jon Youshaei', 'Chapter titles work. The Google Business Profile and "numbers game" chapters will search well on their own.'],
+    ['Justin Welsh', 'Taking the guest\'s questions is fine. Letting them replace the format is not. Q9 is what keeps it one topic.'],
 ], widths=[1.4, 5.65])
 p('Witnesses. Heath: the cold open opens the gap (they gave up) and holds the answer until Block 2. Good. Berger: the core emotion is frustration at money nobody mentioned. That\'s anger-adjacent, high arousal, and the retell survives: "the seller can pay 6% of closing costs and most buyers never ask."', italic=True)
 p('The disagreement: Eric wants the funny stories early for retention. Miller and Welsh want the arc to hold. Decision: keep Q15 in Block 4, but D.J. teases it once in Block 1 (see Arc fix). The episode goal is agents sending it to agents, and the seller-credit block is what gets sent.', italic=True)
@@ -615,6 +652,10 @@ bullet('', 'Cut from 20 questions to 17 and wrote the cut and never-cut lists.')
 bullet('', 'Added the Leimert Park tease line after Q1 to fix the Block 3 sag.')
 bullet('', 'Rewrote the Instagram and LinkedIn descriptions after the scrub.')
 bullet('', 'Checked every SAY THIS line is under 20 words, and removed em dashes and curly quotes throughout.')
+bullet('', 'Revision after Alex\'s questions: rebuilt Blocks 3 and 4 from seven of his 18 questions, adding Q9, Q10, Q11, Q12, Q14, Q16 and Q17.')
+bullet('', 'Merged the LIPA question and the shared-appreciation question into Q7 and moved both into Block 2, so all the money talk lives in one block.')
+bullet('', 'Cut the settlement question, the outside-LA programs question, the brokerage question and the standalone buyer-meeting question to make room.')
+bullet('', 'Moved the audit to one mention in the close plus a show-notes link, with a check on whether he serves non-LA agents.')
 
 doc.save("/Users/djparis/GitHub Projects/keeping-it-real-content-system/guest-prep/Alex_Maldonado_Interview_Prep.docx")
 print("Saved Alex_Maldonado_Interview_Prep.docx")
