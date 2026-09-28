@@ -1,0 +1,98 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube-based real estate sales",
+    "location": null
+  },
+  "main_topics": [
+    "YouTube content consistency",
+    "Content planning and filming",
+    "Backup systems for content creation",
+    "Leveraging AI in content creation",
+    "Building a video content bank"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Single point of failure in content operations",
+      "solution_summary": "Implement a backup editor and maintain a video bank to ensure consistency.",
+      "timestamp": "04:32"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Exhaustion from simultaneous content planning and filming",
+      "solution_summary": "Separate content planning and filming into different weeks to maintain energy and quality.",
+      "timestamp": "08:30"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Inconsistent posting affecting YouTube algorithm and audience trust",
+      "solution_summary": "Maintain a consistent posting schedule by working two weeks ahead and having backup content.",
+      "timestamp": "05:14"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for maintaining a high level of content output and consistency.",
+      "key_takeaway": "Building a robust content system with backups and planning can sustain and grow your business."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on overcoming content creation hurdles and maintaining momentum.",
+      "key_takeaway": "Separate content tasks and build a video bank to prevent disruptions in your posting schedule."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:01",
+      "end_timestamp": "16:28",
+      "quote": "The channels that outlast everyone else are the ones built on discipline, not on motivation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of discipline over motivation, a key mindset for success.",
+      "suggested_hook": "Why discipline, not motivation, is the secret to YouTube success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Maintain a video bank of 2-3 fully edited videos.",
+      "context": "To ensure you have content ready to post during emergencies.",
+      "timestamp": "07:22"
+    },
+    {
+      "tactic": "Use a two-week rotating cycle for content planning and filming.",
+      "context": "To separate the mental tasks and maintain quality.",
+      "timestamp": "08:30"
+    },
+    {
+      "tactic": "Identify and brief a backup editor in advance.",
+      "context": "To step in when your primary editor is unavailable.",
+      "timestamp": "06:43"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency is not just a best practice; it is one of your most valuable assets."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "Sarah Maslowski shares her insights on maintaining a successful YouTube channel for real estate sales, emphasizing the importance of consistency and planning. She discusses strategies for content creation, including separating planning and filming tasks, building a video bank, and having backup systems in place. The episode provides actionable tactics for agents looking to leverage YouTube as a lead generation tool.",
+  "_metadata": {
+    "source_file": "2026-08-19_item10_Sarah-Maslowski",
+    "analyzed_at": "2026-09-28T10:36:18.327013",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

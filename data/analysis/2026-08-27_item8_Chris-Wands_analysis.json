@@ -1,0 +1,89 @@
+{
+  "guest_info": {
+    "name": "Chris Wands",
+    "title": "Founder",
+    "company": "The Wands Team at Douglas Elliman",
+    "production_level": "Over a billion in sales",
+    "specialty": "Luxury real estate",
+    "location": "Miami, Florida"
+  },
+  "main_topics": [
+    "Importance of rentals in real estate business",
+    "Building and managing a real estate team",
+    "Using AI and technology in real estate",
+    "Advising clients on buying vs. renting",
+    "Work-life balance in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from small rental deals",
+      "solution_summary": "Treat every rental as a potential future sale and maintain contact with renters for future opportunities.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a real estate team without proper infrastructure",
+      "solution_summary": "Ensure backend systems and processes are in place before expanding the team.",
+      "timestamp": "00:43:12"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling discouraged by small commissions",
+      "solution_summary": "Focus on long-term relationships and potential future business rather than immediate commission.",
+      "timestamp": "00:27:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with small deals and need to see their long-term value.",
+      "key_takeaway": "Every small rental can lead to a significant future sale; focus on building relationships."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders need to understand the importance of having systems in place before scaling.",
+      "key_takeaway": "Build a strong infrastructure to support team growth and ensure efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:04",
+      "end_timestamp": "00:08:40",
+      "quote": "If you do good enough on your job, money will become a byproduct of it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the focus on immediate financial gain and emphasizes long-term success.",
+      "suggested_hook": "Why focusing on relationships over commissions can transform your real estate career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use social media to track client life events for touchpoints.",
+      "context": "Monitor clients' social media to identify opportunities for engagement, like sending gifts for life events.",
+      "timestamp": "01:00:19"
+    },
+    {
+      "tactic": "Set reminders for lease renewals to maintain contact with renters.",
+      "context": "Use CRM to set notifications 60 days before lease renewals to discuss future plans with clients.",
+      "timestamp": "01:04:57"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate is a contact sport; every interaction is a potential future transaction.",
+    "Luxury is not about the price tag; it's about the quality of life you provide."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Close CRM",
+      "context": "Recommended for its efficiency and ease of use in managing client relationships."
+    }
+  ],
+  "episode_summary": "Chris Wands shares insights on how small rental deals can lead to significant future sales, emphasizing the importance of treating every client interaction as a potential long-term relationship. He discusses the necessity of having strong systems in place before scaling a real estate team and highlights the role of technology and social media in maintaining client connections. Chris also provides advice on balancing work and personal life in the demanding real estate industry.",
+  "_metadata": {
+    "source_file": "2026-08-27_item8_Chris-Wands",
+    "analyzed_at": "2026-09-28T10:37:19.317937",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
