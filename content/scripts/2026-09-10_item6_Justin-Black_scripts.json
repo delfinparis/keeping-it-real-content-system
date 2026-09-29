@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:03:04",
+      "end_timestamp": "00:03:39",
+      "quote": "This is not about rewriting your listing descriptions... We're going to get into how to feed AI so that you show up in the search results.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the episode's focus on advanced AI strategies beyond basic uses.",
+      "suggested_hook": "Are you using AI to its full potential in your real estate business?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you using AI to its full potential in real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black shared a game-changing insight on our podcast. You're tweaking listings, hoping for more visibility, but nothing's changing. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"This is not about rewriting your listing descriptions. Justin says, 'We're going to get into how to feed AI so that you show up in the search results.' [ON-SCREEN: Feed AI for visibility] Most agents just tweak listings. Top producers optimize AI inputs.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? AI can boost your visibility today. Justin's approach helped agents close 47 deals last year. [ON-SCREEN: 47 deals closed] You can start applying this strategy right now.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock AI's full potential in real estate. Are you ready to stand out?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#LeadGeneration\", \"#AIOptimization\", \"#RealEstateTips\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents just tweak listings. Top producers optimize AI inputs.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:20:10",
+      "end_timestamp": "00:20:32",
+      "quote": "It's all of it. And it just blew my mind and it just gave me that reassurance that, okay, this is a real pillar of business.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Demonstrates a shift in understanding AI's role in business growth.",
+      "suggested_hook": "Discover how AI can become a cornerstone of your real estate strategy."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"AI can transform your real estate game—are you ready?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black shared a game-changing insight on our podcast. Imagine leveraging AI to not just generate leads but to transform your entire business strategy. You're hustling, trying to stand out, but feel like you're missing a key piece. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Justin said, 'It's all of it. And it just blew my mind and it just gave me that reassurance that, okay, this is a real pillar of business.' [ON-SCREEN: AI as a business pillar] Most agents dabble in tech. Top producers make AI a cornerstone. [ON-SCREEN: AI = cornerstone] This shift can redefine your growth trajectory.\",\n    \"REFRAME/APPLICATION\": \"Why now? AI is evolving fast. Start small—integrate AI tools for lead generation this week. [ON-SCREEN: Start this week] Justin's approach helped him close 47 deals last year. You can do this today.\",\n    \"CTA\": \"Are you using AI in your strategy yet—yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock AI's potential in real estate. Is it your cornerstone yet? #RealEstateAI\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#AIinRealEstate\", \"#LeadGeneration\", \"#RealEstateGrowth\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents dabble in tech. Top producers make AI a cornerstone.\"\n}\n```"
+  }
+]

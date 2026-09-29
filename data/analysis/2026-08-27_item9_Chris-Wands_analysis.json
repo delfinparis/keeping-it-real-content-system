@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Wands",
+    "title": "Founder of the Wands Team",
+    "company": "Douglas Elliman",
+    "production_level": "Over a billion in sales",
+    "specialty": "Luxury real estate",
+    "location": "Miami"
+  },
+  "main_topics": [
+    "Importance of rentals in real estate",
+    "Building a successful real estate team",
+    "Leveraging AI and technology in real estate",
+    "Work-life balance in real estate",
+    "Networking and client management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Converting small rental deals into larger sales",
+      "solution_summary": "Treat every client the same, regardless of transaction size, to build long-term relationships.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Scaling a real estate team effectively",
+      "solution_summary": "Ensure infrastructure and systems are in place before expanding the team.",
+      "timestamp": "00:44:01"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Staying motivated with small deals",
+      "solution_summary": "Focus on the potential future value of relationships rather than immediate commission.",
+      "timestamp": "00:27:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Chris shares insights on how to grow from small deals to large luxury transactions.",
+      "key_takeaway": "Every transaction is an opportunity to build a lasting client relationship that can lead to bigger deals."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Chris discusses the importance of having the right infrastructure before scaling a team.",
+      "key_takeaway": "Ensure your systems and processes are robust before expanding your team to maintain quality and efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:02",
+      "end_timestamp": "00:08:28",
+      "quote": "If you do good enough on your job, money will become a byproduct of it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This highlights a fundamental mindset shift from focusing on money to focusing on quality service.",
+      "suggested_hook": "Why focusing on service, not sales, is the key to real estate success."
+    },
+    {
+      "timestamp": "00:35:04",
+      "end_timestamp": "00:35:22",
+      "quote": "Everyone's risk tolerance is different. You have to provide enough knowledge for them to make their own decisions.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It emphasizes the importance of client education and personalized advice.",
+      "suggested_hook": "How to tailor your real estate advice to fit each client's unique risk tolerance."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Set reminders for lease renewals to maintain contact with rental clients.",
+      "context": "Use this tactic to convert renters into buyers by staying top of mind.",
+      "timestamp": "01:05:02"
+    },
+    {
+      "tactic": "Utilize social media for client engagement and research.",
+      "context": "Monitor clients' social media to find touchpoints for engagement.",
+      "timestamp": "01:02:56"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate isn't heart surgery. It's really simple if you can figure it out.",
+    "Treat every transaction the same, whether it's a $500,000 deal or a $55 million sale."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Close CRM",
+      "context": "Recommended for its efficiency and ease of use in managing client relationships."
+    }
+  ],
+  "episode_summary": "Chris Wands shares his journey from handling small rental deals to leading a top-producing luxury real estate team in Miami. He emphasizes the importance of treating every client with the same level of service, leveraging technology for efficiency, and ensuring proper infrastructure before scaling a team. Chris also highlights the role of social media in maintaining client relationships and the significance of work-life balance.",
+  "_metadata": {
+    "source_file": "2026-08-27_item9_Chris-Wands",
+    "analyzed_at": "2026-09-29T10:43:06.740266",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

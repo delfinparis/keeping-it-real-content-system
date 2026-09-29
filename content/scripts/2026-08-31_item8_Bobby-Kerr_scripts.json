@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:19:00",
+      "end_timestamp": "00:20:00",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of generic content posting.",
+      "suggested_hook": "Are you just another mirror in the sea of agents?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you just another mirror in the sea of agents?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr recently shared a game-changing insight on our podcast. Are you posting generic content and wondering why it’s not working? Google is suppressing profiles that mirror thousands of others. Sound familiar?\",\n    \"INSIGHT\": \"Bobby Kerr said, 'Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.' [ON-SCREEN: Google suppresses generic profiles] Most agents post the same content. Top producers create unique, hyper-local content. [ON-SCREEN: Create hyper-local content]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Stand out by optimizing your Google Business Profile with local insights. You can start today by sharing a local market update. [ON-SCREEN: Start today with local insights]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop being just another agent. Optimize your Google Business Profile today! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#GoogleBusiness\", \"#AgentTips\", \"#RealEstateAdvice\", \"#HyperLocalContent\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Google is suppressing profiles that mirror thousands of others.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:50:00",
+      "end_timestamp": "00:51:00",
+      "quote": "The holy grail of a five-star review involves five key elements.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable framework for generating impactful reviews.",
+      "suggested_hook": "Want to master the art of the perfect review?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to master the art of the perfect review?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr shared a game-changing framework on our latest episode. Imagine this: you're asking clients for reviews, but they’re generic and lack impact. Sound familiar?\",\n    \"INSIGHT\": \"Bobby revealed the holy grail of a five-star review involves five key elements. [ON-SCREEN: 5 Key Elements] These include specificity, emotion, a clear outcome, a personal touch, and a call to action. [ON-SCREEN: Specificity, Emotion, Outcome, Personal Touch, Call to Action] Most agents just ask for reviews. Top producers guide clients on what to highlight.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start crafting impactful reviews today. Bobby's approach helped him generate 50% more client referrals last year. [ON-SCREEN: 50% More Referrals]\",\n    \"CTA\": \"Are you guiding your clients on reviews — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock the secret to impactful client reviews with Bobby Kerr's 5-step framework.\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientReviews\",\n    \"#TopProducerSecrets\",\n    \"#RealEstateMarketing\",\n    \"#AgentSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Bobby revealed the holy grail of a five-star review involves five key elements.\"\n}\n```"
+  }
+]

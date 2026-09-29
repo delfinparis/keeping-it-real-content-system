@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Wolf",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "Top Producer",
+    "specialty": "Luxury Real Estate",
+    "location": "El Dorado Hills, California"
+  },
+  "main_topics": [
+    "Transition from House Flipping to Real Estate",
+    "Cold Calling and Open Houses for Lead Generation",
+    "Building a Real Estate Business from Scratch",
+    "Time Management and Daily Routines",
+    "Using Technology and Systems for Efficiency"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market without a sphere of influence",
+      "solution_summary": "Chris used open houses and cold calling to generate 95% of his business in his first year.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of cold calling",
+      "solution_summary": "Chris developed a friendly and disarming script to make cold calls more effective.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Staying organized and focused on critical tasks",
+      "solution_summary": "Chris uses a system called Activate Daily to track and complete critical tasks each day.",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Chris started in a new market with no connections and succeeded quickly.",
+      "key_takeaway": "Focus on open houses and cold calling to build your business from scratch."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Chris doubled his commission in his second year.",
+      "key_takeaway": "Consistent daily outreach and a focus on high-value tasks can rapidly grow your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "15:30",
+      "quote": "Most people can't and won't do it. But if you can do it consistently, you will get business from it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common fear of cold calling and emphasizes the importance of consistency.",
+      "suggested_hook": "Are you avoiding cold calls? Here's why you shouldn't."
+    },
+    {
+      "timestamp": "42:00",
+      "end_timestamp": "43:30",
+      "quote": "What are the couple of really critical things that if you get them done, your business is going to grow?",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the importance of focusing on key tasks for business growth.",
+      "suggested_hook": "Struggling to grow your business? Focus on these key tasks."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Cold calling with a disarming script",
+      "context": "Use a friendly and informal approach to reduce resistance during cold calls.",
+      "timestamp": "14:00"
+    },
+    {
+      "tactic": "Daily critical task tracking",
+      "context": "Use a system like Activate Daily to ensure you complete key tasks every day.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "The gift of desperation can drive you to succeed.",
+    "If you can make it work in a bad market, you'll thrive in a good one."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Activate Daily",
+      "context": "A system Chris developed to track his daily critical tasks."
+    }
+  ],
+  "episode_summary": "Chris Wolf shares his journey from a failed house flipping business to becoming a top-producing real estate agent in a new market. He emphasizes the power of open houses and cold calling for lead generation and discusses the importance of focusing on critical daily tasks to drive business growth.",
+  "_metadata": {
+    "source_file": "2026-09-22_item3_Chris-Wolfe",
+    "analyzed_at": "2026-09-29T10:48:00.340889",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

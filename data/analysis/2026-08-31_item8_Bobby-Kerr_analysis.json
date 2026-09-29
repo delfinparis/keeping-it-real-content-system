@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Bobby Kerr",
+    "title": "Founder",
+    "company": "Locate My Business",
+    "production_level": null,
+    "specialty": "Google Business Profile Optimization",
+    "location": "US and Canada"
+  },
+  "main_topics": [
+    "Importance of Google Business Profiles",
+    "Optimizing Google Business Profiles for Real Estate",
+    "Generating Reviews and Hyper-local Content",
+    "Impact of AI on Real Estate Marketing",
+    "Strategies for Requesting Client Reviews"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not appearing in local searches",
+      "solution_summary": "Optimize Google Business Profile with hyper-local content and consistent updates.",
+      "timestamp": "00:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Low conversion from online presence",
+      "solution_summary": "Use Google Business Profile to showcase reviews and local expertise.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic online presence",
+      "solution_summary": "Create non-commoditized, hyper-local content to stand out.",
+      "timestamp": "00:19:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to enhance visibility and lead generation through Google Business Profiles.",
+      "key_takeaway": "Focus on optimizing your Google Business Profile with hyper-local content and consistent reviews."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode highlights advanced tactics for leveraging AI and Google Business Profiles to dominate local markets.",
+      "key_takeaway": "Utilize AI insights and Google tools to become the go-to agent in your area."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:19:00",
+      "end_timestamp": "00:20:00",
+      "quote": "Google is quite literally suppressing those types of profiles because they say I don't need to promote 10,000 mirrors of 10,000 other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common practice of generic content posting.",
+      "suggested_hook": "Are you just another mirror in the sea of agents?"
+    },
+    {
+      "timestamp": "00:50:00",
+      "end_timestamp": "00:51:00",
+      "quote": "The holy grail of a five-star review involves five key elements.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable framework for generating impactful reviews.",
+      "suggested_hook": "Want to master the art of the perfect review?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use question and answer format for posts",
+      "context": "Post hyper-local content in a Q&A format to align with search intent.",
+      "timestamp": "00:38:00"
+    },
+    {
+      "tactic": "Request reviews at the closing table",
+      "context": "Ask for reviews when clients are happiest, using a QR code for easy access.",
+      "timestamp": "00:52:00"
+    }
+  ],
+  "quotable_insights": [
+    "Google is the first step in the consumer journey and your business profile is the front door.",
+    "The more niche and specific you are, the more likely you are to succeed."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Locate My Business",
+      "context": "Bobby Kerr's company that specializes in optimizing Google Business Profiles."
+    }
+  ],
+  "episode_summary": "In this episode, Bobby Kerr discusses the critical role of Google Business Profiles in real estate marketing, emphasizing the importance of hyper-local content and consistent reviews. He provides actionable strategies for optimizing profiles to increase visibility and lead generation, while also highlighting the impact of AI on consumer search behavior.",
+  "_metadata": {
+    "source_file": "2026-08-31_item8_Bobby-Kerr",
+    "analyzed_at": "2026-09-29T10:43:46.592225",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

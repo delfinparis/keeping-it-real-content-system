@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": "Not mentioned",
+    "production_level": "$65M producer",
+    "specialty": "YouTube lead generation",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Consistency and perseverance in content creation",
+    "The importance of video editing",
+    "Client relationships from YouTube leads",
+    "Challenges and strategies in real estate marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through YouTube videos",
+      "solution_summary": "Consistently produce content and increase video output to build momentum.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Time-consuming nature of video editing",
+      "solution_summary": "Hire an editor to handle video editing tasks to maintain consistency.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Discouragement from slow initial results",
+      "solution_summary": "Commit to a timeline and trust the process, knowing success may take time.",
+      "timestamp": "00:10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses strategies to scale business using YouTube.",
+      "key_takeaway": "Consistency and strategic video content can significantly boost lead generation and sales."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Provides a roadmap for starting with video content in real estate.",
+      "key_takeaway": "Start with simple tools and focus on consistency rather than perfection."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:13",
+      "quote": "This agent made YouTube videos for two years before she closed her first deal from the channel.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the perseverance required for success, which can inspire viewers.",
+      "suggested_hook": "Ever wondered how long it takes to see results from YouTube marketing?"
+    },
+    {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:30",
+      "quote": "I doubled my business this year from last year.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the tangible results of a successful strategy.",
+      "suggested_hook": "Want to know how to double your business in a year?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Produce two videos per week to increase visibility and lead generation.",
+      "context": "When starting out and trying to gain traction on YouTube.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "tactic": "Hire an editor to maintain video production consistency.",
+      "context": "To avoid burnout and focus on content creation.",
+      "timestamp": "00:16:00"
+    }
+  ],
+  "quotable_insights": [
+    "All my YouTube clients are all my favorite because it's so easy. They know who I am.",
+    "If all these other people are having success with it, I'm getting people that are calling me."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "For recruiting and retention using AI insights."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her journey of using YouTube as a powerful lead generation tool in real estate. Despite initial challenges, her commitment to consistent content creation led to significant business growth. The discussion highlights the importance of hiring an editor, maintaining perseverance, and the unique client relationships formed through YouTube.",
+  "_metadata": {
+    "source_file": "2026-09-16_item5_Sarah-Maslowski",
+    "analyzed_at": "2026-09-29T10:46:19.684951",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

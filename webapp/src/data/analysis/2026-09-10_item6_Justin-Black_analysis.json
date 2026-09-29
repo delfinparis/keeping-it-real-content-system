@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Justin Black",
+    "title": "Real Estate Advisor",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "Top 0.75% of U.S. agents",
+    "specialty": "Luxury mountain market",
+    "location": "Breckenridge, Colorado"
+  },
+  "main_topics": [
+    "Using AI for lead generation",
+    "Building a website for SEO and AI optimization",
+    "Strategies for working with expired listings",
+    "Creating content that attracts AI attention",
+    "The importance of positioning in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from AI rather than traditional methods",
+      "solution_summary": "Create a website optimized for AI to find and recommend you to potential clients.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Expired listings not selling due to poor positioning",
+      "solution_summary": "Send comprehensive packages to expired listings, focusing on positioning rather than just pricing.",
+      "timestamp": "00:39:12"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides advanced strategies for using AI to generate high-value leads.",
+      "key_takeaway": "Optimize your online presence for AI to tap into a new source of luxury clientele."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical steps to improve lead generation and conversion through AI and content creation.",
+      "key_takeaway": "Leverage AI to identify and address the specific questions your potential clients are asking."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:04",
+      "end_timestamp": "00:03:39",
+      "quote": "This is not about rewriting your listing descriptions... We're going to get into how to feed AI so that you show up in the search results.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the episode's focus on advanced AI strategies beyond basic uses.",
+      "suggested_hook": "Are you using AI to its full potential in your real estate business?"
+    },
+    {
+      "timestamp": "00:20:10",
+      "end_timestamp": "00:20:32",
+      "quote": "It's all of it. And it just blew my mind and it just gave me that reassurance that, okay, this is a real pillar of business.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Demonstrates a shift in understanding AI's role in business growth.",
+      "suggested_hook": "Discover how AI can become a cornerstone of your real estate strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create AI-optimized content by answering real client questions.",
+      "context": "Use client FAQs to generate content that AI can find and use.",
+      "timestamp": "00:05:04"
+    },
+    {
+      "tactic": "Use FedEx to send comprehensive packages to expired listings.",
+      "context": "Stand out by providing value and insights rather than just a sales pitch.",
+      "timestamp": "00:45:00"
+    }
+  ],
+  "quotable_insights": [
+    "AI is not just for writing your listing descriptions; it's a tool to get recommended to sellers who have never heard of you.",
+    "Your listings didn't fail, your positioning did."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for creating and optimizing website content for AI."
+    },
+    {
+      "type": "website",
+      "name": "AskThePublic.com",
+      "context": "For generating questions that potential clients might ask."
+    }
+  ],
+  "episode_summary": "In this episode, Justin Black shares how he uses AI to generate nearly $5 million in listings by optimizing his online presence for AI search results. He discusses the importance of creating content that answers real client questions and how to effectively use expired listings as a source of business. Justin also provides insights into building a website that attracts AI attention and the role of positioning in real estate success.",
+  "_metadata": {
+    "source_file": "2026-09-10_item6_Justin-Black",
+    "analyzed_at": "2026-09-29T10:45:33.575268",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

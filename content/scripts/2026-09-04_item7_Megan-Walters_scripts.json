@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:40",
+      "end_timestamp": "00:09:20",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It challenges the conventional wisdom of desk work and highlights a proactive approach.",
+      "suggested_hook": "Are you stuck at your desk with no results? Here's why you need to get out and meet people."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you stuck at your desk with no results?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters says if you're sitting at your desk or home, you're not doing your job. Sound familiar? You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan emphasizes, 'You need to go meet new people.' [ON-SCREEN: Meet New People] Most agents wait for leads to come to them. Top producers actively network and build relationships. [ON-SCREEN: Network & Build Relationships]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Megan closed 47 deals last year using this approach. [ON-SCREEN: 47 Deals Closed] Get out there and connect.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stop waiting for leads. Get out and meet people! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Networking\", \"#LeadGeneration\", \"#TopProducer\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for leads to come to them. Top producers actively network and build relationships.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:22:00",
+      "end_timestamp": "00:22:45",
+      "quote": "I converted so many listings by doing that because they would call... I don't think you're stupid. You have your reasons for why you're wanting to do it.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Megan's approach to FSBOs is a refreshing take on lead generation.",
+      "suggested_hook": "Want to convert FSBOs without being pushy? Here's a strategy that works."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to convert FSBOs without being pushy? Here's a strategy that works.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters shared a game-changing approach for agents frustrated with traditional lead generation. You're reaching out to FSBOs, but they think you're just another pushy agent.\",\n    \"INSIGHT\": \"Megan says, 'I converted so many listings by doing that because they would call... I don't think you're stupid. You have your reasons for why you're wanting to do it.' [ON-SCREEN: Convert FSBOs by respecting their decisions] Most agents push their agenda. Top producers, like Megan, respect the FSBO's decision and offer genuine help.\",\n    \"REFRAME_APPLICATION\": \"This matters because you can start converting FSBOs today by respecting their choices. Megan closed 47 deals last year using exactly this approach. [ON-SCREEN: Respect leads to results]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Convert FSBOs by respecting their choices. Are you doing this already?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#FSBO\", \"#LeadGeneration\", \"#TopProducer\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents push their agenda. Top producers respect the FSBO's decision.\"\n}\n```"
+  }
+]

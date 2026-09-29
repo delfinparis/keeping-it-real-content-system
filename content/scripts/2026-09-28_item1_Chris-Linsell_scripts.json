@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:00",
+      "end_timestamp": "16:30",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the industry.",
+      "suggested_hook": "Is your real estate career at risk of becoming obsolete?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is your real estate career at risk of becoming obsolete?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell warns that if your only skill is opening a lock box, you might soon be a gig worker. Many agents feel stuck, just opening doors and hoping for a sale. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.' [ON-SCREEN: Reclassified as gig worker] Most agents rely on basic tasks. Top producers build unique value propositions. [ON-SCREEN: Build unique value]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start redefining your role today by focusing on skills that technology can't replace. [ON-SCREEN: Redefine your role] Chris Linsell has seen agents transform their careers using this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your real estate career at risk? Discover how to stay ahead. #RealEstate #AgentTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AgentTips\", \"#AIImpact\", \"#FutureOfWork\", \"#RealTalk\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"If your only skill is opening a lock box, you might soon be a gig worker.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "You right now should be building your following because that's one thing that AI can't do.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of personal branding in an AI-driven world.",
+      "suggested_hook": "Why building your personal brand is more important than ever in real estate."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"AI can't build your personal brand for you.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell says, in a world dominated by AI, your personal brand is your secret weapon. You're posting on social media, but it feels like shouting into the void.\",\n    \"INSIGHT\": \"Chris emphasizes, 'You right now should be building your following because that's one thing that AI can't do.' [ON-SCREEN: Build your following] Most agents rely on tech. Top producers build relationships. [ON-SCREEN: Relationships over tech]\",\n    \"REFRAME/APPLICATION\": \"This matters because personal connections can't be automated. Start engaging with your audience today. Chris used this to close 47 deals last year. [ON-SCREEN: Engage today]\",\n    \"CTA\": \"Are you focusing on your brand — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"In an AI-driven world, your personal brand is your edge. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#PersonalBranding\", \"#AI\", \"#RealEstateAgent\", \"#SocialMedia\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"You right now should be building your following because that's one thing that AI can't do.\"\n}\n```"
+  }
+]

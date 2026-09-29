@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": "Not mentioned",
+    "production_level": "Over $200 million in annual sales as a brokerage owner",
+    "specialty": "High performance coaching for real estate agents",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Scalability in real estate business",
+    "Time management and productivity",
+    "Importance of follow-up systems",
+    "Balancing personal and professional commitments",
+    "Building relationships in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing multiple commitments like Uber driving, board memberships, and training for Iron Man while trying to scale a real estate business.",
+      "solution_summary": "Focus on prioritizing tasks that align with business goals and consider reducing non-essential activities.",
+      "timestamp": "30:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of consistent follow-up with past clients and leads.",
+      "solution_summary": "Implement a structured follow-up system using CRM tools and personalized touches.",
+      "timestamp": "24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "The episode addresses challenges faced by agents who have established their business but struggle to scale further.",
+      "key_takeaway": "Identify and prioritize activities that directly contribute to business growth while managing time effectively."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "45:00",
+      "end_timestamp": "46:00",
+      "quote": "Real estate is a long-term game; it's a marathon, not a sprint.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of patience and long-term planning in real estate.",
+      "suggested_hook": "Are you treating your real estate career like a sprint or a marathon?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use CRM systems for automated follow-ups",
+      "context": "To ensure consistent communication with past clients and leads.",
+      "timestamp": "24:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem; it has a you problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM solutions."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for recruiting and retention using AI to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches a real estate agent on how to scale his business amidst numerous personal and professional commitments. The discussion focuses on the importance of prioritizing tasks, implementing consistent follow-up systems, and leveraging CRM tools to maintain client relationships. Michael emphasizes the need for agents to align their activities with long-term business goals.",
+  "_metadata": {
+    "source_file": "2026-09-17_item4_Michael-Opyd",
+    "analyzed_at": "2026-09-29T10:47:05.679217",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

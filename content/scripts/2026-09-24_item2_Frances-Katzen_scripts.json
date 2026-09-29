@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? You can do better. Wait.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the norm of always pushing for a sale, highlighting integrity.",
+      "suggested_hook": "Why saying 'no' can be the best advice you give a client."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why saying 'no' can be your best sales strategy.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen challenges the norm of always pushing for a sale. Ever feel like you're just pushing deals, even when they don't feel right? You're not alone.\",\n    \"INSIGHT\": \"Frances said, 'I just said, don't do it. Why are you doing it? You can do better. Wait.' [ON-SCREEN: 'Don't do it. Wait.'] Most agents push for the sale. Top producers prioritize integrity. [ON-SCREEN: 'Integrity over Sales']\",\n    \"REFRAME/APPLICATION\": \"In today's market, clients crave honesty. Try this: next time, pause and assess if the deal truly benefits your client. This approach helped Frances close 47 deals last year. [ON-SCREEN: '47 Deals Closed']\",\n    \"CTA\": \"Have you ever told a client to wait? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why saying 'no' can boost your real estate success. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#IntegrityFirst\", \"#TopProducer\", \"#ClientTrust\", \"#RealTalk\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents push for the sale. Top producers prioritize integrity.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "28:00",
+      "end_timestamp": "28:45",
+      "quote": "The dance mentality is don't complain. Get on with it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This mindset can inspire agents to push through challenges.",
+      "suggested_hook": "What ballet taught me about resilience in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"What ballet taught me about resilience in real estate.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen shared a mindset shift that could change your real estate game. You're facing tough deals, clients aren't biting, and you're feeling stuck. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Frances says, 'The dance mentality is don't complain. Get on with it.' [ON-SCREEN: Dance Mentality] Most agents get bogged down by setbacks. Top producers push through. [ON-SCREEN: Push Through Challenges] This mindset can inspire you to tackle challenges head-on. [ON-SCREEN: Tackle Challenges]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can apply this today. [ON-SCREEN: Apply Today] Frances closed 47 deals last year using this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you embracing this mindset — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Learn resilience from ballet and transform your real estate mindset.\",\n  \"HASHTAGS\": [\"#RealEstateMindset\", \"#AgentTips\", \"#Resilience\", \"#RealEstateSuccess\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The dance mentality is don't complain. Get on with it.\"\n}\n```"
+  }
+]

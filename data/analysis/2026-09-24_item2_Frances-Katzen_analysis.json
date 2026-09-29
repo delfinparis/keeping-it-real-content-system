@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Frances Katzen",
+    "title": "Team Leader",
+    "company": "Douglas Elliman",
+    "production_level": "Top 10 Teams at Douglas Elliman since 2010",
+    "specialty": "Luxury Real Estate",
+    "location": "Manhattan, New York City"
+  },
+  "main_topics": [
+    "Pietta Tear Tax Impact",
+    "Building a Personal Brand",
+    "Importance of Having an Opinion",
+    "Consistency in Marketing",
+    "Leveraging Media Appearances"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of Pietta Tear Tax on New York Real Estate",
+      "solution_summary": "Frances discusses the uncertainty and misinformation surrounding the tax and advises on staying informed and adaptable.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Frances emphasizes the importance of having a strong opinion and being authentic to differentiate oneself.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Effective marketing strategies",
+      "solution_summary": "Frances shares her success with the Katzen Report, a monthly market report that provides value and builds client relationships.",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Frances's insights on building a brand and leveraging media can help agents looking to elevate their status.",
+      "key_takeaway": "Consistency and authenticity in marketing can significantly boost your brand and client trust."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Frances discusses how to empower team members while maintaining brand integrity.",
+      "key_takeaway": "Encourage team members to have their own opinions and leverage the team's collective strength."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? You can do better. Wait.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the norm of always pushing for a sale, highlighting integrity.",
+      "suggested_hook": "Why saying 'no' can be the best advice you give a client."
+    },
+    {
+      "timestamp": "28:00",
+      "end_timestamp": "28:45",
+      "quote": "The dance mentality is don't complain. Get on with it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This mindset can inspire agents to push through challenges.",
+      "suggested_hook": "What ballet taught me about resilience in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a unique market report",
+      "context": "Use it to engage clients and differentiate yourself in the market.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Leverage media appearances",
+      "context": "Build credibility and attract clients by being a go-to expert for journalists.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency wins the race.",
+    "Having an opinion is the most profitable thing you can ever do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining agents."
+    }
+  ],
+  "episode_summary": "In this episode, Frances Katzen shares her insights on the impact of the Pietta Tear Tax on New York's real estate market and the importance of having a strong personal brand. She emphasizes the value of consistency in marketing and how her monthly Katzen Report has been a key tool in building client relationships. Frances also discusses the role of media appearances in establishing credibility and attracting high-profile clients.",
+  "_metadata": {
+    "source_file": "2026-09-24_item2_Frances-Katzen",
+    "analyzed_at": "2026-09-29T10:48:54.602291",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

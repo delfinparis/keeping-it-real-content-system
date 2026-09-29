@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Megan Walters",
+    "title": "REALTOR, Real Estate Investor, Educator",
+    "company": "Walters Team at eXp",
+    "production_level": "Top 1% of agents nationwide",
+    "specialty": "Real estate investment and education",
+    "location": "Columbia, Missouri"
+  },
+  "main_topics": [
+    "Lead generation without buying leads or cold calling",
+    "Building a personal brand over brokerage brand",
+    "Time management and productivity strategies",
+    "Real estate investment strategies",
+    "Social media marketing for REALTORS"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without buying them or cold calling",
+      "solution_summary": "Megan uses social media, networking, and providing value to FSBOs and expired listings to generate leads.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing productivity without being desk-bound",
+      "solution_summary": "Megan works from public spaces like coffee shops to meet new people and uses early mornings for focused work.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a personal brand over relying on brokerage brand",
+      "solution_summary": "Megan emphasizes personal branding and self-promotion over brokerage branding to maintain business continuity.",
+      "timestamp": "00:44:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for agents who are not seeing growth despite putting in hours.",
+      "key_takeaway": "Focus on building personal connections and brand, and leverage social media for organic growth."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Megan's strategies for scaling without traditional lead buying are valuable for agents aiming for top production.",
+      "key_takeaway": "Develop repeatable systems and focus on organic lead generation methods."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:40",
+      "end_timestamp": "00:09:20",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It challenges the conventional wisdom of desk work and highlights a proactive approach.",
+      "suggested_hook": "Are you stuck at your desk with no results? Here's why you need to get out and meet people."
+    },
+    {
+      "timestamp": "00:22:00",
+      "end_timestamp": "00:22:45",
+      "quote": "I converted so many listings by doing that because they would call... I don't think you're stupid. You have your reasons for why you're wanting to do it.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Megan's approach to FSBOs is a refreshing take on lead generation.",
+      "suggested_hook": "Want to convert FSBOs without being pushy? Here's a strategy that works."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Work from public places to meet potential clients",
+      "context": "Instead of staying at a desk, work from coffee shops and engage with people around you.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "tactic": "Provide value to FSBOs and expired listings without being pushy",
+      "context": "Leave helpful information and contact details without pressuring them to list with you.",
+      "timestamp": "00:22:00"
+    },
+    {
+      "tactic": "Use social media to consistently post content",
+      "context": "Post daily videos and content to build a following and generate leads.",
+      "timestamp": "00:31:00"
+    }
+  ],
+  "quotable_insights": [
+    "You're not doing anything wrong. You're keeping your integrity. Let them talk because it means that they're actually talking about you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used to create marketing materials for FSBOs and expired listings."
+    }
+  ],
+  "episode_summary": "In this episode, Megan Walters shares her unique approach to real estate success without buying leads or cold calling. She emphasizes the importance of personal branding, social media marketing, and providing value to potential clients. Megan's strategies focus on organic growth and building a sustainable business through repeatable systems and community engagement.",
+  "_metadata": {
+    "source_file": "2026-09-04_item7_Megan-Walters",
+    "analyzed_at": "2026-09-29T10:44:34.079262",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
