@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the face of AI advancements.",
+      "suggested_hook": "Is your real estate career at risk of becoming obsolete?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is your real estate career at risk of becoming obsolete?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell recently shared a bold prediction on our podcast. If you're a real estate agent who only knows how to operate a lock box, you might soon be reclassified as a gig worker. Feeling like your skills are being overshadowed by tech advancements?\",\n    \"INSIGHT\": \"Chris warns that AI is reshaping the industry. [ON-SCREEN: AI reshaping real estate] Most agents rely on basic tasks. Top producers, however, build unique value propositions. [ON-SCREEN: Unique value proposition] Chris says, 'If you are a real estate agent who has no value outside of your ability to operate a lock box, you will be reclassified as a gig worker.'\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start by identifying what makes you indispensable. [ON-SCREEN: Become indispensable] You can do this today by enhancing your client relationships and offering insights AI can't replicate.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your real estate career at risk? Discover how to stay relevant in the AI era.\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AI\",\n    \"#AgentTips\",\n    \"#RealEstateAdvice\",\n    \"#FutureOfWork\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"If you are a real estate agent who has no value outside of your ability to operate a lock box, you will be reclassified as a gig worker.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "Get people hooked on you as a human being through social media.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for agents to build their personal brand.",
+      "suggested_hook": "How to make social media your secret weapon in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to turn your social media into a real estate magnet?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell says social media is your untapped goldmine. You're posting listings, but nobody's engaging. You're thinking, 'Why isn't this working?'\",\n    \"INSIGHT\": \"Chris suggests, 'Get people hooked on you as a human being through social media.' [ON-SCREEN: Human Connection] Most agents post listings. Top producers share their stories. [ON-SCREEN: Share Your Story]\",\n    \"REFRAME/APPLICATION\": \"This matters because authentic connections drive business. Start today by sharing one personal story. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Have you shared your story on social media yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform your social media into a client magnet by being authentically you! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#SocialMediaStrategy\",\n    \"#AgentBranding\",\n    \"#RealEstateMarketing\",\n    \"#Authenticity\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Get people hooked on you as a human being through social media.\"\n}\n```"
+  }
+]

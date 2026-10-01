@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:45",
+      "quote": "If you haven't been active on your Google profile, Google views your business as a dying or dead business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of maintaining an active online presence.",
+      "suggested_hook": "Is your Google Business Profile making you invisible?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your Google Business Profile making you invisible?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr recently shared a crucial insight on our podcast. If your Google Business Profile isn't active, Google might see your business as dying or even dead. Imagine spending hours on outreach, but your online presence tells a different story. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Bobby said, 'If you haven't been active on your Google profile, Google views your business as a dying or dead business.' [ON-SCREEN: Google views your business as dying] Most agents ignore this, but top producers keep their profiles updated with hyper-local content and leverage reviews for SEO. [ON-SCREEN: Hyper-local content boosts visibility]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can update your profile today with fresh content and ask clients for reviews. [ON-SCREEN: Update your profile today] Bobby's approach helped agents close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your Google Business Profile making you invisible? Here's how to fix it today.\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#GoogleBusiness\",\n    \"#SEO\",\n    \"#AgentSuccess\",\n    \"#DigitalPresence\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If you haven't been active on your Google profile, Google views your business as a dying or dead business.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:50:00",
+      "end_timestamp": "00:51:00",
+      "quote": "The holy grail of a five-star review involves five key elements that most agents overlook.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a step-by-step guide to maximizing the impact of client reviews.",
+      "suggested_hook": "Are your reviews helping or hurting your business?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are your reviews helping or hurting your business?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bobby Kerr shared a game-changing insight on our podcast. If you're like most agents, you're collecting reviews but not maximizing their impact. You're getting five-star ratings, but are they driving new business? Here's the part nobody talks about...\",\n    \"INSIGHT\": \"Bobby says the holy grail of a five-star review involves five key elements most agents overlook. [ON-SCREEN: 5 Key Elements] First, mention specific services you provided. [ON-SCREEN: Specific Services] Second, include location details to boost local SEO. [ON-SCREEN: Location Details] Third, use client quotes for authenticity. [ON-SCREEN: Client Quotes] Fourth, highlight unique challenges you overcame. [ON-SCREEN: Unique Challenges] Lastly, ask clients to mention your name to personalize the review. [ON-SCREEN: Personalize Review]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can implement these steps today to enhance your online presence. Bobby closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Maximize your reviews with these 5 overlooked elements. Are you using them?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#SEO\", \"#ClientReviews\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"The holy grail of a five-star review involves five key elements most agents overlook.\"\n}\n```"
+  }
+]

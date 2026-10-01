@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Most people can't and won't do it. I could talk to me, I'm doing millions of dollars a year from this.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the power of cold calling and the mindset needed to succeed.",
+      "suggested_hook": "Why most agents fail at cold calling and how you can succeed."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why do most agents fail at cold calling?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Wolfe says most people can't and won't succeed with cold calling. You're dialing numbers, hearing rejections, and thinking, 'This isn't for me.' But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris Wolfe shares, 'Most people can't and won't do it. I could talk to me, I'm doing millions of dollars a year from this.' [ON-SCREEN: Millions from cold calling] Most agents quit after a few calls. Top producers push through, refining their pitch and mindset. [ON-SCREEN: Top producers push through]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Chris built his business from scratch in a new market using this approach. [ON-SCREEN: Start today] You can do this too.\",\n    \"CTA\": \"Are you cold calling consistently — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Most agents fail at cold calling. Here's how you can succeed. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#ColdCalling\", \"#AgentSuccess\", \"#LeadGeneration\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most people can't and won't do it. I could talk to me, I'm doing millions of dollars a year from this.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "40:11",
+      "end_timestamp": "40:36",
+      "quote": "If you can learn how to make it work now and develop skills in this market, you're going to be fine.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to see current market challenges as opportunities for growth.",
+      "suggested_hook": "Why a tough market is the best time to build your real estate skills."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why a tough market is your best opportunity yet.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Wolfe shared a game-changing mindset shift on our podcast. If you're struggling with lead generation or feeling overwhelmed by the current market, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'If you can learn how to make it work now and develop skills in this market, you're going to be fine.' [ON-SCREEN: Develop skills now] Most agents retreat when things get tough. Top producers see it as a chance to sharpen their skills. [ON-SCREEN: Opportunity for growth]\",\n    \"REFRAME/APPLICATION\": \"This matters because the skills you build today will set you apart tomorrow. You can start by focusing on open houses or cold calling this week. Chris transitioned from house flipping to sales and built a thriving business in a new market. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you ready to embrace the challenge — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Tough markets build strong agents. Are you ready to level up? #RealEstateGrowth\",\n  \"HASHTAGS\": [\"#RealEstateGrowth\", \"#AgentMindset\", \"#MarketOpportunities\", \"#RealEstateTips\", \"#SkillBuilding\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"If you can learn how to make it work now, you're going to be fine.\"\n}\n```"
+  }
+]

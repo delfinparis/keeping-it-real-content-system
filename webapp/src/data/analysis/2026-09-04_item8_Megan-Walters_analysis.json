@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Megan Walters",
+    "title": "REALTOR, Real Estate Investor, Educator",
+    "company": "Walters Team at eXp",
+    "production_level": "Top 1% of agents nationwide",
+    "specialty": "Real estate investment and education",
+    "location": "Columbia, Missouri"
+  },
+  "main_topics": [
+    "Lead generation without buying leads",
+    "Building a personal brand",
+    "Time management and productivity",
+    "Real estate investment strategies",
+    "Social media marketing for REALTORS"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without buying them or cold calling",
+      "solution_summary": "Engage with people in public spaces like coffee shops, provide value to FSBOs, and leverage social media.",
+      "timestamp": "07:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a brand independent of brokerage",
+      "solution_summary": "Focus on personal branding and use social media to establish a distinct identity.",
+      "timestamp": "44:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing productivity in real estate",
+      "solution_summary": "Start the day early, complete CRM tasks before 8 AM, and use time efficiently for client interactions.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on scaling a real estate business without traditional lead purchasing.",
+      "key_takeaway": "Focus on building a personal brand and leveraging free resources for lead generation."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start generating leads without a large budget.",
+      "key_takeaway": "Utilize local networking and social media to build initial client relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It challenges the conventional wisdom of desk work and emphasizes proactive engagement.",
+      "suggested_hook": "Are you spending too much time at your desk? Here's why you shouldn't."
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "I converted so many listings by doing that because they would call. They were like, 'Do you know how many agents just told me that I was being stupid for doing a FSBO?'",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Highlights a unique approach to converting FSBOs by offering help instead of criticism.",
+      "suggested_hook": "Want to convert FSBOs into clients? Try this unconventional approach."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Drop off helpful packets to FSBOs without knocking or calling.",
+      "context": "Use this tactic to provide value and stand out from other agents.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Engage in local networking outside of real estate circles.",
+      "context": "Join local chambers or networking events to meet potential clients.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Post daily short-form videos on social media.",
+      "context": "Use these videos to answer common client questions and showcase local expertise.",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "Let them talk because it means that they're actually talking about you.",
+    "A REALTOR is there for the person and to be a guide."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A CRM and marketing tool for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "Megan Walters shares her journey from a 22-year-old new agent to a top 1% producer without buying leads or cold calling. She emphasizes the importance of personal branding, leveraging social media, and engaging with the community to generate business. Her approach to real estate investment and productivity offers actionable insights for agents looking to scale their business.",
+  "_metadata": {
+    "source_file": "2026-09-04_item8_Megan-Walters",
+    "analyzed_at": "2026-10-01T10:58:48.736982",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

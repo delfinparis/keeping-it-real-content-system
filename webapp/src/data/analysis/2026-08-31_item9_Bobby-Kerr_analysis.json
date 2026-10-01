@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Bobby Kerr",
+    "title": "Founder",
+    "company": "Locate",
+    "production_level": null,
+    "specialty": "Google Business Profile Optimization",
+    "location": "US and Canada"
+  },
+  "main_topics": [
+    "Google Business Profile Optimization",
+    "Importance of Hyper-Local Content",
+    "Leveraging Reviews for SEO",
+    "AI's Role in Real Estate Search",
+    "Content Strategy for Agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not appearing in local search results",
+      "solution_summary": "Optimize Google Business Profile with hyper-local content and consistent activity.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic online presence",
+      "solution_summary": "Use customized services and geographical anchors in Google Business Profile.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Getting effective client reviews",
+      "solution_summary": "Coach clients on leaving detailed, location-specific reviews with business name.",
+      "timestamp": "00:48:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies to enhance online visibility and client engagement.",
+      "key_takeaway": "Optimize your Google Business Profile with hyper-local content and encourage detailed client reviews."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Offers advanced tactics for leveraging AI and Google for lead generation.",
+      "key_takeaway": "Focus on Google Business Profile as a primary tool for local SEO and client acquisition."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:45",
+      "quote": "If you haven't been active on your Google profile, Google views your business as a dying or dead business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of maintaining an active online presence.",
+      "suggested_hook": "Is your Google Business Profile making you invisible?"
+    },
+    {
+      "timestamp": "00:50:00",
+      "end_timestamp": "00:51:00",
+      "quote": "The holy grail of a five-star review involves five key elements that most agents overlook.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a step-by-step guide to maximizing the impact of client reviews.",
+      "suggested_hook": "Are your reviews helping or hurting your business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Post hyper-local content on Google Business Profile.",
+      "context": "Use question and answer format to address specific local queries.",
+      "timestamp": "00:38:00"
+    },
+    {
+      "tactic": "Customize services in Google Business Profile.",
+      "context": "Add geographical anchors and specific service descriptions.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "tactic": "Request reviews at the closing table.",
+      "context": "Use a QR code for immediate review submission.",
+      "timestamp": "00:52:00"
+    }
+  ],
+  "quotable_insights": [
+    "Google is the first step in the consumer journey and your business profile is the front door.",
+    "AI search traffic has increased by over 1100% in just two years."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Bobby Kerr discusses the critical role of Google Business Profile optimization for real estate agents. He emphasizes the importance of hyper-local content and detailed client reviews to enhance online visibility and leverage AI in real estate searches. Bobby provides actionable strategies for agents to stand out in local search results and improve client engagement.",
+  "_metadata": {
+    "source_file": "2026-08-31_item9_Bobby-Kerr",
+    "analyzed_at": "2026-10-01T10:57:59.285374",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

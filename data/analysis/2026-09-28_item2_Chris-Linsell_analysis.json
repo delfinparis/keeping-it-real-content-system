@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": "Two-time Inman Marketing All-Star",
+    "specialty": "AI and future of real estate business",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "Impact of AI on real estate",
+    "Future of Zillow and MLS dynamics",
+    "Role of social media in agent branding",
+    "Challenges and opportunities for indie brokerages",
+    "Compass's strategy and its implications"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI potentially replacing real estate agents",
+      "solution_summary": "Agents should focus on relationship building and advisory roles to remain relevant.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not leveraging social media effectively",
+      "solution_summary": "Create engaging short-form video content to build a personal brand and attract clients.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Zillow's dominance and its impact on indie brokerages",
+      "solution_summary": "Indie brokerages should consider forming alliances and exploring alternative solutions.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode discusses how AI can be leveraged to enhance productivity and client relationships.",
+      "key_takeaway": "Focus on building strong client relationships and advisory roles to stay ahead in the industry."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers insights on using social media to build a personal brand and generate leads.",
+      "key_takeaway": "Utilize short-form video content to engage potential clients and differentiate yourself."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the face of AI advancements.",
+      "suggested_hook": "Is your real estate career at risk of becoming obsolete?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "Get people hooked on you as a human being through social media.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for agents to build their personal brand.",
+      "suggested_hook": "How to make social media your secret weapon in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Post 1-3 short-form videos daily on social media.",
+      "context": "To build a personal brand and engage potential clients.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Focus on relationship building and advisory roles.",
+      "context": "To stay relevant as AI takes over administrative tasks.",
+      "timestamp": "15:00"
+    }
+  ],
+  "quotable_insights": [
+    "AI will be an accelerator for relationship-building real estate professionals.",
+    "The future of real estate agents lies in their ability to build relationships and offer advisory services."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the transformative impact of AI on the real estate industry, emphasizing the importance of relationship building and advisory roles for agents. The conversation also covers the future dynamics between Zillow, Compass, and indie brokerages, and highlights the critical role of social media in personal branding for agents.",
+  "_metadata": {
+    "source_file": "2026-09-28_item2_Chris-Linsell",
+    "analyzed_at": "2026-10-01T11:03:49.106656",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

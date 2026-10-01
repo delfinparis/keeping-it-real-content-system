@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": "Not specified",
+    "production_level": "Owner running over $200 million in annual sales",
+    "specialty": "High performance coaching",
+    "location": "Not specified"
+  },
+  "main_topics": [
+    "Time management and productivity",
+    "Scaling a real estate business",
+    "Building and maintaining client relationships",
+    "Balancing personal and professional commitments",
+    "Strategies for consistent follow-up"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing multiple commitments and finding time to scale the business",
+      "solution_summary": "Evaluate current commitments and identify areas to reduce or eliminate to free up time for business growth.",
+      "timestamp": "39:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling overwhelmed by the need to do everything perfectly",
+      "solution_summary": "Focus on authenticity and personal strengths rather than trying to fit into a prescribed mold.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "David represents an agent who is doing well but struggling to scale due to time constraints.",
+      "key_takeaway": "Identify and prioritize tasks that align with personal strengths and business goals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:00",
+      "quote": "In this business, you have to figure out who you are first and foremost and bring that value.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of authenticity in building a successful business.",
+      "suggested_hook": "Are you trying to fit into a mold that doesn't suit you? Here's why authenticity is key."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use CRM for automated follow-ups",
+      "context": "Set up automated messages for client anniversaries and holidays to maintain relationships.",
+      "timestamp": "23:00"
+    },
+    {
+      "tactic": "Evaluate and reduce non-essential commitments",
+      "context": "Free up time by stepping back from volunteer roles that don't directly contribute to business growth.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem. It has a you problem.",
+    "If it's authentic to you, things will work out."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM capabilities."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retention in real estate."
+    }
+  ],
+  "episode_summary": "In this episode, Michael Opyd coaches REALTOR David Farrell on how to scale his business by managing time and commitments effectively. They discuss the importance of authenticity, consistent follow-up, and reducing non-essential activities to focus on growth. The conversation provides insights into balancing personal goals with professional success.",
+  "_metadata": {
+    "source_file": "2026-09-17_item5_Michael-Opyd",
+    "analyzed_at": "2026-10-01T11:01:23.866377",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

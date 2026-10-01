@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Alex Maldonado",
+    "title": "REALTOR",
+    "company": "Circle Real Estate",
+    "production_level": null,
+    "specialty": "First-time and first-generation buyers, Hispanic community",
+    "location": "Los Angeles, South LA, East LA, Northeast LA, Long Beach"
+  },
+  "main_topics": [
+    "First-time homebuyer challenges",
+    "Lead generation strategies",
+    "Google business profile optimization",
+    "Bilingual marketing",
+    "Down payment assistance programs"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "First-time buyers stalling at closing due to unexpected costs",
+      "solution_summary": "Incorporate seller credits into offers and work with lenders for credits.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from renters",
+      "solution_summary": "Build a referral network and maintain relationships until renters are ready to buy.",
+      "timestamp": "00:10:59"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Optimizing Google business profiles for better visibility",
+      "solution_summary": "Ensure consistency with DRI name and use SEO-optimized keywords in the business title.",
+      "timestamp": "00:34:44"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with understanding how to assist first-time buyers effectively.",
+      "key_takeaway": "Learn to incorporate seller credits and work with lenders to cover closing costs."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Agents looking to expand their client base can benefit from bilingual marketing and lead generation strategies.",
+      "key_takeaway": "Utilize bilingual marketing to tap into the Hispanic community and leverage down payment assistance programs."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:07:01",
+      "end_timestamp": "00:07:18",
+      "quote": "We think everybody knows things because we're in the business all day long, but the reality is everybody renting should really have a conversation about buying.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the assumption that renters are aware of their buying potential.",
+      "suggested_hook": "Are you missing out on potential buyers because you assume they know their options?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller credits and lender credits to cover closing costs for first-time buyers.",
+      "context": "When working with buyers who have saved for a down payment but not for closing costs.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "tactic": "Optimize Google business profile with SEO keywords and consistent naming.",
+      "context": "To improve visibility and credibility in search results.",
+      "timestamp": "00:34:44"
+    }
+  ],
+  "quotable_insights": [
+    "Everyone renting should have a conversation about buying, even if they think they can't afford it."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Story Brand by Donald Miller",
+      "context": "Recommended for improving elevator pitches and marketing communication."
+    },
+    {
+      "type": "tool",
+      "name": "Metracool",
+      "context": "Used for analyzing social media metrics and optimizing content strategies."
+    }
+  ],
+  "episode_summary": "Alex Maldonado shares insights on helping first-time and first-generation buyers navigate the home buying process, focusing on overcoming closing cost hurdles with seller credits. He also discusses optimizing Google business profiles for better visibility and leveraging bilingual marketing to tap into the Hispanic community. This episode is packed with actionable strategies for agents looking to enhance their lead generation and conversion tactics.",
+  "_metadata": {
+    "source_file": "2026-09-30_item1_Alex-Maldonado",
+    "analyzed_at": "2026-10-01T11:04:36.130297",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

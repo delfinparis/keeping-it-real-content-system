@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Sean Shackleton",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$65M+ producer",
+    "specialty": "YouTube lead generation",
+    "location": "Scottsdale, Arizona"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Consistency in content creation",
+    "Challenges in video marketing",
+    "Client relationships through YouTube",
+    "Overcoming initial setbacks"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through YouTube",
+      "solution_summary": "Commit to consistent video production and be patient as results may take time.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing video production with real estate duties",
+      "solution_summary": "Hire an editor to manage video editing, allowing more time for real estate activities.",
+      "timestamp": "00:16:12"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with slow initial growth on YouTube",
+      "solution_summary": "Stay committed and increase video output to build momentum.",
+      "timestamp": "00:12:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents looking to leverage YouTube for lead generation.",
+      "key_takeaway": "Consistency and patience are key; initial results may be slow but persistence pays off."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Agents who have started YouTube but aren't seeing results.",
+      "key_takeaway": "Consider increasing video frequency and hiring an editor to improve efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:13",
+      "quote": "This agent made YouTube videos for two years before she closed her first deal from the channel.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the importance of persistence and long-term strategy.",
+      "suggested_hook": "Ever wonder how long it takes to see results from YouTube?"
+    },
+    {
+      "timestamp": "00:14:59",
+      "end_timestamp": "00:15:12",
+      "quote": "While I was in Europe, I put five deals under contract that were all YouTube leads.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the power of a well-established YouTube channel.",
+      "suggested_hook": "Imagine closing deals while on vacation!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hire an editor for video content",
+      "context": "To maintain consistency and quality without sacrificing time.",
+      "timestamp": "00:16:12"
+    },
+    {
+      "tactic": "Increase video production frequency",
+      "context": "To accelerate channel growth and lead generation.",
+      "timestamp": "00:12:03"
+    }
+  ],
+  "quotable_insights": [
+    "If all these other people are having success with it, I'm getting people that are calling me, I wasn't getting, I mean, there was something that switched."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting tool that identifies agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Sean Shackleton shares her journey of leveraging YouTube for real estate lead generation, emphasizing the importance of consistency and patience. Despite initial challenges, her commitment to producing quality content led to significant business growth, demonstrating the potential of YouTube as a powerful tool for real estate agents.",
+  "_metadata": {
+    "source_file": "2026-09-16_item6_Sarah-Maslowski",
+    "analyzed_at": "2026-10-01T11:00:34.004383",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Frances Katzen",
+    "title": "Team Leader",
+    "company": "Douglas Elliman",
+    "production_level": "Top 10 teams at Douglas Elliman since 2010",
+    "specialty": "Luxury real estate",
+    "location": "Manhattan, New York City"
+  },
+  "main_topics": [
+    "New York real estate market trends",
+    "The importance of having an opinion in real estate",
+    "Building and distributing a market report",
+    "The impact of the pied-à-terre tax",
+    "Leveraging media appearances for business growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of the pied-à-terre tax on the New York real estate market",
+      "solution_summary": "Understanding the phases of the tax and its implications on inventory and pricing.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Having a strong opinion and being candid can differentiate you and build trust.",
+      "timestamp": "00:15"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through content",
+      "solution_summary": "Create a visually engaging and opinionated market report to capture attention.",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Frances shares strategies on building a strong personal brand and leveraging media for growth.",
+      "key_takeaway": "Having a strong opinion and consistently producing quality content can significantly boost your visibility and credibility."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into managing a successful real estate team and empowering agents.",
+      "key_takeaway": "Encourage team members to have their own opinions and leverage the team's collective strength."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of like all he wanted was a view and a terrace.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the typical sales approach of always pushing for a sale.",
+      "suggested_hook": "Why saying 'no' to a client can be your best sales strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a visually engaging market report with rotating property images and strong opinions.",
+      "context": "Use this as a tool to capture attention and generate leads.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Hire a PR person to help position yourself in the market.",
+      "context": "Especially useful for new agents looking to build their brand.",
+      "timestamp": "23:40"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency wins the race, right? It's just showing up and doing it.",
+    "Having an opinion is the most profitable thing you can ever do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A sales and marketing solution for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by artificial intelligence."
+    }
+  ],
+  "episode_summary": "In this episode, Frances Katzen discusses the current trends in the New York real estate market, emphasizing the importance of having a strong opinion and being candid with clients. She shares insights on building a successful market report and leveraging media appearances to enhance personal branding. Frances also addresses the impact of the pied-à-terre tax and how agents can navigate these changes to maintain a competitive edge.",
+  "_metadata": {
+    "source_file": "2026-09-24_item3_Frances-Katzen",
+    "analyzed_at": "2026-10-01T11:02:59.598164",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

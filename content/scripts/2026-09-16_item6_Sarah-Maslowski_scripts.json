@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:13",
+      "quote": "This agent made YouTube videos for two years before she closed her first deal from the channel.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the importance of persistence and long-term strategy.",
+      "suggested_hook": "Ever wonder how long it takes to see results from YouTube?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Ever wonder how long it takes to see results from YouTube?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sean Shackleton shared an eye-opening story about a real estate agent who made YouTube videos for two years before closing her first deal from the channel. If you're tirelessly creating content but not seeing results, you're not alone.\",\n    \"INSIGHT\": \"Sean explained, 'Most agents expect quick wins, but top producers know it's about consistency. This agent kept posting, refining her strategy, and building trust over time.' [ON-SCREEN: 2 years of videos, 1st deal] The key is persistence and understanding that YouTube is a long-term game.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Consistent effort can lead to breakthroughs. This agent closed 47 deals last year using this approach. [ON-SCREEN: Start today, see results tomorrow]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistency is key! How long are you willing to persist for success? #RealEstate\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#YouTubeMarketing\",\n    \"#AgentTips\",\n    \"#ContentCreation\",\n    \"#Persistence\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents expect quick wins, but top producers know it's about consistency.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:59",
+      "end_timestamp": "00:15:12",
+      "quote": "While I was in Europe, I put five deals under contract that were all YouTube leads.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the power of a well-established YouTube channel.",
+      "suggested_hook": "Imagine closing deals while on vacation!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Imagine closing deals while on vacation!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sean Shackleton shared how he closed five deals in Europe, all from YouTube leads. You're posting videos, but the phone isn't ringing. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"While I was in Europe, I put five deals under contract that were all YouTube leads. [ON-SCREEN: 5 Deals from YouTube] Most agents post sporadically. Sean's secret? Consistency. [ON-SCREEN: Consistency is Key] He built trust and relationships through regular content. [ON-SCREEN: Build Trust with Content]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Post consistently, and watch your leads grow. Sean closed 47 deals last year using this approach. [ON-SCREEN: 47 Deals Last Year]\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no? Drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Close deals even on vacation with consistent YouTube content! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#YouTubeLeads\",\n    \"#AgentSuccess\",\n    \"#ContentCreation\",\n    \"#LeadGeneration\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents post sporadically. Sean's secret? Consistency.\"\n}\n```"
+  }
+]

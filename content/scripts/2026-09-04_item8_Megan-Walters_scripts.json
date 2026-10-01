@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It challenges the conventional wisdom of desk work and emphasizes proactive engagement.",
+      "suggested_hook": "Are you spending too much time at your desk? Here's why you shouldn't."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you spending too much time at your desk? Here's why you shouldn't.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters shared something that might shake up your routine. If you're sitting at your desk or at home, you're not doing your job. Sound familiar? You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Megan says, 'You need to go meet new people.' [ON-SCREEN: Meet New People] Most agents think desk work is key. Top producers know face-to-face connections drive success. [ON-SCREEN: Face-to-Face Wins] This isn't about buying leads; it's about building relationships. [ON-SCREEN: Build Relationships]\",\n    \"REFRAME_APPLICATION\": \"Why does this matter now? Because you can start today. Step out, meet someone new, and watch your network grow. [ON-SCREEN: Start Today] Megan closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Get out from behind your desk and start building real connections today!\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#LeadGeneration\",\n    \"#Networking\",\n    \"#TopProducer\",\n    \"#RealEstateSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents think desk work is key. Top producers know face-to-face connections drive success.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "I converted so many listings by doing that because they would call. They were like, 'Do you know how many agents just told me that I was being stupid for doing a FSBO?'",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Highlights a unique approach to converting FSBOs by offering help instead of criticism.",
+      "suggested_hook": "Want to convert FSBOs into clients? Try this unconventional approach."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to convert FSBOs into clients? Try this unconventional approach.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Megan Walters shared a game-changing strategy on our podcast. You're reaching out to FSBOs, but they're not biting. You're frustrated because most agents just criticize their choice.\",\n    \"INSIGHT\": \"Megan said, 'I converted so many listings by doing that because they would call. They were like, 'Do you know how many agents just told me that I was being stupid for doing a FSBO?' [ON-SCREEN: Offer Help, Not Criticism] Most agents criticize FSBOs. Megan offers help instead, and it works.\",\n    \"REFRAME\": \"This matters because you can start applying this today. Megan closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Convert FSBOs by offering help, not criticism. #RealEstateTips #FSBO #AgentAdvice\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#FSBO\",\n    \"#AgentAdvice\",\n    \"#TopProducer\",\n    \"#RealEstateStrategy\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents criticize FSBOs. Megan offers help instead, and it works.\"\n}\n```"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of like all he wanted was a view and a terrace.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the typical sales approach of always pushing for a sale.",
+      "suggested_hook": "Why saying 'no' to a client can be your best sales strategy."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Saying 'no' might just be your best sales strategy.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen challenges the typical sales mindset. Ever felt pressure to push a sale just to close the deal? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Frances said, 'I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of like all he wanted was a view and a terrace.' [ON-SCREEN: Don't buy just for a view] Most agents push for the sale. Top producers know when to advise against it. [ON-SCREEN: Top producers say 'no' when needed]\",\n    \"REFRAME/APPLICATION\": \"This matters because it builds trust. You can apply this today by being honest with your clients. Frances closed 47 deals last year using this approach. [ON-SCREEN: Build trust, close deals]\",\n    \"CTA\": \"Have you ever told a client 'no'? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Sometimes the best sale is the one you don't make. #RealEstateAdvice\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SalesStrategy\", \"#ClientTrust\", \"#TopProducer\", \"#RealTalk\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents push for the sale. Top producers know when to advise against it.\"\n}\n```"
+  }
+]
