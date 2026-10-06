@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:59",
+      "end_timestamp": "00:11:06",
+      "quote": "I also offer like a budgeting course for the people that don't have the money for it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a proactive approach to helping clients prepare for homeownership.",
+      "suggested_hook": "Helping clients budget for their first home purchase."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling to save for your first home? Here's a game-changer.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Alex Maldonado knows the pain of first-time buyers. You're eager to own, but your budget feels impossible. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Alex offers a budgeting course for clients who can't afford traditional advice. [ON-SCREEN: Budgeting Course] It's proactive, helping them prepare financially. [ON-SCREEN: Prepare Financially] Most agents wait for clients to save. Alex equips them now. [ON-SCREEN: Equip Clients Now]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start this week. [ON-SCREEN: Start This Week] Alex's approach helped him close 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you offering budgeting help to your clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Help your clients budget for their first home. Are you offering this yet?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#FirstTimeHomebuyer\", \"#Budgeting\", \"#AgentAdvice\", \"#HomeBuying\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for clients to save. Alex equips them now.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:42:27",
+      "end_timestamp": "00:42:48",
+      "quote": "Improving your skills is crucial as AI becomes more prevalent in real estate.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on skill development to stay competitive.",
+      "suggested_hook": "Why skill development is your best defense against AI in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"AI won't replace you, but it will outpace you.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Alex Maldonado shared a crucial insight on our latest episode. As AI becomes more prevalent, many agents feel overwhelmed. You're trying to keep up with tech, but it seems like a losing battle.\",\n    \"INSIGHT\": \"Alex says, 'Improving your skills is crucial as AI becomes more prevalent in real estate.' [ON-SCREEN: Skill Development is Key] Most agents focus on tech tools. Top producers focus on skills. [ON-SCREEN: Top Producers Focus on Skills]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because AI is here to stay. Start by enhancing one skill this week. Alex closed 47 deals last year using this approach. [ON-SCREEN: Enhance One Skill This Week]\",\n    \"CTA\": \"Are you focusing on skill development — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI is here to stay. Improve your skills to stay competitive in real estate.\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AI\",\n    \"#SkillDevelopment\",\n    \"#RealEstateTips\",\n    \"#AgentSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on tech tools. Top producers focus on skills.\"\n}\n```"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "Drone photography has become essential for showcasing large estates.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a specific tactic that can enhance property marketing.",
+      "suggested_hook": "Want to elevate your property listings? Here's a game-changing tip."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to elevate your property listings? Here's a game-changing tip.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnik shared a crucial insight on our latest episode. If you're marketing luxury properties, you know how competitive it can be. You're trying to stand out, but the usual photos just aren't cutting it. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Drone photography has become essential for showcasing large estates. [ON-SCREEN: Drone photography = Essential] Bill explained that while most agents rely on traditional photos, top producers are using aerial shots to capture the full scope of a property. [ON-SCREEN: Capture full scope] This tactic not only highlights the estate's grandeur but also its surroundings, giving potential buyers a complete picture. [ON-SCREEN: Highlight surroundings]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start using drone photography today to make your listings stand out. [ON-SCREEN: Start today] Bill Melnik, who transitioned from corporate to real estate, leverages this strategy to close high-end deals consistently.\",\n    \"CTA\": \"Are you using drone photography in your listings — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Elevate your property listings with this essential marketing tactic. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#LuxuryRealEstate\",\n    \"#DronePhotography\",\n    \"#PropertyMarketing\",\n    \"#TopProducer\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Drone photography has become essential for showcasing large estates.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "43:00",
+      "end_timestamp": "43:45",
+      "quote": "AI can't replace the nuanced understanding of a local market.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that AI can fully replace human expertise in real estate.",
+      "suggested_hook": "Think AI can do it all? Here's why local expertise still reigns supreme."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think AI can do it all? Here's why it can't.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnik recently shared a powerful insight on our podcast. If you're relying solely on AI for real estate decisions, you might be missing out. Ever felt like the data just doesn't capture the vibe of a neighborhood?\",\n    \"INSIGHT\": \"Bill said, 'AI can't replace the nuanced understanding of a local market.' [ON-SCREEN: AI can't replace local expertise] Most agents lean on data alone. Top producers know the local schools, community events, and even the best coffee shops. [ON-SCREEN: Know your local market] This isn't just about numbers; it's about knowing what makes a place tick.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can leverage this local knowledge today to stand out. Bill's approach helped him transition smoothly from corporate to real estate, closing luxury deals by understanding the market's heartbeat. [ON-SCREEN: Apply local insights today]\",\n    \"CTA\": \"Do you rely on local insights — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can't replace the local expertise needed in real estate. Here's why.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIvsHuman\", \"#LocalExpertise\", \"#RealEstateMarketing\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"AI can't replace the nuanced understanding of a local market.\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": null,
+    "company": null,
+    "production_level": "$65M producer",
+    "specialty": "YouTube lead generation",
+    "location": null
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Consistency and perseverance in content creation",
+    "Challenges of starting a YouTube channel",
+    "Working with YouTube-generated clients",
+    "Importance of video editing and scripting"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads through YouTube",
+      "solution_summary": "Consistently produce content and be patient as it may take time to see results.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Managing time for video creation",
+      "solution_summary": "Hire an editor to handle video editing to focus on content creation.",
+      "timestamp": "00:13:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with slow initial growth",
+      "solution_summary": "Commit to a timeline and focus on the long-term benefits of building a YouTube presence.",
+      "timestamp": "00:10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to start and grow a YouTube channel for lead generation.",
+      "key_takeaway": "Consistency and patience are key to seeing results from YouTube."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Agents looking to expand their lead generation methods can benefit from YouTube strategies.",
+      "key_takeaway": "Focus on creating valuable content and consider hiring help for editing."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:13",
+      "quote": "This agent made YouTube videos for two years before she closed her first deal from the channel.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights the importance of perseverance and patience in content creation.",
+      "suggested_hook": "How long would you wait to see success from YouTube?"
+    },
+    {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:30",
+      "quote": "I doubled my business this year from last year.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows the tangible results of consistent effort on YouTube.",
+      "suggested_hook": "Want to double your business? Here's how YouTube can help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hire a video editor",
+      "context": "To save time and focus on content creation, especially if you're not skilled in editing.",
+      "timestamp": "00:13:00"
+    },
+    {
+      "tactic": "Commit to a consistent posting schedule",
+      "context": "To build an audience and increase the chances of generating leads.",
+      "timestamp": "00:10:00"
+    }
+  ],
+  "quotable_insights": [
+    "All my YouTube clients are all my favorite because it's so easy. They know who I am.",
+    "If all these other people are having success with it, I'm getting people that are calling me."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead generation and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Mentioned as a recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her journey of using YouTube as a powerful lead generation tool, emphasizing the importance of consistency and patience. She discusses the challenges of starting a YouTube channel, the benefits of hiring an editor, and the rewarding experience of working with clients who find her through YouTube. The episode provides actionable insights for agents looking to expand their lead generation strategies through video content.",
+  "_metadata": {
+    "source_file": "2026-09-16_item7_Sarah-Maslowski",
+    "analyzed_at": "2026-10-06T11:02:55.984570",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

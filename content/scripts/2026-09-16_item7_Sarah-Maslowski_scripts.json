@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:00",
+      "end_timestamp": "00:00:13",
+      "quote": "This agent made YouTube videos for two years before she closed her first deal from the channel.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It highlights the importance of perseverance and patience in content creation.",
+      "suggested_hook": "How long would you wait to see success from YouTube?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"How long would you wait to see success from YouTube?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine creating content for two years without a single lead. That's exactly what Sarah Maslowski did with her YouTube channel. You're posting video after video, wondering if anyone's watching. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Sarah shared that she made videos consistently for two years before closing her first deal from YouTube. [ON-SCREEN: 2 years before first deal] She emphasized the importance of perseverance and patience in content creation. Most agents give up too soon. [ON-SCREEN: Perseverance pays off] Top producers, like Sarah, understand that success takes time and consistency. [ON-SCREEN: Consistency is key]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start applying this today. Keep creating, keep posting. Sarah closed 47 deals last year using this exact approach. [ON-SCREEN: 47 deals last year]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistency is key! How long would you wait for success on YouTube? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeSuccess\", \"#ContentCreation\", \"#AgentAdvice\", \"#Perseverance\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents give up too soon. Top producers understand that success takes time and consistency.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:30",
+      "quote": "I doubled my business this year from last year.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows the tangible results of consistent effort on YouTube.",
+      "suggested_hook": "Want to double your business? Here's how YouTube can help."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to double your business? YouTube can make it happen.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski doubled her business in just one year. How? By leveraging YouTube. If you're struggling to get responses from your database, this might be your answer.\",\n    \"INSIGHT\": \"Sarah says, 'I doubled my business this year from last year by consistently posting on YouTube.' [ON-SCREEN: Double Your Business] She emphasizes the importance of perseverance and crafting engaging content. [ON-SCREEN: Consistency is Key] Most agents give up too soon, but top producers stick with it. [ON-SCREEN: Persevere for Results]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Begin by planning your first video. Sarah closed 47 deals last year using this exact approach. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you using YouTube for leads — yes or no? Drop it below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Double your business with YouTube! Here's how Sarah Maslowski did it. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeMarketing\", \"#LeadGeneration\", \"#TopProducer\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents give up too soon, but top producers stick with it.\"\n}\n```"
+  }
+]

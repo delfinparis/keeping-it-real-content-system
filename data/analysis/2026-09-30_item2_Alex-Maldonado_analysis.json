@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Alex Maldonado",
+    "title": "REALTOR",
+    "company": "Circle Real Estate",
+    "production_level": null,
+    "specialty": "First-time and first-generation homebuyers",
+    "location": "Los Angeles, California"
+  },
+  "main_topics": [
+    "First-time homebuyer challenges",
+    "Lead generation strategies",
+    "Bilingual marketing",
+    "Google business profile optimization",
+    "Down payment assistance programs"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "First-time buyers struggle with closing costs after saving for a down payment.",
+      "solution_summary": "Incorporate seller credits into offers and work with lenders for credits to cover closing costs.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads for first-time homebuyers.",
+      "solution_summary": "Target specific demographics with tailored ads and use SEO and backlinks to drive traffic.",
+      "timestamp": "00:21:31"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not optimizing their Google business profiles.",
+      "solution_summary": "Ensure business name matches DRE name, use SEO keywords in titles, and manage reviews effectively.",
+      "timestamp": "00:34:37"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn how to assist first-time buyers and optimize their online presence.",
+      "key_takeaway": "Focus on understanding client needs and leveraging online tools to build credibility and generate leads."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can refine their lead generation and client conversion tactics.",
+      "key_takeaway": "Use creative financing solutions and targeted marketing to overcome common buyer obstacles."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:59",
+      "end_timestamp": "00:11:06",
+      "quote": "I also offer like a budgeting course for the people that don't have the money for it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Shows a proactive approach to helping clients prepare for homeownership.",
+      "suggested_hook": "Helping clients budget for their first home purchase."
+    },
+    {
+      "timestamp": "00:42:27",
+      "end_timestamp": "00:42:48",
+      "quote": "Improving your skills is crucial as AI becomes more prevalent in real estate.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to focus on skill development to stay competitive.",
+      "suggested_hook": "Why skill development is your best defense against AI in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller credits and lender credits to cover closing costs for first-time buyers.",
+      "context": "When working with buyers who have saved for a down payment but lack closing costs.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "tactic": "Optimize Google business profile with SEO keywords and consistent naming.",
+      "context": "To improve online visibility and credibility.",
+      "timestamp": "00:34:37"
+    }
+  ],
+  "quotable_insights": [
+    "People don't care about you as a REALTOR; they care about what you can offer them.",
+    "Getting into the door of real estate is what's important; that's how you start building wealth."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Story Brand by Donald Miller",
+      "context": "Recommended for improving elevator pitches and focusing on client needs."
+    },
+    {
+      "type": "tool",
+      "name": "Metricool",
+      "context": "Used for analyzing social media metrics and growth."
+    }
+  ],
+  "episode_summary": "Alex Maldonado shares strategies for helping first-time homebuyers overcome financial obstacles by using creative financing solutions like seller and lender credits. He emphasizes the importance of optimizing Google business profiles and leveraging bilingual marketing to reach the Hispanic community. The episode also highlights the significance of continuous skill development in the face of advancing AI technologies.",
+  "_metadata": {
+    "source_file": "2026-09-30_item2_Alex-Maldonado",
+    "analyzed_at": "2026-10-06T11:07:16.382691",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

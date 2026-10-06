@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Michael Opyd",
+    "title": "REALTOR Mental Performance Strategist",
+    "company": null,
+    "production_level": null,
+    "specialty": "High performance coaching",
+    "location": null
+  },
+  "main_topics": [
+    "Scalability in real estate",
+    "Time management and productivity",
+    "Balancing multiple commitments",
+    "Building relationships in real estate",
+    "Self-awareness and personal growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Balancing multiple commitments and scaling the business",
+      "solution_summary": "Focus on prioritizing tasks and reducing non-essential commitments to free up time for business growth.",
+      "timestamp": "39:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Struggling to scale due to overcommitment and lack of focus",
+      "solution_summary": "Identify and eliminate activities that do not align with business goals to focus on high-impact tasks.",
+      "timestamp": "50:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode is relevant because it addresses the challenges of scaling a real estate business while managing multiple commitments.",
+      "key_takeaway": "Prioritize tasks that align with your long-term business goals and be willing to say no to non-essential activities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "50:00",
+      "end_timestamp": "51:00",
+      "quote": "If you're going to try something, at least be excited about it. Do it because you want to do it.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This emphasizes the importance of aligning business activities with personal passion and excitement.",
+      "suggested_hook": "Are you doing what truly excites you in your business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a CRM to automate follow-ups and maintain client relationships.",
+      "context": "Implement automated systems to ensure consistent communication with past clients.",
+      "timestamp": "23:00"
+    },
+    {
+      "tactic": "Evaluate and reduce non-essential commitments.",
+      "context": "Free up time for high-impact business activities by saying no to less important tasks.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "Real estate doesn't have a strategy problem. It has a you problem.",
+    "Focus on what you do have and the experience that you do have in the value that you bring to your clients."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for real estate recruiters to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "This episode of Keeping It Real features a coaching session with Michael Opyd, who helps real estate agent David Farrell tackle the challenges of scaling his business while managing multiple commitments. Key insights include the importance of prioritizing tasks that align with long-term goals and using automated systems to maintain client relationships. The discussion emphasizes self-awareness and personal growth as essential components for achieving business success.",
+  "_metadata": {
+    "source_file": "2026-09-17_item6_Michael-Opyd",
+    "analyzed_at": "2026-10-06T11:03:29.098320",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

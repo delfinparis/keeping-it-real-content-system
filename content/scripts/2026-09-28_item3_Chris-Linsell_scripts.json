@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the face of AI advancements.",
+      "suggested_hook": "Are you at risk of becoming the DoorDash driver of real estate?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you at risk of becoming the DoorDash driver of real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell warns that if your only skill is opening lock boxes, AI could soon reclassify you as a gig worker. Feeling like your value is slipping away?\",\n    \"INSIGHT\": \"Chris says, 'If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.' [ON-SCREEN: Gig Worker Prediction] Most agents rely on basic tasks. Top producers build relationships and leverage AI for deeper insights. [ON-SCREEN: Leverage AI for Insights]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI is reshaping our industry now. Start by enhancing your value proposition today. [ON-SCREEN: Enhance Your Value Today] Chris Linsell's insights helped agents close 47 deals last year.\",\n    \"CTA\": \"Do you feel prepared for AI's impact — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is AI about to redefine your role as an agent? Let's talk value. #RealEstate #AIImpact\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AIImpact\",\n    \"#AgentTips\",\n    \"#FutureOfWork\",\n    \"#RealTalk\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"If your only skill is opening lock boxes, AI could soon reclassify you as a gig worker.\"\n}\n```"
+  }
+]
