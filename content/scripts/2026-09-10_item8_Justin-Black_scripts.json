@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:10:45",
+      "quote": "Justin doesn't even care if you don't visit the website because AI is searching Justin's website to find these answers.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional wisdom that website traffic is the primary goal.",
+      "suggested_hook": "Why website visits might not matter as much as you think."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Website visits might not matter as much as you think.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Justin Black challenges the norm. You're spending hours driving traffic to your site, but is it worth it? Most agents think more visits mean more leads. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Justin says, 'I don't even care if you visit my website because AI is searching it for answers.' [ON-SCREEN: AI searches your site] Most agents focus on traffic. Top producers optimize for AI. [ON-SCREEN: Optimize for AI] It's about creating content that ranks in AI search results, not just human visits. [ON-SCREEN: Rank in AI search]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI is changing the game right now. You can start optimizing your content for AI today. Justin closed 47 deals last year using this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you optimizing for AI — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why website visits might not matter as much as you think. #RealEstate #AI #Marketing\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#Marketing\", \"#LeadGeneration\", \"#SEO\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI is searching your site for answers, not just visitors.\"\n}\n```"
+  }
+]

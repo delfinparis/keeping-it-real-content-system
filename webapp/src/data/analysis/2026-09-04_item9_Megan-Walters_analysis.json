@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Megan Walters",
+    "title": "REALTOR, Real Estate Investor, Educator",
+    "company": "The Walters Team at eXp",
+    "production_level": "Top 1% of agents nationwide",
+    "specialty": "Real estate investment and education",
+    "location": "Columbia, Missouri"
+  },
+  "main_topics": [
+    "Lead generation without buying leads",
+    "Building a personal brand",
+    "Time management and productivity",
+    "Real estate investment strategies",
+    "Social media marketing for REALTORS"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without buying them or cold calling",
+      "solution_summary": "Megan uses social media, networking, and providing value to FSBOs and expired listings to generate leads.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a brand independent of brokerage",
+      "solution_summary": "Megan emphasizes self-branding and using social media to create a personal brand that clients recognize.",
+      "timestamp": "44:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing productivity without being desk-bound",
+      "solution_summary": "Megan spends time in public places like coffee shops to network and uses early mornings for focused work.",
+      "timestamp": "06:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Megan's strategies for lead generation and brand building are crucial for agents looking to increase their production.",
+      "key_takeaway": "Focus on building a personal brand and leveraging social media to generate leads organically."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Megan's approach to starting in real estate without relying on buying leads.",
+      "key_takeaway": "Use free methods like social media and networking to build your business from the ground up."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:00",
+      "end_timestamp": "09:00",
+      "quote": "If you're sitting at your desk or if you're sitting at your home, you're not doing your job. You need to go meet new people.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "This challenges the conventional wisdom of desk work and emphasizes the importance of networking.",
+      "suggested_hook": "Are you spending too much time at your desk? Here's why you might be missing out on real estate success."
+    },
+    {
+      "timestamp": "44:00",
+      "end_timestamp": "45:00",
+      "quote": "You're an expensive employee if you're building their brand. Build your own brand.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This statement challenges the idea of relying on brokerage branding and encourages personal branding.",
+      "suggested_hook": "Why building your own brand is more important than ever in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Drop off value packets to FSBOs and expired listings without knocking.",
+      "context": "Use this tactic to provide value and stand out from other agents who cold call.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Post daily short-form videos on social media.",
+      "context": "Consistently posting content helps build a following and attract leads.",
+      "timestamp": "30:00"
+    }
+  ],
+  "quotable_insights": [
+    "Let them talk because it means that they're actually talking about you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Canva",
+      "context": "Used to create marketing materials for FSBOs and expired listings."
+    }
+  ],
+  "episode_summary": "Megan Walters shares her journey to becoming a top 1% REALTOR without buying leads or cold calling. She emphasizes the importance of personal branding, social media marketing, and building systems to generate business organically. Her strategies offer actionable insights for agents looking to grow their business through innovative and cost-effective methods.",
+  "_metadata": {
+    "source_file": "2026-09-04_item9_Megan-Walters",
+    "analyzed_at": "2026-10-07T11:07:40.421650",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

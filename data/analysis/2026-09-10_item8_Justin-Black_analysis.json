@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Justin Black",
+    "title": "Real Estate Advisor",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "$150M in career sales",
+    "specialty": "Luxury mountain market",
+    "location": "Breckenridge, Colorado"
+  },
+  "main_topics": [
+    "Using AI for lead generation",
+    "Building a website for SEO and AI optimization",
+    "Strategies for working with expired listings",
+    "Creating content to rank in AI search results",
+    "Leveraging technology for real estate marketing"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a competitive luxury market",
+      "solution_summary": "Use AI to optimize website content for search engines and AI platforms to attract high-value leads.",
+      "timestamp": "00:03:04"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting expired listings into active clients",
+      "solution_summary": "Send personalized, high-value FedEx packages with market analysis and listing presentations.",
+      "timestamp": "00:44:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for leveraging AI and technology to dominate a luxury market.",
+      "key_takeaway": "Building a content-rich website optimized for AI can significantly increase lead generation and conversion rates."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:00",
+      "end_timestamp": "00:10:45",
+      "quote": "Justin doesn't even care if you don't visit the website because AI is searching Justin's website to find these answers.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the conventional wisdom that website traffic is the primary goal.",
+      "suggested_hook": "Why website visits might not matter as much as you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to generate a list of common questions potential clients ask about your market.",
+      "context": "Create content on your website that answers these questions to improve SEO and AI ranking.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "tactic": "Send FedEx packages with personalized market analysis to expired listings.",
+      "context": "Differentiate yourself from other agents who rely on phone calls and emails.",
+      "timestamp": "00:44:00"
+    }
+  ],
+  "quotable_insights": [
+    "If someone else was getting handed this lead, they could probably sell this seat as well. I want to go out and generate something where I know that I generated this."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude AI",
+      "context": "Used by Justin to build his website and optimize content for AI."
+    },
+    {
+      "type": "website",
+      "name": "AskThePublic.com",
+      "context": "Recommended for generating content ideas based on common questions."
+    }
+  ],
+  "episode_summary": "In this episode, Justin Black shares how he uses AI to optimize his real estate business, focusing on creating a website that ranks in AI search results and using personalized FedEx packages to convert expired listings. He provides actionable insights on leveraging technology to generate high-value leads in the luxury market.",
+  "_metadata": {
+    "source_file": "2026-09-10_item8_Justin-Black",
+    "analyzed_at": "2026-10-07T11:08:03.224873",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
