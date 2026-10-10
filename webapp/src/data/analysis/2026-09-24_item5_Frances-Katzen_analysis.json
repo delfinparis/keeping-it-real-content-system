@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Frances Katzen",
+    "title": "Team Leader",
+    "company": "Douglas Elliman",
+    "production_level": "Top 10 Teams at Douglas Elliman since 2010",
+    "specialty": "Luxury Real Estate",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "Pietta Tear Tax Impact",
+    "Creating Effective Market Reports",
+    "Media Engagement for Real Estate Agents",
+    "Importance of Having an Opinion in Real Estate",
+    "Discipline from Ballet Applied to Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of Pietta Tear Tax on New York Real Estate",
+      "solution_summary": "Understanding the phases of the tax and its implications on inventory and pricing.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in media as a real estate agent",
+      "solution_summary": "Develop a strong opinion and engage with PR to get noticed.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Creating engaging market reports",
+      "solution_summary": "Focus on visual appeal and having a strong opinion to capture attention.",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to leverage media presence and create impactful market reports.",
+      "key_takeaway": "Developing a strong personal brand and opinion can significantly enhance your visibility and credibility."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Frances discusses how to manage a team and allow individual opinions to flourish.",
+      "key_takeaway": "Encouraging diverse opinions within your team can strengthen your brand and service offerings."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of like all he wanted was a view and a terrace.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the common notion that agents should always push for a sale.",
+      "suggested_hook": "Why saying 'no' to a client can be your best move as a real estate agent."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a visually appealing market report with a strong opinion.",
+      "context": "Use it to engage your audience and track engagement metrics.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Engage with PR to enhance media presence.",
+      "context": "Hire a PR person early in your career to help position you in the market.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency wins the race, right? It's just showing up and doing it.",
+    "If you just act like you know what you're doing, everybody thinks that you do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Frances Katzen shares her insights on the impact of the Pietta Tear Tax on New York's real estate market, the importance of having a strong opinion, and how to leverage media presence effectively. She also discusses how her discipline from ballet has influenced her real estate career, offering valuable lessons on consistency and resilience.",
+  "_metadata": {
+    "source_file": "2026-09-24_item5_Frances-Katzen",
+    "analyzed_at": "2026-10-10T10:41:59.543649",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

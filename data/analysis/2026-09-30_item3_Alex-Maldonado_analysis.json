@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Alex Maldonado",
+    "title": "REALTOR",
+    "company": "Circle Real Estate",
+    "production_level": null,
+    "specialty": "First-time and first-generation buyers",
+    "location": "Los Angeles, CA"
+  },
+  "main_topics": [
+    "First-time homebuyer challenges",
+    "Lead generation strategies",
+    "Bilingual marketing",
+    "Google business profile optimization",
+    "Down payment assistance programs"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "First-time buyers struggle with closing costs",
+      "solution_summary": "Incorporate seller credits and lender credits into offers to cover closing costs.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads for first-time buyers",
+      "solution_summary": "Target specific demographics with tailored ads and utilize SEO for organic traffic.",
+      "timestamp": "00:21:31"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Optimizing Google business profile",
+      "solution_summary": "Ensure consistency with DRE name, use SEO keywords, and manage reviews effectively.",
+      "timestamp": "00:34:37"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into niche marketing and lead generation strategies.",
+      "key_takeaway": "Focus on building relationships and understanding the financial challenges of first-time buyers."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers practical advice on overcoming common obstacles in closing deals for first-time buyers.",
+      "key_takeaway": "Use creative financing solutions like seller and lender credits to close more deals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:00",
+      "end_timestamp": "00:05:45",
+      "quote": "My family could have bought a home 26 years earlier if they had the right resources.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of providing resources and guidance to first-time buyers.",
+      "suggested_hook": "Could your clients be buying homes sooner with the right guidance?"
+    },
+    {
+      "timestamp": "00:34:37",
+      "end_timestamp": "00:35:08",
+      "quote": "Make sure your Google business profile matches your DRE name and is optimized with SEO keywords.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a specific, actionable tip for improving online presence.",
+      "suggested_hook": "Is your Google business profile costing you clients?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller and lender credits to cover closing costs for first-time buyers.",
+      "context": "When working with buyers who have saved for a down payment but not closing costs.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "tactic": "Optimize your Google business profile with SEO keywords and consistent naming.",
+      "context": "To improve online visibility and credibility.",
+      "timestamp": "00:34:37"
+    }
+  ],
+  "quotable_insights": [
+    "Everyone renting should have a conversation about their plans to buy and how to get there.",
+    "People don't care about your experience; they care about what you can do for them."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Story Brand by Donald Miller",
+      "context": "Recommended for improving elevator pitches and marketing strategies."
+    },
+    {
+      "type": "tool",
+      "name": "Metracool",
+      "context": "Used for analyzing social media metrics and improving content strategy."
+    }
+  ],
+  "episode_summary": "In this episode, Alex Maldonado shares strategies for helping first-time buyers overcome financial hurdles by using seller and lender credits. He discusses lead generation tactics, including targeted bilingual marketing and SEO optimization. Alex also emphasizes the importance of optimizing Google business profiles and offers insights into building trust within the Hispanic community.",
+  "_metadata": {
+    "source_file": "2026-09-30_item3_Alex-Maldonado",
+    "analyzed_at": "2026-10-10T10:42:17.621212",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

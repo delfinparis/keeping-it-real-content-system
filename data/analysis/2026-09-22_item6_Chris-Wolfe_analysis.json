@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Chris Wolfe",
+    "title": "Real Estate Agent",
+    "company": "Not mentioned",
+    "production_level": "Top producer",
+    "specialty": "Luxury real estate",
+    "location": "El Dorado Hills, California"
+  },
+  "main_topics": [
+    "Transition from house flipping to real estate sales",
+    "Lead generation through open houses and cold calling",
+    "Building a real estate business from scratch",
+    "Time management and daily routines",
+    "Marketing strategies for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market with no sphere of influence",
+      "solution_summary": "Chris used open houses and cold calling to generate 95% of his business in the first year.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of cold calling",
+      "solution_summary": "Chris developed a friendly and disarming script to make cold calls more effective.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Staying accountable and productive daily",
+      "solution_summary": "Chris uses a system called Activate Daily to track and complete critical tasks.",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Chris started in a new market with no contacts and succeeded quickly.",
+      "key_takeaway": "Focus on open houses and cold calling to build your initial client base."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Chris doubled his business in his second year through consistent effort.",
+      "key_takeaway": "Daily outreach and a structured routine are key to scaling your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:45",
+      "end_timestamp": "15:30",
+      "quote": "Most people are cool. They just think when it's a sales call, they don't want to talk to you.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the fear of rejection in cold calling.",
+      "suggested_hook": "Afraid of cold calling? Here's why you shouldn't be."
+    },
+    {
+      "timestamp": "32:00",
+      "end_timestamp": "32:45",
+      "quote": "You could strip almost every profession or thing down to a couple key things that you got to get at.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of focusing on key tasks.",
+      "suggested_hook": "Want to succeed? Focus on these key tasks."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use open houses and cold calling for lead generation.",
+      "context": "To quickly build a client base in a new market.",
+      "timestamp": "12:30"
+    },
+    {
+      "tactic": "Develop a disarming script for cold calls.",
+      "context": "To reduce resistance and increase engagement.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Implement a daily accountability system.",
+      "context": "To ensure completion of critical business tasks.",
+      "timestamp": "42:00"
+    }
+  ],
+  "quotable_insights": [
+    "The gift of desperation can drive you to succeed.",
+    "If you can make it work in a bad market, you'll thrive in a good one."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Activate Daily",
+      "context": "A system Chris developed to track daily tasks and stay accountable."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Wolfe shares his journey from house flipping to becoming a top real estate producer in a new market. He discusses the importance of open houses and cold calling for lead generation, and how he uses a structured daily routine to stay productive. Chris also introduces his accountability tool, Activate Daily, which helps him focus on critical tasks to drive his business forward.",
+  "_metadata": {
+    "source_file": "2026-09-22_item6_Chris-Wolfe",
+    "analyzed_at": "2026-10-10T10:41:47.174066",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

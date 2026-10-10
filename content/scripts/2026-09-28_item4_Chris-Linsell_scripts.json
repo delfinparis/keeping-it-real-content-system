@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "16:00",
+      "end_timestamp": "17:00",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, you should be very concerned.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the age of AI.",
+      "suggested_hook": "Is your real estate career at risk of becoming obsolete?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your real estate career at risk of becoming obsolete?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell recently said, 'If you are a real estate agent who has no value outside of your ability to operate a lock box, you should be very concerned.' In today's fast-paced world, AI is reshaping industries, and real estate is no exception. Are you just opening doors, or are you truly adding value?\",\n    \"INSIGHT\": \"Chris challenges agents to rethink their value proposition. [ON-SCREEN: Rethink Your Value] He says, 'Most agents rely on traditional methods, but top producers leverage AI to enhance client experiences.' [ON-SCREEN: Leverage AI for Client Experience] It's not about replacing you; it's about augmenting your skills. [ON-SCREEN: Augment, Don't Replace]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start by integrating AI tools to streamline your processes. [ON-SCREEN: Integrate AI Tools] You can do this today and stay ahead of the curve. Remember, Chris's approach helped him close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI is reshaping real estate. Are you ready to adapt?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#RealEstateFuture\", \"#AIinRealEstate\", \"#AgentValue\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"It's not about replacing you; it's about augmenting your skills.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "Post 1-3 videos a day on social media to build your brand.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for agents to increase their visibility.",
+      "suggested_hook": "Want to stand out as a REALTOR? Here's how."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to stand out as a REALTOR? Here's how.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell shared a game-changing strategy for agents. You're posting sporadically on social media, hoping for engagement but seeing little return. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'Post 1-3 videos a day on social media to build your brand.' [ON-SCREEN: Post 1-3 videos daily] Most agents post occasionally. Top producers consistently share valuable content. [ON-SCREEN: Consistency is key]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by planning your content for the week. Chris's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Boost your real estate brand with daily video posts. Are you in? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentBranding\", \"#SocialMediaStrategy\", \"#TopProducer\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Post 1-3 videos a day on social media to build your brand.\"\n}\n```"
+  }
+]

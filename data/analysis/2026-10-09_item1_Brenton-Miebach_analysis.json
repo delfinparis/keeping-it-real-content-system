@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Brenton Miebach",
+    "title": "Sales Associate",
+    "company": "Southwest Florida Lifestyle Living, eXp Realty",
+    "production_level": "$10M+ producer",
+    "specialty": "AI-driven marketing and out-of-state buyer relocation",
+    "location": "Cape Coral, Florida"
+  },
+  "main_topics": [
+    "AI-driven marketing systems",
+    "Lead generation through paid leads",
+    "Cold calling strategies",
+    "Social media growth",
+    "Building a portable AI system"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into a new market without existing contacts",
+      "solution_summary": "Utilize paid leads from platforms like Zillow and Realtor.com and focus on immediate follow-up.",
+      "timestamp": "00:06:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing real estate operations efficiently",
+      "solution_summary": "Build a comprehensive AI-driven system to handle tasks like transaction coordination and marketing.",
+      "timestamp": "00:27:31"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Establishing authority in a new market",
+      "solution_summary": "Learn the market quickly and use AI to create content that showcases local expertise.",
+      "timestamp": "00:17:20"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into leveraging AI and paid leads to rapidly scale production.",
+      "key_takeaway": "Invest in AI systems to automate and enhance your real estate operations."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Brenton discusses building a team and providing them with AI tools from day one.",
+      "key_takeaway": "Create a portable AI system that can be shared with team members to ensure consistency and efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:27:56",
+      "end_timestamp": "00:28:22",
+      "quote": "I've replaced a transaction coordinator, a marketing team, and a website person with an AI system that I've built.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Showcases the power of AI in reducing operational costs and increasing efficiency.",
+      "suggested_hook": "Discover how AI can replace entire teams in real estate operations."
+    },
+    {
+      "timestamp": "00:36:02",
+      "end_timestamp": "00:36:21",
+      "quote": "Don't work too hard was the worst advice I ever got.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common advice of work-life balance and emphasizes dedication.",
+      "suggested_hook": "Why working hard might be the best decision for your real estate career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to create a portable marketing and operations stack.",
+      "context": "Build a system in Google Drive that can be accessed and utilized by any AI platform.",
+      "timestamp": "00:41:09"
+    },
+    {
+      "tactic": "Leverage historical content to boost social media engagement.",
+      "context": "Create videos about local history to engage an older demographic on Facebook.",
+      "timestamp": "01:03:13"
+    }
+  ],
+  "quotable_insights": [
+    "The internet leads for me weren't an easy button; they were a way to break into a market and build a network."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Lies That Came True",
+      "context": "Used as a source for creating engaging historical content for social media."
+    },
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "AI platform used to build a comprehensive real estate operations system."
+    }
+  ],
+  "episode_summary": "Brenton Miebach shares his journey of moving to new markets and achieving rapid success through AI-driven marketing systems and paid leads. He discusses the importance of mastering the local market, leveraging AI for operational efficiency, and using social media to build a personal brand. The episode offers actionable insights for agents looking to scale their business and integrate technology into their operations.",
+  "_metadata": {
+    "source_file": "2026-10-09_item1_Brenton-Miebach",
+    "analyzed_at": "2026-10-10T10:42:41.169704",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
