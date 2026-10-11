@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:15:05",
+      "end_timestamp": "00:15:30",
+      "quote": "I was in Europe for 15 days and put five deals under contract, all YouTube leads.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the power of YouTube in generating leads even while on vacation.",
+      "suggested_hook": "Can YouTube really generate leads while you're on vacation?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Can YouTube really generate leads while you're on vacation?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Imagine being on a 15-day European vacation and still closing five deals. That's exactly what Sean Shackleton did, all thanks to YouTube. If you're struggling to get responses from your database, this might just be the game-changer you need.\",\n    \"INSIGHT\": \"Sean shared, 'I was in Europe for 15 days and put five deals under contract, all YouTube leads.' [ON-SCREEN: 5 deals from YouTube] Most agents are chasing leads. Top producers let leads come to them through strategic YouTube content. [ON-SCREEN: YouTube = Lead Magnet]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start leveraging YouTube today to generate leads effortlessly, even while you're away. Sean's approach closed 47 deals last year. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you using YouTube for leads yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Can YouTube work for you even on vacation? Sean Shackleton says yes! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeLeads\", \"#AgentSuccess\", \"#LeadGeneration\", \"#RealEstateMarketing\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents are chasing leads. Top producers let leads come to them through strategic YouTube content.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:38:02",
+      "end_timestamp": "00:38:27",
+      "quote": "Be careful of shiny objects. Know that your first videos are going to suck, and that's still okay.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages persistence and realistic expectations for new creators.",
+      "suggested_hook": "Why your first YouTube videos need to be terrible."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why your first YouTube videos need to be terrible.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sean Shackleton shared a truth bomb on our podcast: your first videos are going to suck. If you're just starting on YouTube for real estate, you might feel overwhelmed and frustrated when your videos don't look perfect. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Be careful of shiny objects. Sean says, 'Know that your first videos are going to suck, and that's still okay.' [ON-SCREEN: First videos will suck] Most agents get discouraged and quit. Top producers push through and improve with each video. [ON-SCREEN: Persistence is key]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start improving today. Sean built a thriving channel by embracing imperfection. [ON-SCREEN: Embrace imperfection] You can do this today and see real results.\",\n    \"CTA\": \"Are you ready to embrace imperfection in your videos — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your first YouTube videos will be terrible, and that's okay! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#YouTubeGrowth\", \"#AgentAdvice\", \"#VideoMarketing\", \"#Persistence\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Know that your first videos are going to suck, and that's still okay.\"\n}\n```"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Justin Black",
+    "title": "Real Estate Advisor",
+    "company": "Liv Sotheby's International Realty",
+    "production_level": "Top 0.75% of U.S. agents",
+    "specialty": "Luxury mountain market",
+    "location": "Breckenridge, Colorado"
+  },
+  "main_topics": [
+    "Using AI for lead generation",
+    "Building an SEO-optimized real estate website",
+    "Strategies for working with expired listings",
+    "Leveraging AI for content creation",
+    "Real estate marketing tactics"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a competitive market",
+      "solution_summary": "Use AI to optimize website content for search engines and AI platforms to attract leads.",
+      "timestamp": "00:03:04"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting expired listings into clients",
+      "solution_summary": "Send personalized, high-value packages via FedEx to expired listings instead of cold calling.",
+      "timestamp": "00:44:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Building a website without technical skills",
+      "solution_summary": "Use AI tools like Claude to design and build a professional website by modeling after top competitors.",
+      "timestamp": "00:29:08"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced strategies for using AI to dominate local markets.",
+      "key_takeaway": "AI can be leveraged not just for listing descriptions but for comprehensive lead generation and market positioning."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers new methods to break through plateaus by using technology and innovative marketing tactics.",
+      "key_takeaway": "Implementing AI-driven strategies can differentiate you in a crowded market."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:20:04",
+      "end_timestamp": "00:20:30",
+      "quote": "I was completely in shock because I didn't know people were really using AI to find brokers and then sign with that broker.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the surprise and potential of AI in real estate.",
+      "suggested_hook": "Can AI really bring you million-dollar listings? Here's proof."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Install remarketing pixels on your website to retarget visitors with ads.",
+      "context": "Use this to keep your brand in front of potential clients who visit your site.",
+      "timestamp": "00:10:50"
+    },
+    {
+      "tactic": "Send personalized packages to expired listings via FedEx.",
+      "context": "This approach stands out from the competition and respects the homeowner's time.",
+      "timestamp": "00:44:00"
+    }
+  ],
+  "quotable_insights": [
+    "AI is not just for writing listing descriptions; it's a powerful tool for lead generation and market positioning."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for building a professional real estate website without coding skills."
+    },
+    {
+      "type": "website",
+      "name": "AskThePublic.com",
+      "context": "Recommended for generating content ideas based on common questions."
+    }
+  ],
+  "episode_summary": "In this episode, Justin Black shares how he uses AI to generate nearly $5 million in listings by optimizing his website for search engines and AI platforms. He discusses innovative strategies for working with expired listings and provides actionable insights on building a professional website using AI tools. This episode is a must-listen for agents looking to leverage technology to gain a competitive edge.",
+  "_metadata": {
+    "source_file": "2026-09-10_item9_Justin-Black",
+    "analyzed_at": "2026-10-11T10:54:01.796376",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

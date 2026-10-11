@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Sean Shackleton",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$65M producer",
+    "specialty": "YouTube lead generation",
+    "location": "Scottsdale, Arizona"
+  },
+  "main_topics": [
+    "YouTube for real estate lead generation",
+    "Challenges and persistence in building a YouTube channel",
+    "Client relationships from YouTube leads",
+    "Importance of video editing and scripting",
+    "Managing lead flow and business systems"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from YouTube videos",
+      "solution_summary": "Persist with consistent video production and adapt strategies over time.",
+      "timestamp": "00:12:03"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing an increasing number of leads",
+      "solution_summary": "Implement a scheduling system to automate appointments and manage time efficiently.",
+      "timestamp": "00:33:10"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming discouragement from low initial video views",
+      "solution_summary": "Commit to a consistent schedule and focus on long-term goals rather than immediate results.",
+      "timestamp": "00:09:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights on scaling lead generation through YouTube.",
+      "key_takeaway": "Consistency and adaptation in video strategy can lead to significant business growth."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode highlights how YouTube can be a major business pillar.",
+      "key_takeaway": "Leveraging YouTube effectively can double your business volume."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:15:05",
+      "end_timestamp": "00:15:30",
+      "quote": "I was in Europe for 15 days and put five deals under contract, all YouTube leads.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the power of YouTube in generating leads even while on vacation.",
+      "suggested_hook": "Can YouTube really generate leads while you're on vacation?"
+    },
+    {
+      "timestamp": "00:38:02",
+      "end_timestamp": "00:38:27",
+      "quote": "Be careful of shiny objects. Know that your first videos are going to suck, and that's still okay.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages persistence and realistic expectations for new creators.",
+      "suggested_hook": "Why your first YouTube videos need to be terrible."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a scheduling tool to manage appointments with leads.",
+      "context": "When lead flow increases and manual scheduling becomes cumbersome.",
+      "timestamp": "00:33:10"
+    },
+    {
+      "tactic": "Hire an editor from the start to maintain consistency in video production.",
+      "context": "To avoid burnout and focus on creating content.",
+      "timestamp": "00:17:30"
+    }
+  ],
+  "quotable_insights": [
+    "Your first videos are going to suck, and that's still okay.",
+    "I doubled my business this year from last year, all thanks to YouTube."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Go High Level",
+      "context": "Used for scheduling and automating appointments with clients."
+    }
+  ],
+  "episode_summary": "This episode explores how Sean Shackleton leveraged YouTube to transform her real estate business, closing $65M in deals. Despite initial challenges, her persistence in video production and strategic use of editing and scheduling tools led to significant growth. The discussion offers valuable insights for agents looking to enhance their lead generation through video content.",
+  "_metadata": {
+    "source_file": "2026-09-16_item8_Sarah-Maslowski",
+    "analyzed_at": "2026-10-11T10:54:10.833495",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
