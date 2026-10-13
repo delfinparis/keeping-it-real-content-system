@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of it.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the conventional wisdom of always closing a sale.",
+      "suggested_hook": "Why saying 'no' can be your most powerful tool in real estate."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Stop closing every sale. Here's why saying 'no' is powerful.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen challenges the norm: not every deal is worth closing. You're pushing for every sale, but something feels off. You're not alone.\",\n    \"INSIGHT\": \"Frances said, 'I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of it.' [ON-SCREEN: Don't buy just to buy] Most agents push for the close. Top producers know when to walk away. [ON-SCREEN: Know when to walk away]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can apply this today by evaluating your current deals. Frances built her brand by being selective. [ON-SCREEN: Be selective]\",\n    \"CTA\": \"Are you saying 'no' enough? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why saying 'no' can be your most powerful tool in real estate.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#TopProducer\", \"#RealTalk\", \"#MarketInsights\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents push for the close. Top producers know when to walk away.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "29:00",
+      "end_timestamp": "29:45",
+      "quote": "So much of life is just showing up.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of consistency and presence.",
+      "suggested_hook": "The secret to success in real estate? Just show up."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"The secret to success in real estate? Just show up.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen shared a powerful insight on our latest episode. Ever feel like you're putting in the hours but not seeing results? You're not alone. Many agents struggle with consistency and presence.\",\n    \"INSIGHT\": \"Frances says, 'So much of life is just showing up.' [ON-SCREEN: Just Show Up] Consistency is key. Most agents wait for the perfect moment. Top producers? They show up every day, rain or shine. [ON-SCREEN: Top Producers Show Up Daily]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Make a commitment to show up consistently this week. Frances built her brand with this mindset, closing 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Success in real estate is simpler than you think. Just show up. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ConsistencyIsKey\",\n    \"#AgentSuccess\",\n    \"#ShowUp\",\n    \"#KeepingItReal\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents wait for the perfect moment. Top producers? They show up every day.\"\n}\n```"
+  }
+]

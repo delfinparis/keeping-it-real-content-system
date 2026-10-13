@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "10:00",
+      "end_timestamp": "11:30",
+      "quote": "Luxury buyers want something that feels special and unique.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a key trend in luxury real estate that can inform marketing strategies.",
+      "suggested_hook": "What do luxury buyers really want in today's market?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What do luxury buyers really want in today's market?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick says luxury buyers crave something unique. You're showcasing properties, but nothing stands out. Buyers aren't biting. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie highlights that luxury buyers want a home that feels special and unique. [ON-SCREEN: Luxury buyers want unique] It's not just about the price tag. Most agents focus on features. Top producers focus on the story behind the home. [ON-SCREEN: Focus on the story]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by crafting a narrative for your listings. Carrie, who closed 47 luxury deals last year, swears by this approach. [ON-SCREEN: Craft a narrative]\",\n    \"CTA\": \"Are you highlighting the story behind your listings — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers want more than features. They want a story. Are you telling it?\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#RealEstateTips\", \"#AgentAdvice\", \"#MarketTrends\", \"#UniqueHomes\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on features. Top producers focus on the story behind the home.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "27:00",
+      "end_timestamp": "28:30",
+      "quote": "Staying in touch with clients through personalized communication is more effective than automation.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the reliance on automation in client management.",
+      "suggested_hook": "Why personalized communication beats automation in real estate."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why personalized communication beats automation in real estate.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick recently shared a game-changing insight on our podcast. You're reaching out to your database, but nobody's responding. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie says, 'Staying in touch with clients through personalized communication is more effective than automation.' [ON-SCREEN: Personalized > Automated] Most agents rely on automated emails. Top producers send handwritten notes or make personal calls. [ON-SCREEN: Handwritten Notes] This simple shift can transform your client relationships.\",\n    \"REFRAME/APPLICATION\": \"In today's market, personal touches stand out more than ever. You can do this today. Carrie, who closed 47 luxury deals last year, swears by this approach. [ON-SCREEN: 47 Luxury Deals]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Personalized communication trumps automation in real estate. Are you making it personal?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientRelationships\", \"#PersonalTouch\", \"#RealEstateSuccess\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Staying in touch with clients through personalized communication is more effective than automation.\"\n}\n```"
+  }
+]

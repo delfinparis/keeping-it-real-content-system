@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Frances Katzen",
+    "title": "Team Leader",
+    "company": "Douglas Elliman",
+    "production_level": "Top 10 teams at Douglas Elliman since 2010",
+    "specialty": "Luxury real estate",
+    "location": "Manhattan, New York City"
+  },
+  "main_topics": [
+    "Pietta tear tax and its impact on the New York real estate market",
+    "The importance of having an opinion in real estate",
+    "Building a personal brand through media appearances",
+    "Creating effective market reports",
+    "The discipline and mindset from ballet applied to real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of pietta tear tax on real estate market",
+      "solution_summary": "Understanding the phases of the tax and its implications on inventory and pricing",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in the real estate market",
+      "solution_summary": "Developing a strong personal opinion and leveraging media appearances",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Creating effective marketing materials",
+      "solution_summary": "Producing a visually engaging and opinionated market report",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Frances shares insights on building a luxury real estate business and media presence.",
+      "key_takeaway": "Having a strong opinion and consistent media presence can significantly enhance your brand."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Frances discusses how to empower team members and leverage her brand.",
+      "key_takeaway": "Encourage team members to have their own opinions and provide them with resources to succeed."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of it.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This challenges the conventional wisdom of always closing a sale.",
+      "suggested_hook": "Why saying 'no' can be your most powerful tool in real estate."
+    },
+    {
+      "timestamp": "29:00",
+      "end_timestamp": "29:45",
+      "quote": "So much of life is just showing up.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Emphasizes the importance of consistency and presence.",
+      "suggested_hook": "The secret to success in real estate? Just show up."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a visually engaging market report.",
+      "context": "Use dynamic visuals and strong opinions to capture attention.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Leverage media appearances to build credibility.",
+      "context": "Develop relationships with media and provide valuable insights.",
+      "timestamp": "14:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency wins the race.",
+    "Having an opinion is the most profitable thing you can ever do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Frances Katzen discusses the impact of the pietta tear tax on the New York real estate market and the importance of having a strong opinion in the industry. She shares insights on building a personal brand through media appearances and creating effective market reports. Frances also draws parallels between the discipline required in ballet and real estate, emphasizing consistency and presence as keys to success.",
+  "_metadata": {
+    "source_file": "2026-09-24_item6_Frances-Katzen",
+    "analyzed_at": "2026-10-13T11:24:12.980010",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

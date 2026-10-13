@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Alex Maldonado",
+    "title": "REALTOR",
+    "company": "Circle Real Estate",
+    "production_level": null,
+    "specialty": "First-time and first-generation buyers, Hispanic community",
+    "location": "Los Angeles, South LA, East LA, Northeast LA, Long Beach"
+  },
+  "main_topics": [
+    "First-time homebuyer challenges",
+    "Lead generation strategies",
+    "Google business profile optimization",
+    "Bilingual marketing",
+    "Down payment assistance programs"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "First-time buyers struggle with closing costs",
+      "solution_summary": "Incorporate seller credits into offers and work with lenders for credits.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads from renters",
+      "solution_summary": "Build a referral network and maintain relationships until renters are ready to buy.",
+      "timestamp": "00:10:59"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Ineffective Google business profiles",
+      "solution_summary": "Ensure consistency with DRE name, use SEO keywords in titles, and manage reviews effectively.",
+      "timestamp": "00:34:37"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn about the importance of managing expectations and using creative financing solutions.",
+      "key_takeaway": "Understand the full financial picture of your clients and use creative solutions to close deals."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Aspiring top producers can gain insights into effective lead generation and marketing strategies.",
+      "key_takeaway": "Leverage bilingual marketing and optimize your Google business profile to stand out."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:11",
+      "end_timestamp": "00:03:30",
+      "quote": "Get more LA families from renting to owning without any surprises along the way.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It succinctly captures the guest's mission and value proposition.",
+      "suggested_hook": "Want to help renters become homeowners without surprises?"
+    },
+    {
+      "timestamp": "00:42:48",
+      "end_timestamp": "00:43:18",
+      "quote": "AI cannot solve for the interpersonal relationships being that guide being the comfort that people get to.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the irreplaceable value of human connection in real estate.",
+      "suggested_hook": "Why AI will never replace the human touch in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use seller credits and lender credits to cover closing costs for buyers.",
+      "context": "When working with first-time buyers who have down payment but lack closing costs.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "tactic": "Optimize Google business profile with SEO keywords and consistent naming.",
+      "context": "To improve online visibility and credibility.",
+      "timestamp": "00:34:37"
+    }
+  ],
+  "quotable_insights": [
+    "It's not just about getting the deal done; it's about helping families achieve homeownership early on to build wealth."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Story Brand by Donald Miller",
+      "context": "Recommended for improving elevator pitches and marketing strategies."
+    },
+    {
+      "type": "tool",
+      "name": "Metracool",
+      "context": "Used for analyzing social media metrics and growth."
+    }
+  ],
+  "episode_summary": "In this episode, Alex Maldonado shares strategies for helping first-time homebuyers navigate closing costs using seller and lender credits. He emphasizes the importance of optimizing Google business profiles and leveraging bilingual marketing to reach the Hispanic community. Alex also discusses the value of building relationships with renters to convert them into future buyers.",
+  "_metadata": {
+    "source_file": "2026-09-30_item4_Alex-Maldonado",
+    "analyzed_at": "2026-10-13T11:24:39.500729",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

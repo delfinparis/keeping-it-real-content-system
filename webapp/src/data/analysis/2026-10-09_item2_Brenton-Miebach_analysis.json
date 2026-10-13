@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Brenton Miebach",
+    "title": "Sales Associate",
+    "company": "Southwest Florida Lifestyle Living, eXp Realty",
+    "production_level": "$10M+ producer",
+    "specialty": "Out-of-state buyer relocation, AI-driven marketing",
+    "location": "Cape Coral, Florida"
+  },
+  "main_topics": [
+    "Agent relocation and market entry strategies",
+    "Leveraging paid leads for business growth",
+    "AI integration in real estate operations",
+    "Social media strategies for real estate",
+    "Work-life balance and productivity"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into a new market without a sphere of influence",
+      "solution_summary": "Utilize paid leads and focus on learning the market quickly through research and networking.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Replacing human roles with AI for efficiency",
+      "solution_summary": "Develop AI systems for transaction coordination, marketing, and IT support to streamline operations.",
+      "timestamp": "00:27:31"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a social media presence from scratch",
+      "solution_summary": "Create content that resonates with the target demographic and leverage AI for content creation.",
+      "timestamp": "00:55:23"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on scaling production quickly in new markets.",
+      "key_takeaway": "Use AI and paid leads strategically to accelerate market penetration and production."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses building systems that can be shared with team members for consistent performance.",
+      "key_takeaway": "Develop portable AI systems to ensure team efficiency and consistency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:09:01",
+      "end_timestamp": "00:09:41",
+      "quote": "The internet leads for me weren't an easy button. They were a way to break into a market and build a network.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the strategic use of internet leads beyond immediate sales.",
+      "suggested_hook": "Are internet leads just a quick fix or a strategic tool?"
+    },
+    {
+      "timestamp": "00:36:03",
+      "end_timestamp": "00:36:31",
+      "quote": "There's nothing more important to me than providing for my family and being the best at what I do.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Shows personal motivation and dedication, resonating with listeners' values.",
+      "suggested_hook": "What drives you to succeed in real estate?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to create detailed showing packets",
+      "context": "Before property showings, automate the creation of comprehensive packets with all necessary information.",
+      "timestamp": "00:49:46"
+    },
+    {
+      "tactic": "Leverage historical content for social media growth",
+      "context": "Create engaging content by telling the historical story of your market area.",
+      "timestamp": "01:00:32"
+    }
+  ],
+  "quotable_insights": [
+    "Don't work too hard was the worst advice I ever got.",
+    "It's not the lead; it's the referral business you get from that lead."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for building AI systems to replace human roles in real estate operations."
+    },
+    {
+      "type": "book",
+      "name": "Lies That Came True",
+      "context": "Used as a source for creating engaging historical content about Cape Coral."
+    }
+  ],
+  "episode_summary": "In this episode, Brenton Miebach shares his journey of breaking into new real estate markets using paid leads and AI-driven systems. He discusses the importance of learning the market quickly and leveraging AI to replace traditional roles, enhancing efficiency. Brenton also reveals his successful social media strategy, focusing on historical storytelling to engage a mature audience on Facebook.",
+  "_metadata": {
+    "source_file": "2026-10-09_item2_Brenton-Miebach",
+    "analyzed_at": "2026-10-13T11:25:02.793727",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
