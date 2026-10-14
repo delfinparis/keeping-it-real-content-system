@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Chris Wolfe",
+    "title": "Real Estate Agent",
+    "company": "Not specifically mentioned",
+    "production_level": "$1M+ in net commission",
+    "specialty": "Luxury real estate",
+    "location": "El Dorado Hills, California"
+  },
+  "main_topics": [
+    "Transition from house flipping to real estate sales",
+    "Cold calling and open houses as lead generation",
+    "Building a business from scratch in a new market",
+    "Time management and daily routines",
+    "Marketing strategies for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market with no sphere of influence",
+      "solution_summary": "Utilizing open houses and cold calling to generate immediate business",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of rejection in cold calling",
+      "solution_summary": "Developing a disarming and friendly script to engage potential clients",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Staying consistent with daily tasks",
+      "solution_summary": "Using a software system to track and ensure completion of critical daily tasks",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Chris started in a new market with no contacts and built a successful business quickly.",
+      "key_takeaway": "Focus on consistent daily actions like open houses and cold calling to build your business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Chris doubled his commission in his second year by refining his processes.",
+      "key_takeaway": "Identify and commit to daily non-negotiable tasks that drive business growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "Most people can't and won't do it. If you can do it consistently, you will get business from it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the effectiveness of cold calling when done consistently.",
+      "suggested_hook": "Are you avoiding the one tactic that could skyrocket your real estate business?"
+    },
+    {
+      "timestamp": "41:00",
+      "end_timestamp": "42:00",
+      "quote": "If you can learn how to make it work now and develop skills in this market, you're going to be fine.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to embrace tough markets as learning opportunities.",
+      "suggested_hook": "Why a tough market might be the best thing for your real estate career."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Cold calling with a disarming script",
+      "context": "Use a friendly and engaging approach to expired listings",
+      "timestamp": "14:00"
+    },
+    {
+      "tactic": "Daily non-negotiable tasks",
+      "context": "Focus on three critical tasks every day to drive business",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Monthly high-quality mailers",
+      "context": "Commit to consistent mailers to a targeted neighborhood",
+      "timestamp": "35:00"
+    }
+  ],
+  "quotable_insights": [
+    "The gift of desperation can drive you to achieve what you never thought possible.",
+    "In real estate, it's not about the brokerage; it's about the agent's brand and actions."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Activate Daily",
+      "context": "A software developed by Chris to track daily tasks and ensure business growth"
+    }
+  ],
+  "episode_summary": "Chris Wolfe shares his journey from a failed house flipping business to becoming a top-producing real estate agent in a new market. He emphasizes the importance of consistent daily actions like cold calling and open houses, and discusses how he uses systems to stay on track. Chris provides actionable insights for agents looking to build or rebuild their business from scratch.",
+  "_metadata": {
+    "source_file": "2026-09-22_item7_Chris-Wolfe",
+    "analyzed_at": "2026-10-14T09:36:07.773718",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
