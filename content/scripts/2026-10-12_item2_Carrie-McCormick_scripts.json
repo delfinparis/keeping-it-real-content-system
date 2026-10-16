@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:00",
+      "end_timestamp": "05:45",
+      "quote": "If a luxury buyer doesn't feel comfortable with a home or it doesn't hit all of their boxes, they simply will walk away from the deal.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the discerning nature of luxury buyers and the importance of meeting their specific needs.",
+      "suggested_hook": "Why luxury buyers are more selective than ever."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why are luxury buyers more selective than ever?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick recently shared a crucial insight on our podcast. If you're dealing with luxury buyers, you know they have high expectations. You're showing them homes, but nothing seems to stick. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie said, 'If a luxury buyer doesn't feel comfortable with a home or it doesn't hit all of their boxes, they simply will walk away from the deal.' [ON-SCREEN: Luxury buyers walk away] Most agents push for a close. Top producers ensure every box is checked. [ON-SCREEN: Check every box]\",\n    \"REFRAME/APPLICATION\": \"This matters because luxury buyers have options. You can apply this today by refining your property matches. Carrie closed 47 luxury deals last year using this exact approach. [ON-SCREEN: 47 luxury deals closed]\",\n    \"CTA\": \"Are you ensuring every box is checked — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers are more selective than ever. Are you checking all their boxes?\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#RealEstateTips\", \"#TopProducer\", \"#AgentAdvice\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If a luxury buyer doesn't feel comfortable, they simply will walk away from the deal.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "AI has become a fact-checking source...but we're definitely being challenged with the information that AI is providing to them.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that AI will replace human agents, emphasizing the need for human expertise.",
+      "suggested_hook": "Will AI replace real estate agents? Here's the truth."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Will AI replace real estate agents? Here's the truth.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick recently shared a powerful insight on our podcast. As AI becomes a fact-checking source for clients, you're probably feeling the pressure. Clients come armed with AI-generated data, challenging your expertise. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie says, 'AI has become a fact-checking source...but we're definitely being challenged with the information that AI is providing to them.' [ON-SCREEN: AI is a tool, not a replacement] Most agents fear AI will replace them. Top producers leverage AI to enhance their expertise. [ON-SCREEN: Use AI to empower, not replace]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI isn't replacing you—it's a tool to make you better. Use it to validate your insights and build trust. You can start today by integrating AI into your research process. Carrie closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you using AI to empower your business — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI won't replace agents, but it can make you better. Are you ready? #RealEstate #AI\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#AgentTips\", \"#RealEstateTrends\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI isn't replacing you—it's a tool to make you better.\"\n}\n```"
+  }
+]

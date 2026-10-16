@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:50:03",
+      "end_timestamp": "00:51:00",
+      "quote": "Now I've got showings today, go into showing time, pull the addresses, and prepare the skill is, you know, prepare a showing packet.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific AI workflow that saves time and ensures consistency.",
+      "suggested_hook": "Want to save hours on preparing for showings? Here's how AI can do it for you."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to save hours on preparing for showings? Here's how AI can do it for you.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Brenton Miebach shared a game-changing AI workflow on our podcast. Imagine this: you've got back-to-back showings today. You're scrambling to pull addresses and prepare packets. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Brenton says, 'Now I've got showings today, go into showing time, pull the addresses, and prepare the skill is, you know, prepare a showing packet.' [ON-SCREEN: AI workflow saves hours] Most agents manually gather info. Top producers automate with AI.\",\n    \"REFRAME/APPLICATION\": \"This matters because you can implement it today and reclaim hours. Brenton's approach helped him streamline operations, ensuring consistency and saving time. [ON-SCREEN: Apply this today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Discover how AI can streamline your showings and save you hours. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentProductivity\", \"#Showings\", \"#RealEstateTips\", \"#AIWorkflow\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents manually gather info. Top producers automate with AI.\"\n}\n```"
+  }
+]

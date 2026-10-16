@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:00",
+      "end_timestamp": "00:05:30",
+      "quote": "I want to be that resource for other people. I want to help other people achieve home ownership very early on.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the guest's motivation and mission, which can resonate with viewers.",
+      "suggested_hook": "Discover why helping others achieve home ownership is more than just a job for Alex Maldonado."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why is home ownership a mission, not just a job?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Alex Maldonado knows the struggle of first-time homebuyers. You're working hard, saving every penny, but the dream of owning a home feels out of reach. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Alex says, 'I want to be that resource for other people. I want to help other people achieve home ownership very early on.' [ON-SCREEN: Be the resource] Most agents focus on transactions. Alex focuses on transformation. [ON-SCREEN: Transformation over transaction]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start helping clients today. Alex's approach led to 30% more client referrals last year. [ON-SCREEN: 30% more referrals] You can do this today by offering down payment assistance tips.\",\n    \"CTA\": \"Are you focusing on transformation or transaction? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Helping others achieve home ownership is more than a job for Alex Maldonado. #RealEstate\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#HomeOwnership\", \"#AgentTips\", \"#FirstTimeHomebuyer\", \"#Transformation\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on transactions. Alex focuses on transformation.\"\n}\n```"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Brenton Miebach",
+    "title": "Sales Associate",
+    "company": "Southwest Florida Lifestyle Living, eXp Realty",
+    "production_level": "$10M+ producer",
+    "specialty": "Out-of-state buyer relocation, AI-driven marketing",
+    "location": "Cape Coral, Florida"
+  },
+  "main_topics": [
+    "AI in real estate operations",
+    "Lead generation and conversion strategies",
+    "Building a real estate business in a new market",
+    "Social media growth strategies",
+    "Work ethic and productivity in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into a new market without a sphere of influence",
+      "solution_summary": "Utilize paid leads and AI-driven systems to quickly establish a presence and generate business.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing real estate operations efficiently",
+      "solution_summary": "Develop AI workflows to replace traditional roles like transaction coordinators and marketing teams.",
+      "timestamp": "00:27:41"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Growing a social media presence",
+      "solution_summary": "Leverage historical content and AI to create engaging videos that resonate with the target demographic.",
+      "timestamp": "00:55:25"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on using AI and paid leads to scale quickly in a new market.",
+      "key_takeaway": "Adopt AI tools to streamline processes and focus on high-impact activities."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Learn how to equip team members with AI systems for consistent performance.",
+      "key_takeaway": "Create portable AI systems that can be easily shared and implemented by team members."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:50:03",
+      "end_timestamp": "00:51:00",
+      "quote": "Now I've got showings today, go into showing time, pull the addresses, and prepare the skill is, you know, prepare a showing packet.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific AI workflow that saves time and ensures consistency.",
+      "suggested_hook": "Want to save hours on preparing for showings? Here's how AI can do it for you."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to create showing packets automatically.",
+      "context": "Before showing properties, use AI to gather all relevant information into a single document.",
+      "timestamp": "00:50:03"
+    },
+    {
+      "tactic": "Leverage historical content for social media growth.",
+      "context": "Create engaging videos using historical stories and AI to attract a specific demographic.",
+      "timestamp": "00:55:25"
+    }
+  ],
+  "quotable_insights": [
+    "It's not the lead; it's the referral business you get from that lead."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Lies That Came True",
+      "context": "Used as a source of historical content for social media videos."
+    },
+    {
+      "type": "tool",
+      "name": "Claude AI",
+      "context": "Used to build AI-driven workflows for real estate operations."
+    }
+  ],
+  "episode_summary": "Brenton Miebach shares his journey of building a successful real estate business in new markets using AI and paid leads. He discusses the importance of mastering market knowledge, leveraging AI for operational efficiency, and using historical content to grow a social media presence. The episode provides actionable insights for agents looking to scale their business and improve productivity.",
+  "_metadata": {
+    "source_file": "2026-10-09_item3_Brenton-Miebach",
+    "analyzed_at": "2026-10-16T09:05:04.453198",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

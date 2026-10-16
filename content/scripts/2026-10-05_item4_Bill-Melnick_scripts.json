@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "04:05",
+      "end_timestamp": "04:45",
+      "quote": "Ralph Lauren was the first one to market himself as a lifestyle...which was revolutionary in the industry.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights the importance of lifestyle marketing in real estate.",
+      "suggested_hook": "Why selling a lifestyle is more powerful than selling a home."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why is selling a lifestyle more powerful than selling a home?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnik shared a game-changing insight on our podcast. You're showcasing beautiful homes, but buyers aren't biting. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ralph Lauren was the first to market himself as a lifestyle, which was revolutionary. [ON-SCREEN: Ralph Lauren - Lifestyle Marketing] In real estate, it's not just about the property. It's about the life your clients can live there. [ON-SCREEN: Sell the Lifestyle, Not Just the Home] Most agents focus on features. Top producers sell the dream. [ON-SCREEN: Dream > Features]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by crafting a story around your listings. This approach helped Bill transition into luxury real estate seamlessly. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you selling a lifestyle or just a home? Comment 'Lifestyle' or 'Home' below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Selling a home? Try selling a lifestyle instead. Here's why it works. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#LuxuryRealEstate\", \"#LifestyleSelling\", \"#AgentTips\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"In real estate, it's not just about the property. It's about the life your clients can live there.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "26:00",
+      "end_timestamp": "26:45",
+      "quote": "Even people who can afford it and want something that's grand don't like that much.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the assumption that all luxury buyers want large estates.",
+      "suggested_hook": "Do luxury buyers really want massive estates?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Do luxury buyers really want massive estates?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnik challenges a common belief in luxury real estate. You've got clients with deep pockets, and you're thinking they want sprawling mansions. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Bill says, 'Even people who can afford it and want something that's grand don't like that much.' [ON-SCREEN: Not all luxury buyers want big] Most agents push size. Top producers focus on lifestyle. [ON-SCREEN: Lifestyle over size]\",\n    \"REFRAME/APPLICATION\": \"Why this matters now? Buyers are prioritizing lifestyle. You can start today by highlighting lifestyle features in your listings. This approach helped Bill close 47 luxury deals last year. [ON-SCREEN: Lifestyle sells]\",\n    \"CTA\": \"Do your clients care more about lifestyle than size — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Not all luxury buyers want massive estates. Focus on lifestyle! #LuxuryRealEstate #AgentTips\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#AgentTips\", \"#RealEstateMarketing\", \"#LifestyleSales\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Even people who can afford it and want something that's grand don't like that much.\"\n}\n```"
+  }
+]

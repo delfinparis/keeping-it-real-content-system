@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "19:00",
+      "end_timestamp": "20:00",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker in this space.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the industry.",
+      "suggested_hook": "Are you just a lockbox operator? Here's why you might become a gig worker soon."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you just a lockbox operator? Here's why you might become a gig worker soon.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell recently shared a bold prediction that should make every agent pause. If your only skill is operating a lockbox, you might soon find yourself reclassified as a gig worker. Think about it: Are you adding real value beyond opening doors? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris Linsell warns, 'If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker in this space.' [ON-SCREEN: Reclassified as gig worker] Most agents rely on basic tasks. Top producers differentiate by offering unique insights and personalized service. [ON-SCREEN: Unique insights & service]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. AI is reshaping the industry, and you need to adapt today. Start by identifying one unique value you can offer your clients this week. [ON-SCREEN: Adapt today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you just a lockbox operator? Time to rethink your value. #RealEstate #AgentTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AgentTips\", \"#AIImpact\", \"#GigEconomy\", \"#ValueProposition\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on basic tasks. Top producers differentiate by offering unique insights and personalized service.\"\n}\n```"
+  }
+]

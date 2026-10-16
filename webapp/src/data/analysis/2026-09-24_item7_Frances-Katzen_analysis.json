@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Frances Katzen",
+    "title": "Team Leader",
+    "company": "Douglas Elliman",
+    "production_level": "Top 10 Teams at Douglas Elliman since 2010",
+    "specialty": "Luxury Real Estate",
+    "location": "Manhattan, New York City"
+  },
+  "main_topics": [
+    "New York Real Estate Market Trends",
+    "Pied-à-terre Tax Impact",
+    "Building a Personal Brand in Real Estate",
+    "The Importance of Having an Opinion in Real Estate",
+    "Consistency and Discipline in Business"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of new pied-à-terre tax on the real estate market",
+      "solution_summary": "Frances discusses the potential effects and misinformation surrounding the tax, emphasizing the need for clients to stay informed and patient.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded real estate market",
+      "solution_summary": "Frances emphasizes the power of having a strong opinion and being authentic to attract clients and media attention.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Creating effective marketing materials",
+      "solution_summary": "Frances shares her approach to creating the Katzen Report, focusing on visual appeal and having a strong, unique voice.",
+      "timestamp": "08:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Frances shares insights on how to build a strong personal brand and gain media attention.",
+      "key_takeaway": "Having a strong opinion and being consistent in your marketing efforts can significantly boost your visibility and client base."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Frances discusses how she manages her team and encourages them to have their own opinions.",
+      "key_takeaway": "Empowering team members to express their individuality can enhance the team's overall performance and brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? You can do better. Wait.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This moment highlights the importance of honesty and integrity in client relationships, which can lead to long-term success.",
+      "suggested_hook": "Why telling a client 'No' could be your best sales strategy."
+    },
+    {
+      "timestamp": "29:00",
+      "end_timestamp": "29:45",
+      "quote": "So much of life is just showing up.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement underscores the importance of consistency and discipline, key traits for success in any field.",
+      "suggested_hook": "The secret to success? It's simpler than you think."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a visually appealing and opinionated market report.",
+      "context": "Use it as a touchpoint to engage with your sphere of influence and track engagement.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Empower your team to express their individuality.",
+      "context": "Encourage team members to have their own opinions and approaches to enhance team dynamics.",
+      "timestamp": "21:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency wins the race, right? It's just showing up and doing it.",
+    "Having an opinion is the most profitable thing you can ever do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Frances Katzen shares her insights on navigating the New York real estate market, emphasizing the importance of having a strong opinion and being consistent in marketing efforts. She discusses the impact of the pied-à-terre tax and offers advice on building a personal brand and empowering team members. Her disciplined approach, rooted in her background as a professional ballerina, highlights the value of showing up and being authentic in business.",
+  "_metadata": {
+    "source_file": "2026-09-24_item7_Frances-Katzen",
+    "analyzed_at": "2026-10-16T09:04:13.849536",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

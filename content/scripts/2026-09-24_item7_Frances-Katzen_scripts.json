@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? You can do better. Wait.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This moment highlights the importance of honesty and integrity in client relationships, which can lead to long-term success.",
+      "suggested_hook": "Why telling a client 'No' could be your best sales strategy."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why saying 'No' to a client might boost your sales.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen said it best: 'I just said, don't do it. Why are you doing it? You can do better. Wait.' Ever felt pressured to agree with a client even when you know it's not right? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Frances believes honesty and integrity are key. [ON-SCREEN: Honesty = Long-term Success] She says, 'Most agents just say yes to everything. But top producers know when to say no.' [ON-SCREEN: Say No, Build Trust] By being honest, you build trust, and trust leads to repeat business. [ON-SCREEN: Trust = Repeat Business]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can apply this today by evaluating your client interactions. Frances closed 47 deals last year using this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Have you ever told a client 'No'? Yes or No?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Saying 'No' could be your best sales strategy. #RealEstateTips #ClientTrust\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientTrust\",\n    \"#TopProducer\",\n    \"#SalesStrategy\",\n    \"#IntegrityInBusiness\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents just say yes to everything. But top producers know when to say no.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "29:00",
+      "end_timestamp": "29:45",
+      "quote": "So much of life is just showing up.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement underscores the importance of consistency and discipline, key traits for success in any field.",
+      "suggested_hook": "The secret to success? It's simpler than you think."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"The secret to success? It's simpler than you think.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen said it best: 'So much of life is just showing up.' You're hustling, reaching out to clients, but it feels like nothing's clicking. You're not alone.\",\n    \"INSIGHT\": \"Frances emphasizes consistency and discipline. [ON-SCREEN: Consistency is Key] She says, 'Just being present can set you apart.' [ON-SCREEN: Show Up, Stand Out] Most agents wait for the perfect moment. Top producers show up every day.\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. [ON-SCREEN: Start Today] Frances built a brand in NYC real estate by showing up consistently. You can too.\",\n    \"CTA\": \"Are you showing up consistently — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Success is simpler than you think. Just show up. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Consistency\", \"#SuccessMindset\", \"#RealEstateAdvice\", \"#AgentLife\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Just being present can set you apart.\"\n}\n```"
+  }
+]
