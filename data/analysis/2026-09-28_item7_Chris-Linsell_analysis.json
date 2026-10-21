@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "Mitten Group",
+    "production_level": "Two-time Inman Marketing All-Star",
+    "specialty": "AI and future of real estate business",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "Impact of AI on real estate",
+    "Future of Zillow and Compass",
+    "Agent productivity and relationship building",
+    "Social media strategy for REALTORS",
+    "Challenges for independent brokerages"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI potentially replacing certain real estate roles",
+      "solution_summary": "Focus on relationship building and advisory roles to remain relevant.",
+      "timestamp": "17:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not leveraging social media effectively",
+      "solution_summary": "Post 1-3 short form videos daily to build a personal brand and engage clients.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Zillow's dominance and its implications",
+      "solution_summary": "Independent brokerages should form alliances and explore alternative solutions.",
+      "timestamp": "34:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on leveraging AI and social media to enhance productivity.",
+      "key_takeaway": "Focus on building strong client relationships and personal branding to stay ahead."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses strategic planning for brokerages in response to industry giants like Zillow and Compass.",
+      "key_takeaway": "Consider forming alliances and exploring new tech solutions to maintain independence."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the face of AI advancements.",
+      "suggested_hook": "Is your real estate career at risk of becoming obsolete?"
+    },
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "Post 1-3 short form videos a day to build your personal brand.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for agents to enhance their online presence.",
+      "suggested_hook": "Want to stand out in real estate? Here's a simple daily strategy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on relationship building and advisory roles.",
+      "context": "To remain relevant as AI takes over administrative tasks.",
+      "timestamp": "17:00"
+    },
+    {
+      "tactic": "Post 1-3 short form videos daily.",
+      "context": "To build a personal brand and engage with potential clients.",
+      "timestamp": "25:00"
+    }
+  ],
+  "quotable_insights": [
+    "AI will be an accelerator for the success of relationship-building real estate professionals.",
+    "Your clients want you to be the solution to their problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for generating more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting tool for identifying agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the transformative impact of AI on the real estate industry, emphasizing the importance of relationship building and personal branding for agents. The conversation also explores the challenges posed by industry giants like Zillow and Compass, and how independent brokerages can adapt and thrive.",
+  "_metadata": {
+    "source_file": "2026-09-28_item7_Chris-Linsell",
+    "analyzed_at": "2026-10-21T09:28:30.246791",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

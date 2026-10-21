@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Chris Wolfe",
+    "title": "Real Estate Agent",
+    "company": "Not specifically mentioned",
+    "production_level": "$1M+ producer",
+    "specialty": "Luxury Real Estate",
+    "location": "El Dorado Hills, California"
+  },
+  "main_topics": [
+    "Transition from house flipping to real estate sales",
+    "Lead generation through open houses and cold calling",
+    "Building a business from scratch in a new market",
+    "Time management and daily routines for success",
+    "Use of technology and systems in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a new market without a sphere of influence",
+      "solution_summary": "Focused on open houses and cold calling, accounting for 95% of his business.",
+      "timestamp": "12:30"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of failure and starting over",
+      "solution_summary": "Committed mentally to not failing and used desperation as a motivator.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing daily tasks effectively",
+      "solution_summary": "Implemented a system called Activate Daily to track and complete critical tasks.",
+      "timestamp": "42:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Chris started from scratch in a new market and succeeded quickly.",
+      "key_takeaway": "Focus on open houses and cold calling to generate immediate business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Chris doubled his commission in his second year.",
+      "key_takeaway": "Consistent daily prospecting and leveraging technology can rapidly grow your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just remember thinking like, man, I could sell a house like in my town, and make 30,000 with zero risk.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the realization that led to a career change.",
+      "suggested_hook": "What if you could earn the same without the risk?"
+    },
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "I just have a mental thing in my head where I just never want to be weird or pushy or even asking for referrals.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Offers a fresh perspective on client communication.",
+      "suggested_hook": "How to stay top-of-mind without being pushy."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Cold calling with a disarming introduction",
+      "context": "Use a friendly, informal approach to start conversations with expired listings.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Daily non-negotiable tasks",
+      "context": "Identify and complete three critical tasks each day to build your business.",
+      "timestamp": "22:00"
+    }
+  ],
+  "quotable_insights": [
+    "The gift of desperation can be a powerful motivator.",
+    "If you can make it work in a bad market, you'll thrive when it turns."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Activate Daily",
+      "context": "A system Chris developed to track daily tasks and ensure productivity."
+    }
+  ],
+  "episode_summary": "Chris Wolfe shares his journey from a failed house flipping business to becoming a top-producing real estate agent in a new market. He emphasizes the importance of open houses and cold calling for lead generation, the power of a strong mindset, and the use of systems like Activate Daily to manage daily tasks effectively. His story offers actionable insights for new agents and those looking to revitalize their business.",
+  "_metadata": {
+    "source_file": "2026-09-22_item9_Chris-Wolfe",
+    "analyzed_at": "2026-10-21T09:28:01.472876",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

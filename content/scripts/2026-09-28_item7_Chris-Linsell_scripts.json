@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "17:00",
+      "end_timestamp": "18:00",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the face of AI advancements.",
+      "suggested_hook": "Is your real estate career at risk of becoming obsolete?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your real estate career at risk of becoming obsolete?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell warns that if your only skill is opening lock boxes, AI might replace you. Many agents feel stuck, struggling to show their unique value in a tech-driven world.\",\n    \"INSIGHT\": \"Chris says, 'If you are a real estate agent who has no value outside of your ability to operate a lock box, you will be reclassified as a gig worker.' [ON-SCREEN: Reclassified as a gig worker] Most agents rely on basic tasks. Top producers focus on relationship-building and strategic insights. [ON-SCREEN: Relationship-building and insights]\",\n    \"REFRAME/APPLICATION\": \"This matters now because AI is advancing fast. Start by enhancing your client relationships today. Agents who adapt will thrive, just like Chris who closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you focusing on relationships over tasks — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your real estate career safe from AI? Discover how to stay relevant. #RealEstate #AI\",\n  \"HASHTAGS\": [\n    \"#RealEstate\",\n    \"#AI\",\n    \"#AgentTips\",\n    \"#RealEstateAdvice\",\n    \"#FutureOfWork\"\n  ],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"If your only skill is opening lock boxes, AI might replace you.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "Post 1-3 short form videos a day to build your personal brand.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable strategy for agents to enhance their online presence.",
+      "suggested_hook": "Want to stand out in real estate? Here's a simple daily strategy."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to stand out in real estate? Try this daily strategy.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell shared a game-changing tip on our podcast. You're posting sporadically on social media, hoping for engagement, but nothing sticks. It's frustrating, right?\",\n    \"INSIGHT\": \"Chris suggests posting 1-3 short form videos a day to build your personal brand. [ON-SCREEN: Post 1-3 videos daily] Most agents post occasionally. [ON-SCREEN: Most agents post occasionally] Top producers are consistent. [ON-SCREEN: Top producers are consistent] This simple shift can transform your online presence.\",\n    \"REFRAME/APPLICATION\": \"This matters because consistency builds trust. You can start today. [ON-SCREEN: Start today] Chris has seen agents double their engagement with this approach.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want to stand out in real estate? Post 1-3 videos daily. Are you doing this?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#SocialMediaStrategy\", \"#RealtorLife\", \"#BrandBuilding\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Post 1-3 short form videos a day to build your personal brand.\"\n}\n```"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Brenton Miebach",
+    "title": "Sales Associate",
+    "company": "Southwest Florida Lifestyle Living, eXp Realty",
+    "production_level": "$10M+ producer",
+    "specialty": "AI-driven marketing systems, out-of-state buyer relocation",
+    "location": "Cape Coral, Florida"
+  },
+  "main_topics": [
+    "AI-driven marketing and systems",
+    "Lead generation through paid leads",
+    "Cold calling strategies",
+    "Social media growth",
+    "Real estate market adaptation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into a new market without existing connections",
+      "solution_summary": "Utilize paid leads from platforms like Realtor.com and Zillow, and leverage AI for market research and lead management.",
+      "timestamp": "00:06:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Replacing traditional roles with AI",
+      "solution_summary": "Develop AI systems to handle tasks like transaction coordination, marketing, and IT troubleshooting.",
+      "timestamp": "00:27:31"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Building a social media presence from scratch",
+      "solution_summary": "Create engaging historical content relevant to the local market to rapidly grow social media following.",
+      "timestamp": "00:55:26"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging AI and paid leads to quickly scale production in new markets.",
+      "key_takeaway": "AI can be a powerful tool to replace traditional roles and streamline operations, allowing for rapid growth."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The episode discusses creating systems that can be easily shared with team members to ensure consistency and efficiency.",
+      "key_takeaway": "Developing portable AI systems can empower team members and maintain consistent service quality."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:27:31",
+      "end_timestamp": "00:28:22",
+      "quote": "I've replaced a transaction coordinator, a marketing team, and a website person with an AI system that I've built.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a specific, actionable use of AI that challenges traditional roles.",
+      "suggested_hook": "Discover how AI can replace entire teams in real estate operations."
+    },
+    {
+      "timestamp": "00:55:26",
+      "end_timestamp": "00:56:10",
+      "quote": "We took our team Facebook page from about 150 followers to nearly 3000 in about 10 days.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates rapid social media growth using a unique content strategy.",
+      "suggested_hook": "Want to grow your social media following by thousands in days? Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to create comprehensive showing packets automatically.",
+      "context": "Before property showings, to provide clients with detailed information.",
+      "timestamp": "00:49:23"
+    },
+    {
+      "tactic": "Engage with local history to create compelling social media content.",
+      "context": "To rapidly grow social media presence and engage with a local audience.",
+      "timestamp": "00:55:26"
+    }
+  ],
+  "quotable_insights": [
+    "Don't work too hard was the worst advice I ever got.",
+    "AI can replace entire teams, freeing up time and resources for REALTORS."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Lies That Came True by Eileen Bernard",
+      "context": "Used as a source for creating engaging historical content about Cape Coral."
+    },
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for building AI systems to manage real estate operations."
+    }
+  ],
+  "episode_summary": "In this episode, Brenton Miebach shares how he successfully entered new real estate markets using AI-driven systems and paid leads. He discusses the power of AI in replacing traditional roles and how engaging historical content can rapidly grow social media presence. Brenton's insights offer actionable strategies for REALTORS looking to leverage technology for growth.",
+  "_metadata": {
+    "source_file": "2026-10-09_item4_Brenton-Miebach",
+    "analyzed_at": "2026-10-21T09:29:06.592948",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

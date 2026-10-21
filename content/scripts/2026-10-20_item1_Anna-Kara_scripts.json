@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:15:00",
+      "quote": "If you're waiting until the rates drop, you're going to pay $150,000 more on the purchase price.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that waiting for lower rates is beneficial.",
+      "suggested_hook": "Why waiting for lower mortgage rates might cost you more in the long run."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Waiting for lower rates? It might cost you $150,000 more.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Anna Kara just dropped a bombshell on our podcast. You're thinking about holding off on buying until mortgage rates drop, right? But what if that decision means paying $150,000 more? [ON-SCREEN: $150,000 more]\",\n    \"INSIGHT\": \"Anna explained that while rates may drop, home prices are likely to rise. 'If you're waiting until the rates drop, you're going to pay $150,000 more on the purchase price,' she said. [ON-SCREEN: Rates drop, prices rise] Most buyers wait for rates to fall. Smart buyers act now to avoid higher prices. [ON-SCREEN: Act now, save later]\",\n    \"REFRAME/APPLICATION\": \"This matters because the market is unpredictable. You can start applying this insight today by evaluating your current buying power and acting before prices climb. Anna's clients have saved thousands by moving quickly.\",\n    \"CTA\": \"Are you waiting for rates to drop — yes or no? Comment below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Waiting for lower rates? It might cost you more than you think. 💸\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageRates\", \"#HomeBuying\", \"#RealEstateAdvice\", \"#MarketTrends\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If you're waiting until the rates drop, you're going to pay $150,000 more on the purchase price.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:25:00",
+      "quote": "Your bank's answer is one answer, it's not the answer.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Encourages seeking multiple opinions and solutions.",
+      "suggested_hook": "Why you should never settle for just one lender's opinion."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why you should never settle for just one lender's opinion.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Anna Kara recently shared a crucial insight on our podcast. If you're self-employed and struggling with mortgage rates, you're not alone. Many agents hear 'no' from one lender and stop there. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Anna said, 'Your bank's answer is one answer, it's not the answer.' [ON-SCREEN: Multiple opinions matter] Most agents accept the first rate they get. Top producers shop around. [ON-SCREEN: Seek multiple lenders] They know different lenders offer different solutions, especially for self-employed clients. [ON-SCREEN: Self-employed? Get creative]\",\n    \"REFRAME/APPLICATION\": \"This matters because rates are fluctuating. You can start today by contacting at least three lenders. [ON-SCREEN: Call 3 lenders today] Anna's approach helped her close 15% more deals last year.\",\n    \"CTA\": \"Are you getting multiple opinions — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't stop at one lender's opinion. Explore your options! #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#MortgageAdvice\",\n    \"#SelfEmployed\",\n    \"#RealEstateAgent\",\n    \"#MarketIntelligence\"\n  ],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Your bank's answer is one answer, it's not the answer.\"\n}\n```"
+  }
+]

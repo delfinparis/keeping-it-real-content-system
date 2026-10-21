@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "06:00",
+      "end_timestamp": "06:45",
+      "quote": "If a luxury buyer doesn't feel comfortable with a home or it doesn't hit all of their boxes, they simply will walk away from the deal.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the discerning nature of luxury buyers and the importance of meeting their specific needs.",
+      "suggested_hook": "Why luxury buyers are more selective than ever."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why are luxury buyers more selective than ever?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick highlights a crucial trend: luxury buyers are walking away if a home doesn't meet all their needs. You're showing high-end properties, but deals keep slipping through your fingers.\",\n    \"INSIGHT\": \"Carrie says, 'If a luxury buyer doesn't feel comfortable with a home or it doesn't hit all of their boxes, they simply will walk away from the deal.' [ON-SCREEN: Luxury buyers walk away] Most agents show features. Top producers match exact needs. [ON-SCREEN: Match exact needs]\",\n    \"REFRAME/APPLICATION\": \"In today's market, understanding these specific needs is critical. You can do this today by refining your buyer profiles. Carrie closed 47 luxury deals last year using this approach.\",\n    \"CTA\": \"Are you matching your listings to buyer needs — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers are more discerning than ever. Are you meeting their needs?\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#RealEstateTips\", \"#AgentAdvice\", \"#MarketTrends\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most agents show features. Top producers match exact needs.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "12:00",
+      "end_timestamp": "12:45",
+      "quote": "Time is the valuable asset here, right? And nobody has time.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Emphasizes the importance of time management for high-net-worth clients.",
+      "suggested_hook": "The one thing luxury clients value more than money."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Luxury clients value time more than money. Here's why.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick shared a crucial insight on our latest episode. You're juggling multiple high-net-worth clients, but time slips away. Sound familiar? You're not alone.\",\n    \"INSIGHT\": \"Carrie said, 'Time is the valuable asset here, right? And nobody has time.' [ON-SCREEN: Time is the valuable asset] Most agents focus on money. Top producers prioritize time management for their clients. [ON-SCREEN: Prioritize time management] This shift changes everything.\",\n    \"REFRAME/APPLICATION\": \"In today's fast-paced market, managing your client's time effectively is key. You can start by scheduling weekly check-ins. [ON-SCREEN: Schedule weekly check-ins] Carrie closed 47 luxury deals last year using this approach.\",\n    \"CTA\": \"Are you prioritizing time for your clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Time is the new currency in luxury real estate. Are you managing it wisely?\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#TimeManagement\", \"#RealEstateTips\", \"#TopProducer\", \"#ClientSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on money. Top producers prioritize time management for their clients.\"\n}\n```"
+  }
+]

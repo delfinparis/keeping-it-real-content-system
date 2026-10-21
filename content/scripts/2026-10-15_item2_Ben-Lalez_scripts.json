@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:32",
+      "end_timestamp": "10:05",
+      "quote": "Every time you do something that is scary and you complete it, you leave a lot of people behind you.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to embrace challenges as opportunities for growth.",
+      "suggested_hook": "Why facing your fears can set you apart in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Facing fears sets you apart in real estate.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a powerful insight on our latest episode. You're an agent facing daunting challenges, feeling stuck while trying to grow your business. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Every time you do something that is scary and you complete it, you leave a lot of people behind you. [ON-SCREEN: Embrace Fear] Most agents avoid fear. Top producers see it as growth. [ON-SCREEN: Growth Opportunity]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Embrace a challenge this week. You can do this today. Ben Lalez, who closed 47 deals last year, uses this approach.\",\n    \"CTA\": \"Are you ready to face your fears this week — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why facing your fears can set you apart in real estate. Are you ready?\",\n  \"HASHTAGS\": [\"#RealEstateGrowth\", \"#FaceYourFears\", \"#AgentTips\", \"#MindsetShift\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Every time you do something that is scary and you complete it, you leave a lot of people behind you.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "16:16",
+      "end_timestamp": "16:32",
+      "quote": "85% of agents never contact their client after the sale.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a common oversight that can be easily corrected for more business.",
+      "suggested_hook": "Are you missing out on repeat business? Here's a shocking statistic."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"hook\": \"Are you missing out on repeat business? Here's a shocking statistic.\",\n    \"brand_intro\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"setup\": \"85% of agents never contact their client after the sale. Imagine closing a deal and then vanishing. You're busy chasing new leads, but your past clients are slipping away.\",\n    \"insight\": \"Ben Lalez shares, 'Most agents move on after a sale, but top producers stay connected. They send personalized updates, check in regularly, and become a trusted resource.' [ON-SCREEN: 85% of agents never follow up] [ON-SCREEN: Top producers stay connected]\",\n    \"reframe_application\": \"This matters now more than ever. Start today by reaching out to one past client. Ben closed 47 deals last year using this exact approach.\",\n    \"cta\": \"Are you doing this already — yes or no?\",\n    \"close\": \"See you next time.\"\n  },\n  \"caption\": \"85% of agents miss out on repeat business. Are you one of them? #RealEstateTips\",\n  \"hashtags\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#ClientRetention\", \"#TopProducer\", \"#RealEstateGrowth\"],\n  \"content_pillar\": \"top_producer_secrets\",\n  \"shareable_moment\": \"Most agents move on after a sale, but top producers stay connected.\"\n}\n```"
+  }
+]

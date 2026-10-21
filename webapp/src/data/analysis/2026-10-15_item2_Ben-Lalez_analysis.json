@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Ben Lalez Team",
+    "production_level": "Several hundred million dollars in production annually",
+    "specialty": "Real Estate",
+    "location": "Chicago, including the suburbs"
+  },
+  "main_topics": [
+    "Separation Season",
+    "Mindset and Motivation",
+    "Fundamentals and Consistency",
+    "Lead Generation and Database Management",
+    "Agent Recruitment and Growth"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents taking their foot off the gas in Q4",
+      "solution_summary": "Emphasize the importance of pushing through the slow season to plant seeds for future success.",
+      "timestamp": "04:12"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Lack of new leads and contracts in the slower months",
+      "solution_summary": "Focus on brilliant basics and consistent outreach to maintain momentum.",
+      "timestamp": "05:07"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Agents not following up with past clients",
+      "solution_summary": "Regularly contact past clients to stay top-of-mind and secure future business.",
+      "timestamp": "16:16"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for maintaining momentum during slow periods.",
+      "key_takeaway": "Consistency and pushing through discomfort are key to long-term success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights on motivating a team during challenging times.",
+      "key_takeaway": "Encourage your team to embrace discomfort and focus on fundamentals."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:32",
+      "end_timestamp": "10:05",
+      "quote": "Every time you do something that is scary and you complete it, you leave a lot of people behind you.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to embrace challenges as opportunities for growth.",
+      "suggested_hook": "Why facing your fears can set you apart in real estate."
+    },
+    {
+      "timestamp": "16:16",
+      "end_timestamp": "16:32",
+      "quote": "85% of agents never contact their client after the sale.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a common oversight that can be easily corrected for more business.",
+      "suggested_hook": "Are you missing out on repeat business? Here's a shocking statistic."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Conduct an autopsy on past transactions",
+      "context": "Analyze where your business came from to replicate successful actions.",
+      "timestamp": "13:25"
+    },
+    {
+      "tactic": "Extend business plan activities by 20%",
+      "context": "Push beyond your current goals to set a strong foundation for the next year.",
+      "timestamp": "12:42"
+    }
+  ],
+  "quotable_insights": [
+    "Separation season is when you separate yourself from everyone else by doing the hard things.",
+    "If something scares you, that's your opportunity to grow."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the concept of 'separation season' and the importance of maintaining momentum during slower months in real estate. He emphasizes the need for agents to focus on fundamentals and consistency, even when immediate results aren't visible. The episode provides actionable strategies for lead generation, client management, and personal growth to ensure long-term success.",
+  "_metadata": {
+    "source_file": "2026-10-15_item2_Ben-Lalez",
+    "analyzed_at": "2026-10-21T09:29:34.348297",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
