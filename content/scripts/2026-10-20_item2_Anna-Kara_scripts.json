@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:15:00",
+      "quote": "Success favors the relentless.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a powerful statement that encapsulates the mindset needed for success.",
+      "suggested_hook": "Why persistence is your greatest asset in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Success favors the relentless. Are you relentless enough?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Anna Kara, a top real estate expert, shared a powerful insight on our podcast. You're navigating high mortgage rates and self-employed borrower challenges. It's tough, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Anna said, 'Success favors the relentless.' [ON-SCREEN: Success favors the relentless] Most agents get discouraged by high rates. Top producers persist and adapt. [ON-SCREEN: Persist and Adapt] They focus on personal branding and effective communication. [ON-SCREEN: Personal Branding & Communication]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. [ON-SCREEN: Start Today] Anna closed 47 deals last year using this relentless mindset. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you relentless in your approach — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Success favors the relentless. Are you ready to persist? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#Persistence\", \"#SuccessMindset\", \"#AgentAdvice\", \"#KeepItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Success favors the relentless. Are you relentless enough?\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:32:00",
+      "end_timestamp": "00:33:00",
+      "quote": "If you're waiting until the rates drop, you're going to pay $150,000 more on the purchase price.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that waiting for lower rates is always better.",
+      "suggested_hook": "Think waiting for lower rates is smart? Think again!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Think waiting for lower rates is smart? Think again!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Anna Kara just dropped a bombshell on our latest episode. If you're like most buyers, you're holding off for interest rates to drop. But what if I told you that could cost you big time?\",\n    \"INSIGHT\": \"Anna said, 'If you're waiting until the rates drop, you're going to pay $150,000 more on the purchase price.' [ON-SCREEN: $150,000 more] Most agents advise waiting. But savvy agents know the market's moving fast. [ON-SCREEN: Market's moving fast]\",\n    \"REFRAME/APPLICATION\": \"Here's why this matters: You can start advising your clients today to act now and save big. Anna's approach helped her clients make smarter decisions in this volatile market. [ON-SCREEN: Act now, save big]\",\n    \"CTA\": \"Would you advise your clients to buy now — yes or no? Drop your thoughts below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Waiting for rates to drop? It might cost you $150k more. Act now! 💡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MarketIntelligence\", \"#HomeBuying\", \"#MortgageRates\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If you're waiting until the rates drop, you're going to pay $150,000 more on the purchase price.\"\n}\n```"
+  }
+]

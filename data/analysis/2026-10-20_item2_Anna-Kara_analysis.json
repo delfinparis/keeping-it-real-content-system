@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Anna Kara",
+    "title": "Loan Officer",
+    "company": "Anna Kara Loans",
+    "production_level": "Top 1% mortgage producer",
+    "specialty": "Mortgage lending and real estate investment",
+    "location": "Los Angeles, California"
+  },
+  "main_topics": [
+    "Current mortgage rates and market conditions",
+    "Challenges of self-employed borrowers",
+    "Strategies for buying in a high-interest rate environment",
+    "Importance of personal branding and content creation",
+    "Effective communication with clients and agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "High mortgage rates causing buyers to hesitate",
+      "solution_summary": "Encourage buyers to consider long-term benefits and potential competition when rates drop.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Self-employed borrowers struggling to get approved",
+      "solution_summary": "Work closely with CPAs to ensure tax returns are filed correctly and explore alternative lending programs.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Standing out in a crowded market",
+      "solution_summary": "Focus on authenticity and providing value through content rather than just showcasing sales numbers.",
+      "timestamp": "00:24:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on how to handle complex borrower situations and build a strong personal brand.",
+      "key_takeaway": "Success comes from understanding client needs and creating a unique brand identity."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies for dealing with high-interest rates and maintaining client relationships.",
+      "key_takeaway": "Educate clients on market conditions and focus on long-term investment benefits."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:15:00",
+      "quote": "Success favors the relentless.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a powerful statement that encapsulates the mindset needed for success.",
+      "suggested_hook": "Why persistence is your greatest asset in real estate."
+    },
+    {
+      "timestamp": "00:32:00",
+      "end_timestamp": "00:33:00",
+      "quote": "If you're waiting until the rates drop, you're going to pay $150,000 more on the purchase price.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that waiting for lower rates is always better.",
+      "suggested_hook": "Think waiting for lower rates is smart? Think again!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a home equity line to leverage existing property for new investments.",
+      "context": "When clients are hesitant to sell due to low locked-in rates.",
+      "timestamp": "00:15:30"
+    },
+    {
+      "tactic": "Educate clients on the true cost of waiting for lower rates.",
+      "context": "When clients express hesitation due to current high rates.",
+      "timestamp": "00:22:00"
+    }
+  ],
+  "quotable_insights": [
+    "Your bank's answer is one answer, it's not the answer.",
+    "Numbers don't lie at the end of the day."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to convert leads and manage client relationships."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for real estate recruiters to identify agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Anna Kara discusses strategies for navigating the current high-interest mortgage market, particularly for self-employed borrowers. She emphasizes the importance of personal branding and authenticity in building client relationships. Anna also shares insights on leveraging existing properties for investment and the potential pitfalls of waiting for lower interest rates.",
+  "_metadata": {
+    "source_file": "2026-10-20_item2_Anna-Kara",
+    "analyzed_at": "2026-10-22T09:32:03.240173",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

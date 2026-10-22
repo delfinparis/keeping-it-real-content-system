@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of like all he wanted was a view and a terrace.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the notion that real estate agents should always push for a sale.",
+      "suggested_hook": "Why saying 'no' can be the best advice a real estate agent can give."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why saying 'no' can be your best move as an agent.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Frances Katzen challenges the idea that agents should always push for a sale. Ever felt pressured to close a deal just because the client seems interested? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Frances said, 'I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of like all he wanted was a view and a terrace.' [ON-SCREEN: Don't just sell, advise wisely] Most agents push for the sale. Top producers prioritize the client's true needs.\",\n    \"REFRAME/APPLICATION\": \"This matters because saying 'no' builds trust. You can apply this today by evaluating if your client's desires align with their needs. Frances closed 47 deals last year using exactly this approach.\",\n    \"CTA\": \"Have you ever advised a client not to buy? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Sometimes the best advice is to say 'no.' Here's why it works. #RealEstateAdvice\",\n  \"HASHTAGS\": [\"#RealEstateAdvice\", \"#TopProducerSecrets\", \"#AgentTips\", \"#ClientTrust\", \"#RealTalk\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents push for the sale. Top producers prioritize the client's true needs.\"\n}\n```"
+  }
+]

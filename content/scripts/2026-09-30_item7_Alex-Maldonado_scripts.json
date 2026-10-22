@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:08:07",
+      "end_timestamp": "00:08:12",
+      "quote": "We talk about down payment all the time, but we don't talk about closing costs.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges a common oversight in real estate transactions.",
+      "suggested_hook": "Are you forgetting this crucial step in home buying?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you forgetting this crucial step in home buying?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Alex Maldonado pointed out something we often overlook in real estate transactions. You're excited about buying your first home, but suddenly, unexpected costs hit you. It's not just the down payment. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"We talk about down payment all the time, but we don't talk about closing costs. [ON-SCREEN: Closing costs] These can be thousands of dollars and catch first-time buyers off guard. [ON-SCREEN: Thousands of dollars] Most agents focus on down payments. Top producers ensure clients are prepared for closing costs too. [ON-SCREEN: Be prepared]\",\n    \"REFRAME/APPLICATION\": \"This matters because being blindsided by costs can derail your deal. You can start preparing clients today by discussing these costs upfront. [ON-SCREEN: Discuss upfront] Alex closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you discussing closing costs with your clients — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't let closing costs surprise your clients. Are you preparing them?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#HomeBuying\", \"#ClosingCosts\", \"#FirstTimeBuyer\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on down payments. Top producers ensure clients are prepared for closing costs too.\"\n}\n```"
+  }
+]

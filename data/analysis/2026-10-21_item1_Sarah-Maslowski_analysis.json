@@ -1,0 +1,84 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$140M+ producer",
+    "specialty": "YouTube lead generation",
+    "location": "Metro Atlanta Market"
+  },
+  "main_topics": [
+    "Overcoming fear in starting a YouTube channel",
+    "The effectiveness of YouTube for lead generation",
+    "Common excuses agents have for not starting video content",
+    "The importance of authenticity in video content",
+    "The benefits of using teleprompter apps"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of starting a YouTube channel",
+      "solution_summary": "Recognize that fear is common and overcome it by starting and learning through doing.",
+      "timestamp": "03:21"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Not knowing what content to create",
+      "solution_summary": "Use your local market knowledge to create content about living in the area, best neighborhoods, and common questions.",
+      "timestamp": "08:33"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Discomfort with personal appearance on camera",
+      "solution_summary": "Understand that clients already trust you for who you are; this will translate to video as well.",
+      "timestamp": "07:58"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often fear starting video content due to inexperience.",
+      "key_takeaway": "Start creating content even if it feels awkward; authenticity is more important than perfection."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may struggle with expanding their lead generation strategies.",
+      "key_takeaway": "YouTube offers a high return on investment for lead generation compared to other platforms."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:04",
+      "end_timestamp": "05:17",
+      "quote": "I realized I don't have to be something that I'm not. I just have to show up as myself.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This moment emphasizes the power of authenticity, a key message for hesitant agents.",
+      "suggested_hook": "Struggling with video content? Here's the mindset shift you need."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use teleprompter apps to script videos",
+      "context": "Helps organize thoughts and reduce anxiety about speaking off the cuff.",
+      "timestamp": "07:21"
+    }
+  ],
+  "quotable_insights": [
+    "Comfort comes from doing it, not from waiting until you feel ready.",
+    "Editing is magical; you don't have to be perfect when you're filming."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Five Week YouTube Course",
+      "context": "A structured program to help agents start and grow their YouTube channels."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her journey of generating over $140 million in real estate sales through YouTube without paid ads. She addresses common fears and excuses agents have about starting video content and emphasizes the importance of authenticity and consistency. Sarah also introduces her five-week YouTube course designed to guide agents in building successful channels.",
+  "_metadata": {
+    "source_file": "2026-10-21_item1_Sarah-Maslowski",
+    "analyzed_at": "2026-10-22T09:32:14.781141",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Leader of the Carrie McCormick Luxury Group",
+    "company": "at properties Christie's International Real Estate",
+    "production_level": "Top 1% of 1% of Chicago REALTORS, $3.5 billion in sales",
+    "specialty": "Luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Luxury real estate market trends",
+    "Importance of pricing strategy",
+    "Use of AI in real estate",
+    "Client retention strategies",
+    "Social media engagement"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "High mortgage rates affecting the market",
+      "solution_summary": "Advisors need to be aware of market shifts and adjust pricing strategies accordingly.",
+      "timestamp": "06:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Luxury buyers are more discerning and selective",
+      "solution_summary": "Focus on properties that are turnkey and have unique, special features.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Staying relevant in the age of AI",
+      "solution_summary": "Use AI as a tool for fact-checking and enhancing client interactions, but maintain personal expertise.",
+      "timestamp": "18:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses high-level strategies in the luxury market.",
+      "key_takeaway": "Understanding market trends and client needs is crucial for success in luxury real estate."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Insights into managing a successful real estate team and client relationships.",
+      "key_takeaway": "Effective client communication and team collaboration are key to managing multiple high-value clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Luxury buyers want something that feels special and unique.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of unique features in luxury properties.",
+      "suggested_hook": "What do luxury buyers really want in a home?"
+    },
+    {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "AI is a tool, not a replacement for real estate agents.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Reassures agents about the role of AI in the industry.",
+      "suggested_hook": "Is AI taking over real estate? Here's the truth."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI for generating visual ideas for properties",
+      "context": "When proposing changes to a property to make it more appealing.",
+      "timestamp": "13:00"
+    },
+    {
+      "tactic": "Engage with clients on social media",
+      "context": "To maintain visibility and connection with clients.",
+      "timestamp": "31:00"
+    }
+  ],
+  "quotable_insights": [
+    "Luxury buyers are more discerning; they want something that represents them and makes their life easier.",
+    "Don't chase the market; your first few weeks on the market are crucial for setting the right price."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "Recommended for lead conversion and CRM management."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the current trends in the luxury real estate market, emphasizing the importance of pricing strategy and understanding client needs. She also explores the role of AI in enhancing real estate practices and shares insights on maintaining client relationships through social media engagement.",
+  "_metadata": {
+    "source_file": "2026-10-12_item4_Carrie-McCormick",
+    "analyzed_at": "2026-10-22T09:31:34.339540",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

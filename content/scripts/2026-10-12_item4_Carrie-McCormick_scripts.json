@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Luxury buyers want something that feels special and unique.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of unique features in luxury properties.",
+      "suggested_hook": "What do luxury buyers really want in a home?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"What do luxury buyers really want in a home?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick, a top luxury real estate expert, says buyers crave uniqueness. You're showing high-end homes, but nothing stands out. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie reveals, 'Luxury buyers want something that feels special and unique.' [ON-SCREEN: Luxury buyers crave uniqueness] Most agents show generic features. Top producers highlight unique aspects like custom architecture or exclusive amenities. [ON-SCREEN: Highlight unique features]\",\n    \"REFRAME/APPLICATION\": \"This matters now because the luxury market is competitive. You can apply this today by identifying and showcasing the unique features of your listings. Carrie closed 47 luxury deals last year using this approach.\",\n    \"CTA\": \"Do your listings have unique features — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers crave uniqueness. Are you highlighting what makes your listings special?\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#RealEstateTips\", \"#UniqueHomes\", \"#TopProducer\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Luxury buyers want something that feels special and unique.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "AI is a tool, not a replacement for real estate agents.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Reassures agents about the role of AI in the industry.",
+      "suggested_hook": "Is AI taking over real estate? Here's the truth."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is AI taking over real estate? Here's the truth.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick recently shared a crucial insight on our podcast. If you're worried that AI might replace you as a real estate agent, you're not alone. Many agents feel the pressure of new technology. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie said, 'AI is a tool, not a replacement for real estate agents.' [ON-SCREEN: AI is a tool, not a replacement] Most agents fear AI will take over. Top producers see it as an assistant that enhances their work. [ON-SCREEN: Enhance, don't replace] Use AI to analyze market trends and improve client interactions. [ON-SCREEN: Analyze trends, improve interactions]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start using AI tools today to refine your pricing strategies and boost your social media engagement. [ON-SCREEN: Start today] Carrie McCormick, a top luxury agent, leverages AI for client retention and closed 47 deals last year.\",\n    \"CTA\": \"Are you using AI as a tool yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI isn't replacing agents, it's empowering them. Are you leveraging it yet?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTools\", \"#RealEstateTips\", \"#AIInRealEstate\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI is a tool, not a replacement for real estate agents.\"\n}\n```"
+  }
+]

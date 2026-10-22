@@ -1,0 +1,94 @@
+{
+  "guest_info": {
+    "name": "Frances Katzen",
+    "title": "Team Leader",
+    "company": "Douglas Elliman",
+    "production_level": "Top 10 Teams at Douglas Elliman since 2010",
+    "specialty": "Luxury Real Estate",
+    "location": "Manhattan, New York City"
+  },
+  "main_topics": [
+    "Pied-a-terre Tax Impact",
+    "Creating Effective Market Reports",
+    "Media Presence and PR in Real Estate",
+    "The Importance of Having an Opinion in Real Estate",
+    "Discipline and Consistency from Ballet to Real Estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of the pied-a-terre tax on the luxury market",
+      "solution_summary": "Frances discusses the uncertainty and misinformation surrounding the tax and advises on patience and understanding the legislation's phases.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to stand out in media and build a brand",
+      "solution_summary": "Frances emphasizes having a strong opinion and being authentic to gain media attention and build credibility.",
+      "timestamp": "12:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Creating engaging content to attract clients",
+      "solution_summary": "Frances suggests creating visually appealing and opinionated market reports to capture attention and generate leads.",
+      "timestamp": "09:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Frances shares insights on building a luxury brand and leveraging media presence.",
+      "key_takeaway": "Having a strong opinion and consistent branding can significantly enhance your market presence."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Frances discusses team dynamics and leveraging individual strengths within a team.",
+      "key_takeaway": "Encourage team members to have their own opinions and leverage the brand equity of the team leader."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of like all he wanted was a view and a terrace.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the notion that real estate agents should always push for a sale.",
+      "suggested_hook": "Why saying 'no' can be the best advice a real estate agent can give."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a visually engaging and opinionated market report.",
+      "context": "Use it to capture attention and generate leads by being different from standard newsletters.",
+      "timestamp": "09:00"
+    },
+    {
+      "tactic": "Leverage PR to build your brand.",
+      "context": "Hire a PR person to help position you in the market and gain media appearances.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency wins the race, right? It's just showing up and doing it.",
+    "Having an opinion is the most profitable thing you can ever do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Advertised as a solution for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Advertised as a recruiting and retention tool powered by AI."
+    }
+  ],
+  "episode_summary": "In this episode, Frances Katzen shares insights on the impact of the pied-a-terre tax on New York's luxury market and the importance of having a strong opinion in real estate. She discusses her approach to creating engaging market reports and leveraging media presence to build a brand. Frances also highlights the discipline and consistency learned from her ballet career that she applies to real estate.",
+  "_metadata": {
+    "source_file": "2026-09-24_item9_Frances-Katzen",
+    "analyzed_at": "2026-10-22T09:30:33.322041",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

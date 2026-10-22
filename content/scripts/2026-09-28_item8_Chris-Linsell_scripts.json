@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "14:00",
+      "end_timestamp": "15:00",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker in this space.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the industry.",
+      "suggested_hook": "Are you at risk of becoming the Uber driver of real estate?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you at risk of becoming the Uber driver of real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell said something that might make you rethink your career. If you're just opening lock boxes, you might soon be reclassified as a gig worker. You're hustling, but are you adding real value?\",\n    \"INSIGHT\": \"Chris predicts that in 18 to 24 months, agents who don't offer more than basic services will be seen as gig workers. [ON-SCREEN: Reclassified as gig workers] Most agents rely on traditional methods. Top producers leverage AI and social media to stand out. [ON-SCREEN: Leverage AI and social media]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start integrating AI tools and unique strategies this week. [ON-SCREEN: Start today] Chris's approach helped him close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't become the Uber driver of real estate. Add value beyond the basics!\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AgentTips\", \"#AIinRealEstate\", \"#TopProducer\", \"#RealTalk\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Agents who don't offer more than basic services will be seen as gig workers.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "26:00",
+      "quote": "Right now should be building your following because that's one thing that AI can't do.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of personal branding over AI capabilities.",
+      "suggested_hook": "Why building your personal brand is more important than ever in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"AI can't build your personal brand. You must.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell says personal branding is your edge over AI. If you're struggling to stand out in a crowded market, this is for you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Right now, focus on building your following because that's one thing AI can't do. [ON-SCREEN: Build Your Following] Most agents rely on tech, but top producers invest in personal connections. [ON-SCREEN: Personal Connections Win]\",\n    \"REFRAME/APPLICATION\": \"This matters because your brand is your future. Start today by engaging authentically on social media. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you focusing on your brand — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can't build your brand. You must. Start today! #RealEstate #BrandBuilding\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#PersonalBranding\", \"#AI\", \"#TopProducer\", \"#SocialMediaStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Right now, focus on building your following because that's one thing AI can't do.\"\n}\n```"
+  }
+]

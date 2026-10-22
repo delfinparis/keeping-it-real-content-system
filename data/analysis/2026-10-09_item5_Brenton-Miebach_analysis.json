@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Brenton Miebach",
+    "title": "Sales Associate",
+    "company": "Southwest Florida Lifestyle Living, eXp Realty",
+    "production_level": "$10M+ producer",
+    "specialty": "AI-driven marketing and relocation services",
+    "location": "Cape Coral, Florida"
+  },
+  "main_topics": [
+    "AI integration in real estate",
+    "Lead generation and conversion",
+    "Market adaptation strategies",
+    "Social media growth",
+    "Team building and management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into a new market without existing contacts",
+      "solution_summary": "Utilized paid leads from Realtor.com and Zillow, and focused on immediate follow-up and market research.",
+      "timestamp": "00:06:09"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Replacing human roles with AI systems",
+      "solution_summary": "Developed an AI stack in Claude to manage tasks like transaction coordination and marketing.",
+      "timestamp": "00:27:56"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Growing a social media presence from scratch",
+      "solution_summary": "Used AI to create engaging historical content about Cape Coral, significantly increasing followers and engagement.",
+      "timestamp": "00:55:25"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into using AI for scaling business operations and lead generation.",
+      "key_takeaway": "AI can significantly enhance productivity and marketing reach, allowing agents to focus on high-value tasks."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Discusses building a team and providing them with AI tools to ensure consistency and efficiency.",
+      "key_takeaway": "Implementing AI systems can streamline operations and provide uniform resources for team members."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:27:56",
+      "end_timestamp": "00:29:20",
+      "quote": "I replaced a transaction coordinator, a marketing team, and a website person with an AI system that I've built.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights a practical application of AI that can inspire agents to innovate.",
+      "suggested_hook": "Discover how AI can replace entire roles in your real estate business!"
+    },
+    {
+      "timestamp": "00:55:25",
+      "end_timestamp": "00:56:06",
+      "quote": "We took our team Facebook page from about 150 followers to nearly 3,000 in about 10 days.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Demonstrates the power of strategic social media use.",
+      "suggested_hook": "Want to grow your social media following by thousands in just days?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to automate the creation of showing packets.",
+      "context": "Before showing a property, use AI to compile all relevant information into a packet.",
+      "timestamp": "00:48:40"
+    },
+    {
+      "tactic": "Leverage historical content for social media growth.",
+      "context": "Create engaging content based on local history to attract and engage your target demographic.",
+      "timestamp": "01:00:25"
+    }
+  ],
+  "quotable_insights": [
+    "The internet leads for me weren't an easy button. They were a way to break into a market and build a network."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Lies That Came True",
+      "context": "Used as a source for creating engaging historical content about Cape Coral."
+    },
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for building AI systems to manage various business operations."
+    }
+  ],
+  "episode_summary": "Brenton Miebach shares how he successfully entered new real estate markets using AI-driven systems and strategic lead generation. He discusses building a team equipped with AI tools, achieving significant social media growth, and the importance of mastering market knowledge. The episode offers actionable insights for agents looking to leverage technology for business expansion.",
+  "_metadata": {
+    "source_file": "2026-10-09_item5_Brenton-Miebach",
+    "analyzed_at": "2026-10-22T09:31:20.530208",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
