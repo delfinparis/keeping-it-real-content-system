@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "Most people can't and won't do it. You know, I could talk to me, I'm doing millions of dollars a year from this.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the effectiveness of cold calling despite common reluctance.",
+      "suggested_hook": "Why cold calling is still a goldmine for real estate agents."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Cold calling is still a goldmine for real estate agents.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Wolfe shared a secret that most agents ignore. You're making calls, but no one's picking up. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'Most people can't and won't do it. You know, I could talk to me, I'm doing millions of dollars a year from this.' [ON-SCREEN: Millions from Cold Calling] Most agents avoid cold calling. Top producers leverage it to dominate their market. [ON-SCREEN: Top Producers Leverage Cold Calling]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can start today. Chris built his business from scratch in a new market using this method. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Cold calling: the untapped goldmine for real estate agents. Are you using it?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ColdCalling\", \"#TopProducer\", \"#AgentSuccess\", \"#LeadGeneration\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents avoid cold calling. Top producers leverage it to dominate their market.\"\n}\n```"
+  }
+]
