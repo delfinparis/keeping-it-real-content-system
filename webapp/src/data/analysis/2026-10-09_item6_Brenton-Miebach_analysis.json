@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Brenton Miebach",
+    "title": "Sales Associate",
+    "company": "Southwest Florida Lifestyle Living, eXp Realty",
+    "production_level": "$10M+ producer",
+    "specialty": "AI-driven marketing systems, relocation services",
+    "location": "Cape Coral, Florida"
+  },
+  "main_topics": [
+    "AI-driven marketing and operations",
+    "Lead generation through paid leads",
+    "Cold calling strategies",
+    "Social media growth tactics",
+    "Market mastery for new agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into a new market without a network",
+      "solution_summary": "Utilize paid leads and AI-driven systems to quickly establish presence and generate business.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficiencies in preparing for property showings",
+      "solution_summary": "Develop an AI system to automate the creation of comprehensive showing packets.",
+      "timestamp": "00:48:46"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Growing a social media following from scratch",
+      "solution_summary": "Leverage historical content and AI to create engaging videos that resonate with the target demographic.",
+      "timestamp": "00:56:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights into leveraging AI and paid leads to rapidly scale production.",
+      "key_takeaway": "AI can replace traditional roles and streamline operations, allowing for rapid growth and market penetration."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Brenton shares how he equips his team with AI tools to ensure consistent service delivery.",
+      "key_takeaway": "Providing team members with AI-driven systems can standardize processes and enhance productivity."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:10:17",
+      "end_timestamp": "00:11:04",
+      "quote": "I was spending about $3,000 a month on Realtor.com leads... Zillow here in Southwest Florida, my highest spend was about $7,000 a month.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the financial commitment and strategy behind successful lead generation.",
+      "suggested_hook": "Ever wonder how much top agents spend on leads? Here's a real example."
+    },
+    {
+      "timestamp": "00:48:46",
+      "end_timestamp": "00:50:18",
+      "quote": "I've built a skill which puts together a full showing packet... It spits out a full and complete showing packet.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical application of AI that saves time and enhances client service.",
+      "suggested_hook": "Imagine having every detail ready for your showings in minutes. Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to automate showing packet preparation",
+      "context": "Before property showings, use AI to compile all necessary information into a single packet.",
+      "timestamp": "00:48:46"
+    },
+    {
+      "tactic": "Leverage historical content for social media growth",
+      "context": "Create engaging videos using historical stories and AI to attract a target audience on platforms like Facebook.",
+      "timestamp": "00:56:05"
+    }
+  ],
+  "quotable_insights": [
+    "It's not that one lead. It's the referral business you get from that lead."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Lies That Came True by Eileen Bernard",
+      "context": "Used as a source of historical content for social media videos."
+    },
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "An AI tool used to build marketing systems and automate tasks."
+    }
+  ],
+  "episode_summary": "In this episode, Brenton Miebach shares how he leverages AI and paid leads to rapidly establish a successful real estate business in new markets. He discusses the development of AI-driven systems to automate operations, enhance client service, and grow a social media presence. Brenton's insights provide actionable strategies for agents looking to scale their business and improve efficiency.",
+  "_metadata": {
+    "source_file": "2026-10-09_item6_Brenton-Miebach",
+    "analyzed_at": "2026-10-29T10:42:15.572674",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

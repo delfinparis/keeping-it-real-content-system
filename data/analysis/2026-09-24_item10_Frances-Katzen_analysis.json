@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Frances Katzen",
+    "title": "Team Leader",
+    "company": "Douglas Elliman",
+    "production_level": "Top 10 Teams at Douglas Elliman",
+    "specialty": "Luxury Real Estate",
+    "location": "New York City"
+  },
+  "main_topics": [
+    "New York Real Estate Market Trends",
+    "Pied-à-terre Tax Impact",
+    "Building a Personal Brand in Real Estate",
+    "The Role of Discipline in Success",
+    "Effective Use of Media and PR"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of the pied-à-terre tax on the New York real estate market",
+      "solution_summary": "Frances discusses the uncertainty and misinformation surrounding the tax and its potential effects on inventory and pricing.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "How to stand out in a crowded real estate market",
+      "solution_summary": "Frances emphasizes the importance of having an opinion and being consistent with personal branding efforts like the Katzen report.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Advising clients against making poor real estate decisions",
+      "solution_summary": "Frances shares her approach of being honest with clients, even if it means advising them not to buy a property.",
+      "timestamp": "15:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Frances shares insights on building a successful brand and leveraging media appearances.",
+      "key_takeaway": "Consistency and having a strong opinion can significantly enhance your brand and attract high-net-worth clients."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Frances discusses managing a team and allowing them to have their own opinions and styles.",
+      "key_takeaway": "Empower your team members to leverage your brand while encouraging their individuality."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I just said, don't do it. Why are you doing it? Like don't buy it just for the sake of like all he wanted was a view and a terrace.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This moment highlights the importance of honesty and integrity in client relationships.",
+      "suggested_hook": "Why telling a client 'no' can be the best decision you make."
+    },
+    {
+      "timestamp": "29:00",
+      "end_timestamp": "29:45",
+      "quote": "You have to show up whether you like it because you're not your emotions. They come and go like a wave.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This quote underscores the discipline required to succeed in real estate.",
+      "suggested_hook": "The secret to success? Show up, no matter what."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a unique market report",
+      "context": "Use it as a tool to engage your sphere of influence and stand out in the market.",
+      "timestamp": "08:00"
+    },
+    {
+      "tactic": "Leverage PR for brand building",
+      "context": "Hire a PR person to position yourself in the market and gain media exposure.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "Consistency wins the race, right? It's just showing up and doing it.",
+    "If you just act like you know what you're doing, everybody thinks that you do."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "A recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "Frances Katzen, leader of a top luxury real estate team in NYC, shares insights on the current market trends, the impact of the pied-à-terre tax, and the importance of personal branding. She emphasizes the value of honesty with clients and the role of discipline, learned from her ballet career, in achieving success. Frances also discusses the benefits of leveraging media and PR to enhance visibility and credibility in the real estate industry.",
+  "_metadata": {
+    "source_file": "2026-09-24_item10_Frances-Katzen",
+    "analyzed_at": "2026-10-29T10:41:17.256364",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

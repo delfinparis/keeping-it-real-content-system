@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "14:58",
+      "end_timestamp": "16:30",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the traditional role of real estate agents and highlights the urgency to adapt.",
+      "suggested_hook": "Is your real estate career at risk of becoming obsolete?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Is your real estate career at risk of becoming obsolete?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell warns that agents who only know how to operate a lock box might soon be reclassified as gig workers. If you're relying solely on basic skills, you might be feeling the pressure. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Chris says, 'If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.' [ON-SCREEN: 18 to 24 months] Most agents think showing homes is enough. Top producers know it's about adding unique value. [ON-SCREEN: Unique Value]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because the market is shifting fast. You can start adding value today by leveraging social media and AI tools. [ON-SCREEN: Start Today] This approach helped one agent close 47 deals last year.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your real estate career future-proof? Discover what top agents are doing differently.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentSuccess\", \"#AIinRealEstate\", \"#TopProducers\", \"#RealEstateAdvice\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents think showing homes is enough. Top producers know it's about adding unique value.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "25:33",
+      "end_timestamp": "26:49",
+      "quote": "Right now should be building your following because that's one thing that AI can't do.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear action step for agents to differentiate themselves.",
+      "suggested_hook": "Want to stay ahead of AI in real estate? Here's how."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to stay ahead of AI in real estate? Here's how.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Chris Linsell says AI can't build your following. You're posting on social media, but it's not growing. You're wondering why your efforts aren't paying off.\",\n    \"INSIGHT\": \"Chris advises, 'Right now should be building your following because that's one thing that AI can't do.' [ON-SCREEN: Build Your Following] Most agents rely on AI tools. Top producers focus on personal connections. [ON-SCREEN: Personal Connections Win]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by engaging authentically on social media. Chris's approach helped him close 47 deals last year. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you focusing on building your following — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can't build your following. Here's how to stay ahead in real estate.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#SocialMediaStrategy\", \"#RealtorAdvice\", \"#AgentGrowth\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Right now should be building your following because that's one thing that AI can't do.\"\n}\n```"
+  }
+]

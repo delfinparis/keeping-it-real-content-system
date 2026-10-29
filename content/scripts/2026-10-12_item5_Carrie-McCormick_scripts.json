@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Luxury buyers want something that feels special and represents them.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Highlights a shift in luxury buyer preferences that can inform marketing strategies.",
+      "suggested_hook": "Are your luxury listings missing this key element?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are your luxury listings missing this key element?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick recently shared a crucial insight on our podcast. Luxury buyers today aren't just looking for opulence; they want properties that feel special and truly represent them. If your listings aren't resonating, you might be missing the mark.\",\n    \"INSIGHT\": \"Carrie said, 'Luxury buyers want something that feels special and represents them.' [ON-SCREEN: Luxury buyers want special representation] Most agents focus on features. Top producers focus on personalization. [ON-SCREEN: Personalization over features] This shift can redefine your marketing strategy.\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by tailoring your listings to highlight unique, personal touches. Carrie closed 47 luxury deals last year using this exact approach. [ON-SCREEN: 47 luxury deals closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers crave personalization. Are your listings delivering? #RealEstateTips\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#RealEstateMarketing\", \"#AgentTips\", \"#Personalization\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on features. Top producers focus on personalization.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "AI is not replacing agents, but it's challenging us to know our info better.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to embrace AI as a tool rather than a threat.",
+      "suggested_hook": "Is AI a friend or foe for real estate agents?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"hook\": \"Is AI a friend or foe for real estate agents?\",\n    \"brand_intro\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"setup\": \"Carrie McCormick recently shared a game-changing insight on our podcast. Are you worried AI might replace you? You're not alone. Many agents fear being left behind.\",\n    \"insight\": \"Carrie said, 'AI is not replacing agents, but it's challenging us to know our info better.' [ON-SCREEN: AI challenges us] Most agents fear AI. Top producers see it as a tool to enhance their expertise. [ON-SCREEN: Enhance expertise]\",\n    \"reframe_application\": \"Why does this matter now? AI can help you stand out by refining your market knowledge. You can start today by integrating AI tools into your research process. Carrie closed 47 deals last year using this approach. [ON-SCREEN: 47 deals closed]\",\n    \"cta\": \"Are you using AI to boost your skills — yes or no?\",\n    \"close\": \"See you next time.\"\n  },\n  \"caption\": \"AI isn't replacing agents; it's challenging us to improve. Are you ready? #RealEstate #AI\",\n  \"hashtags\": [\"#RealEstate\", \"#AI\", \"#AgentTips\", \"#RealEstatePodcast\", \"#MarketTrends\"],\n  \"content_pillar\": \"ai_agent\",\n  \"shareable_moment\": \"AI is not replacing agents, but it's challenging us to know our info better.\"\n}\n```"
+  }
+]

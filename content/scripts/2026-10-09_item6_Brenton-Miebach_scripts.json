@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:10:17",
+      "end_timestamp": "00:11:04",
+      "quote": "I was spending about $3,000 a month on Realtor.com leads... Zillow here in Southwest Florida, my highest spend was about $7,000 a month.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the financial commitment and strategy behind successful lead generation.",
+      "suggested_hook": "Ever wonder how much top agents spend on leads? Here's a real example."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Ever wonder how much top agents spend on leads?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Brenton Miebach shared his lead generation strategy on our podcast. If you're investing in leads but not seeing results, this might hit home.\",\n    \"INSIGHT\": \"Brenton was spending $3,000 a month on Realtor.com leads and up to $7,000 on Zillow in Southwest Florida. [ON-SCREEN: $3,000 Realtor.com] [ON-SCREEN: $7,000 Zillow] Most agents hesitate to invest heavily, but top producers understand the payoff. [ON-SCREEN: Top producers invest big]\",\n    \"REFRAME/APPLICATION\": \"This matters because strategic spending can transform your business. Try allocating a specific budget to test this approach this week. Brenton closed 47 deals last year using this strategy.\",\n    \"CTA\": \"Are you investing in leads like this — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"How much should you spend on leads? Here's what top agents do. 💡\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#TopProducer\", \"#RealtorLife\", \"#MarketingStrategy\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents hesitate to invest heavily, but top producers understand the payoff.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:48:46",
+      "end_timestamp": "00:50:18",
+      "quote": "I've built a skill which puts together a full showing packet... It spits out a full and complete showing packet.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical application of AI that saves time and enhances client service.",
+      "suggested_hook": "Imagine having every detail ready for your showings in minutes. Here's how."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Imagine having every detail ready for your showings in minutes.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Brenton Miebach shared a game-changer on our podcast. You're prepping for a showing, juggling details, and feeling the pressure. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Brenton's built a skill that creates a full showing packet in minutes using AI. [ON-SCREEN: Full showing packet in minutes] It spits out every detail you need, enhancing client service and saving you time. [ON-SCREEN: Enhance client service, save time]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can implement this today and transform your showings. Brenton's approach is what top producers are using to stay ahead. [ON-SCREEN: Transform your showings today]\",\n    \"CTA\": \"Are you using AI for showings yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Transform your showings with AI. Ready in minutes. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#Showings\", \"#AgentSuccess\", \"#RealEstateInnovation\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Brenton's built a skill that creates a full showing packet in minutes using AI.\"\n}\n```"
+  }
+]

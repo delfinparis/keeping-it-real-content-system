@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Chris Linsell",
+    "title": "Chief Marketing Officer",
+    "company": "The Mitten Group",
+    "production_level": "Two-time Inman Marketing All-Star",
+    "specialty": "AI and future of real estate business",
+    "location": "Traverse City, Michigan"
+  },
+  "main_topics": [
+    "Impact of AI on real estate agents",
+    "Zillow's influence and future in the real estate market",
+    "Compass's strategy with private listing networks",
+    "Importance of social media for REALTORS",
+    "Challenges and opportunities for independent brokerages"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "AI's potential to disrupt real estate roles",
+      "solution_summary": "Agents should focus on relationship-building and advisory roles to stay relevant.",
+      "timestamp": "14:58"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Agents not leveraging social media effectively",
+      "solution_summary": "Create short-form video content to build a following and personal brand.",
+      "timestamp": "25:33"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Zillow's dominance and potential MLS feed cuts",
+      "solution_summary": "Independent brokerages may form alliances to reduce reliance on Zillow.",
+      "timestamp": "30:07"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "AI and tech are reshaping the industry landscape, requiring agents to adapt quickly.",
+      "key_takeaway": "Focus on building strong client relationships and leverage AI to handle administrative tasks."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Social media offers a powerful platform for growth and client engagement.",
+      "key_takeaway": "Start posting short-form videos to increase visibility and attract potential clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "14:58",
+      "end_timestamp": "16:30",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the traditional role of real estate agents and highlights the urgency to adapt.",
+      "suggested_hook": "Is your real estate career at risk of becoming obsolete?"
+    },
+    {
+      "timestamp": "25:33",
+      "end_timestamp": "26:49",
+      "quote": "Right now should be building your following because that's one thing that AI can't do.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear action step for agents to differentiate themselves.",
+      "suggested_hook": "Want to stay ahead of AI in real estate? Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Focus on relationship-building and advisory roles.",
+      "context": "As AI takes over administrative tasks, agents should enhance their client interaction skills.",
+      "timestamp": "14:58"
+    },
+    {
+      "tactic": "Post 1-3 short-form videos daily on social media.",
+      "context": "To build a personal brand and attract clients.",
+      "timestamp": "25:33"
+    }
+  ],
+  "quotable_insights": [
+    "AI will be an accelerator for the success of relationship-building real estate professionals.",
+    "Organic social media is becoming a more important lead source than paid leads."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for lead conversion and CRM."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting and retention tool for brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Chris Linsell discusses the transformative impact of AI on the real estate industry, emphasizing the need for agents to focus on relationship-building and advisory roles. The conversation also explores the influence of major players like Zillow and Compass, and the opportunities for independent brokerages to thrive. Additionally, the importance of leveraging social media for personal branding is highlighted as a key strategy for REALTORS to remain competitive.",
+  "_metadata": {
+    "source_file": "2026-09-28_item9_Chris-Linsell",
+    "analyzed_at": "2026-10-29T10:41:31.621273",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

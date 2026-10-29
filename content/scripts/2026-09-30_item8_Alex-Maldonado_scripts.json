@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:14:05",
+      "end_timestamp": "00:14:50",
+      "quote": "I broke that news slowly over time... you can't just rip the band-aid off.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of empathy in client communication.",
+      "suggested_hook": "How do you manage client expectations without losing their trust?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"How do you manage client expectations without losing their trust?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ever had to deliver tough news to a client? It's nerve-wracking, right? You're worried about damaging trust, especially when they're counting on you to guide them through buying their first home. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Alex Maldonado shares, 'I broke that news slowly over time... you can't just rip the band-aid off.' [ON-SCREEN: Empathy in Communication] Most agents rush through it. Top producers, like Alex, take their time, ensuring clients feel understood and supported. [ON-SCREEN: Build Trust Gradually]\",\n    \"REFRAME/APPLICATION\": \"This approach matters more than ever. You can start applying it today by pacing your conversations and checking in regularly. Alex helped 15 first-time buyers last year by doing just this. [ON-SCREEN: 15 First-Time Buyers]\",\n    \"CTA\": \"Have you tried this approach before — yes or no? Let us know below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Empathy builds trust. Learn how to communicate effectively with your clients. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientCommunication\",\n    \"#TrustBuilding\",\n    \"#FirstTimeBuyers\",\n    \"#AgentAdvice\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents rush through it. Top producers, like Alex, take their time, ensuring clients feel understood and supported.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:39:00",
+      "end_timestamp": "00:39:45",
+      "quote": "Never argue with a negative review... respond positively and take feedback.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear strategy for handling negative online reviews.",
+      "suggested_hook": "Got a bad review? Here's how to turn it into a positive experience."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Got a bad review? Flip it into a win!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ever had a negative review that just crushed your spirits? You're not alone. Alex Maldonado shares why most agents get it wrong by arguing back. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Alex says, 'Never argue with a negative review. Instead, respond positively and take feedback.' [ON-SCREEN: Respond positively] Most agents react defensively. Top producers see it as a chance to improve. [ON-SCREEN: Opportunity to improve]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can apply this today by crafting a thoughtful response to your latest review. Alex helped 30 clients last year using this exact approach. [ON-SCREEN: 30 clients helped]\",\n    \"CTA\": \"Have you tried this strategy yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Turn negative reviews into opportunities for growth. Here's how! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#ClientFeedback\", \"#GrowthMindset\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Never argue with a negative review. Respond positively and take feedback.\"\n}\n```"
+  }
+]

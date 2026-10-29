@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:00",
+      "end_timestamp": "05:45",
+      "quote": "Ralph Lauren really sold a life that you wanted to step into.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the importance of lifestyle marketing in real estate.",
+      "suggested_hook": "Are you selling a home or a lifestyle?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you selling a home or a lifestyle?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnick said it best: 'Ralph Lauren really sold a life that you wanted to step into.' In real estate, you're not just selling properties; you're selling dreams. Ever feel like you're just listing features but missing the emotional connection?\",\n    \"INSIGHT\": \"Bill highlights the power of lifestyle marketing. He says, 'Most agents focus on square footage. Top producers sell the experience.' [ON-SCREEN: Lifestyle Marketing] It's about painting a picture of the life buyers aspire to live. [ON-SCREEN: Sell the Experience]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start this week by crafting stories around your listings. This approach helped one agent close 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Selling homes isn't just about features; it's about lifestyle. Are you ready to sell dreams?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LifestyleMarketing\", \"#TopProducer\", \"#RealEstateAgent\", \"#SellTheExperience\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on square footage. Top producers sell the experience.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "20:00",
+      "end_timestamp": "20:45",
+      "quote": "Everyone wants to sell a house for $12 million. To think you could do it on your own is naive.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion of solo success in high-stakes real estate deals.",
+      "suggested_hook": "Why teamwork is crucial in luxury real estate sales."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think you can sell a $12M house solo? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnick says it's naive to tackle luxury real estate alone. You're eyeing that $12M listing, but feeling overwhelmed by the complexity and stakes. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Bill highlights that successful luxury sales require a team approach. [ON-SCREEN: Teamwork is Key] He says, 'Everyone wants to sell a house for $12 million. To think you could do it on your own is naive.' Most agents try to go it alone. Top producers build a network of experts. [ON-SCREEN: Build Your Network]\",\n    \"REFRAME/APPLICATION\": \"This matters because collaboration can elevate your game. Start building your team today. Bill's approach helped him transition from corporate to closing luxury deals. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you working solo or with a team — solo or team?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why teamwork is crucial in luxury real estate sales. #RealEstateTips\",\n  \"HASHTAGS\": [\"#LuxuryRealEstate\", \"#Teamwork\", \"#RealEstateAgent\", \"#RealEstateTips\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Everyone wants to sell a house for $12 million. To think you could do it on your own is naive.\"\n}\n```"
+  }
+]
