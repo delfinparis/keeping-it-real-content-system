@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:45",
+      "quote": "If you're waiting until the rates drop, you're going to have 20, 30 people competing with you instead of just five.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common belief that waiting for lower rates is beneficial.",
+      "suggested_hook": "Why waiting for lower interest rates might cost you more in the long run."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Waiting for lower rates? It could cost you more!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Anna Kara says waiting for rates to drop means more competition. You're hoping for a better deal, but what if that means competing with 30 buyers instead of just five?\",\n    \"INSIGHT\": \"Anna explains, 'If you're waiting until the rates drop, you're going to have 20, 30 people competing with you instead of just five.' [ON-SCREEN: 20-30 competitors] Most agents advise waiting. Top producers know acting now can secure better deals. [ON-SCREEN: Act Now, Secure Better Deals]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can leverage less competition today. Start reaching out to clients this week. Anna closed 47 deals last year using this strategy. [ON-SCREEN: Leverage Less Competition]\",\n    \"CTA\": \"Are you waiting for lower rates — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Waiting for lower rates? It might cost you more in the long run. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#InterestRates\", \"#HomeBuying\", \"#RealEstateAdvice\", \"#MarketStrategy\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If you're waiting until the rates drop, you're going to have 20, 30 people competing with you instead of just five.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:24:00",
+      "end_timestamp": "00:24:45",
+      "quote": "Your bank's answer is one answer, it's not the answer.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Encourages borrowers to seek multiple opinions and solutions.",
+      "suggested_hook": "Don't settle for the first 'no' from your bank."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Don't settle for the first 'no' from your bank.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Anna Kara shared a game-changing insight on our latest episode. You're self-employed, trying to secure a loan, but your bank just said 'no.' Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Anna says, 'Your bank's answer is one answer, it's not the answer.' [ON-SCREEN: Seek multiple opinions] Don't stop at the first rejection. Reach out to other lenders. [ON-SCREEN: Explore all options] Most borrowers give up. Top investors keep pushing until they find a solution.\",\n    \"REFRAME/APPLICATION\": \"In today's high interest rate climate, this matters more than ever. You can start calling other banks today. Anna's clients have secured better rates by doing just this.\",\n    \"CTA\": \"Have you tried multiple lenders yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't let one 'no' stop you. Explore all your options! 💪 #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#MortgageAdvice\",\n    \"#SelfEmployed\",\n    \"#InvestmentStrategies\",\n    \"#ClientSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Your bank's answer is one answer, it's not the answer.\"\n}\n```"
+  }
+]

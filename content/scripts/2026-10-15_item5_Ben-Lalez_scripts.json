@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:32",
+      "end_timestamp": "10:12",
+      "quote": "Every time you do something that is scary and you complete it, you leave a percentage of people behind you.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Inspires agents to embrace challenges as opportunities for growth.",
+      "suggested_hook": "Are you ready to leave your competition behind?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you ready to leave your competition behind?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez says every time you tackle something scary, you move ahead of others. You're reaching out to your database but nobody's responding. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben shared, 'Every time you do something that is scary and you complete it, you leave a percentage of people behind you.' [ON-SCREEN: Embrace Challenges] Most agents avoid challenges. Top producers see them as growth opportunities. [ON-SCREEN: Growth Opportunities]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. This approach helped Ben recruit 30 agents last year. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Embrace challenges to outpace your competition. Are you ready? #RealEstate #MindsetShift\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#MindsetShift\", \"#AgentGrowth\", \"#LeadGeneration\", \"#SuccessMindset\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Every time you do something that is scary and you complete it, you leave a percentage of people behind you.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "16:25",
+      "end_timestamp": "16:55",
+      "quote": "85% of agents never contact their client after the sale.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a common oversight that can be easily corrected for better client retention.",
+      "suggested_hook": "Are you missing out on repeat business?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you missing out on repeat business?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ben Lalez shared a shocking stat: 85% of agents never contact their client after the sale. Imagine closing a deal and then... silence. You're busy, juggling new leads, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ben says, 'Most agents move on, but top producers stay connected.' [ON-SCREEN: 85% of agents] They send a simple 'how's it going?' text or a holiday card. [ON-SCREEN: Top producers stay connected] It's about staying top of mind without being pushy. [ON-SCREEN: Simple follow-up works]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start today. Send a quick message to a past client. Ben closed 47 deals last year using exactly this approach. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"85% of agents miss out on repeat business. Are you one of them?\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#ClientRetention\",\n    \"#TopProducerSecrets\",\n    \"#AgentSuccess\",\n    \"#LeadGeneration\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents move on, but top producers stay connected.\"\n}\n```"
+  }
+]

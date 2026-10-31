@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": null,
+    "company": null,
+    "production_level": "$140M+ producer",
+    "specialty": "YouTube lead generation",
+    "location": "Metro Atlanta"
+  },
+  "main_topics": [
+    "Overcoming fear in starting a YouTube channel",
+    "The importance of authenticity over production quality",
+    "Common excuses agents have for not starting YouTube",
+    "The effectiveness of YouTube for real estate lead generation",
+    "Sarah's YouTube course for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of starting a YouTube channel",
+      "solution_summary": "Embrace authenticity and start creating content despite initial discomfort.",
+      "timestamp": "03:21"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Not knowing what content to create",
+      "solution_summary": "Use local knowledge to create content about living in the area.",
+      "timestamp": "08:33"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Discomfort with on-camera appearance",
+      "solution_summary": "Recognize that clients already trust you in person, and this will translate to video.",
+      "timestamp": "07:58"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often hesitate to start due to fear and lack of direction.",
+      "key_takeaway": "Start creating content without waiting for perfection; authenticity is key."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents may struggle with expanding their lead generation methods.",
+      "key_takeaway": "YouTube offers a high ROI for lead generation compared to other platforms."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:04",
+      "end_timestamp": "05:17",
+      "quote": "I don't have to be something that I'm not. I just have to show up as myself.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This moment emphasizes the power of authenticity, a relatable and inspiring message.",
+      "suggested_hook": "Are you afraid to start your YouTube channel? Here's why you shouldn't be."
+    },
+    {
+      "timestamp": "10:24",
+      "end_timestamp": "10:32",
+      "quote": "YouTube is by far the best return on investment you will make in terms of both time and money.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights the effectiveness of YouTube, encouraging agents to prioritize it.",
+      "suggested_hook": "Want the best ROI for your real estate business? Here's where to focus."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use teleprompter apps to improve video quality.",
+      "context": "Helps organize thoughts and reduce on-camera anxiety.",
+      "timestamp": "07:27"
+    },
+    {
+      "tactic": "Leverage local knowledge for content ideas.",
+      "context": "Create videos about living in your area to attract local leads.",
+      "timestamp": "08:38"
+    }
+  ],
+  "quotable_insights": [
+    "Comfort comes from doing it, not from waiting until you feel ready.",
+    "There is enough business out there for everyone. And YouTube is big enough for more than one agent per market."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Sarah's YouTube course",
+      "context": "A structured program to help agents start and grow their YouTube channels."
+    },
+    {
+      "type": "tool",
+      "name": "Teleprompter apps",
+      "context": "Recommended for agents uncomfortable with unscripted videos."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her journey of closing over $140 million in real estate through YouTube without paid ads. She addresses common fears agents face when starting on YouTube and emphasizes the importance of authenticity. Sarah offers practical advice on using local knowledge for content creation and highlights the high ROI of YouTube for lead generation.",
+  "_metadata": {
+    "source_file": "2026-10-21_item3_Sarah-Maslowski",
+    "analyzed_at": "2026-10-31T10:32:34.645895",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

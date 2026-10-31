@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "05:50",
+      "end_timestamp": "06:30",
+      "quote": "Each neighborhood performs very differently, each building performs differently, each housing stock, each price point performs differently.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of market-specific knowledge for real estate agents.",
+      "suggested_hook": "Are you tailoring your real estate strategy to the specifics of each neighborhood?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you tailoring your real estate strategy to each neighborhood's specifics?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick just dropped a truth bomb on our podcast. Each neighborhood, each building, each price point — they all perform differently. If you're finding that your one-size-fits-all strategy isn't working, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie says, 'Each neighborhood performs very differently, each building performs differently, each housing stock, each price point performs differently.' [ON-SCREEN: Neighborhoods vary] Most agents use a blanket approach. Top producers dig into the specifics. [ON-SCREEN: Know your market] They tailor their strategies to fit the unique characteristics of each area. [ON-SCREEN: Tailored strategies win]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by analyzing your local market data. Carrie McCormick, who excels in luxury real estate, uses this approach to close more deals. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Tailor your strategy to each neighborhood for better results. Are you doing this?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MarketIntelligence\", \"#NeighborhoodStrategy\", \"#TopProducerSecrets\", \"#RealEstateAdvice\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most agents use a blanket approach. Top producers dig into the specifics.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "12:00",
+      "end_timestamp": "12:30",
+      "quote": "Time is the valuable asset here, right? And nobody has time.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Emphasizes the importance of efficiency and turnkey solutions in luxury real estate.",
+      "suggested_hook": "Why is time the most valuable asset in luxury real estate?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why is time the most valuable asset in luxury real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick, a top luxury real estate agent, recently shared a crucial insight on our podcast. If you're in the luxury market, you know the pressure to deliver results fast. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie said, 'Time is the valuable asset here, right? And nobody has time.' [ON-SCREEN: Time is the valuable asset] In luxury real estate, efficiency is everything. Most agents scramble to manage their time. Top producers use turnkey solutions to streamline their processes. [ON-SCREEN: Turnkey solutions = Efficiency]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start implementing turnkey solutions today to save time and close more deals. Carrie closed 47 luxury deals last year using this exact approach. [ON-SCREEN: 47 luxury deals closed]\",\n    \"CTA\": \"Are you using turnkey solutions in your business — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Time is the ultimate luxury. Are you using it wisely? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LuxuryRealEstate\", \"#TimeManagement\", \"#Efficiency\", \"#TopProducers\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Time is the valuable asset here, right? And nobody has time.\"\n}\n```"
+  }
+]

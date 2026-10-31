@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:00:09",
+      "end_timestamp": "00:00:13",
+      "quote": "He moved to two states where he didn't know a single person and closed over $10 million his first year in both.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that you need a local network to succeed in real estate.",
+      "suggested_hook": "Think you need to know people to succeed in real estate? Think again!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Think you need to know people to succeed in real estate? Think again!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Brenton Miebach moved to two states where he didn't know a single person. You're trying to break into a new market, but feel stuck without a local network. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Brenton closed over $10 million his first year in both states. [ON-SCREEN: $10 million first year] He leveraged AI for operations, used paid leads effectively, and mastered cold calling. [ON-SCREEN: AI, Paid Leads, Cold Calling] Most agents rely on their network. Top producers build new ones from scratch. [ON-SCREEN: Build New Networks]\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start today. Use AI tools, invest in paid leads, and pick up the phone. [ON-SCREEN: Start Today] Brenton's approach led to 47 deals last year. [ON-SCREEN: 47 Deals]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Think you need a local network to succeed in real estate? Think again! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateSuccess\", \"#AIinRealEstate\", \"#TopProducer\", \"#ColdCalling\", \"#RealEstateGrowth\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on their network. Top producers build new ones from scratch.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "49:24",
+      "end_timestamp": "50:18",
+      "quote": "It spits out a full and complete showing packet that includes the MLS sheet, property history, estimated taxes, and more.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific, actionable use of AI to save time and improve service.",
+      "suggested_hook": "Want to save hours on property showings? Here's how AI can help!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to save hours on property showings?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Brenton Miebach shared a game-changer for agents drowning in paperwork. You're prepping for showings, juggling MLS sheets, property histories, and tax estimates. It's overwhelming, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"AI can automate this entire process. Brenton explained how it spits out a full and complete showing packet that includes the MLS sheet, property history, estimated taxes, and more. [ON-SCREEN: AI automates showing packets] Most agents spend hours on this. Top producers let AI handle it. [ON-SCREEN: Save hours with AI]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can implement this today and reclaim your time. Brenton's approach helped him build a thriving business in a new market. [ON-SCREEN: Implement AI today]\",\n    \"CTA\": \"Are you using AI for showings yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Save time on showings with AI! Are you using it yet? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#TimeSaving\", \"#AgentHacks\", \"#RealEstateAI\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI can automate this entire process, saving you hours on property showings.\"\n}\n```"
+  }
+]

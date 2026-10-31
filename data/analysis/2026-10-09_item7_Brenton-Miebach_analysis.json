@@ -1,0 +1,101 @@
+{
+  "guest_info": {
+    "name": "Brenton Miebach",
+    "title": "Sales Associate",
+    "company": "Southwest Florida Lifestyle Living, eXp Realty",
+    "production_level": "$10M+ producer",
+    "specialty": "Helping out-of-state buyers relocate",
+    "location": "Cape Coral, Florida"
+  },
+  "main_topics": [
+    "Building a real estate business in a new market",
+    "Leveraging AI for real estate operations",
+    "Effective use of paid leads",
+    "Cold calling strategies",
+    "Social media growth tactics"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Breaking into a new market without a sphere of influence",
+      "solution_summary": "Utilize paid leads and cold calling while learning the market geography and nuances quickly.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Inefficiency in preparing for property showings",
+      "solution_summary": "Develop an AI-driven system to automate the creation of comprehensive showing packets.",
+      "timestamp": "49:24"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Growing a social media presence from scratch",
+      "solution_summary": "Use AI to create engaging historical content about the local area to rapidly increase followers and engagement.",
+      "timestamp": "56:03"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on scaling production quickly in new markets.",
+      "key_takeaway": "Leverage technology and disciplined strategies to build a successful real estate business from scratch."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers strategies for using AI to streamline team operations and enhance productivity.",
+      "key_takeaway": "Implement AI systems to automate repetitive tasks and maintain consistency across team activities."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:00:09",
+      "end_timestamp": "00:00:13",
+      "quote": "He moved to two states where he didn't know a single person and closed over $10 million his first year in both.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that you need a local network to succeed in real estate.",
+      "suggested_hook": "Think you need to know people to succeed in real estate? Think again!"
+    },
+    {
+      "timestamp": "49:24",
+      "end_timestamp": "50:18",
+      "quote": "It spits out a full and complete showing packet that includes the MLS sheet, property history, estimated taxes, and more.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a specific, actionable use of AI to save time and improve service.",
+      "suggested_hook": "Want to save hours on property showings? Here's how AI can help!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to automate the creation of showing packets.",
+      "context": "Before property showings, to save time and ensure comprehensive information is available.",
+      "timestamp": "49:24"
+    },
+    {
+      "tactic": "Leverage historical content to grow social media presence.",
+      "context": "Create engaging videos about local history to attract and engage an older demographic on Facebook.",
+      "timestamp": "56:03"
+    }
+  ],
+  "quotable_insights": [
+    "It's not the lead; it's the referral business you get from that lead."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Lies That Came True",
+      "context": "Used as a source for creating engaging historical content about Cape Coral."
+    },
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for building AI-driven systems to automate real estate operations."
+    }
+  ],
+  "episode_summary": "In this episode, Brenton Miebach shares his journey of building a successful real estate business in new markets using paid leads, cold calling, and AI-driven systems. He discusses how he leveraged technology to automate operations and grow his social media presence, offering actionable insights for agents looking to scale their business efficiently.",
+  "_metadata": {
+    "source_file": "2026-10-09_item7_Brenton-Miebach",
+    "analyzed_at": "2026-10-31T10:31:46.812406",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

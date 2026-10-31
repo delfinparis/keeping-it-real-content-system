@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "04:42",
+      "end_timestamp": "05:00",
+      "quote": "Ralph Lauren really sold a life that you wanted to step into.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Captures the essence of lifestyle marketing in real estate.",
+      "suggested_hook": "Are you selling a home or a lifestyle?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you selling a home or a lifestyle?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnick shared a game-changing insight on our latest episode. Imagine you're marketing a luxury property, but you're struggling to connect with buyers. You're showcasing features, but the interest just isn't there. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Ralph Lauren really sold a life that you wanted to step into. [ON-SCREEN: Sell a Lifestyle, Not Just a Home] Most agents focus on square footage and amenities. Top producers? They sell a dream, a lifestyle. [ON-SCREEN: Lifestyle Marketing Wins] Bill emphasizes, 'It's about painting a picture of the life buyers aspire to live.'\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start today. Craft your listings to tell a story, not just list features. [ON-SCREEN: Start Today] Bill's approach helped him transition from corporate to closing high-end deals.\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you selling a home or a lifestyle? Discover the secret to luxury real estate success.\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#LuxuryHomes\", \"#LifestyleSelling\", \"#TopProducer\", \"#AgentTips\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Ralph Lauren really sold a life that you wanted to step into.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "42:07",
+      "end_timestamp": "42:30",
+      "quote": "It's a turn off for buyers, it's a turn off for other agents.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the trend of using AI for all communications.",
+      "suggested_hook": "Why AI might be hurting your real estate business."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"AI might be hurting your real estate business.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnick shared a surprising insight on our podcast. You're using AI to handle all your client communications, but it's falling flat. Buyers and agents are turned off, and you're wondering why your emails get no response.\",\n    \"INSIGHT\": \"Bill says, 'It's a turn off for buyers, it's a turn off for other agents.' [ON-SCREEN: AI can repel clients] Most agents rely on AI for everything. But top producers know the power of personal touch. [ON-SCREEN: Personal touch wins] They craft messages themselves, adding a human element that AI can't replicate. [ON-SCREEN: Human element matters]\",\n    \"REFRAME/APPLICATION\": \"This matters because personal branding is key right now. You can start today by personalizing just one client email. [ON-SCREEN: Start today] Bill transitioned from corporate to luxury real estate using this exact approach.\",\n    \"CTA\": \"Are you relying too much on AI — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is AI turning off your clients? Discover why personal touch matters more than ever.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#AIinRealEstate\", \"#PersonalBranding\", \"#LuxuryRealEstate\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on AI, but top producers know the power of personal touch.\"\n}\n```"
+  }
+]

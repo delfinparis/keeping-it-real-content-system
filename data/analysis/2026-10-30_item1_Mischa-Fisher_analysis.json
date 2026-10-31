@@ -1,0 +1,77 @@
+{
+  "guest_info": {
+    "name": "Mischa Fisher",
+    "title": "Chief Economist",
+    "company": "Zillow",
+    "production_level": null,
+    "specialty": "Economic analysis and forecasting",
+    "location": "Las Vegas (Zillow Unlock Conference)"
+  },
+  "main_topics": [
+    "Current real estate market trends",
+    "Impact of mortgage rates on home sales",
+    "Differences in regional housing markets",
+    "Rent vs. buy considerations",
+    "Economic indicators affecting real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Decline in home sales due to high mortgage rates",
+      "solution_summary": "Agents should focus on educating buyers about the benefits of buying now and refinancing later, and leverage the current inventory to negotiate better deals.",
+      "timestamp": "15:04"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Rising first-time homebuyer age affecting generational wealth",
+      "solution_summary": "Encourage disciplined savings and investment strategies for those delaying home purchases.",
+      "timestamp": "19:02"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into market trends and how to leverage them for client education and sales.",
+      "key_takeaway": "Understanding market dynamics and educating clients can create opportunities even in a declining market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "The discussion on economic indicators and market predictions is crucial for strategic planning.",
+      "key_takeaway": "Prepare your team for market volatility and educate them on leveraging current conditions to benefit clients."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:04",
+      "end_timestamp": "15:45",
+      "quote": "If you are a buyer and you have a good agent walking through that psychology and saying, don't get too hung up on where rates are...",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This moment challenges the fear of high rates and encourages a strategic approach to buying.",
+      "suggested_hook": "Worried about high mortgage rates? Here's why you shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use Zillow's research data to track changes in home values.",
+      "context": "Check this data monthly to understand market strength and guide client decisions.",
+      "timestamp": "11:05"
+    }
+  ],
+  "quotable_insights": [
+    "The typical cost of a mortgage payment has doubled in the last five years, while incomes are only up by a third."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Zillow Research",
+      "context": "Recommended for accessing up-to-date market data and research articles."
+    }
+  ],
+  "episode_summary": "In this episode, Mischa Fisher, Chief Economist at Zillow, discusses the current state of the real estate market, focusing on the impact of high mortgage rates and regional differences in housing trends. He provides insights into how agents can leverage current market conditions to benefit their clients and highlights the importance of understanding economic indicators for strategic planning.",
+  "_metadata": {
+    "source_file": "2026-10-30_item1_Mischa-Fisher",
+    "analyzed_at": "2026-10-31T10:32:52.764343",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
