@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges agents to rethink their value proposition in the industry.",
+      "suggested_hook": "Are you just a lock box operator? Here's why you might become the DoorDash of real estate."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"hook\": \"Are you just a lock box operator? Here's why you might become the DoorDash of real estate.\",\n    \"brand_intro\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"setup\": \"Chris Linsell warns that if your only skill is opening lock boxes, you might soon be reclassified as a gig worker. Are you just going through the motions, feeling like your value is slipping away?\",\n    \"insight\": \"Chris says, 'If you are a real estate agent who has no value outside of your ability to operate a lock box, my prediction is that in the next 18 to 24 months, you will be reclassified as a gig worker.' [ON-SCREEN: Reclassified as Gig Worker] Most agents rely on basic tasks. Top producers build relationships and offer unique insights. [ON-SCREEN: Build Relationships, Offer Insights]\",\n    \"reframe_application\": \"This matters because AI and tech are reshaping real estate. You can start adding value today by focusing on client relationships and market expertise. [ON-SCREEN: Add Value Today]\",\n    \"cta\": \"Are you doing this already — yes or no?\",\n    \"close\": \"See you next time.\"\n  },\n  \"caption\": \"Are you just a lock box operator? Here's why your role might change soon.\",\n  \"hashtags\": [\"#RealEstateTips\", \"#AgentAdvice\", \"#FutureOfRealEstate\", \"#AIImpact\", \"#RealTalk\"],\n  \"content_pillar\": \"real_talk\",\n  \"shareable_moment\": \"If your only skill is opening lock boxes, you might soon be a gig worker.\"\n}\n```"
+  }
+]
