@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Team Leader",
+    "company": "Ben Lalez Team",
+    "production_level": "Several hundred million dollars in production annually",
+    "specialty": "Real Estate Team Management",
+    "location": "Chicago, Illinois"
+  },
+  "main_topics": [
+    "Separation Season Strategy",
+    "Mindset and Motivation",
+    "Client Relationship Management",
+    "Agent Recruitment and Retention",
+    "Fundamentals of Real Estate Success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Agents losing motivation in Q4",
+      "solution_summary": "Focus on 'Separation Season' by maintaining consistent effort and planting seeds for future success.",
+      "timestamp": "04:12"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Agents not following up with past clients",
+      "solution_summary": "Stay in touch with clients post-sale to ensure future business opportunities.",
+      "timestamp": "16:22"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in generating new leads",
+      "solution_summary": "Analyze past transactions to identify successful strategies and replicate them.",
+      "timestamp": "13:25"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies for maintaining momentum and setting up future success.",
+      "key_takeaway": "Consistent effort during slow periods can lead to long-term success."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Offers insights into motivating a team during traditionally slow periods.",
+      "key_takeaway": "Encourage your team to focus on fundamentals and long-term planning."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:32",
+      "end_timestamp": "10:15",
+      "quote": "Every time you do something that is scary and you complete it, you leave a percentage of people behind you.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the importance of overcoming fear to advance in the real estate industry.",
+      "suggested_hook": "Are you ready to leave your competition behind?"
+    },
+    {
+      "timestamp": "16:22",
+      "end_timestamp": "17:05",
+      "quote": "85% of agents never contact their client after the sale, which is insane.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Reveals a shocking statistic that emphasizes the importance of client follow-up.",
+      "suggested_hook": "Are you missing out on repeat business?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Analyze past transactions to identify successful strategies.",
+      "context": "Use this analysis to replicate successful actions for future transactions.",
+      "timestamp": "13:25"
+    },
+    {
+      "tactic": "Increase business plan activities by 20% during slow periods.",
+      "context": "Apply this tactic during Q4 to prepare for a strong start in the new year.",
+      "timestamp": "14:42"
+    }
+  ],
+  "quotable_insights": [
+    "Separation season is when you separate yourself from everyone else by doing the basics brilliantly.",
+    "If something scares you, it means you're on the right track."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for converting leads and managing client relationships."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the concept of 'Separation Season,' a strategy for real estate agents to maintain momentum during slow periods by focusing on fundamentals and long-term planning. He emphasizes the importance of client follow-up and analyzing past transactions to replicate success. The episode provides actionable insights for agents looking to differentiate themselves in a competitive market.",
+  "_metadata": {
+    "source_file": "2026-10-15_item6_Ben-Lalez",
+    "analyzed_at": "2026-11-10T11:59:01.396833",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

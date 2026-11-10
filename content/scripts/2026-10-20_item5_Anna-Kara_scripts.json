@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:05:00",
+      "end_timestamp": "00:05:30",
+      "quote": "Your bank's answer is one answer. It's not the answer.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Challenges the conventional wisdom of sticking with one lender.",
+      "suggested_hook": "Is your bank really giving you the best mortgage advice?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your bank really giving you the best mortgage advice?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Anna Kara recently shared a game-changing insight on our podcast. If you're self-employed or have unique financial situations, you might feel stuck with your bank's mortgage options. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Anna said, 'Your bank's answer is one answer. It's not the answer.' [ON-SCREEN: Your bank's answer is one answer.] Most agents stick to one lender. Top producers explore multiple options to find the best fit for their clients. [ON-SCREEN: Explore multiple lender options.]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? With fluctuating rates, exploring different lenders can save your clients thousands. You can start this today by reaching out to at least two new lenders this week.\",\n    \"CTA\": \"Are you exploring multiple lenders already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Is your bank's mortgage advice the only option? Discover why it shouldn't be. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageAdvice\", \"#AgentStrategy\", \"#SelfEmployed\", \"#TopProducers\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Your bank's answer is one answer. It's not the answer.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:45",
+      "quote": "If you're waiting until rates drop, you're going to pay $150,000 more on the purchase price.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Counters the common belief that waiting for lower rates is always better.",
+      "suggested_hook": "Why waiting for lower rates might cost you more in the long run."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Waiting for lower rates? It might cost you $150,000 more.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Anna Kara recently shared a surprising insight on our podcast. If you're like many buyers, you're holding off for rates to drop. But here's the kicker: waiting could mean paying $150,000 more on your home purchase. Sound familiar?\",\n    \"INSIGHT\": \"Anna explained that while most buyers wait for rates to fall, savvy investors understand that property values often rise during these periods. [ON-SCREEN: $150,000 more] She said, 'If you're waiting until rates drop, you're going to pay $150,000 more on the purchase price.' [ON-SCREEN: Property values rise] Most agents advise waiting, but top producers know timing the market is risky.\",\n    \"REFRAME/APPLICATION\": \"This matters because acting now could save your clients significant money. You can start advising them today to consider current opportunities. Anna's approach helped her clients save thousands last year.\",\n    \"CTA\": \"Would you advise your clients to buy now — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Waiting for lower rates? It might cost you $150,000 more. Here's why.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#MortgageRates\", \"#HomeBuying\", \"#RealEstateAdvice\", \"#MarketTrends\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"If you're waiting until rates drop, you're going to pay $150,000 more on the purchase price.\"\n}\n```"
+  }
+]

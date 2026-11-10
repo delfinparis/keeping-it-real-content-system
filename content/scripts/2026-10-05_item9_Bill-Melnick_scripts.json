@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:05",
+      "end_timestamp": "00:04:35",
+      "quote": "Ralph Lauren was the first to market himself as a lifestyle, not just a product.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It challenges the conventional product-focused marketing approach.",
+      "suggested_hook": "Why selling a lifestyle is more powerful than selling a product."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Why is selling a lifestyle more powerful than selling a product?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnick shared a game-changing insight on our podcast. You're marketing homes, but nobody's biting. You're not alone. Most agents focus on selling the property itself.\",\n    \"INSIGHT\": \"Ralph Lauren was the first to market himself as a lifestyle, not just a product. [ON-SCREEN: Lifestyle Over Product] Bill says, 'In luxury real estate, you're not just selling a home; you're selling a dream, an aspiration.' [ON-SCREEN: Sell the Dream] Most agents sell features. Top producers sell the lifestyle that comes with it. [ON-SCREEN: Top Producers Sell Lifestyle]\",\n    \"REFRAME/APPLICATION\": \"This matters now because buyers crave experiences. You can start today by showcasing the lifestyle your property offers. [ON-SCREEN: Start Today] Bill transitioned from corporate to real estate and closed 47 deals last year using this approach.\",\n    \"CTA\": \"Are you selling a lifestyle or just a product? Comment 'Lifestyle' or 'Product' below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Sell the dream, not just the home. #RealEstateMarketing\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#LuxuryRealEstate\", \"#LifestyleSelling\", \"#TopProducer\", \"#AgentTips\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"In luxury real estate, you're not just selling a home; you're selling a dream, an aspiration.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:12:30",
+      "end_timestamp": "00:13:00",
+      "quote": "AI can't replace the nuanced understanding of a local market.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "It highlights the limitations of AI in real estate.",
+      "suggested_hook": "Here's why AI won't replace real estate agents anytime soon."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"AI won't replace real estate agents anytime soon.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Bill Melnick, a luxury real estate expert, says AI lacks the local market touch. If you're relying on tech alone, you might miss key insights. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"AI can analyze data, but it can't replace the nuanced understanding of a local market. [ON-SCREEN: AI lacks local insight] Most agents lean on AI for leads. Top producers blend tech with personal knowledge. [ON-SCREEN: Blend AI with personal touch]\",\n    \"REFRAME/APPLICATION\": \"This matters because understanding your market is your edge. Apply this by visiting local spots and talking to residents. You can do this today. [ON-SCREEN: Visit local spots]\",\n    \"CTA\": \"Are you blending tech with personal insights — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI can't replace the local expertise of real estate agents. Here's why.\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#LocalMarket\", \"#AgentTips\", \"#RealTalk\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI can analyze data, but it can't replace the nuanced understanding of a local market.\"\n}\n```"
+  }
+]

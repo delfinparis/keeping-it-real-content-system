@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:16:00",
+      "end_timestamp": "00:16:45",
+      "quote": "I don't ever try to BS my way through anything. If I don't know something, I find the answer.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the importance of honesty and continuous learning in real estate.",
+      "suggested_hook": "Why honesty is your best tool in real estate."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Honesty beats everything in real estate. Here's why.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Brenton Miebach shared a game-changing mindset on our podcast. You're in a client meeting, and they ask a question you can't answer. Panic sets in. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Brenton said, 'I don't ever try to BS my way through anything. If I don't know something, I find the answer.' [ON-SCREEN: Honesty is key] Most agents fake it. Top producers admit gaps and learn. [ON-SCREEN: Continuous learning wins]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? You can apply this today by being transparent with your clients. This approach helped Brenton close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you embracing honesty in your business — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why honesty is your best tool in real estate. Learn from Brenton Miebach's mindset shift.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#HonestyInBusiness\", \"#ContinuousLearning\", \"#TopProducerSecrets\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"real_talk\",\n  \"SHAREABLE_MOMENT\": \"Most agents fake it. Top producers admit gaps and learn.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:54:00",
+      "end_timestamp": "00:54:45",
+      "quote": "I took a picture of every single page of that book, uploaded it into Claude, and created a full PDF version.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates a practical use of AI for content creation.",
+      "suggested_hook": "How to turn a book into engaging social media content using AI."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Ever turned a book into a social media powerhouse?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Brenton Miebach shared a game-changing tactic on our podcast. You're sitting on a goldmine of content, but it's locked in books collecting dust. Frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Brenton said, 'I took a picture of every single page of that book, uploaded it into Claude, and created a full PDF version.' [ON-SCREEN: Turn books into digital content] Most agents struggle to create engaging content. Top producers use AI to transform existing resources. [ON-SCREEN: AI for content creation]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? You can start today. Imagine turning your bookshelf into a content library. This approach helped Brenton boost his social media presence dramatically. [ON-SCREEN: Start today!]\",\n    \"CTA\": \"Have you tried using AI for content yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock your bookshelf's potential with AI! 📚🤖 #RealEstateTips\",\n  \"HASHTAGS\": [\"#AIinRealEstate\", \"#ContentCreation\", \"#SocialMediaGrowth\", \"#RealEstateAgent\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents struggle to create engaging content. Top producers use AI to transform existing resources.\"\n}\n```"
+  }
+]

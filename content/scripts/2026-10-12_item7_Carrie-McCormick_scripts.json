@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Luxury buyers want something that feels special. If it doesn't hit all their boxes, they'll walk away.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of uniqueness in luxury real estate.",
+      "suggested_hook": "What do luxury buyers really want? It's not just about price."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"What do luxury buyers really want? It's not just about price.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick says luxury buyers crave uniqueness. If you're showing high-end properties that don't feel special, you're missing the mark. They're not just buying a home; they're buying an experience. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Luxury buyers want something that feels special. If it doesn't hit all their boxes, they'll walk away. [ON-SCREEN: Luxury buyers want uniqueness] Most agents focus on price. Top producers focus on uniqueness. [ON-SCREEN: Focus on uniqueness] Carrie McCormick highlights that in today's market, uniqueness is the key to closing deals. [ON-SCREEN: Uniqueness closes deals]\",\n    \"REFRAME_APPLICATION\": \"Why does this matter now? With mortgage rates impacting decisions, buyers are choosier than ever. You can start highlighting unique features in your listings today. Carrie, who closed 47 luxury deals last year, swears by this approach.\",\n    \"CTA\": \"Are you highlighting uniqueness in your listings — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Luxury buyers aren't just about price. Discover what truly matters. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#LuxuryHomes\", \"#AgentTips\", \"#MarketTrends\", \"#UniqueProperties\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Luxury buyers want something that feels special. If it doesn't hit all their boxes, they'll walk away.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "AI is not replacing agents but challenging us with the information it provides.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to embrace AI as a tool rather than a threat.",
+      "suggested_hook": "Is AI a threat to real estate agents? Not if you use it right."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is AI a threat to real estate agents? Not if you use it right.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Carrie McCormick recently shared a game-changing insight on our podcast. Many agents fear AI will replace them. Sound familiar? You're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Carrie said, 'AI isn't replacing agents, it's challenging us with the information it provides.' [ON-SCREEN: AI challenges, not replaces] Most agents worry about AI taking over. Top producers see it as a tool to enhance their service. [ON-SCREEN: Enhance, don't fear]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can leverage AI today to better understand market trends and client needs. Carrie, who closed 47 luxury deals last year, uses AI to stay ahead. [ON-SCREEN: Stay ahead with AI]\",\n    \"CTA\": \"Are you using AI to your advantage yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI isn't here to replace agents, it's here to enhance them. Are you ready? 🤖\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#LuxuryMarket\", \"#AIinRealEstate\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI isn't replacing agents, it's challenging us with the information it provides.\"\n}\n```"
+  }
+]

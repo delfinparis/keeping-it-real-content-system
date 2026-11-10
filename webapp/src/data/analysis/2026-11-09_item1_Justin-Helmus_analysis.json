@@ -1,0 +1,84 @@
+{
+  "guest_info": {
+    "name": "Justin Helmus",
+    "title": "Top Producer",
+    "company": "Not specified",
+    "production_level": "Top 1%",
+    "specialty": "Luxury real estate",
+    "location": "Tampa Bay"
+  },
+  "main_topics": [
+    "Lead generation through personal interactions",
+    "Importance of mindset and belief",
+    "Working with luxury clients",
+    "Challenges in the condo market",
+    "Strategies for agent success"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "How to generate leads in a competitive market",
+      "solution_summary": "Be present in places where potential clients are, like coffee shops, and engage them with conversation and personalized notes.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Believing in oneself despite inexperience",
+      "solution_summary": "Adopt a mindset of persistence and confidence, believing that hard work will lead to success.",
+      "timestamp": "00:05:22"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Challenges in the Florida condo market",
+      "solution_summary": "Understand the impact of insurance, assessments, and lifestyle changes on buyer decisions.",
+      "timestamp": "00:19:24"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides strategies for breaking into the luxury market and emphasizes the importance of mindset.",
+      "key_takeaway": "Success in luxury real estate requires persistence, market knowledge, and building personal relationships."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:22",
+      "end_timestamp": "00:06:12",
+      "quote": "If you don't personally believe in yourself, nobody else is going to.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It emphasizes the critical role of self-belief in achieving success.",
+      "suggested_hook": "Why belief in yourself is the foundation of real estate success."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use handwritten notes to build relationships",
+      "context": "Send personalized notes to potential clients and other agents to stand out.",
+      "timestamp": "00:13:17"
+    },
+    {
+      "tactic": "Be present in luxury environments",
+      "context": "Spend time in places where luxury clients frequent, like country clubs or upscale coffee shops.",
+      "timestamp": "00:27:52"
+    }
+  ],
+  "quotable_insights": [
+    "Persistence is what wins the game.",
+    "Mindset is everything in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Zillow Mortgage Calculator",
+      "context": "Used to quickly calculate monthly costs for buyers."
+    }
+  ],
+  "episode_summary": "In this episode, Justin Helmus shares his journey to becoming a top 1% producer in the luxury real estate market. He emphasizes the importance of mindset, persistence, and building personal relationships to succeed. Justin also discusses the challenges in the Florida condo market and offers actionable strategies for agents looking to break into luxury real estate.",
+  "_metadata": {
+    "source_file": "2026-11-09_item1_Justin-Helmus",
+    "analyzed_at": "2026-11-10T12:00:03.071045",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
