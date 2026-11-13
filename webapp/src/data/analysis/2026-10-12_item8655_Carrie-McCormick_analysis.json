@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Carrie McCormick",
+    "title": "Leader of the Carrie McCormick Luxury Group",
+    "company": "at properties Christie's International Real Estate",
+    "production_level": "Top 1% of 1% of Chicago REALTORS, $3.5 billion in lifetime sales",
+    "specialty": "Luxury properties",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Current trends in the luxury real estate market",
+    "The impact of mortgage rates on the market",
+    "The role of AI in real estate",
+    "Strategies for pricing and selling homes",
+    "Staying connected with clients post-sale"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding market conditions and trends",
+      "solution_summary": "Agents need to drill down into specific market segments and understand local conditions to provide accurate advice.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Staying in touch with past clients",
+      "solution_summary": "Use personalized communication rather than automated messages to maintain relationships.",
+      "timestamp": "28:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Pricing properties correctly in a changing market",
+      "solution_summary": "Focus on pricing, presentation, and positioning to create urgency and attract buyers.",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into the luxury market and how to manage high-value clients.",
+      "key_takeaway": "Understanding and adapting to market trends is crucial for success in luxury real estate."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies for improving client retention and leveraging AI in real estate.",
+      "key_takeaway": "Staying connected with clients and using AI as a tool can enhance your service offering."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "09:45",
+      "quote": "Luxury buyers want something that feels special. If it doesn't hit all their boxes, they'll walk away.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of uniqueness in luxury real estate.",
+      "suggested_hook": "What do luxury buyers really want? It's not just about price."
+    },
+    {
+      "timestamp": "18:00",
+      "end_timestamp": "18:45",
+      "quote": "AI is not replacing agents but challenging us with the information it provides.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to embrace AI as a tool rather than a threat.",
+      "suggested_hook": "Is AI a threat to real estate agents? Not if you use it right."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Drill down into specific market segments",
+      "context": "When advising clients on market conditions, provide detailed, localized insights.",
+      "timestamp": "06:00"
+    },
+    {
+      "tactic": "Use AI-generated images for property proposals",
+      "context": "To visually demonstrate potential property enhancements to clients.",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "Time is the most valuable resource for high-net-worth clients.",
+    "A great property that's beautifully presented and priced correctly can still get tremendous attention."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RealGeeks",
+      "context": "Recommended for generating more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered tool for recruiting and retaining real estate agents."
+    }
+  ],
+  "episode_summary": "In this episode, Carrie McCormick discusses the current trends in the luxury real estate market, emphasizing the importance of understanding specific market segments and the role of AI in enhancing real estate services. She provides actionable strategies for pricing properties and maintaining client relationships, highlighting the need for personalized communication and the use of AI-generated visuals to enhance property presentations.",
+  "_metadata": {
+    "source_file": "2026-10-12_item8655_Carrie-McCormick",
+    "analyzed_at": "2026-11-10T11:58:44.581426",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
