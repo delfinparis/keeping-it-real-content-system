@@ -3,7 +3,7 @@
 Auto-Sync Script for Keeping It Real Podcast
 Checks RSS feed for new episodes, downloads, transcribes, and analyzes them.
 
-Run weekly via cron: 0 3 * * 0 cd /path/to/project && ./scripts/auto_sync.py
+Run daily via GitHub Actions (.github/workflows/weekly-sync.yml) cd /path/to/project && ./scripts/auto_sync.py
 
 Or manually: python scripts/auto_sync.py
 """
@@ -80,6 +80,16 @@ def get_current_episode_count() -> int:
     return 0
 
 
+def get_current_guids() -> set:
+    """GUIDs currently in the index. The feed is capped at 300 items, so the
+    episode COUNT never changes; comparing GUIDs is what detects new episodes."""
+    episodes_file = INDEX_DIR / "episodes.json"
+    if episodes_file.exists():
+        with open(episodes_file, 'r') as f:
+            return {e.get('guid') for e in json.load(f).get('episodes', [])}
+    return set()
+
+
 def get_progress() -> dict:
     """Get the current progress from progress.json."""
     progress_file = INDEX_DIR / "progress.json"
@@ -151,15 +161,14 @@ def main():
 
     # Step 1: Parse RSS feed to check for new episodes
     logger.info("\n[STEP 1] Checking RSS feed for new episodes...")
-    old_count = get_current_episode_count()
+    old_guids = get_current_guids()
 
     success, output = run_script("parse_rss.py")
     if not success:
         logger.error("Failed to parse RSS feed: %s", output)
         return 1
 
-    new_count = get_current_episode_count()
-    new_episodes = new_count - old_count
+    new_episodes = len(get_current_guids() - old_guids)
 
     if new_episodes > 0:
         logger.info(f"  Found {new_episodes} new episode(s)!")

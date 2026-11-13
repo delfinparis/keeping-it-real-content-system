@@ -7,6 +7,7 @@ import feedparser
 import json
 import csv
 import re
+import zlib
 from datetime import datetime
 from dateutil import parser as date_parser
 from pathlib import Path
@@ -97,6 +98,17 @@ def get_mp3_url(item):
                 return link.get('href')
     return None
 
+def stable_episode_id(guid, title):
+    """Permanent numeric ID for an episode: the WordPress post ID in its GUID.
+
+    Falls back to a checksum of the GUID (or title) so the ID is still stable
+    and still all digits if the GUID ever stops carrying ?p=NNNN.
+    """
+    m = re.search(r'[?&]p=(\d+)', guid or '')
+    if m:
+        return int(m.group(1))
+    return zlib.crc32((guid or title).encode('utf-8')) % 10**9 + 10**9
+
 def sanitize_filename(name):
     """Create a safe filename from a string."""
     if not name:
@@ -149,9 +161,15 @@ def parse_rss_feed():
                     transcript = content.get('value', '')
                     has_transcript += 1
 
-        # Generate filename
+        # Generate filename. The middle token must be STABLE for the life of the
+        # episode: it used to be the feed position (item{i+1}), which shifted every
+        # time a new episode published, so every older episode looked new and got
+        # re-transcribed and re-analyzed under a new name. Now it is the WordPress
+        # post ID from the GUID (?p=8681 -> item8681). The "item" prefix is kept
+        # because downstream repos parse r"_item(\d+)_" out of these names.
+        guid = item.get('id', item.get('guid', ''))
         date_part = pub_date_str if pub_date_str else 'unknown-date'
-        ep_part = f"ep{episode_number}" if episode_number else f"item{i+1}"
+        ep_part = f"item{stable_episode_id(guid, title)}"
         guest_part = sanitize_filename(guest_name) if guest_name else 'unknown-guest'
         filename = f"{date_part}_{ep_part}_{guest_part}.mp3"
 
@@ -168,7 +186,7 @@ def parse_rss_feed():
             'duration_formatted': f"{duration_seconds // 3600}:{(duration_seconds % 3600) // 60:02d}:{duration_seconds % 60:02d}" if duration_seconds else None,
             'filename': filename,
             'has_transcript': transcript is not None,
-            'guid': item.get('id', item.get('guid', '')),
+            'guid': guid,
         }
         episodes.append(episode)
 
@@ -204,18 +222,20 @@ def save_episodes(episodes, feed_info):
         writer.writerows(episodes)
     print(f"Saved CSV to {csv_path}")
 
-    # Initialize progress tracker
+    # Update the progress tracker WITHOUT wiping it. This used to reset the
+    # downloaded/transcribed lists to [] on every run, so the daily sync forgot
+    # what it had done and re-downloaded + re-transcribed the newest 10 episodes
+    # every single day.
     progress_path = INDEX_DIR / "progress.json"
-    progress = {
-        'total_episodes': len(episodes),
-        'downloaded': [],
-        'transcribed': [],
-        'analyzed': [],
-        'last_updated': datetime.now().isoformat()
-    }
+    progress = {'downloaded': [], 'transcribed': [], 'analyzed': []}
+    if progress_path.exists():
+        with open(progress_path, 'r', encoding='utf-8') as f:
+            progress.update(json.load(f))
+    progress['total_episodes'] = len(episodes)
+    progress['last_updated'] = datetime.now().isoformat()
     with open(progress_path, 'w', encoding='utf-8') as f:
         json.dump(progress, f, indent=2)
-    print(f"Initialized progress tracker at {progress_path}")
+    print(f"Updated progress tracker at {progress_path}")
 
     return json_path, csv_path
 

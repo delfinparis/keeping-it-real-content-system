@@ -5,11 +5,11 @@ import Link from "next/link";
 import episodesData from "@/data/episodes.json";
 
 // Import clip files
-import clips1 from "@/data/analysis/2025-12-22_item5_Chris-Linsell_analysis.json";
-import clips2 from "@/data/analysis/2025-12-30_item4_Connie-Mahan_analysis.json";
-import clips3 from "@/data/analysis/2026-01-05_item3_Tim-Burrell_analysis.json";
-import clips4 from "@/data/analysis/2026-01-21_item2_Marisa-Kashino_analysis.json";
-import clips5 from "@/data/analysis/2026-01-22_item1_Kristee-Leonard_analysis.json";
+import clips1 from "@/data/analysis/2025-12-22_item8168_Chris-Linsell_analysis.json";
+import clips2 from "@/data/analysis/2025-12-30_item8192_Connie-Mahan_analysis.json";
+import clips3 from "@/data/analysis/2026-01-05_item8200_Tim-Burrell_analysis.json";
+import clips4 from "@/data/analysis/2026-01-21_item8219_Marisa-Kashino_analysis.json";
+import clips5 from "@/data/analysis/2026-01-22_item8225_Kristee-Leonard_analysis.json";
 
 const episodes = episodesData.episodes;
 
@@ -28,11 +28,11 @@ interface AnalysisWithClips {
 }
 
 const allAnalysis: { id: string; data: AnalysisWithClips }[] = [
-  { id: "2025-12-22_item5_Chris-Linsell", data: clips1 as AnalysisWithClips },
-  { id: "2025-12-30_item4_Connie-Mahan", data: clips2 as AnalysisWithClips },
-  { id: "2026-01-05_item3_Tim-Burrell", data: clips3 as AnalysisWithClips },
-  { id: "2026-01-21_item2_Marisa-Kashino", data: clips4 as AnalysisWithClips },
-  { id: "2026-01-22_item1_Kristee-Leonard", data: clips5 as AnalysisWithClips },
+  { id: "2025-12-22_item8168_Chris-Linsell", data: clips1 as AnalysisWithClips },
+  { id: "2025-12-30_item8192_Connie-Mahan", data: clips2 as AnalysisWithClips },
+  { id: "2026-01-05_item8200_Tim-Burrell", data: clips3 as AnalysisWithClips },
+  { id: "2026-01-21_item8219_Marisa-Kashino", data: clips4 as AnalysisWithClips },
+  { id: "2026-01-22_item8225_Kristee-Leonard", data: clips5 as AnalysisWithClips },
 ];
 
 const CLIP_TYPES = [

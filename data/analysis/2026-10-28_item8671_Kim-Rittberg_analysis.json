@@ -1,0 +1,82 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Speaking and video coaching for real estate agents and founders",
+    "location": null
+  },
+  "main_topics": [
+    "Impact of AI on real estate agents",
+    "Creating unique content with AI",
+    "Importance of video content",
+    "Differentiating yourself in the market",
+    "Using AI to enhance personal branding"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Generic content not helping agents stand out",
+      "solution_summary": "Create content that highlights your unique qualities and expertise, using AI to enhance but not replace your personal touch.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "AI potentially replacing agents",
+      "solution_summary": "AI will expose agents who are not making original content, so focus on what makes you uniquely valuable.",
+      "timestamp": "00:03:55"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode emphasizes the importance of personal branding and unique content creation, crucial for standing out in a competitive market.",
+      "key_takeaway": "Use AI to enhance your content but ensure it reflects your unique expertise and personality."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:05:20",
+      "end_timestamp": "00:05:40",
+      "quote": "The one thing that AI cannot copy right now is you. Your unique charm and insight are irreplaceable.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "Highlights the irreplaceable value of personal branding in the age of AI.",
+      "suggested_hook": "AI can't replace what makes you unique. Here's why your personal touch is your greatest asset."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Redline AI-generated scripts to ensure they reflect your unique voice and expertise.",
+      "context": "When using AI to generate content, personalize it to maintain authenticity.",
+      "timestamp": "00:06:34"
+    },
+    {
+      "tactic": "Ensure every video has a compelling first two seconds to capture attention.",
+      "context": "When creating video content, the opening seconds are crucial for engagement.",
+      "timestamp": "00:07:45"
+    }
+  ],
+  "quotable_insights": [
+    "AI is not going to replace you, but it is going to expose you and show you who you really are."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting tool to identify agents looking to move brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg discusses the impact of AI on real estate agents, emphasizing the importance of creating unique, personalized content to stand out in a competitive market. She provides actionable insights on using AI to enhance content creation while maintaining authenticity and highlights the irreplaceable value of personal branding.",
+  "_metadata": {
+    "source_file": "2026-10-28_item8671_Kim-Rittberg",
+    "analyzed_at": "2026-11-10T11:59:42.267905",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

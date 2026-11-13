@@ -1,0 +1,99 @@
+{
+  "guest_info": {
+    "name": "Mischa Fisher",
+    "title": "Chief Economist",
+    "company": "Zillow",
+    "production_level": null,
+    "specialty": "Economics and real estate market analysis",
+    "location": "Las Vegas (Zillow Unlock Conference)"
+  },
+  "main_topics": [
+    "Current real estate market trends",
+    "Impact of mortgage rates on home sales",
+    "Differences in regional housing markets",
+    "Rent vs. buy decisions",
+    "Economic indicators affecting real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Existing home sales expected to drop 8-10% in October",
+      "solution_summary": "Agents can still win by understanding market dynamics and focusing on regions with growth potential like Chicago.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "High mortgage rates deterring buyers",
+      "solution_summary": "Encourage buyers to focus on long-term benefits and potential for refinancing when rates drop.",
+      "timestamp": "00:14:12"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Misreading rental market's impact on home sales",
+      "solution_summary": "Agents should monitor rental market trends as they are closely connected to home buying demand.",
+      "timestamp": "00:29:54"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding market dynamics can help top producers identify opportunities even in a down market.",
+      "key_takeaway": "Focus on regions with growth potential and be prepared for market volatility."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Intermediate agents can benefit from insights on how to navigate high mortgage rates.",
+      "key_takeaway": "Educate clients on the long-term benefits of buying now despite high rates."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:14:12",
+      "end_timestamp": "00:15:34",
+      "quote": "If you're a buyer and you have a good agent walking through that psychology and saying, don't get too hung up on where rates are...",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the fear of high rates and emphasizes the importance of long-term planning.",
+      "suggested_hook": "Are high mortgage rates scaring your buyers away? Here's why they shouldn't be."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Monitor Zillow's research data on home values.",
+      "context": "Use it as a primary metric to gauge market strength and make informed decisions.",
+      "timestamp": "00:10:59"
+    },
+    {
+      "tactic": "Run rent vs. buy calculations for clients.",
+      "context": "Provide clients with data-driven advice on whether to rent or buy based on their financial situation.",
+      "timestamp": "00:31:19"
+    }
+  ],
+  "quotable_insights": [
+    "Don't let the finances get in the way of being happy because you want to have a home.",
+    "Be prepared for volatility. Engage now, don't engage when it happens because then you're already going to be a little behind."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "Zillow Research",
+      "context": "Recommended for up-to-date market data and research articles."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "A technology partner for agents to generate more business and convert leads."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "An AI-powered recruiting and retention tool for real estate brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Mischa Fisher, Chief Economist at Zillow, discusses the current real estate market trends, highlighting the expected drop in home sales and the impact of high mortgage rates. He provides insights into regional market differences and the importance of understanding rental market dynamics. Fisher emphasizes the need for agents to prepare for market volatility and offers strategies for navigating the current economic landscape.",
+  "_metadata": {
+    "source_file": "2026-10-30_item8675_Mischa-Fisher",
+    "analyzed_at": "2026-11-10T11:59:53.056071",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
