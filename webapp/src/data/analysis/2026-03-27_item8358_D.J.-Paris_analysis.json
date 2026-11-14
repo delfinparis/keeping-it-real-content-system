@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Unknown Guest",
+    "title": "N/A",
+    "company": "N/A",
+    "production_level": "N/A",
+    "specialty": "N/A",
+    "location": "N/A"
+  },
+  "main_topics": [
+    "AI in real estate",
+    "Agent recruitment and retention",
+    "Leveraging technology for productivity",
+    "AI-driven marketing strategies",
+    "Upcoming AI event"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads that convert",
+      "solution_summary": "Use Real Geeks for effective lead conversion and nurturing.",
+      "timestamp": "00:00:14"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Identifying agents likely to leave their brokerage",
+      "solution_summary": "Use corded.io's AI tool to predict agent movement.",
+      "timestamp": "00:01:35"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Managing multiple roles and tasks as an agent",
+      "solution_summary": "Leverage AI tools to automate tasks and save time.",
+      "timestamp": "00:06:31"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents struggling with traditional methods can learn to leverage AI.",
+      "key_takeaway": "AI tools can help new agents compete with experienced ones by automating tasks."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Agents doing several deals a year can optimize their workflow.",
+      "key_takeaway": "AI can free up significant time by handling routine tasks."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Team leaders can implement AI strategies across their teams.",
+      "key_takeaway": "AI strategies can be rolled out to entire teams for increased efficiency."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:09",
+      "end_timestamp": "00:04:35",
+      "quote": "This is the stuff nobody is teaching...the actual systems and workflows.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the unique value of the upcoming AI event.",
+      "suggested_hook": "Discover the AI secrets that top agents are using to dominate the market."
+    },
+    {
+      "timestamp": "00:06:39",
+      "end_timestamp": "00:06:45",
+      "quote": "I'm going to hand you back...19 hours a week with these tools.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "It promises a significant time-saving benefit.",
+      "suggested_hook": "How would you like to gain back two and a half workdays each week?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI to automate follow-up emails and client communications.",
+      "context": "For agents overwhelmed with manual tasks.",
+      "timestamp": "00:06:31"
+    },
+    {
+      "tactic": "Implement AI-driven market analysis for local expertise.",
+      "context": "To position yourself as the local real estate expert.",
+      "timestamp": "00:09:11"
+    }
+  ],
+  "quotable_insights": [
+    "The agents who figure out AI right now are going to dominate the next five years of this business.",
+    "You don't have a work ethic problem. You have a leverage problem."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead conversion and nurturing."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Recommended for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, D.J. Paris announces an upcoming AI event aimed at revolutionizing how real estate agents leverage technology. The episode discusses the importance of AI tools in lead generation, agent recruitment, and productivity enhancement, offering actionable strategies to save time and improve efficiency.",
+  "_metadata": {
+    "source_file": "2026-03-27_item8358_D.J.-Paris",
+    "analyzed_at": "2026-11-14T11:00:49.220035",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Mark Gordon",
+    "title": "NAR Director, Immediate Past President of the Vail Board of REALTORS",
+    "company": "Christiani Realty",
+    "production_level": "Luxury real estate specialist",
+    "specialty": "Luxury and vacation real estate",
+    "location": "Vail, Colorado"
+  },
+  "main_topics": [
+    "Transition from corporate to boutique brokerage",
+    "Importance of reputation in real estate",
+    "Use of AI in real estate",
+    "Community involvement and its impact on business",
+    "Challenges and strategies in luxury real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Maintaining a strong personal brand in a small community",
+      "solution_summary": "Focus on authenticity and community involvement to build trust and reputation.",
+      "timestamp": "25:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Competing against large luxury brands as a boutique brokerage",
+      "solution_summary": "Offer personalized service and flexibility that large brands cannot match.",
+      "timestamp": "42:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Integrating AI into real estate operations",
+      "solution_summary": "Use AI for data analysis and process automation while maintaining human relationships.",
+      "timestamp": "33:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Mark's journey from a corporate brokerage to running a successful boutique firm offers insights into building a personal brand.",
+      "key_takeaway": "Your reputation and personalized service can be your strongest assets in a competitive market."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Understanding how to leverage AI and community involvement can enhance team performance.",
+      "key_takeaway": "AI can streamline operations, but human relationships are irreplaceable."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "Your reputation is the only real inventory you have.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement encapsulates the core of personal branding in real estate.",
+      "suggested_hook": "Why your reputation is your most valuable asset in real estate."
+    },
+    {
+      "timestamp": "33:00",
+      "end_timestamp": "33:45",
+      "quote": "AI is a tool, not a replacement for human relationships.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the fear that AI will replace real estate agents.",
+      "suggested_hook": "Here's why AI won't take your job in real estate."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use AI for comprehensive data analysis in CMAs.",
+      "context": "Apply AI to analyze trends over multiple years to provide accurate pricing strategies.",
+      "timestamp": "38:00"
+    },
+    {
+      "tactic": "Engage in local community activities to build trust.",
+      "context": "Participate in local councils and events to enhance your visibility and reputation.",
+      "timestamp": "26:00"
+    }
+  ],
+  "quotable_insights": [
+    "Luxury is not a price point; it's an experience.",
+    "Being a REALTOR is about being an ambassador to your community."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "RPR (Realtors Property Resource)",
+      "context": "Recommended for its powerful data analysis capabilities available to NAR members."
+    },
+    {
+      "type": "tool",
+      "name": "Real Scout",
+      "context": "Used for AI-driven property searches to enhance client service."
+    }
+  ],
+  "episode_summary": "In this episode, Mark Gordon shares his journey from a corporate brokerage to running a successful boutique firm in Vail, Colorado. He emphasizes the importance of reputation, community involvement, and personalized service in building a strong personal brand. Mark also discusses the role of AI in real estate, highlighting its potential to enhance operations while underscoring the irreplaceable value of human relationships.",
+  "_metadata": {
+    "source_file": "2026-03-24_item8342_Mark-Gordon",
+    "analyzed_at": "2026-11-14T11:00:12.888961",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

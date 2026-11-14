@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Eirik David Gislason",
+    "title": "REALTOR and Trainer",
+    "company": "Brown Harris Stevens",
+    "production_level": "Top producing associate broker",
+    "specialty": "Negotiation expertise",
+    "location": "New York"
+  },
+  "main_topics": [
+    "Negotiation strategies in real estate",
+    "The impact of AI on the real estate industry",
+    "Value proposition development",
+    "Handling difficult conversations with clients",
+    "Personalized coaching for real estate agents"
+  ],
+  "problems_addressed": [
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Agents struggle with negotiation skills",
+      "solution_summary": "Focus on win-win solutions and understanding the needs of both parties to create value.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Impact of AI on real estate practices",
+      "solution_summary": "Embrace AI for efficiency but focus on human elements like negotiation and client understanding.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Avoidance of difficult conversations like price reductions",
+      "solution_summary": "Set expectations early and use data to guide clients through necessary price adjustments.",
+      "timestamp": "31:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides advanced negotiation tactics and insights into leveraging AI.",
+      "key_takeaway": "Developing strong negotiation skills and understanding client needs can significantly enhance your real estate practice."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to reframe difficult client conversations and improve negotiation outcomes.",
+      "key_takeaway": "Reframing client interactions and focusing on value can renew your passion and effectiveness in real estate."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "08:30",
+      "end_timestamp": "09:30",
+      "quote": "AI will make us more efficient, but the human element of negotiation will always be crucial.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the fear of AI replacing human roles by emphasizing the irreplaceable value of human negotiation skills.",
+      "suggested_hook": "Worried about AI taking over real estate? Here's why your negotiation skills are still your biggest asset."
+    },
+    {
+      "timestamp": "34:00",
+      "end_timestamp": "35:00",
+      "quote": "In order to ensure you get the most possible money at closing, the best decision we can make right now is to adjust the price.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable script for handling price reduction discussions with clients.",
+      "suggested_hook": "Struggling with price reduction talks? Use this script to guide your clients confidently."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use pre-meetings to gather intel and set expectations.",
+      "context": "Before a listing presentation, have a brief call or Zoom to understand client needs and set the stage.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Reframe price reductions as a strategy to maximize closing value.",
+      "context": "When discussing price adjustments, focus on how it ensures the best possible outcome for the client.",
+      "timestamp": "33:00"
+    }
+  ],
+  "quotable_insights": [
+    "Negotiation is an information game.",
+    "Worst case scenario rarely plays out; focus on likely outcomes."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "podcast",
+      "name": "Sheerline Negotiation Mastery",
+      "context": "Eirik Gislason's podcast focusing on negotiation strategies."
+    }
+  ],
+  "episode_summary": "Eirik Gislason discusses the critical role of negotiation in real estate, emphasizing win-win strategies and the importance of understanding client needs. He explores the impact of AI on the industry, suggesting that while AI can enhance efficiency, human negotiation skills remain invaluable. The episode also covers tactics for handling difficult client conversations and the importance of a tailored value proposition.",
+  "_metadata": {
+    "source_file": "2026-02-27_item8308_Eirik-Gislason",
+    "analyzed_at": "2026-11-14T10:59:39.568056",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

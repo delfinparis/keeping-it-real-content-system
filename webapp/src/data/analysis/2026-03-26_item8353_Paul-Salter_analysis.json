@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "High Performance Hypnotherapist and Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Mindset coaching for real estate professionals",
+    "location": null
+  },
+  "main_topics": [
+    "Importance of structure for success",
+    "Emotional management in decision-making",
+    "Energy conservation through planning",
+    "Building emotional stability",
+    "Practical application of structure in life"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of structure leading to emotional decision-making",
+      "solution_summary": "Implement a pre-decided system of priorities and behaviors to remove emotions from decision-making.",
+      "timestamp": "09:00"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Wasting time and energy on daily decision-making",
+      "solution_summary": "Use end-of-day routines like 'Plan Tomorrow Today' to conserve cognitive energy and prepare for the next day.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Attention being hijacked by distractions",
+      "solution_summary": "Create a structured environment that limits distractions, such as keeping phones on airplane mode during focus periods.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode emphasizes the importance of structure, which is crucial for reaching top producer status.",
+      "key_takeaway": "Structure is the foundation of elite performance and can significantly enhance productivity and success."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Veterans may struggle with maintaining energy and focus, which structure can help address.",
+      "key_takeaway": "Implementing structure can conserve energy and prevent burnout by streamlining decision-making."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:06",
+      "end_timestamp": "10:36",
+      "quote": "Structure removes emotion from the equation of action taking.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement challenges the conventional wisdom that emotions should guide actions.",
+      "suggested_hook": "Are your emotions sabotaging your success? Here's why structure is the key."
+    },
+    {
+      "timestamp": "19:04",
+      "end_timestamp": "19:29",
+      "quote": "When you remove constant decision making, you reduce internal friction, second guessing, overwhelm and anxiety.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "This insight resonates with anyone feeling overwhelmed by daily decisions.",
+      "suggested_hook": "Feeling overwhelmed? Discover how structure can bring peace to your day."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Plan Tomorrow Today (PTT)",
+      "context": "Spend the last 10-15 minutes of your workday planning the next day to conserve energy and increase focus.",
+      "timestamp": "15:46"
+    },
+    {
+      "tactic": "Use structure to filter distractions",
+      "context": "Implement systems like keeping your phone on airplane mode to protect your attention.",
+      "timestamp": "18:08"
+    }
+  ],
+  "quotable_insights": [
+    "Structure is a pre-decided system of priorities, behaviors, and standards that removes the need to negotiate with your emotions in real time.",
+    "If it's not scheduled, it's emotional. And if it's emotional, it's inconsistent."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to convert leads and generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested as a recruiting and retention tool powered by AI to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the critical role of structure in achieving success in real estate. He emphasizes how structure removes emotional interference in decision-making, conserves energy, and builds emotional stability. Salter provides actionable tactics like 'Plan Tomorrow Today' to help agents implement structure and enhance their productivity.",
+  "_metadata": {
+    "source_file": "2026-03-26_item8353_Paul-Salter",
+    "analyzed_at": "2026-11-14T11:00:34.080163",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

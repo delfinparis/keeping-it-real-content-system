@@ -1,0 +1,88 @@
+{
+  "guest_info": {
+    "name": "Jason Caspert",
+    "title": "Director of Sales",
+    "company": "Corded",
+    "production_level": null,
+    "specialty": "AI-powered recruiting and retention",
+    "location": "New York"
+  },
+  "main_topics": [
+    "AI in real estate recruiting",
+    "Predictive analytics for agent retention",
+    "Importance of personalized communication",
+    "Recruiting strategies for brokerages",
+    "Challenges in real estate recruiting"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Identifying which agents are likely to move",
+      "solution_summary": "Using Corded's AI to predict agent movement and tailor recruitment strategies.",
+      "timestamp": "00:02:07"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Time-consuming recruitment processes",
+      "solution_summary": "Corded provides real-time data and insights to streamline recruitment efforts.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Retaining top talent within a brokerage",
+      "solution_summary": "Utilizing predictive analytics to identify agents at risk of leaving and proactively engaging them.",
+      "timestamp": "00:13:17"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "team_leader",
+      "relevance": "This episode provides insights into effectively recruiting and retaining agents.",
+      "key_takeaway": "Utilize data-driven strategies to predict agent movement and tailor your recruitment and retention efforts."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Understanding how brokerages recruit can help in evaluating potential firms.",
+      "key_takeaway": "Look for brokerages that use data-driven approaches to support agent growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:08:00",
+      "end_timestamp": "00:08:40",
+      "quote": "Corded's AI can predict which agents are likely to move, allowing recruiters to focus their efforts effectively.",
+      "clip_type": "surprising_statistic",
+      "why_clipworthy": "Highlights a unique selling point of Corded's technology.",
+      "suggested_hook": "Want to know which agents are likely to switch brokerages? Here's how AI can help."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Make 10 calls a day to potential recruits or current agents.",
+      "context": "To maintain a proactive recruitment and retention strategy.",
+      "timestamp": "00:47:40"
+    },
+    {
+      "tactic": "Use personalized data in communications with agents.",
+      "context": "To impress and engage agents by showing you understand their business.",
+      "timestamp": "00:10:30"
+    }
+  ],
+  "quotable_insights": [
+    "You're not learning anything when you're speaking. You learn when you listen."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "Recommended for its AI-powered recruiting and retention capabilities."
+    }
+  ],
+  "episode_summary": "In this episode, Jason Caspert discusses how Corded's AI technology is transforming real estate recruiting and retention by providing predictive analytics and personalized insights. The conversation highlights the importance of understanding agent needs and timing recruitment efforts effectively to enhance brokerage growth.",
+  "_metadata": {
+    "source_file": "2026-02-24_item8297_Jason-Caspert",
+    "analyzed_at": "2026-11-14T10:59:21.587994",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

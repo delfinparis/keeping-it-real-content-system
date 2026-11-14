@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Darwin Stephens",
+    "title": "CEO and Founder",
+    "company": "Ratter Group",
+    "production_level": "Multi-million dollar producer",
+    "specialty": "Luxury real estate",
+    "location": "Dallas, Texas"
+  },
+  "main_topics": [
+    "Transition from corporate to real estate",
+    "Building a personal brand in real estate",
+    "Utilizing technology in real estate",
+    "Networking and relationship building",
+    "Navigating the luxury real estate market"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Differentiating oneself in a crowded real estate market",
+      "solution_summary": "Develop a unique brand and leverage media exposure to establish credibility.",
+      "timestamp": "23:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads during a pandemic",
+      "solution_summary": "Leverage existing industry contacts and focus on development opportunities.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Breaking into the luxury real estate market",
+      "solution_summary": "Utilize business acumen and focus on understanding client needs without assumptions.",
+      "timestamp": "12:30"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into transitioning from a different career into high-level real estate.",
+      "key_takeaway": "Building a strong personal brand and leveraging past experiences can accelerate success in luxury real estate."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies for differentiating oneself and breaking into the luxury market.",
+      "key_takeaway": "Focus on understanding client needs and creating a unique brand to stand out."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I don't assume. I ask basic questions at first to confirm understanding and jump into it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a tactical approach to client interaction that can be immediately implemented.",
+      "suggested_hook": "Want to improve your client interactions? Start by asking the right questions."
+    },
+    {
+      "timestamp": "23:00",
+      "end_timestamp": "23:45",
+      "quote": "Immediately, even before I left my company, I knew I had to differentiate myself from all these agents.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to think about branding from the start.",
+      "suggested_hook": "Thinking about your brand? Here's why it's crucial from day one."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Attend networking events to build relationships and generate leads.",
+      "context": "Especially useful for new agents looking to break into luxury markets.",
+      "timestamp": "36:50"
+    },
+    {
+      "tactic": "Develop a unique personal brand to stand out in the market.",
+      "context": "Start this process even before fully transitioning into real estate.",
+      "timestamp": "23:00"
+    }
+  ],
+  "quotable_insights": [
+    "Business acumen is the edge in luxury real estate.",
+    "Don't assume; ask questions to truly understand client needs."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "Cordid.io",
+      "context": "Used for recruiting and retention by identifying agents likely to move."
+    }
+  ],
+  "episode_summary": "In this episode, Darwin Stephens shares his journey from corporate America to becoming a top luxury real estate agent. He emphasizes the importance of business acumen, personal branding, and leveraging technology to succeed in the luxury market. Darwin also discusses the value of networking and understanding client needs without assumptions.",
+  "_metadata": {
+    "source_file": "2026-03-11_item8318_Darwin-Stephens",
+    "analyzed_at": "2026-11-14T11:00:01.589180",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

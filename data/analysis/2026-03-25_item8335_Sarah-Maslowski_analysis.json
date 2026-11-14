@@ -1,0 +1,93 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": null,
+    "company": null,
+    "production_level": "$150M+ in volume from YouTube",
+    "specialty": "YouTube lead generation",
+    "location": "Metro Atlanta area"
+  },
+  "main_topics": [
+    "YouTube as a lead generation tool",
+    "Handling YouTube leads effectively",
+    "Importance of exploratory trips for relocation clients",
+    "Follow-up strategies for YouTube leads",
+    "Building trust through content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents not utilizing YouTube for client acquisition",
+      "solution_summary": "Create content that answers real questions and connects with potential clients.",
+      "timestamp": "00:03:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Agents mishandling initial contact with YouTube leads",
+      "solution_summary": "Set up a proper consultation via Zoom or Google Meet instead of launching into a sales pitch.",
+      "timestamp": "00:07:18"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Lack of follow-up with YouTube leads",
+      "solution_summary": "Regularly follow up with value, such as relevant videos or market updates, to stay top of mind.",
+      "timestamp": "00:12:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging YouTube to significantly increase lead generation.",
+      "key_takeaway": "YouTube leads come in warm, and building trust through content can lead to multiple transactions."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers a new approach to lead generation that can revitalize a stagnant business.",
+      "key_takeaway": "Switch to using YouTube for creating content that answers potential clients' questions and builds trust."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:14:32",
+      "end_timestamp": "00:15:04",
+      "quote": "One video, one phone call, one client who felt seen by my content, that turned into four transactions in $3 million in volume.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates the powerful impact of YouTube content on business growth.",
+      "suggested_hook": "Discover how one YouTube video led to $3 million in sales!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use an intake form to qualify YouTube leads.",
+      "context": "Direct leads to fill out a short Google form to ensure they are a good fit before investing time in a consultation.",
+      "timestamp": "00:08:01"
+    },
+    {
+      "tactic": "Encourage exploratory trips for relocation clients.",
+      "context": "Advise clients to visit the area before house hunting to ensure they are serious and informed.",
+      "timestamp": "00:10:29"
+    }
+  ],
+  "quotable_insights": [
+    "YouTube leads don't come in cold. They come in warm. Sometimes they come in hot."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to generate more business and convert leads effectively."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "Suggested for real estate recruiters to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "Sarah Maslowski shares how YouTube can be a powerful tool for real estate lead generation, emphasizing the importance of creating content that resonates with potential clients. She provides actionable strategies for handling YouTube leads, including using intake forms and encouraging exploratory trips for relocation clients. The episode highlights the significance of consistent follow-up and building trust through content.",
+  "_metadata": {
+    "source_file": "2026-03-25_item8335_Sarah-Maslowski",
+    "analyzed_at": "2026-11-14T11:00:24.233875",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

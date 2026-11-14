@@ -1,0 +1,96 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "High Performance Hypnotherapist and Mindset Coach",
+    "company": null,
+    "production_level": null,
+    "specialty": "Helping high performing agents, investors, and brokers unlearn destructive patterns",
+    "location": null
+  },
+  "main_topics": [
+    "The cost of indecision in real estate",
+    "Cognitive load theory and decision fatigue",
+    "The psychological impact of indecision",
+    "Strategies to overcome hesitation",
+    "Building self-trust and confidence through action"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Indecision and its impact on business performance",
+      "solution_summary": "Make decisions with enough information to act, rather than waiting for certainty, to maintain momentum and build confidence.",
+      "timestamp": "10:50"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Cognitive overload due to indecision",
+      "solution_summary": "Implement routines and rituals to reduce decision fatigue and conserve mental energy for more critical tasks.",
+      "timestamp": "17:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode addresses how indecision can halt progress and provides strategies to overcome it.",
+      "key_takeaway": "Decisive action builds clarity and confidence, enabling you to break free from stagnation."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode offers insights into maintaining momentum and making strategic decisions to achieve higher performance.",
+      "key_takeaway": "Waiting for certainty can kill momentum; instead, take action to gather feedback and refine your approach."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "10:50",
+      "end_timestamp": "11:11",
+      "quote": "Waiting for certainty kills momentum while decisive action builds clarity, confidence and results.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common belief that waiting for the perfect moment is beneficial.",
+      "suggested_hook": "Are you waiting for the perfect moment to act? Here's why that's holding you back."
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:30",
+      "quote": "Indecision is avoidance dressed up as analysis.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "This statement reframes indecision as a form of avoidance, offering a new perspective.",
+      "suggested_hook": "Think you're just being thorough? You might actually be avoiding action."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Plan tomorrow today to reduce decision fatigue.",
+      "context": "Lay out your priorities and tasks the night before to conserve energy for more important decisions.",
+      "timestamp": "18:50"
+    },
+    {
+      "tactic": "Use the 40-70 decision rule.",
+      "context": "Make decisions with 40-70% of the information to avoid paralysis by analysis.",
+      "timestamp": "10:50"
+    }
+  ],
+  "quotable_insights": [
+    "Indecision is costing you mightily.",
+    "Fear and courage can coexist."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to generate more business through effective lead conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting tool to identify agents looking to move."
+    }
+  ],
+  "episode_summary": "In this episode, Paul Salter discusses the hidden costs of indecision in the real estate industry and offers strategies to overcome it. By understanding cognitive load theory and decision fatigue, listeners can learn to make more effective decisions, conserve mental energy, and build self-trust and confidence through decisive action.",
+  "_metadata": {
+    "source_file": "2026-02-26_item8301_Paul-Salter",
+    "analyzed_at": "2026-11-14T10:59:29.258451",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

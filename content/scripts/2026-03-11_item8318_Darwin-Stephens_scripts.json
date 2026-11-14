@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "15:45",
+      "end_timestamp": "16:30",
+      "quote": "I don't assume. I ask basic questions at first to confirm understanding and jump into it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a tactical approach to client interaction that can be immediately implemented.",
+      "suggested_hook": "Want to improve your client interactions? Start by asking the right questions."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Want to improve your client interactions? Start by asking the right questions.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Ever feel like you're talking to clients but not really connecting? You're not alone. Many agents struggle to get past surface-level conversations. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Darwin Stephens says, 'I don't assume. I ask basic questions at first to confirm understanding and jump into it.' [ON-SCREEN: Ask Basic Questions] Most agents dive into sales pitches. Top producers start with questions. [ON-SCREEN: Confirm Understanding]\",\n    \"REFRAME/APPLICATION\": \"This matters because understanding your client's needs is the key to closing deals. You can start doing this today. Darwin closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Improve client interactions by asking the right questions. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientInteraction\", \"#TopProducerSecrets\", \"#RealEstateAgent\", \"#Networking\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents dive into sales pitches. Top producers start with questions.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "23:00",
+      "end_timestamp": "23:45",
+      "quote": "Immediately, even before I left my company, I knew I had to differentiate myself from all these agents.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Encourages agents to think about branding from the start.",
+      "suggested_hook": "Thinking about your brand? Here's why it's crucial from day one."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Thinking about your brand? Here's why it's crucial from day one.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Darwin Stephens shared a game-changing mindset shift on our podcast. You're new to real estate, eager to stand out, but unsure how to start. You're not alone. Most agents dive in without a brand strategy.\",\n    \"INSIGHT\": \"Darwin said, 'Immediately, even before I left my company, I knew I had to differentiate myself from all these agents.' [ON-SCREEN: Differentiate from day one] Most agents jump into the market without a clear brand. Top producers, like Darwin, start with a unique identity. [ON-SCREEN: Start with a unique identity]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start crafting your brand today. Darwin transitioned successfully by focusing on this from the start. [ON-SCREEN: Start crafting your brand today]\",\n    \"CTA\": \"Are you building your brand from day one — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Why branding from day one sets you apart in real estate. #RealEstateTips\",\n  \"HASHTAGS\": [\n    \"#RealEstateTips\",\n    \"#Branding\",\n    \"#RealEstateAgent\",\n    \"#PersonalBrand\",\n    \"#AgentSuccess\"\n  ],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents jump into the market without a clear brand. Top producers start with a unique identity.\"\n}\n```"
+  }
+]

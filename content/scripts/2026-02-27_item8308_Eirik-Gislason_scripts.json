@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "08:30",
+      "end_timestamp": "09:30",
+      "quote": "AI will make us more efficient, but the human element of negotiation will always be crucial.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the fear of AI replacing human roles by emphasizing the irreplaceable value of human negotiation skills.",
+      "suggested_hook": "Worried about AI taking over real estate? Here's why your negotiation skills are still your biggest asset."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Worried AI will replace you? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Eirik David Gislason says AI will make us more efficient, but it can't replace the human touch in negotiations. You're worried about AI taking over, but here's the part nobody talks about...\",\n    \"INSIGHT\": \"AI can streamline tasks, but negotiation is an art. Eirik emphasizes, 'The human element of negotiation will always be crucial.' [ON-SCREEN: Human negotiation is irreplaceable] Most agents fear AI, but top producers leverage it to enhance their skills. [ON-SCREEN: Enhance, don't replace]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start using AI to handle mundane tasks, freeing up time to hone your negotiation skills. [ON-SCREEN: Focus on negotiation today] This approach helped one agent close 47 deals last year.\",\n    \"CTA\": \"Are you using AI as a tool — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI won't replace your negotiation skills. Here's why they're still your biggest asset.\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#NegotiationSkills\", \"#RealEstateTips\", \"#AIinRealEstate\", \"#AgentSuccess\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"The human element of negotiation will always be crucial.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "34:00",
+      "end_timestamp": "35:00",
+      "quote": "In order to ensure you get the most possible money at closing, the best decision we can make right now is to adjust the price.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable script for handling price reduction discussions with clients.",
+      "suggested_hook": "Struggling with price reduction talks? Use this script to guide your clients confidently."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Struggling with price reduction talks? Here's your go-to script.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Eirik David Gislason shares a powerful script for those tough price reduction conversations. You're sitting with a client, and the market's shifted. You know a price adjustment is needed, but how do you bring it up without losing their trust?\",\n    \"INSIGHT\": \"Eirik suggests saying, 'In order to ensure you get the most possible money at closing, the best decision we can make right now is to adjust the price.' [ON-SCREEN: Adjust the price for best results] Most agents hesitate. Top producers use this direct approach to guide clients confidently. [ON-SCREEN: Confidence is key]\",\n    \"REFRAME/APPLICATION\": \"This matters because the market waits for no one. You can apply this today to keep your listings competitive. Eirik's approach helped him close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Have you tried this script yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Master price reduction talks with this proven script. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#PriceReduction\", \"#AgentAdvice\", \"#TopProducer\", \"#RealEstateSuccess\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents hesitate. Top producers use this direct approach to guide clients confidently.\"\n}\n```"
+  }
+]

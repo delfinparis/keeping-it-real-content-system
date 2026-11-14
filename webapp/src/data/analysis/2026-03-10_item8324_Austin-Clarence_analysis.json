@@ -1,0 +1,108 @@
+{
+  "guest_info": {
+    "name": "Austin Clarence",
+    "title": "Mortgage Loan Officer",
+    "company": "Nexa Mortgage",
+    "production_level": "Top producing",
+    "specialty": "Mortgage solutions for unconventional borrowers",
+    "location": "National"
+  },
+  "main_topics": [
+    "Current mortgage interest rates and market conditions",
+    "FHA loan limits and pricing strategies",
+    "Non-QM loans for self-employed and gig economy workers",
+    "DSCR loans for real estate investors",
+    "Identifying and converting 'ghost buyers'"
+  ],
+  "problems_addressed": [
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding and leveraging current interest rate trends",
+      "solution_summary": "Educate buyers on current rates and potential savings compared to previous years.",
+      "timestamp": "06:01"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Pricing strategies for listings to attract FHA buyers",
+      "solution_summary": "Price listings strategically around new FHA loan limits to open up more buyer opportunities.",
+      "timestamp": "15:19"
+    },
+    {
+      "category": "money_business",
+      "specific_problem": "Qualifying self-employed buyers who can't use traditional income verification",
+      "solution_summary": "Use non-QM loans that consider bank statements and cash flow instead of tax returns.",
+      "timestamp": "19:03"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Identifying potential buyers who don't realize they can qualify for a mortgage",
+      "solution_summary": "Educate and reach out to 'ghost buyers' who are unaware of non-traditional loan options.",
+      "timestamp": "30:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides insights into alternative financing options that can help close deals that seem impossible.",
+      "key_takeaway": "Understanding non-QM loans can unlock opportunities for clients who are self-employed or have unconventional income."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode offers strategies to expand client base and close more deals by leveraging current market conditions.",
+      "key_takeaway": "Stay informed about market trends and use them to educate clients, enhancing your value as an agent."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:54",
+      "end_timestamp": "06:29",
+      "quote": "This is huge. We really spent the past three and a half years praying for rates to drop below 6%. And here we are.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the excitement and significance of the current market shift.",
+      "suggested_hook": "The moment we've all been waiting for in the mortgage market is finally here!"
+    },
+    {
+      "timestamp": "30:05",
+      "end_timestamp": "30:35",
+      "quote": "Ghost buyers are the biggest untapped pipeline in most agents' databases.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Introduces a new concept that can significantly impact lead generation strategies.",
+      "suggested_hook": "Are you missing out on the biggest untapped pipeline of buyers?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Price listings under FHA loan limits to attract more buyers.",
+      "context": "Use this strategy to open up FHA opportunities for listings in the mid-500s.",
+      "timestamp": "15:19"
+    },
+    {
+      "tactic": "Educate potential buyers about non-QM loans.",
+      "context": "Reach out to self-employed or gig economy workers who may not qualify for traditional loans.",
+      "timestamp": "19:03"
+    }
+  ],
+  "quotable_insights": [
+    "Let's not be historians. Let's focus on the present and what's available now.",
+    "Ghost buyers are the biggest untapped pipeline in most agents' databases."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for agents to convert leads into buyers with effective CRM and marketing tools."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI-powered recruiting tool for identifying agents looking to move brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Austin Clarence discusses the current mortgage market, highlighting the drop in interest rates and its implications for buyers. He explains the importance of pricing strategies around FHA loan limits and introduces non-QM loans as a solution for self-employed buyers. Austin also emphasizes the potential of 'ghost buyers' and how agents can tap into this overlooked market segment.",
+  "_metadata": {
+    "source_file": "2026-03-10_item8324_Austin-Clarence",
+    "analyzed_at": "2026-11-14T10:59:51.316071",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

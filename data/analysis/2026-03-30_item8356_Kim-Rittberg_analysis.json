@@ -1,0 +1,71 @@
+{
+  "guest_info": {
+    "name": "Kim Rittberg",
+    "title": "Video Coach",
+    "company": "Not explicitly mentioned",
+    "production_level": "Not mentioned",
+    "specialty": "Video coaching for real estate agents and entrepreneurs",
+    "location": "Not mentioned"
+  },
+  "main_topics": [
+    "Creating authentic and engaging videos",
+    "Overcoming camera shyness",
+    "Building personal brand through video",
+    "Video content strategies for real estate agents",
+    "The PATCH method for video preparation"
+  ],
+  "problems_addressed": [
+    {
+      "category": "personal_brand",
+      "specific_problem": "Feeling cringey or inauthentic on camera",
+      "solution_summary": "Use the PATCH method (Preparation, Authenticity, Tranquility, Control, Happiness) to improve video presence and authenticity.",
+      "timestamp": "00:03:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents often struggle with creating video content that feels authentic and engaging.",
+      "key_takeaway": "Using the PATCH method can help new agents feel more comfortable and authentic on camera, enhancing their personal brand."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:03:59",
+      "end_timestamp": "00:04:06",
+      "quote": "The more comfortable and confident we are on camera, the more people can build that connection with us.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This statement emphasizes the importance of confidence in video marketing, which is crucial for personal branding.",
+      "suggested_hook": "Want to connect better with your audience through video? Here's the secret!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use bullet points instead of a script to maintain authenticity.",
+      "context": "When preparing for a video, jot down key points to stay on track without sounding robotic.",
+      "timestamp": "00:05:59"
+    }
+  ],
+  "quotable_insights": [
+    "People are there to learn from you, not to judge you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended as a technology partner for real estate agents to generate more business."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "An AI-powered recruiting and retention tool for identifying agents looking to change brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Kim Rittberg shares her expertise on creating authentic and engaging video content for real estate agents. She introduces the PATCH method to help agents overcome camera shyness and build their personal brand through video. The episode provides actionable insights into improving video presence and connecting with audiences effectively.",
+  "_metadata": {
+    "source_file": "2026-03-30_item8356_Kim-Rittberg",
+    "analyzed_at": "2026-11-14T11:00:58.269079",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

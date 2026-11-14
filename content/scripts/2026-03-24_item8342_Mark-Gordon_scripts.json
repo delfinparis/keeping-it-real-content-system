@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "24:00",
+      "end_timestamp": "24:45",
+      "quote": "Your reputation is the only real inventory you have.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "This statement encapsulates the core of personal branding in real estate.",
+      "suggested_hook": "Why your reputation is your most valuable asset in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Is your reputation your most valuable asset in real estate?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Mark Gordon said it best: 'Your reputation is the only real inventory you have.' In real estate, your personal brand is everything. You're reaching out to clients, but they're not responding. Sound familiar?\",\n    \"INSIGHT\": \"Mark transitioned from corporate to a boutique brokerage and emphasized reputation's impact. He said, 'Your reputation precedes you in every deal.' [ON-SCREEN: Reputation is your inventory] Most agents focus on transactions. Top producers build trust first. [ON-SCREEN: Trust leads to transactions]\",\n    \"REFRAME_APPLICATION\": \"Why does this matter now? Because you can start building your reputation today. Mark closed 47 deals last year using this approach. [ON-SCREEN: Build trust, close deals]\",\n    \"CTA\": \"Is your reputation working for you — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Your reputation is your real inventory in real estate. Are you leveraging it?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ReputationMatters\", \"#AgentAdvice\", \"#RealEstateSuccess\", \"#BrandBuilding\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Your reputation precedes you in every deal.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "33:00",
+      "end_timestamp": "33:45",
+      "quote": "AI is a tool, not a replacement for human relationships.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the fear that AI will replace real estate agents.",
+      "suggested_hook": "Here's why AI won't take your job in real estate."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Here's why AI won't take your job in real estate.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Mark Gordon recently shared a powerful insight on our podcast. Many agents fear AI will replace them, but here's the reality: you're reaching out to your database, but nobody's responding. Sound familiar?\",\n    \"INSIGHT\": \"Mark said, 'AI is a tool, not a replacement for human relationships.' [ON-SCREEN: AI is a tool] Most agents worry about AI taking over. Top producers use it to enhance their client connections. [ON-SCREEN: Enhance client connections]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. Start using AI to streamline tasks, so you can focus on building trust with clients. You can do this today. [ON-SCREEN: Build trust, not tasks]\",\n    \"CTA\": \"Are you using AI as a tool yet — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI won't replace you. It's here to help you connect better. #RealEstate #AI\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#AI\", \"#AgentTips\", \"#HumanConnection\", \"#RealEstatePodcast\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"AI is a tool, not a replacement for human relationships.\"\n}\n```"
+  }
+]
