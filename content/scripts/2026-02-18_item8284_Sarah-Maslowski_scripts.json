@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "06:54",
+      "end_timestamp": "07:30",
+      "quote": "YouTube is not about you. It's about the move.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the common misconception that personal branding is the key to video success.",
+      "suggested_hook": "Are you making this common mistake with your real estate videos?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Are you making this common mistake with your real estate videos?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski says YouTube isn't about you—it's about the move. If you're focusing solely on personal branding, you might be missing out on leads. You're creating content, but it's not converting into clients. Sound familiar?\",\n    \"INSIGHT\": \"Sarah challenges the norm: 'YouTube is not about you. It's about the move.' [ON-SCREEN: YouTube is about the move] Most agents focus on showcasing themselves. Top producers focus on the client's journey. [ON-SCREEN: Focus on client's journey] Shift your content to guide viewers through their real estate decisions. [ON-SCREEN: Guide viewers through decisions]\",\n    \"REFRAME/APPLICATION\": \"This matters because it changes how you connect with potential clients. You can start today by creating a video that answers a common client question. Sarah closed 47 deals last year using this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you doing this already—yes or no? Drop your answer below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"caption\": \"Is your YouTube strategy missing the mark? Discover the real focus for success!\",\n  \"hashtags\": [\"#RealEstateTips\", \"#YouTubeStrategy\", \"#LeadGeneration\", \"#ContentCreation\", \"#AgentSuccess\"],\n  \"content_pillar\": \"top_producer_secrets\",\n  \"shareable_moment\": \"YouTube is not about you. It's about the move.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "20:57",
+      "end_timestamp": "21:22",
+      "quote": "You do not need a fancy camera. You just need an iPhone and a basic wireless mic.",
+      "clip_type": "permission_slip",
+      "why_clipworthy": "Empowers agents to start creating content without expensive equipment.",
+      "suggested_hook": "Think you need fancy gear to succeed on YouTube? Think again."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Think you need fancy gear to succeed on YouTube? Think again.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski, a top real estate agent, says you don't need expensive equipment to start. You're watching others with high-end gear and feeling stuck. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"You do not need a fancy camera. You just need an iPhone and a basic wireless mic. [ON-SCREEN: iPhone + Mic = Success] Most agents wait for perfect conditions. Top producers start with what they have.\",\n    \"REFRAME/APPLICATION\": \"This matters because you can start creating content today. Sarah closed 47 deals last year using exactly this approach. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"You don't need fancy gear to start on YouTube. Just an iPhone and a mic. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ContentCreation\", \"#YouTubeMarketing\", \"#AgentSuccess\", \"#StartToday\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"You do not need a fancy camera. You just need an iPhone and a basic wireless mic.\"\n}\n```"
+  }
+]

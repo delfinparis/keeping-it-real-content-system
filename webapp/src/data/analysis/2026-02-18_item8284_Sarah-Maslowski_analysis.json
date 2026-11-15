@@ -1,0 +1,107 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube for real estate lead generation",
+    "location": "Metro Atlanta"
+  },
+  "main_topics": [
+    "Using YouTube for real estate lead generation",
+    "Creating effective video content",
+    "Converting YouTube views into clients",
+    "Consistency in content creation",
+    "Equipment for video production"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Agents posting videos on social media with zero results",
+      "solution_summary": "Focus on YouTube with search-first content that answers relocation-based questions.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Views not turning into conversations",
+      "solution_summary": "Provide low-pressure calls to action and focus on building trust through honest content.",
+      "timestamp": "14:49"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Agents overwhelmed by content creation",
+      "solution_summary": "Film one high-quality video per week and batch content to maintain consistency.",
+      "timestamp": "18:54"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides a new approach to lead generation through YouTube, which can help agents stuck with traditional methods.",
+      "key_takeaway": "Focus on creating honest, search-intent-driven content on YouTube to attract serious leads."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn a simple, effective strategy for building a client base without traditional cold calling.",
+      "key_takeaway": "Start with basic equipment and focus on consistency rather than perfection in video production."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "06:54",
+      "end_timestamp": "07:30",
+      "quote": "YouTube is not about you. It's about the move.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "This challenges the common misconception that personal branding is the key to video success.",
+      "suggested_hook": "Are you making this common mistake with your real estate videos?"
+    },
+    {
+      "timestamp": "20:57",
+      "end_timestamp": "21:22",
+      "quote": "You do not need a fancy camera. You just need an iPhone and a basic wireless mic.",
+      "clip_type": "permission_slip",
+      "why_clipworthy": "Empowers agents to start creating content without expensive equipment.",
+      "suggested_hook": "Think you need fancy gear to succeed on YouTube? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create pros and cons videos about your area.",
+      "context": "Focus on honesty and include real drawbacks to build trust.",
+      "timestamp": "10:35"
+    },
+    {
+      "tactic": "Batch film two videos at a time.",
+      "context": "Helps maintain consistency with minimal time investment.",
+      "timestamp": "19:33"
+    },
+    {
+      "tactic": "Use search-first content strategy.",
+      "context": "Answer questions that potential movers are already asking.",
+      "timestamp": "08:33"
+    }
+  ],
+  "quotable_insights": [
+    "YouTube is not about you. It's about the move.",
+    "Viewers care far more about clarity and honesty than production value."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for turning soft leads into interested buyers."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for identifying agents looking to move brokerages."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her strategy for using YouTube to generate real estate leads by creating search-intent-driven content. She emphasizes the importance of consistency, honesty, and providing real value to potential clients. Sarah also dispels the myth that high production value is necessary, encouraging agents to start with basic equipment and focus on content quality.",
+  "_metadata": {
+    "source_file": "2026-02-18_item8284_Sarah-Maslowski",
+    "analyzed_at": "2026-11-15T10:58:56.374535",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

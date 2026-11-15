@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Andrea Gordon",
+    "title": "Top Producing REALTOR",
+    "company": "Compass",
+    "production_level": "Over 1,000 transactions",
+    "specialty": "Real estate in the Bay Area",
+    "location": "East Bay, California"
+  },
+  "main_topics": [
+    "Transition from theater to real estate",
+    "Finding your ideal client",
+    "Importance of authenticity and kindness",
+    "Marketing strategies for REALTORS",
+    "Listening skills in real estate"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Identifying ideal clients to avoid burnout",
+      "solution_summary": "Use a Venn diagram to map out personal likes and dislikes to identify best-fit clients.",
+      "timestamp": "21:00"
+    },
+    {
+      "category": "personal_brand",
+      "specific_problem": "Balancing multiple interests with a real estate career",
+      "solution_summary": "Integrate personal passions into your brand to attract like-minded clients.",
+      "timestamp": "23:00"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Predicting final sales prices in competitive markets",
+      "solution_summary": "Leverage deep market knowledge and past experiences to accurately predict sales outcomes.",
+      "timestamp": "33:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Andrea's journey from theater to top REALTOR offers a roadmap for those looking to excel.",
+      "key_takeaway": "Authenticity and leveraging personal strengths can lead to success in real estate."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "New agents can learn from Andrea's early career strategies and mindset.",
+      "key_takeaway": "Focus on learning and being authentic rather than immediate success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:30",
+      "end_timestamp": "10:15",
+      "quote": "By not knowing what I was doing... it didn't even occur to me to be frightened of anything.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Highlights the power of authenticity and fearlessness in starting a new career.",
+      "suggested_hook": "What if not knowing was your greatest asset?"
+    },
+    {
+      "timestamp": "39:00",
+      "end_timestamp": "39:45",
+      "quote": "People reveal themselves by the language that they pick to use.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Emphasizes the importance of listening to clients beyond their words.",
+      "suggested_hook": "Are you truly listening to your clients?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Take an improv class to improve adaptability and communication skills.",
+      "context": "Helps REALTORS think on their feet and handle unexpected situations.",
+      "timestamp": "15:00"
+    },
+    {
+      "tactic": "Use a Venn diagram to identify your ideal client.",
+      "context": "Map out personal likes and dislikes to find clients who align with your values.",
+      "timestamp": "22:00"
+    }
+  ],
+  "quotable_insights": [
+    "There's wisdom in experience and success leaves clues.",
+    "Authenticity and kindness are underutilized skills in real estate."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Realizations",
+      "context": "Andrea's upcoming book for REALTORS, focusing on applying theater skills to real estate."
+    }
+  ],
+  "episode_summary": "Andrea Gordon shares her journey from theater to becoming a top REALTOR in the Bay Area, emphasizing the importance of authenticity, kindness, and listening. She provides actionable insights on identifying ideal clients, leveraging personal strengths, and effective marketing strategies. Her unique perspective offers valuable lessons for both new and experienced agents.",
+  "_metadata": {
+    "source_file": "2026-02-11_item8267_Andrea-Gordon",
+    "analyzed_at": "2026-11-15T10:58:29.129701",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

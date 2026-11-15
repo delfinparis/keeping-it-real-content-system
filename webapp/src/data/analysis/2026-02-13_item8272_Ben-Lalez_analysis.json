@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Ben Lalez",
+    "title": "Chicago Broker",
+    "company": "Ben Lalez Group",
+    "production_level": "Top 1% broker",
+    "specialty": "Team leadership and skill development",
+    "location": "Chicago"
+  },
+  "main_topics": [
+    "Urgency in real estate",
+    "Hard work and productivity",
+    "Mindset and motivation",
+    "Lead conversion strategies",
+    "Agent recruitment and retention"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Lack of urgency among agents",
+      "solution_summary": "Operate with a sense of urgency as if your livelihood depends on it.",
+      "timestamp": "04:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Low conversion from leads",
+      "solution_summary": "Prioritize speed to lead and be prepared to take calls immediately.",
+      "timestamp": "05:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Over-reliance on planning without execution",
+      "solution_summary": "Focus on taking action rather than perfecting systems.",
+      "timestamp": "16:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode discusses the mindset and work ethic required to reach top production levels.",
+      "key_takeaway": "Success requires relentless urgency and hard work beyond what most agents realize."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Provides insights on how to break through plateaus by adopting a top producer's mindset.",
+      "key_takeaway": "Evaluate your current work ethic and increase your urgency to see better results."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "05:00",
+      "end_timestamp": "05:45",
+      "quote": "I move like my life depends on it, because it does.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the critical mindset shift needed for success.",
+      "suggested_hook": "Are you moving with the urgency your career demands?"
+    },
+    {
+      "timestamp": "19:00",
+      "end_timestamp": "19:45",
+      "quote": "If you want to double your business next year, you have to double the number of appointments you have.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable tactic for growth.",
+      "suggested_hook": "Want to double your business? Here's how."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Call every contact in your phone to maintain relationships and generate leads.",
+      "context": "Use this strategy to keep your phone ringing and maintain top-of-mind awareness.",
+      "timestamp": "13:00"
+    },
+    {
+      "tactic": "Create personalized videos for each property listing.",
+      "context": "Engage potential buyers and satisfy seller expectations by highlighting unique property features.",
+      "timestamp": "20:00"
+    }
+  ],
+  "quotable_insights": [
+    "Operate with a level of urgency that others don't quite understand.",
+    "Success requires working as if your life depends on it, because it does."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Recommended for lead generation and conversion."
+    },
+    {
+      "type": "tool",
+      "name": "corded.io",
+      "context": "AI tool for agent recruitment and retention."
+    }
+  ],
+  "episode_summary": "In this episode, Ben Lalez discusses the importance of urgency and hard work in achieving top producer status in real estate. He shares insights on maintaining a high level of productivity and the mindset needed to succeed. The episode also covers actionable strategies for lead generation and conversion, emphasizing the need for immediate action and personalized client engagement.",
+  "_metadata": {
+    "source_file": "2026-02-13_item8272_Ben-Lalez",
+    "analyzed_at": "2026-11-15T10:58:40.066867",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

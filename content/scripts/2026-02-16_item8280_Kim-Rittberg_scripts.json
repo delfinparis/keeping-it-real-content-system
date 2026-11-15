@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:41",
+      "end_timestamp": "00:05:05",
+      "quote": "Clarity is one of the most important things for an agent.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It emphasizes the importance of clarity in video content, which is actionable and specific.",
+      "suggested_hook": "Why clarity is crucial for your video success."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are your videos losing viewers in seconds?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kim Rittberg says clarity is key for agents. You're making videos, but they're not converting. You're frustrated because your message isn't landing.\",\n    \"INSIGHT\": \"Kim emphasizes, 'Clarity is one of the most important things for an agent.' [ON-SCREEN: Clarity is Key] Most agents ramble. Top producers get straight to the point. [ON-SCREEN: Straight to the Point] Make your message clear and concise to keep viewers engaged. [ON-SCREEN: Engage Viewers]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can refine your video clarity today. Kim's approach helped agents generate 3x more leads last year. [ON-SCREEN: 3x More Leads]\",\n    \"CTA\": \"Is your video message clear — yes or no? Drop your answer below.\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Clarity in your videos can triple your leads. Are you clear enough? #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#VideoMarketing\", \"#AgentSuccess\", \"#LeadGeneration\", \"#Clarity\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Clarity is one of the most important things for an agent.\"\n}\n```"
+  }
+]

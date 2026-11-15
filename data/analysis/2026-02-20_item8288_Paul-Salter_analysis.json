@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Paul Salter",
+    "title": "Mindset Coach and High Performance Hypnotherapist",
+    "company": "Unstuck Yourself Mindset",
+    "production_level": null,
+    "specialty": "Mindset coaching and subconscious reprogramming",
+    "location": null
+  },
+  "main_topics": [
+    "Mindset and emotional regulation",
+    "Overcoming limiting beliefs",
+    "Importance of rituals and habits",
+    "Mindfulness and self-awareness",
+    "Coaching and personal development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Struggling to take action despite knowing what to do",
+      "solution_summary": "Focus on mindset and emotional regulation rather than just systems; create space between yourself and your emotions.",
+      "timestamp": "08:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Fear of rejection when making calls",
+      "solution_summary": "Reframe the narrative and understand that the fear is a learned response that can be unlearned.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling overwhelmed by success and its sustainability",
+      "solution_summary": "Rebuild your relationship with success and create a sense of safety around it.",
+      "timestamp": "35:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode helps those who know what to do but struggle to take consistent action.",
+      "key_takeaway": "Your struggles are often mindset-related, not due to a lack of systems or knowledge."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "For those who have achieved success but feel overwhelmed and unsustainable.",
+      "key_takeaway": "Re-examine your beliefs about success and create rituals to support your well-being."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "18:00",
+      "end_timestamp": "19:00",
+      "quote": "There's magic in that millisecond where you can choose to feel different, think different, do different, be different.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It highlights the power of mindfulness and conscious choice.",
+      "suggested_hook": "Discover the magic of mindfulness in just a millisecond."
+    },
+    {
+      "timestamp": "31:00",
+      "end_timestamp": "32:00",
+      "quote": "Whenever a new level comes a new devil.",
+      "clip_type": "memorable_oneliner",
+      "why_clipworthy": "It's a catchy phrase that encapsulates the ongoing challenges of growth.",
+      "suggested_hook": "Why every new success brings new challenges."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create a daily ritual with your partner to foster connection.",
+      "context": "Spend 15 minutes each day focusing on each other, regardless of current mood.",
+      "timestamp": "21:00"
+    },
+    {
+      "tactic": "Use intentional transitions to shift mindset between tasks.",
+      "context": "Take a few deep breaths and set an intention before switching roles, such as from work to parenting.",
+      "timestamp": "26:00"
+    }
+  ],
+  "quotable_insights": [
+    "If you know what to do and you're not doing it, it's not a lack of knowledge problem; it's a mindset problem.",
+    "Whenever a new level comes a new devil."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Man's Search for Meaning",
+      "context": "Discussed as an example of finding meaning in difficult circumstances."
+    }
+  ],
+  "episode_summary": "In this episode, mindset coach Paul Salter discusses the importance of addressing mindset and emotional regulation to overcome barriers to success. He shares insights on creating effective rituals, the power of mindfulness, and how to reframe limiting beliefs to achieve personal and professional growth.",
+  "_metadata": {
+    "source_file": "2026-02-20_item8288_Paul-Salter",
+    "analyzed_at": "2026-11-15T10:59:08.500308",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
