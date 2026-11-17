@@ -1,0 +1,97 @@
+{
+  "guest_info": {
+    "name": "Kate Ziegler Romano",
+    "title": "Co-owner",
+    "company": "New Englander Real Estate",
+    "production_level": "N/A",
+    "specialty": "Real estate investment and client relationship management",
+    "location": "Boston, Massachusetts"
+  },
+  "main_topics": [
+    "Client relationship management post-closing",
+    "Real estate investment strategies",
+    "Balancing personal life and real estate business",
+    "Leveraging AI in real estate",
+    "Building and maintaining vendor relationships"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Agents are afraid to follow up with clients post-closing due to potential issues.",
+      "solution_summary": "Kate emphasizes the importance of proactively checking in with clients to maintain relationships and address any issues that arise, ensuring clients feel supported.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing multiple aspects of a real estate business efficiently.",
+      "solution_summary": "Kate and her husband use shared systems and daily planning to balance their real estate business, property management, and personal life.",
+      "timestamp": "00:55:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating referrals from past clients and vendors.",
+      "solution_summary": "Kate maintains strong relationships with clients and vendors, providing value through home maintenance tips and reliable contractor recommendations.",
+      "timestamp": "00:10:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "This episode provides strategies for maintaining client relationships and generating referrals, which can help intermediate agents grow their business.",
+      "key_takeaway": "Consistent, value-driven communication with clients post-closing can lead to more referrals and repeat business."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "For agents looking to elevate their business, the episode offers insights into leveraging investments and AI to streamline operations.",
+      "key_takeaway": "Integrating AI for tasks like comp analysis can free up time for client engagement and strategic growth."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:00",
+      "end_timestamp": "00:06:45",
+      "quote": "All houses need care, and that's a really unique value proposition because it presupposes that you are going to be there after the close.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of post-sale client engagement, a tactical approach not commonly emphasized.",
+      "suggested_hook": "Want to keep your clients coming back? Here's how to stay top of mind after the sale."
+    },
+    {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:45",
+      "quote": "Am I going to put on some gloves and pull a rat out of a boiler to make sure that we have a good experience? Yes, I will do that.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates dedication to client satisfaction, resonating emotionally with viewers.",
+      "suggested_hook": "How far would you go to ensure a client's happiness?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send seasonal maintenance reminders to clients post-closing.",
+      "context": "Helps clients maintain their homes and keeps the agent top of mind.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "tactic": "Use AI to automate comp analysis and save time.",
+      "context": "Allows agents to focus more on client relationships and less on repetitive tasks.",
+      "timestamp": "01:05:00"
+    }
+  ],
+  "quotable_insights": [
+    "There's always something wrong with a house, so get over the fear that your clients are going to blame you for it.",
+    "The transaction itself is just day one."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Claude",
+      "context": "Used for automating comp analysis and other repetitive tasks."
+    }
+  ],
+  "episode_summary": "Kate Ziegler Romano shares her strategies for maintaining strong client relationships post-closing, emphasizing the importance of proactive communication and seasonal maintenance reminders. She discusses how real estate investments provide financial stability and how AI tools can streamline business operations. Her approach to balancing personal and professional life offers valuable insights for agents looking to grow their business sustainably.",
+  "_metadata": {
+    "source_file": "2026-11-16_item8948_Kate-Ziegler-Romano",
+    "analyzed_at": "2026-11-17T11:49:12.662683",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

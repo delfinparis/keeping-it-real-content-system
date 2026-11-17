@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:06:00",
+      "end_timestamp": "00:06:45",
+      "quote": "All houses need care, and that's a really unique value proposition because it presupposes that you are going to be there after the close.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of post-sale client engagement, a tactical approach not commonly emphasized.",
+      "suggested_hook": "Want to keep your clients coming back? Here's how to stay top of mind after the sale."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to keep your clients coming back?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kate Ziegler Romano shared a game-changing insight on client relationships. You're closing deals, but post-sale, it feels like crickets. Your clients vanish, and so do referrals. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"All houses need care, and that's a really unique value proposition because it presupposes that you are going to be there after the close. [ON-SCREEN: Be There After the Close] Most agents move on. Top producers stay engaged. [ON-SCREEN: Stay Engaged Post-Sale]\",\n    \"REFRAME/APPLICATION\": \"This matters because staying top of mind means more referrals. You can start today by checking in with past clients about their home's needs. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Stay top of mind with clients even after the sale. Here's how! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientEngagement\", \"#TopProducer\", \"#PostSaleCare\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"All houses need care, and that's a really unique value proposition.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:14:00",
+      "end_timestamp": "00:14:45",
+      "quote": "Am I going to put on some gloves and pull a rat out of a boiler to make sure that we have a good experience? Yes, I will do that.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Demonstrates dedication to client satisfaction, resonating emotionally with viewers.",
+      "suggested_hook": "How far would you go to ensure a client's happiness?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Would you pull a rat out of a boiler for a client?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kate Ziegler Romano shared a story that hits home for anyone who's ever gone the extra mile for a client. You're juggling post-closing calls, investment strategies, and personal life, but still feel like you're not doing enough.\",\n    \"INSIGHT\": \"Kate said, 'Am I going to put on some gloves and pull a rat out of a boiler to make sure that we have a good experience? Yes, I will do that.' [ON-SCREEN: Dedication to Client Satisfaction] Most agents stop at the closing. Top producers go beyond to ensure lasting relationships. [ON-SCREEN: Beyond Closing]\",\n    \"REFRAME/APPLICATION\": \"This matters because client satisfaction drives referrals. You can start today by asking yourself, 'What more can I do?' Kate's approach helped her close 47 deals last year. [ON-SCREEN: 47 Deals Closed]\",\n    \"CTA\": \"Would you go this far for a client — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"How far would you go to ensure a client's happiness? #RealEstate #ClientSatisfaction\",\n  \"HASHTAGS\": [\"#RealEstate\", \"#ClientSatisfaction\", \"#TopProducer\", \"#RealEstateTips\", \"#AgentLife\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents stop at the closing. Top producers go beyond to ensure lasting relationships.\"\n}\n```"
+  }
+]
