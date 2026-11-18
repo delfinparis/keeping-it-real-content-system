@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Grant Muller",
+    "title": "Speaker, Author, Certified High Performance Coach, REALTOR",
+    "company": "Compass",
+    "production_level": "Top 1% Producer",
+    "specialty": "Helping real estate agents achieve more without endless hustle",
+    "location": "Denver, Colorado"
+  },
+  "main_topics": [
+    "Transition from top of mind to top of heart in client relationships",
+    "Grant Muller's personal journey from addiction to success",
+    "The importance of authenticity in real estate",
+    "Strategies for thriving in a challenging real estate market",
+    "The role of coaching in personal and professional development"
+  ],
+  "problems_addressed": [
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Feeling unfulfilled after achieving major goals",
+      "solution_summary": "Focus on fulfillment and the journey rather than just the end goal.",
+      "timestamp": "15:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Building genuine relationships with clients",
+      "solution_summary": "Create real, emotional connections and allow clients to be seen and appreciated.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Navigating a challenging real estate market",
+      "solution_summary": "Double down on proven strategies, reduce unnecessary expenses, and take massive action.",
+      "timestamp": "43:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights on achieving high performance without burnout.",
+      "key_takeaway": "Focus on building genuine relationships and aligning your business with your personal values."
+    },
+    {
+      "avatar_id": "burned_out_veteran",
+      "relevance": "Offers strategies to reignite passion and effectiveness in the real estate business.",
+      "key_takeaway": "Shift from a transactional mindset to a relationship-focused approach."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "15:00",
+      "end_timestamp": "16:00",
+      "quote": "Achievement comes from fulfillment, not the other way around.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the conventional wisdom of chasing goals for happiness.",
+      "suggested_hook": "Are you chasing goals for the wrong reasons?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "The greatest gift we can give another human being is to allow them to be seen and appreciated as they really are.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Highlights the importance of genuine connection in business.",
+      "suggested_hook": "Want to build deeper client relationships? Start here."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Send handwritten cards to acknowledge personal achievements of clients.",
+      "context": "Use this tactic to move from top of mind to top of heart.",
+      "timestamp": "50:00"
+    },
+    {
+      "tactic": "Engage with clients on social media by commenting on their posts.",
+      "context": "Celebrate their achievements and life events to build rapport.",
+      "timestamp": "49:00"
+    }
+  ],
+  "quotable_insights": [
+    "Fulfillment leads to achievement, not the other way around.",
+    "Allowing others to be seen and appreciated is a powerful gift."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Top of Heart",
+      "context": "Grant Muller's book on building genuine relationships in real estate."
+    },
+    {
+      "type": "website",
+      "name": "GrantMuller.com",
+      "context": "For more information on Grant's coaching and resources."
+    }
+  ],
+  "episode_summary": "In this episode, Grant Muller shares his journey from addiction to becoming a top 1% real estate producer. He emphasizes the importance of moving from being top of mind to top of heart with clients by building genuine relationships. Grant also discusses strategies for thriving in challenging markets and the role of coaching in achieving personal and professional growth.",
+  "_metadata": {
+    "source_file": "2023-08-24_item6725_Grant-Muller",
+    "analyzed_at": "2026-11-18T11:46:29.504509",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
