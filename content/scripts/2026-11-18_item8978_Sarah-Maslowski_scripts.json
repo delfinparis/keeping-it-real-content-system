@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "00:04:00",
+      "end_timestamp": "00:04:35",
+      "quote": "When you create a YouTube video, you're not simply creating something that people can watch on YouTube. You are creating a piece of content that has the potential to show up in several different places where people are searching for information.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the multi-platform potential of a single piece of content.",
+      "suggested_hook": "Are you maximizing the reach of your YouTube videos?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you maximizing the reach of your YouTube videos?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Sarah Maslowski shared a game-changing insight on our podcast. You're creating YouTube videos, but are they really working for you? Most agents post and hope for views, but there's a smarter way.\",\n    \"INSIGHT\": \"When you create a YouTube video, you're not simply creating something that people can watch on YouTube. You are creating a piece of content that has the potential to show up in several different places where people are searching for information. [ON-SCREEN: Multi-platform potential] Most agents stop at YouTube. Top producers leverage it across platforms. [ON-SCREEN: Leverage across platforms]\",\n    \"REFRAME/APPLICATION\": \"This matters because your content can reach buyers and sellers everywhere. You can start today by sharing your videos on social media and embedding them in blog posts. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Unlock the full potential of your YouTube videos! Are you leveraging them across platforms?\",\n  \"HASHTAGS\": [\"#RealEstateMarketing\", \"#YouTubeStrategy\", \"#ContentRepurposing\", \"#SEO\", \"#AgentTips\"],\n  \"CONTENT_PILLAR\": \"systems_that_scale\",\n  \"SHAREABLE_MOMENT\": \"Most agents stop at YouTube. Top producers leverage it across platforms.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "00:13:03",
+      "end_timestamp": "00:13:33",
+      "quote": "Some of these AI tools can search the public web. They can retrieve information from websites, insight the sources, and their answers.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals how AI tools are changing search dynamics.",
+      "suggested_hook": "Did you know AI tools can boost your content visibility?"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Did you know AI tools can boost your content visibility?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"You're creating content, but it feels like shouting into the void. Sarah Maslowski shares how AI is changing the game. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Some of these AI tools can search the public web. They can retrieve information from websites, insight the sources, and their answers. [ON-SCREEN: AI tools search public web] Most agents rely on basic search. Top producers leverage AI for deeper insights. [ON-SCREEN: Top producers leverage AI]\",\n    \"REFRAME/APPLICATION\": \"This matters because AI can amplify your reach today. Start integrating AI into your content strategy this week. Sarah's approach helped her close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you using AI in your strategy — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI tools are reshaping real estate marketing. Are you leveraging them?\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#ContentVisibility\", \"#AItools\", \"#RealEstateMarketing\", \"#KeepingItReal\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents rely on basic search. Top producers leverage AI for deeper insights.\"\n}\n```"
+  }
+]

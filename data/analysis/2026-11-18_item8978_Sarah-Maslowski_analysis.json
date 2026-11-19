@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Sarah Maslowski",
+    "title": "Real Estate Agent",
+    "company": null,
+    "production_level": "$150M+ producer",
+    "specialty": "YouTube-based real estate marketing",
+    "location": "North Georgia"
+  },
+  "main_topics": [
+    "Leveraging YouTube for real estate marketing",
+    "Integrating AI and Google search strategies",
+    "Content repurposing for SEO and GEO",
+    "Building a searchable content library",
+    "Creating client-focused content"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads without paid ads or cold calls",
+      "solution_summary": "Use YouTube videos to answer common client questions and leverage AI and Google search to increase visibility.",
+      "timestamp": "00:03:12"
+    },
+    {
+      "category": "time_productivity",
+      "specific_problem": "Maximizing content output without extra work",
+      "solution_summary": "Repurpose YouTube video scripts into blog posts using AI tools like ChatGPT.",
+      "timestamp": "00:15:01"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changes in search behavior",
+      "solution_summary": "Focus on creating content that answers detailed, conversational questions that potential clients are asking.",
+      "timestamp": "00:11:05"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides strategies to scale lead generation through content marketing.",
+      "key_takeaway": "Use YouTube as a foundational tool for creating a comprehensive search strategy that integrates with AI and Google."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers a clear, step-by-step process to start using YouTube effectively.",
+      "key_takeaway": "Begin with one good video and repurpose it across platforms to maximize reach."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:04:00",
+      "end_timestamp": "00:04:35",
+      "quote": "When you create a YouTube video, you're not simply creating something that people can watch on YouTube. You are creating a piece of content that has the potential to show up in several different places where people are searching for information.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "It highlights the multi-platform potential of a single piece of content.",
+      "suggested_hook": "Are you maximizing the reach of your YouTube videos?"
+    },
+    {
+      "timestamp": "00:13:03",
+      "end_timestamp": "00:13:33",
+      "quote": "Some of these AI tools can search the public web. They can retrieve information from websites, insight the sources, and their answers.",
+      "clip_type": "pattern_reveal",
+      "why_clipworthy": "Reveals how AI tools are changing search dynamics.",
+      "suggested_hook": "Did you know AI tools can boost your content visibility?"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Repurpose YouTube scripts into blog posts",
+      "context": "Use AI tools like ChatGPT to quickly convert video scripts into written content for your website.",
+      "timestamp": "00:15:16"
+    },
+    {
+      "tactic": "Link related blog posts",
+      "context": "Enhance SEO by connecting related articles on your website, helping search engines understand content relationships.",
+      "timestamp": "00:23:03"
+    }
+  ],
+  "quotable_insights": [
+    "You're creating a resource that somebody might find six months from now.",
+    "The search optimization is about making that information easier to find."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "ChatGPT",
+      "context": "Recommended for turning YouTube scripts into blog posts efficiently."
+    },
+    {
+      "type": "tool",
+      "name": "Real Geeks",
+      "context": "Advertised as a solution for lead conversion and CRM management."
+    }
+  ],
+  "episode_summary": "In this episode, Sarah Maslowski shares her strategy for leveraging YouTube as a cornerstone of a real estate marketing plan. She explains how to repurpose video content into blog posts using AI tools, enhancing visibility across Google and AI search platforms. The episode provides actionable insights on creating client-focused content that answers real questions, building a comprehensive library of resources that continue to generate leads over time.",
+  "_metadata": {
+    "source_file": "2026-11-18_item8978_Sarah-Maslowski",
+    "analyzed_at": "2026-11-19T11:44:27.343392",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

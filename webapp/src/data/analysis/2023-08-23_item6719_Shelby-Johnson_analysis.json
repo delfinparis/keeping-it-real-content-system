@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Shelby Johnson",
+    "title": "Top Producer and Veteran",
+    "company": "Five Pillars Real Estate with eXp",
+    "production_level": "Rookie of the Year, 48 transactions in first year",
+    "specialty": "Real Estate Investment and Coaching",
+    "location": "North and South Carolina"
+  },
+  "main_topics": [
+    "Transition from Military to Real Estate",
+    "Building a Sellable Real Estate Business",
+    "Importance of Systems and Operations",
+    "Leveraging Transaction Coordinators",
+    "Marketing and Client Retention Strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing high transaction volume as a solo agent",
+      "solution_summary": "Hiring a transaction coordinator to handle paperwork and timelines, allowing focus on sales and client relationships.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Overcoming the fear of failure and rejection",
+      "solution_summary": "Adopting a military mindset where 'no' is not an answer and finding alternative solutions.",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Finding effective lead generation strategies",
+      "solution_summary": "Testing various methods to find an authentic fit and then doubling down on that strategy.",
+      "timestamp": "41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Shelby shares her journey from zero to high production, offering a roadmap for new agents.",
+      "key_takeaway": "Focus on building systems and leveraging experienced mentors to accelerate learning."
+    },
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Shelby discusses scaling from a solo agent to a team leader with high transaction volume.",
+      "key_takeaway": "Implementing strong systems and hiring the right support can exponentially grow your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "09:00",
+      "end_timestamp": "10:00",
+      "quote": "In the military, 'no' is not an answer. You have to find a way.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "It challenges the common fear of rejection and failure in sales.",
+      "suggested_hook": "What if 'no' wasn't an option in your real estate career?"
+    },
+    {
+      "timestamp": "22:00",
+      "end_timestamp": "23:00",
+      "quote": "Hiring a transaction coordinator was the first real step up in my business.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Provides a clear, actionable step for agents looking to scale.",
+      "suggested_hook": "The one hire that can transform your real estate business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Hire a transaction coordinator",
+      "context": "To manage paperwork and timelines, freeing up time for client interactions and sales.",
+      "timestamp": "22:00"
+    },
+    {
+      "tactic": "Shadow top agents",
+      "context": "Learn systems and processes by observing successful agents in action.",
+      "timestamp": "17:00"
+    }
+  ],
+  "quotable_insights": [
+    "The military instills a sense of urgency within you, which is crucial in real estate.",
+    "Everything works in real estate; find what fits you and double down."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Rich Dad Poor Dad by Robert Kiyosaki",
+      "context": "Inspired Shelby to pursue real estate investing for passive income."
+    },
+    {
+      "type": "website",
+      "name": "Bigger Pockets",
+      "context": "Used by Shelby to learn about real estate investing."
+    }
+  ],
+  "episode_summary": "Shelby Johnson shares her journey from military service to becoming a top-producing real estate agent. She emphasizes the importance of systems, leveraging transaction coordinators, and finding authentic lead generation strategies. Shelby also discusses how to build a sellable real estate business and offers insights into maintaining client relationships and marketing effectively.",
+  "_metadata": {
+    "source_file": "2023-08-23_item6719_Shelby-Johnson",
+    "analyzed_at": "2026-11-19T11:44:12.695998",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
