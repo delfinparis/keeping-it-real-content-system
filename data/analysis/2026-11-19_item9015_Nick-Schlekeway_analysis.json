@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Nick Schleckaway",
+    "title": "Founder and Managing Broker",
+    "company": "Amherst Madison Real Estate Advisors",
+    "production_level": "Top 1% brokerage nationally",
+    "specialty": "Luxury real estate",
+    "location": "Boise, Idaho"
+  },
+  "main_topics": [
+    "Time management and productivity",
+    "Prospect generation and conversion",
+    "Luxury real estate strategies",
+    "Business planning and execution",
+    "Client relationship management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "time_productivity",
+      "specific_problem": "Ineffectiveness of time blocking every hour",
+      "solution_summary": "Focus on managing energy rather than time; prioritize high-energy tasks like prospecting in the morning.",
+      "timestamp": "00:06:39"
+    },
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating consistent prospects",
+      "solution_summary": "Implement a 411 referral model: four calls per year, one direct mail per month, and one digital contact per week.",
+      "timestamp": "00:45:04"
+    },
+    {
+      "category": "conversion_sales",
+      "specific_problem": "Converting prospects into clients",
+      "solution_summary": "Develop a buyer consultation process and raise personal standards to attract serious clients.",
+      "timestamp": "00:27:04"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into achieving high production levels through energy management and consistent prospecting.",
+      "key_takeaway": "Focus on high-energy tasks like prospecting early in the day and maintain consistent client outreach."
+    },
+    {
+      "avatar_id": "stuck_intermediate",
+      "relevance": "Offers strategies to break through plateaus by refining prospecting and conversion techniques.",
+      "key_takeaway": "Identify and focus on a few key prospecting methods and execute them consistently."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "00:06:39",
+      "end_timestamp": "00:07:44",
+      "quote": "You should focus on managing your energy as opposed to trying to manage time.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the common advice of time blocking and offers a fresh perspective on productivity.",
+      "suggested_hook": "Are you managing your time or your energy? Discover why the latter might be the key to success."
+    },
+    {
+      "timestamp": "00:32:09",
+      "end_timestamp": "00:33:08",
+      "quote": "Luxury is not a price point; it's a business operating system.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Reframes the concept of luxury in real estate, making it accessible to all agents.",
+      "suggested_hook": "Think luxury is just about high prices? Think again."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Implement the 411 referral model",
+      "context": "Use this model to maintain consistent contact with your sphere of influence.",
+      "timestamp": "00:45:04"
+    },
+    {
+      "tactic": "Prioritize high-energy tasks in the morning",
+      "context": "Focus on prospecting when your energy levels are highest to maximize effectiveness.",
+      "timestamp": "00:06:39"
+    }
+  ],
+  "quotable_insights": [
+    "Average is invisible. Consumers want to know who the best is in any category.",
+    "Focus is about saying no to everything that is outside of your niche or specialty."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Essential Agent",
+      "context": "Nick Schleckaway's book on systems-driven operating manual for agents."
+    },
+    {
+      "type": "tool",
+      "name": "Corded.io",
+      "context": "AI-powered recruiting and retention tool for real estate brokers."
+    }
+  ],
+  "episode_summary": "In this episode, Nick Schleckaway shares insights on managing energy over time, consistent prospect generation, and the importance of maintaining high standards in real estate. He discusses the 411 referral model and how luxury is more about service standards than price points. The episode is packed with actionable strategies for agents aiming to elevate their business.",
+  "_metadata": {
+    "source_file": "2026-11-19_item9015_Nick-Schlekeway",
+    "analyzed_at": "2026-11-20T11:23:53.264675",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
