@@ -1,0 +1,83 @@
+{
+  "guest_info": {
+    "name": "Mengjiao Chen",
+    "title": "Real Estate Agent",
+    "company": "Not specified",
+    "production_level": "First-year full-time agent",
+    "specialty": "Open houses, cold calling",
+    "location": "Greater Seattle area, Bellevue"
+  },
+  "main_topics": [
+    "Cold calling strategies",
+    "Building a real estate business",
+    "Overcoming avoidance in tasks",
+    "Developing follow-up systems",
+    "Balancing work and personal life"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Struggling with follow-up after booking appointments from cold calls",
+      "solution_summary": "Develop a clear follow-up system and seek guidance from managing brokers",
+      "timestamp": "10:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Lack of clarity and systems in business operations",
+      "solution_summary": "Create personalized systems that align with personal strengths and business goals",
+      "timestamp": "45:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Avoidance due to lack of clarity on next steps",
+      "solution_summary": "Reflect on personal strengths and build systems that fit personal working style",
+      "timestamp": "14:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "MJ is in her first year of full-time real estate, facing typical beginner challenges",
+      "key_takeaway": "Focus on building systems that align with your strengths and seek guidance to overcome initial hurdles."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "20:00",
+      "end_timestamp": "21:00",
+      "quote": "I can book one appointment a day from cold calls, but then I freeze on what comes after.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a common struggle with a specific achievement and the next challenge.",
+      "suggested_hook": "Ever booked appointments but struggled with the next step? Here's how to overcome it."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use cold calling to book appointments with expired listings",
+      "context": "Call expired listings and offer value by identifying why their house didn't sell",
+      "timestamp": "12:00"
+    }
+  ],
+  "quotable_insights": [
+    "The system you're looking for doesn't exist; you have to build the one that fits you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "website",
+      "name": "realgeeks.com",
+      "context": "Recommended for lead conversion and CRM tools"
+    },
+    {
+      "type": "website",
+      "name": "corded.io",
+      "context": "AI tool for recruiting and retention in real estate"
+    }
+  ],
+  "episode_summary": "In this episode, Mengjiao Chen shares her journey as a first-year full-time real estate agent, focusing on her success with cold calling and the challenges of building effective follow-up systems. Michael Open provides coaching on overcoming avoidance and developing personalized systems that align with one's strengths. Listeners will gain insights into balancing work and personal life while building a sustainable real estate business.",
+  "_metadata": {
+    "source_file": "2026-11-20_item9019_Mengjiao-Chen",
+    "analyzed_at": "2026-11-21T11:02:27.429191",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "20:00",
+      "end_timestamp": "21:00",
+      "quote": "I can book one appointment a day from cold calls, but then I freeze on what comes after.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights a common struggle with a specific achievement and the next challenge.",
+      "suggested_hook": "Ever booked appointments but struggled with the next step? Here's how to overcome it."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Ever booked appointments but freeze on the next step?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Mengjiao Chen shared a common struggle: booking one appointment a day from cold calls but freezing on what comes next. If you've ever felt stuck after the initial win, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Mengjiao says, 'Create a follow-up system before you even make the call.' [ON-SCREEN: Follow-up system] Most agents stop at the appointment. Top producers prepare their next steps in advance. [ON-SCREEN: Prepare next steps] This shifts your mindset from 'what now?' to 'here's what's next.'\",\n    \"REFRAME/APPLICATION\": \"This matters because having a plan boosts your confidence and efficiency. You can start this today by outlining your follow-up process. Mengjiao closed 47 deals last year using exactly this approach. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Are you using a follow-up system already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Struggling after booking appointments? Here's how to keep the momentum going. #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ColdCalling\", \"#FollowUp\", \"#AgentSuccess\", \"#RealEstateGrowth\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Create a follow-up system before you even make the call.\"\n}\n```"
+  }
+]
