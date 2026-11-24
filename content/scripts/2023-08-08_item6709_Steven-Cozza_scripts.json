@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "21:00",
+      "end_timestamp": "22:00",
+      "quote": "Consistency is key. It took me three years before I got business from my farm, but now I've made hundreds of thousands from it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the long-term value of consistent effort in lead generation.",
+      "suggested_hook": "Struggling to generate leads? Here's why consistency pays off in the long run."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Struggling with lead generation? Here's the secret to long-term success.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Steven Cozza, a former pro cyclist turned real estate agent, knows the pain of waiting for results. You're farming your area, sending out mailers, but nothing's coming back. It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Consistency is key. Steven shared, 'It took me three years before I got business from my farm, but now I've made hundreds of thousands from it.' [ON-SCREEN: Consistency is key] Most agents give up too soon. Top producers stay the course. [ON-SCREEN: Hundreds of thousands in revenue]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter? Because you can start applying this today. Stick with your strategy, and like Steven, you could see massive returns. [ON-SCREEN: Start today]\",\n    \"CTA\": \"Are you sticking with your lead generation plan — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Consistency in lead generation pays off. Are you in it for the long haul?\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LeadGeneration\", \"#ConsistencyIsKey\", \"#RealEstateSuccess\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Consistency is key. It took me three years before I got business from my farm, but now I've made hundreds of thousands from it.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "35:00",
+      "end_timestamp": "36:00",
+      "quote": "Focus on the top five things you want to achieve and let go of the rest.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Offers a practical approach to prioritizing tasks and goals.",
+      "suggested_hook": "Feeling overwhelmed? Try Warren Buffett's method for prioritizing your goals."
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Feeling overwhelmed? Try Warren Buffett's goal-setting secret.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Steven Cozza shared a game-changing mindset shift on our podcast. You're juggling endless tasks, feeling like you're spinning your wheels. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Focus on the top five things you want to achieve and let go of the rest. [ON-SCREEN: Focus on Top 5 Goals] Most agents try to do it all. Top producers prioritize. [ON-SCREEN: Prioritize Like Top Producers] Steven transitioned from cycling to real estate by mastering this focus. [ON-SCREEN: Steven Cozza's Transition]\",\n    \"REFRAME/APPLICATION\": \"Why this matters now? You can apply it today. Start by listing your top five goals. Steven built a successful team using this exact approach. [ON-SCREEN: Apply This Today]\",\n    \"CTA\": \"Are you focusing on your top five goals — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Feeling overwhelmed? Discover Warren Buffett's secret to prioritizing your goals.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#GoalSetting\", \"#MindsetShift\", \"#TopProducer\", \"#Focus\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Focus on the top five things you want to achieve and let go of the rest.\"\n}\n```"
+  }
+]

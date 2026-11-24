@@ -1,0 +1,78 @@
+{
+  "guest_info": {
+    "name": "Amanda McMillan",
+    "title": "CEO",
+    "company": "Chicago Home Partner",
+    "production_level": "Top 1% agent, Top 50 city agents in Chicago",
+    "specialty": "Referral-based business",
+    "location": "Chicago, IL"
+  },
+  "main_topics": [
+    "Building a referral-based business",
+    "Importance of client experience",
+    "Challenges of being an introverted REALTOR",
+    "Navigating real estate crises",
+    "Effective communication strategies"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Generating leads in a high-interest, low-inventory market",
+      "solution_summary": "Focus on creating raving fans through exceptional client service and leveraging referrals.",
+      "timestamp": "27:00"
+    },
+    {
+      "category": "client_management",
+      "specific_problem": "Maintaining client relationships between transactions",
+      "solution_summary": "Implement a client appreciation program with regular mailings and events to stay top-of-mind.",
+      "timestamp": "44:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into building a successful referral-based business model.",
+      "key_takeaway": "Focus on delivering exceptional client experiences to naturally generate referrals."
+    },
+    {
+      "avatar_id": "overwhelmed_newbie",
+      "relevance": "Offers guidance on choosing the right brokerage and training for new agents.",
+      "key_takeaway": "Select a brokerage with strong training programs and consider joining a team for support."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "31:00",
+      "end_timestamp": "32:00",
+      "quote": "I've done more business off of telling people not to do things if that's what I thought.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that agents should always push for transactions.",
+      "suggested_hook": "Why telling clients not to buy can actually boost your business."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Ask for client feedback and stay in touch through personalized mailings.",
+      "context": "Use client feedback to improve services and maintain relationships with regular updates.",
+      "timestamp": "44:00"
+    }
+  ],
+  "quotable_insights": [
+    "The success of a client doesn't necessarily mean a closing.",
+    "To be a great agent takes another level of strategy and sophistication."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "Love is the Killer App",
+      "context": "Recommended for understanding the value of collaboration and compassion in business."
+    }
+  ],
+  "episode_summary": "Amanda McMillan shares her journey as a top-producing REALTOR, emphasizing the importance of building a referral-based business through exceptional client service. She discusses the challenges and advantages of being an introverted agent and offers strategies for maintaining client relationships and generating leads in a competitive market.",
+  "_metadata": {
+    "source_file": "2023-08-14_item6713_Amanda-McMillan",
+    "analyzed_at": "2026-11-24T13:47:51.358987",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

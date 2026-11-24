@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Steven Cozza",
+    "title": "Team Leader",
+    "company": "Cozza Team",
+    "production_level": "Top 1% Producer",
+    "specialty": "Real Estate",
+    "location": "Sonoma, Marin County, North San Francisco Bay"
+  },
+  "main_topics": [
+    "Transition from professional cycling to real estate",
+    "Importance of consistency and discipline",
+    "Building a successful real estate team",
+    "Effective listing presentation strategies",
+    "The role of coaching and mentorship"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Difficulty in generating consistent leads",
+      "solution_summary": "Develop a consistent farming strategy and engage in community activities to build a strong local presence.",
+      "timestamp": "22:00"
+    },
+    {
+      "category": "mindset_motivation",
+      "specific_problem": "Dealing with rejection and failure",
+      "solution_summary": "Learn from losses and focus on getting back up quickly to achieve the next success.",
+      "timestamp": "14:00"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Managing time effectively as a real estate agent",
+      "solution_summary": "Prioritize tasks using Warren Buffett's method of focusing on the top five important goals.",
+      "timestamp": "35:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "The episode provides insights into how top producers maintain their success through consistency and strategic planning.",
+      "key_takeaway": "Consistency and a strong support system are key to sustaining high levels of production."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Steven discusses the importance of building a team and delegating tasks to focus on high-value activities.",
+      "key_takeaway": "Identify areas where you can delegate to improve efficiency and focus on growing your business."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "21:00",
+      "end_timestamp": "22:00",
+      "quote": "Consistency is key. It took me three years before I got business from my farm, but now I've made hundreds of thousands from it.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Demonstrates the long-term value of consistent effort in lead generation.",
+      "suggested_hook": "Struggling to generate leads? Here's why consistency pays off in the long run."
+    },
+    {
+      "timestamp": "35:00",
+      "end_timestamp": "36:00",
+      "quote": "Focus on the top five things you want to achieve and let go of the rest.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Offers a practical approach to prioritizing tasks and goals.",
+      "suggested_hook": "Feeling overwhelmed? Try Warren Buffett's method for prioritizing your goals."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use a seller questionnaire before listing presentations to understand client needs.",
+      "context": "Helps tailor the presentation to the client's specific requirements.",
+      "timestamp": "47:00"
+    },
+    {
+      "tactic": "Offer multiple commission options to clients.",
+      "context": "Provides clients with a sense of choice and reduces the need for negotiation.",
+      "timestamp": "50:00"
+    }
+  ],
+  "quotable_insights": [
+    "The best REALTORS are the best at getting back up because they know the sooner they get back up, the sooner they're going to have their next success.",
+    "If you can learn to cut commission out of it and focus on what it's going to take to get them to where they want to be, the commission will come."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "course",
+      "name": "Ninja Selling",
+      "context": "Recommended for its effective goal-setting techniques."
+    },
+    {
+      "type": "certification",
+      "name": "Certified Real Estate Negotiator (C. Ren)",
+      "context": "Provides essential negotiation skills for real estate transactions."
+    }
+  ],
+  "episode_summary": "In this episode, Steven Cozza shares his journey from professional cycling to becoming a top 1% real estate producer. He emphasizes the importance of consistency, discipline, and having a strong support system. Steven also discusses effective listing presentation strategies and the value of offering clients multiple commission options to enhance their decision-making experience.",
+  "_metadata": {
+    "source_file": "2023-08-08_item6709_Steven-Cozza",
+    "analyzed_at": "2026-11-24T13:47:38.142563",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}

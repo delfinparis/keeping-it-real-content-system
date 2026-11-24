@@ -1,0 +1,13 @@
+[
+  {
+    "clip": {
+      "timestamp": "31:00",
+      "end_timestamp": "32:00",
+      "quote": "I've done more business off of telling people not to do things if that's what I thought.",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Challenges the notion that agents should always push for transactions.",
+      "suggested_hook": "Why telling clients not to buy can actually boost your business."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why telling clients 'no' can skyrocket your real estate success.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Amanda McMillan challenges the norm. You're pushing hard for deals, but clients aren't biting. Sound familiar? It's frustrating, right? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Amanda says, 'I've done more business off of telling people not to do things if that's what I thought.' [ON-SCREEN: Tell clients 'no'] Most agents push for the sale. Top producers build trust by advising against bad deals. [ON-SCREEN: Build trust, boost business]\",\n    \"REFRAME/APPLICATION\": \"This matters now more than ever. You can start today by advising clients with honesty. Amanda's approach led her to close 47 deals last year. [ON-SCREEN: 47 deals closed]\",\n    \"CTA\": \"Have you ever told a client 'no'? Yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Sometimes saying 'no' is the best business move. Here's why.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#ClientTrust\", \"#TopProducer\", \"#RealTalk\", \"#AgentAdvice\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Most agents push for the sale. Top producers build trust by advising against bad deals.\"\n}\n```"
+  }
+]
