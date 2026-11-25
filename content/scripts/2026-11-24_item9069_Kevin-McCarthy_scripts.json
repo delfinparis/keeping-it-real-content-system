@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "25:00",
+      "end_timestamp": "26:10",
+      "quote": "The more these answer engines know about you and can read your site and learn about you, the more likely you are to be recommended.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of content for AI optimization.",
+      "suggested_hook": "Want to be the top agent AI recommends? Here's how!"
+    },
+    "script": "```json\n{\n  \"script\": {\n    \"HOOK\": \"Want to be the top agent AI recommends? Here's how!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kevin McCarthy shared a game-changing insight on our latest episode. You're creating content, but it's not getting you noticed. Your site isn't ranking, and AI isn't recommending you. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"The more these answer engines know about you and can read your site and learn about you, the more likely you are to be recommended. [ON-SCREEN: AI Recommends You] Most agents just post listings. Top producers create unique content that AI loves. [ON-SCREEN: Unique Content Wins]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? AI is reshaping how clients find agents. You can start today by updating your site with fresh, unique content. [ON-SCREEN: Start Today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Want AI to recommend you? Create unique content that stands out! #RealEstateTips\",\n  \"HASHTAGS\": [\"#RealEstateAI\", \"#AgentTips\", \"#ContentCreation\", \"#AIOptimization\", \"#TopProducer\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Most agents just post listings. Top producers create unique content that AI loves.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "34:08",
+      "end_timestamp": "35:00",
+      "quote": "Every change that AI makes to your website is stored in our history...and we have a big fat undo button.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Reassures users about the safety and control of AI-driven changes.",
+      "suggested_hook": "Worried about AI messing up your site? Real Geeks has you covered!"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Worried about AI messing up your site? Real Geeks has you covered!\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Kevin McCarthy shared a game-changer for agents worried about AI changes on their websites. If you've ever felt anxious about losing control over your site's content, you're not alone. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Every change that AI makes to your website is stored in our history...and we have a big fat undo button. [ON-SCREEN: AI Change History] This means you can experiment with confidence, knowing you can always revert back. [ON-SCREEN: Big Fat Undo Button]\",\n    \"REFRAME/APPLICATION\": \"Why does this matter now? Because you can start optimizing your site with AI today, risk-free. Imagine the possibilities when you know every change is reversible. [ON-SCREEN: Risk-Free Optimization]\",\n    \"CTA\": \"Are you ready to let AI take the wheel — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"AI changes on your site? No worries. Real Geeks has an undo button!\",\n  \"HASHTAGS\": [\"#AIintegration\", \"#RealEstateTech\", \"#AgentTips\", \"#WebsiteOptimization\", \"#RealGeeks\"],\n  \"CONTENT_PILLAR\": \"ai_agent\",\n  \"SHAREABLE_MOMENT\": \"Every change that AI makes to your website is stored in our history...and we have a big fat undo button.\"\n}\n```"
+  }
+]

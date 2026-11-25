@@ -1,0 +1,102 @@
+{
+  "guest_info": {
+    "name": "Kevin McCarthy",
+    "title": "Co-founder",
+    "company": "Real Geeks",
+    "production_level": null,
+    "specialty": "Real estate agent websites and CRM solutions",
+    "location": "Dallas, Texas"
+  },
+  "main_topics": [
+    "AI integration in real estate websites",
+    "Content creation for SEO and AI optimization",
+    "Real Geeks' AI Connect feature",
+    "Importance of unique content",
+    "Future of real estate agent discovery"
+  ],
+  "problems_addressed": [
+    {
+      "category": "lead_generation",
+      "specific_problem": "Low visibility on AI platforms",
+      "solution_summary": "Create unique, quality content on your website to improve chances of being recommended by AI like ChatGPT.",
+      "timestamp": "07:10"
+    },
+    {
+      "category": "systems_operations",
+      "specific_problem": "Time-consuming content management",
+      "solution_summary": "Use Real Geeks' AI Connect to automate content creation and management directly on your website.",
+      "timestamp": "20:04"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Understanding AI's role in real estate",
+      "solution_summary": "Recognize that AI bots are a significant portion of web traffic and optimize your site accordingly.",
+      "timestamp": "10:24"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "This episode provides insights on leveraging AI for better lead generation and visibility.",
+      "key_takeaway": "Focus on creating unique, local content that AI can index to improve your chances of being recommended."
+    },
+    {
+      "avatar_id": "team_leader",
+      "relevance": "Learn how to equip your team with tools that streamline content creation and improve SEO.",
+      "key_takeaway": "Implement AI tools like Real Geeks' AI Connect to enhance team productivity and website effectiveness."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "25:00",
+      "end_timestamp": "26:10",
+      "quote": "The more these answer engines know about you and can read your site and learn about you, the more likely you are to be recommended.",
+      "clip_type": "tactical_specificity",
+      "why_clipworthy": "Highlights the importance of content for AI optimization.",
+      "suggested_hook": "Want to be the top agent AI recommends? Here's how!"
+    },
+    {
+      "timestamp": "34:08",
+      "end_timestamp": "35:00",
+      "quote": "Every change that AI makes to your website is stored in our history...and we have a big fat undo button.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Reassures users about the safety and control of AI-driven changes.",
+      "suggested_hook": "Worried about AI messing up your site? Real Geeks has you covered!"
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Create content about local events and unique market features.",
+      "context": "Use AI to generate content that answers specific local queries.",
+      "timestamp": "14:03"
+    },
+    {
+      "tactic": "Utilize AI to automate content updates and management.",
+      "context": "Implement Real Geeks' AI Connect to streamline content processes.",
+      "timestamp": "20:04"
+    }
+  ],
+  "quotable_insights": [
+    "AI content is fine; it just needs to be good AI content.",
+    "The more information you can put out about yourself, the more likely that Claude or ChatGPT research is going to be able to find you."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "tool",
+      "name": "Real Geeks AI Connect",
+      "context": "Allows agents to automate content creation and management on their websites."
+    },
+    {
+      "type": "tool",
+      "name": "Google Search Console",
+      "context": "Used to track what keywords your website is ranking for."
+    }
+  ],
+  "episode_summary": "In this episode, Kevin McCarthy discusses the integration of AI in real estate websites, emphasizing the importance of unique content for SEO and AI optimization. He introduces Real Geeks' AI Connect, a tool that automates content creation, making it easier for agents to improve their online visibility. The conversation highlights the shift back to focusing on website content as a key strategy for lead generation and agent discovery.",
+  "_metadata": {
+    "source_file": "2026-11-24_item9069_Kevin-McCarthy",
+    "analyzed_at": "2026-11-25T12:39:02.468923",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
