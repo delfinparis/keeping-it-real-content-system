@@ -1,0 +1,73 @@
+{
+  "guest_info": {
+    "name": "Josh Myler",
+    "title": "Top Producer",
+    "company": "The Agency",
+    "production_level": "Top 1% producer",
+    "specialty": "High net worth individuals",
+    "location": "Beverly Hills, California"
+  },
+  "main_topics": [
+    "Emotional intelligence in real estate transactions",
+    "Career transition from tech to real estate",
+    "Working with high net worth clients",
+    "Importance of market knowledge",
+    "Client relationship management"
+  ],
+  "problems_addressed": [
+    {
+      "category": "client_management",
+      "specific_problem": "Managing client emotions during transactions",
+      "solution_summary": "Act as a guide and therapist to keep clients calm and focused on their goals.",
+      "timestamp": "24:00"
+    },
+    {
+      "category": "market_industry",
+      "specific_problem": "Adapting to changing market conditions post-COVID",
+      "solution_summary": "Educate clients on current market realities and focus on long-term opportunities.",
+      "timestamp": "41:00"
+    }
+  ],
+  "target_avatars": [
+    {
+      "avatar_id": "aspiring_top_producer",
+      "relevance": "Josh's insights into managing high net worth clients and maintaining emotional intelligence are crucial for agents aspiring to reach top producer status.",
+      "key_takeaway": "Focus on client relationships and emotional management to achieve long-term success."
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "timestamp": "16:45",
+      "end_timestamp": "17:30",
+      "quote": "There is really nothing like making someone happy and being a part of that process.",
+      "clip_type": "emotional_resonance",
+      "why_clipworthy": "Captures the essence of why real estate can be fulfilling beyond just financial gain.",
+      "suggested_hook": "Discover the true joy of being a real estate agent."
+    }
+  ],
+  "key_tactics": [
+    {
+      "tactic": "Use past market data to educate clients",
+      "context": "Show clients how market conditions have evolved over time to help them make informed decisions.",
+      "timestamp": "39:00"
+    }
+  ],
+  "quotable_insights": [
+    "Focus on the client, not just the deal.",
+    "Keep everyone calm; you're the captain of the boat."
+  ],
+  "resources_mentioned": [
+    {
+      "type": "book",
+      "name": "The Untethered Soul",
+      "context": "Recommended for understanding happiness and being of service."
+    }
+  ],
+  "episode_summary": "In this episode, Josh Myler shares his journey from tech to real estate, emphasizing the importance of emotional intelligence and client relationship management. He offers insights into working with high net worth clients and adapting to post-COVID market conditions, providing valuable advice for aspiring top producers.",
+  "_metadata": {
+    "source_file": "2023-07-31_item6706_Josh-Myler",
+    "analyzed_at": "2026-11-26T12:17:58.069547",
+    "provider": "openai",
+    "model": "gpt-4o"
+  }
+}
