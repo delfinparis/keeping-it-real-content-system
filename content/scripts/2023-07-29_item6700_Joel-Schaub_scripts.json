@@ -1,0 +1,24 @@
+[
+  {
+    "clip": {
+      "timestamp": "07:30",
+      "end_timestamp": "08:15",
+      "quote": "If you're able to make the payments on the mortgage, it's still a good time to buy a piece of real estate now.",
+      "clip_type": "mindset_shift",
+      "why_clipworthy": "Challenges the fear of buying in a high-rate environment by focusing on long-term benefits.",
+      "suggested_hook": "Why waiting for lower rates might cost you more in the long run."
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Why waiting for lower rates might cost you more.\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Joel Schaub challenges the fear of buying in a high-rate environment. You're worried about high interest rates and wondering if now's the right time to buy. But here's the part nobody talks about...\",\n    \"INSIGHT\": \"If you're able to make the payments on the mortgage, it's still a good time to buy a piece of real estate now. [ON-SCREEN: 'Good time to buy'] The long-term benefits outweigh the short-term rate concerns. [ON-SCREEN: 'Long-term benefits'] Most agents focus on rates. Top producers focus on value. [ON-SCREEN: 'Focus on value']\",\n    \"REFRAME/APPLICATION\": \"This matters because waiting might mean higher prices later. You can start applying this mindset today. Joel Schaub has helped countless clients navigate this exact scenario.\",\n    \"CTA\": \"Are you considering buying now despite the rates — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Don't let high rates scare you. The long-term benefits are worth it! #RealEstateAdvice\",\n  \"HASHTAGS\": [\"#RealEstateAdvice\", \"#MarketIntelligence\", \"#HomeBuying\", \"#InterestRates\", \"#RealEstateTips\"],\n  \"CONTENT_PILLAR\": \"market_intelligence\",\n  \"SHAREABLE_MOMENT\": \"Most agents focus on rates. Top producers focus on value.\"\n}\n```"
+  },
+  {
+    "clip": {
+      "timestamp": "19:30",
+      "end_timestamp": "20:15",
+      "quote": "Partner with somebody that actually wants to help you financially. What a novel idea, right?",
+      "clip_type": "contrarian_take",
+      "why_clipworthy": "Encourages agents to seek financial partnerships, not just service providers.",
+      "suggested_hook": "Are you leveraging your lender relationships to their full potential?"
+    },
+    "script": "```json\n{\n  \"SCRIPT\": {\n    \"HOOK\": \"Are you leveraging your lender relationships to their full potential?\",\n    \"BRAND_INTRO\": \"This is D.J. Paris with Keeping It Real Podcast, and this is your agent tip of the day.\",\n    \"SETUP\": \"Joel Schaub recently shared a game-changing insight on our podcast. If you're like most agents, you're probably working with lenders who provide services but not financial support. Sound familiar? But here's the part nobody talks about...\",\n    \"INSIGHT\": \"Joel suggests partnering with lenders who are willing to invest in your success. [ON-SCREEN: Partner with lenders who invest in you] He says, 'Partner with somebody that actually wants to help you financially. What a novel idea, right?' Most agents see lenders as service providers. Top producers see them as partners.\",\n    \"REFRAME/APPLICATION\": \"In today's market, building these financial partnerships can give you a competitive edge. You can start this week by having a conversation with your lender about mutual growth opportunities. [ON-SCREEN: Start this conversation today]\",\n    \"CTA\": \"Are you doing this already — yes or no?\",\n    \"CLOSE\": \"See you next time.\"\n  },\n  \"CAPTION\": \"Are you maximizing your lender relationships? Discover the secret to financial partnerships.\",\n  \"HASHTAGS\": [\"#RealEstateTips\", \"#LenderRelationships\", \"#AgentSuccess\", \"#RealEstatePodcast\", \"#TopProducerSecrets\"],\n  \"CONTENT_PILLAR\": \"top_producer_secrets\",\n  \"SHAREABLE_MOMENT\": \"Partner with somebody that actually wants to help you financially. What a novel idea, right?\"\n}\n```"
+  }
+]
